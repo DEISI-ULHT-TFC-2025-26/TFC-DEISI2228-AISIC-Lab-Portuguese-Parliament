@@ -1,0 +1,26 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "5",
+    "legislative_session": "1",
+    "number": "14",
+    "date": "1987-10-23"
+  },
+  "debate_id": "r3_5_1_14_1987-10-23",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 298,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quorum, pelo que declaro aberta a sessão."
+    }
+  ]
+}

@@ -1,0 +1,3946 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "10",
+    "legislative_session": "2",
+    "number": "98",
+    "date": "2007-06-22"
+  },
+  "debate_id": "r3_10_2_98_2007-06-22",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão. \nEram 10 horas e 10 minutos. \nSrs. Deputados presentes à sessão: \nPartido Socialista (PS): \nAgostinho Moreira Gonçalves \nAlberto Arons Braga de Carvalho \nAlberto Marques Antunes \nAlberto de Sousa Martins \nAlcídia Maria Cruz Sousa de Oliveira Lopes \nAldemira Maria Cabanita do Nascimento Bispo Pinho \nAna Maria Cardoso Duarte da Rocha Almeida Pereira \nAna Maria Ribeiro Gomes do Couto \nAntónio Alves Marques Júnior \nAntónio Bento da Silva Galamba \nAntónio José Ceia da Silva \nAntónio José Martins Seguro \nAntónio Ramos Preto \nAntónio Ribeiro Gameiro \nArmando França Rodrigues Alves \nArtur Miguel Claro da Fonseca Mora Coelho \nCarlos Alberto David dos Santos Lopes \nCláudia Isabel Patrício do Couto Vieira \nDavid Martins \nDeolinda Isabel da Costa Coutinho \nEsmeralda Fátima Quitério Salero Ramires \nFernanda Maria Pereira Asseiceira \nFernando dos Santos Cabral \nHorácio André Antunes \nHugo Miguel Guerreiro Nunes \nIsabel Maria Batalha Vigia Polaco de Almeida \nIsabel Maria Pinto Nunes Jorge \nJacinto Serrão de Freitas \nJaime José Matos da Gama \nJoana Fernanda Ferreira Lima \nJoaquim Ventura Leite \nJorge Filipe Teixeira Seguro Sanches \nJorge Manuel Capela Gonçalves Fão \nJorge Manuel Gouveia Strecht Ribeiro \nJorge Manuel Monteiro de Almeida \nJosé Adelmo Gouveia Bordalo Junqueiro \nJosé Alberto Rebelo dos Reis Lamego \nJosé Augusto Clemente de Carvalho \nJosé Carlos Bravo Nico \nJosé Eduardo Vera Cruz Jardim \nJosé Manuel Lello Ribeiro de Almeida \nJovita de Fátima Romano Ladeira \nJoão Barroso Soares \nJoão Carlos Vieira Gaspar \nJoão Cândido da Rocha Bernardo \nJoão Miguel de Melo Santos Taborda Serrano \nJúlio Francisco Miranda Calha \nLuiz Manuel Fagundes Duarte \nLuís Afonso Cerqueira Natividade Candal \nLuís António Pita Ameixa \nLuís Miguel Morgado Laranjeiro \nLuísa Maria Neves Salgueiro \nLúcio Maia Ferreira \nManuel Alegre de Melo Duarte \nManuel António Gonçalves Mota da Silva"
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a Sr.ª Secretária vai proceder à leitura do expediente."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, vou dar conta de uma rectificação a um parecer da Comissão de Ética. No segundo parágrafo, onde se lê «Autorizar o Sr. Deputado Agostinho Gonçalves (PS) prestar depoimento por escrito, como testemunha, no âmbito dos autos em referência», deve ler-se «Autorizar o Sr. Deputado Agostinho Gonçalves (PS) a prestar depoimento presencialmente, como testemunha, no âmbito dos autos em referência»."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos votar a rectificação em causa que é uma rectificação de substância, não uma mera rectificação indiferente a um voto.\nSubmetida à votação, foi aprovada por unanimidade.\nSrs. Deputados, vamos passar, agora, à apreciação, na generalidade, da proposta de lei n.º 135/X — Estabelece o regime especial dos processos relativos a actos administrativos de aplicação de sanções disciplinares previstas no Regulamento da Disciplina Militar.\nPara apresentar o diploma, tem a palavra o Sr. Ministro da Defesa Nacional."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 5,
+      "speaker": {
+        "id": 2964,
+        "name": "Nuno Severiano Teixeira",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Defesa Nacional (Nuno Severiano Teixeira)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, a proposta de lei que hoje aqui se discute constitui uma resposta pronta e, tanto quanto possível, eficaz aos problemas que se têm colocado às Forças Armadas em matéria de aplicação de regras de disciplina militar.\nEsta questão tem um contexto e o contexto é o de três mudanças importantes na ordem jurídica portuguesa: primeira, a evolução do texto constitucional que determinou, em 1997, o fim dos tribunais militares; segunda, a revisão do Código de Justiça Militar, que, em 2004, circunscreveu às matérias estritamente criminais a existência de regimes próprios para as questões de natureza militar; e, terceira, a reforma do contencioso administrativo, cujo efeito prático no que diz respeito à disciplina militar foi ter ficado garantida, por um lado, a parte da justiça, mas não ter ficado garantido, por outro lado e no que diz respeito à disciplina, o equilíbrio entre os direitos dos particulares e o interesse do Estado.\nQuer isto dizer que foi acautelada a justiça militar, mas que não foi acautelada a disciplina militar. Naturalmente que os acontecimentos recentes não podem deixar de ser ponderados — e foram-no —, mas são estas mudanças de longos anos no País e nas Forças Armadas que justificam e fundamentam a necessidade da proposta de lei que hoje aqui se traz.\nHá princípios fundamentais que se mantêm, desde logo a hierarquia e a disciplina militares — já o disse, mas penso que não é de mais recordá-lo, que sem disciplina não há Forças Armadas e sem Forças Armadas não há Estado de direito democrático!"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 5,
+      "speaker": {
+        "id": 1114,
+        "name": "António Alves Marques Júnior",
+        "party": "PS",
+        "string": "O Sr. Marques Júnior (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 5,
+      "speaker": {
+        "id": 2964,
+        "name": "Nuno Severiano Teixeira",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dito isto, qual é, então, o princípio que enforma esta proposta de lei? Não é, Srs. Deputados, um princípio de restrição de direitos; é, pelo contrário, um princípio de compatibilização de valores constitucionalmente consagrados e constitucionalmente protegidos.\nIsto é, por um lado, os valores próprios da disciplina militar e, por outro lado, os valores individuais da tutela dos direitos, liberdades e garantias dos cidadãos militares.\nÉ nesse sentido que o Governo submete à Assembleia esta proposta.\nNão se trata, portanto, de restrição de acesso à justiça ou aos tribunais; trata-se de conferir à disciplina militar a especificidade que lhe é própria, trata-se, afinal, de reconhecer que o acto que aplica regras de disciplina militar não é um acto administrativo indiferenciado — muito pelo contrário, é um acto específico que importa acautelar em sede própria.\nOptou-se aqui por uma solução que não veda aos militares o acesso à justiça civil — como, aliás, foi erroneamente difundido em certos sectores. Mantêm-se todas, repito, todas, as vias gerais de impugnação dos actos administrativos e do acesso aos meios cautelares gerais.\nEsta proposta, de um ponto de vista substantivo, trata de duas coisas: em primeiro lugar, elimina a possibilidade de existência de suspensão automática ou semi-automática de actos administrativos em matéria disciplinar, mas não elimina a suspensão."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Luís Campos Ferreira."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 6,
+      "speaker": {
+        "id": 1316,
+        "name": "Luís Álvaro Barbosa De Campos Ferreira",
+        "party": "PSD",
+        "string": "O Sr. Luís Campos Ferreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Ministros, Sr.as e Srs. Deputados: São bem conhecidas desta Câmara as alterações profundas que o sistema de justiça militar tem vindo a sofrer ao longo da última década.\nCom efeito, a quarta revisão da nossa lei fundamental, ocorrida em 1997, ao proceder à extinção dos tribunais militares em tempo de paz, obrigou a introduzir na ordem jurídica portuguesa modificações de variada índole em ordem a dar seguimento às opções então assumidas.\nIsso verificou-se, desde logo, no que diz respeito às novas competências atribuídas aos tribunais civis, que passaram a ser os depositários dos poderes anteriormente cometidos à jurisdição militar, mas teve igualmente consequências em matéria de justiça militar, conduzindo à aprovação, em 2003, de um Código actualizado e adaptado às novas realidades.\nDe todo esse conjunto de legislação, ficou, porém, ausente a revisão, que há muito se impõe tenha lugar, do Regulamento de Disciplina Militar.\nO Regulamento em vigor é, como sabemos, um documento já datado, elaborado que foi em 1977, antes mesmo da adopção do texto original da Lei de Defesa Nacional e das Forças Armadas.\nEssa simples constatação bastaria, por si só, para explicar a necessidade da sua revisão. Mas, se a isso juntarmos as consequências ao nível militar das alterações entretanto ocorridas no plano da justiça administrativa, com especial destaque para a existência de um novo código de processo nos tribunais administrativos, então compreender-se-á ainda melhor a premência de actuar neste domínio.\nO Governo anunciou recentemente a intenção de promover a revisão do Regulamento de Disciplina Militar.\nÉ, não receamos dizê-lo aqui, uma declaração importante, uma declaração que, pelo que já foi dito, não pode contudo ficar-se pelo domínio das intenções.\nO Governo tem, por isso, de agir e de o fazer com a rapidez e o bom senso que a seriedade do problema requerem.\nSr. Presidente, Sr. Ministro, Sr.as e Srs. Deputados: Enquanto se aguarda pela concretização do anúncio de revisão do Regulamento de Disciplina Militar, o Governo traz à nossa apreciação uma proposta de lei que visa «desde já estabelecer uma adequada articulação entre as normas disciplinares específicas das Forças Armadas e as regras gerais de protecção dos cidadãos contra actos da Administração Pública».\nÉ, pois, sobre o sentido geral dessa proposta, mais do que sobre os normativos concretos que a compõem, que hoje somos chamados a pronunciar-nos.\nOra, a disciplina militar, todos o sabemos, constitui um pilar estruturante da organização e do funcionamento de quaisquer Forças Armadas.\nSem ela, as Forças Armadas não poderiam cumprir as amplas missões que a Constituição lhes atribui; sem ela, as Forças Armadas não poderiam assumir o papel de trave-mestra da independência nacional; sem ela, as Forças Armadas não poderiam assegurar o escrupuloso cumprimento das leis pelas quais se regem; sem ela, no limite, as Forças Armadas deixariam de existir.\nA disciplina militar não pode, porém, ser vista, em si mesma, como um valor absoluto e, como tal, escapando à aplicação dos mecanismos de controlo da legalidade dos actos a ela atinentes.\nDe facto, ninguém ignora que o desempenho de funções nas Forças Armadas envolve, para aqueles que integram as suas fileiras, limitações ao exercício de alguns direitos fundamentais.\nFoi sempre assim, continua a ser assim — como se pode confirmar pela leitura de artigos da nossa Lei Fundamental, tais como os artigos 27.º ou o 270.º— e, no futuro, não poderá nunca deixar de ser assim.\nMas, para além desses constrangimentos — ditados, insista-se, pela própria natureza da instituição militar e das funções que lhe cabe desempenhar —, os que nela prestam serviço são cidadãos como todos os outros, cidadãos que, por isso mesmo, devem ter acesso a meios de protecção dos seus direitos funda-"
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 7,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ahhh…!"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 7,
+      "speaker": {
+        "id": 1316,
+        "name": "Luís Álvaro Barbosa De Campos Ferreira",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esse consenso foi conseguido, facto pelo qual nos congratulamos.\nComo partido responsável que é, o Partido Social-Democrata deu uma vez mais mostras de que está sempre disponível para ajudar na procura de soluções politicamente abrangentes em todas aquelas matérias que, como sucede com as Forças Armadas, devem ser vistas como questões de regime.\nInfelizmente, nem sempre o Governo e o Partido Socialista têm sido capazes de demonstrar idêntico sentido de Estado, como sucedeu, em momento recente, com a revisão da Lei de Defesa Nacional. Mas não será essa inconstância do Partido Socialista que determinará mudanças no nosso comportamento, porque nestas matérias, como em todas as outras questões, o Partido Social-Democrata guia-se apenas e só pela prossecução do interesse nacional e porque estamos convictos de que a nossa atitude ponderada e construtiva é precisamente a que melhor contribui para a defesa e a realização desse mesmo interesse nacional."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Rebelo."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 7,
+      "speaker": {
+        "id": 1275,
+        "name": "João Guilherme Nobre Prata Fragoso Rebelo",
+        "party": "CDS-PP",
+        "string": "O Sr. João Rebelo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Suponho que não suscitarei o desacordo de ninguém se afirmar que o respeito pela disciplina e pela hierarquia são as pedras angulares do funcionamento das Forças Armadas.\nO Regulamento de Disciplina Militar (RDM) estabelece o conceito de disciplina militar como «o laço moral que liga os diversos graus da hierarquia militar», nascido «da dedicação pelo dever» e que «consiste na estrita e pontual observância das leis e dos regulamentos militares». Obtém-se pela «convicção da missão a cumprir», e mantém-se através do «prestígio que nasce dos princípios de justiça empregados, do respeito pelos direitos, do cumprimento dos deveres, do saber, da correcção de proceder e da estima recíproca».\nA própria Constituição da República se refere à comunidade militar como uma «instituição nacional», que só poderá cumprir integralmente a missão que constitucionalmente lhe é atribuída — que consiste na defesa da independência nacional, da unidade do Estado e da integridade do território — se lhe forem garantidos os meios indispensáveis. Um desses meios é, de acordo com o Regulamento, a disciplina, sem a qual, salienta o RDM, «não haverá Forças Armadas».\nVêm estas afirmações a propósito da proposta de lei que hoje discutimos na generalidade, e que visa criar um regime especial para os processos relativos a actos administrativos de aplicação de sanções disciplinares previstas no RDM.\nCom efeito, a proposta de lei n.º 135/X preconiza a criação de um regime específico para o recurso, em matéria de disciplina militar, sem, no entanto, vedar aos militares o acesso às vias gerais de impugnação dos actos administrativos, nem a qualquer dos meios processuais gerais, inclusivamente os cautelares.\nEsta lei especial vai no sentido de eliminar o automatismo da suspensão dos actos administrativos e"
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 8,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 8,
+      "speaker": {
+        "id": 1275,
+        "name": "João Guilherme Nobre Prata Fragoso Rebelo",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pela nossa parte, gostaríamos que esse compromisso passasse para o articulado da lei, através da reformulação do artigo 7.º da proposta, pelo que ficaria mais claro.\nPara essa altura reservaremos a ponderação sobre outra matéria da proposta de lei que nos causa algumas dúvidas. Refiro-me à norma que prevê que os casos de disciplina militar vão passar a ser tratados por tribunais administrativos superiores, onde serão colocados juízes e assessores militares. Até agora estes processos eram tratados por tribunais administrativos comuns, de primeira instância."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 8,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E bem! É como tem de ser!"
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 8,
+      "speaker": {
+        "id": 1275,
+        "name": "João Guilherme Nobre Prata Fragoso Rebelo",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A nossa hesitação prende-se com o facto de o tribunal central administrativo poder conhecer de facto e de direito, ao passo que o Supremo Tribunal Administrativo apenas conhece de matéria de direito.\nOu seja, se aos tribunais centrais administrativos competir julgar em primeira instância, como vem previsto na proposta do Governo, os recursos jurisdicionais limitar-se-ão à matéria de direito, de acordo com a lei.\nSabemos que o Sr. Ministro da Defesa justificou a escolha dos tribunais superiores para o tratamento destes casos de disciplina militar por considerar que eles envolvem, muitas vezes, questões de garantia de direitos e da liberdade individual.\nOra, é precisamente por essa razão, acrescentamos nós, que a reapreciação da matéria de facto pode ser determinante. E, assim sendo, de duas uma: ou se consagra, neste regime especial, que o recurso jurisdicional permite sempre a reapreciação da matéria de facto ou não se altera a regra da competência prevista na lei em vigor — e, neste caso, temos um problema! Sr. Presidente, Sr.as e Srs. Deputados: Já em tempos tivemos oportunidade de referir, noutro debate, que bem faria o Governo se, em vez de procurar impedir os tribunais de defender a legalidade democrática, se preocupasse em clarificar os limites do poder disciplinar, assim como os direitos das associações e dos dirigentes associativos.\nÉ de referir que, quando proferimos tais afirmações, o Sr. Ministro tinha feito declarações que iam no sentido de que o Governo estaria a ponderar alterar o Regulamento de Disciplina Militar de forma a evitar que os tribunais civis interferissem em matéria de disciplina militar. Graças a Deus, mudou de opinião! Como todos sabemos, estas declarações foram proferidas na sequência de uma decisão judicial do Tribunal Administrativo e Fiscal de Sintra, que mandou suspender as penas de prisão de natureza disciplinar aplicadas aos dirigentes associativos militares que participaram no denominado «passeio do descontentamento», na sequência de uma providência cautelar pelos mesmos interposta junto daquele tribunal.\nAo abrigo das disposições processuais aplicáveis a todo e qualquer cidadão, e atenta a motivação dos recursos apresentados, o tribunal entendeu que as eventuais penas de prisão não deveriam ser de aplicação imediata.\nJá o Tribunal Administrativo de Círculo de Almada, contrariamente ao que havia decidido o seu congénere de Sintra, não suspendeu a eficácia da pena de prisão disciplinar aplicada, considerando que, «se um conjunto de profissionais se junta num mesmo local, por estarem insatisfeitos com decisões políticas, fazendo disso prévia publicidade, chamando os jornalistas e levando esse descontentamento ao conhecimento da população, é a todos os títulos evidente que estamos perante uma manifestação. É da natureza das coisas…» — são ainda as palavras do juiz do Tribunal Administrativo de Círculo de Almada que citamos — «… que a simples existência de uma manifestação de militares põe em causa a disciplina castrense».\nPortanto, a mesma situação em dois tribunais foram objecto de decisões totalmente opostas.\nPor nós, consideramos — já atrás o referi — que o respeito pela disciplina e pela hierarquia são as"
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 9,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 9,
+      "speaker": {
+        "id": 1275,
+        "name": "João Guilherme Nobre Prata Fragoso Rebelo",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por esta e por outras razões já mencionadas, impõe-se igualmente a rápida revisão do Regulamento de Disciplina Militar, para a qual o CDS-PP promete dar empenhada contribuição."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 9,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O CDS está a ultrapassar o Governo pela esquerda!"
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 9,
+      "speaker": {
+        "id": 1275,
+        "name": "João Guilherme Nobre Prata Fragoso Rebelo",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não gostaria de terminar sem referir o facto de S. Ex.ª o Presidente da República — que por inerência é também Comandante Supremo das Forças Armadas — ter considerado que esta iniciativa legislativa respeita os direitos, liberdades e garantias consagrados na Constituição da República Portuguesa e dá resposta ao que as Forças Armadas consideram ser necessário para o exercício das suas funções.\nDa mesma forma, deliberou o Conselho Superior de Defesa Nacional, que emitiu parecer favorável a esta proposta.\nO CDS-PP considera, de facto, que nestas matérias é muito importante o consenso alargado dos órgãos de soberania, bem como o consenso entre as várias forças políticas, pois que se trata de matéria do estatuto legal e disciplinar das Forças Armadas, e estas são o garante último do Estado de direito democrático.\nNeste sentido, votaremos favoravelmente a proposta de lei do Governo."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Alberto Antunes."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 9,
+      "speaker": {
+        "id": 10,
+        "name": "Alberto Marques Antunes",
+        "party": "PS",
+        "string": "O Sr. Alberto Antunes (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: O Governo apresenta a esta Câmara a proposta de lei n.º 135/X, relativa ao regime de recurso dos actos administrativos que consubstanciem a aplicação de sanções disciplinares previstas no Regulamento de Disciplina Militar.\nComo o exaustivo e douto relatório, apresentado e aprovado na Comissão de Defesa Nacional e elaborado pelo Sr. Deputado José de Matos Correia, muito bem anota, estão cumpridos os preceitos legais e regimentais que suportam a apresentação desta iniciativa legislativa.\nCom a presente proposta de lei pretende estabelecer-se, como se refere na exposição de motivos, «uma adequada articulação entre os normativos disciplinares e específicos das Forças Armadas — cuja especificidade, convirá sublinhar, tem assento constitucional — e as regras gerais de protecção dos cidadãos contra actos da Administração Pública».\nO acto que aplica as regras de disciplina militar não é um acto administrativo como outro qualquer, tem características peculiares que importa ter em conta.\nA disciplina militar é uma das referências mais significativas da condição militar e elemento fundamental da sua cultura. Ela é um pilar em que assenta a instituição militar.\nÉ esta matriz da instituição militar que a Constituição acolhe, valoriza e nos obriga a uma análise ponderada e à construção de um equilíbrio entre dois valores fundamentais: por um lado, o valor da disciplina militar; por outro, os direitos, liberdades e garantias e o emergente direito que aos cidadãos militares assiste de recurso aos tribunais.\nComo o Sr. Ministro da Defesa Nacional aqui salientou, no passado dia 18 de Maio, o objectivo do presente diploma prende-se com a necessidade de salvaguardar a disciplina militar — fundamental para o funcionamento das Forças Armadas e da democracia —, compatibilizando-a com o valor dos direitos, liberdades e garantias, em particular o valor do acesso à justiça por parte dos militares.\nCom a proposta que hoje apreciamos ficará assegurado todo o acesso dos militares à justiça, estabelecendo-se uma modulação particular quando se trate de actos que impõem sanções ao abrigo do Regulamento de Disciplina Militar.\nDeste tipo de actos administrativos cabe recurso, em primeira instância, para a secção do contencioso administrativo de cada tribunal central administrativo.\nNo que às providências cautelares tange estabelece-se o princípio de que, apenas, poderão ser decretadas quando haja fundado receio de constituição de uma situação de facto consumado e seja evidente a procedência da pretensão, por se tratar: de acto manifestamente ilegal, de aplicação de norma já anteriormente anulada, de acto idêntico a outro anulado, declarado nulo ou inexistente.\nAssim, como o diploma estabelece no seu articulado, só preenchendo estes critérios e ouvida a entidade recorrida será possível decretar a suspensão da eficácia deste tipo de actos.\nAs normas relativas às providências cautelares não limitam nem retiram direitos aos cidadãos que optaram pela vida militar e assumiram os direitos e deveres relativos a esta condição."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado António Filipe."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 10,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: \nO Sr. Ministro da Defesa Nacional veio dizer que o Governo traz uma resposta pronta para um problema que terá sido colocado à disciplina militar por via de alterações legislativas recentes em matéria de tribunais administrativos e de justiça militar, mas eu queria dizer que o Sr. Ministro está enganado porque, efectivamente, o recurso de decisões punitivas em matéria de disciplinar militar para os tribunais administrativos faz-se desde 1985, quando foi aprovada a Lei de Processo dos Tribunais Administrativos e Fiscais, em Julho desse ano.\nPortanto, a existir o problema, ele existe há 22 anos!… Aliás, em 1988, até há jurisprudência constitucional sobre esta matéria, reconhecendo as competências dos tribunais administrativos para se pronunciarem sobre esta matéria. Assim, o que acontece é que há 22 anos que se recorre de actos punitivos de disciplina militar para os tribunais administrativos.\nEm 1997, a revisão constitucional determinou a extinção dos tribunais militares em tempos de paz. A reforma do contencioso administrativo, por seu turno, foi feita por um governo do Partido Socialista, em Fevereiro de 2002, ou seja, há cinco anos e meio, e a reforma da justiça militar foi feita em 2004. Agora, em 2007, o Governo percebeu que havia um problema de compatibilização entre estas várias disposições legais.\nA razão para esta súbita descoberta é simples, Sr. Ministro: na verdade, não há qualquer incompatibilidade!! O que há é um falso problema que o Governo criou única e exclusivamente a partir do momento em que decidiu instrumentalizar a disciplina militar para fins estritamente políticos! Esta é que é a nova questão que existe agora e que não existia!!"
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 11,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares (Augusto Santos Silva)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é o Governo!"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 11,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os tribunais são impedidos de intervir em determinadas matérias.\nO Governo vem dizer que há um problema com a disciplina militar, que os actos de disciplina militar não são actos administrativos como os outros, mas, Sr. Ministro, os tribunais sabem disso! Julga que um juiz de um tribunal administrativo que seja chamado a decidir sobre uma matéria destas não sabe que está a tratar de matéria disciplinar e de matéria militar?! Os juízes não são néscios, Sr. Ministro!! Sabem muito bem do que estão a tratar, sabem o que é a instituição militar e sabem, evidentemente, que o seu dever é o de salvaguardar os direitos fundamentais dos cidadãos em qualquer circunstância, sejam eles civis ou militares! O problema do Governo não é com a disciplina militar. Na verdade, o que o Governo quer é, pela mão da hierarquia militar, instrumentalizar a disciplina para fins que lhe são estranhos. O Governo não quer impor a disciplina. O que o Governo quer é proibir o exercício de direitos associativos, usando o arsenal punitivo da disciplina militar como arma de punição política para quem conteste as suas decisões políticas.\nE para tal, Sr. Ministro, o Governo parece não recuar perante nada!! Numa das última reuniões em que o Sr. Ministro compareceu perante a Comissão de Defesa Nacional, perguntei-lhe directamente se tinha sido por ordem do Ministério da Defesa que alguém tinha sido encarregado de fotografar os participantes no chamado «passeio do descontentamento», por forma a que essas fotografias pudessem ser utilizadas na instrução de processos disciplinares. \nO Sr. Ministro, lembro-me perfeitamente, fez um ar incrédulo perante esta pergunta, estranhando-a, e negou peremptoriamente. Nós sabemos que as reuniões da Comissão de Defesa Nacional não são públicas, mas estão aqui muitos Srs. Deputados que não me deixam mentir e que se lembram de ouvir o Sr. Ministro afirmar que o Ministério da Defesa Nacional não tirava fotografias, ponto final!"
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 11,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nem tem fotógrafo!"
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 11,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pois bem, Sr. Ministro, eu tenho provas documentais de que V. Ex.ª ou ignorava o que o seu Ministério andava a fazer ou que faltou à verdade perante a Comissão. Tenho aqui uma cópia de um ofício que, fazendo parte de um processo disciplinar concluído com a punição do militar através de detenção disciplinar, foi acompanhado por um CD com fotografias utilizadas no processo disciplinar que conduziu a essa punição.\nEste ofício, que tem como assunto o «Visionamento de fotos enviadas à Força Aérea pelo Ministério da Defesa Nacional»…"
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 11,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ah! São fotos aéreas!"
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 11,
+      "speaker": {
+        "id": 1470,
+        "name": "Fernando José Mendes Rosas",
+        "party": "BE",
+        "string": "O Sr. Fernando Rosas (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não são, não!"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 11,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… diz o seguinte: «As fotos em epígrafe foram enviadas através do grupo WISE para todos os comandos funcionais e unidades da Força Aérea. Depois de analisadas pelos mesmos, foram identificados os seguintes militares em efectividade de serviço». A seguir a isto, vem uma lista dos militares"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 12,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É grave, Sr. Ministro!"
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 12,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ou seja, o Ministério da Defesa Nacional enviou fotografias à Força Aérea para que os fotografados fossem identificados, tendo as fotografias sido enviadas pelo tal grupo WISE. Pelos lesados foi, aliás, apresentada uma queixa-crime contra o Ministério da Defesa Nacional, porque, de facto, este procedimento configura um ilícito criminal.\nOra, eu não gostaria que o Sr. Ministro saísse daqui sem nos explicar o que é o grupo WISE. Será que existe alguma polícia secreta dentro do Ministério da Defesa Nacional? Será que o Ministério tem um departamento que se dedica a acções delatórias através da prática de ilícitos criminais ou será que isto é um outsorcing do Ministério da Defesa Nacional que se dedica a actos delatórios?"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 12,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso é na DREN!"
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 12,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Gostaria que o Sr. Ministro da Defesa, tendo em conta a gravidade que entendemos que este documento encerra, não saísse daqui sem nos explicar cabalmente o que é que o seu Ministério tem vindo a fazer nesta matéria e sem nos dar uma explicação cabal sobre o conteúdo deste ofício, que reputamos de extrema gravidade."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 12,
+      "speaker": {
+        "id": 1470,
+        "name": "Fernando José Mendes Rosas",
+        "party": "BE",
+        "string": "O Sr. Fernando Rosas (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Fernando Rosas."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 12,
+      "speaker": {
+        "id": 1470,
+        "name": "Fernando José Mendes Rosas",
+        "party": "BE",
+        "string": "O Sr. Fernando Rosas (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: A proposta de lei que hoje, aqui, discutimos pretende, alegadamente, conjugar a disciplina militar com a protecção dos direitos, liberdades e garantias dos militares no que se refere ao recurso de decisões disciplinares.\nEntre outros aspectos, esta proposta de lei estabelece um mecanismo especial da suspensão de eficácia dos actos que aplicam a disciplina militar, introduz «critérios especiais de decisão» de providências cautelares relativas à disciplina militar, bem como quanto ao decretamento provisório dessas providências, e prevê a intervenção de juízes e assessores militares junto dos tribunais que julguem decisões de disciplina militar.\nSendo tão pequena na sua extensão, a proposta é enorme quanto à gravidade dos atentados que anuncia. Passemos, pois, a enunciá-los.\nEm primeiro lugar, a alegada conjugação da disciplina militar com a protecção dos direitos, liberdades e garantias deve ser ponderada — se é que deve sequer ser ponderada — com o maior cuidado. Tendo as sanções disciplinares previstas no obsoleto Regulamento de Disciplina Militar uma natureza bastante particular e hoje controversa, a restrição do acesso à justiça é sempre inaceitável! Penas como as de repreensão ou repreensão agravada, detenção, proibição de saída ou prisão disciplinar são irreversíveis nos seus efeitos. São irreversíveis, também, no dano pessoal que causam à reputação do militar a partir do momento em que são aplicadas. Assim, não se compreende como, de acordo com esta proposta de lei, a mera ameaça de uma situação de facto consumado não é suficiente para poder suspender os actos em causa quando deles se recorre.\nDe facto, há que perguntar que efeitos tem a anulação de uma repreensão agravada, se o militar foi já repreendido. E de que vale anular uma pena de detenção quando o militar já foi obrigado a cumpri-la e privado da sua liberdade? Faz algum sentido ou acautela algum direito em termos efectivos? Já bastavam as situações de todos conhecidas e já publicitadas em que é a própria instituição militar que se recusa a cumprir as ordens judiciais, com isso invalidando completamente a sua eficácia! Tenha-se presente, a título de exemplo, a recente suspensão da pena de detenção de um sargento da Marinha que não foi acatada pela instituição, tendo o militar ficado ilegalmente detido por cinco dias, ao arrepio das regras do Estado de direito.\nSr. Presidente e Sr.as e Srs. Deputados: O que esta proposta de lei faz é dar cobertura legal a práticas ilegais que têm vindo até agora a ser regra em matéria disciplinar nas instituições militares, mas nem isso faz da prepotência e do abuso comportamentos legítimos ou aceitáveis. Se não existe efectiva tutela dos direitos fundamentais, todos esses direitos estão potencialmente afectados — é essa a situação criada por esta proposta de lei!! Reparem VV. Ex.as\n: de acordo com a proposta do Governo, para que uma providência cautelar em matéria disciplinar possa ser decretada, não basta o perigo de criação de uma situação de facto consumado. É"
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Ministro da Defesa Nacional."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 13,
+      "speaker": {
+        "id": 2964,
+        "name": "Nuno Severiano Teixeira",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Defesa Nacional",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, procurarei responder às questões que me foram postas e gostaria de começar por dizer que o Governo encara a questão da disciplina militar, a coesão das Forças Armadas, da forma como ela deve ser encarada, isto é, como uma questão de Estado, procurando o mais amplo consenso político no quadro do Estado. É assim que deve ser. Começando por uma questão que foi colocada por vários Srs. Deputados nas suas intervenções, ou seja, à pergunta no sentido de saber se se justifica, nesta altura, esta proposta de lei, devo dizer que sim, porque, tal como ainda há pouco o Sr. Deputado João Rebelo disse, face às mesmas situações, os tribunais decidiram em sentido contrário, nas mesmas situações, juízes diferentes tomaram decisões diferentes."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 13,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso é que tem de haver um tribunal de jurisdição!"
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 13,
+      "speaker": {
+        "id": 2964,
+        "name": "Nuno Severiano Teixeira",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Significa isto que é necessário clarificar essas regras.\nMas não é esta a razão fundamental. A razão fundamental é aquela que já referi e que tem a ver com a evolução da ordem jurídica, da sociedade portuguesa e das próprias Forças Armadas, porque há uma alteração fundamental. É isto que justifica a necessidade desta proposta de lei.\nA segunda questão que gostaria de abordar, e que foi levantada nas intervenções de vários Srs. Deputados, nomeadamente os Srs. Deputados João Rebelo, Campos Ferreira e Alberto Antunes, tem a ver com o regulamento de disciplina militar. O preâmbulo di-lo e eu gostaria de o reafirmar. Os trabalhos para a revisão do regulamento de disciplina militar estão bastante adiantados, é necessário proceder às consultas devidas, é necessário encontrar nesta matéria, porque também é uma questão de Estado, um maior consenso possível, mas o Governo, no cumprimento da lei, apresentará a esta Assembleia, no prazo previsto, a proposta de revisão do regulamento de disciplina militar, que, volto a frisar, é absolutamente indispensá-"
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 14,
+      "speaker": {
+        "id": 2964,
+        "name": "Nuno Severiano Teixeira",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Governo apresentará, dentro do prazo, a proposta de lei.\nQuanto à questão relativa aos tribunais administrativos superiores, também levantada por vários dos Srs. Deputados, em particular pelo Sr. Deputado João Rebelo, o facto de se enviar para um tribunal superior deve-se ao acto em causa, à gravidade do acto em causa. Note-se que não é para todos os actos, é quando está em causa a limitação da liberdade, situação em que é necessário um acréscimo de garantias, que é dado remetendo a competência para um tribunal superior.\nTambém gostaria de responder a algumas questões colocadas pelos Srs. Deputados António Filipe e Fernando Rosas.\nRelativamente à ideia de que esta reforma contraria o espírito da reforma no quadro da justiça, tenho uma opinião absolutamente contrária. Entendo que não só não contraria como complementa, ou seja, aquilo que foi acautelado em matéria de justiça militar não o foi na disciplina militar, aquilo que foi acautelado na matéria criminal não o foi na matéria administrativa e aquilo que está a fazer-se é justamente complementar esta matéria. Mais: o modelo da presença dos juízes e dos assessores militares vai nesse sentido, porque é aquele que é adoptado em matéria criminal.\nQuanto à questão que o Sr. Deputado António Filipe coloca sobre a instrumentalização que o Governo está a fazer da política da disciplina militar, devo dizer que o Governo não administra disciplina, e o Sr. Deputado sabe-o muito bem!"
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 14,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 14,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Então ao que é que vem esta legislação?!"
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 14,
+      "speaker": {
+        "id": 2964,
+        "name": "Nuno Severiano Teixeira",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quanto ao facto de se dizer que esta proposta é um atentado às associações e ao associativismo militar, gostaria de dizer ao Sr. Deputado que, nesta lei, não há qualquer referência a tal e, mais, não há qualquer relação entre disciplina — neste caso, indisciplina — e associativismo militar. Tenho os dirigentes e o associativismo militar noutra conta."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 14,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Hipocrisias, não!"
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 14,
+      "speaker": {
+        "id": 2964,
+        "name": "Nuno Severiano Teixeira",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, tenho de lho dizer.\nRelativamente às fotografias, questão que o Sr. Deputado António Filipe que colocou, devo dizer que tem um documento que desconheço. A única coisa que sei é que foi veiculado pela comunicação social.\nQuanto à pergunta que o Sr. Deputado me coloca sobre o WISE, direi que é um sistema de rede Intranet no quadro da Força Aérea Portuguesa. Sei que há uma queixa no Departamento de Investigação e Acção Penal (DIAP), que estará provavelmente em segredo de justiça. Não lhe posso dizer muito mais porque também não sei e, mesmo que quisesse, por causa do segredo de justiça, não o deveria fazer. Mas posso dizer-lhe que o Ministério da Defesa Nacional não tem competências na matéria por si referida, ou seja, o Ministro da Defesa não dá instruções, não dá ordens para tirar fotografias, o que, Sr. Deputado, gostaria que ficasse muito claro.\nGostaria de responder, agora, à questão colocada pelo Deputado Fernando Rosas a propósito da limitação feita aos direitos, liberdades e garantias dos cidadãos militares. A proposta, como, aliás, foi dito, é equilibrada, procura simultaneamente atender aos valores colectivos de disciplina militar, que são fundamentais para o funcionamento das Forças Armadas, sem ferir o essencial dos direitos, liberdades e garantias dos militares.\nEm primeiro lugar, a tutela efectiva existe. Ou seja, aquilo que se faz é uma modulação quando se trata de disciplina militar, mas fica aberta a possibilidade de suspensão. A suspensão não é eliminada, ela existe.\nO que não existe é o automatismo, porque, analisada substantivamente, ela existe e, portanto, em última instância, a tutela efectiva dos direitos existe."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 14,
+      "speaker": {
+        "id": 1470,
+        "name": "Fernando José Mendes Rosas",
+        "party": "BE",
+        "string": "O Sr. Fernando Rosas (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "De que é que vale a pena suspender uma pena de detenção quando ela já está cumprida?!"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 14,
+      "speaker": {
+        "id": 2964,
+        "name": "Nuno Severiano Teixeira",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas, Sr. Deputado, é preciso dizer que a proposta apresentada não altera os prazos.\nPortanto, desse ponto de vista, reafirmo que esta é uma proposta séria, equilibrada, que compatibiliza direitos individuais com valores colectivos e que, penso, deve merecer o apoio desta Câmara."
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para interpelar a Mesa, tem a palavra o Sr. Deputado António Filipe."
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 15,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, solicito a V. Ex.ª que faculte ao Sr. Ministro da Defesa Nacional o ofício de que disponho, que nada tem a ver com matéria de segredo de justiça, trata-se de um documento de um processo concluído.\nComo, pelos vistos, o Sr. Ministro desconhece que o Ministério da Defesa Nacional possui estas fotografias, faculto este documento que o Sr. Ministro passa, assim, a conhecer e em relação ao qual gostaria que nos desse uma explicação cabal."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado António Filipe, fará o favor de fazer chegar o documento à Mesa para que o mesmo seja distribuído.\nVamos passar à apreciação da proposta de lei n.º 136/X — Adapta o regime da Caixa Geral de Aposentações ao regime geral de segurança social em matéria de aposentação e cálculo de pensões.\nPara apresentar o diploma, tem a palavra o Sr. Secretário de Estado Adjunto e do Orçamento."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 15,
+      "speaker": {
+        "id": 3041,
+        "name": "Emanuel Augusto Santos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e do Orçamento (Emanuel Augusto Santos)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O XVII Governo Constitucional, considerando o problema da sustentabilidade económica e financeira do sistema de protecção social no médio e longo prazos, que o factor demográfico torna ainda mais premente, traçou no seu Programa como objectivo prioritário de acção a reforma do sistema da segurança social.\nEsta importante decisão contrasta marcadamente com o que se tinha passado nos três anos imediatamente anteriores, em que a falta de coragem política para fazer as reformas necessárias cedeu lugar à instalação do conformismo pusilânime e ao ditame das projecções catastrofistas das tendências, que, não se ousando contrariar, lançaram sombras de pessimismo irresponsável sobre o futuro das pensões dos portugueses."
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 15,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso foi o que o Governo fez!"
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 15,
+      "speaker": {
+        "id": 3041,
+        "name": "Emanuel Augusto Santos",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Começou este Governo de imediato com a convergência do regime de protecção social dos funcionários e agentes do Estado em relação ao regime geral da segurança social. A Lei n.º 60/2005, de 29 de Dezembro, consagrou as principais medidas nesse sentido. Designadamente, no tocante à idade da reforma, através de um processo gradual do aumento de seis meses em cada ano, a idade de reforma dos funcionários públicos passará a ser igual, em 2015, à da dos demais trabalhadores de Portugal. Repõese, assim, uma situação de igualdade de todos os cidadãos que trabalham no que ao direito à reforma diz respeito.\nA manutenção da iniquidade da diferenciação foi defendida pela oposição, que votou contra esta medida.\nAo mesmo tempo foram revogados os diversos regimes especiais que mais não eram do que a concretização de interesses corporativos que configuravam situações de injustiça e de iniquidade sociais.\nA oposição à esquerda e à direita preferiu defender o status quo, ou seja, o imobilismo dos interesses das corporações instaladas e votou contra.\nFicaram, assim, os portugueses a saber que, quando está em causa a defesa e a aplicação de princípios de justiça e igualdade dos cidadãos, a nossa oposição prefere servir de diapasão aos protestos das corporações atingidas, esquecendo que um dos deveres de um governo democrático é o de promover a coesão social através da aplicação do princípio da justiça social nas políticas públicas de redistribuição do rendimento.\nDepois destas medidas, o processo de reforma do sistema de protecção social continuou de forma mais ampla, envolvendo os parceiros sociais.\nApós um intenso período de debate público e de negociações, chegou-se ao importante acordo da reforma da segurança social, outorgado em Outubro passado, em sede de Comissão Permanente de Concertação Social."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 15,
+      "speaker": {
+        "id": 3041,
+        "name": "Emanuel Augusto Santos",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os princípios deste acordo foram já vertidos em lei, a nova Lei de Bases da Segurança Social, que mereceu a aprovação desta Câmara, no passado mês de Janeiro.\nCom esta reforma, reforçou-se a sustentabilidade financeira do sistema nas próximas décadas, devolvendo-se assim a confiança aos portugueses, que, com este novo sistema de pensões, têm garantido o pagamento das suas reformas ao fim de uma vida de trabalho."
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 16,
+      "speaker": {
+        "id": 1147,
+        "name": "Luís Afonso Cerqueira Natividade Candal",
+        "party": "PS",
+        "string": "O Sr. Afonso Candal (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 16,
+      "speaker": {
+        "id": 3041,
+        "name": "Emanuel Augusto Santos",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O valor das pensões de aposentação passa, assim, a ser influenciado pela aplicação de um factor de sustentabilidade que visa traduzir o impacto da evolução da longevidade sobre o financiamento do sistema. O impacto deste factor no valor da pensão é, no imediato, nulo."
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 16,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Assim sendo, morrem a trabalhar!"
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 16,
+      "speaker": {
+        "id": 3041,
+        "name": "Emanuel Augusto Santos",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Só no médio prazo, e na justa medida do aumento da esperança de vida aos 65 anos, é que se traduzirá num ajustamento do valor da pensão.\nTodavia, como sabemos, a esperança de vida é um factor que não podemos controlar.\nAssim sendo, não obstante o Governo tenha um conjunto de políticas para, melhorando as condições de vida dos portugueses, contribuir para o aumento da sua esperança de vida, não podemos excluir que poderá acontecer também que a esperança de vida, por uma razão não controlável, possa vir a diminuir.\nAssim, o impacto sobre o valor das pensões também poderia ser, neste caso, não de uma redução mas de um aumento."
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 16,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É preciso ter lata!"
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 16,
+      "speaker": {
+        "id": 3041,
+        "name": "Emanuel Augusto Santos",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É introduzido também, pela primeira vez, neste sistema público de protecção social, um regime de bonificação do valor das pensões, contemplando as situações em que os subscritores, reunindo as condições para se aposentarem, optem por não o fazer, permanecendo, voluntariamente, mais tempo na vida activa.\nA taxa de bonificação é determinada proporcionalmente ao escalonamento do tempo de serviço e a base de incidência será o número de meses de exercício efectivo de funções relevante para o efeito, já a partir de 2008, depois da entrada em vigor do presente diploma.\nParalelamente, harmoniza-se o regime de penalização por antecipação da reforma com o existente no novo sistema da segurança social, ou seja, uma taxa de 0,5% por cada mês de antecipação, perfazendo uma taxa anual de 6%.\nTodavia, entendeu o Governo, em concertação com os sindicatos que subscreveram os princípios e regras estabelecidos nesta proposta de lei, que esta norma só entrasse em vigor no final do período transitório previsto na Lei n.º 60/2005 e que até lá se aplicaria a taxa actualmente em vigor de 4,5% ao ano.\nOutro elemento importante, no plano da equidade e justiça sociais, foi a criação de um tecto máximo para a remuneração mensal relevante, utilizada no cálculo da pensão correspondente a 12 vezes o indexante dos apoios sociais, criado pela Lei n.º 53-B/2006, de 29 de Dezembro, e cujo montante, nos termos fixados neste mesmo diploma, tem por base a retribuição mínima mensal garantida.\nPara salvaguardar o esforço contributivo dos subscritores ou pensionistas que tenham descontado para a Caixa Geral de Aposentações nos últimos 12 anos com base em remuneração média mensal revalorizada superior àquele limite ficam os mesmos isentos da aplicação desta norma.\nPrevê-se, ainda, um tratamento especial para as pensões de aposentação atribuídas com fundamento"
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Secretário de Estado, queira concluir."
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 17,
+      "speaker": {
+        "id": 3041,
+        "name": "Emanuel Augusto Santos",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Assim, para estes casos, é estabelecido um prazo de garantia mínimo reduzido. O valor mínimo da pensão passa a ser igual ao valor da pensão mínima garantida no regime geral da segurança social e também, neste caso, não se aplica o factor de sustentabilidade.\nPor último, transpõe-se também o sistema de regras de actualização do valor das pensões previsto para os pensionistas e reformados do regime geral, diferenciando-se positivamente as pensões mais baixas, com a preocupação de aprofundar o sentido de justiça social, agora e já, também neste domínio, dos aposentados da função pública. Assim, as pensões de valor igual ou inferior a 1,5 indexantes de apoios sociais têm já, a partir de 1 de Janeiro de 2008, a garantia de uma actualização suficiente para que não se verifique perda no seu poder de compra.\nSr. Presidente, Sr.as e Srs. Deputados: São, pois, estas as principais medidas da proposta de lei que hoje submetemos à aprovação desta Assembleia da República. São medidas que reforçam a justiça social e a equidade intergeracional. Mas também são medidas necessárias e imprescindíveis para garantir, de forma sustentada, o pagamento das pensões futuras.\nÉ com reformas como estas que estamos a construir um futuro melhor para todos os portugueses."
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, estão inscritos três Srs. Deputados para pedir esclarecimentos, mas o Sr. Secretário de Estado não tem tempo para responder, a menos que haja a generosidade proverbial do grupo parlamentar que apoia o Governo, ou de outro.\nPausa."
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Uma vez que ninguém se manifesta, dou a palavra, para uma intervenção, ao Sr. Deputado Almeida Henriques."
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 17,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor."
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 17,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, no sentido de haver lugar às perguntas, julgo que o Grupo Parlamentar do Partido Socialista cederá 3 minutos para a resposta, para não haver prejuízo dos Srs. Deputados que queiram fazer as perguntas."
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Mas essa indicação não foi dada, Sr. Ministro dos Assuntos Parlamentares. Assim, não há tempo para as respostas.\nPausa.\nO PS transfere 3 minutos e o PSD 1 minuto para o Governo.\nPara pedir esclarecimentos, tem a palavra o Sr. Deputado Arménio Santos."
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 17,
+      "speaker": {
+        "id": 410,
+        "name": "Arménio Dos Santos",
+        "party": "PSD",
+        "string": "O Sr. Arménio Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado Adjunto e do Orçamento, a convergência do regime da Caixa Geral de Aposentações com o regime geral da segurança social foi iniciado em 1993 com a aplicação das regras de cálculo das pensões do regime geral aos subscritores inscritos na CGA a partir de 1 de Setembro daquele ano. Na altura, o Sr. Secretário de Estado não devia estar em Portugal, porque, se estivesse, seguramente, recordar-se-ia de que o Partido Socialista votou contra."
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 17,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 17,
+      "speaker": {
+        "id": 410,
+        "name": "Arménio Dos Santos",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sempre que o governo do Partido Social Democrata adoptava qualquer medida no sentido de imprimir uma política de maior rigor nas políticas sociais, o Partido Socialista assumia de imediato um discurso demagógico e irresponsável,…"
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 17,
+      "speaker": {
+        "id": 1275,
+        "name": "João Guilherme Nobre Prata Fragoso Rebelo",
+        "party": "CDS-PP",
+        "string": "O Sr. João Rebelo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 17,
+      "speaker": {
+        "id": 410,
+        "name": "Arménio Dos Santos",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… atitude que o Sr. Secretário de Estado agora criticou na sua intervenção."
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 18,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 18,
+      "speaker": {
+        "id": 410,
+        "name": "Arménio Dos Santos",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "De resto, a questão que gostaríamos de colocar aqui ao Sr. Secretário de Estado não é sobre os vários artigos constantes desta proposta de lei.\nPercebemos que o regime geral da segurança social e o regime da Caixa Geral de Aposentações precisam de adaptações, sempre defendemos, de forma responsável, políticas que garantissem o direito às prestações sociais dos nossos concidadãos e, por isso, não somos insensíveis às iniciativas que o Governo socialista ou qualquer outro adopte, independentemente de terem ou não a nossa assinatura.\nSr. Secretário de Estado, gostava de lhe colocar uma pergunta apenas respeitante à aposentação antecipada, referida no artigo 2.º da proposta de lei. O n.º 2 deste artigo 2.º vem alterar a penalização de 4,5% anuais para 0,5% mensais, ou seja, 6% anuais, entre a data do requerimento da aposentação e a idade dos 65 anos. Pergunto, Sr. Secretário de Estado, se assume ou não com clareza, se considera ou não, que estamos perante uma alteração duplamente penalizadora, já que não só aumenta de 4,5% para 6% a taxa anual de redução como, ainda, aumenta para os 65 anos a idade de referência, que, como sabe, até agora, é progressiva, pelo Anexo I da Lei n.º 60/2005, da autoria da maioria a que V. Ex.ª pertence.\nEm segundo lugar, o n.º 3 deste artigo 2.º diminui de 18 meses — actualmente em vigor — para, apenas, 12 meses o número de meses de antecipação a considerar na determinação da taxa global de redução da pensão. Pergunto — e assim termino — se considera ou não que estamos em presença de mais uma dura penalização para os trabalhadores da função pública."
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para pedir esclarecimentos, tem a palavra o Sr. Deputado Afonso Candal."
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 18,
+      "speaker": {
+        "id": 1147,
+        "name": "Luís Afonso Cerqueira Natividade Candal",
+        "party": "PS",
+        "string": "O Sr. Afonso Candal (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado Adjunto e do Orçamento, quero apenas, muito rapidamente, assinalar a relevância desta medida. A exemplo do que já foi feito para o regime geral da segurança social, agora também se criam regras mais justas para a Caixa Geral de Aposentações. É, porventura, a medida mais relevante e que fará mais história da autoria deste Governo, porque garante a sustentabilidade dos regimes de protecção social e a justiça intergeracional.\nO sistema que temos tido até hoje é absolutamente impensável. Receber-se pensões não em função daquilo que se descontou mas em função dos últimos descontos, sejam eles mais ou menos alargados, não faz qualquer sentido, não obedece a qualquer racionalidade. Por outro lado também, ter um valor fixo para recebimento, independentemente de se saber se a expectativa é a de que esse recebimento seja feito durante 5, 10 ou 20 anos, era outra irracionalidade do sistema. Portanto, faz-se justiça, racionaliza-se e garante-se sustentabilidade.\nSe, porventura, algum defeito a proposta de lei tem é, em meu entender, por ficar aquém daquilo que se devia fazer, em nome das novas gerações. Mas entendo também que é um grande esforço e é um razoável compromisso intergeracional."
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Ainda para pedir esclarecimentos, tem a palavra o Sr. Deputado Pedro Mota Soares."
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 18,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado Adjunto e do Orçamento, falo-lhe muito à vontade, porque faço parte de um partido que sempre apoiou a convergência do regime público ao regime privado."
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 18,
+      "speaker": {
+        "id": 1275,
+        "name": "João Guilherme Nobre Prata Fragoso Rebelo",
+        "party": "CDS-PP",
+        "string": "O Sr. João Rebelo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 18,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nós não somos como alguns que, quando estão na oposição, são a voz das corporações, são absolutamente contra a convergência dos regimes e, depois, chegam ao governo e a convergência já é um valor sacrossanto, já é um grande valor de justiça social.\nNós não somos daqueles que, quando estão na oposição e se quer mexer nos regimes, nomeadamente no regime da segurança social do sector público, é tudo inconstitucional, é bloqueios para todo o lado, nada se pode fazer…"
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 18,
+      "speaker": {
+        "id": 1275,
+        "name": "João Guilherme Nobre Prata Fragoso Rebelo",
+        "party": "CDS-PP",
+        "string": "O Sr. João Rebelo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 18,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em relação a isso, estamos muito à vontade, porque temos a mesma postura no governo e na oposição."
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 19,
+      "speaker": {
+        "id": 1275,
+        "name": "João Guilherme Nobre Prata Fragoso Rebelo",
+        "party": "CDS-PP",
+        "string": "O Sr. João Rebelo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 19,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso mesmo, Sr. Secretário de Estado, muito estranho o discurso que V. Ex.ª aqui vem fazer, que, em algumas partes, mais faz lembrar um jovem façanhudo do PCTP/MRPP!…\nEstejam calmos, Srs. Deputado do Partido Socialista! Sabem que há uma coisa muito forte que me une à bancada do Partido Socialista? São as críticas ao actual Governo!"
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 19,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nisso estamos muito à vontade! Pensamos exactamente o mesmo, Srs. Deputados do Partido Socialista!\nMas, como eu estava a dizer, Sr. Secretário de Estado, não percebo como é que V. Ex.ª vem aqui gritar contra a insensibilidade social do anterior governo, «berrar» contra a política do anterior governo, dizendo que era uma política pusilânime que põe em causa as pensões de reforma, como se estivesse, eventualmente, num comício do PCTP/MRPP em 1975, e, depois, traz aqui medidas que são de uma enorme insensibilidade social!"
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 19,
+      "speaker": {
+        "id": 3041,
+        "name": "Emanuel Augusto Santos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e do Orçamento",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É mentira!"
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 19,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Secretário de Estado e, também, o Sr. Ministro dos Assuntos Parlamentares acham justo que as pensões mais baixas — e relembro que na Caixa Geral de Aposentações há pensões muito baixas, de gente que entrou para o regime com 15, 16 ou 17 anos,…"
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 19,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 19,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… que teve longuíssimas carreiras contributivas de salários muito baixos, que têm hoje pensões que estão muito abaixo do salário mínimo nacional —, em anos de fraco crescimento económico, como têm sido os últimos, possam ter um aumento, única e exclusivamente, igual ao crescimento do índice de preços ao consumidor?! Acham justo que não haja uma recuperação destas pensões, que são muito baixas e muito afectadas?! Acham justo que tenha havido o desligamento, a rotura, da paridade entre estas pensões e o salário mínimo nacional?!"
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 19,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 19,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Acha isto justo?! Isto não quebra a sua consciência social?! Isto não faz com que esse jovem façanhudo do PCTP/MRRP se incomode?! Isto a mim, que sou um jovem conservador, de centrodireita mas com sensibilidade social, incomoda muito e choca muito a minha consciência social. Choca-me muito que seja o Partido Socialista que esteja a tomar medidas com estas!"
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Secretário de Estado Adjunto e do Orçamento.\nDispõe de 3 minutos para o efeito."
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 19,
+      "speaker": {
+        "id": 3041,
+        "name": "Emanuel Augusto Santos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e do Orçamento",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, começando por responder à questão colocada pelo Sr. Deputado Arménio Santos, devo dizer que fico surpreendido com a facilidade com que o Sr. Deputado faz referência ao facto de sempre ter estado de acordo com a convergência e, depois, votar contra."
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 19,
+      "speaker": {
+        "id": 410,
+        "name": "Arménio Dos Santos",
+        "party": "PSD",
+        "string": "O Sr. Arménio Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quem votou contra foi o PS!"
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 19,
+      "speaker": {
+        "id": 3041,
+        "name": "Emanuel Augusto Santos",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Votou contra em 2005… Enfim, tem votado contra todas as medidas que o Governo tem apresentado no sentido da convergência."
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 20,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os senhores é que votaram contra!"
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 20,
+      "speaker": {
+        "id": 3041,
+        "name": "Emanuel Augusto Santos",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Agora apresenta-se aqui como defensor destas medidas mas, depois, vota contra. Esta é que é a realidade!"
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 20,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não sabe do que está a falar, com certeza!"
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 20,
+      "speaker": {
+        "id": 3041,
+        "name": "Emanuel Augusto Santos",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "No que se refere à sua questão concreta, o que o Sr. Deputado, ao fim e ao cabo, está a defender é que tudo fique na mesma, é que o regime não convirja. Ou seja, nós estabelecemos um período transitório gradual, mantendo a taxa que o governo que V. Ex.ª apoiou aprovou — a taxa de 4,5% ao ano de penalização pela reforma antecipada — até 2015, que é uma situação mais favorável em relação ao trabalhador do sector privado, ao qual já é reduzida a taxa de 0,5% ao mês, ou seja, um total de 6% ao ano, portanto uma penalização mais grave, e o Sr. Deputado vem dizer-me que está a favor da convergência, mas, afinal, está contra a convergência. Em que ficamos?!"
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 20,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está contra o quê?!"
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 20,
+      "speaker": {
+        "id": 3041,
+        "name": "Emanuel Augusto Santos",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Além disso, foi em sede de concertação social que o Governo e os sindicatos acordaram em não alterar, para já, esta medida de agravamento da penalização por reformas antecipadas. Esta foi a razão por que se vai manter, até 2015, uma taxa menos gravosa de penalização para as reformas antecipadas do sector público. Esta é a razão! Sr. Deputado Pedro Mota Soares, começo por agradecer a referência que fez ao meu passado político.\nSr. Deputado, foi em virtude da minha participação nas lutas pela nossa liberdade, pelo novo regime democrático, que eu estive preso, mas isso foi antes do 25 de Abril. Eu estive preso antes do 25 de Abril e não depois, Sr. Deputado! E honra-me muito esse passado! Honra-me ter contribuído generosamente para a nossa democracia,…"
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 20,
+      "speaker": {
+        "id": 3041,
+        "name": "Emanuel Augusto Santos",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… coisa que, provavelmente, o Sr. Deputado não fez. Naturalmente, pela sua idade, também não poderia participar."
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe que conclua, Sr. Secretário de Estado."
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 20,
+      "speaker": {
+        "id": 3041,
+        "name": "Emanuel Augusto Santos",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Relativamente à questão das reformas…"
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Secretário de Estado, há um problema de tempo, que é preciso ser gerido correctamente. Tem de concluir a sua resposta."
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 20,
+      "speaker": {
+        "id": 3041,
+        "name": "Emanuel Augusto Santos",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, permita-me apenas 1 segundo para dizer que, já em 2008, está garantida a actualização das reformas mínimas abaixo de 1,5 do indexante dos apoios sociais, vendo, deste modo, as pessoas o seu poder de compra reposto. E mais: se o PIB crescer acima de 2%, também terão um aumento em termos reais."
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Almeida Henriques."
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 20,
+      "speaker": {
+        "id": 1155,
+        "name": "António Joaquim Almeida Henriques",
+        "party": "PSD",
+        "string": "O Sr. Almeida Henriques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O Governo apresenta neste debate uma proposta de lei de grande impacto na vida das pessoas. Trata-se de uma proposta que tem como objectivo a convergência e a harmonização do regime da Caixa Geral de Aposentações com o regime geral da segurança social, designadamente no que diz respeito às condições de aposentação e ao cálculo de pensões.\nEste diploma introduz o factor de sustentabilidade, que passa a ser considerado no cálculo das pensões dos subscritores ou pensionistas que entraram no sistema antes de 31 de Agosto de 1993.\nSignifica isto que, a partir da aprovação deste diploma, todos os subscritores da Caixa Geral de Aposentações, independentemente da data da sua inscrição, serão abrangidos pela alteração do regime."
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 20,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Secretário de Estado está a abandonar a Sala?!"
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 20,
+      "speaker": {
+        "id": 1155,
+        "name": "António Joaquim Almeida Henriques",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, o Sr. Secretário de Estado está a abandonar o debate. Peço-lhe que tome providências. Não tenho condições para continuar a minha intervenção sem estar presente o Governo."
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 21,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Abandonou o debate! Foi-se embora!"
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Então, Sr. Deputado, vamos aguardar um pouco."
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 21,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Extraordinário!\nPausa."
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, houve um pequeno desacerto em matéria de presenças no debate por parte da bancada do Governo.\nJá está corrigido.\nSr. Deputado Almeida Henriques, pode continuar."
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 21,
+      "speaker": {
+        "id": 1155,
+        "name": "António Joaquim Almeida Henriques",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito obrigado, Sr. Presidente."
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 21,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por momentos, pensámos que iam retirar a proposta de lei!"
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 21,
+      "speaker": {
+        "id": 1155,
+        "name": "António Joaquim Almeida Henriques",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Secretário de Estado já tinha demonstrado alguma baralhação na forma como respondeu às perguntas. \nO Sr. Ministro dos Assuntos Parlamentares saiu da bancada e o Sr. Secretário de Estado entrou ainda em maior baralhação. Mas, enfim, já está reposta a normalidade.\nDizia eu que significa isto que, a partir da aprovação deste diploma, todos os subscritores da Caixa Geral de Aposentações, independentemente da data da sua inscrição, serão abrangidos pela alteração do regime. Significa que estas pessoas serão afectadas, nas suas legítimas expectativas, quanto à aposentação antecipada e também quanto ao valor das suas pensões.\nAssim, as pensões a pagar, no futuro, pela Caixa Geral de Aposentações serão ponderadas e influenciadas pela evolução da esperança média de vida da população, atenuando o impacto financeiro provocado pelo desequilíbrio que se tem vindo a verificar na evolução da população activa face à população beneficiária do sistema.\nEsta convergência do sistema de pensões do sector público com o sector privado é um propósito há muito defendido pelo PSD. Aliás, importa realçar aqui que foi PSD que o concretizou, quando, em 1993, com o governo do Professor Cavaco Silva, determinou a aplicação do regime geral da segurança social a todos os subscritores da Caixa Geral de Aposentações, inscritos após aquela data.\nSó com uma diferença, Sr. Ministro dos Assuntos Parlamentares e Sr. Secretário de Estado Adjunto e do Orçamento: naquela altura, a alteração feita não colidia com nenhum direito adquirido porque apenas se aplicava a futuros subscritores. Apesar disso — e é bom aqui recordar —, o Partido Socialista votou contra na altura, porque entendia que o diploma era «fortemente lesivo para o interesse dos trabalhadores» Também em 2004, quando o Governo do Dr. Durão Barroso apresentou uma alteração ao Estatuto de Aposentação dos Funcionários Públicos, que previa uma penalização das reformas de 4,5% ao ano, o PS também votou contra, invocando a «sangria da qualificação à custa dos aposentados com menos de 60 anos de idade.»\nComo é diferente a atitude do PS quando está no Governo e quando está na oposição."
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 21,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 21,
+      "speaker": {
+        "id": 1155,
+        "name": "António Joaquim Almeida Henriques",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como é gritante a falta de seriedade política nos argumentos políticos que os socialistas esgrimem.\nAntes, o PS, na oposição, chumbava as iniciativas do PSD classificando-as como «muito gravosas para os trabalhadores e geradoras de enormes injustiças sociais». Hoje, o PS, no Governo, aumenta a idade de reforma dos funcionários para os 65 anos; hoje, o PS, no Governo, aumenta a penalização das aposentações precoces de 4,5% ao ano para 0,5% ao mês. E justifica estas medidas — pasme-se! — com os mesmos argumentos que antes utilizava para se opor às iniciativas do PSD: a justiça e a equidade social."
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 21,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 22,
+      "speaker": {
+        "id": 1155,
+        "name": "António Joaquim Almeida Henriques",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isto é que é verdadeira coerência!?…"
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 22,
+      "speaker": {
+        "id": 1155,
+        "name": "António Joaquim Almeida Henriques",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É mais um exemplo, Sr.as e Srs. Deputados, de como o mesmo argumento pode servir interesses tão diversos. Hipocritamente, o PS muda de opinião consoante está no Governo ou consoante está na oposição.\nSr.as e Srs. Deputados, o PSD tem outra atitude: assume-se como oposição responsável, não tem esta atitude de «bota-abaixo» que tem o PS quando está na oposição. Mantemos, hoje, as convicções e os objectivos políticos que nortearam a nossa acção política quando fomos governo.\nNa nossa opinião, a convergência e a uniformização dos regimes, que sempre defendemos, tem uma dupla importância: em primeiro lugar, contribui para a sustentabilidade do sistema, fazendo depender o valor das pensões dos fenómenos demográficos e do crescimento da economia; em segundo lugar, introduz o princípio da igualdade de tratamento de todos os portugueses na idade da reforma — somos coerentes e apoiamos este princípio.\nMas a verdade — e é importante lembrar, pois temos memória — é que o PS, estando no Governo nove anos, nos últimos 12, ignorou a evidente degradação financeira da Caixa Geral de Aposentações."
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 22,
+      "speaker": {
+        "id": 1155,
+        "name": "António Joaquim Almeida Henriques",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Na actual legislatura — é também bom aqui lembrar —, não tomou a iniciativa de continuar o caminho iniciado pelo PSD em 1993."
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 22,
+      "speaker": {
+        "id": 1155,
+        "name": "António Joaquim Almeida Henriques",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Importa lembrar também que, durante a campanha eleitoral de 2005, o PS já tinha perfeita consciência do problema da sustentabilidade do sistema, mas o Primeiro-Ministro, José Sócrates, furtou-se sempre a discutir os problemas da segurança social e nunca admitiu, ao contrário do PSD, a necessidade do aumento da idade da reforma."
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 22,
+      "speaker": {
+        "id": 1155,
+        "name": "António Joaquim Almeida Henriques",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, foi uma atitude pouco séria que procurou enganar as pessoas na ânsia de lhes arrancar alguns votos."
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 22,
+      "speaker": {
+        "id": 1155,
+        "name": "António Joaquim Almeida Henriques",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Sabemos que esta alteração legislativa coloca em causa expectativas criadas ao longo de anos e frustra expectativas; mas importa dizer, com verdade e com honestidade política, que as alterações das condições económicas e financeiras do País têm uma consequência directa e inultrapassável nos regimes de protecção social.\nNão seria justo que o custo do reequilíbrio do sistema social não fosse partilhado pelo sector público, que até hoje usufruiu de um regime mais favorável."
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 22,
+      "speaker": {
+        "id": 1155,
+        "name": "António Joaquim Almeida Henriques",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É, pois, em nome da coerência e da seriedade políticas, que faz falta ao PS quando está na oposição; é em nome da responsabilidade, que nos distingue da conduta política errática do PS, que o PSD não se opõe a esta iniciativa legislativa, entendendo-a como indispensável para assegurar a sustentabilidade do sistema de segurança social.\nAo contrário de outros, designadamente do Partido Socialista, e do tom politiqueiro que, hoje, aqui o Sr.\nSecretário de Estado utilizou neste debate,…"
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 22,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esta é que é a diferença!"
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 22,
+      "speaker": {
+        "id": 1155,
+        "name": "António Joaquim Almeida Henriques",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… não hipotecamos a seriedade de propósitos em nome de eventuais vantagens políticas"
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Jorge Machado."
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 23,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Ministro, Sr. Secretário de Estado, Sr.as e Srs. Deputados: Não passaram mais de dois anos para o Governo piorar aquilo que já estava mal.\nEm Outubro de 2005, o Governo, através da proposta de lei n.º 38/X, aumentou a idade legal de aposentação dos trabalhadores da Administração Pública, passando dos 60 para os 65 anos de idade, ainda que de uma forma gradual.\nNessa altura, evocava o Governo que era uma questão de equidade. O Governo dizia que visava estabelecer mecanismos de convergência do regime de protecção social da função pública com o regime geral da segurança social. Acontece que, em Novembro de 2006, com a nova Lei de Bases da Segurança Social, o Governo aumenta a idade real da reforma dos trabalhadores do sector privado. Agora, volta a evocar a mesma necessidade de convergência para voltar a aumentar a idade real de aposentação dos trabalhadores da Administração Pública.\nEm menos de dois anos, os trabalhadores da Administração Pública viram a idade da reforma aumentar dos 60 para os 65 anos, para agora terem que trabalhar para além dos 65 anos para terem uma reforma completa. Isto é, à conta da ideia da suposta convergência dos regimes e da suposta sustentabilidade financeira do sistema, o Governo foi aumentando a idade da reforma de todos os trabalhadores.\nAssim, por muito que fale de convergência das pensões, de equidade, de justiça, a verdade é que o objectivo inicial do Governo era o de aumentar a idade real de reforma de todos os portugueses e diminuir o montante das suas pensões.\nSr. Presidente, Sr. Secretário de Estado, Sr.as e Srs. Deputados: Analisemos a proposta do Governo e as consequência que acarreta para os trabalhadores da Administração Pública.\nA pressa do Governo é tanta em aumentar a idade da reforma e diminuir as pensões que o Governo faz remissões para um decreto-lei que não existe, deixando espaços em branco no presente diploma. E não estamos a falar de aspectos pontuais mas de matérias tão importantes como as fórmulas de cálculo das pensões. É inadmissível que o Governo apresente uma proposta de lei que não permite aos grupos parlamentares conhecerem os verdadeiros impactos que esta vai ter nas reformas dos trabalhadores da Administração Pública."
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 23,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Sr. Jerónimo de Sousa (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade! Uma vergonha!"
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 23,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Governo, e isto é certo, aumenta mais uma vez as penalizações das reformas antecipadas. Se em finais de 2005 a penalização por cada ano de antecipação era de 4,5%, o Governo vem agora «dar o dito por não dito» e aumentar para 6% a penalização por cada ano de reforma antecipada.\nA pergunta que se deve colocar é: onde é que pára aquele Partido Socialista que, com todas as forças que tinha, quando o Governo PSD/CDS-PP propôs uma penalização de 4,5%, por cada ano antecipado de reforma, protestava? O Governo dito socialista introduz também aqui, na Caixa Geral de Aposentações, o malfadado «factor de sustentabilidade», que não tem outro fim que não o de diminuir o montante das pensões dos portugueses.\nComo refere Eugénio Rosa, em diversos estudos, este «factor de sustentabilidade» deveria chamar-se, sim, «factor de diminuição das pensões»,…"
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 23,
+      "speaker": {
+        "id": 1187,
+        "name": "Bruno Ramos Dias",
+        "party": "PCP",
+        "string": "O Sr. Bruno Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 23,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… uma vez que tem como consequência e único objectivo reduzir esse montante."
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 23,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Este «factor de sustentabilidade» faz um aproveitamento indecoroso da evolução da esperança média de vida para reduzir a reforma dos portugueses.\nÉ a própria OCDE que refere que as pensões em Portugal vão sofrer, em média, uma diminuição de 40% do seu valor e que Portugal fez a reforma mais agressiva. Esta organização refere que a reforma portuguesa é a mais profunda dos países da União Europeia. Isto é, no ataque às expectativas, no ataque aos direitos dos trabalhadores, este Governo, dito socialista, está no primeiro lugar.\nO verdadeiro rosto do neoliberalismo e o pupilo mais disciplinado da agenda do Banco Mundial chamase José Sócrates."
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 24,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, Sr.as e Srs. Deputados: Quanto à fundamentação destas propostas, o Governo diz que é uma questão de convergência. Ora, pelo acima exposto fica bem claro que tal não é verdade. Bem pelo contrário, este regime, em alguns aspectos, é mais gravoso do que o previsto na segurança social.\nO Governo refere o problema da sustentabilidade do sistema, diz que estas medidas visam essa sustentabilidade, mas esquece-se de dizer que é o próprio Governo que não cumpre para com a Caixa Geral de Aposentações."
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 24,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os desequilíbrios da Caixa Geral de Aposentações, que o Governo não quantifica na presente proposta, não «caíram do céu». O Governo esquece-se e não contabiliza os 23,75% de todos os vencimentos da Administração Pública que não entrega à Caixa Geral de Aposentações. Já referimos no passado que, a preços de 2005, o Estado deve a esta Caixa Geral de Aposentações um montante aproximado de 9000 milhões de euros.\nO Governo não pode, ou pelo menos não devia, utilizar o argumento da sustentabilidade financeira do sistema quando são sucessivos governos, sejam eles PS, PSD, com ou sem o CDS-PP, os culpados pela situação a que chegamos."
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 24,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Sr. Jerónimo de Sousa (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 24,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, Sr.as e Srs. Deputados: Este Governo altera, várias vezes e num curto espaço de tempo, as regras de aposentação de milhares e milhares de trabalhadores, criando assim um sentimento de incerteza e instabilidade quanto ao futuro.\nO Governo, alterando como altera as regras de atribuição das pensões, põe em causa as legítimas expectativas que estes trabalhadores criaram ao longo de uma vasta carreira de contribuições para a Caixa Geral de Aposentações.\nAssim, se dúvidas existem quanto à constitucionalidade das alterações produzidas no sistema de aposentação levadas a cabo pela Lei n.º 60/2005, este diploma, ao alterar novamente as regras, adensa as dúvidas quanto à constitucionalidade dessa lei e da presente proposta de lei.\nO Governo, no respeito pelo princípio da boa fé e da confiança jurídica e tendo em conta às legítimas expectativas criadas pelos trabalhadores após décadas de descontos para a Caixa Geral de Aposentações, não pode alterar desta forma as regras e impor aumentos na idade de aposentação e novas fórmulas de cálculo das pensões que reduzem o seu montante.\nO Governo, com esta proposta de lei, desfere um novo e rude golpe nos direitos e interesses dos trabalhadores da Administração Pública e importa nesta altura dizer que, tal como na segurança social, outro caminho é possível. Em vez de optar por penalizar sistematicamente os trabalhadores, o Governo, se tivesse uma réstia de política de esquerda, podia e devia diversificar as receitas da segurança social, encontrar as formas de financiamento das pensões que não passassem pela penalização dos trabalhadores e assumir as suas próprias responsabilidades no que à aposentação dos trabalhadores da Administração Pública diz respeito.\nInfelizmente, este Governo já provou por demasiadas vezes que, para impor a sua agenda neoliberal, para privatizar e destruir a Administração Pública, para cumprir a sua obsessão com o défice, não hesita um segundo: enche o peito de ar, diz-se detentor de toda a coragem do mundo e avança, qual rolo compressor, contra os trabalhadores, destruindo-lhe os direitos e as legítimas expectativas."
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 24,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 24,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pena é que o Governo, face aos interesses dos grandes grupos financeiros, face aos maestros da agenda neoliberal, face à União Europeia, não tenha nem a vontade nem a mínima coragem para defender os interesses de milhões de portugueses."
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Mariana Aiveca."
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 25,
+      "speaker": {
+        "id": 2247,
+        "name": "Mariana Rosa Aiveca",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Aiveca (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as Deputadas e Srs. Deputados: Ao iniciar a discussão da proposta de lei n.º 136/X, que adapta o regime da Caixa Geral de Aposentações ao regime de segurança social em matéria de aposentação, gostaria de me dirigir em particular às Sr.as e Srs. Deputados do PS que são funcionárias e funcionários públicos e deixar-lhe uma simples questão.\nComo se sentem quando são confrontados com os seus companheiros de trabalho, sabendo que muitos deles contribuíram para a vossa eleição como Deputados da Nação na expectativa de que, convosco no Parlamento e no Governo, teriam um futuro melhor? Como se sentem quando ouvem e vêem colegas duma vida inteira de trabalho dizerem que «daqui a quatro anos receberei pouco mais de 400 euros?»"
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 25,
+      "speaker": {
+        "id": 1147,
+        "name": "Luís Afonso Cerqueira Natividade Candal",
+        "party": "PS",
+        "string": "O Sr. Afonso Candal (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas, depois, falam com os filhos e sentem-se melhor! Quando o filho já trabalha, também é funcionário público e tem direito a reforma!"
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 25,
+      "speaker": {
+        "id": 2247,
+        "name": "Mariana Rosa Aiveca",
+        "party": "BE",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como se sentem quando vêem aquele casal de funcionários para quem os dois subsídios de refeição eram fundamentais para pagar o quarto do filho que estuda fora da terra? Como se sentem quando têm colegas que trabalharam já 40 anos mas que lhes falta idade para se poderem aposentar e que terão que trabalhar mais 10 anos, porque a vida os empurrou para o trabalho aos 14 anos de idade? Como se sentem, Sr.as e Srs. Deputados, quando sabem que milhares de funcionários operários e auxiliares recebem no fim da carreira cerca de 650 € e viram definitivamente os escalões congelados? Como se sentem quando sabem que existem muitas e muitos jovens qualificados, investigadores, professores, enfermeiros, psicólogos, arquitectos, a falsos recibos verdes há anos e anos? Só podem sentir vergonha!"
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 25,
+      "speaker": {
+        "id": 1949,
+        "name": "António Ribeiro Gameiro",
+        "party": "PS",
+        "string": "O Sr. António Gameiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "De quê?"
+    },
+    {
+      "utterance_id": 166,
+      "order": 166,
+      "page_start": 25,
+      "speaker": {
+        "id": 2187,
+        "name": "Maria Cecília Vicente Duarte Honório",
+        "party": "BE",
+        "string": "A Sr.ª Cecília Honório (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É uma vergonha!"
+    },
+    {
+      "utterance_id": 167,
+      "order": 167,
+      "page_start": 25,
+      "speaker": {
+        "id": 2247,
+        "name": "Mariana Rosa Aiveca",
+        "party": "BE",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vergonha de um governo que, de uma forma autista e arrogante, vai de «convergência em convergência»…"
+    },
+    {
+      "utterance_id": 168,
+      "order": 168,
+      "page_start": 25,
+      "speaker": {
+        "id": 2187,
+        "name": "Maria Cecília Vicente Duarte Honório",
+        "party": "BE",
+        "string": "A Sr.ª Cecília Honório (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 169,
+      "order": 169,
+      "page_start": 25,
+      "speaker": {
+        "id": 2247,
+        "name": "Mariana Rosa Aiveca",
+        "party": "BE",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… de «adaptação em adaptação», nivelando salários, pensões e direitos tudo por baixo.\nTudo abaixo da média europeia, tudo mais abaixo do que os governos das direitas conseguiram fazer."
+    },
+    {
+      "utterance_id": 170,
+      "order": 170,
+      "page_start": 25,
+      "speaker": {
+        "id": 2187,
+        "name": "Maria Cecília Vicente Duarte Honório",
+        "party": "BE",
+        "string": "A Sr.ª Cecília Honório (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 171,
+      "order": 171,
+      "page_start": 25,
+      "speaker": {
+        "id": 2247,
+        "name": "Mariana Rosa Aiveca",
+        "party": "BE",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vergonha de um Governo que nos empurra cada vez mais e mais para o «primeiro lugar dos piores».\nSr. Presidente, Sr.as e Srs. Deputados, Srs. Membros do Governo: São os relatórios da OCDE que confirmam o que afinal já se sabia.\nEm matéria de segurança social, Portugal é o país da Europa onde as pensões vão baixar mais e na OCDE apenas o México terá queda semelhante, ou seja, as pensões vão baixar, para o futuro, para os jovens de hoje, cerca de 40%, isto em consequência das novas regras de cálculo e da introdução do factor sustentabilidade.\nConsidera o mesmo relatório que é «a reforma mais agressiva entre os vários países europeus», onde os «pobres perdem mais»…"
+    },
+    {
+      "utterance_id": 172,
+      "order": 172,
+      "page_start": 25,
+      "speaker": {
+        "id": 3041,
+        "name": "Emanuel Augusto Santos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e do Orçamento",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É a melhor!"
+    },
+    {
+      "utterance_id": 173,
+      "order": 173,
+      "page_start": 25,
+      "speaker": {
+        "id": 2247,
+        "name": "Mariana Rosa Aiveca",
+        "party": "BE",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É melhor para os ricos, Sr. Secretário de Estado! Dizia eu que este relatório considera que esta é reforma mais agressiva, onde os pobres perdem mais, uma vez que é para os que receberão pensões líquidas correspondentes a metade do salário médio – que em 2005, como bem sabem os Srs. Deputados e o Governo, era de 645 € – que a redução é mais significativa e se situa nos 23,1%. É isto o que diz o relatório da OCDE. Em 2005, o Governo fez aprovar uma lei que fazia a convergência das pensões da função pública com as do regime geral de segurança social por uma questão de «equidade e justiça social», dizia o Sr. Primei-"
+    },
+    {
+      "utterance_id": 174,
+      "order": 174,
+      "page_start": 26,
+      "speaker": {
+        "id": 1949,
+        "name": "António Ribeiro Gameiro",
+        "party": "PS",
+        "string": "O Sr. António Gameiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E muito bem! De adaptação em adaptação!"
+    },
+    {
+      "utterance_id": 175,
+      "order": 175,
+      "page_start": 26,
+      "speaker": {
+        "id": 2247,
+        "name": "Mariana Rosa Aiveca",
+        "party": "BE",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e penaliza outra vez os funcionários públicos.\nEste malabarismo com que o Governo presenteia todas e todos os portugueses, inventando fórmulas labirínticas de factores e mais factores, parcelas e mais parcelas, visa esconder a sua real incapacidade de dar respostas claras que garantam uma vida digna no final de uma vida de trabalho.\nO que o Governo não quer fazer é uma verdadeira reforma da segurança social que garanta a sua sustentabilidade financeira, que responda às pensões de miséria e que seja verdadeiramente universal e solidária.\nO Governo não quer tocar nas mais-valias das empresas, nos fabulosos lucros da banca, no chamar à responsabilidade e à solidariedade nacional."
+    },
+    {
+      "utterance_id": 176,
+      "order": 176,
+      "page_start": 26,
+      "speaker": {
+        "id": 1949,
+        "name": "António Ribeiro Gameiro",
+        "party": "PS",
+        "string": "O Sr. António Gameiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nunca a banca pagou tantos impostos como agora!"
+    },
+    {
+      "utterance_id": 177,
+      "order": 177,
+      "page_start": 26,
+      "speaker": {
+        "id": 2247,
+        "name": "Mariana Rosa Aiveca",
+        "party": "BE",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Governo prefere penalizar os mesmos, os do costume, obrigando-os a descontar mais, a trabalhar mais tempo e, no final, a receber menos pensão.\nPortugal transforma-se, assim, com este Governo, num país de «mínimos garantidos», onde o Estado social, Sr.as e Srs. Deputados, é já, na opinião do Bloco de Esquerda, um Estado de desgraça.\nEstamos contra este conceito de que se se vive mais tempo tem que se trabalhar mais, estamos contra que se mudem as regras dos contratos de trabalho que o Governo fez com funcionários públicos a meio dos mesmos sem o seu consentimento e, por isso, votaremos contra esta proposta de lei."
+    },
+    {
+      "utterance_id": 178,
+      "order": 178,
+      "page_start": 26,
+      "speaker": {
+        "id": 2030,
+        "name": "Maria Isabel Coelho Santos",
+        "party": "PS",
+        "string": "A Sr.ª Isabel Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é esse o tema!"
+    },
+    {
+      "utterance_id": 179,
+      "order": 179,
+      "page_start": 26,
+      "speaker": {
+        "id": 2247,
+        "name": "Mariana Rosa Aiveca",
+        "party": "BE",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A resposta aos funcionários, o dar a cara, caberá aos Srs. Deputados do Partido Socialista aqui presentes. Naturalmente, eles terão perguntas para lhes fazer."
+    },
+    {
+      "utterance_id": 180,
+      "order": 180,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Pedro Mota Soares."
+    },
+    {
+      "utterance_id": 181,
+      "order": 181,
+      "page_start": 26,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, Srs. Membros do Governo: O sistema de protecção social permanente, integral e universal é sem sombra de dúvidas uma das grandes vitórias do século XX e, sobretudo na Europa, com o nosso modelo social, ocupa uma especialíssima relevância.\nO sistema de segurança social é especialmente importante em períodos em que as pessoas passam por maiores carências e vulnerabilidades, como a doença, a invalidez, o desemprego, a velhice ou a pobreza extrema, e é um património indispensável da nossa civilização e da nossa forma de encarar o mundo.\nMas é também por isso que o grande paradoxo da segurança social é exactamente este: quanto maior for a complexidade e a exigência do sistema de segurança social maiores são os riscos para a sua sustentabilidade, nomeadamente no longo prazo.\nO actual sistema de segurança social foi concebido num momento e num enquadramento económico, social e, acima de tudo, demográfico totalmente distintos do momento que hoje vivemos. Dos 20 trabalhadores activos para cada reformado, passámos para uma média 1,4 trabalhadores activos para cada reformado, com uma tendência constante para que haja um agravamento.\nNão vamos hoje falar da inacção do Estado nas políticas demográficas e de crescimento económico e social de que tanto precisávamos, mas, obviamente, elas têm uma ligação «umbilical» com a sustentabilidade do sistema de segurança social.\nContudo, para nós e penso que para todos, a verdade é que, sendo o sistema de segurança social universal, é importante que este seja, sobretudo, socialmente justo, que trate de forma igual o que pode ser tratado de forma igual e trate de forma diferente o que é desigual e não é igualitário. Isto é, é essencial que o sistema de segurança social possa dar mais a quem menos tem, possa apoiar mais quem mais precisa."
+    },
+    {
+      "utterance_id": 182,
+      "order": 182,
+      "page_start": 26,
+      "speaker": {
+        "id": 1147,
+        "name": "Luís Afonso Cerqueira Natividade Candal",
+        "party": "PS",
+        "string": "O Sr. Afonso Candal (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 183,
+      "order": 183,
+      "page_start": 26,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Fiel a este princípio, o CDS sempre foi favorável à convergência dos regimes da seguran-"
+    },
+    {
+      "utterance_id": 184,
+      "order": 184,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 185,
+      "order": 185,
+      "page_start": 27,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É uma questão legitimidade, de autoridade política, que o Governo do Partido Socialista não tem pelo comportamento irresponsável que teve na oposição!"
+    },
+    {
+      "utterance_id": 186,
+      "order": 186,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 187,
+      "order": 187,
+      "page_start": 27,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso, estamos aqui muito à-vontade. Não somos como aqueles que quando estão na oposição dizem uma coisa e quando chegam ao governo fazem exactamente o seu contrário.\nE é exactamente com essa autoridade que acusamos este Governo, mesmo assim, de ser um Governo de insensibilidade social, que já tinha sido demonstrada na Lei de Bases da Segurança Social, ao penalizar as pensões mais baixas, pensões muito abaixo do salário mínimo nacional, com um decréscimo do seu poder de compra,…"
+    },
+    {
+      "utterance_id": 188,
+      "order": 188,
+      "page_start": 27,
+      "speaker": {
+        "id": 1147,
+        "name": "Luís Afonso Cerqueira Natividade Candal",
+        "party": "PS",
+        "string": "O Sr. Afonso Candal (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas qual penalização? Não há penalização nenhuma!"
+    },
+    {
+      "utterance_id": 189,
+      "order": 189,
+      "page_start": 27,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… nomeadamente nos anos de mais fraco crescimento económico.\nAcham justo que uma pensão mais baixa seja penalizada num ano em que o crescimento económico é inferior a 2%, muitas vezes sabendo nós que o aumento dos transportes e dos medicamentos é superior à inflação?"
+    },
+    {
+      "utterance_id": 190,
+      "order": 190,
+      "page_start": 27,
+      "speaker": {
+        "id": 1147,
+        "name": "Luís Afonso Cerqueira Natividade Candal",
+        "party": "PS",
+        "string": "O Sr. Afonso Candal (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não há penalização!"
+    },
+    {
+      "utterance_id": 191,
+      "order": 191,
+      "page_start": 27,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isto custa-vos a ouvir! Acham justo que um pensionista que recebe uma pensão inferior ao salário mínimo nacional seja penalizado desta forma? Isto é uma tremenda injustiça e uma tremenda insensibilidade social.\nQuando o CDS estava no governo, o que propusemos foi a paridade entre o salário mínimo nacional e as pensões mais baixas, obviamente líquidas de taxa social única.\nO que os senhores propõem é, de facto, uma continuação da penalização das pensões mais baixas,…"
+    },
+    {
+      "utterance_id": 192,
+      "order": 192,
+      "page_start": 27,
+      "speaker": {
+        "id": 2030,
+        "name": "Maria Isabel Coelho Santos",
+        "party": "PS",
+        "string": "A Sr.ª Isabel Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está completamente baralhado!"
+    },
+    {
+      "utterance_id": 193,
+      "order": 193,
+      "page_start": 27,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… das pensões das pessoas mais pobres, das que menos têm e que não possuem outras formas de rendimento.\nEsta é a sensibilidade social do Partido Socialista."
+    },
+    {
+      "utterance_id": 194,
+      "order": 194,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 195,
+      "order": 195,
+      "page_start": 27,
+      "speaker": {
+        "id": 1949,
+        "name": "António Ribeiro Gameiro",
+        "party": "PS",
+        "string": "O Sr. António Gameiro (PS) : - Estamos a aumentar as pensões para 300 €! São já 40 000 pensionistas! Haja decoro!   O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É muito diferente da sensibilidade social dos democratas-cristãos, que para estas pessoas têm sempre uma palavra muito especial, para estas pessoas têm sempre um incentivo, para estas pessoas têm sempre o auxílio do Estado."
+    },
+    {
+      "utterance_id": 196,
+      "order": 196,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Isabel Santos."
+    },
+    {
+      "utterance_id": 197,
+      "order": 197,
+      "page_start": 28,
+      "speaker": {
+        "id": 2030,
+        "name": "Maria Isabel Coelho Santos",
+        "party": "PS",
+        "string": "A Sr.ª Isabel Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as Deputadas e Srs. Deputados, Srs. Membros do Governo: Dar sustentabilidade ao sistema de protecção social, respondendo aos desafios que a evolução da realidade demográfica, social e económica coloca, e assegurar a todos uma mais garantida e eficaz protecção social, sem perder de vista o objectivo de introduzir no sistema níveis de maior justiça social – e vinco bem, justiça social –…"
+    },
+    {
+      "utterance_id": 198,
+      "order": 198,
+      "page_start": 28,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é verdade!"
+    },
+    {
+      "utterance_id": 199,
+      "order": 199,
+      "page_start": 28,
+      "speaker": {
+        "id": 2030,
+        "name": "Maria Isabel Coelho Santos",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e equidade no tratamento prestado aos trabalhadores foi objectivo plasmado e enunciado em diversas leis ao longo de mais de duas décadas mas que só agora, com este Governo, se cumpre cabalmente."
+    },
+    {
+      "utterance_id": 200,
+      "order": 200,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 201,
+      "order": 201,
+      "page_start": 28,
+      "speaker": {
+        "id": 2030,
+        "name": "Maria Isabel Coelho Santos",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não posso e não quero aqui, neste momento, deixar de lembrar que a primeira lei de bases da segurança social já o previa…"
+    },
+    {
+      "utterance_id": 202,
+      "order": 202,
+      "page_start": 28,
+      "speaker": {
+        "id": 2247,
+        "name": "Mariana Rosa Aiveca",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Aiveca (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 203,
+      "order": 203,
+      "page_start": 28,
+      "speaker": {
+        "id": 2030,
+        "name": "Maria Isabel Coelho Santos",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e que a partir daí esta foi uma preocupação sempre presente.\nMas é em 2005, com o actual Governo, que se procede à eliminação dos regimes especiais e se determina a inscrição dos funcionários e agentes admitidos a partir de Janeiro de 2006 na segurança social, bem como a alteração das condições de aposentação e da fórmula de cálculo.\nEntre as intenções e a realidade existe um passo muitas vezes difícil de concretizar e nesta matéria assim aconteceu.\nDiversos governos reconheceram a necessidade de garantir uma protecção social mais eficaz e a sustentabilidade financeira da Caixa Geral de Aposentações,…"
+    },
+    {
+      "utterance_id": 204,
+      "order": 204,
+      "page_start": 28,
+      "speaker": {
+        "id": 2247,
+        "name": "Mariana Rosa Aiveca",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Aiveca (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Governo é que não cumpriu!"
+    },
+    {
+      "utterance_id": 205,
+      "order": 205,
+      "page_start": 28,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os governos é que são responsáveis!"
+    },
+    {
+      "utterance_id": 206,
+      "order": 206,
+      "page_start": 28,
+      "speaker": {
+        "id": 2030,
+        "name": "Maria Isabel Coelho Santos",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… bem como de construir um quadro de maior justiça e equidade social entre os trabalhadores, mas só a coragem e a determinação reformista deste Governo conseguiu que se ultrapassasse a barreira da intencionalidade e se promovesse a mais profunda reforma do sistema de segurança social das duas últimas décadas, em coerência com os princípios que sempre defendemos e com o compromisso corajoso que assumimos com os cidadãos e as cidadãs deste país."
+    },
+    {
+      "utterance_id": 207,
+      "order": 207,
+      "page_start": 28,
+      "speaker": {
+        "id": 2247,
+        "name": "Mariana Rosa Aiveca",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Aiveca (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em 2004, não tinham essa opinião!"
+    },
+    {
+      "utterance_id": 208,
+      "order": 208,
+      "page_start": 28,
+      "speaker": {
+        "id": 2030,
+        "name": "Maria Isabel Coelho Santos",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ou seja, garantir a sustentabilidade e a harmonização do sistema público de protecção social …"
+    },
+    {
+      "utterance_id": 209,
+      "order": 209,
+      "page_start": 28,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pode dizer isso as vezes que quiser que não é verdade!"
+    },
+    {
+      "utterance_id": 210,
+      "order": 210,
+      "page_start": 28,
+      "speaker": {
+        "id": 2030,
+        "name": "Maria Isabel Coelho Santos",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… de forma a reforçar a confiança daqueles que neste momento dele beneficiam e zelando pela salvaguarda e protecção das gerações futuras, num quadro de maior justiça, equidade e solidariedade social.\nComo afirmei, esta proposta constitui um passo final no sentido da convergência entre o regime de protecção social dos trabalhadores da Administração Pública e o regime geral de segurança social, que nos remete para a estabilização progressiva – vinco bem – das suas regras, bem como da partilha dos conceitos inovadores introduzidos na nova Lei de Bases da Segurança Social, objecto de amplo consenso em sede de concertação social."
+    },
+    {
+      "utterance_id": 211,
+      "order": 211,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 212,
+      "order": 212,
+      "page_start": 29,
+      "speaker": {
+        "id": 2030,
+        "name": "Maria Isabel Coelho Santos",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Uma convergência que não é cega, antes tem sido realizada de modo gradual e sem rupturas, através da conjugação de diversas medidas com períodos de transição, e garantindo a manutenção dos direitos dos beneficiários.\nSustentabilidade, equidade e progressividade são, aliás, três características-chave desta reforma, ao contrário do que muitos persistem em querer fazer acreditar. Mas uma mentira dita muitas vezes não se transforma numa verdade."
+    },
+    {
+      "utterance_id": 213,
+      "order": 213,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 214,
+      "order": 214,
+      "page_start": 29,
+      "speaker": {
+        "id": 2030,
+        "name": "Maria Isabel Coelho Santos",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Diante de qualquer problema há sempre diversas formas de actuar: a daqueles que ficam a clamar por aquilo que deveria ter sido feito e não foi realizado; a daqueles que passam a vida inteira a clamar pela mudança e quando ela chega persistem em querer que tudo se mantenha na mesma;…"
+    },
+    {
+      "utterance_id": 215,
+      "order": 215,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 216,
+      "order": 216,
+      "page_start": 29,
+      "speaker": {
+        "id": 2030,
+        "name": "Maria Isabel Coelho Santos",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e a daqueles que, ao invés de se resignarem à fatalidade, optam por actuar com determinação e coragem."
+    },
+    {
+      "utterance_id": 217,
+      "order": 217,
+      "page_start": 29,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Grande «lata»! Tenha vergonha na cara!"
+    },
+    {
+      "utterance_id": 218,
+      "order": 218,
+      "page_start": 29,
+      "speaker": {
+        "id": 2030,
+        "name": "Maria Isabel Coelho Santos",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É nestes últimos que nos revemos e é por isso que saudamos e acolhemos favoravelmente a iniciativa legislativa em debate,…"
+    },
+    {
+      "utterance_id": 219,
+      "order": 219,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 220,
+      "order": 220,
+      "page_start": 29,
+      "speaker": {
+        "id": 2030,
+        "name": "Maria Isabel Coelho Santos",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… na qual vemos cumprido o compromisso de criar condições para que não só as actuais trabalhadores e beneficiários mas também as novas gerações tenham garantido o direito inalienável a uma reforma digna."
+    },
+    {
+      "utterance_id": 221,
+      "order": 221,
+      "page_start": 29,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso é demagogia!"
+    },
+    {
+      "utterance_id": 222,
+      "order": 222,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Francisco Madeira Lopes."
+    },
+    {
+      "utterance_id": 223,
+      "order": 223,
+      "page_start": 29,
+      "speaker": {
+        "id": 1238,
+        "name": "Francisco Miguel Baudoin Madeira Lopes",
+        "party": "PEV",
+        "string": "O Sr. Francisco Madeira Lopes (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, Sr. Ministro dos Assuntos Parlamentares, Sr. Secretário de Estado Adjunto e do Orçamento: Realmente, durante anos, naqueles anos que se seguiram ao 25 de Abril, o regime de aposentação dos trabalhadores da Administração Pública não mereceu nenhuma alteração ou se houve alguma, nos primeiros anos, foi no sentido de beneficiar os trabalhadores.\nNo entanto, nos últimos 14 anos, este regime tem sofrido constantes e fortes ataques, perspectivandose um futuro negro para os mais de 500 000 trabalhadores da função pública, que foram tornados por este Governo «bodes expiatórios» de uma crise e que viram apelidados os seus direitos adquiridos, conquistados ao longo de muitos anos, de privilégios, mudando as regras a meio do jogo.\nCom a publicação da mais recente alteração, a Lei n.º 60/2005, de 29 de Dezembro, veio este Governo pôr em causa os direitos adquiridos dos trabalhadores inscritos na Caixa Geral de Aposentações, estabelecendo pretensos mecanismos de convergência do regime de protecção social da função pública com o regime geral da segurança social no que respeita às condições de aposentação e ao cálculo de pensões.\nPassados 18 meses, estamos novamente a discutir uma nova proposta de lei que visa alterar ainda para pior as condições, já por si muito graves, que entraram em vigor em Janeiro de 2006.\nCom esta proposta, o Governo vem mais uma vez criar uma profunda instabilidade e insegurança nos trabalhadores de função pública, um sector que tem uma responsabilidade acrescida pelos muitos serviços importantes e fundamentais que presta a toda a população no cumprimento das necessidades fundamentais do Estado e dos cidadãos e na prossecução do interesse público.\nCom esta proposta de lei, o Governo não só está a reduzir o valor da pensão de aposentação mas também a introduzir penalizações por aposentação antecipada muito mais gravosas do que as estabelecidas na Lei n.º 60/2005.\nCom esta proposta de lei, altera-se a fórmula de cálculo da pensão de aposentação, que consta do artigo 5.º da Lei n.º 60/2005, a qual passa a ser influenciada pela aplicação de um factor de sustentabilidade"
+    },
+    {
+      "utterance_id": 224,
+      "order": 224,
+      "page_start": 30,
+      "speaker": {
+        "id": 2247,
+        "name": "Mariana Rosa Aiveca",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Aiveca (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A economia paralela não é fiscalizada!…"
+    },
+    {
+      "utterance_id": 225,
+      "order": 225,
+      "page_start": 30,
+      "speaker": {
+        "id": 1238,
+        "name": "Francisco Miguel Baudoin Madeira Lopes",
+        "party": "PEV",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… valor esse com base no qual são feitos os descontos para a segurança social não só a nível dos trabalhadores mas das próprias empresas.\nA reboque do argumento do aumento da esperança de vida, que de conquista social e civilizacional é convertido em factor de penalização, e no momento em que as desigualdades se avolumam, designadamente no nosso país, o que o Governo sugere é alterar o regime de penalização da aposentação antecipada, em muitos casos com uma dupla penalização para os trabalhadores, em função do momento da aposentação, aumentando esta penalização de 4,5% para 6% ao ano.\nO Governo vai definir as regras a que, futuramente, ficará subordinado o regime de actualização das pensões, o que significará o seu congelamento acima de um determinado limite.\nPode o Governo vir com os mais variados argumentos de convergência entre o regime da Caixa Geral de Aposentações e o regime da segurança social, pode argumentar com equidade, mas, na verdade, o que esta proposta traduz é apenas mais um golpe que visa obrigar os trabalhadores da função pública a exercerem funções para além dos 65 anos e a completarem mais de 40 anos de serviço, chegando até, em muitos casos, aos 48 anos.\nComo já dissemos em tempos, o Governo obriga a descontar durante muito mais anos, fazendo com que estes trabalhadores vejam cada vez mais reduzido o seu tempo de reforma.\nPor isso, para Os Verdes, não se pode, de facto, falar de verdadeira convergência, porque do universo total dos trabalhadores da Administração Pública atingidos, muitos, cerca de 80%, vão ficar com um regime mais desfavorável do que aquele que vigora para o próprio sector privado."
+    },
+    {
+      "utterance_id": 226,
+      "order": 226,
+      "page_start": 30,
+      "speaker": {
+        "id": 2030,
+        "name": "Maria Isabel Coelho Santos",
+        "party": "PS",
+        "string": "A Sr.ª Isabel Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é verdade!"
+    },
+    {
+      "utterance_id": 227,
+      "order": 227,
+      "page_start": 30,
+      "speaker": {
+        "id": 1238,
+        "name": "Francisco Miguel Baudoin Madeira Lopes",
+        "party": "PEV",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "De facto, Sr. Ministro dos Assuntos Parlamentares e Sr. Secretário de Estado Adjunto e do Orçamento, a realidade é que este Partido Socialista de socialista tem cada vez menos ou já quase nada.\nAs críticas no sentido de que o Partido Socialista quando está na oposição faz uma coisa e quando está no Governo faz outra são, de facto, aplicáveis, e também podem aplicar-se a outras forças partidárias, como o Partido Social Democrata.\nPorém, sem dúvida, não contarão com Os Verdes para realizar este tipo de políticas e, por isso, votaremos contra a proposta de lei em apreciação."
+    },
+    {
+      "utterance_id": 228,
+      "order": 228,
+      "page_start": 30,
+      "speaker": {
+        "id": 1147,
+        "name": "Luís Afonso Cerqueira Natividade Candal",
+        "party": "PS",
+        "string": "O Sr. Afonso Candal (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A sua intervenção foi mais «vermelha» do que «verde»!"
+    },
+    {
+      "utterance_id": 229,
+      "order": 229,
+      "page_start": 30,
+      "speaker": {
+        "id": 1238,
+        "name": "Francisco Miguel Baudoin Madeira Lopes",
+        "party": "PEV",
+        "string": "O Sr. Francisco Madeira Lopes (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "«Rosa» é que não foi, com certeza!"
+    },
+    {
+      "utterance_id": 230,
+      "order": 230,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, terminámos o debate da proposta de lei n.º 136/X.\nPassamos à apreciação da petição n.º 261/X (2.ª) — Apresentada por José Manuel Reis Flor Claro Nunes e outros, solicitando à Assembleia da República a suspensão imediata da implementação da experiência pedagógica TLEBS (Terminologia Linguística para os Ensinos Básico e Secundário).\nPara uma intervenção, tem a palavra a Sr.ª Deputada Ana Zita Gomes."
+    },
+    {
+      "utterance_id": 231,
+      "order": 231,
+      "page_start": 30,
+      "speaker": {
+        "id": 2449,
+        "name": "Ana Zita Barbas Marvão Alves Gomes",
+        "party": "PSD",
+        "string": "A Sr.ª Ana Zita Gomes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: A petição que hoje aqui discutimos, subscrita por 8132 cidadãos — que aproveito para saudar —, que solicita a suspensão imediata da implementação da experiência pedagógica da Terminologia Linguística para os Ensinos Básico e Secundário, é discutida cinco meses depois da sua entrega à Assembleia da República.\nPoderemos dizer que, em parte, o motivo da sua apresentação está superado. Esta é também a nossa expectativa, embora existam algumas dúvidas sobre o processo de revisão científica e adaptação pedagógica em curso. Esperamos que esta revisão conduza a uma maior aceitação por parte da comunidade científica.\nContudo, isso em nada desvaloriza a relevância desta petição. De facto, a sua apresentação, há cinco meses atrás, foi certamente um elemento determinante para a decisão que, tardiamente, o Ministério da Educação acabou por tomar, de suspensão, em parte, da experiência pedagógica da TLEBS."
+    },
+    {
+      "utterance_id": 232,
+      "order": 232,
+      "page_start": 31,
+      "speaker": {
+        "id": 1990,
+        "name": "Emídio Guerreiro",
+        "party": "PSD",
+        "string": "O Sr. Emídio Guerreiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 233,
+      "order": 233,
+      "page_start": 31,
+      "speaker": {
+        "id": 2449,
+        "name": "Ana Zita Barbas Marvão Alves Gomes",
+        "party": "PSD",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estes episódios em torno da TLEBS são lamentáveis. Esperamos sinceramente que o processo de revisão conduza a melhorias e, também, a uma adaptação pedagógica que aproxime os jovens à língua portuguesa."
+    },
+    {
+      "utterance_id": 234,
+      "order": 234,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Cecília Honório."
+    },
+    {
+      "utterance_id": 235,
+      "order": 235,
+      "page_start": 31,
+      "speaker": {
+        "id": 2187,
+        "name": "Maria Cecília Vicente Duarte Honório",
+        "party": "BE",
+        "string": "A Sr.ª Cecília Honório (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Ministro dos Assuntos Parlamentares, Sr.as Deputadas e Srs. Deputados: Antes de mais, quero cumprimentar os peticionários presentes nesta Sala e dizer que esta petição é o reconhecimento da dignidade de um direito, o direito de petição, e de um direito vencedor. De facto, ela obrigou um Governo a ceder numa matéria em que foi verdadeiramente inconsequente.\nA suspensão parcial da TLEBS era uma urgência e uma necessidade evidente: não havia gramática para a TLEBS, não havia «didactização» da sua implementação, havia angústia da parte dos professores, alunos desconcertados e pais, mães e encarregados de educação que perguntavam, perante este Ministério, com toda a legitimidade: «O que estão a fazer com os nossos filhos?!». É daqui que parte uma petição que saiu vencedora.\nEste processo tornou-se altamente arbitrário, apesar de a TLEBS ser uma criação do CDS, demonstrando a confusão no Ministério da Educação, com afirmações dos Srs. Secretários de Estado que, um dia, diziam uma coisa e, no dia seguinte, desdiziam-se, tendo dificuldade em assumir aquilo que parecia o mais óbvio: que o Ministério da Educação, quando implementou e generalizou esta terminologia, cedeu a interesses, nomeadamente das próprias editoras.\nNeste sentido, esta petição sai vencedora em todas as suas vertentes. Ela é a expressão das famílias que assumem o direito de perguntar ao Ministério da Educação: «O que é que estão a fazer com os nossos filhos? Como é que podem generalizar, nestas condições, uma terminologia que foi implementada como experiência, ao abrigo, curiosamente, de uma legislação que é do Estado Novo e que dispensa a autorização dos pais para a implementação de experiências pedagógicas, o que não deixa de ser um aspecto importante e relevante?!» Mas esta petição também saiu vencedora porque, além de consagrar esse direito e essa preocupação dos pais, mobilizou a comunidade científica, os especialistas mais reputados, e obrigou o Ministério da Educação a ceder. O Ministério da Educação, pautando até hoje — e, hoje, enfim, com exemplos bastante desastrosos — as suas práticas pela arrogância, foi obrigado a rever este processo, pelo menos parcialmente.\nMas esta petição teve ainda, ao mesmo tempo, um outro contributo, que era importante e urgente: exigir um debate alargado sobre o Português, sobre os programas de Português, sobre as políticas da língua, nomeadamente ao nível daquilo que é, por exemplo, o tratamento do texto literário nos programas de Português. E esta exigência cabe a todos nós!"
+    },
+    {
+      "utterance_id": 236,
+      "order": 236,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para uma intervenção, tem a palavra o Sr. Deputado José Paulo Carvalho."
+    },
+    {
+      "utterance_id": 237,
+      "order": 237,
+      "page_start": 32,
+      "speaker": {
+        "id": 2488,
+        "name": "José Paulo Ferreira Areia De Carvalho",
+        "party": "CDS-PP",
+        "string": "O Sr. José Paulo Carvalho (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Ministro dos Assuntos Parlamentares, Sr.as e Srs. Deputados: O CDS começa por saudar os promotores desta petição e os mais de 8000 cidadãos que a subscreveram.\nA verdade é que, genericamente, concordamos com os objectivos dos promotores, pese embora tenha sido no tempo em que o CDS integrava o Governo que foi aprovada e criada a TLEBS, simplesmente em circunstâncias bem diferentes daquelas que o actual Governo adoptou e acabou por aplicar."
+    },
+    {
+      "utterance_id": 238,
+      "order": 238,
+      "page_start": 32,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 239,
+      "order": 239,
+      "page_start": 32,
+      "speaker": {
+        "id": 2488,
+        "name": "José Paulo Ferreira Areia De Carvalho",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Porém, parece-nos que, dada a decisão do Governo de suspender, ainda que parcialmente e apenas para o ensino básico, a aplicação da TLEBS, estará desactualizado, pelo menos em parte, o objectivo dos peticionários.\nConhecemos bem toda a discussão e uma certa falta de consenso que se gerou relativamente a alguns termos incluídos nesta terminologia e, por isso, entendemos que, de facto, o debate tem de ser feito,…"
+    },
+    {
+      "utterance_id": 240,
+      "order": 240,
+      "page_start": 32,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 241,
+      "order": 241,
+      "page_start": 32,
+      "speaker": {
+        "id": 2488,
+        "name": "José Paulo Ferreira Areia De Carvalho",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… tem de se fazer apelo à participação da comunidade científica, tem de se fazer apelo à participação daqueles que têm apreço pela língua portuguesa, porque uma reforma da terminologia linguística com esta dimensão tem de implicar debate. É importante que ela se faça, mas que se faça bem feita e aquilo que resulta da actuação e da abordagem do Governo em relação a todo este processo é uma espécie de «lógica de corta-relva» — ora vai à frente, ora vai atrás, ora diz que avança, ora diz que recua —, o que, de facto, tem sido lamentável! Bom seria que o Governo tivesse tido uma atitude sempre no mesmo tom, que não desse indicadores contrários, porque aquela que assumiu acabou por vir a desembocar no que já era esperado e que já todos viam como absolutamente necessário, que era a suspensão, e que o Governo determinou que fosse parcial.\nE por que é que o Governo, nesta matéria, tem um peso e uma culpa que devem ser aqui chamadas à atenção? Porque, de facto, na portaria que instituiu a TLEBS — a Portaria n.º 1488/2004 — previa-se, desde logo, que ela seria implementada a título de experiência pedagógica, sendo fixada em três anos lectivos a duração desta experiência, que seria uma experiência-piloto e não generalizada, como, depois, este Governo veio a decidir e a impor, e que a TLEBS entraria em vigor generalizadamente apenas e somente depois de avaliados os resultados e com as alterações que estes resultados viessem, porventura, a aconselhar.\nPortanto, houve sem dúvida alguma uma precipitação do Governo quando generalizou a aplicação da TLEBS e veio tarde o reconhecimento desse erro, mas houve uma suspensão, ainda que parcial, da aplicação da TLEBS, embora tardia, como já disse, e na lógica do «vai à frente e volta atrás», pelo que finalmente parece que houve aqui algum bom-senso.\nTermino dizendo que somos favoráveis a esta suspensão e, mais uma vez, saudamos os subscritores desta petição."
+    },
+    {
+      "utterance_id": 242,
+      "order": 242,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 243,
+      "order": 243,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Oliveira."
+    },
+    {
+      "utterance_id": 244,
+      "order": 244,
+      "page_start": 32,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Começo por saudar os peticionantes ou peticionários — é uma questão que talvez a TLEBS possa vir a resolver — por terem trazido a esta Assembleia uma discussão que também o PCP já trouxe noutras alturas.\nDe facto, este é um processo em que o PS, o PSD e o CDS-PP partilham responsabilidades. Certamente não na mesma medida, mas é um processo em que essa partilha de responsabilidades se verifica, como, aliás, fica demonstrado pelas intervenções anteriores.\nSendo um processo que se iniciou com o anterior governo, do PSD e do CDS-PP, continua por demonstrar, antes de mais, a necessidade de uma nova terminologia linguística e, por outro lado, fica demonstrado o erro político da sua generalização. Esta é a opinião não só da Associação de Professores de Português mas também de muitos linguistas, dos quais apenas destaco o Prof. Doutor Luiz Fagundes Duarte, actualmente Deputado do PS, que nos brindou com uma brilhante exposição na Comissão de Educação, Ciência e Cultura sobre a desnecessidade desta nova terminologia linguística e do erro político que significou a sua generalização."
+    },
+    {
+      "utterance_id": 245,
+      "order": 245,
+      "page_start": 33,
+      "speaker": {
+        "id": 1330,
+        "name": "Luiz Manuel Fagundes Duarte",
+        "party": "PS",
+        "string": "O Sr. Luiz Fagundes Duarte (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Eu não disse isso!"
+    },
+    {
+      "utterance_id": 246,
+      "order": 246,
+      "page_start": 33,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A verdade é que, apesar de continuar por demonstrar a necessidade desta terminologia linguística, o Governo do PS generalizou a todas as escolas do ensino básico esta experiência iniciada com o anterior governo, do PSD e do CDS-PP.\nE como se não bastassem estas sucessivas decisões políticas de errada orientação, este Governo acrescentou ainda a este processo alguma incompetência e alguma trapalhada com as tomadas de posição de dois Secretários de Estado, Valter Lemos e Jorge Pedreira, recusando-se primeiro a reconhecer o erro cometido e as consequências que daí derivariam e que há muito estavam identificadas e com as declarações contraditórias que ao longo do tempo se foram sucedendo, ora com o Secretário de Estado Valter Lemos dizendo que era pouco responsável suspender a meio do ano esta experiência, ora, depois, com o Secretário de Estado Jorge Pedreira afirmando que havia a intenção de suspender a TLEBS em Fevereiro ou remetendo para o próximo ano lectivo essa mesma suspensão.\nA verdade é que a situação que temos actualmente é o resultado de tudo isto, dos erros políticos que foram cometidos e das trapalhadas que foram sendo assumidas pela equipa ministerial.\nNeste momento, a TLEBS foi suspensa durante este ano lectivo, não em Fevereiro mas em Abril, e foi «chutada» para a frente. E a verdade é que tudo aquilo que foi esta experiência e que foi ensinado ao longo do ano ao abrigo desta experiência pedagógica acaba por servir de nada.\nHá uma consequência imediata desta decisão de suspensão nos exames nacionais, a desconsideração da avaliação dos conhecimentos gramaticais nos exames nacionais de língua portuguesa. E a verdade é que esta decisão decorre da suspensão da TLEBS, ao contrário daquilo que a equipa ministerial quer fazer crer com a desculpa que adianta de que os exames nacionais se destinam a avaliar a capacidade de compreender e de escrever um texto e não as regras que regulam o funcionamento da língua.\nOra, isto é mais um pretexto que a equipa ministerial encontra para não reconhecer o erro que cometeu e é um absurdo que, de facto, só se compreende de uma equipa ministerial chefiada por uma Ministra da Educação que, ainda hoje de manhã — e não queria deixar de referir este facto —, confrontada com a decisão do Tribunal Constitucional que julgou inconstitucional a repetição dos exames nacionais, disse que faria tudo de novo e que tomaria ainda mais decisões."
+    },
+    {
+      "utterance_id": 247,
+      "order": 247,
+      "page_start": 33,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Extraordinário!"
+    },
+    {
+      "utterance_id": 248,
+      "order": 248,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem de concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 249,
+      "order": 249,
+      "page_start": 33,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Concluo já, Sr. Presidente.\nOra, isto é uma afirmação de alguém que não compreende o texto do Tribunal Constitucional que julga inconstitucional uma sua decisão e de alguém que não compreende as regras de funcionamento de uma democracia. A isto tudo, Sr.as e Srs. Deputados, não há sistema educativo que resista!"
+    },
+    {
+      "utterance_id": 250,
+      "order": 250,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Luiz Fagundes Duarte."
+    },
+    {
+      "utterance_id": 251,
+      "order": 251,
+      "page_start": 33,
+      "speaker": {
+        "id": 1330,
+        "name": "Luiz Manuel Fagundes Duarte",
+        "party": "PS",
+        "string": "O Sr. Luiz Fagundes Duarte (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Ministro, Sr.as e Srs. Deputados: A Terminologia Linguística para os Ensinos Básico e Secundário, carinhosamente designada por TLEBS, constitui uma aventura pseudo didáctica e pseudo pedagógica que poderia muito bem ter sido evitada por aquilo que é e por aquilo que de mau provocou."
+    },
+    {
+      "utterance_id": 252,
+      "order": 252,
+      "page_start": 33,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Sr. Agostinho Branquinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É uma excelente autocrítica!"
+    },
+    {
+      "utterance_id": 253,
+      "order": 253,
+      "page_start": 33,
+      "speaker": {
+        "id": 1330,
+        "name": "Luiz Manuel Fagundes Duarte",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Criada em 2004 pelo governo do PSD/CDS-PP — convinha não esquecer —, a TLEBS logo se apresentou como uma experiência pedagógica, evocando para tal, como já foi referido pela Sr.ª Deputada Cecília Honório, um decreto do Estado Novo que permite que se façam experiências pedagógicas com crianças sem autorização dos pais e encarregados de educação.\nEsta experiência deveria durar três anos lectivos, com início em 2004-2005 (é isso o que consta da portaria),…"
+    },
+    {
+      "utterance_id": 254,
+      "order": 254,
+      "page_start": 33,
+      "speaker": {
+        "id": 1990,
+        "name": "Emídio Guerreiro",
+        "party": "PSD",
+        "string": "O Sr. Emídio Guerreiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não, não!"
+    },
+    {
+      "utterance_id": 255,
+      "order": 255,
+      "page_start": 33,
+      "speaker": {
+        "id": 1330,
+        "name": "Luiz Manuel Fagundes Duarte",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e os seus criadores reconheciam à partida não existirem as necessárias condições para que fosse tomada a sério.\nNuma portaria datada de 18 de Novembro, publicada a 24 de Dezembro de 2004, em que se determina-"
+    },
+    {
+      "utterance_id": 256,
+      "order": 256,
+      "page_start": 34,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Sr. Agostinho Branquinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Qual é a anedota?"
+    },
+    {
+      "utterance_id": 257,
+      "order": 257,
+      "page_start": 34,
+      "speaker": {
+        "id": 1330,
+        "name": "Luiz Manuel Fagundes Duarte",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ou seja, partia-se para uma experiência pedagógica sem que se tivesse assegurado antes a formação dos professores que a iriam aplicar e a distribuição dos documentos científicos e pedagógicos que a sustentavam. Ou seja — reconheçam, Srs. Deputados! —, a coisa nasceu torta."
+    },
+    {
+      "utterance_id": 258,
+      "order": 258,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Por que é que generalizaram?"
+    },
+    {
+      "utterance_id": 259,
+      "order": 259,
+      "page_start": 34,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Generalizaram o «entortamento»!"
+    },
+    {
+      "utterance_id": 260,
+      "order": 260,
+      "page_start": 34,
+      "speaker": {
+        "id": 1330,
+        "name": "Luiz Manuel Fagundes Duarte",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O actual Governo do PS, numa postura construtiva, de que os senhores bem precisavam, mas talvez demasiado cordata relativamente a uma medida errada herdada de outro governo, reconheço, porque há situações em que os erros dos outros não devem ser apoiados, decidiu dar continuidade ao processo experimental da TLEBS,…"
+    },
+    {
+      "utterance_id": 261,
+      "order": 261,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Generalizaram, não foi dar continuidade!"
+    },
+    {
+      "utterance_id": 262,
+      "order": 262,
+      "page_start": 34,
+      "speaker": {
+        "id": 1330,
+        "name": "Luiz Manuel Fagundes Duarte",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… até se perceber, pelas confusões que estava a provocar nas escolas, nos professores, nos alunos e também no mercado editorial, que se tratava de uma experiência falhada e que deveria ser suspensa."
+    },
+    {
+      "utterance_id": 263,
+      "order": 263,
+      "page_start": 34,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sejam rigorosos!"
+    },
+    {
+      "utterance_id": 264,
+      "order": 264,
+      "page_start": 34,
+      "speaker": {
+        "id": 1330,
+        "name": "Luiz Manuel Fagundes Duarte",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E foi-o, pela Portaria n.º 476/2007, de 18 de Abril, que suspende até 2010 os processos de adopção dos novos manuais da disciplina de língua portuguesa dos 2.º e 3.º ciclos do ensino básico e manda proceder, e muito bem, a uma revisão científica e a uma adaptação pedagógica da TLEBS.\nO Grupo Parlamentar do PS reconhece e aplaude a decisão do Governo,…"
+    },
+    {
+      "utterance_id": 265,
+      "order": 265,
+      "page_start": 34,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Sr. Agostinho Branquinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Qual delas?"
+    },
+    {
+      "utterance_id": 266,
+      "order": 266,
+      "page_start": 34,
+      "speaker": {
+        "id": 1330,
+        "name": "Luiz Manuel Fagundes Duarte",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… que foi tomada, ao contrário do que dizem, no tempo certo e com os argumentos adequados, e só lamenta que a suspensão não tenha sido feita por tempo indeterminado até que a comunidade científica chegue a uma posição clara e consolidada sobre a matéria.\nSrs. Deputados, estamos a falar de coisas sérias."
+    },
+    {
+      "utterance_id": 267,
+      "order": 267,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É preciso rigor!"
+    },
+    {
+      "utterance_id": 268,
+      "order": 268,
+      "page_start": 34,
+      "speaker": {
+        "id": 1330,
+        "name": "Luiz Manuel Fagundes Duarte",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Governo do PS reconheceu uma coisa que os senhores nunca reconheceram: quando percebeu que esta experiência era falhada, que esta experiência não funcionava, acabou com ela."
+    },
+    {
+      "utterance_id": 269,
+      "order": 269,
+      "page_start": 34,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Sr. Agostinho Branquinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vocês é que a generalizaram!"
+    },
+    {
+      "utterance_id": 270,
+      "order": 270,
+      "page_start": 34,
+      "speaker": {
+        "id": 1330,
+        "name": "Luiz Manuel Fagundes Duarte",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os senhores é que a lançaram e devem assumir a responsabilidade! Pela nossa parte, Sr. Presidente, Sr.as e Srs. Deputados, a TLEBS está morta e deverá ser enterrada.\nAgradecemos a estes mais de 8000 cidadãos que exerceram o seu direito de petição a intervenção cívica saudável que tiveram neste processo e gostaria de salientar — porque nós assumimos as nossas responsabilidades e cada um que assuma as suas — que este foi um processo que nasceu torto e, como diz o povo, aquilo que nasceu torto dificilmente se endireitará."
+    },
+    {
+      "utterance_id": 271,
+      "order": 271,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Francisco Madeira Lopes, para uma intervenção."
+    },
+    {
+      "utterance_id": 272,
+      "order": 272,
+      "page_start": 34,
+      "speaker": {
+        "id": 1238,
+        "name": "Francisco Miguel Baudoin Madeira Lopes",
+        "party": "PEV",
+        "string": "O Sr. Francisco Madeira Lopes (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Discutimos a petição n.º 261/X (2.ª), que pede a imediata suspensão da implementação da experiência pedagógica TLEBS.\nA TLEBS, trazendo uma nova terminologia para a gramática portuguesa, foi implementada pelo governo"
+    },
+    {
+      "utterance_id": 273,
+      "order": 273,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Ministro dos Assuntos Parlamentares."
+    },
+    {
+      "utterance_id": 274,
+      "order": 274,
+      "page_start": 35,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, associando-me à discussão desta petição, direi que a mesma teve um importante papel na sensibilização da opinião pública para o problema da aplicação e dos termos da aplicação da experiência-piloto determinada pela portaria publicada em Novembro de 2004, a propósito da nova Terminologia Linguística para os Ensinos Básico e Secundário.\nA primeira informação que gostaria de dar, corrigindo um pouco alguns termos aqui empregues, é que, nos termos da portaria de 2004, publicada em Novembro, essa experiência-piloto se iniciou logo no ano lectivo de 2004/2005. Isto é, a portaria teve efeitos retroactivos, ao determinar, em Novembro, que se iniciasse nesse ano lectivo, a partir de Setembro e não em anos lectivos futuros, uma experiência-piloto.\nDeterminou ainda que a essa experiência fosse sujeita uma parte dos estudantes dos ensinos básico e secundário.\nOra, o actual Governo não concorda com experiências que têm como cobaias uma parte dos estudantes,…"
+    },
+    {
+      "utterance_id": 275,
+      "order": 275,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "E por isso generalizou!"
+    },
+    {
+      "utterance_id": 276,
+      "order": 276,
+      "page_start": 35,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… por causa de um princípio muito simples que é o princípio da igualdade."
+    },
+    {
+      "utterance_id": 277,
+      "order": 277,
+      "page_start": 35,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É a democratização da desgraça!"
+    },
+    {
+      "utterance_id": 278,
+      "order": 278,
+      "page_start": 35,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, quando se introduzem mudanças, nem que seja a título experimental, no sistema de ensino, elas devem aplicar-se a todos para garantir a igualdade de oportunidades de todos.\nOra, essa generalização permitiu identificar problemas sérios na aplicação da nova terminologia, aprovada em 2004 pelo governo de então, e, em função da identificação desses problemas, o actual Governo, por uma portaria de 2005, mandou suspender o processo e tomou duas decisões de fundo.\nA primeira decisão foi a de determinar a revisão científica da terminologia linguística. É necessário considerar a desactualização, em muitos aspectos, da nomenclatura gramatical em vigor em Portugal, do ponto de vista legal desde os anos 60, e é preciso que essa revisão seja cientificamente fundamentada e escrutinada pelos especialistas.\nA segunda decisão de fundo foi a de encarregar os peritos de examinarem outra dimensão do problema, que é a do uso pedagógico da terminologia linguística, da sua adaptação pedagógica. Esse trabalho está em curso e dele resultará a revisão científica da terminologia linguística e as condições da sua aplicação pedagógica.\nPortanto, não vale a pena tentar distorcer o passado, nem esconder o presente e o futuro com o passado."
+    },
+    {
+      "utterance_id": 279,
+      "order": 279,
+      "page_start": 36,
+      "speaker": {
+        "id": 1238,
+        "name": "Francisco Miguel Baudoin Madeira Lopes",
+        "party": "PEV",
+        "string": "O Sr. Francisco Madeira Lopes (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é preciso esconder! «Entra pelos olhos dentro»!"
+    },
+    {
+      "utterance_id": 280,
+      "order": 280,
+      "page_start": 36,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Parece-me poder deduzir-se desta discussão que pelo menos as bancadas do PSD e do CDS-PP entendem que se pode pegar numa parte das nossas crianças do ensino básico e dos nossos jovens do ensino secundário e sujeitá-los a condições de ensino e de currículo diferentes dos demais colegas. Ao mesmo tempo, defendem exames nacionais. É uma curiosa concepção pedagógica a vossa…"
+    },
+    {
+      "utterance_id": 281,
+      "order": 281,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as e Srs. Deputados, estão concluídos os nossos trabalhos.\nA próxima sessão plenária realizar-se-á na próxima quarta-feira, às 15 horas, tendo como ordem do dia, na primeira parte, um debate com o Primeiro-Ministro sobre a apresentação do programa da Presidência Portuguesa da União Europeia e, na segunda parte, a apreciação do relatório da Comissão de Assuntos Europeus sobre a estratégia política anual da Comissão Europeia para 2008.\nEstá encerrada a sessão."
+    }
+  ]
+}

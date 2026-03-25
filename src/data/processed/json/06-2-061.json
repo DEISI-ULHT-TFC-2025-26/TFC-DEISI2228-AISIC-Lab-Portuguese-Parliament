@@ -1,0 +1,754 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "6",
+    "legislative_session": "2",
+    "number": "61",
+    "date": "1993-04-21"
+  },
+  "debate_id": "r3_6_2_61_1993-04-21",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 1976,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.\nEram 15 horas e 25 minutos.\nEstavam presentes os seguintes Srs. Deputados:\nPartido Social-Democrata (PSD):\nAbílio Sousa e Silva.\n\nAdão José Fonseca Silva.\n\nAdérito Manuel Soares Campos.\n\nAdriano da Silva Pinto.\n\nAlberto Cerqueira de Oliveira.\n\nAlberto Monteiro de Araújo.\n\nÁlvaro José Martins Viegas.\n\nAna Paula Matos Barros.\n\nAnabela Honório Matias.\n\nAntónio Costa de Albuquerque de Sousa Lara.\n\nAntónio da Silva Bacelar.\n\nAntónio de Carvalho Martins.\n\nAntónio do Carmo Branco Malveiro.\n\nAntónio Esteves Morgado.\n\nAntónio Germano Fernandes de Sá e Abreu.\n\nAntónio Joaquim Correia Vairinhos.\n\nAntónio José Barradas Leitão.\n\nAntónio José Caeiro da Motta Veiga.\n\nAntónio Manuel Fernandes Alves.\n\nAntónio Maria Pereira.\n\nAntónio Paulo Martins Pereira Coelho.\n\nAristides Alves do Nascimento Teixeira.\n\nArlindo da Silva André Moreira.\n\nArmando de Carvalho Guerreiro da Cunha.\n\nArménio dos Santos.\n\nBelarmino Henriques Correia.\n\nCarlos Alberto Lopes Pereira.\n\nCarlos de Almeida Figueiredo.\n\nCarlos Filipe Pereira de Oliveira.\n\nCarlos Lélis da Câmara Gonçalves.\n\nCarlos Manuel de Oliveira da Silva.\n\nCarlos Manuel Duarte de Oliveira.\n\nCarlos Manuel Marta Gonçalves.\n\nCarlos Miguel de Valleré Pinheiro de Oliveira.\n\nCarlos Miguel Maximiano de Almeida Coelho.\n\nCecília Pita Catarino.\n\nCipriano Rodrigues Martins.\n\nDomingos Duarte Lima.\n\nDuarte Rogério Matos Ventura Pacheco.\n\nEduardo Alfredo de Carvalho Pereira da Silva.\n\nEma Maria Pereira Leite Lóia Paulista.\n\nFernando Carlos Branco Marques de Andrade.\n\nFernando dos Reis Condesso.\n\nFernando José Antunes Gomes Pereira.\n\nFernando José Russo Roque Correia Afonso.\n\nFernando Manuel Alves Cardoso Ferreira.\n\nFernando Monteiro do Amaral.\n\nFilipe Manuel da Silva Abreu.\n\nFrancisco Antunes da Silva.\n\nFrancisco João Bernardino da Silva.\n\nGuido Orlando de Freitas Rodrigues.\n\nGuilherme Henrique Valente Rodrigues da Silva.\n\nHilário Torres Azevedo Marques.\n\nIsilda Maria Renda Periquito Pires Martins.\n\nJaime Gomes Mil-Homens.\n\nJoão Alberto Granja dos Santos Silva.\n\nJoão Carlos Barreiras Duarte.\n\nJoão Domingos Fernandes de Abreu Salgado.\n\nJoão Granja Rodrigues da Fonseca.\n\nJoão José da Silva Maçãs.\n\nJoão Maria Leitão de Oliveira Martim.\n\nJoaquim Cardoso Martins.\n\nJoaquim Eduardo Gomes.\n\nJoaquim Manuel Pereira de Almeida e Silva.\n\nJoaquim Vilela de Araújo.\n\nJorge Paulo de Seabra Roque da Cunha.\n\nJosé Alberto Puig dos Santos Costa.\n\nJosé Álvaro Machado Pacheco Pereira.\n\nJosé António Peixoto Lima.\n\nJosé Augusto Santos da Silva Marques.\n\nJosé de Almeida Cesário.\n\nJosé Fortunato Freitas Costa Leite.\n\nJosé Júlio Carvalho Ribeiro.\n\nJosé Leite Machado.\n\nJosé Macário Custódio Correia.\n\nJosé Manuel Borregana Meireles.\n\nJosé Manuel da Silva Costa.\n\nJosé Mário de Lemos Damião.\n\nJosé Pereira Lopes.\n\nLuís António Carrilho da Cunha.\n\nLuis António Martins.\n\nLuis Carlos David Nobre.\n\nLuís Filipe Garrido Pais de Sousa.\n\nLuis Manuel Costa Geraldes.\n\nManuel Acácio Martins Roque.\n\nManuel Antero da Cunha Pinto.\n\nManuel Castro de Almeida.\n\nManuel da Silva Azevedo.\n\nManuel de Lima Amorim.\n\nManuel Filipe Correia de Jesus.\n\nManuel Joaquim Baptista Cardoso.\n\nManuel Maria Moreira.\n\nManuel Simões Rodrigues Marques.\n\nMaria da Conceição Figueira Rodrigues.\n\nMaria da Conceição Ulrich de Castro Pereira.\n\nMaria de Lurdes Borges Póvoa Pombo Costa.\n\nMaria José Paulo Caixeiro Barbosa Correia.\n\nMaria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.\n\nMaria Luísa Lourenço Ferreira.\n\nMaria Margarida da Costa e Silva Pereira Taveira de Sousa.\n\nMarília Dulce Coelho Pires Morgado Raimundo.\n\nMário Jorge Belo Maciel.\n\nMelchior Ribeiro Pereira Moreira.\n\nMiguel Bento Martins da Costa de Macedo e Silva.\n\nMiguel Fernando Cassola de Miranda Relvas.\n\nNuno Francisco Fernandes Delerue Alvim de Matos.\n\nNuno Manuel Franco Ribeiro da Silva.\n\nOlinto Henrique da Cruz Ravara.\n\nPedro António de Bettencourt Gomes.\n\nPedro Domingos de Souza e Holstein Campilho.\n\nPedro Manuel Cruz Roseta.\n\nPedro Manuel Mamede Passos Coelho.\n\nRui Alberto Limpo Salvada.\n\nRui Carlos Alvarez Carp.\n\nRui Fernando da Silva Rio.\n\nSimão José Ricon Peres.\n\nVirgílio de Oliveira Carneiro.\n\nVítor Manuel da Igreja Raposo.\nPartido Socialista (PS):\nAlberto Arons Braga de Carvalho.\n\nAlberto Bernardes Costa.\n\nAlberto da Silva Cardoso.\n\nAlberto de Sousa Martins.\n\nAlberto Manuel Avelino."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 1977,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o Sr. Secretário vai dar conta dos requerimentos e das respostas a requerimentos que deram entrada na Mesa."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 1977,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (João Salgado)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados: Foram apresentados na Mesa, nas últimas reuniões plenárias, os seguintes requerimentos: ao Governo, formulados pelos Srs. Deputados Luis Peixoto, João Proença, Jorge Paulo Cunha, Hasse Ferreira, Caio Roque, Luís Nobre e António Filipe; à Secretaria de Estado da Cultura, formulado pelo Sr. Deputado José Manuel Maia; à Secretaria de Estado da Modernização Administrativa, formulado pelo Sr. Deputado José Magalhães; ao Ministério da Indústria e Energia, formulados petos Srs. Deputados Lufe Peixoto e Lino de Carvalho; ao Ministério da Saúde, formulado pela Sr.ª Deputada Apolónia Teixeira; ao Ministério da Administração Interna, formulado pelo Sr. Deputado Mário Tomé; ao Ministério das Finanças, formulados pelos Srs. Deputados João Granja e Raul Castro; à Câmara Municipal de Loures, formulados peto Sr. Deputado Jorge Pauto Cunha.\n\nEntretanto, o Governo respondeu aos requerimentos apresentados pelos seguintes Srs. Deputados: António Filipe, na sessão de 6 de Dezembro; Marília Raimundo, na sessão de 7 de Janeiro; Miguel Urbano Rodrigues, na sessão de 9 de Abril; Cerqueira de Oliveira, na sessão de 21 de Maio; Macário Correia, na sessão de 12 de Junho; Manuel Sérgio, na sessão de 22 de Julho; Isabel Castro, na sessão de 22 de Outubro; Guilherme Oliveira Martins, nas sessões de 17 de Novembro e 21 de Janeiro; José Apolinário, na sessão de 19 de Novembro; Miranda Calha, na sessão de 20 de Novembro; António Filipe, na sessão de 3 de Dezembro; Fernando de Sousa, na sessão de 17 de Dezembro; Lino de Carvalho, na sessão de 7 de Janeiro; Álvaro Viegas, na sessão de 28 de Janeiro; Fialho Anastácio e Manuel Alegre, na sessão de 4 de Fevereiro; Leonor Coutinho, na sessão de 12 de Fevereiro; Mário Tomé, nas sessões de 16 de Fevereiro e 2 de Março; João Rui de Almeida, na sessão de 18 de Fevereiro; Ana Maria Bettencourt, na sessão de 9 de Março."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 1977,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Manuel Maia."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 1977,
+      "speaker": {
+        "id": 253,
+        "name": "José Manuel Maia Nunes De Almeida",
+        "party": "PCP",
+        "string": "O Sr. José Manuel Maia (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Falo hoje sobre a situação das freguesias por precisamente fazer hoje um ano que ocorreu um facto de graves reflexos para essas autarquias, mas também por ser necessário que a Assembleia tome conhecimento disso."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 1978,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Silva Marques."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 1978,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado José Manuel Maia, o Sr. Deputado mantém, infelizmente, a característica própria de alguns Deputados da oposição, que consiste em apresentarem propostas fáceis sendo oposição, mas procurarem um maior rigor nas instâncias em que exercem as responsabilidades da Administração. Devo, aliás, dizer que isso vos fica muito bem. Só lastimo que não transponham as mesmas regras para o Hemiciclo e partam do princípio de que os Deputados têm como característica a de não ter rigor. Recuso essa concepção de Deputado, pois podemos afrontar as nossas propostas no terreno comum do rigor recíproco.\n\nOra, é dificilmente sustentável que se preconize o estatuto de tempo inteiro e remuneração correspondente para os autarcas das freguesias-convém frisá-lo-sem haver um quadro ou uma perspectiva das atribuições das freguesias. Seria estar a olhar um lado da questão sem olhar o outro lado da mesma questão.\n\nO senso comum leva, aliás, a rejeitar, evidentemente, essa tentação da facilidade das propostas a que chamaria «de pastelaria», por se traduzirem em oferecer o doce quando se está na oposição. Os próprios autarcas das freguesias, na sua esmagadora maioria, não colocam essa reivindicação nas suas prioridades. É um conjunto de homens bons, cujo principal motivo do exercício das suas funções é o de contribuir, com os meios de que dispõem, para o bem das suas terras. Nunca a maioria esmagadora desses autarcas (é evidente que alguns deles colocaram esse problema como a sua principal reivindicação) se mostrou urgentemente preocupada com o assunto."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 1979,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 1979,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado José Manuel Maia."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 1979,
+      "speaker": {
+        "id": 253,
+        "name": "José Manuel Maia Nunes De Almeida",
+        "party": "PCP",
+        "string": "O Sr. José Manuel Maia (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente e Srs. Deputados: Se o Sr. Deputado Silva Marques tivesse outra tonalidade de voz chegávamos à conclusão de que nos estava a dar música..."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 1979,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se a música é boa, por que não?!"
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 1979,
+      "speaker": {
+        "id": 253,
+        "name": "José Manuel Maia Nunes De Almeida",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Todavia, este assunto é sério e o senhor não o abordou de forma séria! Como não o fez, perguntar-lhe-ia o seguinte: será que o que hoje aqui fez foi uma autocrítica, ou será que os senhores não apresentaram uma iniciativa legislativa sobre o assunto?\n\nPor outro lado, Sr. Deputado Silva Marques, a questão que lhe coloco é a de saber o que apareceu primeiro: se o ovo, se a galinha!... Por isso é que digo que o senhor é o líder do malabarismo nestas questões das freguesias e do poder local. E é o líder do malabarismo porque, por um lado, questiona «para quê a tempo inteiro se ainda não se discutiram as competências, as atribuições e os meios financeiros?», mas, por outro lado, quando se quer discutir as atribuições, as competências e os meios financeiros, os senhores fazem tudo para que isso não aconteça. Ora, isto não está certo!"
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 1979,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Granja da Fonseca"
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 1979,
+      "speaker": {
+        "id": 1631,
+        "name": "João Granja Rodrigues Da Fonseca",
+        "party": "PSD",
+        "string": "O Sr. Granja da Fonseca (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: «O homem vale mais por aquilo que é do que por aquilo que tem.»\n\nO tema que me proponho desenvolver, nesta minha intervenção no Plenário da Assembleia da República, é o da habitação social como um direito fundamental do cidadão, como uma prática da política social-democrata e como uma necessidade dos nossos dias.\n\nA dignidade da pessoa humana defende-se não apenas no campo teórico, no mundo dos princípios, mas sobretudo na prática mediante a concretização de direitos inalienáveis, daqueles direitos que são absolutamente necessários para que possamos ter uma vida digna e usufruir dos meios indispensáveis à nossa realização.\n\nO direito à habitação é sem dúvida um desses direitos.\n\nComo pode o homem viver decentemente se ele e a sua família não dispõem de uma habitação digna? Como pode o homem realizar-se se não dispõe deste meio essencial para si e para a sua família?\n\nQuando dizemos que o homem vale mais por aquilo que é do que por aquilo que tem, estamos a referir-nos à dignidade da pessoa humana, que pressupõe um conjunto de direitos inalienáveis que a sociedade tem de respeitar e que o Estado tem de defender.\n\nMas não basta valermos pelo que somos-seres vivos dotados de inteligência, vontade e liberdade-, é necessário valermos também pelo que proporcionamos aos outros no âmbito da solidariedade social, dever a que nenhum Estado pode fugir.\n\nPois bem, a habitação e a habitação social são direitos fundamentais do homem. Ao Estado, à sociedade, compete o dever de os concretizar.\n\nO Programa do XE Governo Constítucional, no capítulo IV, que tem como epígrafe «Reforçar a solidariedade, melhorar a qualidade de vida», define e propõe-se concretizar um conjunto de políticas nas áreas da família, segurança social, deficientes, igualdade de oportunidades entre homens e mulheres, saúde, emprego, habitação, ambiente e recursos naturais, ordenamento do território e defesa do consumidor.\n\nRelativamente à habitação diz o seguinte: «Investir na habitação é consagrar, na prática, um direito fundamental do cidadão. Daí que o sector da habitação constitua uma área prioritária da acção governativa. Trata-se de procurar assegurar as condições necessárias para que os Portugueses tenham acesso a uma habitação condigna.\n\nA situação actual, apesar da evolução registada nos últimos anos, caracteriza-se ainda por evidentes carências e estrangulamentos.\n\nImporta, por isso, definir e executar uma exigente e ambiciosa política de habitação orientada, fundamentalmente, para quatro vertentes: a criação de um mercado de arrendamento a funcionar de forma estabilizada; o reforço substancial do apoio às autarquias e outras instituições para fomento da habitação social; a defesa e promoção da qualidade urbana; a criação de melhores condições para a aquisição de casa própria.»\n\nNesta intervenção, como disse, referir-me-ei sobretudo à habitação social. E, neste ponto, o Programa do Governo refere, como objectivo essencial a prosseguir, o fomento da promoção pública da habitação social, de modo descentralizado, a cargo dos municípios e em cooperação com o Estado.\n\nO Partido Social-Democrata sempre fez da solidariedade social um dos seus princípios básicos e fundamentais, e da resolução dos problemas mais preocupantes e socialmente mais agudos uma prioridade da sua actuação.\n\nConsta também do Programa do Governo a erradicação das barracas. E para que fique registado e para relembrar a pessoas esquecidas transcrevo aquilo a que se comprometeu o Governo: «A eliminação dos bairros de barracas, promovendo o realojamento das famílias carecidas é, neste contexto, um imperativo ético a prosseguir e um objectivo supremo a atingir.»\n\nA minha preocupação de me referir à dignidade da pessoa humana como fim último da acção política e de transcrever algumas passagens do Programa do Governo quanto à habitação social visa, fundamentalmente, dois objectivos: em primeiro lugar, e dado que há uma ligação perfeita entre a dignidade humana e a concretização de direitos fundamentais, dizer que para nós sociais-democratas quando defendemos os princípios temos a preocupação de os concretizar a bem da população.\n\nEm segundo lugar, pretendo rebater a baixa política da oposição que, quando não tem argumentos substanciais, se refugia em circunstâncias meramente ocasionais e não sabe distinguir dois conceitos básicos da filosofia, como são os conceitos de causa e de ocasião."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 1980,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Cardoso Martins."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 1980,
+      "speaker": {
+        "id": 1734,
+        "name": "Joaquim Cardoso Martins",
+        "party": "PSD",
+        "string": "O Sr. Cardoso Martins (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: S. Ex.ª o Presidente da República marcou"
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 1982,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o Sr. Secretário vai indicar os alunos que se encontram a assistir à sessão."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 1982,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Lemos Damião)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados: Encontram-se a assistir à sessão alunos das Escolas Secundária do Fogueteiro, Secundária de Almeirim, Superior de Polícia, Primária do Algueirão, Secundária n.º 1 de Aveiro e Secundária de Santa Maria Maior, de Viana do Castelo, e do Curso de Defesa Nacional."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 1982,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para eles peço a nossa habitual saudação.\nSrs. Deputados, terminámos o período de antes da ordem do dia.\nEram 16 horas e 10 minutos.\nORDEM DO DIA"
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 1982,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, entrámos no período da ordem do dia.\n\nAntes de iniciarmos a discussão do projecto de lei agendado para hoje, quero informar a Câmara de que deu entra-"
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 1983,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (João Salgado)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, é do seguinte teor:\nA Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação da Assembleia da República, tendo apreciado a mensagem de S. Ex.ª o Presidente da República em que solicita o assentimento para se deslocar, em viagem de carácter oficial, aos Estados Unidos da América, entre os dias 20 e 24 do corrente mês de Abril, apresenta ao Plenário a seguinte proposta de resolução:\nNos termos do n.º 1 do artigo 132.º da Constituição, a Assembleia da República dá o assentimento à viagem de carácter oficial aos Estados Unidos da América, entre os dias 20 e 24 do corrente mês de Abril."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 1983,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos votar o parecer e proposta de resolução da Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação.\nSubmetido à votação, foi aprovado por unanimidade, registando-se as ausências de Os Verdes, do PSN e do Deputado independente Freitas do Amaral.\nSrs. Deputados, deu também entrada na Mesa uma outra carta do Sr. Presidente da República, que passo a ler:\nEstando prevista a minha deslocação em visita de Estado ao Reino Unido da Grã-Bretanha e Manda do Noite, a convite de Sua Majestade a Rainha Isabel II, entre os dias 27 do corrente mês de Abril e 2 de Maio próximo, venho requerer, nos termos dos artigos 132.º, n.º 1, e 166.º, alínea b) da Constituição, o necessário assentimento da Assembleia da República.\n\nPara proceder à leitura do parecer e proposta de resolução da Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação, tem a palavra o Sr. Secretário."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 1983,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (João Salgado)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, é do seguinte teor:\nA Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação da Assembleia da República, tendo apreciado a mensagem de S. Ex.ª o Presidente da República em que solicita o assentimento para se deslocar, em visita de carácter oficial, ao Reino Unido da Grã-Bretanha e Irlanda do Norte, entre os dias 27 do corrente mês de Abril e 2 de Maio próximo, apresenta ao Plenário a seguinte proposta de resolução:\nNos termos do n.º 1 do artigo 132.º da Constituição, a Assembleia da República dá o assentimento à visita de carácter oficial ao Reino Unido da Grã-Bretanha e Irlanda do Norte, entre os dias 27 do corrente mês de Abril e 2 de Maio próximo."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 1983,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos votar o parecer e proposta de resolução.\nSubmetidos à votação, foram aprovados por unanimidade, registando-se as ausências de Os Verdes, do PSN e do Deputado independente Freitas do Amaral.\nSrs. Deputados, vamos iniciar a discussão, na generalidade, do projecto de lei n.º 48/VI - Bases de um plano de educação ambiental (PCP).\n\nAssim, nos termos do artigo 153.º do Regimento, tem a palavra, para apresentar o referido projecto, o Sr. Deputado Luis Peixoto, para o que dispõe de três minutos. O tempo que eventualmente exceder será descontado no tempo atribuído ao seu grupo parlamentar."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 1983,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Lufe Peixoto (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: De uma forma muito geral, poderemos referir-nos à natureza como o conjunto das coisas que existem, e compará-la mesmo a um enorme ser humano, dentro do qual tudo existe e que, como tudo o que é essencial, se toma absolutamente necessário tentar preservar.\n\nÉ no meio ambiente que a vida se desenvolve, sendo certo que esta apenas é viável quando se verificar a existência de uma estreita relação entre o meio e os seres vivos contidos no seu interior, conduzindo inevitavelmente à morte a paragem irreversível desta simbiose.\n\n«Ambiente» e «organismos vivos» são duas noções essenciais à ecologia. São duas palavras chave numa qualquer estratégia que se pretenda de educação ambiental, que só será efectiva quando conduzir à compreensão da necessidade de continuidade da relação entre ambas.\n\nNenhum organismo pode ter a pretensão de estar acima ou para além da acção do ambiente e é precisamente a ruptura dessa reciprocidade que está na base da progressiva degradação ambiental que, um pouco por todo o lado, se vai conhecendo e que, no caso de Portugal, devido à inexistência de uma política estrutural de ambiente, não tem sido possível inverter.\n\nUma política de educação ambiental não pode deixar de ter em conta a necessidade de articulação da realidade com uma política concreta de ambiente que tenha em conta áreas essenciais e bem identificadas.\n\nEmbora o campo que reclama intervenção seja muito vasto e cada vez mais o desenvolvimento da ciência nos venha revelando novas áreas em situação de alerta, algumas delas, pela importância que possuem, carecem de ser desenvolvidas.\n\nÉ o caso, por exemplo, da gestão dos produtos químicos, fundamentalmente os tóxicos, a reclamar medidas visando o seu correcto manuseamento e a criação de mecanismos de resposta capazes de funcionar eficazmente em caso de acidente. Mas, acima de tudo, requer o fomento da ideia de que é realmente necessária a diminuição progressiva do comércio e posterior venda de produtos considerados nocivos para a saúde humana e para o ambiente, produtos estes muitas vezes sujeitos a proibição ou restrição nos próprios países de origem.\n\nÉ importante que se eduque a população na compreensão da necessidade de se retirarem gradualmente do mercado substâncias tóxicas, persistentes e biocumulativas, sobre as quais não se pode ter um controlo absoluto. É fundamental"
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 1985,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 1985,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Uma boa informação das gerações mais jovens sobre os problemas da natureza e do ambiente 6 da maior importância, sobretudo tendo em conta que os modos de vida urbana dos nossos dias não contribuem para uma tomada de consciência dos imperativos da natureza.\n\nÉ nesse sentido que o PCP conta com a aprovação daquilo que, posto em prática, contribuirá, sem dúvida, para a criação de condições de forma que o mundo de amanhã possa ser um mundo melhor, onde se possa ter como real o direito que todo o ser humano tem de viver num mundo saudável."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 1985,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Raul Castro."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 1985,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Raul Castro (Indep.)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr. Deputado Luis Peixoto, a inclusão da educação ambiental no sistema educativo foi objecto de um relatório elaborado por um grupo de trabalho constituído por representantes dos Ministérios da Educação e do Ambiente. Este foi um passo para a implementação da educação ambiental, mas um passo ainda curto, quer porque dele não resultaram concretizadas as medidas indispensáveis, quer porque visava apenas a educação ambiental no ensino. O mérito deste projecto está não só em ir mais longe ao propor um plano de educação ambiental, que também se realiza fora da escola, como também em preconizar os meios de realização deste plano.\n\nMas, Sr. Deputado, não posso deixar de expor aqui uma dúvida relativamente à composição da comissão encarregada de elaborar este plano de educação ambiental, uma vez que dela fazem parte representantes dos Ministérios da Educação e da Saúde, mas não do Ministério do Ambiente. Será que, como julgamos, essa ausência é mera consequência da inclusão de representantes do Instituto Nacional do Ambiente, que é uma emanação do Ministério do Ambiente?\n\nFinalmente, gostaria apenas de acentuar que me parece tratar-se de um projecto pacífico, até porque, realmente, não houve, nomeadamente do partido maioritário, qualquer pedido de esclarecimento para demonstrar a mínima discordância, peto que legítimo será podermos concluir que este projecto será aprovado por toda a Câmara."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 1985,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o desejar, tem a palavra o Sr. Deputado Luis Peixoto."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 1985,
+      "speaker": {
+        "id": 1793,
+        "name": "Luís Carlos Martins Peixoto",
+        "party": "PCP",
+        "string": "O Sr. Luís Peixoto (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Raul Castro, uma das novidades deste projecto de lei é, quanto a nós, o alargamento das acções da educação não só à parte escolar mas também à sociedade em si.\n\nConsideramos mesmo que esta educação ambiental não formal é de extrema importância na criação de uma consciencialização virada para a compreensão da natureza, incluindo a humana.\n\nTambém concordamos que este é um projecto pacífico, porque julgo, avaliando o silêncio da maioria, que todos estamos interessados na modificação da mentalidade que actualmente tem conduzido ao aparecimento de motivos que nos levam a interrogarmo-nos muito seriamente sobre o futuro da terra em que vivemos e do ambiente em que estamos inseridos.\n\nNesse sentido, a questão da composição da comissão é pertinente, mas pode ser ultrapassada, atendendo até, como V. Ex.ª disse, à sua própria composição."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 1985,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 1985,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, este projecto de lei baixou a duas comissões, à de Administração do Território, Equipamento Social, Poder Local e Ambiente e à de Educação, Ciência e Cultura, pelo que existem dois relatórios.\n\nPara apresentar o relatório da Comissão de Administração do Território, Equipamento Social, Poder Local e Ambiente, tem a palavra o Sr. Deputado Fernando Pereira, que, para o efeito, dispõe de três minutos. Agradecia que não excedesse esse tempo, pois, como já se deve ter apercebido, não estamos a seguir o que o novo Regimento dispõe nesta matéria."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 1985,
+      "speaker": {
+        "id": 1617,
+        "name": "Fernando Jose Antunes Gomes Pereira",
+        "party": "PSD",
+        "string": "O Sr. Fernando Pereira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, para poder ser breve e utilizar exclusivamente os três minutos que V. Ex.ª me concede, vou referir apenas os considerandos mais específicos relativos a este projecto de lei."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 1986,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 1986,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para apresentar o relatório da Comissão de Educação, Ciência e Cultura, tem a palavra o Sr. Deputado Carlos Pereira, que, para o efeito, dispõe de três minutos. Agradecia que não excedesse esse tempo."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 1986,
+      "speaker": {
+        "id": 1600,
+        "name": "Carlos Alberto Lopes Pereira",
+        "party": "PSD",
+        "string": "O Sr. Carlos Pereira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Embora este relatório tenha sido elaborado ainda na vigência do anterior Regimento, uma vez que data de 25 de Março de 1992, vou limitar-me a ler o que não faz parte do próprio projecto.\n\nA educação ambiental é uma componente tão importante na educação formal como nas outras situações não formais que desempenham um papel de relevo na educação de qualquer criança, jovem ou adulto.\n\nUma educação ambiental ou uma educação que pretenda sensibilizar para os problemas que hoje se colocam ao ambiente e à qualidade de vida deve implicar a aceitação e promoção de alguns valores fundamentais: o respeito pela natureza, designadamente pelo seu frágil equilíbrio ecológico, o respeito pelas outras pessoas, especialmente os mais jovens e os que ainda estão por nascer, uma atitude não consumiste e uma perspectiva de vida não hedonista, alguma disponibilidade para os outros, através da participação em associações ou em iniciativas da comunidade ou da sociedade em geral. A educação ambiental não pode ser desinserida destas matérias da área da qualidade de vida.\n\nEsta educação só se completa através de vivências, de situações concretas, ou seja, da participação em acções que visem objectivos bem específicos de levar à prática os valores acima referidos. Uma educação ambiental por cartaz, circular ou até pelo estrito conhecimento científico é insuficiente.\n\nA reforma educativa em curso não só contempla as preocupações apontadas como abre e estimula a hipótese do trabalho neste campo em acções na área escola ou em acções de âmbito extracurricular, designadamente através da criação e desenvolvimento de «clubes de acção ecológica» nas escolas e em ligação com as sociedades civil e política locais.\n\nPara a generalização da educação ambiental que as escolas, os professores, os alunos, as associações, as autarquias, muitos jovens e alguns adultos estão dispostos a levar a efeito, torna-se necessário que haja sugestões, bons materiais de apoio, programas e packages educativos. Neste sentido, o Instituto Nacional do Ambiente (INAMB) e a equipa permanente de especialistas do Ministério da Educação e do Ministério do Ambiente têm já um papel significativo nestas matérias.\n\nO presente projecto de lei visa responder a estas preocupações. Assim, «desde 1972 que no Congresso de Belgrado, promovido pela UNESCO, foi definido que a educação ambiental é um processo que visa formar uma população [...] que tenha os conhecimentos, as competências, o estado de espírito, as motivações e sentido de participação e envolvimento que lhe permitam trabalhar individual e colectivamente para resolver os problemas actuais e impedir que se repitam.»\n\n«Também a nossa Lei de Bases do Ambiente, igualmente publicada em 1987, manifesta claramente, através dos seus princípios e objectivos, a necessidade de promover a inclusão da componente ambiental e dos valores herdados na educação básica e na formação profissional [...]»\n\n«Em 1988, o Conselho de Ministros da CEE elaborou uma lista de acções a empreender por todos os Estados membros definindo, nomeadamente, que tivessem em consideração os objectivos essenciais na educação em matéria de ambiente na elaboração dos programas de ensino e na organização dos cursos interdisciplinares e fomentassem actividades circum-escolares através das quais os conhecimentos teóricos adquiridos sobre o ambiente possam ser experimentados em termos práticos.»\n\n«Em Portugal, a criação, pela Lei de Bases do Ambiente, do Instituto Nacional do Ambiente (INAMB) visava contribuir para este objectivo.»\n\nVisto estar já a exceder o tempo de que dispunha, vou apenas referir que a Comissão de Educação, Ciência e Cultura foi de parecer que o projecto de lei n.º 48/VI - Bases de um plano de educação ambiental (PCP), preenche os requisitos constitucionais e regimentais para subir a Plenário."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 1986,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, queria informar a Câmara de dois factos. Em primeiro lugar, como estaremos, muito provavelmente, em condições de proceder às votações antes da hora regimental e não dispondo a Mesa de mecanismos para convocar os Srs. Deputados que, neste momento, não se encontram presentes, solicito aos presidentes dos grupos parlamentares, para obstar à interrupção da sessão, o favor de promoverem esse aviso.\n\nEm segundo lugar, convoco uma reunião da Conferência dos Representantes dos Grupos Parlamentares, a pedido do grupo de trabalho que se ocupa do regulamento de acesso, circulação e permanência nas instalações da Assembleia da República. Julgo que não será necessário encarecer a importância deste pedido, pelo que informa-"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 1987,
+      "speaker": {
+        "id": 1112,
+        "name": "Mário Jorge Belo Maciel",
+        "party": "PSD",
+        "string": "O Sr. Mário Maciel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: O ser humano, embora nascido da natureza e sendo parte integrante da biosfera, desde bem cedo proeurou emancipar-se, não fosse, aliás, um ser inteligente, logo, poderoso.\n\nDurante um processo evolutivo que durou milhões de anos, o homem passou de uma utilização trófica da natureza para a utilização de instrumentos de pedra, cobre, bronze e ferro. Depois, veio o fogo, a roda, a alavanca, a domesticação dos animais; aproveitou a fertilidade da terra e inventou a agricultura e, na procura incessante de mais poder e energia para transformar a natureza, desencadeou a revolução industrial com a máquina a vapor, passo gigantesco rumo ao progresso e avanço tecnológico.\n\nHoje, na era da energia nuclear, já se fala na revolução da inteligência caracterizada por um aperfeiçoamento requintado da informática, da robotização, dos meios de comunicação, das técnicas de manipulação genética e da fecundação in vitro, outrora impensáveis.\n\nNas sociedades primitivas, cada homem consumia, em média, diariamente, cerca de 2000 calorias. Hoje, numa civilização tecnológica de tipo americano ou mesmo europeu, o consumo per capita já ultrapassa as 250 000 calorias por dia.\n\nÉ óbvio que o homem foi-se apossando gradualmente do controlo do funcionamento dos sistemas ecológicos e das reservas de recursos naturais potenciadoras de energia a ponto de reivindicar para si e em competição com a natureza, a capacidade de decisão e ingerência nos ecossistemas.\n\nEstaremos no caminho certo? É a pergunta mais natural e legítima que pode e deve fazer-se. Sim, é a resposta mais imediata, porque há progresso, conforto e bem-estar, porque a tecnologia me resolve os problemas do dia-a-dia, porque a sociedade de consumo me sacia o apetite materialista, porque a medicina e a genética já moldam a vida humana por encomenda, etc. Só que o problema real reside na ideia de que a biosfera é uma espécie de «hipermercado» de capacidade ilimitada onde o homem satisfaz sempre as suas necessidades materialistas e demais caprichos.\n\nSurge então o conceito de educação ambiental como um instrumento credível para configurar um novo tipo de sociedade mais respeitadora dos valores ambientais. Há muitas definições mas uma das mais antigas foi proposta pela União Internacional para a Conservação da Natureza, tendo sido adoptada até à Conferência de Tbilisi, em 1977, que a desenvolveu. Convém, todavia recordá-la: «A educação ambiental constitui um processo de reconhecimento dos valores e de clarificação dos conceitos graças aos quais a pessoa humana adquire as capacidades e os comportamentos que lhe permitem abarcar e apreciar as relações de interdependência entre o homem, a sua cultura e o seu meio.»\n\nCuriosamente, e já na década de 80, nota-se uma evolução no conceito de educação ambiental quando, por exemplo, num estudo efectuado no âmbito do Conselho da Europa, L'Home face à son environnement, os autores Walls, Epler e Addrige o não confinam a um esquema de escolaridade formal afirmando que «a educação ambiental é uma atitude de espírito e não um programa escolar».\n\nSr. Presidente e Srs. Deputados: O projecto de lei n.º 487 VI, do PCP, que, em nossa opinião, poderia ser um projecto de resolução e que, aliás, não foi largamente explicado na intervenção do Sr. Deputado Luís Peixoto, antes pelo contrário, deixou a Câmara com um défice de informação acerca dos seus propósitos, pretende lançar as bases do plano nacional de educação ambiental. Confirma, desde já, o pendor estatizante do autor e está embrenhado, no nosso entendimento, em algumas utopias planificadoras.\n\nO Partido Social-Democrata não acredita na eficácia de um Estado tutelar, tentacular e omnipresente. Acreditamos na participação cívica e democrática dos cidadãos e das suas associações em torno de objectivos ambientais, ou seja, na livre iniciativa e espontaneidade da sociedade civil. Por isso mesmo, apoiamos e incentivamos a constituição de associações de defesa do ambiente e do consumidor. Relativamente às primeiras, o Grupo Parlamentar do Partido Social-Democrata tem uma iniciativa legislativa já aprovada na generalidade que vem facilitar a constituição de mais associações de âmbito nacional, regional e local, ao baixar o número de associados exigidos pela lei em vigor para a sua inscrição e registo no Instituto Nacional do Ambiente.\n\nEssas associações passarão a ter a possibilidade de estabelecer contratos-programas com a administração central, autarquias, associações de municípios e empresas numa concertação de esforços plenamente admissível à luz do princípio da cooperaçâo institucional aos mais diversos níveis para que os objectivos altruístas da defesa ambiental sejam eficazmente concretizados.\n\nRelativamente à defesa do consumidor, a tendência das estruturas actuais e necessárias à efectivação dessa política hoje irrecusável num Estado moderno, é de se aproximarem dos cidadãos através de postos de informação local ou de esquemas de resolução rápida dos conflitos de consumo. Os centros de informação autárquica ao consumidor têm permitido a resolução rápida e sem encargos de pequenos conflitos de consumo e a experiência positiva do centro de arbitragem de conflitos de consumo de Lisboa contribuiu para a abertura em Coimbra e Porto de estruturas semelhantes e influenciará, decerto, a abertura de outras.\n\nAcreditamos num sistema educativo mais permeável a processos ensino/aprendizagem de âmbito ambientalista quer ao nível dos planos curriculares quer ao nível dos conteúdos, objectivos e metodologias dos programas disciplinares; por essa razão, a reforma educativa empreendida viabiliza a educação ambiental. Por exemplo, a criação de uma área curricular especialmente vocacionada para projectos interdisciplinares de articulação entre a escola e o meio visa dinamizar projectos de educação ambiental que podem ser desenvolvidos em actividades de complemento curricular. A própria criação da disciplina de Desenvolvimento Pessoal e Social surge intencionalmente virada para a problemática da educação ambiental. No ensino superior, é já do conhecimento público a existência de cursos modernos onde a temática ambiental prevalece quer ligada a uma vertente tecnológica e de investigação quer ligada a uma vertente de ensino.\n\nAcreditamos também que o Estado não pode alhear-se corripletamente de uma missão orientadora e solidária. Por isso mesmo, em 1987, o Grupo Parlamentar do PSD e em sede de apreciação e discussão da Lei de Bases do Ambiente, propôs a criação do Instituto Nacional do Ambiente que, entre outras missões, tem o dever de formar e informar os cidadãos bem como estudar e promover projectos especiais de educação ambiental.\n\nSr. Presidente e Srs. Deputados: A educação ambiental não pode ser planificada e imposta pelo Estado em moldes rígi-"
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 1988,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado José Calçada."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 1988,
+      "speaker": {
+        "id": 1642,
+        "name": "José Fernando Araujo Calçada",
+        "party": "PCP",
+        "string": "O Sr. José Calçada (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Mário Maciel, quem o tivesse ouvido atentamente - como é meu dever- teria ficado com a ideia de que o problema da educação ambiental, particularmente dentro do nosso sistema educativo e, em sentido mais restrito, dentro do sistema escolar, era, para o governo do PSD, um problema resolvido, porque integrar-se-ia harmoniosamente, de acordo com as suas palavras, nas áreas escola que estão, por sua vez, ao abrigo desta maravilha em desenvolvimento, a reforma do sistema educativo."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 1988,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Sr. Rui Carp (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Diz bem!"
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 1988,
+      "speaker": {
+        "id": 1642,
+        "name": "José Fernando Araujo Calçada",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito obrigado. Já o supunha!\n\nOra conhecidas as tremendas dificuldades existentes no desenvolvimento de uma reforma educativa séria (ela tem vindo a ser feita à revelia e mesmo contra a generalidade dos docentes, dos pais, dos encarregados de educação), conhecido o corte brutal verificado no orçamento para a educação com que este ano o Sr. Ministro das Finanças contemplou o nosso sistema educativo, conhecidas as dificuldades de implementação das novas áreas tecnológicas e científicas integradas na pretensa reforma do sistema educativo, conhecidas as preocupações economicistas deste governo-que tem das coisas, particularmente da educação e, por que não, da educação ambiental também, uma perspectiva de lucro a curto prazo, isto é, qualquer investimento ou dá lucro ou é considerado uma despesa-, pergunto. Sr. Deputado Mário Maciel, se está sinceramente convencido da existência de um esforço concreto a nível do desenvolvimento da educação ambiental dentro das nossas escolas e, em caso afirmativo, de que forma consegue conciliar essa convicção com o conhecimento da realidade concreta das escolas em que tal esforço tem sido levado a cabo."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 1988,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o desejar, tem a palavra o Sr. Deputado Mário Maciel."
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 1988,
+      "speaker": {
+        "id": 1112,
+        "name": "Mário Jorge Belo Maciel",
+        "party": "PSD",
+        "string": "O Sr. Mário Maciel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado José Calçada, agradeço-lhe o pedido de esclarecimento formulado, pois levanta uma questão fulcral. Na verdade, colocou o problema da dialéctica existente na escolaridade formal, ou seja, será que a inserção da educação ambiental, dos seus conceitos, das suas definições, num esquema de escolaridade formal constitui um esforço plenamente conseguido? Não!\n\nA minha opinião é que, de facto, ainda se podem dar alguns passos para que o conceito de integração ambiental se possa inserir com melhor permeabilidade no esquema da escolaridade formal, portanto, no sistema de ensino. Sem dúvida que a reforma educativa abriu algumas portas para que essa sensibilidade perpassasse um pouco num sistema educativo de costas voltadas para o conceito ambientalista. Aliás, eu próprio, que não sou idoso, já consigo notar nestas novas gerações, devido às matérias que hoje são ensinadas, uma sensibilização para o conceito ambiental diferente daquela que me foi possível assimilar quando fui estudante.\n\nTodavia, Sr. Deputado José Calçada, o meu grupo parlamentar-de acordo, aliás, com a nossa filosofia-dá também uma enorme importância àquilo que no vosso projecto se considera a escolaridade não formal, isto é, àquilo que está fora do sistema educativo propriamente dito e que é, digamos, o esforço do Estado. E aí há, sem dúvida, um campo de consciencialização ainda muito incompleto, que passa pelas associações de defesa do ambiente, pela comunicação social-pois ela desperta cada vez mais para trazer ao grande público as disfunções e os problemas ambientais-, pelas forças vivas da sociedade e, sobretudo, pelos empresários, porque não pode haver educação ambiental se um empresário se recusar, por exemplo, a colocar na sua empresa tecnologias limpas ou se se recusar a aperfeiçoar a tecnologia que emprega com vista a não causar atentados ambientais.\n\nÉ aqui que podemos desembocar na questão final do seu pedido de esclarecimento: estará o PSD numa postura economicista face ao ambiente? Não vejo que haja mal nisso, porque se olhar para os parâmetros económicos recentes verificará que a área em que o mercado se pode expandir mais é a da tecnologia ambiental. Aliás, esta é uma área de futuro e em que a investigação de ponta vai"
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 1989,
+      "speaker": {
+        "id": 1642,
+        "name": "José Fernando Araujo Calçada",
+        "party": "PCP",
+        "string": "O Sr. José Calçada (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ninguém propôs isso!"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 1989,
+      "speaker": {
+        "id": 1112,
+        "name": "Mário Jorge Belo Maciel",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... é um estado de espírito."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 1989,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está encerrado o debate.\n\nVolto a pedir aos líderes parlamentares que promovam a presença dos Srs. Deputados para se proceder às votações indicadas na ordem do dia de hoje."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 1989,
+      "speaker": {
+        "id": 418,
+        "name": "Carlos Miguel Maximiano De Almeida Coelho",
+        "party": "PSD",
+        "string": "O Sr. Carlos Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 1989,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 1989,
+      "speaker": {
+        "id": 418,
+        "name": "Carlos Miguel Maximiano De Almeida Coelho",
+        "party": "PSD",
+        "string": "O Sr. Carlos Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, tal como V. Ex.ª apelou às direcções dos grupos parlamentares, chamámos todos os Srs. Deputados para o Plenário, a fim de procedermos às votações, mas, de facto, este não é o melhor sistema.\n\nComo todos sabemos, o melhor sistema era aquele que estava em vigor na Assembleia da República até há pouco tempo e que permitia que todos os Srs. Deputados, quer estivessem nas comissões ou nos seus gabinetes de trabalho, através de uma inscrição de aviso no circuito interno de televisão, se apercebessem do momento das votações.\n\nTanto quanto sei, este sistema foi substituído e o novo não prevê a inscrição de avisos, ao invés do que acontecia anteriormente.\n\nSr. Presidente, creio que era conveniente, no interesse da eficácia desta instituição, que, rapidamente, se procedesse à reinstalação dessa faculdade. Aliás, julgo saber que os serviços da Assembleia da República foram devidamente alertados e devo expressar a minha perplexidade, e a do meu grupo parlamentar, pela circunstância de termos chegado a esta situação.\n(O orador reviu.)"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 1989,
+      "speaker": {
+        "id": 514,
+        "name": "Manuel Antonio Dos Santos",
+        "party": "PS",
+        "string": "O Sr. Manuel dos Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso é uma falha do Pacheco Pereira. Esqueceu-se desse pormenor!"
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 1989,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Adriano Moreira)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, tem toda a razão na interpelação que fez. Realmente, o sistema não está instalado em termos de fazer funcionar o circuito interno de televisão como estava previsto. A Mesa só teve informação desse facto no decorrer desta sessão e, naturalmente, os serviços vão ser interpelados a esse respeito.\n\nNeste momento, penso que não devemos perturbar os trabalhos e devemos utilizar os meios que estão à nossa disposição. Por isso mesmo, continuaremos com o processo de votação. Aguardemos apenas alguns momentos para que alguns Deputados cheguem das comissões.\nPausa.\nSrs. Deputados, vamos agora proceder às votações agendadas para hoje, começando por votar o inquérito parlamentar n.º 11/VI - Sobre a aplicação das verbas do Fundo Social Europeu (PSD).\nSubmetido à votação, foi aprovado, com votos a favor do PSD, do PS, do PCP, do CDS e do Deputado independente Raul Castro e a abstenção de Os Verdes.\nVamos agora votar o inquérito parlamentar n.º 12/VI - Sobre a natureza e extensão de alegadas irregularidades na gestão de subsídios provenientes de fundos comunitários destinados à agricultura portuguesa, no que se refere à Cooperativa Agrícola de Torres Vedras (PSD).\nSubmetido à votação, foi aprovado, com votos a favor do PSD, do PS, do PCP, do CDS e do Deputado independente Raul Castro e a abstenção de Os Verdes.\nFinalmente, vamos votar, na generalidade, o projecto de lei n.º 48/VI, hoje discutido, sobre as bases de um plano de educação ambiental (PCP).\nSubmetido à votação, foi rejeitado, com votos contra do PSD e votos a favor do PS, do PCP, do CDS, de Os Verdes e do Deputado independente Raul Castro.\nSrs. Deputados, como já anteriormente havia referido, convoco uma reunião da Conferência dos Representantes dos Grupos Parlamentares para as 17 horas e 30 minutos, a ter lugar na Sala D. Maria.\n\nA próxima sessão plenária realizar-se-á amanhã, dia 22, pelas 15 horas. O período de antes da ordem do dia destinar-se-á a eventuais declarações políticas e na ordem do dia serão discutidas a proposta de lei n.º 52/VI - Autoriza o Governo a legislar em matéria de prevenção de utilização do sistema financeiro para efeitos de branqueamento de capitais e a proposta de resolução n.º 111/VI - Aprova a decisão do Conselho de Governadores do Banco Europeu de Investimento, de 11 de Junho de 1990, relativa ao aumento de capital do Banco.\nEstá encerrada a sessão."
+    }
+  ]
+}

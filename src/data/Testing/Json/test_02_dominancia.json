@@ -1,0 +1,10 @@
+{
+  "debate_id": "test_02",
+  "utterances": [
+    {"speaker": {"string": "A"}, "text": "ola"},
+    {"speaker": {"string": "A"}, "text": "ola"},
+    {"speaker": {"string": "A"}, "text": "ola"},
+    {"speaker": {"string": "A"}, "text": "ola"},
+    {"speaker": {"string": "B"}, "text": "ola"}
+  ]
+}

@@ -1,0 +1,2952 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "7",
+    "legislative_session": "2",
+    "number": "68",
+    "date": "1997-05-07"
+  },
+  "debate_id": "r3_7_2_68_1997-05-07",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2358,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que está aberta a sessão.\nEram 15 horas e 25 minutos.\nEstavam presentes os seguintes Srs. Deputados:\nPartido Socialista (PS):\nAgostinho Marques Moleiro.\n\nAlberto de Sousa Martins.\n\nAlbino Gonçalves da Costa.\n\nAníbal Marcelino Gouveia.\n\nAntónio Alves Marques Júnior.\n\nAntónio Alves Maninho.\n\nAntónio Fernando Marques Ribeiro Reis.\n\nAntónio José Borrani Crisóstomo Teixeira.\n\nAntónio José Gavino Paixão.\n\nAntónio José Guimarães Fernandes Dias.\n\nArlindo Cipriano Oliveira.\n\nArnaldo Augusto Homem Rebelo.\n\nArtur Clemente Gomes de Sousa Lopes.\n\nArtur Miguel Claro da Fonseca Mora Coelho.\n\nArtur Rodrigues Pereira dos Penedos.\n\nCarlos Alberto Cardoso Rodrigues Beja.\n\nCarlos Alberto Dias dos Santos.\n\nCarlos Justino Luís Cordeiro.\n\nCarlos Manuel Amândio.\n\nCarlos Manuel Luís.\n\nEduardo Ribeiro Pereira.\n\nElisa Maria Ramos Damião.\n\nEurico José Palheiros de Carvalho Figueiredo.\n\nFernando Alberto Pereira Marques.\n\nFernando Antão de Oliveira Ramos.\n\nFernando Garcia dos Santos.\n\nFernando Manuel de Jesus.\n\nFernando Pereira Serrasqueiro.\n\nFrancisco Fernando Osório Gomes.\n\nFrancisco José Pereira de Assis Miranda.\n\nFrancisco José Pinto Camilo.\n\nFrancisco Manuel Pepino Fonenga.\n\nGonçalo Matos Correia de Almeida Velho.\n\nHenrique José de Sousa Neto.\n\nJoão Carlos da Costa Ferreira da Silva.\n\nJoão Rui Gaspar de Almeida.\n\nJoaquim Moreira Raposo.\n\nJoaquim Sebastião Sarmento da Fonseca Almeida.\n\nJoel Eduardo Neves Hasse Ferreira.\n\nJorge Lacão Costa.\n\nJorge Manuel Damas Martins Rato.\n\nJorge Manuel Fernandes Valente.\n\nJorge Manuel Gouveia Strecht Ribeiro.\n\nJosé Adelmo Gouveia Bordalo Junqueiro.\n\nJosé Afonso Teixeira de Magalhães Lobão.\n\nJosé Alberto Cardoso Marques.\n\nJosé Carlos Correia Mota de Andrade.\n\nJosé Carlos da Cruz Lavrador.\n\nJosé Carlos das Dores Zorrinho.\n\nJosé Carlos Lourenço Tavares Pereira.\n\nJosé da Conceição Saraiva.\n\nJosé de Matos Leitão.\n\nJosé Ernesto Figueira dos Reis.\n\nJosé Fernando Rabaça Barradas e Silva.\n\nJosé Manuel de Medeiros Ferreira.\n\nJosé Manuel Santos de Magalhães.\n\nJosé Maria Teixeira Dias.\n\nJosé Pinto Simões.\n\nJúlio Manuel de Castro Lopes Faria.\n\nLaurentino José Monteiro Castro Dias.\n\nLuís Afonso Cerqueira Natividade Candal.\n\nLuís Filipe Nascimento Madeira.\n\nLuís Pedro de Carvalho Martins.\n\nManuel Alberto Barbosa de Oliveira.\n\nManuel Alegre de Melo Duarte.\n\nManuel António dos Santos.\n\nManuel Jorge Pedrosa Forte de Goes.\n\nManuel Porfírio Varges.\n\nMaria Amélia Macedo Antunes.\n\nMaria Celeste Lopes da Silva Correia.\n\nMaria da Luz Lameiro Beja Ferreira Rosinha.\n\nMaria do Carmo de Jesus Amaro Sequeira.\n\nMaria do Rosário Lopes Amaro da Costa da Luz Carneiro.\n\nMaria Fernanda dos Santos Martins Catarino Costa.\n\nMaria Helena do Rêgo da Costa Salema Roseta.\n\nMaria Isabel Ferreira Coelho de Sena Lino.\n\nMaria Jesuína Carrilho Bernardo.\n\nMartim Afonso Pacheco Gracias.\n\nMiguel Bernardo Ginestal Machado Monteiro Albuquerque.\n\nNatalina Nunes Esteves Pires Tavares de Moura.\n\nNuno Manuel Pereira Baltazar Mendes.\n\nOsvaldo Alberto Rosário Sarmento e Castro.\n\nPaulo Jorge dos Santos Neves.\n\nPedro Luís da Rocha Baptista.\n\nPedro Ricardo Cavaco Castanheira Jorge.\n\nRaimundo Pedro Narciso.\n\nRosa Maria da Silva Bastos da Horta Albernaz.\n\nRui do Nascimento Rabaça Vieira.\n\nRui Manuel dos Santos Namorado.\n\nRui Manuel Palácio Carreteiro.\n\nSérgio Paulo Mendes de Sousa Pinto.\n\nSónia Ermelinda Matos da Silva Fertuzinhos.\n\nVictor Brito de Moura.\nPartido Social Democrata (PSD):\nAdalberto Paulo da Fonseca Mendo.\n\nAdriano de Lima Gouveia Azevedo.\n\nÁlvaro dos Santos Amaro.\n\nAmândio Santa Cruz Domingues Basto Oliveira.\n\nAntonino da Silva Antunes.\n\nAntónio Costa Rodrigues.\n\nAntónio de Carvalho Martins.\n\nAntónio dos Santos Aguiar Gouveia.\n\nAntónio Fernando da Cruz Oliveira.\n\nAntónio Germano Fernandes de Sá e Abreu.\n\nAntónio Joaquim Correia Vairinhos.\n\nAntónio José Barradas Leitão.\n\nAntónio Manuel Taveira da Silva.\n\nAntónio Moreira Barbosa de Melo.\n\nAntónio Roleira Marinho.\n\nArtur Ryder Torres Pereira.\n\nBernardino Manuel de Vasconcelos.\n\nCarlos Eugénio Pereira de Brito.\n\nCarlos Manuel de Sousa Encarnação.\n\nCarlos Manuel Duarte de Oliveira.\n\nCarlos Manuel Marta Gonçalves.\n\nCarlos Miguel Maximiano de Almeida Coelho.\n\nDomingos Dias Gomes.\n\nEduardo Eugénio Castro de Azevedo Soares.\n\nFernando José Antunes Gomes Pereira.\n\nFernando Manuel Alves Cardoso Ferreira.\n\nFernando Pedro Peniche de Sousa Moutinho.\n\nFernando Santos Pereira."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 2359,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o Sr. Secretário vai dar conta dos diplomas e das respostas a requerimentos que deram entrada na Mesa."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 2359,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Artur Penedos)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, deram entrada na Mesa, e foram admitidas, as seguintes iniciativas legislativas: propostas de lei\nn.\nos\n90/VII - Aprova a Lei de Imprensa e 91/VII Altera a Lei n.º 58/90, de 7 de Setembro (Regime da actividade de televisão) que baixaram à 1.ª Comissão, 92/ VII - Estabelece o regime jurídico da concessão de garantias pessoais pelo Estado ou por outras pessoas colectivas de direito público, que baixou à 5.ª Comissão, e 93/ VII - Estabelece as bases do interprofissionalismo\nagro-alimentar, que baixou às 1.ª e l0.ª Comissões, 94/VII Adapta o regime de avaliação da propriedade rústica de base geométrica ao novo regime de cadastro predial, aprovado pelo Decreto-Lei n.º 172/95, de 18 de Julho, que baixou às\n5.ª e 10.ª Comissões; proposta de resolução n.º 56/VII - Aprova, para ratificação, a Convenção n.º 159, da Organização Internacional do Trabalho, respeitante à readaptação profissional e ao emprego de deficientes, que baixou às\n2.ª e 8.ª Comissões; projectos de lei\nn.\nos\n3281 VII - Lei das Finanças Locais (PSD), que baixou às 1 .ª, 4.ª e 5.ª Comissões,\n330/VII - Elevação da povoação de Caxias a vila (PSD), 331/VII - Elevação da povoação do Carregado, no município de Alenquer, à categoria de vila (PS) e\n332/VII  - Elevação à categoria de vila da povoação de Turcifal, no município de Torres Vedras (PS), que baixaram à 4.ª Comissão, 333/VII - Atribuição das associações de municípios de direito público e competências dos seus órgãos (PSD), que baixou às 1.ª e 4.ª Comissões, 334/VII\n- Regula as condições de financiamento público de projectos de investimento respeitantes a equipamentos destinados à prevenção secundária da toxicodependência (PCP) e 335/VII - Criação da freguesia do Sítio da Nazaré, no concelho da Nazaré (PSD), que baixaram à 4.ª Comissão; projecto de deliberação n.º 41/VII - Constituição de uma comissão eventual de acompanhamento e avaliação das iniciativas legislativas referentes ao financiamento dos partidos políticos e das campanhas eleitorais (PS).\n\nEntretanto, no dia 29 de Abril de 1997, o Governo respondeu aos requerimentos formulados pelos seguintes Srs. Deputados: Macário Correia, na sessão de 6 de Novembro, Sílvio Rui Cervan, na sessão de 5 de Fevereiro, José Reis, na sessão de 3 de Outubro, Fernando Pedro Moutinho, no dia 25 de Novembro, Lino de Carvalho, nas sessões de 28 de Novembro e 19 de Março, Ferreira Ramos, na sessão de 10 de Dezembro, Castro Almeida, na sessão de 30 de Janeiro, Carlos Coelho, no dia 4 de Fevereiro, Jorge Roque Cunha, na sessão de 12 de Fevereiro, Luís Filipe Menezes, na sessão de 20 de Fevereiro,"
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 2360,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Antes de dar a palavra ao próximo orador, peço que se faça silêncio na Sala e nas galerias.\n\nPara uma declaração política, tem a palavra a Sr.ª Deputada Maria José Nogueira Pinto."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 2360,
+      "speaker": {
+        "id": 1672,
+        "name": "Maria José Pinto Da Cunha Avilez Nogueira Pinto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Maria José Nogueira Pinto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.\nas\ne Srs. Deputados: Só um forte exercício de memória permitirá, ainda hoje, lembrar programas eleitorais, promessas e Programa do Governo que abriram ao eleitorado, em 1995, perspectivas de mudança.\n\nNuma análise retrospectiva do que tem sido a actual legislatura, torna-se claro que os meios se transformaram em fins e as linhas essenciais da conduta política foram-se esfumando em pequenas querelas interpartidárias, quase sempre marcadas por sondagens e títulos de caixa-alta.\n\nQualquer debate cujo tema pudesse criar expectativas de profundidade (e estou a lembrar-me, por exemplo, da cooperação e da defesa) acaba, abruptamente, num ajuste de contas entre a bancada do Governo e a bancada do PSD, num interminável e cansativo diálogo de surdos e na conjugação do verbo fazer.\n\nDa parte do PS (e do Governo) não há, se não nalgumas áreas concretas, sequer a ambição de estar a fazer mais, mas tão-só de estar a fazer qualquer coisa. Este Governo, que conceptualizou melhor, corre o sério risco de governar muito pior.\n\nO PSD, certamente a bancada com maior capacidade para ver de fora o que se passa lá dentro (como alguém muito bem disse), ataca o Governo como se fosse estranho a um passado recente..."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 2360,
+      "speaker": {
+        "id": 1635,
+        "name": "Jorge Alexandre Silva Ferreira",
+        "party": "CDS-PP",
+        "string": "O Sr. Jorge Ferreira (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 2360,
+      "speaker": {
+        "id": 1672,
+        "name": "Maria José Pinto Da Cunha Avilez Nogueira Pinto",
+        "party": "CDS-PP",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... e, note-se, mesmo àquilo que esse passado teve de objectivamente positivo para Portugal e para os portugueses. Escondendo muitas vezes o melhor do seu património, parece também não querer, ou não poder, apresentar em sede parlamentar alternativas credíveis e novas para os problemas que hoje se colocam.\n\nAs querelas pontuais substituíram o debate ideológico. Salvo raras excepções, a confusão de pensamento instala-se transversalmente.\n\nEsta situação é grave para o País porque, manifestamente, constitui um atraso num calendário político já apertado, para a democracia porque permite que os cidadãos interiorizem um descrédito, muitas vezes injusto e quase sempre perigoso.\n\nOra, se alinharmos as grandes medidas preconizadas pelos partidos e em parte adoptadas pelo Governo no seu Programa, se relembrarmos o que o PS e o PSD têm dito sobre desígnios nacionais, perceberemos claramente que nada se fará com rigor e profundidade sem uma corajosa revisão constitucional, moderna, prospectiva e eficaz. Era e é ela a chave da mudança. O patamar essencial em que assentará o edifício do futuro. A condição sine qua non das grandes reformas inadiáveis. Reformas que todos anunciaram aos quatro ventos, que Bruxelas exige, e que a solidariedade intergeracional torna um imperativo.\n\nIgualmente os referendos dela dependem. E quem é que hoje nega a necessidade de tornar as grandes decisões nacionais participadas e, assim, solidariamente responsáveis?\n\nSr. Presidente, Srs. Deputados: A renovação, por um prazo de mais 90 dias, dos trabalhos da Comissão Eventual para a Revisão Constitucional, prazo que, para o PSD, note-se, era até excessivo, significou um compromisso sério com os portugueses. Estamos, por isso, certos de que nenhum partido se poupará a esforços para que tal aconteça. O contrário seria inaceitável porque incompreensível.\n\nCumpre aqui frisar que muito menos o poderão fazer o PS e o PSD que, num acordo rocambolesco e mediático, deram a ideia ao País de que tudo estava feito em matéria de revisão constitucional. E não estava, como agora bem se vê.\n\nO agendamento, em sede de conferência de líderes, de um número razoável e exequível de sessões reservadas para esse fim - o da discussão e aprovação do articulado constitucional - torna-se, assim, indispensável.\n\nO furor legislativo de última hora do Governo que, qual mau aluno, só estudou no último período, não deve nem pode, como sempre o afirmámos, pôr em causa a conclusão, nesta sessão legislativa, da revisão constitucional, competência exclusiva deste Parlamento e tão-pouco pode pôr em causa a normal iniciativa legislativa dos diferentes partidos. Impõe-se, assim, um calendário que, permitindo a iniciativa governamental, não comprometa o essencial do trabalho parlamentar, transformando esta Casa na câmara baixa do Governo.\n\nConcluindo, direi: a revisão constitucional, em tempo útil, é a porta que abriremos ou fecharemos para o futuro. Não só não podemos fecha-la como não podemos apenas entreabri-la.\n\nVai ser preciso clareza, vencer ainda resistências historicamente descabidas, arcaísmos insustentáveis. Vai ser preciso assumir responsabilidades. Em suma, vai ser preciso fazer política no verdadeiro e correcto sentido da palavra.\n\nO Partido Popular está certo de que, na próxima conferência de líderes e tal como se assentou na última, esta planificação ficará definitivamente estabelecida.\n\nQue cada um assuma as suas responsabilidades para que Portugal tenha a segurança de uma agenda e de um calendário políticos que garantam um edifício político sólido, todas as reformas de fundo e a participação consciente e activa de todos os cidadãos nas grandes decisões nacionais."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 2360,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Strecht Ribeiro."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 2360,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Strecht Ribeiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.ª Deputada Maria José Nogueira Pinto, primeiro, gostaria de saber se, na óptica do Partido Popular, os avanços que estão a ser feitos em sede de revisão constitucional são ou não positivos.\n\nEm segundo lugar, se a sua resposta à minha pergunta anterior for negativa, então, pergunto-lhe: quais os assuntos que entende que não estão a ser correctamente tratados?\n\nEm terceiro lugar, considera que é assim tão importante a questão que levantou sobre o acordo\nPS - PSD, sa-"
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 2361,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 2361,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra a Sr.ª Deputada Maria José Nogueira Pinto."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 2361,
+      "speaker": {
+        "id": 1672,
+        "name": "Maria José Pinto Da Cunha Avilez Nogueira Pinto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Maria José Nogueira Pinto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Strecht Ribeiro, do meu ponto de vista, os avanços na revisão constitucional têm sido lentos, tendo em conta que se trata de uma segunda leitura que se segue a um acordo com a dimensão que pretendeu dar-se ao acordo efectuado entre o PS e o PSD."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 2361,
+      "speaker": {
+        "id": 1635,
+        "name": "Jorge Alexandre Silva Ferreira",
+        "party": "CDS-PP",
+        "string": "O Sr. Jorge Ferreira (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 2361,
+      "speaker": {
+        "id": 1672,
+        "name": "Maria José Pinto Da Cunha Avilez Nogueira Pinto",
+        "party": "CDS-PP",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ou seja, para nós, que ficámos excluídos desse acordo - e, com isto, respondo-lhe já que os votos favoráveis de dois terços dos Deputados é o mínimo exigido, o que não quer dizer que não pudesse ter-se aberto a um máximo que, penso eu, é o espírito da democracia e deste Parlamento -, ."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 2361,
+      "speaker": {
+        "id": 1635,
+        "name": "Jorge Alexandre Silva Ferreira",
+        "party": "CDS-PP",
+        "string": "O Sr. Jorge Ferreira (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 2361,
+      "speaker": {
+        "id": 1672,
+        "name": "Maria José Pinto Da Cunha Avilez Nogueira Pinto",
+        "party": "CDS-PP",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... tudo levaria a crer que a segunda leitura iria ser mais rápida.\n\nDevo dizer que, nesta matéria, a rapidez só me interessa no sentido de que há um prazo a cumprir, prazo este que foi assumido livremente pelos partidos aqui representados e que, a não ser cumprido, não tem, quanto a mim, explicação política e, sobretudo, compromete desde logo as grandes reformas e também os referendos. Portanto, a celeridade tem de ser uma responsabilidade, em primeiro lugar, de todos os partidos que aqui assumiram o compromisso de respeitar o prazo de 90 dias, particularmente do PSD que se contentava com 60, mas, sobretudo, dos dois partidos que, ao terem feito o acordo, quiseram dar a entender que assim simplificavam esta segunda leitura.\n\nAproveito para dizer-lhe que o PP optou por participar nesta segunda leitura nas matérias em que a sua presença pode ter um resultado prático. Isto é, não estamos na comissão para ouvir o PS e o PSD discutirem relativamente às áreas e aos artigos da Constituição aos quais já nada temos a acrescentar. Participamos quando pensamos que devemos protestar, mesmo que tal seja inútil, para que fique registado em acta - e, aliás, há vários exemplos de protestos que fiz, eventualmente inúteis do ponto de vista desta revisão constitucional, infelizmente para Portugal, mas úteis do ponto de vista de um registo histórico -, e estamos lá com um espírito de colaboração profunda, sempre que houver abertura, a qual, aliás, está previamente condicionada ao acordo já feito, para introduzir alguma melhoria nos artigos da Constituição.\n\nCom isto, penso que lhe respondi.\n\nO que vejo com muita preocupação, nomeadamente na matéria relativa aos referendos e aos três artigos das áreas sociais, é que, como tive oportunidade de dizer, sendo estas reformas um imperativo intergeracional e uma imposição\n\nde Bruxelas, e estando contempladas, que me lembre, pelo menos no programa eleitoral do Partido Socialista, no do Partido Social Democrata, no do Partido Popular e, ainda, no Programa do Governo, gostaria de deixar bem claro que, se não houver a coragem de rever aqueles três artigos, teremos sido nós que, por acção ou omissão, trancámos o futuro aos portugueses."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 2361,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Passamos ao tratamento de assuntos de interesse político relevante.\n\nPara uma intervenção, tem a palavra a Sr.ª Deputada Maria do Carmo Sequeira."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 2361,
+      "speaker": {
+        "id": 1522,
+        "name": "Maria Do Carmo De Jesus Amaro Sequeira",
+        "party": "PS",
+        "string": "A Sr.ª Maria do Carmo Sequeira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Na altura das eleições legislativas de 1 de Outubro de 1995, estava eu a distribuir o programa do Partido Socialista para o círculo eleitoral de Castelo Branco quando um idoso me disse o seguinte, a propósito do regadio da Cova da Beira e da intenção de construção da barragem do Sabugal: \"Sabe, eu já oiço essa história há mais de 45 anos...\". Quis saber a razão de tal afirmação e o que é certo é que ele tinha razão.\n\nAntónio Paulouro, no livro com o sugestivo título Crónica das águas que passam, faz o historial das vicissitudes de um processo repleto de contradições e logros que teve finalmente um desenlace feliz.\n\nPasso a referir. Em 1937 e, depois, em 1948, foram dados os primeiros sinais sobre a importância económica e social da rega da Cova da Beira pelo Engenheiro Trigo de Morais, no relatório da Junta Autónoma das Obras de Hidráulica Agrícola, apresentado em Agosto de 1949.\n\nEm 1950 e, mais tarde, em 1967, o Engenheiro Araújo Correia, nos Estudos de Economia Aplicada e no livro Tejo, respectivamente, apresentava a ideia e o esquema para a rega na Cova da Beira. O plano previsto pelo Engenheiro Araújo Coreia previa um conjunto coordenado que envolveria as regiões da Cova da Beira e do Alto Alentejo como fontes de energia e de água, dentro de uma só bacia hidrográfica que abrangia o Tejo, o Zêzere e a Ocreza.\n\nDurante os anos que se seguiram, outros passos e contributos importantes foram dados para que a obra viesse a ser concretizada, tendo em conta o seu aproveitamento para fins múltiplos: rega, abastecimento público, regularização fluvial, defesa contra cheias dos cursos de água e produção de energia.\n\nAssim, refiro alguns desses passos.\n\nEm 1973, foi elaborado o Plano Geral do Aproveitamento Hidroagrícola da Cova da Beira pela Direcção-Geral dos Serviços Hidráulicos.\n\nEm 1979, o Projecto de Aproveitamento Agrícola da Cova da Beira, em que são concedidos 70 milhões de marcos ao juro de 4,5%, amortizáveis de 30 de Junho de 1989 a 31 de Dezembro de 1999 (empréstimo da RFA, englobado numa acção de assistência técnica a Portugal).\n\nMas, em 1982, o governo da AD veio a desistir do reforço de 20 milhões de marcos (do tal empréstimo concedido pelos alemães) previstos para o aumento da percentagem de financiamento externo no financiamento global, quando estavam em curso as obras da barragem de Meimoa, optando pelo aumento de 40 milhões de marcos no projecto do Mondego.\n\nTambém é importante referir que o ex-Presidente da República, General Ramalho Eanes, durante a vigência dos"
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 2362,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Mui to bem!"
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 2362,
+      "speaker": {
+        "id": 1522,
+        "name": "Maria Do Carmo De Jesus Amaro Sequeira",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Luís Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural, que ali se deslocou para presidir à assinatura, afirmou: \"Cova da Beira é grande, projecto para Portugal\" e \"a barragem do Sabugal é apenas uma pequena parte do projecto da Cova da Beira, que é um grande projecto para o interior do País e para Portugal\"."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 2362,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 2362,
+      "speaker": {
+        "id": 1522,
+        "name": "Maria Do Carmo De Jesus Amaro Sequeira",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É importante referir que também já, em 1982, o Professor Manuel Porto avisava, segundo\no Jornal do Fundão de 7 de Maio: \"O Projecto da Cova da Beira, se não for concretizado na sua globalidade, não será rentável nem viável\".\n\nPermitam-me, com todo o respeito, terminar, parafraseando o ex-autarca e actual Deputado do PSD, Carlos Pinto, em 17 de Julho de 1992: \"os que aqui vivem(...)\" - na Cova da Beira - \"(...) saberão agradecer aos governantes que materializarem o projecto!\""
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 2362,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É bom lembrar!"
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 2362,
+      "speaker": {
+        "id": 1522,
+        "name": "Maria Do Carmo De Jesus Amaro Sequeira",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estamos certos de que assim será!\nEntretanto, regista-se, de novo, burburinho na Sala."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 2362,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, estamos numa sessão plenária e há muita agitação na Sala e nas galerias. Peço, uma vez mais, silêncio!\n\nPara uma intervenção, tem a palavra a Sr.ª Deputada Manuela Aguiar."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 2362,
+      "speaker": {
+        "id": 798,
+        "name": "Maria Manuela Aguiar Dias Moreira",
+        "party": "PSD",
+        "string": "A Sr.ª Manuela Aguiar (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Foi em Filadélfia que vivi o dia histórico das primeiras eleições por sufrágio directo e presencial nas comunidades portuguesas do mundo.\n\nComo estarão lembrados, o sufrágio directo e universal para o Conselho das Comunidades foi inicialmente, logo em Outubro de 1995, proposto pelo PSD, num projecto de lei de que eu própria fui a primeira subscritora, e o seu exercício in loco - extensivo a qualquer acto eleitoral - apresentado também pelo meu partido e, então, rejeitado pelas demais forças políticas.\n\nTalvez a partir de agora queiram reconsiderar.\n\nSe não tivesse estado em Pensilvânia e, seguidamente, em New Jersey, Connecticut e Massachussets, não poderia hoje, nesta Câmara, dar testemunho da forma fraternalmente correcta e convivial em que o acto cívico decorreu, da alegria dos que votaram, do companheirismo dos candidatos e até da esperada eficácia c desenvoltura dos serviços consulares, pelo menos ali.\n\nNão me moveu, como é por demais evidente, qualquer despropositado intuito de fiscalização ou intendência, mas, sim, o de prestigiar o democrático nascimento, nas urnas de voto, de uma nova e esperançosa instituição política, da qual, de resto, como Deputada eleita pela emigração, exactamente ao mesmo título que o responsável governamental pelas comunidades portuguesas, tarei, por inerência, parte integrante, em representação desta Casa.\n\nA verdade democrática destas eleições foi, todavia, atraiçoada na miragem dos números, das taxas de presença e de abstenção.\n\nFoi a ideia peregrina de dilatar o colégio eleitoral ao seu limite máximo, irrealista, colossal, considerando como cidadãos eleitores, por decreto, sem qualquer acto individual de recenseamento, todos os inscritos nos registos consulares, foi essa ideia que determinou uma colossal abstenção, a maior a que jamais se terá assistido na civilização ocidental, em eleições nacionais. Era inevitável, era uma fatalidade matemática, engendrada por uma desastradíssima engenharia política!\n\nDurante meses, os consulados do mundo inteiro, antes mesmo da informatização geral que os anteriores governos já anunciavam, e que o actual promete, desde há 18 meses, para o dia seguinte, houve centenas de funcionários que nada mais fizeram do que examinar muitos milhões de fichas, uma a uma, para eliminar desse fantasmagórico rol eleitoral os menores de 18 anos e todos os que, há mais de 25 anos, não davam sinal de si e se presumia terem falecido ou abandonado a área consular.\n\nNestas condições, não só houve um significativo número dos que permaneceram nessa área que se viu eliminado, como foram investidos na qualidade de eleitores, por vontade de quem manda, os mortos, os ausentes e também os indiferentes, às centenas de milhares...\n\nMesmo em Portugal, onde é obrigatório o recenseamento, não se dispensa a manifestação de vontade individual no processo respectivo, desde logo como forma de consciencialização cívica!\n\nO louvável intento de alargar a participação real melhor teria sido servido pela simples aceitação de um voto, facilitado a todos os que devidamente documentados e"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 2364,
+      "speaker": {
+        "id": 712,
+        "name": "Joel Eduardo Neves Hasse Ferreira",
+        "party": "PS",
+        "string": "O Sr. Joel Hasse Ferreira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não sei se não gostei mais daquela crónica da TSF!..."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 2364,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada, pedi silêncio por várias vezes. Só se interrompesse a sessão, mas também me parece excessivo..."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 2364,
+      "speaker": {
+        "id": 798,
+        "name": "Maria Manuela Aguiar Dias Moreira",
+        "party": "PSD",
+        "string": "A Sr.ª Manuela Aguiar (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, o meu reparo não era, de forma nenhuma, como é óbvio, dirigido a V. Ex.ª, cuja intervenção agradeço."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 2364,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, antes de prosseguimos, informo que assistem à reunião plenária um grupo de 50 alunos da Escola Secundária Aurélia de Sousa, do Porto, um grupo de 50 alunos da Escola C+S de Pedrouços, de Ermesinde, um grupo de 150 alunos do Colégio Luso-Francês, do Porto, um grupo de 80 alunos da Escola dos 2.º e 3.º Ciclos de Toutosa, de Marco de Canavezes, um grupo de 36 alunos da Escola Secundária do Morgado de Mateus, de Vila Real, e um grupo de 23 alunos da Escola Secundária de Augusto Gomes, de Matosinhos.\n\nSaudemos, pois, estes cidadãos do futuro.\nSrs. Deputados, para pedir esclarecimentos à Sr.ª Deputada Manuela Aguiar, inscreveu-se o Sr. Deputado Carlos Luís. Vou dar-lhe a palavra, mas peço, novamente, silêncio no Hemiciclo - na Sala e nas galerias.\n\nTem a palavra, Sr. Deputado Carlos Luís."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 2364,
+      "speaker": {
+        "id": 1022,
+        "name": "Carlos Manuel Luís",
+        "party": "PS",
+        "string": "O Sr. Carlos Luís (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Manuela Aguiar, nesta Câmara e em diversas circunstâncias, tenho saudado V. Ex.ª e tenho-a cumprimentado pela forma como tem encarado a problemática das comunidades portuguesas. Mas, Sr.ª Deputada, deixe-me que lhe diga que esta sua intervenção foi descabida por várias razões.\n\nEm primeiro lugar, como V. Ex.ª sabe, só a partir do dia 9 é que existe o apuramento final dos resultados das eleições do dia 27 de Abril. Logo, V. Ex.ª antecipou-se, precipitou-se e tem uma antevisão que, provavelmente, não corresponde à minha.\n\nPor outro lado, V. Ex.ª, que votou o diploma das comunidades portuguesas, o qual foi aprovado nesta Câmara por unanimidade, teceu severas críticas a esse diploma, quando a sua bancada e V. Ex.ª - e também a cumprimento por isso - tiveram uma participação activa na sua elaboração."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 2364,
+      "speaker": {
+        "id": 712,
+        "name": "Joel Eduardo Neves Hasse Ferreira",
+        "party": "PS",
+        "string": "O Sr. Joel Hasse Ferreira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 2364,
+      "speaker": {
+        "id": 1022,
+        "name": "Carlos Manuel Luís",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas, Sr.ª Deputada, uma bandeira levantada no passado, pelo PSD, era o voto dos emigrantes. Essa bandeira \"esvaziou-se\",..."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 2364,
+      "speaker": {
+        "id": 1337,
+        "name": "Maria Manuela Dias Ferreira Leite",
+        "party": "PSD",
+        "string": "A Sr.ª Manuela Ferreira Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "\"Esvaziou-se\", não! Ergueu-se, esvoaçou!"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 2364,
+      "speaker": {
+        "id": 1022,
+        "name": "Carlos Manuel Luís",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... esse balão como que explodiu e penso que o nervosismo de V. Ex.ª traduz já os resultados provisórios e a antevisão do resultado que V. Ex.ª faz.\n\nEm primeiro lugar, quero cumprimentar todos aqueles que foram eleitos e todos aqueles que participaram, numa atitude cívica e democrática.\nE deixe-me que lhe diga, Sr.ª Deputada, que, se mais participação dos emigrantes não houve, nestas eleições para o CCP, a sua bancada é a primeira responsável.\nE porquê, Sr.ª Deputada? É que, durante 10 anos, repito, durante 10 anos, o PSD, com maioria absoluta, silenciou as comunidades portuguesas no estrangeiro.\nDurante 10 anos, Sr.ª Deputada, as comunidades portuguesas foram impedidas de se manifestarem democraticamente e de dizerem aquilo que têm a dizer ao Governo e aos órgãos de soberania."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 2364,
+      "speaker": {
+        "id": 712,
+        "name": "Joel Eduardo Neves Hasse Ferreira",
+        "party": "PS",
+        "string": "O Sr. Joel Hasse Ferreira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 2364,
+      "speaker": {
+        "id": 1022,
+        "name": "Carlos Manuel Luís",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não houve um único Congresso Mundial nos últimos 10 anos das comunidades portuguesas e, através do Decreto-Lei n.º 101 /90, o PSD, em vez de promover a eleição dos conselheiros para as comunidades"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 2365,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem de fazê-la de imediato, Sr. Deputado, porque já ultrapassou o seu tempo."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 2365,
+      "speaker": {
+        "id": 1022,
+        "name": "Carlos Manuel Luís",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Termino já, Sr. Presidente.\n\nSr.ª Deputada Manuela Aguiar, depois do dia 9, quando forem apurados os resultados finais, subirei à tribuna para me pronunciar sobre esta matéria, mas faço-lhe, desde já, a seguinte observação: pelos dados que tenho, houve maior participação para o Conselho das Comunidades Portuguesas do que para a eleição de V. Ex.ª é dos outros Deputados pelos círculos da emigração. Gostaria que comentasse este facto,\nSr.ª Deputada."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 2365,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o entender, tem a palavra a Sr.ª Deputada Manuela Aguiar."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 2365,
+      "speaker": {
+        "id": 798,
+        "name": "Maria Manuela Aguiar Dias Moreira",
+        "party": "PSD",
+        "string": "A Sr.ª Manuela Aguiar (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Carlos Luís, agradeço as suas palavras, mas parece-me que não ouviu o que estive á dizer. Aquilo que estive a dizer foi que houve participação, para quem considera níveis de participação realistas - e níveis de participação realistas foram os que propus no meu diploma, nesta Câmara, é o nível associativo e o nível daqueles que estão inscritos voluntariamente para votar, não é o das pessoas que vivem nas comunidades, integradas nessas comunidades e que, na sua maioria, como o Sr. Deputado sabe, nunca vão votar, nem sequer nas eleições presidenciais - o tal fantasma dos quatro milhões. Estas eleições, para além dessa virtude, e de muitas outras, da participação democrática das pessoas, que sempre defendi - sou defensora do sistema, como disse da tribuna, do sufrágio directo e universal -,tiveram esta vantagem: mostrar que os tais quatro milhões de eleitores não existem, Sr. Deputado. Os que existem são os que votaram e esses devem ser prestigiados, considerados e respeitados e não devem ser integrados em universos eleitorais fantasmagóricos, que provocam taxas de abstenção como aquelas que vimos."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 2365,
+      "speaker": {
+        "id": 1690,
+        "name": "Pedro Luis Da Rocha Baptista",
+        "party": "PS",
+        "string": "O Sr. Pedro Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A Sr.ª Deputada só tem razão quando fala do Futebol Clube do Porto!"
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 2365,
+      "speaker": {
+        "id": 798,
+        "name": "Maria Manuela Aguiar Dias Moreira",
+        "party": "PSD",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas como estava a dizer, o que eu afirmei, Sr. Deputado, foi que a participação destas eleições foi excelente, mas foi muito mais excelente, Sr. Deputado, no meu círculo do que no seu! Foi muito mais excelente nos países onde eu andei a divulgar o Conselho das Comunidades do que nos seus, Sr. Deputado!\nDevo acrescentar que quem escolhe os tempos de palavra é quem fala. E como o Sr. Deputado já se apressou a felicitar os conselhos que estão eleitos, e até já se apressou a mencionar os que julga que são do seu quadrante político..."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 2365,
+      "speaker": {
+        "id": 1022,
+        "name": "Carlos Manuel Luís",
+        "party": "PS",
+        "string": "O Sr. Carlos Luís (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Eu não disse isso!"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 2365,
+      "speaker": {
+        "id": 798,
+        "name": "Maria Manuela Aguiar Dias Moreira",
+        "party": "PSD",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "..., o Sr. Deputado sabe muito bem quem eles são, mas eu também sei. No círculo de Fora da Europa, a eleição foi muito despolitizada e não considero que nenhum único conselheiro do meu círculo seja eleito contra mim ou contra o meu partido. São todos bem-vindos e a todos felicito por igual."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 2365,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 2365,
+      "speaker": {
+        "id": 798,
+        "name": "Maria Manuela Aguiar Dias Moreira",
+        "party": "PSD",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, fiz sessões de esclarecimento de uma forma completamente apartidária, nas condições que o Sr. Deputado sabe muito bem que são aquelas que a Assembleia da República nos dá, em perfeita discriminação com ás que dá a todos os outros Deputados, e não podia fazer mais do que fiz e o Sr. Deputado, com certeza, que também tez o mais que podia. O que não podemos dizer é que o Governo de Portugal fez o mais que podia, porque não fez!"
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 2365,
+      "speaker": {
+        "id": 1022,
+        "name": "Carlos Manuel Luís",
+        "party": "PS",
+        "string": "O Sr. Carlos Luís (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Fez, fez!"
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 2365,
+      "speaker": {
+        "id": 798,
+        "name": "Maria Manuela Aguiar Dias Moreira",
+        "party": "PSD",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Governo de Portugal não fez! Como afirmei da tribuna, tudo isto foi organizado de uma forma perfeitamente despropositada.\n\nO Sr. Deputado fala do fomento da participação, da quimera da participação, dos milhões em que este Governo se escuda. Este Governo libertou os portugueses há 18 meses, libertou os portugueses das comunidades para votar. E quantos votaram? Votaram os que sempre votaram, interessaram-se os que sempre se interessaram. É preciso saber respeitar aqueles que não enviam remessas para Portugal, porque a sua ligação ao País não é feita pela via económica; é preciso respeitar os portugueses que não querem participar politicamente nas eleições portuguesas, e eu respeito-os! Eu, que defendo o sufrágio dos emigrantes, e sempre defendi, respeito os que não querem votar, quem não os respeita, Sr. Deputado, é quem os integra à força num colégio eleitoral, em que todos vão contar para a abstenção.\n\nMuito obrigada pelas suas palavras, Sr. Deputado."
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 2365,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Arlindo Oliveira."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 2365,
+      "speaker": {
+        "id": 1583,
+        "name": "Arlindo Cipriano Oliveira",
+        "party": "PS",
+        "string": "O Sr. Arlindo Oliveira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A autonomia das regiões insulares é uma conquista irreversível e indiscutível. A autonomia é um processo dinâmico, como dinâmica é a história dos homens.\n\nOs madeirenses lutaram ao longo de gerações e esse esforço é patente a quem nos visita. Os socalcos arrancados às montanhas, em forma de degraus gigantes, e as Levadas que as circundam desde o norte da ilha atestam a grandeza do povo madeirense. Estas Levadas, pelo seu engenho e arte, deveriam ser consideradas património mundial.\nEntretanto, regista-se, de novo, burburinho na Sala."
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 2365,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, peço, uma vez mais, atenção e respeito pelas intervenções"
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 2366,
+      "speaker": {
+        "id": 1583,
+        "name": "Arlindo Cipriano Oliveira",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Apesar do esforço em arrancar da rocha a terra arável, o madeirense viu-se obrigado, desde muito cedo, a abandonar a sua terra, emigrando. Era do regime de monoculturas, viradas para a exportação, que os colonos madeirenses sustentavam os donos das terras, sendo as culturas de subsistência secundarizadas, espalhando a fome e a miséria à maior parte da população.\n\nSr. Presidente, Srs. Deputados: À inicial cultura do açúcar, seguiu-se-lhe a do vinho, que fez delícias em algumas cortes europeias. A indústria açucareira, introduzida no Brasil, entretanto descoberto, arruinou a madeirense. De exportadora vai passar a Madeira a importar açúcar. A cana-de-açúcar é novamente introduzida em substituição do vinho e as fábricas de aguardente e melaço atingem a dezena.\n\nEntretanto, a Madeira introduziu na Europa o gosto pela banana, antes mesmo das Canárias e da América Central. A exportação para o mercado continental chega a atingir as 40 000 toneladas anuais, numa altura em que a concorrência era inexistente.\n\nSr. Presidente, Srs. Deputados: É no século passado que se inicia na Madeira o que virá a ser a \"galinha dos ovos de ouro\" da sua economia, a transformação da Madeira em instância turística de Inverno e, muito embora de fraco desenvolvimento, é, neste sector, a Madeira pioneira em Portugal, com quase 200 anos de existência.\n\nAssim, a indústria dos bordados da Madeira vai também ganhar importância através de mãos inglesas, que, de resto, já influenciavam a vida comercial madeirense, incentivada com o casamento de Catarina de Bragança com Carlos II de Inglaterra.\n\nÀ semelhança dos portugueses, que tinham estabelecido feitorias na Índia e em África, os ingleses estabeleceram uma feitoria na Madeira. Neste século, já foi a Madeira mais importante noutras indústrias, entre elas a dos lacticínios e a de conservas de peixe. Chegámos a ter mais de 20 fábricas de lacticínios e várias fábricas de conservas, sendo a maior parte da produção destinada à exportação.\n\nSr. Presidente, Srs. Deputados: Estamos a chegar ao fim do século e quando outros povos já se encaminhavam ao encalço do século XXI, nós ignoramos a Europa e o mundo. Era a política do \"Orgulhosamente só\". Afogámo-nos em várias guerras e com elas consumimos e empobrecemos Portugal, os portugueses e os povos, então, coloniais, hoje, de língua oficial portuguesa."
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 2366,
+      "speaker": {
+        "id": 1690,
+        "name": "Pedro Luis Da Rocha Baptista",
+        "party": "PS",
+        "string": "O Sr. Pedro Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 2366,
+      "speaker": {
+        "id": 1583,
+        "name": "Arlindo Cipriano Oliveira",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Só a Revolução de Abril lhes pós termo, restituindo a liberdade ao povo português e aos povos, então, coloniais. Com as autonomias das Regiões da Madeira e dos Açores consagradas, Portugal democrático, agora sim, iniciou a sua caminhada ao lado das nações mais civilizadas do mundo, não esquecendo as relações com os PALOP.\n\nAs regiões, hoje insulares, também elas, sofreram a mão fechada e centralizadora de Lisboa, à semelhança dos, então, impérios coloniais. Os madeirenses encontraram na emigração a forma de conseguir o pão, que lhes era negado na sua terra. Hoje, é fácil detectar-se madeirenses em qualquer parte do mundo, especialmente na Venezuela, no Brasil, no Canadá, na Austrália, na África do Sul e em muitas ilhas dispersas das Caraíbas e, mais recentemente, em Inglaterra e na Suíça.\n\nA população residente na Região Autónoma da Madeira é de cerca de um quarto da residente no exterior, que atinge um milhão de pessoas. O amor à sua terra é cultivado de forma muito especial.\n\nSr. Presidente, Srs. Deputados: O surto de investimento, verificado após a Revolução de Abril, na construção civil e obras públicas ficou-se a dever à autonomia e consequente regionalização. As verbas necessárias vieram dos fundos estruturais da União Europeia e do Orçamento do Estado, as quais atingiram cerca de 250 milhões de contos. Não obstante, houve necessidade de contrair empréstimos. A uma dívida inicial de 20 milhões, hoje estamos a cerca de 170 milhões de contos.\n\nSr. Presidente, Srs. Deputados: Essa famigerada dívida, a que a Região se viu obrigada a contrair, em períodos difíceis, apesar de incompreendida, necessita de tratamento adequado, por parte do Estado, que não os constantes protocolos assinados entre o Estado e a Região."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 2366,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 2366,
+      "speaker": {
+        "id": 1583,
+        "name": "Arlindo Cipriano Oliveira",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Aproveito esta oportunidade e do alto desta tribuna faço um apelo\nao Parlamento e ao Governo da República, apoiado pelo meu partido, que tentem resolver com a maior celeridade possível uma situação que se arrasta há longo tempo.\n\nSe há \"Empresa\" em Portugal, que mereça apoio incondicional do Estado, é esta grande \"Empresa\" a que os madeirenses, porto santenses e açorianos meteram ombro - a Autonomia das Regiões Insulares. Houve esbanjamento e descontrolo das finanças regionais, mas a verdade é que isso aconteceu um pouco por toda a parte, em maior ou menor grau."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 2366,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 2366,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Ora dor",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "A Região Autónoma da Madeira é hoje diferente de há 20 anos a esta parte. As condições que se abriram às ilhas, agora regiões politicamente autónomas, devem-se, em primeiro lugar, ao povo ilhéu e ao Portugal democrático e europeu.\n\nOs erros, dificuldades ou mesmo acidentes de percurso, não podem de forma alguma serem imputada s às instituições autonómicas mas, sim, aos seus concretos governantes. Estes é que, por vezes, não estão à altura das suas responsabilidades e confundem funções de Estado com populismo anárquico, mal-educado e trauliteiro."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 2366,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 2366,
+      "speaker": {
+        "id": 1583,
+        "name": "Arlindo Cipriano Oliveira",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esqueçam, Srs. Deputados, os maus exemplos que influenciaram o anterior Primeiro-Ministro, Cavaco Silva, no que se refere à regionalização administrativa do continente.\n\nComungamos da opinião de que, apesar de tudo, apesar de alguns desvios ao Estado de direito democrático e de alguns atentados à democracia na Região Autónoma da Madeira, valeu a pena a caminhada."
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 2367,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 2367,
+      "speaker": {
+        "id": 1583,
+        "name": "Arlindo Cipriano Oliveira",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É urgente, na Região Autónoma da Madeira, mobilizar e libertar a sociedade civil, no sentido de privilegiar o esforço produtivo e o desenvolvimento da inovação e da criatividade, com vista à preparação de uma economia saudável.\n\nO Governo Regional não pode atrofiar a iniciativa dos. cidadãos, na tentativa de tudo manietar, começando na economia e acabando no futebol, utilizando descaradamente os órgãos de informação estatizados, entre eles a RTP, a RDP e o Jornal da Madeira."
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 2367,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 2367,
+      "speaker": {
+        "id": 1583,
+        "name": "Arlindo Cipriano Oliveira",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Governo da República não pode continuar nesta cumplicidade, relativamente à RTP e RDP na Região Autónoma da Madeira.\n\nSr. Presidente, Srs. Deputados: O lançamento da Zona Franca Industrial não constituiu o êxito que o Governo Regional esperava, muito embora se esperasse que fosse um bom exemplo de diversificação e de internacionalização da economia madeirense.\n\nApesar de estarem constituídas cerca de 3000 empresas, no âmbito do chamado Centro de Negócios da Madeira, o qual\ninclui a Zona Franca e o Centro Offshore, bem como o Registo Internacional de Navios, o seu contributo para o desenvolvimento regional é diminuto e o número de postos de trabalho está muito aquém do que se pensava criar e a maior parte das empresas não têm qualquer actividade. As nossas acessibilidades são das mais caras do mundo, especialmente as marítimas, havendo, na prática, um oligopólio entre as três empresas que operam no mercado.\n\nSr. Presidente, Srs. Deputados: O nosso défice orçamental, no estado actual da nossa economia, é um défice estrutural e só o auxílio externo da República, da União Europeia ou de outro lugar qualquer, a fundo perdido, como é óbvio, ajudará a resolver a nossa mais que débil economia.\n\nÀ solidariedade da República, deveria o Governo Regional corresponder num esforço na contenção das despesas públicas. A nossa agricultura está estagnada e os campos abandonados, especialmente no norte da Madeira. A população aproveita as novas estradas e caminha em direcção ao Funchal e zona sul da Madeira, onde já habitam 90% dos madeirenses. Nos últimos 20 anos, houve crescimento económico mas o verdadeiro desenvolvimento continua, infelizmente, a ser uma miragem para a população madeirense. Há 20 anos que o Governo da Região Autónoma da Madeira é maioritariamente do PPD/ PSD e nunca se estabeleceu um relacionamento financeiro entre a Região e o Estado, baseado na transparência e nos princípios que devem nortear as relações entre órgãos de soberania."
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 2367,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 2367,
+      "speaker": {
+        "id": 1583,
+        "name": "Arlindo Cipriano Oliveira",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Foi necessário mudança a nível nacional, um Governo PS, para que se iniciasse a feitura de uma lei de finanças regionais a submeter a este Parlamento e se aprofundasse a autonomia, na revisão constitucional em curso. É a forma de o PS responder às autonomias e à regionalização e acabar, de uma vez por todas, com as contas de mercearia, que têm pautado o nosso relacionamento."
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 2367,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 2367,
+      "speaker": {
+        "id": 1583,
+        "name": "Arlindo Cipriano Oliveira",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Há que clarificar, de forma objectiva e concreta, o futuro relacionamento financeiro entre o Estado e a,\nRegião e, assim, iniciarmos uma nova era no relacionamento político entre governantes regionais e governantes nacionais. Que a inadmissível chantagem política não tenha mais lugar, corroendo as instituições e as relações entre as pessoas que as representam, instalando-se a suspeição, reprováveis num Estado de direito. Há que fundamentar os princípios enformadores da nova lei - e por isso entendi oportuno vir a esta Assembleia falar-vos do estado da economia da Região Autónoma da Madeira.\n\nÉ preciso um esforço concertado entre o Governo Regional e o Governo da República, numa nova maneira de fazer política, diferente da que vem sendo realizada nestes últimos 20 anos, em que o folclore verbal, de teor arruaceiro, vem campeando impunemente. No passado,, reconhece-se que a chantagem deu os seus frutos."
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 2367,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Guilhermino Silva."
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 2367,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Guilherme Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Arlindo Oliveira, quero, antes de mais, cumprimentá-lo e saudá-lo pela sua primeira intervenção na Assembleia da República, no exercício do seu mandato de Deputado, integrando o Partido Socialista pelo Círculo Eleitoral da Madeira."
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 2367,
+      "speaker": {
+        "id": 712,
+        "name": "Joel Eduardo Neves Hasse Ferreira",
+        "party": "PS",
+        "string": "O Sr. Joel Hasse Ferreira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Até agora, está tudo bem!"
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 2367,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, ouvi a sua intervenção e foi pena que V. Ex.ª tivesse mesclado aspectos relevantes"
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 2368,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para arranjar mais dinheiro para o futebol?"
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 2368,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... para que, ao inaugurar-se uma nova era com a lei das finanças regionais - e espero que o Governo a apresente aqui e que a aprovemos ainda na presente sessão legislativa -, a sua bancada tenha hoje um discurso coerente com o do passado a fim de que haja uma assumpção da dívida por parte do Estado para, dessa maneira, se verificar um marcar de uma nova relação, um marcar de um novo estatuto nas relações entre as regiões autónomas e o Estado no âmbito financeiro, porque será essa a forma de se dar o passo seguinte. Se os governos do PSD continuassem a exercer o mandato popular, seria esse o passo seguinte e tanto assim é que a marca que deixou foi o protocolo de reequilíbrio financeiro."
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 2368,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o desejar, tem a palavra o Sr. Deputado Arlindo Oliveira."
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 2368,
+      "speaker": {
+        "id": 1583,
+        "name": "Arlindo Cipriano Oliveira",
+        "party": "PS",
+        "string": "O Sr. Arlindo Oliveira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Guilherme Silva, agradeço as suas primeiras palavras. De facto, é a minha primeira intervenção neste Hemiciclo e estava um pouco emocionado, mas a verdade é que me sinto muito honrado por fazer esta intervenção em nome do Partido Socialista/Madeira."
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 2368,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 2368,
+      "speaker": {
+        "id": 1583,
+        "name": "Arlindo Cipriano Oliveira",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Queria dizer-lhe - e ainda bem que o Sr. Deputado reconhece - que, com o Partido Socialista no poder, uma nova era se inaugurou no relacionamento entre a Região e o Governo central."
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 2368,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 2368,
+      "speaker": {
+        "id": 1583,
+        "name": "Arlindo Cipriano Oliveira",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É pena que a Região não responda da mesma maneira democrática, dialogante e civilizada que o Governo da República utiliza."
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 2368,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Lá isso é verdade!"
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 2368,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 2368,
+      "speaker": {
+        "id": 1583,
+        "name": "Arlindo Cipriano Oliveira",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Governo da República é um governo responsável, estende a mão à Região Autónoma porque entende que esta é parte integrante de Portugal mas, por vezes, os governos regionais, na pessoa do seu presidente, lembram mais um país saído de uma república qualquer de um país africano.\nSe o Sr. Deputado reparar, o relacionamento dos países africanos, hoje independentes, de língua oficial portuguesa é muito mais civilizado com a República Portuguesa do que aquele que se verifica entre o Governo regional e a República, apesar de o relacionamento actualmente oferecido pelo Governo do Partido Socialista ser um relacionamento institucionalizado, correcto. dialogante, em que põe as funções de Estado acima das funções partidárias. Ainda bem que V. Ex.ª, Sr. Deputado, o reconhece. Faço-lhe o seguinte apelo: que aconselhe o Presidente do Governo regional a ficar pela Madeira, a resolver os problemas - da Madeira, a resolver os problemas da dívida, em vez de vir aos fins-de-semana para Lisboa (embora tenha o seu direito) fazer propaganda política e deixar mal os madeirenses, porque estes merecem mais e melhor do seu Presidente."
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 2368,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o Sr. Secretário vai proceder à leitura de uma carta de uma Sr.ª Deputada a pedir a renúncia do mandato e de um relatório e parecer da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias sobre retoma de mandato e substituição de Deputados."
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 2368,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Artur Penedos)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados, o pedido de renúncia da Sr.ª Deputada Rosa Mota (PS) diz o seguinte: \"Rosa Maria Correia dos Santos Mota, Deputada eleita pelo Círculo Eleitoral do Porto, vem requerer a V. Ex.ª se digne aceitar o pedido de resignação ao mandato para que foi eleita\".\n\nO parecer da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias é do seguinte teor:\nl - Em reunião da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, realizada no dia 7 de Maio de 1997, pelas 10 horas, foram observadas a seguinte retoma de mandato e substituição de Deputados:\n\na) Retoma de mandato, nos termos do artigo 6.º, n.\nos\nl e 2, do Estatuto dos Deputados (Lei n.º 7/93, de 1 de Março)\n\nGrupo Parlamentar do Partido Socialista:\n\nRosa Maria Correia dos Santos Mota (Círculo Eleitoral do Porto), em 3 de Maio corrente, inclusive, cessando Sérgio Carlos Branco Barros e Silva.\n\nb) Substituição, nos termos do artigo 7.º do Estatuto dos Deputados (Lei n.º 7/93, de 1 de Março)\n\nGrupo Parlamentar do Partido Socialista:\n\nRosa Maria Correia dos Santos Mota (Círculo Eleitoral do Porto), por Sérgio Carlos Branco Barros e Silva, com efeitos a 3 de Maio corrente, inclusive. Na mesma data, em consequência da renúncia ao mandato da Deputada Rosa Mota, assume o mandato em regime de efectividade o Deputado Fernando Antão de Oliveira Ramos, que já exercia funções em regime de substituição, conforme relatório n.º 3 da Comissão Eventual de Verificação de Poderes, de 7 de Novembro de 1995."
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 2369,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o parecer está à discussão.\n\nDado que não há pedidos de palavra, vamos proceder à votação.\nSubmetido à votação, foi aprovado por unanimidade.\nSrs. Deputados, terminou o período de antes da ordem do dia\nEram 16 horas e 30 minutos.\nORDEM DO DIA"
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 2369,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, passamos à discussão conjunta, na generalidade, dos projectos de lei\nn.\nos\n196/VII - Estatuto do dirigente associativo voluntário (PCP) e 298/VII - Estatuto do voluntariado para a solidariedade social (PSD).\n\nPara iniciar o debate, tem a palavra o Sr. Deputado António Filipe."
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 2369,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: O Grupo Parlamentar do PCP propõe hoje à Assembleia da República que aprove um estatuto legal do dirigente associativo voluntário. Trata-se de cidadãos dirigentes de associações que não visem o lucro económico dos respectivos associados, dirigentes esses que não tenham um vínculo remunerado com essas associações mas que, pelo contrário, exerçam as suas funções directivas em regime de gratuitidade, na base de um total voluntariado.\n\nEstes são cidadãos credores da nossa admiração, do nosso reconhecimento, na medida em que, por uma opção pessoal e exclusivamente por abnegação, dão horas do seu esforço, prescindem do seu descanso em benefício das associações de que são dirigentes, associações que não funcionariam sem esses dirigentes e sem esse esforço voluntário. São cidadãos que nada pedem em troca nem nada recebem em troca a não ser cansaço, a não ser problemas que têm de resolver em nome das suas associações e que recebem o prazer pessoal, que é o de dar o melhor de si próprios em benefício da comunidade, em benefício das suas colectividades.\n\nA adopção de um estatuto social para o voluntariado relativamente a um certo tipo de associações não é inédita, há várias situações no direito português em que é consagrada a situação específica de determinados dirigentes. Embora não se trate propriamente de associações, existe já um estatuto dos eleitos locais e um estatuto próprio dos dirigentes sindicais e de comissões de trabalhadores.\n\nMas, para referir concretamente várias situações de associações cujo dirigente tem um estatuto específico, bastará lembrar a existência do Estatuto Social do Bombeiro, do Estatuto do Dirigente Desportivo, embora abranja exclusivamente os dirigentes das federações desportivas e não propriamente os dirigentes dos clubes ou das colectividades, do Estatuto do Dirigente Associativo Estudantil, embora aí não se destine a regular uma situação para com a entidade patronal mas uma relação específica entre o dirigente associativo estudantil e o funcionamento da respectiva escola.\n\nPor outro lado, de há muito que se tem vindo a falar num estatuto específico para os dirigentes das instituições privadas de solidariedade social (para o que temos hoje um projecto do PSD também em discussão, especificamente sobre essa matéria), para além de, também há muito, se falar num estatuto específico para os dirigentes de associações de pais e encarregados de educação que exerçam funções de direcção, administração ou gestão das escolas nessa qualidade. Portanto, não é matéria inédita: há várias expressões no direito português.\n\nO nosso projecto diz respeito ao dirigente associativo em geral e insere-se numa linha, que temos vindo a privilegiar, de luta por uma política e por uma legislação de apoio ao movimento associativo que tenha em conta aquele que é o seu inestimável valor social. Ninguém pode ignorar que o associativismo constitui uma das maiores riquezas do nosso país. Bastaria perguntarmos o que seria do desporto nacional se não existissem as colectividades que lhe dão corpo. Importa aqui lembrar que o desporto amador corresponde a cerca de 90% do total do fenómeno desportivo em Portugal e que é assegurado, no essencial, por colectividades que são dirigidas precisamente por dirigentes associativos voluntários. Bastaria pensar o que seria da nossa cultura se não existissem as bandas de música que muitas colectividades alimentam por esse país fora, se não existissem os grupos de teatro amador, se não existissem os cine-clubes, se não existissem as colectividades que promovem as mais diversas iniciativas de âmbito cultural e recreativo."
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 2369,
+      "speaker": {
+        "id": 1642,
+        "name": "José Fernando Araujo Calçada",
+        "party": "PCP",
+        "string": "O Sr. José Calçada (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 2369,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bastará pensar o que seria a acção social no nosso país se não existissem instituições particulares de solidariedade social, se não existissem associações de apoio aos idosos, se não existissem as associações de deficientes.\n\nPoderíamos pensar, ainda, o que seria de nós todos se não existissem as associações de bombeiros, que existem, felizmente, por este país fora!"
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 2369,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 2369,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os dirigentes destas associações desenvolvem uma actividade cujo mérito só o Estado não reconhece. Efectivamente, se algum membro do Governo ou se algum Deputado, de qualquer partido, visitar uma colectividade, como acontece frequentemente, não deixará, nas palavras, de enaltecer o enorme esforço desenvolvido por todos os seus dirigentes voluntários e de garantir o seu apoio a que sejam tomadas medidas de incentivo à actividade das associações! Mas, depois, aquilo a que assistimos é a um enaltecimento nas palavras e a um desprezo prático no actos! Creio que hoje estamos aqui perante uma oportunidade de demonstrar que assim não é e de verificar quem é que está disposto, efectivamente, a dar um passo positivo no apoio do Estado às associações."
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 2370,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado António Rodrigues."
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 2370,
+      "speaker": {
+        "id": 1580,
+        "name": "António Costa Rodrigues",
+        "party": "PSD",
+        "string": "O Sr. António Rodrigues (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.\nas\ne Srs. Deputados: O voluntariado social representa uma das formas mais generosas da participação dos cidadãos em prol dos mais carenciados. Constitui, aliás, um dos dados mais seguros da evolução da sociedade portuguesa o papel relevante das instituições particulares de solidariedade social pelos inestimáveis serviços que prestam à comunidade. A actividade das IPSS é já hoje manifestamente reconhecida, quer pelas populações quer pelo próprio Estado, apesar das dificuldades com que exercem a sua actividade. E ainda um dos domínios onde se pode contribuir para o crescimento de novos postos de trabalho.\n\nConvicto desta realidade, o PSD apresentou um projecto de lei de apoio à criação de emprego pelas IPSS que aguarda a oportunidade de agendamento. E preciso destacar a tarefa e o empenho das pessoas que nelas trabalham. O esforço e por vezes o sacrifício, sem buscar qualquer proveito pessoal, merecem ser destacados e reconhecidos publicamente por toda a comunidade. Mais se destaca quando esta acção se acumula com o desempenho de funções profissionais, o que implica uma perda dos seus tempos livres em acções de solidariedade social para com os outros. Esta é ainda uma das manifestações mais puras da democracia participativa e particularmente do valor participação, consolidando este valor como um dos mais relevantes deste final de século.\n\nAs tarefas dos voluntários para a solidariedade social são relevantes e merecem a nossa atenção, dignificando\no seu estatuto perante a sociedade, assumindo que o seu papel representa uma acção social complementar à exercida pelos profissionais. As políticas de inserção social e de fomento à solidariedade social para serem eficazes devem contar com um movimento de voluntariado dinâmico e actuante.\n\nO projecto de lei que hoje apresentamos visa contribuir para alcançar estes objectivos de reconhecimento e dignificação de um conjunto de pessoas que generosamente estão disponíveis para ajudar os outros. Sobrelevam aqui o espírito de abnegação, o valor de participação, o sentido de auxílio ao próximo num claro pronunciamento a favor da vitalidade da sociedade civil, tantas vezes enunciada, mas muitas vezes esquecida. Daí igualmente que se reconheça que a acção de voluntariado constitui uma das formas de intervenção social menos rígidas e mais inovadoras, cujos resultados têm uma repercussão directa junto dos cidadãos e sem qualquer tipo de intervenção de organismos públicos, o que a torna num verdadeiro retrato do"
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 2371,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, inscreveu-se o Sr. Deputado Rodeia Machado, a quem concedo a palavra."
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 2371,
+      "speaker": {
+        "id": 1397,
+        "name": "António João Rodeia Machado",
+        "party": "PCP",
+        "string": "O Sr. Rodeia Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado António Rodrigues, ouvi com atenção a apresentação do projecto de lei do PSD sobre esta matéria e gostava, fazendo alguns considerandos, de colocar-lhe algumas perguntas.\n\nNaturalmente que não questionamos o voluntariado, pois para nós é algo de importante pelo muito que tem dado a este país e que espero continue a dar, mas o vosso projecto de lei merece da nossa parte algumas considerações. Não compreendemos muito bem qual a razão por que propõe que o estatuto desse voluntariado social se transforme em IPPS, na medida em que as IPPS já existem e esse voluntariado também. Portanto, esse voluntariado tem de se integrar perfeitamente nas IPPS. É claro que essas associações têm toda a legitimidade de existir, mas criar uma associação própria só para voluntariado não nos parece uma ideia muito acertada. Qual a razão por que esse voluntariado não se integra nas associações com o próprio estatuto das IPPS? Equiparar associações de voluntários a IPPS parece-nos excessivo.\n\nAliás, também nos parecem excessivos os deveres imputados. Assim, o artigo 5 º do vosso projecto diz: \"Constituem em especial deveres do voluntário para a solidariedade social: (...) d) Guardar sigilo relativamente aos factos de que tenha conhecimento em virtude do exercício das suas funções e que não se destinem a ser publicitados;\" e, se bem que não nos preocupe naturalmente a realização das tarefas definidas, já nos parece complicado o dever de sigilo atrás referido. Creio que é ir longe de mais em relação a esta matéria até porque do ponto de vista prático, naturalmente, a aplicação de qualquer sanção a um voluntário é extremamente difícil de fazer exactamente pelo seu carácter voluntário. E marcar no estatuto estes deveres como fundamentais creio que é demasiado excessivo.\n\nPor outro lado, a criação das associações configura para nós uma coisa que pode parecer cedência de mão-de-obra dessa associação a terceiras entidades o que configura uma espécie de Manpower embora sem fins lucrativos. Gostaria que esclarecesse devidamente esse ponto.\n\nEm suma, está o seu partido disponível para, no caso de o diploma ser votado favoravelmente, proceder, em sede de especialidade, a uma análise exaustiva e a alterações que pudessem consubstanciar aquilo que acabei de dizer?"
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 2371,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 2371,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir de esclarecimento, está também inscrita a Sr.ª Deputada Maria José Nogueira Pinto, a quem concedo a palavra."
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 2371,
+      "speaker": {
+        "id": 1672,
+        "name": "Maria José Pinto Da Cunha Avilez Nogueira Pinto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Maria José Nogueira Pinto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, permita-me que antes do pedido de esclarecimento faça uma interpelação à Mesa."
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 2371,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 2371,
+      "speaker": {
+        "id": 1672,
+        "name": "Maria José Pinto Da Cunha Avilez Nogueira Pinto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Maria José Nogueira Pinto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, após a intervenção do Sr. Deputado António Filipe de apresentação do projecto de lei do PCP, tinha-me inscrito para um pedido de esclarecimento ao Sr. Deputado, mas, por qualquer lapso que não me imputável, não me foi dada a palavra. Não é possível fazê-lo agora?"
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 2371,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada, penso que não é regimental."
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 2371,
+      "speaker": {
+        "id": 1672,
+        "name": "Maria José Pinto Da Cunha Avilez Nogueira Pinto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Maria José Nogueira Pinto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sendo assim, farei a minha pergunta ao Sr. Deputado António Rodrigues.\n\nSr. Deputado, li com atenção este projecto de lei do PSD e, ao contrário do projecto do PCP que me parece bastante mais razoável, considero-o um projecto de esquerda que nunca governou - é uma coisa curiosa! -, desde logo, pelo facto de atirar com uma série de encargos para cima das empresas sem que se diga porquê, com que fundamento ou com que direito.\n\nAssim, cria um seguro social voluntário que não sei o que é mas que me poderá explicar. Depois cria uma coisa que é uma tentação inevitável para a bancada do PSD: um comissariado que é aquilo com que começamos tudo para nada acabar! Além disso - e isso é que me parece grave porque vem duma bancada que não sendo de direita também não é de esquerda -, há a ideia de burocratização e funcionalização do voluntariado. Acho que os senhores"
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 2372,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 2372,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o desejar, tem a palavra o Sr. Deputado António Rodrigues."
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 2372,
+      "speaker": {
+        "id": 1580,
+        "name": "António Costa Rodrigues",
+        "party": "PSD",
+        "string": "O Sr. António Rodrigues (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Rodeia Machado, permita-me que lhe diga que julgava que as questões de voluntariado seriam transversais e consensuais nesta Câmara e que facilmente conseguiríamos chegar a um entendimento sobre este tema. Ora bem, da parte do PSD, tal como o desafio que lancei da tribuna aos restantes grupos parlamentares, aceitamos o repto de, em sede de especialidade, melhorar este diploma, pois não temos a pretensão de apresentar uma verdade única relativamente a esta matéria. Aliás, discutindo este assunto de boa fé - e foi neste sentido que apresentámos o projecto -,julgo que a actividade das IPPS que se faz em todo o país e que se tem multiplicado felizmente, engloba dentro de si virtualidades que devem ser potenciadas. E, mais do que isso, deve, acima de tudo, passar pela dignificação das pessoas quede alguma forma generosamente acabam por dar o seu contributo. Assim, o intuito de apresentação deste projecto de lei é, mais do que qualquer conteúdo do diploma, dizer à sociedade portuguesa na sua globalidade e às pessoas que voluntariamente prestam\na sua actividade, que reconhecemos o trabalho que elas prestam. Daí que tenhamos tentado construir um projecto que de alguma forma dissesse às pessoas que queremos reconhecer essa tarefa já que não são retribuídas pelo tempo que sacrificam na sua vida pessoal. Em suma, a Assembleia da República e a própria sociedade portuguesa dizem-lhes: muito obrigado pelo que fazem.\n\nRelativamente às questões em concreto, embora possa reconhecer que o diploma não o expresse devidamente, julgo que está a ver um fantasma relativamente à suposta Manpower. Falamos aqui em associações de voluntários porque entendemos que há muita gente que presta a sua actividade em termos de voluntariado que é generosa mas, por vezes, não tem formação suficiente para o efeito e as IPPS muitas vezes não lhes dão sequer essa formação, nem tem capacidade, nem vontade de perder tempo com esse tipo de situações. Pretendemos que as pessoas que querem alcançar um determinado objectivo tenham oportunidade - também transversalmente porque a actividade das IPPS\ne extraordinariamente transversal, pois vai da infância até à velhice tratando de uma multiplicidade de situações, quando provêm de instituições diferentes -, de se juntar no sentido de poderem não só obter troca de experiências mas, acima de tudo, ter acções de formação relativamente às matérias ou às acções que querem vir a desenvolver. Mas, como lhe disse, estamos disponíveis para limar qualquer aresta relativamente a este projecto de lei.\n\nSr.ª Deputada Maria José Nogueira Pinto, acho que está a olhar para este diploma e a ver fantasmas porque nem pretendemos ser estatistas nem ser burocratas. E se prevemos a criação de uma comissão é porque há situações em\nque comissões se justificam, nomeadamente para haver representantes e interlocutores válidos .junto do Governo numa matéria tão importante quanto esta. Não temos a pretensão nem queremos criar tantas comissões ou grupos de trabalho como têm sido criados por esse país fora por este Governo. Neste caso em concreto, e porque se trata exclusivamente de matéria que resulta do voluntariado das pessoas que pretendem acima de tudo ajudar os outros, entendemos que deve haver aqui uma representação institucional que possa, perante o Governo, representar as matérias do voluntariado porque as questões do voluntariado são transversais, diagonais, ultrapassam toda uma série de situações."
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 2372,
+      "speaker": {
+        "id": 1672,
+        "name": "Maria José Pinto Da Cunha Avilez Nogueira Pinto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Maria José Nogueira Pinto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E é uma representação fundamental?"
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 2372,
+      "speaker": {
+        "id": 1580,
+        "name": "António Costa Rodrigues",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não. O que está aqui em causa é poder haver uma resposta imediata e não de falsos diálogos em que por vezes os membros do Governo prometem respostas relativamente a situações e sistematicamente adiam. E dou-lhe um exemplo: O Governo, nomeadamente o Ministério da Solidariedade Social, desde Setembro que pretende criar qualquer coisa à volta do estatuto do voluntariado ou a \"Carta do voluntariado\", mas, como não sabe ainda muito bem que solução dar a este tipo de questões, até agora não conseguiu produzir um documento - anunciou-o várias vezes aos próprios parceiros sociais, à União das IPPS, às Misericórdias, etc., mas até agora nada!\n\nO que queremos é criar um quadro institucional em que o Governo, obrigatoriamente, tenha de dialogar com estas instituições e que não esteja na sua livre disponibilidade receber ou não as pessoas relativamente a esta matéria.\n\nPortanto, não queremos ser burocratas, bem pelo contrário: queremos é dar uma verdadeira expressão ao voluntariado através das suas próprias organizações. Como disse, o que estamos a tentar\ne, acima de tudo, reconhecer perante a sociedade portuguesa um estatuto para aquelas pessoas que, como disse, e bem - aliás, concordei consigo e é isso que está na base do nosso projecto de lei -, desempenham este papel na sociedade.\n\nDaí que sejam fixados direitos e deveres, que podem ser exagerados, apesar de no meu entender não o serem, mas, como já disse, estamos disponíveis para limar todas as arestas relativamente a este projecto de lei em sede de especialidade."
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 2372,
+      "speaker": {
+        "id": 1672,
+        "name": "Maria José Pinto Da Cunha Avilez Nogueira Pinto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Maria José Nogueira Pinto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Já agora responda à questão dos encargos atribuídos às empresas."
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 2372,
+      "speaker": {
+        "id": 1580,
+        "name": "António Costa Rodrigues",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Deputada, julgo que, cm relação aos encargos para as empresas, eles não são excessivos e, acima de tudo, penso que as empresas e os empresários conscientes têm de ter também uma visão em relação à solidariedade no seu global, pelo que têm de ter aqui uma parcela de participação nestas tarefas."
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 2373,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para urna intervenção, tem a palavra o Sr. Deputado Nuno Correia da Silva."
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 2373,
+      "speaker": {
+        "id": 1682,
+        "name": "Nuno Jorge Lopes Correia Da Silva",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Correia da Silva (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: O PP não questiona a virtualidade do voluntariado social, a utilidade pública do serviço prestado por aqueles que põem a sua generosidade ao serviço da comunidade, nem tão-pouco a eficácia do serviço personalizado promovido pelos agentes de acção social; questiona, sim, a legitimidade de uma lei que impõe aos agentes privados a obrigação de suportar os custos do voluntariado social.\n\nPenso que é bom que tenhamos em consideração a realidade do País, pois a nossa estrutura produtiva assenta, sobretudo, na média e na pequena empresa, não tendo a dispensa de um trabalhador a mesma relevância para uma empresa que tem 200 ou 300 trabalhadores, ou seja, para uma grande empresa, do que tem para um pequeno estabelecimento de comércio, com dois ou três trabalhadores. Contudo, nenhum dos projectos\nde lei ora apresentados leva em consideração este aspecto que, julgo, fundamental.\n\nAliás, o próprio Estatuto do Dirigente Sindical estabelece uma relação entre o número de trabalhadores que podem ser dispensados e o número de trabalhadores que estão ao serviço dessa empresa, porque, na verdade, temos de olhar para a realidade e quando estamos a legislar não podemos esquecê-la.\n\nO projecto de lei que o PSD apresenta tem vista larga nos direitos que atribui, mas é cego quanto às diferentes consequências que recaem sobre quem passa a ter deveres, nomeadamente as entidades empregadoras.\n\nO projecto de lei do PCP, no nosso entender, devia objectivar o campo de aplicação que este estatuto pode incluir e comportar. De facto, sou sensível aos argumentos apresentados pelo Sr. Deputado António Filipe, com toda a pertinência, pois, hoje, a cultura é, seguramente, feita pelas entidades e associações recreativas, pelos ranchos folclóricos, pelas bandas de música, por tudo isso, que têm uma utilidade pública que é inquestionável, mas, no nosso entender, a redacção proposta no\ndiploma é um saco demasiado grande.\n\nNa verdade, reconheço aos agentes culturais, aos agentes de voluntariado social, uma utilidade pública, mas já tenho alguma dificuldade em reconhecer utilidade social e pública, por exemplo, à associação de columbófilos portugueses ou à de filatelistas portugueses ou à dos coleccionadores de moedas, com todo o respeito que me merecem.\n\nMas, Sr. Deputado, não é a mesma coisa! Estas associações não têm a mesma relevância social e quanto a isso o projecto de lei do PCP devia objectivar e ser mais restrito naquilo que tem utilidade pública e que, por isso, deve ser suportado pela sociedade."
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 2373,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 2373,
+      "speaker": {
+        "id": 1682,
+        "name": "Nuno Jorge Lopes Correia Da Silva",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quanto ao projecto de lei apresentado pelo PSD, penso que era importante estabelecer uma relação entre o número de trabalhadores que podem ser dispensados e o número de trabalhadores que tem uma empresa.\n\nSr. Deputado, repito, não é a mesma coisa para uma empresa com dois ou três trabalhadores dispensar um trabalhador do que para uma empresa com 100 ou 200 dispensar dois ou três!... São realidades completamente diferentes.\n\nSrs. Deputados, quando o interesse político, mesmo motivado por razões sociais, esquece a realidade, não tenhamos dúvidas: cedo ou tarde é a realidade que esquece a lei!"
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 2373,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 2373,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado António Filipe."
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 2373,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Nuno Correia da Silva, gostaria de referir dois aspectos que me parecem importantes, o primeiro dos quais é o de chamar a atenção quanto à forma como no projecto de lei do PCP se prevêem os encargos atribuídos às empresas decorrentes deste projecto. Foi nossa ideia não impor quaisquer encargos às empresas - e quero salientar este aspecto -\nna medida em que para nós não é exigível a qualquer empresa privada que tenha de suportar a ausência ao emprego e as remunerações por faltas ao emprego de pessoas que estejam ao serviço de outras entidades.\n\nIsso é evidente! Daí que o que previmos no nosso diploma que, caso as empresas voluntariamente queiram assumir esses encargos, tenham até uma majoração em sede de IRC por esse facto, uma espécie de, digamos, mecenato um tanto atípico, que valeria a pena trabalhar e regulamentar, na medida em que - e ternos exemplos conhecidos de empresas que apoiam as colectividades da sua área muitas vezes a troco de publicidade ou até a troco de nada - essa seria uma forma possível de apoiar as actividades, possibilitando que o apoio das empresas também fosse dado por essa via.\n\nQuanto à questão que o Sr. Deputado colocou ela tem pertinência, isto é, temos consciência de que uma coisa\né por exemplo, uma entidade como a \"Voz do Operário\", que é centenária, que tem centenas de alunos nas suas escolas, que envolve uma actividade importantíssima para a cidade de Lisboa e para o País, e outra coisa é uma colectividade que possa ter sido criada anteontem para associar meia dúzia de pessoas...\n\nPortanto, somos sensíveis à necessidade de poder trabalhar nalguma objectivação, mas inicialmente pensámos que era, pelo menos na generalidade, difícil e poderia ser injusto estar, desde já, a avançar com uma forma taxativa colocando aqui um âmbito de aplicação que excluísse logo à partida algumas associações, pois isso poderia ser apressado da nossa parte.\n\nContudo, creio que seria de todo o interesse, em sede de especialidade, que todos os partidos pudessem contribuir para encontrar soluções justas, que é aquilo que pretendemos encontrar."
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 2373,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 2373,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o desejar, tem a palavra o Sr. Deputado Nuno Correia da Silva."
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 2374,
+      "speaker": {
+        "id": 1682,
+        "name": "Nuno Jorge Lopes Correia Da Silva",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Correia da Silva (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado António Filipe, gostaria apenas de dizer que registo com agrado a sua intervenção e que, naturalmente, o PP, em sede de especialidade, está disponível para apresentar propostas concretas, no sentido de corrigir aquilo que entendemos que são insuficiências ou, eventualmente, erros dos projectos de lei."
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 2374,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Afonso Lobão."
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 2374,
+      "speaker": {
+        "id": 1429,
+        "name": "José Afonso Teixeira De Magalhães Lobão",
+        "party": "PS",
+        "string": "O Sr. Afonso Lobão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Recentemente foi assinado o Pacto de Cooperação para a Solidariedade Social, envolvendo\no Governo, as Misericórdias, as Mutualidades Portuguesas, as Instituições Particulares de Solidariedade Social e as autarquias locais. Tal facto constituiu, sem dúvida, um marco histórico na cooperação abrindo mesmo outras portas para a intervenção social.\n\nO Estado, com a assinatura de tal documento, para além do reconhecimento da importância da sociedade civil, incentiva mesmo os cidadãos a integrar parcerias de intervenção social.\n\nE é justo sublinhar que a sociedade civil, representada aqui pelas instituições de solidariedade social e outros agentes sociais, tem respondido a este desafio lançado pelo Governo do Partido Socialista, envolvendo-se, por exemplo, responsavelmente na construção de redes sociais locais, que aproximam os cidadãos e rentabilizam os recursos disponíveis no combate à exclusão social e à pobreza para minorar problemas, sejam eles na área dos sem abrigo, dos idosos, dos deficientes, dos jovens ou das crianças e na aplicação do rendimento mínimo garantido.\n\nTudo isto confirma o que, aquando da discussão do Programa de Governo, o Partido Socialista indicara quanto ao propósito de construir uma sociedade mais solidária pata a qual é necessário o contributo de todos os parceiros que de uma forma empenhada são co-responsáveis na aplicação das políticas que visam o bem-estar dos cidadãos.\n\nSr. Presidente, Sr.\nas\ne Srs. Deputados: Consciente da importância e do papel desempenhado pelos dirigentes e outros colaboradores das Instituições de Solidariedade Social, o Governo, no âmbito do referido Pacto da Solidariedade para a Cooperação, propôs-se \"criar condições para o incentivo do mecenato social e para o estímulo do voluntariado a regular cm estatuto próprio\" e desenvolveu já esforços nesse sentido.\n\nCom efeito, se em Dezembro de 1996 o Governo da nova maioria avançava com a hipótese da criação de um estatuto próprio do voluntariado, hoje já não restam dúvidas que a criação daquele estatuto será em breve uma certeza. Com efeito, o Ministro da Solidariedade e Segurança Social, solicitou em Outubro à Direcção-Geral de Acção Social a elaboração no prazo de 4 meses de um relatório sobre o voluntariado social.\n\nEste estudo foi já elaborado, encontrando-se, neste momento, em poder da Comissão de Acompanhamento e Avaliação, instituída no âmbito do Pacto, devendo servir de base de reflexão alargada para a adopção do regime jurídico do voluntariado social.\n\nTal significa que o projecto de diploma que vier a ser adoptado resultará de um trabalho cuidado e da participação e consensualização entre as partes envolvidas.\n\nSr. Presidente, Sr.\nas\ne Srs. Deputados: É sabido que o voluntariado desempenhou desde sempre um papel primordial no campo da assistência social. Desde a mais remota antiguidade até aos nossos dias, o papel da acção voluntária foi significativo. Ao longo do tempo, homens e mulheres generosos foram desenvolvendo a sua acção em substituição do Estado ou em articulação com ele para fazerem face a situações de injustiça social.\n\nQuem no nosso país não conhece o papel e o esforço desenvolvidos por Instituições como a Cruz Vermelha, a Caritas, as Conferências de S. Vicente de Paulo, os Voluntários nos Hospitais, nos Serviços Prisionais, etc.?\n\nQuem no nosso País não conhece o trabalho empenhado de uma das mais de 2800 Instituições de Solidariedade Social?\n\nÉ esse trabalho altamente meritório que o Governo, no âmbito do Pacto da Solidariedade para a Cooperação, e o PSD através deste seu projecto de lei pretendem ver reconhecido.\n\nAliás, o mesmo se passa na União Europeia, que tem dedicado especial atenção à problemática do voluntariado e da assistência, quer nos seus instrumentos jurídicos quer através da adopção de posições das instituições comunitárias. Aliás, países europeus há que dispõem já hoje de enquadramento jurídico do voluntariado social. nomeadamente a Itália e a Espanha quer através de lei própria do voluntariado social - caso da Itália - quer de leis que abarcam não só os aspectos ligados às organizações mas também aos voluntários, situação vivida em Espanha.\n\nAs próprias instituições tem promovido colóquios, debates e seminários para o aprofundamento de princípios, direitos e deveres - contributo importante para o anteprojecto de estatuto que deve nascer sob o signo da concórdia e da participação.\n\nSr. Presidente, Sr.\nas\ne Srs. Deputados: A Assembleia da República aprecia hoje o projecto de lei n.º\n298/VII, da autoria do PSD, que pretende definir os princípios e as regras que regulam a actividade do voluntariado para a solidariedade.\n\nO Grupo Parlamentar do PS gostaria de ver no diploma legal que resultar deste debate e da discussão em sede de especialidade considerados aqueles que julgamos poderem ser os princípios enquadradores do voluntariado, nomeadamente o da solidariedade, da participação, da coordenação e integração - que pressupõe a existência de um órgão nacional responsável pelo voluntariado - e o da cooperação, tal como desejamos ver considerados como direitos dos voluntários o acesso a programas de formação, à justificação de faltas, ao reembolso de despesas que tenham efectuado no exercício do seu trabalho e enquadramento num regime de segurança social.\n\nAssim, e embora se considere a iniciativa legislativa do PSD como positiva, ela carece, certamente, de aperfeiçoamentos em sede de comissão especializada, pelo que o Grupo Parlamentar do PS vai aguardar pelo envio da proposta de lei, pois que a discussão conjunta dos dois diplomas, resultará certamente, num estatuto mais rico já que possui a chancela dos principais interessados, nomeadamente das associações de voluntários e dos próprios cidadãos que se dedicam a tão nobre actividade."
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 2374,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Pedro Baptista."
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 2374,
+      "speaker": {
+        "id": 1690,
+        "name": "Pedro Luis Da Rocha Baptista",
+        "party": "PS",
+        "string": "O Sr. Pedro Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Para o PS é inquestionável o interesse do movi-"
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 2375,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado António Filipe."
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 2375,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Pedro Baptista, fiquei lamentavelmente surpreendido com a sua intervenção. Há pouco, o Sr. Deputado Nuno Correia da Silva ou a Sr.ª Deputada Maria José Nogueira Pinto, não me recordo bem, disse que o projecto de lei do PSD parecia um projecto de gente de esquerda. Sr. Deputado, devo dizer-lhe que a sua intervenção ultrapassou toda a gente pela direita, pelo menos, todos os que estão representados neste Hemiciclo."
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 2375,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 2375,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Enquanto, da parte do PSD e do PP, vimos compreensão relativamente à situação do movimento associativo e alguma abertura para ultrapassar a situação actual, que é um completo absurdo, sem pés nem cabeça, porque uma pessoa é penalizada por exercer uma actividade socialmente meritória, da parte do Sr. Deputado vimos o encontrar de alguns pretextos mal amanhados para dizer que este texto não serve e recusar liminarmente esta ideia. Foi isso que vi.\n\nSr. Deputado, permita-me que lhe lembre o seguinte: vem agora dizer que se se tratasse de uma política de isenções fiscais e outros apoios ao associativismo, tudo estaria bem. Então, deixe-me dizer-lhe que o Sr. Deputado chegou atrasado, porque há uns meses discutimos aqui precisamente isso, por proposta do PCP, e os senhores votaram contra. Se tivesse falado antes, talvez o PS não tivesse votado contra aquele projecto de lei e ele tivesse sido aprovado.\n\nDepois, o Sr. Deputado vem dar exemplos até ao absurdo. Diz: imaginem que há uma empresa que tem oito trabalhadores, dos quais vários são dirigentes associativos então, a empresa cessa a laboração Sr. Deputado, levando os exemplos até ao absurdo, também posso dizer que nessa empresa podiam ser todos bombeiros voluntários e que, quando tocasse a sineta, a empresa pararia.\n\nSejamos sérios na forma como encaramos as questões. A intervenção do Sr. Deputado Pedro Baptista é o exemplo claro do enaltecimento das palavras e do total desprezo pelos"
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 2376,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o desejar, tem a palavra\no Sr. Deputado Pedro Baptista."
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 2376,
+      "speaker": {
+        "id": 1690,
+        "name": "Pedro Luis Da Rocha Baptista",
+        "party": "PS",
+        "string": "O Sr. Pedro Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado António Filipe, em nome de uma vasta e longa experiência no movimento associativo, não tenho dificuldade alguma em responder às associações que me levantarem a questão acerca do sentido do meu voto neste projecto de lei do PCP. A primeira resposta que darei é a de que este projecto é tão mal feito, o texto é tão fraquinho que justifica essas inoperâncias todas.\nOu seja, o texto está, à partida, falhado.\n\nEm segundo lugar, sobre a questão de ser ou não de esquerda, quero esclarecer que, realmente, somos capazes de não ser da mesma esquerda, com certeza não somos da mesma esquerda há muitos anos,..."
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 2376,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não somos, não! Nunca fomos!"
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 2376,
+      "speaker": {
+        "id": 1690,
+        "name": "Pedro Luis Da Rocha Baptista",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... caso contrário, não tínhamos estado sempre em lados opostos da barricada, eu de um lado e os senhores do outro. É que, para mim, a esquerda, para além de muitas coisas, é também responsabilidade, é também a análise concreta das situações, é também melhoria da situação económica, social e cultural do País e não, irresponsavelmente, tentar lançar cocktails molotov\n- passe a expressão, em sentido figurado - e areia para a máquina da produção, no sentido de criar conflitualidades, em que os trabalhadores acabam por ser as vítimas.\n\nSe VV. Ex.\nas\nacham religiosamente que devem analisar a situação concreta... Se VV.\nEx.\nas\nacham que o exemplo que dei - de uma oficina com oito operários que pode ter, com esta legislação, quatro deles dispensados por pertencerem a diversas associações -\né absurdo, é porque já estão há tanto tempo na burocracia parlamentar que já não sabem o que é uma oficina, que é uma coisa que, aliás, vos acontece há várias décadas!"
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 2376,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 2376,
+      "speaker": {
+        "id": 1690,
+        "name": "Pedro Luis Da Rocha Baptista",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Srs. Deputados do PCP, ser coerente é defender positivamente as coisas\ne não arranjar forma de virar contra aqueles que dizemos defender as atitudes que tomamos!\n\nSrs. Deputados do PCP, façam um projecto de lei bem feito e terão o apoio do PS!"
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 2376,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 2376,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, não havendo mais inscrições, dou por terminada a discussão dos projectos de lei\nn.\nos\n196/VII e 298/VII.\n\nVamos passar à discussão do projecto de lei n.º 257/ VII - Altera a Lei dos Baldios (PSD).\n\nPara uma intervenção, tem a palavra o Sr. Deputado Antonino Antunes."
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 2376,
+      "speaker": {
+        "id": 1571,
+        "name": "Antonino Da Silva Antunes",
+        "party": "PSD",
+        "string": "O Sr. Antonino Antunes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente. Srs. Deputados: Em 2 de Julho de 1992, procedeu-se neste Plenário à apreciação de dois projectos de lei sobre os baldios.\n\nDeles saiu a Lei n.º 68/93, de 4 de Setembro, conhecida por \"Lei dos Baldios\", a qual constituiu um marco histórico na evolução do pensamento legislativo sobre a matéria.\n\nEssa lei definiu -\"baldios\" como \"terrenos possuídos e geridos pelas comunidades locais\" e preocupou-se em viabilizar uma gestão actualizada das respectivas utilidades.\n\nPor um lado, possibilitou a alienação de áreas muito restritas, desde que justificadas por razões de gestão urbanística do território ou de natureza económica e social das respectivas comunidades, estabelecendo sempre os condicionalismos e os parâmetros dessas alienações.\n\nPor outro, mostrou-se sensível à conveniência em regularizar certas construções irregularmente edificadas sobre baldios, viabilizou actos de expropriação e permitiu a constituição de servidões, tudo em nome de uma administração mais dinâmica, capaz de potenciar a \"crescente melhoria das condições de vida das populações\".\n\nA experiência de mais de três anos de vigência da lei revelou a necessidade de algumas alterações, aperfeiçoamentos e ajustamentos que, de resto, se inserem nos parâmetros do pensamento evolutivo do legislador de 1993.\n\nAssim, em primeiro lugar: a Lei n.º 68/93 permitiu que os proprietários de construções irregulares pudessem adquirir a propriedade da parcela de terreno baldio estritamente necessária ao fim da construção. \"por recurso à acessão industrial imobiliária, nos termos .gerais do direito\", fixando-lhes, para tanto, o prazo de dois anos, decorrido o qual podem \"as respectivas comunidades locais adquirir a todo o tempo\" essas construções, pagando o valor da respectiva avaliação.\n\nMas o que aconteceu foi que o prazo de dois anos expirou em 1995 e - fosse por desconhecimento da lei, fosse por falta de capacidade económica dos particulares, fosse por falta de interesse das comunidades locais em adquiri-las (devido, porventura, tanto à falta de liquidez como à vontade de evitar factores de perturbação social) -, o certo é que subsistem pelo país fora inúmeras construções por \"legalizar\".\n\nJustificava-se, por isso, que, no mínimo, se fixasse novo prazo, já que não é próprio falar de prorrogação de um prazo extinto.\n\nMais aconselhável nos parece, contudo, retirar a limitação temporal. Assim, qualquer das partes interessadas poderá, no momento próprio, desencadear o processo de regularização, mediante o recurso à acessão industrial imobiliária.\n\nEntendeu-se, contudo, que remeter tout court para a acessão industrial imobiliária equivaleria, na prática, a"
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 2378,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Garcia dos Santos."
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 2378,
+      "speaker": {
+        "id": 1624,
+        "name": "Fernando Garcia Dos Santos",
+        "party": "PS",
+        "string": "O Sr. Garcia dos Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Mais uma vez, a Assembleia da República volta a discutir a questão dos baldios. Depois de 1976 e após a devolução dos baldios às comunidades locais, que o chamado Estado Novo de Salazar desapossara, já foram objecto de cerca de duas dezenas de iniciativas legislativas. Este facto, só por si, demonstra bem, por um lado, a importância que os baldios têm para as comunidades e, por outro, a dificuldade ou complexidade em legislar sobre uma matéria tão sensível como a fruição e gestão de bens comunitários, com tradição secular, sem pôr em causa a sua função económica e social.\n\nNo entanto, pensarmos que, com a Lei n.º 68/93, que resultou dos projectos de lei 109/VI\n(PS), e 163/VI (PSD) foi encontrado um ponto de equilíbrio, que gerou a concordância generalizada das comunidades locais e permitiu conciliar interesses em jogo."
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 2378,
+      "speaker": {
+        "id": 1441,
+        "name": "António Alves Martinho",
+        "party": "PS",
+        "string": "O Sr. António Martinho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 2378,
+      "speaker": {
+        "id": 1624,
+        "name": "Fernando Garcia Dos Santos",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Decorridos que estão cerca de quatro anos, vem agora o Grupo Parlamentar do PSD propor alterações à lei em questão. Sendo certo que se justificam algumas alterações com vista à clarificação de algum do seu articulado, manda a verdade que se diga que o Grupo Parlamentar do PSD e o Governo de, Cavaco Silva andaram distraídos durante os 90 dias subsequentes à entrada em vigor da Lei n.º 68/93.\n\nE que aquela lei, no artigo 41.º, diz: \"Sem prejuízo da entrada em vigor das normas da presente lei que possam ser directamente aplicáveis, o Conselho de Ministros procederá à regulamentação necessária à sua execução no prazo de 90 dias a contar da entrada em vigor da presente\nlei . Como é sabido, nada fizeram. Estão a fazer algo agora e reconhecemos que o Grupo Parlamentar do PSD está imbuído de boa intenção, tendo porventura o seu projecto de lei aspectos positivos. Mas - pasme-se! - o Grupo Parlamentar do PSD, ao legislar no sentido de resolver e clarificar alguns problemas, gera outros.\n\nPassemos, então, à análise das propostas de alteração constantes do projecto de lei n.º\n257/VII do Grupo Parlamentar do PSD.\n\nNo artigo 30.º (Constituição de servidões), elimina a expressão \"nomeadamente por razões de interesse público\". Nada a objectar.\n\nNo artigo 39.º (Construções irregulares), elimina a segunda parte do corpo do n.º 2, relativo a construções irregulares, e adiciona quatro números, transpondo para a legislação sobre os baldios as soluções do artigo 1561.º (Servidão legal de aqueduto) do Código Civil.\n\nEntendemos que se, por um lado, é conferida alguma justeza ao argumento esgrimido pelo Grupo Parlamentar do PSD, por outro, não nos parece de todo correcto adoptar uma solução extrema, como seja a de acabar com o prazo legal de regularização das construções irregulares existentes à data da entrada em vigor da Lei dos Baldios, permitindo \"a qualquer das partes por sua iniciativa e em qualquer momento desencadear um processo judicial tendente à desejável regularização\".\n\nCompreendemos que a situação de carência económica e de desconhecimento da lei, invocados pelo Grupo Parlamentar do PSD no seu projecto, embora este último não aproveite a favor do infractor, tenham obstado à legalização das incorporações. Mas somos de opinião de que a inexistência de prazo legal só irá agravar ainda mais a situação, proporcionando aos proprietários de incorporação um comportamento de inércia total quanto à resolução da mesma.\n\nEste facto, a verificar-se, feriria os direitos das comunidades que têm a seu cargo o uso, fruição, gestão e administração dos baldios que foram incorporados.\n\nEstamos convictos de que a solução ora apresentada pelo Grupo Parlamentar do PSD não resolveria o problema. Com a faculdade conferida a qualquer das partes, de regularizar a situação a todo tempo. podem as comunidades locais proceder à referida regularização dos terrenos baldios sem que os particulares mais carenciados ou \"enfermos de tal ignorância jurídica\" tenham qualquer oportunidade de ver a situação resolvida a seu favor.\n\nNão foi, certamente, essa a intenção do legislador ao conceder o prazo de dois anos aos particulares para que procedessem à regularização das construções irregulares que incorporam nos terrenos baldios.\n\nAssim, o argumento do Grupo Parlamentar do PSD cai por terra com a sua própria justificação.\n\nAlargar o prazo para se proceder à regularização das construções, que, à data, ainda continuam ilegais, achamos desejável; contudo, já não nos parece correcto acabar com ele."
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 2378,
+      "speaker": {
+        "id": 1441,
+        "name": "António Alves Martinho",
+        "party": "PS",
+        "string": "O Sr. António Martinho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 2378,
+      "speaker": {
+        "id": 1624,
+        "name": "Fernando Garcia Dos Santos",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Acresce ainda dizer que existe uma certa contradição entre a \"Nota justificativa\" e o corpo do articulado do projecto de lei, nomeadamente, no seu artigo 39.º, n.º 2. Pois, se na \"Nota justificativa\" o Grupo Parlamentar do PSD se debate pela eliminação do prazo previsto na redacção do artigo 39.º, n.º 2, da Lei n.º 68/93, defendendo que \"a qualquer das partes\" deveria ser conferido o direito a desencadear o processo judicial tendente à desejável regularização das construções irregulares, no articulado o Grupo Parlamentar do PSD preocupou-se apenas com os proprietários das incorporações, omitindo os interesses das comunidades locais."
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 2378,
+      "speaker": {
+        "id": 1441,
+        "name": "António Alves Martinho",
+        "party": "PS",
+        "string": "O Sr. António Martinho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem visto!\nO Orador - Fica, assim, clara a intenção do Grupo Parlamentar do PSD de proteger os particulares, proprietários das incorporações irregulares, atribuindo-lhes esse direito intemporal que lhes permita adquirir as parcelas de terreno baldio afectos ao implante. Ou não será verdade? Esta questão coloca-nos, desde já, outro problema: o que acontece às incorporações deixadas ao abandono pelos proprietários?\n\nA redacção pretendida pelo Grupo Parlamentar do PSD não salvaguarda esta situação, ao contrário do que acontece com a Lei n.º 68/93, que permite que as comunidades locais beneficiem das benfeitorias realizadas no terreno baldio, quando o proprietário não deseje regularizar a situação.\n\nA protecção que o Grupo Parlamentar do PSD pretende conferir aos proprietários das incorporações justifica-se ainda quando subsume a situação jurídica do seu artigo 39.º, n.º 2, no artigo 1340.º, n.º 1, do Código Civil. Ou seja, parte do princípio de que todos os proprietários estão de boa fé, sendo-lhes, por isso, conferido o direito de adquirirem o terreno baldio que suporta a incorporação.\n\nOra, para se provar a boa fé, nos termos do artigo 1340.º, n.º 1, do Código Civil, é necessário que se verifi-"
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 2379,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, esgotou e ultrapassou o tempo do PS, pelo que lhe peço que conclua."
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 2379,
+      "speaker": {
+        "id": 1624,
+        "name": "Fernando Garcia Dos Santos",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, termino de imediato.\n\nSr. Presidente, Srs. Deputados: Resta-nos acrescentar que a ideia base subjacente ao projecto de lei do Grupo Parlamentar do PSD é aceitável, uma vez que pretende fazer face a situações práticas geradoras de conflitos sociais e jurídicos. Contudo, carece, em nosso entender, de alguma precisão e esclarecimento, quanto aos objectivos a alcançar com a presente iniciativa legislativa.\n\nSr. Presidente, Srs. Deputados: O Grupo Parlamentar do Partido Socialista manifesta a sua disponibilidade para, em sede de comissão, na especialidade, analisar, numa atitude positiva, responsável e coerente com as posições que assumiu no passado, este projecto de lei, tendo sempre presente a necessidade de acautelar os legítimos interesses das comunidades locais e evitar eventuais violações aos princípios consignados na Constituição, bem como o surgimento de novos conflitos que dele possam resultar."
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 2379,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Garcia dos Santos, há um Sr. Deputado inscrito para pedir esclarecimentos, mas o Partido Socialista não só esgotou como ultrapassou o tempo de que dispunha. Porém, fui informado de que o Grupo Parlamentar do Partido Ecologista Os Verdes lhe concede 1 minuto.\n\nAssim, para pedir esclarecimentos, tem a palavra o Sr. Deputado Antonino Antunes."
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 2379,
+      "speaker": {
+        "id": 1571,
+        "name": "Antonino Da Silva Antunes",
+        "party": "PSD",
+        "string": "O Sr. Antonino Antunes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Garcia dos Santos, gostaria de começar por fazer uma observação. V. Ex.ª manifestou alguma admiração e censura pelo facto de o Governo do PSD não ter procedido à regulamentação da lei. Quanto a isto, só quero dizer-lhe. muito concretamente, o seguinte: há cerca de dois anos que o PS está no Governo e, nestes dois anos, o Governo do PS não sentiu ainda qualquer necessidade de o fazer.\nFico à espera que o Governo do PS proceda a essa regulamentação. No entanto, em minha opinião, essa regulamentação não se impõe. Está prevista, mas não se impõe. Admito que o Governo do PSD não tenha feito essa regulamentação, precisamente por ter tido esse mesmo entendimento.\n\nPor outro lado, registo com agrado que V. Ex.ª revelou as nossas boas intenções, quando elaborámos este projecto de lei. Estou convencido de que algumas das observações feitas poderão ser - e sê-lo-ão certamente - objecto de discussão em sede de especialidade. Com certeza, isso não vai impedir o nosso entendimento na generalidade.\n\nDe qualquer forma, quero dizer-lhe, só, aqui e já, que não é verdadeira a afirmação de que se privilegia os proprietários particulares. Isto, pela simples razão de que esta iniciativa pode evidentemente ser iniciada, de imediato, já a seguir, tanto pelos compartes como pelos próprios particulares. Qualquer um deles pode tomar a iniciativa. E o que é certo é que, se a assembleia de compartes tomar a iniciativa, os próprios particulares têm de tomar logo a sua posição.\n\nQuanto à presunção, devo dizer-lhe que o que resulta claramente - e, se é necessário um esforço aclarativo, ele fica já nesta fase, o que pode significar, de certa forma, um recurso aos trabalhos preparatórios - é que esta presunção é aquilo a que chamamos em direito uma presunção tantum juris, portanto, uma presunção que admite prova em contrário. É apenas para facilitar uma prova que sabemos ser difícil de se fazer.\n\nMas se entenderem que isso necessita de clarificação, ela pode ser feita e a isso não nos opomos, porque esse é o nosso espírito.\n\nSr. Deputado Garcia dos Santos, por falta de tempo não quero abusar da bondade da Mesa -, deixaremos para sede de especialidade eventuais discussões sobre esta matéria, que, reconhecemo-lo, é das mais difíceis c delicadas com que os juristas, os advogados e os juízes se deparam nos nossos tribunais."
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 2379,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 2379,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Garcia dos Santos, para o que dispõe de 1 minuto concedido pelo Grupo Parlamentar do Partido Ecologista Os Verdes."
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 2379,
+      "speaker": {
+        "id": 1624,
+        "name": "Fernando Garcia Dos Santos",
+        "party": "PS",
+        "string": "O Sr. Garcia dos Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, começo por agradecer ao Grupo Parlamentar do Partido Ecologista Os Verdes o tempo que nos dispensou."
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 2380,
+      "speaker": {
+        "id": 1441,
+        "name": "António Alves Martinho",
+        "party": "PS",
+        "string": "O Sr. António Martinho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 2380,
+      "speaker": {
+        "id": 1624,
+        "name": "Fernando Garcia Dos Santos",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Agora, o que é de admirar é que, tendo VV. Ex.\nas\nmanifestado a pertinência e a urgência desta lei, não tivessem feito uma lei com mais cuidado - e foi o Sr. Deputado, um dos subscritores deste projecto de lei, que naquela tribuna disse já haver artigos que tinham de alterar.\nMais do que distraídos foram apressados e não foram capazes de acautelar uma redacção mais cuidada."
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 2380,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 2380,
+      "speaker": {
+        "id": 1571,
+        "name": "Antonino Da Silva Antunes",
+        "party": "PSD",
+        "string": "O Sr. Antonino Antunes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isto é uma lei da Assembleia da República, não é um decreto-lei!"
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 2380,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Isto não é um projecto de lei sobre tis baldios, é um projecto \"à balda\"!"
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 2380,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, agradeço que não mantenham diálogo, porque o tempo já é pouco.\n\nFaça o favor de continuar, Sr. Deputado Garcia dos Santos."
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 2380,
+      "speaker": {
+        "id": 1624,
+        "name": "Fernando Garcia Dos Santos",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, quanto ao entendimento, já o manifestámos e algumas destas questões preocupam-nos. Só que VV.\nEx.\nas\n, com este projecto de lei, poucos problemas resolvem e, ao resolverem um problema, se calhar, originam três ou quatro. Tenho pena, mas, a seu tempo, esta questão será ventilada e certamente resolvida.\n\nAlém disso, suscitam problemas ainda de maior gravidade, como o de não distinguirem, por exemplo, águas originárias de terrenos baldios ou de terrenos privados, apontando para soluções que considero de alguma gravidade. E, mais, Sr. Deputado, esta situação é não só lesiva para os compartes mas até para alguns proprietários, porque aponta inclusivamente para que a água excedente de uma nascente privada, só porque atravessa um baldio, possa ser adquirida pela assembleia de compartes, o que é manifestamente inconcebível."
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 2380,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Odete Santos."
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 2380,
+      "speaker": {
+        "id": 819,
+        "name": "Maria Odete Dos Santos",
+        "party": "PCP",
+        "string": "A Sr.ª Odete Santos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Com presunção tantum juris ou juris tantum, tanto basta para que o PCP vote contra este projecto de lei.\n\nFoi muito eloquente a intervenção do Sr. Deputado Antonino Antunes e creio ter demonstrado que o que quer é resolver problemas jurisprudenciais, diversas interpretações do tribunal, e problemas de pessoas que deixaram passar o prazo de dois anos e, agora, não podem exercer o direito.\n\nOra, Sr. Deputado Antonino Antunes, temos uma larga tarefa à nossa frente! Se tivermos de seguir toda essa orientação em relação a todos os casos de pessoas que, por outras razões e noutras matérias, deixaram passar os prazos e não podem exercer o direito, se tivermos de resolver o problema das diversas interpretações jurisprudenciais noutras matérias, a Assembleia não vai fazer outra coisa, Sr. Deputado Antonino Antunes, se não pôr-se aí a fazer leis para dizer: \"não é assim, senhores juízes, é assado; e, então, o prazo já não é esse, mas mais aquele\"."
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 2380,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 2380,
+      "speaker": {
+        "id": 819,
+        "name": "Maria Odete Dos Santos",
+        "party": "PCP",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Então, lanço um repto ao Sr. Deputado e ao PSD, consubstanciado na seguinte questão: estão dispostos a fazer um projecto de lei para dizer que não há prazo para as acções de investigação de paternidade e de maternidade e que aqueles que perderam o direito à herança, agora, vão passar a tê-lo?"
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 2380,
+      "speaker": {
+        "id": 1571,
+        "name": "Antonino Da Silva Antunes",
+        "party": "PSD",
+        "string": "O Sr. Antonino Antunes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Que comparação tão infeliz!"
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 2380,
+      "speaker": {
+        "id": 819,
+        "name": "Maria Odete Dos Santos",
+        "party": "PCP",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não foi isso, mas a questão é semelhante, Sr. Deputado Antonino Antunes! Onde é que já se viu, numa Assembleia com cabeça, alguém vir dizer \"Ah, vocês deixaram passar o prazo, mas a gente, agora, vai pôr aqui que não há prazo\"?! V. Ex.ª também está disposto a alterar a lei dos despedimentos e a dizer que os trabalhadores não têm apenas o prazo de um ano para exigirem a indemnização, mas podem fazê-lo a todo o tempo?\n\nO Sr. Deputado Antonino Antunes sabe tão bem como eu que há uma coisa que se chama certeza e segurança jurídica e também sabe que o seu projecto de lei vai ao arrepio de toda a certeza e de toda a segurança jurídica. Aliás, este é mais um passo na gesta heróica e épica, \"em demanda do Santo Graal\", do PSD contra os baldios e contra os compartes!"
+    },
+    {
+      "utterance_id": 166,
+      "order": 166,
+      "page_start": 2380,
+      "speaker": {
+        "id": 1441,
+        "name": "António Alves Martinho",
+        "party": "PS",
+        "string": "O Sr. António Martinho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É um risco!"
+    },
+    {
+      "utterance_id": 167,
+      "order": 167,
+      "page_start": 2380,
+      "speaker": {
+        "id": 819,
+        "name": "Maria Odete Dos Santos",
+        "party": "PCP",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E nós sabemos muito bem que o PSD, na revisão constitucional, propôs a eliminação do artigo 82.º da Constituição, onde se encontra a consagração da propriedade social dos meios de produção! Sabemos isso!\n\nMas, Sr. Deputado Antonino Antunes, VV. Ex.\nas\nforam longe demais. Primeiro, nessa questão do prazo; segundo, porque, enquanto uma pessoa contra um privado, na acção industrial imobiliária, tem determinados requisitos a cumprir e tem de provar a sua boa fé e que o valor que a sua obra trouxe ao terreno é superior ao valor deste, aqui, quando estão em causa interesses de comunidades locais e não os de uma pessoa, VV.\nEx.\nas\nabrem mão de tudo isto e defendem que não é preciso provar nada, podendo apropriar-se da parcela de solo de qualquer maneira e a todo o tempo."
+    },
+    {
+      "utterance_id": 168,
+      "order": 168,
+      "page_start": 2380,
+      "speaker": {
+        "id": 1571,
+        "name": "Antonino Da Silva Antunes",
+        "party": "PSD",
+        "string": "O Sr. Antonino Antunes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pagando-a!"
+    },
+    {
+      "utterance_id": 169,
+      "order": 169,
+      "page_start": 2380,
+      "speaker": {
+        "id": 819,
+        "name": "Maria Odete Dos Santos",
+        "party": "PCP",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Antonino Antunes, de facto, isto é demais!"
+    },
+    {
+      "utterance_id": 170,
+      "order": 170,
+      "page_start": 2380,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 171,
+      "order": 171,
+      "page_start": 2380,
+      "speaker": {
+        "id": 819,
+        "name": "Maria Odete Dos Santos",
+        "party": "PCP",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Antonino Antunes, porque razão VV. Ex.\nas\nnão se contentam com o que consta"
+    },
+    {
+      "utterance_id": 172,
+      "order": 172,
+      "page_start": 2381,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Há ano e meio!"
+    },
+    {
+      "utterance_id": 173,
+      "order": 173,
+      "page_start": 2381,
+      "speaker": {
+        "id": 1441,
+        "name": "António Alves Martinho",
+        "party": "PS",
+        "string": "O Sr. António Martinho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estamos a tratar disso!"
+    },
+    {
+      "utterance_id": 174,
+      "order": 174,
+      "page_start": 2381,
+      "speaker": {
+        "id": 819,
+        "name": "Maria Odete Dos Santos",
+        "party": "PCP",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estão a tratar disso! Vamos a ver, porque, se calhar, estão dependentes de algum acordo em relação ao artigo 82.º da Constituição. E não sei que mais surpresas o PS nos reservará nessa matéria de revisão constitucional!"
+    },
+    {
+      "utterance_id": 175,
+      "order": 175,
+      "page_start": 2381,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 176,
+      "order": 176,
+      "page_start": 2381,
+      "speaker": {
+        "id": 819,
+        "name": "Maria Odete Dos Santos",
+        "party": "PCP",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Antonino Antunes, a lei ainda nem regulamentada foi. Através dos tempos, foram feitas as maiores obstruções ao exercício dos direitos dos compartes e eles já estão habituados a isso, porque toda esta actuação em relação aos baldios já vem de muito longe. E agora VV.\nEx.\nas\nvêm fazer uma investida contra a propriedade comunal para esbulhar, para colocar no comércio jurídico águas e bocados de terreno, fora daquilo que a lei actualmente prevê em relação aos privados.\n\nSr. Presidente, Srs. Deputados, o projecto de lei fala por si, as contradições na exposição de motivos são enormes. O vosso projecto de lei diz, na exposição de motivos, e V.Ex.ª repetiu-o aqui, que toda a gente sabe que há construções que têm na sua base vendas, autorizações e licenças camarárias que levaram a essas utilizações. Então, se toda a gente sabe, não podem provar a boa\nfé?! Não! O que V. Ex.ª quis foi, de facto, prosseguir uma cruzada contra os compartes, contra os baldios, contra uma propriedade que, no norte serrano, tem desempenhado uma função económica e social importante.\n\nMas eles continuarão a lutar e VV. Ex.\nas\nnão contarão connosco para qualquer alteração à lei existente."
+    },
+    {
+      "utterance_id": 177,
+      "order": 177,
+      "page_start": 2381,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP e de Os Verdes",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 178,
+      "order": 178,
+      "page_start": 2381,
+      "speaker": {
+        "id": 1441,
+        "name": "António Alves Martinho",
+        "party": "PS",
+        "string": "O Sr. António Martinho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para um pedido de esclarecimento."
+    },
+    {
+      "utterance_id": 179,
+      "order": 179,
+      "page_start": 2381,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado já esgotou o seu tempo."
+    },
+    {
+      "utterance_id": 180,
+      "order": 180,
+      "page_start": 2381,
+      "speaker": {
+        "id": 1441,
+        "name": "António Alves Martinho",
+        "party": "PS",
+        "string": "O Sr. António Martinho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Os Verdes acabam de me conceder\n1 minuto."
+    },
+    {
+      "utterance_id": 181,
+      "order": 181,
+      "page_start": 2381,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Então, faça favor."
+    },
+    {
+      "utterance_id": 182,
+      "order": 182,
+      "page_start": 2381,
+      "speaker": {
+        "id": 1441,
+        "name": "António Alves Martinho",
+        "party": "PS",
+        "string": "O Sr. António Martinho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Deputada Odete Santos, fez um desafio ao Grupo Parlamentar do PS, mas recordo-lhe a parte final da intervenção do Sr. Deputado Garcia dos Santos, onde reconhecemos que a Lei dos Baldios merece, necessita e deve ser regulamentada. Qualquer grupo parlamentar pode exercer o direitos de legislar e propor um projecto de lei, mas o meu colega Deputado\n\nGarcia dos Santos foi claro quando disse que o PS está disponível para enriquecer este projecto de lei, tendo sempre presente a necessidade de acautelar os legítimos interesses das comunidades locais e evitar eventuais violações aos princípios consignados na Constituição.\n\nSr.ª Deputada, quanto ao artigo 82.º da Constituição, da nossa parte prezamos muito o direito das comunidades aquilo que é propriedade comunitária."
+    },
+    {
+      "utterance_id": 183,
+      "order": 183,
+      "page_start": 2381,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra a Sr.ª Deputada Odete Santos, dispondo de muito pouco tempo para o efeito. Mas informam-me que Os Verdes concedem-lhe também\n1 minuto."
+    },
+    {
+      "utterance_id": 184,
+      "order": 184,
+      "page_start": 2381,
+      "speaker": {
+        "id": 819,
+        "name": "Maria Odete Dos Santos",
+        "party": "PCP",
+        "string": "A Sr.ª Odete Santos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, serei muito breve.\n\nApetecia-me responder, perante esta profissão de fé, à maneira de Gil Vicente: muito folgo eu com isso. Mas como nestas coisas da fé, que não de convicções, a fé muitas vezes abala, é sempre bom estar com um pé atrás."
+    },
+    {
+      "utterance_id": 185,
+      "order": 185,
+      "page_start": 2381,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Helena Santo."
+    },
+    {
+      "utterance_id": 186,
+      "order": 186,
+      "page_start": 2381,
+      "speaker": {
+        "id": 1627,
+        "name": "Maria Helena Pereira Nogueira Santo",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Helena Santo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Em nosso entender, o projecto de lei n.º 257/ VII, ao pretender a eliminação da limitação temporal prevista no n.º 2 do artigo 39.º, vai, de facto, beneficiar ambas as partes interessadas, na medida em que permite a ambas desencadear o processo tendente à regularização da situação em qualquer momento. Entendemos que, por um lado, vai resolver um conjunto de situações que se encontram por resolver há já algum tempo e, por outro, vai permitir que o dono das construções, que neste caso em concreto e na sua grande maioria são pessoas de fracos recursos económicos e com poucas habilitações literárias. que a lei em vigor fez cair numa solução sem solução, isto é, numa solução sem alternativa.\n\nNo entanto, entendemos também - e congratulamo-nos com o facto de o PSD já ter reconhecido que é necessária aqui a clarificação de uma limitação temporal, por exemplo, aceitando que esta nova redacção apenas se aplicará às situações já existentes à data da entrada em vigor da lei - que a forma como o artigo está redigido é, de facto, bastante ampla porque não tem qualquer limitação temporal, e essa não nos parece uma situação justa.\n\nPor outro lado, no projecto de lei, o estabelecimento da presunção legal é acompanhado do direito à aquisição do terreno, ainda que o valor deste seja maior do que o da obra incorporada. Esta presunção legal, ora proposta, é uma inversão do princípio que não só marca as origens históricas do instituto da acessão como predomina nas soluções dos diferentes sistemas estrangeiros em vigor sobre esta matéria.\n\nDe acordo com o disposto nos artigos 1339.º e 1342.º do Código Civil, o beneficiário da acessão pode ser quer o dono do solo quer o dono do implante. A solução proposta pelos autores do projecto de lei, pelo contrário, consagra a fatalidade da reversão para o dono do implante do solo em que implantou. Ora, esta disposição, em nosso entender, só pode valer na exacta medida em que reflicta o princípio da função social do direito real, isto é, só acei-"
+    },
+    {
+      "utterance_id": 187,
+      "order": 187,
+      "page_start": 2382,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 188,
+      "order": 188,
+      "page_start": 2382,
+      "speaker": {
+        "id": 1571,
+        "name": "Antonino Da Silva Antunes",
+        "party": "PSD",
+        "string": "O Sr. Antonino Antunes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente. peço a palavra para um pedido de esclarecimento no tempo de 1 minuto que me foi concedido pelo Partido Popular."
+    },
+    {
+      "utterance_id": 189,
+      "order": 189,
+      "page_start": 2382,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 190,
+      "order": 190,
+      "page_start": 2382,
+      "speaker": {
+        "id": 1571,
+        "name": "Antonino Da Silva Antunes",
+        "party": "PSD",
+        "string": "O Sr. Antonino Antunes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Helena Santo, antes de mais, queria congratular-me não propriamente pela posição que tomou, porque acredito que é uma posição sensata e de boa fé, mas, acima de tudo, por ter tocado no ponto essencial da questão.\n\nTenho pena que a Sr.ª Deputada Odete Santos já não se encontre presente para me ouvir, mas aquilo que mais me surpreendeu nesta discussão - foi o facto de a Sr.ª Deputada se ter esquecido de que aquilo que estamos aqui a defender, no essencial, quando tratamos das construções e das canalizações, são os interesses dos pobres e dos pequenos proprietários, porque só esses é que constroem nestas situações e só esses é que não têm estas situações legalizadas.\n\nFoi, pois, uma intervenção contra os pobres e contra os pequenos proprietários aquilo em que se consubstanciou a posição defendida pela Sr.ª Deputada Odete Santos."
+    },
+    {
+      "utterance_id": 191,
+      "order": 191,
+      "page_start": 2382,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Ó Sr. Deputado, a Sr.ª Deputada Odete Santos já não está presente e V. Ex.ª pediu a palavra para um pedido de esclarecimento à Sr.ª Deputada Helena Santo, de maneira que faça favor de usar da palavra para esse efeito."
+    },
+    {
+      "utterance_id": 192,
+      "order": 192,
+      "page_start": 2382,
+      "speaker": {
+        "id": 1571,
+        "name": "Antonino Da Silva Antunes",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Deputada, no fundo, era isto que eu queria dizer, portanto penso que o meu pedido de esclarecimento está feito."
+    },
+    {
+      "utterance_id": 193,
+      "order": 193,
+      "page_start": 2382,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o entender, tem a palavra a Sr.ª Deputada Helena Santo."
+    },
+    {
+      "utterance_id": 194,
+      "order": 194,
+      "page_start": 2382,
+      "speaker": {
+        "id": 1627,
+        "name": "Maria Helena Pereira Nogueira Santo",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Helena Santo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Antonino Antunes, queria apenas dizer-lhe que, de facto, comungamos dessa preocupação. Foi ela que nos levou a tomar a posição de viabilizar este projecto de lei, sem prejuízo de apresentarmos as alterações que já referi."
+    },
+    {
+      "utterance_id": 195,
+      "order": 195,
+      "page_start": 2382,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 196,
+      "order": 196,
+      "page_start": 2382,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 197,
+      "order": 197,
+      "page_start": 2382,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é só para informar a Câmara que a Sr.ª Deputada Odete Santos já não está aqui porque na Comissão Eventual para a Revisão Constitucional está a ser debatido um artigo em que ela está directamente envolvida. Ela saiu porque presumiu que já não houvesse qualquer referência à intervenção que fez."
+    },
+    {
+      "utterance_id": 198,
+      "order": 198,
+      "page_start": 2382,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "E também já não tinha tempo!\n\nSrs. Deputados, terminámos a discussão do projecto de lei n.º 257/VII.\n\nVamos passar ao último ponto da nossa ordem de trabalhos, que é a apreciação e votação do I.º Orçamento Suplementar da Assembleia da República para 1997.\n\nPara uma intervenção, tem a palavra o Sr. Deputado Gonçalo Ribeiro da Costa."
+    },
+    {
+      "utterance_id": 199,
+      "order": 199,
+      "page_start": 2382,
+      "speaker": {
+        "id": 1626,
+        "name": "Gonçalo Filipe Ribas Ribeiro Da Costa",
+        "party": "CDS-PP",
+        "string": "O Sr. Gonçalo Ribeiro da Costa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Estamos aqui a discutir o l.º Orçamento Suplementar da Assembleia da República para o ano de 1997, que visa dar cumprimento não só à lei como também ao acórdão do Tribunal de Contas, no sentido de que o saldo de gerência do ano de 1996 deva ser incorporado no Orçamento de 1997 logo após o seu apuramento e não, como acontecia no passado, no fim do ano económico em causa.\n\nOra, este Orçamento Suplementar, que assim dá cumprimento à decisão e ao acórdão do Tribunal de Contas, mais não visa do que interpretar fielmente os diplomas legais que regem esta matéria, e, por isso, merece o total acordo do Partido Popular. \n\nO saldo de gerência do ano de 1996 já foi objecto de intervenção do Partido Popular. mas na sede própria, quando se discutiu a Conta de 1996, e por isso escuso de estar a repetir as considerações que fizemos na altura sobre esta matéria.\n\nQuero apenas realçar o pronto cumprimento das determinações do órgão jurisdicional em causa por forma a que nada haja a apontar à Assembleia da República nesta matéria, e por esse motivo o Partido Popular não pode deixar de louvar a Sr.ª Secretária-Geral. Desejamos que, de futuro, e ainda relativamente ao mesmo e outros acórdãos, a Assembleia saiba assim cumprir fielmente aquilo que o Tribunal de Contas determina."
+    },
+    {
+      "utterance_id": 200,
+      "order": 200,
+      "page_start": 2382,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 201,
+      "order": 201,
+      "page_start": 2382,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Rui Vieira."
+    },
+    {
+      "utterance_id": 202,
+      "order": 202,
+      "page_start": 2382,
+      "speaker": {
+        "id": 1128,
+        "name": "Rui Do Nascimento Rabaça Vieira",
+        "party": "PS",
+        "string": "O Sr. Rui Vieira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Uso da palavra para apenas dar um breve esclarecimento à Câmara das razões por que neste momento, passados poucos meses após a aprovação do Orçamento da Assembleia da República, é necessário um orçamento suplementar.\n\nA primeira razão - o Sr. Deputado Gonçalo Ribeiro da Costa já o referiu - é justamente a de fazer a integração do montante correcto do saldo da Conta de 1996. Lembro que aprovámos o Orçamento para este ano em 31 de Janeiro e, como é normal, o saldo aí referido, o saldo respeitante à Conta de 1996, foi encontrado por estimativa pois não podia deixar de ser de outro modo. Passado um mês e tal, fechou-se a Conta de 1996, encontrou-se o saldo correcto, e agora trata-se de o integrar.\n\nTambém assim se procede à correcção de verbas que têm a ver com o facto de posteriormente terem sido recebidas"
+    },
+    {
+      "utterance_id": 203,
+      "order": 203,
+      "page_start": 2383,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 204,
+      "order": 204,
+      "page_start": 2383,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, não havendo mais inscrições, vamos passar à votação do 1.º Orçamento Suplementar da Assembleia da República para 1997."
+    },
+    {
+      "utterance_id": 205,
+      "order": 205,
+      "page_start": 2383,
+      "speaker": {
+        "id": 418,
+        "name": "Carlos Miguel Maximiano De Almeida Coelho",
+        "party": "PSD",
+        "string": "O Sr. Carlos Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 206,
+      "order": 206,
+      "page_start": 2383,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor."
+    },
+    {
+      "utterance_id": 207,
+      "order": 207,
+      "page_start": 2383,
+      "speaker": {
+        "id": 418,
+        "name": "Carlos Miguel Maximiano De Almeida Coelho",
+        "party": "PSD",
+        "string": "O Sr. Carlos Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, parece-me evidente e óbvio que V. Ex.ª encerre o debate não havendo mais inscrições, mas quanto à votação tenho algumas dúvidas, uma vez que o período regimental de votações decorrerá na sessão plenária de amanhã, às 18 horas, tanto quanto sei."
+    },
+    {
+      "utterance_id": 208,
+      "order": 208,
+      "page_start": 2383,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Carlos Coelho, o que está na ordem do dia é \"apreciação e votação (...)\", e foi isto que foi decidido na Conferência dos Representantes dos Grupos Parlamentares. Porém, se houver objecções a que assim se proceda, poderá ser votado na reunião plenária de amanhã..."
+    },
+    {
+      "utterance_id": 209,
+      "order": 209,
+      "page_start": 2383,
+      "speaker": {
+        "id": 1128,
+        "name": "Rui Do Nascimento Rabaça Vieira",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, o que foi decidido na Conferência dos Representantes dos Grupos Parlamentares foi o agendamento da matéria para hoje, e a menos que haja alguma razão que torne para a Assembleia muito penosa a sua votação na reunião plenária de amanhã ela efectuar-se-á agora. Mas, perante isto, agradecia que o Sr. Deputado Rui Vieira, que é o Presidente do Conselho de Administração da Assembleia da República, nos dissesse se há algum elemento nesse sentido, ou seja, se há algum elemento que torne totalmente imperioso que a votação seja feita hoje. Caso contrário, creio que devemos manter a regra."
+    },
+    {
+      "utterance_id": 210,
+      "order": 210,
+      "page_start": 2383,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Carlos Coelho, não há qualquer problema em que a votação se faça amanhã, à hora regimental. Portanto, assim se fará.\n\nSrs. Deputados, a nossa próxima reunião plenária terá lugar amanhã, às 15 horas, e terá como ordem do dia a discussão, na generalidade, da proposta de lei n.º 47/VII, do projecto de lei n.º 241/VII (CDS-PP) e do projecto de deliberação n.º 40/VII (PS).\n\nEstá encerrada a sessão."
+    }
+  ]
+}

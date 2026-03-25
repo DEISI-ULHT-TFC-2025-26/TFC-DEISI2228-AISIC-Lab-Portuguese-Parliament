@@ -1,0 +1,936 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "1",
+    "legislative_session": "4",
+    "number": "2",
+    "date": "1980-01-08"
+  },
+  "debate_id": "r3_1_4_2_1980-01-08",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vai proceder-se à chamada.\n\nEram 15 horas e 40 minutos.\nFez-se a chamada, à qual responderam os seguintes Srs. Deputados:\nPartido Social-Democrata (PSD)\nAfonso de Sousa Freire de Moura Guedes.\n\nAlcino Cabral Barreto.\n\nÁlvaro Barros Marques de Figueiredo.\n\nAmândio Anes de Azevedo.\n\nAmélia Cavaleiro Monteiro de Andrade de Azevedo.\n\nAmérico Abreu Dias.\n\nAntónio Alberto Correia Cabecinha.\n\nAntónio Augusto Lacerda de Queirós.\n\nAntónio Duarte e Duarte Chagas.\n\nAntónio José Ribeiro Carneiro.\n\nAntónio José dos Santos Moreira da Silva.\n\nAntónio Maria Pereira.\n\nAntónio Maria de Orneias Ourique Mendes.\n\nArmando Adão e Silva.\n\nArmando António Correia.\n\nArménio dos Santos.\n\nCarlos M. Sousa Encarnação.\n\nCarlos Matos Chaves de Macedo.\n\nCecília Pita Catarino.\n\nCristóvão Guerreiro Norte.\n\nDaniel Abílio Ferreira Bastos.\n\nEleutério Manuel Alves.\n\nFernando José Sequeira Roriz.\n\nFernando Manuel Alves Cardoso Ferreira.\n\nFernando Monteiro do Amaral.\n\nFernando Raimundo Rodrigues.\n\nFrancisco José de Sousa Tavares.\n\nGermano da Silva Domingos.\n\nHenrique Alberto Freitas do Nascimento Rodrigues.\n\nJaime Adalberto Simões Ramos.\n\nJoão António Sousa Domingues.\n\nJoão Aurélio Dias Mendes.\n\nJoão Baptista Machado.\n\nJoão Luís Malato Correia.\n\nJoão Vasco da Luz Botelho de Paiva.\n\nJoaquim Manuel Cabrita Neto.\n\nJoaquim Marques Gaspar Mendes.\n\nJosé Adriano Gago Vitorino.\n\nJosé Ângelo Ferreira Correia.\n\nJosé da Assunção Marques.\n\nJosé Baptista Pires Nunes.\n\nJosé Bento Gonçalves."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Responderam à chamada 238 Srs. Deputados. \n\nTemos quórum, pelo que declaro aberta a reunião.\nEram 15 horas e 55 minutos."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Como os Srs. Deputados sabem, a reunião de hoje é dedicada exclusivamente à eleição da Mesa e da sua presidência.\n\nPara a eleição da presidência existem dois boletins, cada um com o nome de um candidato, e um boletim em branco, o que significa que se um Deputado não quiser votar em nenhum dos candidatos vota nessa lista em branco.\n\nComo me parece que o que está exposto não oferece dúvidas, vai proceder-se à chamada para a votação."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 27,
+      "speaker": {
+        "id": 355,
+        "name": "Rui Eduardo Ferreira Rodrigues Pena",
+        "party": "CDS",
+        "string": "O Sr. Rui Pena (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 27,
+      "speaker": {
+        "id": 355,
+        "name": "Rui Eduardo Ferreira Rodrigues Pena",
+        "party": "CDS",
+        "string": "O Sr. Rui Pena (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Nos termos regimentais, o meu grupo parlamentar pede a suspensão da reunião por meia hora, após a distribuição das listas."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Porque o pedido é regimental, está suspensa a reunião.\n\nFoi suspensa a reunião."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Está reaberta a reunião. \n\nEram 16 horas e 50 minutos."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, antes de procedermos à votação, vou conceder a palavra ao Sr. Deputado Pedro Roseta, que pretende fazer uma rectificação oral ao Diário da última reunião plenária."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 27,
+      "speaker": {
+        "id": 344,
+        "name": "Pedro Manuel Cruz Roseta",
+        "party": "PPD",
+        "string": "O Sr. Pedro Roseta (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Ë apenas para dizer que, como me parece evidente - aliás,- esta intervenção é quase inútil-, todos os grupos parlamentares e partidos aqui representados entenderam que aquele convite que fiz a V. Ex.ª para presidir à reunião de sexta-feira passada era extensivo à reunião de hoje, até ao termo do acto eleitoral que vamos realizar."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos então proceder às votações, que por uma questão de economia de tempo serão feitas simultaneamente."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Algum dos Srs. Deputados ainda não votou?\nPausa.\nComo já todos votaram, vamos proceder ao escrutínio, que, segundo resolução da Mesa, vai começar pela contagem dos votos relativos à eleição dos membros da Mesa e só depois pelos relativos à eleição do presidente.\n\nEntretanto, e enquanto se procede ao escrutínio, convido os representantes dos grupos parlamentares para uma reunião no meu gabinete.\n\nProcedeu-se ao escrutínio."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está reaberta a reunião.\n\nEram 19 horas e 10 minutos."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, tenho de comunicar à Câmara que, por erro técnico, as votações têm de ser repetidas, segundo deliberação que acaba de ser tomada pelos representantes dos partidos na reunião havida no meu gabinete.\n\nPortanto, vamos interromper os trabalhos, que daqui a meia hora serão retomados para se fazer nova eleição.\n\nEntretanto, os líderes dos grupos parlamentares e os representantes dos partidos reunirão no gabinete do Presidente.\n\nA reunião está interrompida por meia hora, Srs. Deputados.\nEram 19 horas e 10 minutos."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está reaberta a reunião.\nEram 20 horas."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vão ser distribuídos os boletins de voto para procedermos de novo às eleições.\n\nTodavia, devo esclarecer que o erro técnico que há pouco referi foi um erro de contagem dos votos.\n\nPedia ao CDS e ao PCP para indicarem um elemento dos respectivos partidos para auxiliar os outros escrutinadores."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Oliveira Dias (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Dá-me licença, Sr. Presidente?"
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado Oliveira Dias."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Oliveira Dias (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, na sequência do pedido formulado por V. Ex.ª, o meu partido indica para auxiliar os escrutinadores o Deputado Alexandre Reigoto."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Ângelo Correia."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 28,
+      "speaker": {
+        "id": 35,
+        "name": "José Ângelo Ferreira Correia",
+        "party": "PPD",
+        "string": "O Sr. Ângelo Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, a bancada social-democrata pede a V. Ex.ª um adiamento dos trabalhos por trinta minutos."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Como o requerimento é legal, está concedido."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está suspensa a reunião.\nEram 20 horas e 10 minutos."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está reaberta a reunião.\nEram 20 horas e 35 minutos."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vai proceder-se à votação, que, como é normal, será iniciada pelos elementos da Mesa.\nProcedeu-se à votação."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, chegámos ao fim da chamada para a votação e antes de se proceder à contagem dos votos, aproveito para avisar que na próxima quinta-feira há reunião e que, como sempre, se inicia às 15 horas.\n\nVai proceder-se ao escrutínio.\n\nProcedeu-se ao escrutínio."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o resultado do escrutínio é o seguinte:\n\nVotos entrados, 249;\n\nEleição para Vice-Presidentes:\n\nNuno Aires Rodrigues dos Santos (PSD) - votos a favor, 206; votos contra, 35; votos brancos, 1; abstenções, 7;\n\nAntónio Duarte Arnaut (PS) -votos a favor, 125; votos contra, 117; votos brancos, 1; abstenções, 6;\n\nJosé Rodrigues Vitoriano (PCP) - votos a favor, 132; votos contra, 110; votos brancos, 1; abstenções, 6;\n\nAntónio Jacinto Martins Canaverde (CDS)- votos a favor, 200; votos contra, 36; votos brancos, 1; abstenções, 12.\n\nEstes são os quatro Vice-Presidentes que, em virtude desta votação, proclamo eleitos.\n\nEleição para Secretários:\n\nManuel Henriques Pires Fontoura (PSD) - votos a favor, 204; votos contra, 36; votos brancos, 4; abstenções, 5;\n\nAlberto Marques Antunes (PS) - votos a favor, 128; votos contra, 112; votos brancos, 4; abstenções, 5;\n\nJosé Manuel Maia Nunes de Almeida (PCP) - votos a favor, 140; votos contra, 98; votos brancos, 3; abstenções, 8;\n\nFrancisco Cavaleiro Ferreira (CDS) - votos a favor, 188; votos contra, 43; votos brancos, 2; abstenções, 16.\n\nSão estes os quatro Secretários da Mesa que proclamo eleitos em virtude desta votação.-"
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: Acaba de ser eleito Presidente, como verificaram, por este número de votos, o Sr. Deputado Leonardo Eugénio Ramos Ribeiro de Almeida, a quem apresento as mais cordiais saudações, desejando que tenha no desempenho deste cargo, que por vezes é difícil, bastantes facilidades, o que com certeza lhe vão proporcionar a felicidade de que precisa para o seu desempenho.\n\nSr. Deputado, convido-o a vir tomar este lugar que, por eleição, lhe pertence.\n\nNeste momento assumiu a presidência o Sr. Presidente Leonardo Ribeiro de Almeida, abraçando antes o Sr. Deputado Teófilo Carvalho dos Santos, com os aplausos da Assembleia, que se repetiram guando este ocupou o seu lugar na bancada."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, convido os Secretários eleitos a tomarem os seus lugares na Mesa.\n\nOs Secretários eleitos tomaram o seu lugar na Mesa."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, é meu desejo, neste momento em que pela vontade expressa desta Câmara assumo a sua presidência, apresentar a todos, sem distinção de credo ou partido, as minhas muito leais saudações.\n\nNão me considero, no momento em que início estas mesmas funções, se não um primus inter pares que deseja estabelecer e manter com todos os Srs. Deputados o melhor, o mais franco e o mais leal espírito de colaboração.\n\nAgradeço a todos os Srs. Deputados que com o seu voto me elegeram para a presidência desta Câmara a honra da sua confiança e asseguro-lhes que o único limite que poderei pôr ou que se encontrará no meu desejo de corresponder a essa mesma confiança é o que resulta das minhas próprias possibilidades.\n\nDesejo ainda afirmar que, nó complexo número de razões que constituem para mim motivo de considerar uma imensa honra esta eleição, avulta, no grupo das mais valiosas, o ter presente no meu espírito a figura dos que aqui me antecederam. Já tive o gosto de saudar o Sr. Dr. Teófilo Carvalho dos Santos, a quem, para além das relações parlamentares, me ligam relações de outra ordem, nascidas ao calor do exercício da mesma profissão. Invoco também o nome do seu antecessor, Dr. Vasco da Gama Fernandes, mas creio que não faço injúria se endereçar uma saudação muito especial ao Sr. Prof. Henrique de Barros. Fui Deputado à Assembleia Constituinte, aqui trabalhei, Sr. Professor, sob a presidência de V. Ex.ª, e considerarei como um exemplo a recordação que aguardo da dignidade, da competência e do elevado espírito democrático com que V. Ex.ª aqui dirigia sempre os trabalhos e nos conduziu a todos, em horas difíceis, à salvação da democracia e da liberdade.\nGostaria ainda de fazer outra afirmação: o meu partido subscreveu a minha candidatura com perfeita unanimidade, mas sinto que ela se não ofusca, ou melhor, que a legitimidade que daí resulta e dos posteriores votos que recebeu se não ofusca, antes, se fortalece, se fizer uma referência que considero elementar dever de justiça e de verdade. É que milita no meu partido, no Partido Social-Democrata, desde as primeiras horas, uma figura inconfundível de português e de político que, pelas excelências do seu carácter, pelo seu inconfundível aprumo, pela dignidade com que durante anos exerceu a profissão de advogado, que tanto nobilitou, e que, por todas as outras razões que nele concorrem - e creio que são sobejamente conhecidas de toda esta Câmara -, era, por direito próprio, o nome que eu, presidente do partido em exercício de funções, apontaria para estar aqui se não fossem as circunstâncias de doença que neste momento atravessa. Refiro-me, pois, ao Sr. Dr. Nuno Rodrigues dos Santos, a quem presto as minhas calorosas homenagens e a quem testemunho o preito da minha muita admiração.\nSrs. Deputados, esta sessão já vai longa e não pretendo alongá-la mais. Direi apenas que desejo terminar estas breves considerações nos precisos termos em que as comecei: contam VV. Ex.ªs, sem excepção, com a minha completa e total colaboração, com a minha integral disponibilidade. Nobres e longas tarefas nos vão ser pedidas nos meses que se vão seguir e, na vivacidade e no entusiasmo da controvérsia, sentir-me-ei, creio mesmo que nos sentiremos todos suficientemente compensados, se, quando terminarmos esta sessão legislativa, tivermos dado ao povo português que nos elegeu a imagem da nossa operacionalidade, da nossa eficiência, e se tivermos por essa via acrescentado o belo e largo prestígio que esta Assembleia e esta Casa tem, porque por ela passa, como todos sabem, a própria democracia e a liberdade que jamais queremos perder.\n\nSrs. Deputados, a ordem do dia está praticamente cumprida. Há algum Sr. Deputado que deseje usar da palavra?"
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 29,
+      "speaker": {
+        "id": 272,
+        "name": "Francisco Antonio Lucas Pires",
+        "party": "CDS",
+        "string": "O Sr. Lucas Pires (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Lucas Pires."
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 29,
+      "speaker": {
+        "id": 272,
+        "name": "Francisco Antonio Lucas Pires",
+        "party": "CDS",
+        "string": "O Sr. Lucas Pires (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Desejava, em nome daqueles que elegeram o Sr. Presidente da Assembleia da República, dizer algumas palavras.\n\nAntes de mais, palavras de homenagem ao Sr. Dr. Teófilo Carvalho dos Santos, que durante o tempo em que foi Presidente da Assembleia da República se tornou credor do nosso respeito e a quem"
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Lucas Pires, agradeço as amáveis palavras que me dirigiu."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Salgado Zenha (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Salgado Zenha."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Salgado Zenha (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: Não era minha intenção dirigir algumas palavras neste momento porque, creio, os aplausos que foram endereçados ao Sr. Presidente da Assembleia da República, no momento em que tomou posse do seu cargo, exprimiam da nossa parte o aplauso ao resultado de um acto democrático desta Assembleia. Mas, desde o momento em que o Sr. Deputado Lucas Pires usou da palavra para, em afirmações de congratulação pela sua eleição, fazer simultaneamente uma declaração política algo polémica,"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 32,
+      "speaker": {
+        "id": 266,
+        "name": "José Rodrigues Vitoriano",
+        "party": "PCP",
+        "string": "O Sr. José Vitorino (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Assim é que é falar!"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Nós desejamos, sinceramente, que ela se mantenha firme, coesa e estável, à volta dos seus líderes naturais ou artificiais, à volta do Governo liderado pela personalidade escolhida pela dita Aliança, para que em Setembro ou Outubro deste ano ela seja derrotada pelo Partido Socialista. São estes os nossos mais sinceros votos e, pela nossa parte, ajudaremos até o Sr. Deputado Lucas Pires, sempre que ele o desejar, e dar-lhe-emos o nosso contributo para cimentar qualquer eventual fenda que possa haver na coesão interna da referida Aliança."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 32,
+      "speaker": {
+        "id": 548,
+        "name": "Natália De Oliveira Correia",
+        "party": "PSD",
+        "string": "A Sr.ª Natália Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito obrigada!"
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "As minhas saudações vão para todos os partidos aqui presentes, e, sob pena de cometer algum erro de memória, quero citar todos os agrupamentos e grupos políticos aqui representados: assim, dirigem-se ao CDS, aos Deputados independentes integrados nesse grupo parlamentar, ao Partido Social-Democrata, ao grupo dos Reformadores, ao Partido Popular Monárquico -que nos honra com um brilho especial porque vem de ao longo dos séculos a este Parlamento republicano e tão recente (risos) - e também ao MDP e ao PCP. Creio que não me esqueci de ninguém ..."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Da UDP!"
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ah! E ao Sr. Deputado da UDP, também presente. Foi por lapso que não o mencionei, como, aliás, o seu sorriso benévolo revela com toda a certeza.\nAs minhas saudações são feitas não no sentido de fazer apelos à civilização, pois somos todos civilizados e naturalmente que será um pouco incivilizado querer insinuar que só aquele que fala é que é civilizado e que outros são salvagens que precisam de ser domados. Não, pensamos que todos somos civilizados e que o que representamos são conceitos diferentes de democracia.\n\nAntes do 25 de Abril havia os democratas orgânicos e os democratas que eram inorgânicos e uns governavam enquanto os outros eram perseguidos; hoje não é necessário que haja democratas orgânicos e inorgânicos, porque a democracia dá a todos o direito de se exprimirem e o pluralismo é uma consequência natural da própria democracia e, portanto, cada um representa a sua maneira de ser. Dentro da própria democracia temos de nos aturar uns aos outros como somos, não podemos pedir aos outros que deixem de ser aquilo que são para passarem a ser aquilo que desejaríamos que eles fossem, e, portanto, temos de nos aturar uns aos outros. Portugal tem os partidos políticos que merece ter e assim nós somos aquilo que somos!\n\nMas há uma coisa que é certa, para a qual peço a atenção do Sr. Presidente da Assembleia da República: há na imprensa, ou melhor, numa certa imprensa, uma campanha sistemática contra o Parlamento, porque, após 50 anos de ditadura, em que havia uma Assembleia dita Nacional, onde nada se deliberava e onde não havia democracia, hoje, a Assembleia da República tem sido um Órgão de Soberania popular, de debate, de confronto, de crítica, o que para os antidemocratas é um factor insólito e, assim, uma certa imprensa tem procurado denegrir sistematicamente o Parlamento, ora insinuando que há divergências ou conflitos entre a Assembleia da República e os outros Órgãos da Soberania, ora insinuando que o Parlamento não tem razão de ser.\n\nEstou certo de que o Sr. Presidente da Assembleia da República, como representante máximo deste Órgão de Soberania nacional, compreenderá que uma das funções deste Parlamento é exercer a sua competência própria, dentro do respeito pelos outros órgãos de Soberania popular e não vou precisar quais porque são de todos conhecidos. Mas também interessa prestigiar o Parlamento, como Órgão da Soberania popular, face aos ataques antidemocráticos que lhe são feitos. Não que os Deputados ou os Partidos, ou mesmo até o próprio Parlamento, não possam ter e não tendam mesmo defeitos no seu funcionamento ...\n\nNaturalmente que a crítica é desejável e eu sou até daqueles que pensam que em todas as críticas que nos são dirigidas - seja enquanto partido, enquanto pessoas, ou mesmo à própria instituição de que fazemos parte-, mesmo nas críticas mais injustas há sempre qualquer coisa que aproveitamos. Contudo, temos também obrigação de nos defendermos e de tomarmos atitudes inequívocas para fortalecer e prestigiar o Parlamento, como Órgão de Soberania democrática que é, e o maior contributo que poderemos dar para a democracia em Portugal é defender esses Órgãos da Soberania popular e prestigiar a democracia. Estou certo de que o Sr. Presidente da Assembleia da República, na sua actuação, não deixará de contribuir, pela sua acção, para defender este Órgão da Soberania sempre que ele for, não digo criticado, porque isso é inteiramente legítimo, mas quando for atacado com o intuito de pôr em causa a sua própria existência como pedra fundamental de funcionamento da democracia constitucional em Portugal."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Salgado Zenha, agradeço as suas saudações e pelo que diz respeito ao meu empenhamento na defesa da democracia e da liberdade -que tem sido uma das razões mais fortes da minha vida-, o futuro responderá por mim.\n\nTem a palavra o Sr. Deputado Medeiros Ferreira."
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 33,
+      "speaker": {
+        "id": 328,
+        "name": "José Manuel De Medeiros Ferreira",
+        "party": "PS",
+        "string": "O Sr. Medeiros Ferreira (Indep.)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, pedi a palavra para, em nome dos Deputados reformadores, fazer uma singela mas sentida e autêntica saudação ao Dr. Leonardo Ribeiro de Almeida, agora eleito Presidente da Assembleia da República. Será uma saudação singela, porque creio que o acto da eleição do segundo cargo da hierarquia do Estado cobre, por si só, esta sessão e as palavras poderão ser sempre em demasia. Apenas não queria que o silêncio dos Reformadores fosse também um defeito\n\nNós vemos com emito agrado e com grande satisfação a eleição do Dr. Leonardo Ribeiro de Almeida para Presidente da Assembleia da República. Entre muitas razões ligadas à personalidade de Leonardo Ribeiro de Almeida, e que aqui já foram expressas, mas que poderei repetir, existe uma que para os Reformadores é singular e importantíssima: é que o Dr. Leonardo Ribeiro de Almeida foi subscritor do acordo de cooperação política eleitoral entre o PSD e os Reformadores, que permite a existência neste Parlamento dos Deputados reformadores com a autonomia e identidade política próprias. Estamos certos de que a eleição do Deputado Leonardo Ribeiro de Almeida é uma garantia suplementar da vitória do espírito desse acordo estabelecido entre o PSD e os Reformadores.\n\nTambém não queria deixar de sublinhar que irá ter V. Ex.ª uma missão difícil, e creio que será bom recordar que neste Parlamento, havendo uma maioria parlamentar decidida a apoiar um Governo, existem minorias que devem aqui encontrar a instituição privilegiada para fazerem ouvir a sua voz e de terem meios de intervenção no funcionamento do Estado.\n\nSempre defendi, em termos presidenciais e governamentais, a nítida distinção entre o Poder e a oposição, mas creio que o Parlamento é o espaço ideal para que as minorias se entrelacem com as maiorias num concerto de opiniões e compromissos que o próprio sistema proporcional indica ser o espírito da democracia política em Portugal.\n\nNão queria também deixar de referir que toda a Mesa agora eleita teve o voto expresso e positivo dos Deputados reformadores, em conformidade com o 'espírito anteriormente definido na minha intervenção, razão pela qual desejo, muito em particular pela função que ocupa, ao Dr. Leonardo Ribeiro de Almeida as maiores felicidades no desempenho do seu cargo e que a sua personalidade garante.\n\nQueria também saudar toda a Mesa eleita, porque ela representa a vontade conjunta do povo português."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Medeiros Ferreira, muito obrigado pela amabilidade das suas palavras."
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 33,
+      "speaker": {
+        "id": 272,
+        "name": "Francisco Antonio Lucas Pires",
+        "party": "CDS",
+        "string": "O Sr. Lucas Pires (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para dar um esclarecimento."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tenha a bondade."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 33,
+      "speaker": {
+        "id": 272,
+        "name": "Francisco Antonio Lucas Pires",
+        "party": "CDS",
+        "string": "O Sr. Lucas Pires (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é para dar um pequeno esclarecimento ao Sr. Deputado Salgado Zenha, além, naturalmente, dos agradecimentos que lhe são devidos pelas palavras simpáticas que me dirigiu.\n\nO esclarecimento é o seguinte: agradeço a confirmação de que o PS é um partido da oposição e a confirmação, igualmente, da razão daquelas pessoas que diziam que o PS é um partido tão vocacionado para a oposição que se sente aí particularmente feliz...\n\nSuponho que a exposição do Dr. Salgado Zenha é uma expressão dessa felicidade e dessa vontade de falar da oposição, que eu saúdo."
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado\nCarlos Brito."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 33,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, Sr. Dr. Leonardo Ribeiro de Almeida: Postas as coisas como foram postas pelos oradores antecedentes, também nós queremos dizer uma breve palavra, muito embora não sejamos o partido mais representativo da oposição...\nEstamos, como é sabido, em firme oposição à maioria donde resultou a sua candidatura. Entretanto, queremos dizer-lhe que tomámos muito boa nota das suas afirmações relativamente ao espírito de lealdade e de cooperação que deve presidir aos trabalhos da Assembleia da República e também às afirmações que produziu em defesa da democracia portuguesa.\n\nE queremos afirmar-lhe, do nosso lado, que não somos um grupo parlamentar fácil, como é bem conhecido. Costumamos defender as nossas ideias com grande frontalidade -diria mesmo com grande entusiasmo-, com grande lealdade e cooperando sempre para que os problemas nacionais encontrem justa solução. Da nossa parte, pode, pois, contar com esse espírito.\n\nDefenderemos aqui a Constituição da República enquanto estiver em vigor e participaremos, depois das eleições de 1980, nos debates em torno da revisão constitucional com essa frontalidade, com essa firmeza, com esse entusiasmo. Conte também, Sr. Presidente, com uma grande defesa da nossa parte das regras democráticas, das praxes democráticas que aqui se estabeleceram em três anos de trabalho em que houve certamente aspectos menos positivos, mas em"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Carlos Brito, agradeço igualmente as suas palavras.\n\nTem a palavra o Sr. Deputado Ferreira do Amaral."
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 34,
+      "speaker": {
+        "id": 413,
+        "name": "Augusto Martins Ferreira Do Amaral",
+        "party": "PPM",
+        "string": "O Sr. Ferreira do Amaral (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A nossa intervenção, até pelo adiantado da hora, é brevíssima.\n\nNão queríamos deixar, a primeira vez que temos a honra de falar aqui destas bancadas, de saudar, em primeiro lugar, os colegas Deputados, quer aqueles com quem fizemos maioria, quer os da anunciada oposição, e de lhes prometer que, no calor dos nossos debates e no vigor com que defendermos as nossas posições, não esqueceremos, com certeza, que teremos de respeitar as tradições desta Casa enobrecidas nos últimos anos de trabalho.\n\nQueria aproveitar ainda para saudar também V. Ex.ª, quer pelo facto de ser colega de profissão, quer pelo facto de ser Deputado pelo mesmo distrito, eleito após uma campanha eleitoral em que V. Ex.ª, como candidato n.º 1, tão brilhantemente conduziu a intervenção dos candidatos da Aliança Democrática. E esta saudação não é feita só pelo facto de V. Ex.ª estar na presidência, mas por aquilo que representa para esta Assembleia: uma honra que V. Ex.ª aí esteja sentado.\n\nNão quero deixai de referir também com simpatia a palavra do Sr. Deputado Salgado Zenha, que tão amavelmente se nos dirigiu, a nós como aos restantes grupos parlamentares, salientando, nomeadamente, aquilo que me parece ser de inteira justiça, ou seja, que nós, Deputados do Partido Popular Monárquico, aqui nos sentimos perfeitamente à vontade."
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado Mário Tomé."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 34,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Sr. Mário Tomé (UDP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A minha intervenção vai ser breve e espero que desta vez não esteja fora da ordem de trabalhos.\n\nO Sr. Presidente ora eleito, naturalmente que não o conheço; dele sei apenas que pertence ao Partido Social-Democrata. Isso basta-me, pois sei efectivamente para o que aqui está. (Risos do PSD.) A forma como vai actuar para o obter é previsível. O brilhantismo dos Srs. Deputados, da maioria de direita dará ao Regimento e à Constituição a interpretação que melhor lhes convier, como, aliás, já aconteceu com outras maiorias, e os verdadeiros interesses do povo continuarão a ser espezinhados por aqueles que elegeu."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 34,
+      "speaker": {
+        "id": 266,
+        "name": "José Rodrigues Vitoriano",
+        "party": "PCP",
+        "string": "O Sr. José Vitorino (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Olhe que não!"
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 34,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os trabalhadores saberão tê-lo em conta - de costas para S. Bento continuarão a sua luta!"
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado Germano Domingues."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Germano Domingues (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente,\n\nSrs. Deputados: No passado dia 3, o Sr. Presidente cessante, Teófilo Carvalho dos Santos, fez aqui um apelo em nome de todos os Deputados presentes, independentemente de qualquer partido, referindo-se à catástrofe que se abateu sobre os Açores. . Quero aqui referir, como Deputado dos Açores e em nome dos meus colegas, e tendo acabado de chegar de lá há pouco tempo, que calou muito fundo em toda a população açoriana, que neste momento vive momentos trágicos, esse voto que aqui foi feito\n\nTermino dizendo que me congratulo com a eleição do Sr. Presidente e com a de todos nós que aqui estamos nesta Câmara para trabalharmos para o povo português."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado Raul de Castro."
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Raúl de Castro (MDP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: Não são segredo para ninguém as grandes diferenças que nos separam do partido e da coligação de partidos a que V. Ex.ª pertence. Contudo, o MDP/CDE pensa que desde que esta Assembleia da República está investida nas suas funções lhe cumpre corresponder aos anseios do povo português, aos anseios que o povo português deposita na sua actuação.\n\nOrientaremos a nossa acção não por propósitos de agressividade, mas por uma análise objectiva de todas as propostas que aqui surgirem, tendo em conta, sobretudo, um vector fundamental que nos prende a nós, MDP/CDE, que foi a nossa própria participação durante a Assembleia Constituinte na elaboração da Constituição da República.\n\nComo é sabido, Deputados do MDP/CDE foram alguns dos Deputados que participaram na votação da actual Constituição da República: nessa medida. Sr. Presidente, dentro do estrito respeito pela Constituição da República e pelo"
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Os meus agradecimentos, Sr. Deputado. \n\nTem a palavra o Sr. Deputado Pedro Roseta."
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 34,
+      "speaker": {
+        "id": 344,
+        "name": "Pedro Manuel Cruz Roseta",
+        "party": "PPD",
+        "string": "O Sr. Pedro Roseta (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Depois de todos os partidos aqui"
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr. Natália Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 35,
+      "speaker": {
+        "id": 344,
+        "name": "Pedro Manuel Cruz Roseta",
+        "party": "PPD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "..., de uma aliança que neste momento é a coligação maioritária.\n\nO Sr. Presidente, como todos nós, defenderá certamente a democracia, que é nada mais nada menos do que o respeito dessa vontade expressa pelo povo português, e vai defendê-la, obviamente, num espaço de diálogo que é o Parlamento em democracia, e vai defendê-la entre nós e com a oposição.\n\nSaudações muito queridas, muito fraternas, um grande abraço de toda esta bancada que, agora um pouco menos, mas quase ousaria dizer, apesar de tudo, se ninguém se importasse, ao menos sentimentalmente, continua a ser a sua."
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, agradeço as suas palavras.\nSrs. Deputados, os trabalhos do Plenário prosseguirão na próxima quinta-feira, pelas 15 horas, com a ordem do dia a estabelecer em reunião com os representantes dos grupos parlamentares, a quem peço o favor de se reunirem comigo amanhã, pelas 15 horas.\n\nEstá encerrada a reunião."
+    }
+  ]
+}

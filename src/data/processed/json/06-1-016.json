@@ -1,0 +1,2742 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "6",
+    "legislative_session": "1",
+    "number": "16",
+    "date": "1991-12-19"
+  },
+  "debate_id": "r3_6_1_16_1991-12-19",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 348,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sn Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quorum, pelo que declaro aberta a sessão.\nEram 15 horas e 20 minutos.\nEstavam presentes os seguintes Srs. Deputados:\nPartido Social-Democrata (PPD/PSD):\nAbílio Sousa e Silva.\n\nAdérito Manuel Soares Campos.\n\nAlberto Cerqueira de Oliveira.\n\nAlberto, Monteiro de Araújo.\n\nÁlvaro José Martins Viegas.\n\nAna Paula Matos Barros.\n\nAntónio Joaquim Correia Vairinhos.\n\nAntónio José Barradas Leitão.\n\nAntónio do Carmo Malveiro.\n\nAntónio Maria Pereira.\n\nAntónio, da Silva Bacelar.\n\nAristides Alves Nascimento Teixeira.\n\nArlindo da Silva Moreira\n\nArmando de Carvalho Guerreiro da Cunha .\n\nArménio dos Santos.\n\nBelarmino Henriques Correia.\n\nCarlos Almeida Figueiredo.\n\nCarlos Lélis da Câmara Gonçalves.\n\nCarlos Manuel Gonçalves.\n\nCarlos Manuel Oliveira da Silva.\n\nDomingos José Soares A. Lima\n\nDomingos Duarte Lima.\n\nDuarte Rogério Matos V. Pacheco.\n\nEduardo Alfredo de C. Pereira da Silva\n\nFernando Carlos Branco M. Andrade.\n\nFernando Santos Pereira\n\nFilipe Manuel da Silva Abreu.\n\nFrancisco Antunes da Silva.\n\nCuido Orlando de Freitas Rodrigues.\n\nHilário Torres Azevedo Marques.\n\nIsilda Maria Pires Martins.\n\nJosé Alberto Granja dos S. Silva.\n\nJoão Álvaro Poças Santos.\n\nJoão de Oliveira Martins.\n\nJoão José Pedreira de Matos.\n\nJoão José da Silva Maçãs.\n\nJoão do Lago V. Mota.\n\nJoão Eduardo Dias Gouveia.\n\nJoão Salgado.\n\nJoaquim Cardoso Martins.\n\nJoaquim Eduardo Gomes.\n\nJoaquim Maria Fernandes Marques.\n\nJorge Paulo Seabra Roque da Cunha.\n\nJosé Alberto Puig dos Santos Costa.\n\nJosé de Almeida Cesário.\n\nJosé Augusto Santos da Silva Marques.\n\nJosé Júlio Carvalho Ribeiro.\n\nJosé Leite Machado.\n\nJosé Manuel da Silva Costa.\n\nJosé Mário Lemos Damião.\n\nJosé Reis Leite.\n\nLicínio Moreira da Silva\n\nLuís António Martins.\n\nLuís Carlos David Nobre.\n\nLuís Manuel Costa Geraldes.\n\nManuel Antero da Cunha Pinto.\n\nManuel Acácio Martins Roque.\n\nManuel Castro de Almeida.\n\nManuel Lima Amorim.\n\nManuel da Silva Azevedo.\n\nMaria da Conceição Figueira Rodrigues.\n\nMaria Fernanda Dias Cardoso.\n\nMaria Fernanda Correia da Mota Pinto.\n\nMaria de Lurdes Póvoa Costa.\n\nMaria Luísa Lourenço Ferreira.\n\nMaria Manuela Aguiar Dias Moreira.\n\nMário Jorge Belo Maciel.\n\nMário de Oliveira Santos.\n\nMelchior Ribeiro Pereira Moreira.\n\nMiguel Fernando Cassola Miranda Relvas.\n\nNuno Francisco F. Delerue Alvim de Matos.\n\nOlindo da Cruz Ravara.\n\nPedro Domingos de Sousa Holstein Campilho.\n\nPedro Manuel Cruz Roseta.\n\nPedro Manuel Mamede Passos Coelho.\n\nRui Alberto Limpo Salvada.\n\nRui Carlos Alvarez Carp.\n\nRui Fernando da Silva Rio.\n\nRui Manuel Parente Chancerelle de Macheie.\n\nVasco Francisco Aguiar Miguel.\n\nVirgílio de Oliveira Carneiro.\n\nVítor Pereira Crespo.\nPartido Socialista (PS):\nAlberto Bernardes Costa.\n\nAlberto Manuel Avelino.\n\nAlberto Marques de Oliveira e Silva.\n\nAlberto de Sousa Martins.\n\nAmérico Albino Salteiro.\n\nAna Maria Dias Bcttcncourt.\n\nAntónio de Almeida Santos.\n\nAntónio Alves Marques Júnior.\n\nAntónio Domingucs Azevedo.\n\nAntónio José Barroni Crisóstomo Teixeira.\n\nAntónio Manuel de Oliveira Guierres.\n\nAntónio Ribeiro Marques da Silva.\n\nArmando António Martins Vara.\n\nCarlos Luís\n\nEduardo Luís Barreio Ferro Rodrigues.\n\nEduardo Ribeiro Pereira.\n\nEurico José Palheiros de Figueiredo.\n\nFernando Alberto P. Sousa.\n\nFernando Alberto Pereira Marques.\n\nGuilherme Valdemar P. Oliveira Martins.\n\nGustavo Rodrigues Pimenta.\n\nHelena de Melo Torres Marques.\n\nJaime José Maios da Gama.\n\nJoão Eduardo Coelho Ferraz de Abreu.\n\nJosé Rui Gaspar de Almeida.\n\nJoaquim Américo Fialho Anastácio.\n\nJorge Lacão Costa.\n\nJosé Barbosa Mota.\n\nJosé Ernesto Figueira dos Reis.\n\nJosé Manuel Lello Ribeiro e Almeida.\n\nJosé Manuel Santos Magalhães.\n\nJosé Martins Goulart.\n\nJosé Rodrigues Pereira dos Penedos.\n\nJúlio Francisco Miranda Calha.\n\nJúlio da Piedade Nunes Henriques.\n\nLaurentino José Monteiro Castro Dias.\n\nLeonor Coutinho Pereira dos Santos.\n\nLuís Manuel Capoulas Santos."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 349,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, começo por dar conta a esta Assembleia de uma informação que me foi enviada hoje pelo Governo, sobre o Programa da Presidência Portuguesa do Conselho das Comunidades Europeias, acontecimento que se vai verificar pela primeira vez em Portugal, de 1 de Janeiro a 30 de Junho de 1992, bem como o Programa de Convergência Q2.\n\nEstes documentos integram um dossier que está a ser fotocopiado e que vai ser distribuído aos grupos parlamentares, ao PSN e aos deputados independentes.\n\nEste é um facto relevante que fiz questão de comunicar pessoalmente à Assembleia, visto que me foi presente directamente pelo Governo para esse efeito.\n\nEntretanto, o Sr. Secretário vai dar conta dos diplomas que deram entrada na Mesa."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 349,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (João Salgado)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, deram entrada na Mesa, e foram admitidos, os seguintes diplomas: proposta de lei n.º 6/VI - Transforma a Radiotelevisão Portuguesa, E. P., em sociedade anónima, que baixou às 3.ª e 7.ª Comissões; proposta de resolução n.º 1/VI - Aprova o acordo entre a República Portuguesa e a Universidade das Nações Unidas, relativo ao estatuto legal do Instituto Internacional de Tecnologia do Software da Universidade das Nações Unidas, que baixou às 4.ª e 8.ª Comissões, e projecto de lei n.º 30/VI PCP) - Retira do regime de portagem o lanço Lisboa-Vila Franca de Xira da Auto-Estrada do Norte, que baixou à 12.ª Comissão.\n\nDeram também entrada na Mesa as ratificações n.ºs 9/VI (PS) - Decreto-Lei n.º 445/91, de 20 de Novembro, que aprova o regime de licenciamento de obras particulares, que baixou à 6.ª Comissão; 10/VI (PS) - Decreto-Lei n.º 448/91, de 29 de Novembro, que aprova o regime jurídico dos loteamentos urbanos (revoga o Decreto-Lei n.º 400/84, de 31 de Dezembro), que baixou à 6.ª Comissão, e 11/VI (PS) - Decreto-Lei n.º 452/91, de 11 de Novembro, que cria a sociedade PARTEST - Participações do Estado (SGPS), S. A., que baixou à 7.ª Comissão, e ainda os projectos de deliberação n.ºs 9/VI (PS) - Elaboração de uma história do Parlamento Português desde 1820 até hoje e criação de uma comissão eventual com o objectivo de estudar as respectivas condições, e 10/VI (PS) - Posição da Assembleia da República relativamente ao Conselho Europeu de Maastricht, que baixou às 3.ª, 4.ª e 13.ª Comissões."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 349,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o Sr. Secretário vai ainda ler um relatório e parecer da Comissão de Regimento e Mandatos sobre substituição de deputados."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 349,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Lemos Damião)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, o relatório e parecer refere-se à substituição dos Srs. Deputados Manuel Rogério Sousa Brito, do PCP (círculo eleitoral de Setúbal), por José Manuel Tavares Reis Morais; Abílio Aleixo Curto, do PS (círculo eleitoral da Guarda), por Carlos Manuel Luís; Manuel de Almeida Cambra, do CDS (círculo eleitoral de Aveiro), por Casimiro da Silva Tavares; José Guilherme Pereira Coelho dos Reis, do PSD (circulo eleitoral de Santarém), por Mário de Oliveira Mendes dos Santos, a partir de 19 de Dezembro corrente, inclusive.\n\nO Partido Socialista solicitou a prorrogação do prazo da substituição do Sr. Deputado Carlos Manuel Natividade da Costa Candal (círculo eleitoral de Aveiro) por Rosa Maria da Silva da Horta Albernaz.\n\nAs substituições, de acordo com o parecer, são de admitir, uma vez que se encontram verificados os requisitos legais."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 349,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está em apreciação. Não havendo inscrições, vamos votar o parecer.\nSubmetido à votação, foi aprovado, com votos a favor do PSD, do PS, do PCP, do CDS, do PSN e do deputado independente Mário Tomé e o voto contra do deputado do PSD João Salgado.\nSrs. Deputados, vamos agora entrar na discussão da Conta Geral do Estado de 1989."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 349,
+      "speaker": {
+        "id": 1315,
+        "name": "Lino António Marques De Carvalho",
+        "party": "PCP",
+        "string": "O Sr. Lino de Carvalho (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 349,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 349,
+      "speaker": {
+        "id": 1315,
+        "name": "Lino António Marques De Carvalho",
+        "party": "PCP",
+        "string": "O Sr. Lino de Carvalho (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, dada a discussão que se vai seguir da Conta Geral do Estado de 1989, gostaria de saber se a Mesa tem alguma notícia da eventual presença do Governo neste debate, como, naturalmente, se justifica."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 349,
+      "speaker": {
+        "id": 1152,
+        "name": "Alberto De Sousa Martins",
+        "party": "PS",
+        "string": "O Sr. Alberto Martins (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra para interpelar a Mesa, Sr. Presidente."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 349,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 349,
+      "speaker": {
+        "id": 1152,
+        "name": "Alberto De Sousa Martins",
+        "party": "PS",
+        "string": "O Sr. Alberto Martins (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, gostaria de suscitar à Mesa um esclarecimento quanto à ausência do Governo no debate sobre a Conta Geral do Estado de 1989."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 350,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Seguramente que assim é, não está precludida a possibilidade da presença do Governo. Só que, neste momento, a Mesa não possui informações seguras para dar à Câmara, mas vai diligenciar no sentido de as obter e a seu tempo serão esclarecidos os Srs. Deputados..."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 350,
+      "speaker": {
+        "id": 1152,
+        "name": "Alberto De Sousa Martins",
+        "party": "PS",
+        "string": "O Sr. Alberto Martins (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, se me permite, desejo saber quem irá apresentar a Conta Geral do Estado de 1989 e, ao mesmo tempo, suscitar a V. Ex.ª a possibilidade de interromper a sessão até à chegada de um membro do Governo."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 350,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 350,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Sr. Rui Carp (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 350,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 350,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Sr. Rui Carp (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, quero acrescentar alguma coisa sobre esta matéria. É que não ficou definido se o Governo estaria presente no Plenário neste momento. Aliás, nem tem que estar, dadas as condições conjunturais da Conta Geral do Estado de 1989, porque o ministro das finanças na altura não faz parte do actual Governo ... e nem poderia ser o mesmo governo..."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 350,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se outros livcssem sido os resultados das eleições de 6 de Outubro,... felizmente que não foram....\nGostaria de dizer aos que estão agora a levantar a questao, que ficou perfeitamente esclarecida na conferencia dos representantes dos grupos parlamentares - e passou a ser essa a doutrina quando se aprovaram as contas relativas ao período de 76 a 88-, que esta matéria deve ser tratada, como foi, na Comissão de Economia, Finanças e Plano, mediante o parecer, se o houver, do Tribunal de Contas, que elabora o relatório cujo debate é feito em comissão; depois o Plenário aprecia as Contas Gerais do Estado com base nesse relatório.\nÉ evidente que esta matéria, tal como está na Constituição da República Portuguesa e na legislação ordinária referente quer com a conta quer ao Orçamento, é da competência da Assembleia da República, cujo debate político tem como base o relatório.\nA dúvida que é posta pelo Sr. Deputado Alberto Martins é sobre quem apresenta o tema. Em boa norma, julgamos que deverá ser ò relator da Comissão de Economia, Finanças e Plano a ler o relatório, salvo se o Plenário entender que tal é dispensável. . • .,\nProtesto do PS."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 350,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado Guilherme Oliveira Martins pediu a palavra para que efeito? \" •"
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 350,
+      "speaker": {
+        "id": 673,
+        "name": "Guilherme Valdemar Pereira De Oliveira Martins",
+        "party": "PS",
+        "string": "O Sr. Guilherme Oliveira Martins (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para uma interpelação à Mesa, Sr. Presidente."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 350,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 350,
+      "speaker": {
+        "id": 673,
+        "name": "Guilherme Valdemar Pereira De Oliveira Martins",
+        "party": "PS",
+        "string": "O Sr. Guilherme Oliveira Martins (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, a interpelação tem em conta o disposto constitucional. O Governo tem como função assegurar a condução dos negócios públicos e a direcção dos serviços e actividades da administração directa do Estado, civil e militar, a superintendência da administração indirecta e a tutela da administração autónoma.\nOra bem, quando se discute a Conta Geral do Estado, seja qual for o momento, naturalmente que o Governo é responsável pela condução dos negócios públicos e que terá de estar presente.\nÉ este o meu entendimento da lei fundamental."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 350,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, fui entretanto informado, dado que não assisti a toda a conferência dos representantes dos grupos parlamentares, que ficou esclarecido que o Governo não estaria presente pelas razões já aqui adiantadas."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 350,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS-PP",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra para uma interpelação à Mesa, Sr. Presidente."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 350,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 350,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS-PP",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Estive presente na conferência dos representantes dos grupos parlamentares, ausentei-me apenas por dois ou três minutos, mas pode ser que nesse tempo tenha sido tratado esse ponto. Porém, não creio, porque apanhei o princípio e o fim do debate desta questão.\n\nDe qualquer modo, é absolutamente inconcebível que, quando se discute no Parlamento as Contas Gerais do Estado e as despesas realizadas em nome do Estado pelo Governo, seja o próprio Governo a não vir prestar contas ao Parlamento daquilo que gastou e como o fez.\n\nIsto é a maior prova de que o Governo não trata o Parlamento com o respeito que lhe é devido e que a Constituição atribui. Portanto, não venha aqui o Sr. Ministro Adjunto e dos Assuntos Parlamentares dizer, todos os dias, «com o maior respeito que temos pelo Parlamento», «para a maior dignificação do Parlamento» e fazer aquelas declarações que costuma fazer em iodas as suas intervenções - é que, até pela maneira constante como o faz, mostra que tem má consciência - quando hoje a bancada do Governo vai estar vazia para discutir a Conta Geral do Estado de 1989.\n\nV. Ex.ª, como Presidente da Assembleia da República, também poderá reflectir sobre isso e gostaria que o fizesse. Faça favor de me desculpar este apelo, ao mesmo tempo que faço esta interpelação."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 350,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Muito obrigado, Sr. Deputado, pelo apelo que me faz para reflectir... E o que vou fazendo ao longo da vida.\n\nTem a palavra o Sr. Deputado Rui Carp."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 350,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Sr. Rui Carp (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, sob a forma de interpelação à Mesa, gostaria de perguntar se esteve algum membro do Governo no Plenário quando esta Câmara discutiu e votou as Contas Gerais do Estado relativas ao período entre 1976 e 1988."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 351,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Lino Carvalho (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Peço a palavra para interpelar a Mesa, Sr. Presidente."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 351,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 351,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Lino Carvalho (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, fizemos a primeira interpelação à Mesa sobre esta maioria e aguardávamos a resposta para podermos fazer também, sob a forma de interpelação, o nosso comentário.\n\nÉ para nós inaceitável, diria mesmo intolerável, a ausência do Governo num debate sobre um assunto que lhe diz directamente respeito. Não tem sentido invocar que o governo é outro, porque se trata de uma responsabilidade constitucional perante a execução orçamental de um determinado ano, «transplantada» nas Contas Gerais do Estado, que compete à Assembleia da República apreciar e aprovar. Alguém tem que ser responsável pelas contas! Temos aqui que apreciar quem é o responsável pela execução orçamental, que é o Governo.\n\nE se, porventura, nas contas do ano passado haveria de algum modo, eventualmente, a justificação de que elas diziam respeito a exercícios muito anteriores e era uma situação excepcional, a verdade é que estas Contas, além do mais, dizem respeito ao mesmo Governo, ao mesmo Primeiro-Ministro e ao mesmo partido, embora noutro período legislativo.\n\nNesse sentido, Sr. Presidente, não compreendemos, não aceitamos -c penso que a própria Câmara, para o seu prestígio, também não o deve aceitar - que o Governo, sistematicamente, se ausente de debates como estes, que, aliás, lhe dizem directamente respeito e onde ele é um dos principais parceiros."
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 351,
+      "speaker": {
+        "id": 1152,
+        "name": "Alberto De Sousa Martins",
+        "party": "PS",
+        "string": "O Sr. Alberto Martins (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 351,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 351,
+      "speaker": {
+        "id": 1152,
+        "name": "Alberto De Sousa Martins",
+        "party": "PS",
+        "string": "O Sr. Alberto Martins (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, desejava dizer a V. Ex.ª que a informação que lhe foi transmitida sobre a deliberação da conferência dos representantes dos grupos parlamentares não é rigorosa.\n\nNão houve qualquer deliberação, como, aliás, foi confirmado pelo Sr. Deputado Narana Coissoró e nenhum outro Sr. Deputado que tenha responsabilidade na conferência dos representantes dos grupos parlamentares pode contrariar, quanto à da ausência do Governo.\n\nDevo ainda acrescentar, e manifestando de novo o sentido da interpelação anterior, que não faz sentido haver uma discussão da Conta Geral do Estado quando o agente apreciado não está presente, até para fornecer elementos rectificativos, alteradores ou informadores que permitam o aprofundamento do debate.\n\nPor outro lado ainda, não faz sentido invocar uma situação anterior quando esta é uma nova Assembleia, tem novos poderes e vai, eventualmente, pela primeira vez na história deste Parlamento, discutir a Conta Geral do Estado com uma consistência como nunca fez até hoje."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 351,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para interpelar a Mesa, tem a palavra o Sr. Deputado João Oliveira Martins."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 351,
+      "speaker": {
+        "id": 1773,
+        "name": "João Maria Leitão De Oliveira Martins",
+        "party": "PSD",
+        "string": "O Sr. João Oliveira Martins (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, pergunto se é muito difícil, quando se nomear o deputado Oliveira Martins - como agora há dois -, chamar pelo deputado Guilherme Oliveira Martins, que está na bancada do PS, ou pelo João Oliveira Martins, que está nesta."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 351,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Assim será, Sr. Deputado. Penso que também para interpelar a Mesa, tem a palavra o Sr. Deputado Ferro Rodrigues."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 351,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ferro Rodrigues (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, depois da ausência do Sr. Ministro das Finanças na discussão do Orçamento rectificativo aqui há algumas semanas atrás, depois do silêncio do Sr. Ministro das Finanças no debate sobre os resultados da Cimeira de Maastricht e depois da sua ausência no de hoje sobre a Conta Geral do Estado de 1989, pergunto se vamos ter o mesmo cenário quanto ao Orçamento do Estado para 1992. É que a justificação dada pelo Sr. Deputado Rui Carp aplicar-se-ia integralmente à discussão do Orçamento do Estado para 1992!..."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 351,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a Mesa tem muitos poderes mas não tem poderes divinatórios, ou seja, não sabe o que é que vai acontecer no futuro e, consequentemente, não pode responder a essa pergunta.\n\nPara interpelar a Mesa, tem a palavra o Sr. Deputado Rui Carp."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 351,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Sr. Rui Carp (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, o Sr. Deputado Alberto Martins disse que não ficou claro que o Governo não estaria presente nesta discussão."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 351,
+      "speaker": {
+        "id": 643,
+        "name": "Domingos Duarte Lima",
+        "party": "PSD",
+        "string": "O Sr. Domingos Duarte Lima (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pela nossa parte, ficou claríssimo!"
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 351,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ora, ficou claríssimo, pela voz do Sr. Secretário de Estado dos Assuntos Parlamentares, que o Governo não estaria presente nesta discussão, tal como também não esteve na discussão das Contas Gerais do Estado de 1976 a 1988, e é normal que assim seja.\n\nHá bocado o Sr. Deputado Raul Rego perguntou quem é que apurava as Contas Gerais do Estado. Para ser bem rigoroso, os Srs. Drs. Salgado Zenha, Medina Carreira, Vítor Constando, Jacinto Nunes, Sousa Franco, Cavaco Silva, Morais Leitão, João Salgueiro e Ernâni Lopes, além do Dr. Miguel Cadilhe, teriam que ter estado aqui no Plenário, além dos Srs. Primeiros-Ministros desses governos todos, para discutir estas matérias, porque eles foram responsáveis pela execução dessas contas."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 351,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS-PP",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "São muito bons!"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 351,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, gostava de perguntar como é que o Regimento permite resolver esta situação. Aliás, isso mostra, com todo o respeito que merece a oposição, uma grande ignorância sobre o conteúdo da Conta Geral do Estado na lei que actualmente existe."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 351,
+      "speaker": {
+        "id": 1315,
+        "name": "Lino António Marques De Carvalho",
+        "party": "PCP",
+        "string": "O Sr. Lino de Carvalho (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muda o Governo, muda o Orçamento!"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 351,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado Lino de Carvalho está muito nervoso?! Pode estar calmo, porque no seu tempo não havia sequer Contas Gerais do Estado, ..."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 351,
+      "speaker": {
+        "id": 1315,
+        "name": "Lino António Marques De Carvalho",
+        "party": "PCP",
+        "string": "O Sr. Lino de Carvalho (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nunca fui ministro!"
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 352,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... ou quando estavam os seus amigos no Governo, designadamente o Sr. General Vasco Gonçalves."
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 352,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para interpelar a Mesa, tem á palavra o Sr. Deputado Manuel dos Santos."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 352,
+      "speaker": {
+        "id": 514,
+        "name": "Manuel Antonio Dos Santos",
+        "party": "PS",
+        "string": "O Sr. Manuel dos Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, a situação que o Sr. Deputado Rui Carp assinalou - e é um testemunho pessoal que pode ser confirmado por vários elementos da anterior Comissão de Economia, Finanças e Plano - não é, obviamente, aplicável à situação que estamos aqui a discutir.\n\nHouve um consenso em relação à apreciação das Contas de 1976 a 1988 no sentido de que se fizesse de uma forma simbólica. Aliás, a Assembleia da República enfatizou o facto de «arrumar» rápida e simbolicamente um conjunto de Contas Gerais do Estado que estava por apreciar, mas também foi claramente definido nessa altura que se tratava de uma atitude que de forma alguma podia constituir um precedente.\n\nFoi assinalado por vários oradores - presumo que também pelo orador de serviço do PSD - que se tratava apenas de um acto simbólico, ao qual a Câmara se associou por unanimidade, mas que a partir daí começava uma nova vida na apreciação das Contas Gerais do Estado.\n\nPortanto, é este o testemunho que dou a V. Ex.ª, uma vez que o Sr. Deputado Rui Carp lhe perguntou directamente se na anterior apreciação das Contas Gerais do Estado se tinha procedido de forma diferente daquela que agora está a propor-se para a discussão da Conta Geral do Estado de 1989.\n\nAproveitava também para dizer que parece acima de qualquer dúvida que o Estado e quem o representa em termos executivos, o Governo, deve assumir a defesa das suas contas - ou pelo menos «dar a cara» -, independentemente da evolução que os órgãos institucionais tenham.\n\nSe é verdade que o Governo que poderia e deveria estar ali não é o mesmo existente em 1989, também é verdade, Sr. Presidente, que a Assembleia da República que está aqui neste momento reunida também não é a mesma de 1989."
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 352,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 352,
+      "speaker": {
+        "id": 643,
+        "name": "Domingos Duarte Lima",
+        "party": "PSD",
+        "string": "O Sr. Duarte Lima (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nada disso!"
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 352,
+      "speaker": {
+        "id": 514,
+        "name": "Manuel Antonio Dos Santos",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, a lógica do Sr. Deputado Rui Carp levava-nos a concluir que nem sequer poderíamos apreciar as contas referentes aos anos anteriores porque estamos perante uma Assembleia completamente diferente! Portanto, o Governo deveria estar aqui.\n\nAliás, o Sr. Presidente, respondendo ao Sr. Deputado Alberto Martins, penso eu, referiu mais ou menos o seguinte: «acabo de ser informado que, pelas razões expostas pelo Sr. Deputado Rui Carp, o Governo não estará presente». Ora, as razões expostas pelo Sr. Deputado Rui Carp tinham a ver com esta problemática: não ser este o Governo que em 1989 dirigia os destinos do País. Portanto, pergunto-lhe se posso concluir - e comigo toda a Câmara - que este Governo não se solidariza com a política económica e financeira assumida por outro governo, por acaso presidido pelo mesmo Primeiro-Ministro em 1989?"
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 352,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 352,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Narana Coissoró, pediu a palavra para que efeito?"
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 352,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS-PP",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, para exercer o direito regimental de defesa da consideração e da honra."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 352,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 352,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS-PP",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, o Sr. Deputado Rui Carp usa e abusa de um tom como se fosse a Pitonisa!...\n\nO Sr. Deputado Rui Carp já nos habituou a que não se comporta como deputado mas, sim, como delegado do Governo junto da Assembleia da República."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 352,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS e do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 352,
+      "speaker": {
+        "id": 514,
+        "name": "Manuel Antonio Dos Santos",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Assim, todas as vezes que fazemos alguma crítica ao Governo, é porque a oposição é ignorante!\n\nMas mais: chega a dizer as maiores calamidades que um deputado pode dizer, ou seja, que a oposição e esta Assembleia não chamou o Sr. Vasco Gonçalves, o Sr. Morais Leitão, o Sr. Ernâni Lopes ou o Sr. Miguel Beleza!\n\nSr. «delegado do Governo junto da Assembleia da República», chamámos ó Governo e não as pessoas e V. Ex.ª tenha cuidado em chamar ignorante à oposição porque a sua sabedoria pode ser muita - já no-la demonstrou quando era secretário de Estado e continua a fazê-lo enquanto «delegado do Governo junto da Assembleia da República» - mas não lhe admitimos que diga barbaridades ao afirmar que a oposição é ignorante.\n\nA ignorância fica para V. Ex.ª porque chamámos o Governo e não os anteriores ministros Beleza ou Cadilhe."
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 352,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para dar explicações, se assim o entender, tem a palavra o Sr. Deputado Rui Carp."
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 352,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Sr. Rui Carp (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, efectivamente, os meus hábitos de democracia não se coadunam com o tipo de elevação que o Sr. Deputado Narana Coissoró agora demonstrou, dada a forma como me chamou, ou seja, delegado do Governo."
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 352,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS-PP",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas o Sr. Deputado chamou ignorante à oposição!"
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 352,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não chamei ignorante à oposição, Sr. Deputado Narana Coissoró. O que disse foi que esta matéria é perfeitamente inovadora e ninguém deve ter o intuito nem a jactância de dizer que sabe tudo sobre ela. Aliás, a discussão da Conta Geral do Estado é perfeitamente inovadora porque só o governo social-democrata do Prof. Cavaco Silva (chame o que quiser a este elogio) é que conseguiu pôr as contas em ordem e apresentá-las à Assembleia da República a tempo e horas, para que este órgão pudesse fazer a discussão necessária. É por esta razão que estamos aqui a aprender e a fazer doutrina nesta matéria.\n\nQuanto ao facto de me ter chamado delegado do Governo, tenho a dizer-lhe que se trata de solidariedade institucional. Mas talvez o problema não seja tão claro para o CDS, designadamente em sede de eleições presidenciais... Nós somos solidários com o Governo e tenho muita honra de o ser."
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 353,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 353,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, se o Sr. Deputado Narana Coissoró confunde solidariedade com o Governo com o ser delegado do Governo, é uma questão que fica para o seu partido e para si próprio. V. Ex.ª depois tirará as conclusões. Continuarei a defender e a sustentar aqui as teses do Governo, nomeadamente as que tenho a certeza que não colidam com os meus princípios fundamentais, quer políticos, quer cívicos.\n\nEm conclusão, não faz sentido transformar a tomada de Contas Gerais do Estado - de acordo com a expressão usada na Constituição - num debate semelhante ao do Orçamento do Estado, porque todos têm a sua sede própria. O que se passa aqui é que a Assembleia vai debruçar-se sobre um documento que tem a ver com um determinado período bem definido, toma a sua posição conjuntamente em relação a esse documento e não há discussão. É evidente que esta é a minha opinião, que os senhores não conseguiram rebater.\n\nDe facto, não há discussão, porque, até por absurdo - se fosse aplicada a lese do Sr. Deputado Alberto Martins -, poderíamos estar aqui a discutir uma situação em que o governo responsável seria, por exemplo, do PCP ou do PS e poderia estar aqui um governo do CDS a defender a Conta Geral do Estado! Ora, isto era absurdo, era a degradação e o completo desprestígio das funções nobres desta Assembleia.\n\nEstamos aqui, neste momento, com base no relatório da Comissão de Economia, Finanças e Plano - essa sim, com a faculdade de consultar e convidar quem entender, dentro dos limites regimentais, para ser ouvido sobre a maioria -, a debater politicamente a Conta Geral do Estado, razão pela qual cada partido tomará a posição que livremente entender, votando-se depois essa Conta com base no relatório.\n\nNa verdade, não faz sentido a exigência da presença do Governo. De facto, o Governo poderia, se o quisesse e se entendêssemos que isso seria útil, estar presente, mas, na verdade, não considerámos útil essa presença - aliás, o Governo também concordou com a nossa posição e a conferência de líderes sabia-o.\n\nPortanto, não há aqui qualquer recusa ao diálogo por parte do Governo! Isso é espalhar uma insídia contra o Governo! E mais: se a oposição pretendia levantar o problema, deveria tê-lo feito aquando da discussão das outras contas, porque a Conta Geral do Estado para 1989 - e aqui faço um aditamento ao que disse o Sr. Deputado Manuel dos Santos - não foi votada na altura em que foram todas as outras porque a Assembleia da República ainda não tinha o parecer do Tribunal de Contas e entendeu esperar por ele. Isto não é para criticar o Tribunal de Contas, porque o seu parecer foi apresentado dentro dos prazos legais, mas, sim, pura frisar que foi por esse facto que a Conta Geral do Estado de 1989 não foi votada aquando das restantes. De facto, esta conta insere-se na família das Contas Gerais do Estado que a Assembleia tomou em Junho do corrente ano."
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 353,
+      "speaker": {
+        "id": 643,
+        "name": "Domingos Duarte Lima",
+        "party": "PSD",
+        "string": "O Sr. Duarte Lima (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 353,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Temos tudo dito e a partir de agora nada mais temos a dizer! Espero que fiquemos esclarecidos: não estamos a dar lições a ninguém mas, sim, a trabalhar solidariamente para dignificar esta Assembleia e dar mais eficácia aos seus trabalhos."
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 353,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. João Corregedor da Fonseca (Indep.)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 353,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 353,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. João Corregedor da Fonseca (Indep.)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 353,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 353,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. João Corregedor da Fonseca (Indep.)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, gostaria de fazer uma pergunta muito rápida e endossada directamente a V. Ex.ª\n\nÉ evidente que houve uma pequena gaffe por parte do Sr. Deputado Rui Carp quando utilizou a expressão «para encerrar o debate». Na verdade, ele não pode encerrar coisa alguma!... Como é evidente, não é o Sr. Deputado que encerra os debates mas, sim, o Sr. Presidente da Assembleia da República.\nSr. Presidente, temos aqui um documento do Estado, isto é, temos aqui a Conta Geral do Estado de um governo presidido exactamente pelo mesmo Primeiro-Ministro do actual Governo, que, está provado, não se faz representar hoje na Assembleia.\n\nAssim, pergunto ao Sr. Presidente da Assembleia da República o seguinte: vai ou não o Sr. Presidente suspender a sessão até o Governo se fazer representar? E se o Governo não comparecer, vai ou não o Sr. Presidente suspender esta sessão e marcar outra até que o Governo venha prestar contas à Assembleia da República?\n\nRepito: o Primeiro-Ministro em 1989 era exactamente o mesmo Primeiro-Ministro do deste ano. Portanto, quero saber, independentemente do que o Sr. Deputado Rui Alvarez Carp e outros estão a dizer, se o Sr. Presidente vai ou não suspender a sessão perante o problema que se levantou."
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 353,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. José Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Eu quero cá todos! O General Vasco Gonçalves, o Dr. Vítor Constando... Todos! Depois vem o Prof. Cavaco Silva!"
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 353,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, é claro que o Presidente vai responder que não suspende a sessão, visto que tem a noção daquilo que é uma apreciação da Conta Geral do Estado, ou seja do que for, e daquilo que é um julgamento. E não se trata de julgar aqui alguém à revelia - aliás, até nos tribunais há julgamentos à revelia e, na verdade, se o Governo faltasse poderia ser julgado à revelia...\n\nDe qualquer modo, Sr. Deputado, o Presidente não vai suspender a sessão."
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 353,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Octávio Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 353,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 353,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Octávio Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 353,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 353,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Octávio Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, depois daquilo que o meu camarada Lino de Carvalho referiu, gostaria de fazer, sob a figura regimental de interpelação à Mesa, dois ou três comentários relativos a esta questão.\n\nEm primeiro lugar, consideramos que na governação do País não há soluções de continuidade: mudam-se os governos, mas a governação do País é permanente e contínua."
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 354,
+      "speaker": {
+        "id": 1658,
+        "name": "Luís Manuel Da Silva Viana De Sá",
+        "party": "PCP",
+        "string": "O Sr. Luís Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 354,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em relação à conferência de ontem - e isso já aqui foi explicitado mas eu gostaria de dar aqui o meu testemunho -, a única coisa que foi dita a esse respeito pelo Sr. Secretário de Estado dos Assuntos Parlamentares foi que provavelmente não estaria presente ninguém por parte do Governo, ou seja, ele admitiu essa hipótese. Bom, o Sr. Secretario de Estado admitiu isto como poderia ter admitido outra coisa qualquer, não tem nada a ver com a conferência e não houve qualquer acordo ou consenso.\n\nA terceira questão que gostaria de colocar ó a seguinte: não pode fazer-se a ligação entre a discussão da Conta Geral do Estado agendada para hoje e a que foi feita no passado, na medida em que as situações são completamente díspares, completamente diferentes. Hoje, é a primeira vez que se fax a discussão de uma Conta Geral do Estado dentro de todos os prazos normais, nomeadamente o da sua apresentação, da apreciação e parecer pelo Tribunal de Contas e da discussão e apreciação por parte da Assembleia da República; no ano passado houve, para além do mais, um consenso no sentido de que, dado a situação extraordinária de existirem para análise 12 ou 13 contas, a discussão fosse feita como foi.\n\nPara terminar, Sr. Presidente, é evidente que, do nosso ponto de vista, a argumentação do Sr. Deputado Rui Carp não tem qualquer lógica nem base de sustentação. Nós, nunca por nunca, poderíamos exigir que o Sr. Deputado Rui Carp «despisse» agora as suas vestes de deputado e fosse para aquela bancada assumir as vestes de secretário de Estado do Orçamento..."
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 354,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS-PP",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso! Isso! Ele gostava!"
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 354,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... ou que o Sr. Deputado João Oliveira Martins «despisse» também as vestes de deputado e fosse assumir as vestes de Ministro das Obras Públicas..."
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 354,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS-PP",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ele gostava, só que não o deixam!"
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 354,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É evidente que a questão não é esta: ela tem a ver com a presença do Governo, que, do nosso ponto de vista, deveria estar presente, porque isso é politicamente exigível.\n\nPara além do mais, o Sr. Deputado Rui Carp disse que esta Conta se inscrevia na mesma «família» das apreciadas em Junho passado, mas a verdade é que se há aqui «família» ela é a do Governo, porque quem executou o Orçamento do Estado de 1989 é de família muito próxima e muito intima do actual Governo, que tem o mesmo Primeiro-Ministro e o mesmo grupo parlamentar a apoiá-lo."
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 354,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, fui informado pelo, Governo de que este protestou contra a inclusão da grelha de tempos que contém a sua participação, na altura isso foi discutido em conferência dos representantes dos grupos parlamentares."
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 354,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS-PP",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Então, por que é que essa grelha ficou agendada?"
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 354,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Octávio Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso não consta da súmula!"
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 354,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, se constasse da súmula eu não faria a injúria à Câmara; tê-la-ia lido e não se teria levantado a questão.\n\nEntretanto, quero lembrar os Srs. Deputados que a partir das 16 horas terão lugar as eleições para o Conselho de Estado, o Conselho Superior de Defesa Nacional, a Comissão Nacional de Eleições e o Conselho Geral do Instituto de Defesa do Consumidor, sendo escrutinadores os Srs. Deputados Belarmino Correia, do PSD, José Reis, do PS, Maria da Conceição Castro Pereira e Eduardo Pereira da Silva, do PSD."
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 354,
+      "speaker": {
+        "id": 189,
+        "name": "Jaime José Matos Da Gama",
+        "party": "PS",
+        "string": "O Sr. Jaime Gama (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 354,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 354,
+      "speaker": {
+        "id": 189,
+        "name": "Jaime José Matos Da Gama",
+        "party": "PS",
+        "string": "O Sr. Jaime Gama (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Como o meu grupo parlamentar teve oportunidade de explanar, consideramos que a presença do Governo neste, debate é importante senão mesmo indispensável e, embora eu não tenha a memória fotográfica de tudo o que se passou na conferência dos representantes dos grupos parlamentares, o facto é que me parece que a grelha aprovada para este debate e transmitida no próprio boletim informativo hoje distribuído aos deputados da Assembleia da República, é a que inclui a presença do Governo.\n\nNão nos parece, curial que no debate da Conta Geral do Estado de 1989 o Governo não esteja presente, porque regimentalmente é ele próprio quem a remete à Câmara, assim como o parecer do Tribunal de Contas e os relatórios de execução do Plano.\n\nAssim, como já referi, não nos parece curial a ausência do Governo, não só porque ele é, na continuidade das funções do Estado, o representante da Administração Pública ao mais alto nível, podendo fornecer os elementos necessários para o julgamento pela Câmara, como, sobretudo, porque o Governo pode ser confrontado neste debate com matéria em relação à qual, no direito de defesa, ele próprio deva usar da palavra.\n\nO PS neste momento chama a atenção de V. Ex.ª para a importância deste facto e, nos termos do artigo 70.º do Regimento, pede vinte minutos de interrupção dos trabalhos."
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 354,
+      "speaker": {
+        "id": 643,
+        "name": "Domingos Duarte Lima",
+        "party": "PSD",
+        "string": "O Sr. Duarte Lima (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 354,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 354,
+      "speaker": {
+        "id": 643,
+        "name": "Domingos Duarte Lima",
+        "party": "PSD",
+        "string": "O Sr. Duarte Lima (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, gostaria de dizer que na conferência ..."
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 355,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "E o pedido de interrupção?!..."
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 355,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bom, Sr. Presidente, se o Sr. Deputado Jaime Gama entender que eu não devo usar da palavra neste momento, uma vez que do ponto de vista regimental o pedido de interrupção preclude a minha intervenção ...\n\nBom, de qualquer forma, penso que pode ser útil aquilo que vou dizer."
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 355,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, queira concluir."
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 355,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, em nossa opinião, quando o Sr. Secretario de Estado dos Assuntos Parlamentares, na conferencia dos representantes dos grupos parlamentares, disse que o Governo não estaria presente, essa questão, para nós, ficou decidida, porque não ouvimos qualquer objecção por pane dos outros grupos parlamentares.\n\nAssim, quero dizer que o Sr. Deputado Jaime Gama tem razão no que diz quanto ao que se prevê no boletim informativo, mas o meu grupo parlamentar, quando teve conhecimento do conteúdo do boletim, na terça-feira, chamou a atenção do Gabinete do Sr. Presidente da Assembleia da República, uma vez que, na nossa opinião, a realidade não correspondia àquilo que lá estava expresso.\n\nMas vamos à questão de substância, que é a da presença ou não do Governo. É óbvio que é correcto aquilo que o Sr. Deputado Octávio Teixeira disse, isto é, que em questões governativas há sempre uma solução de continuidade. Aliás, é legítimo que qualquer partido da oposição queira, relativamente a esta ou a qualquer outra matéria, ter a presença do Governo, mas, de facto, quer constitucional quer regimentalmente, a presença do Governo não é obrigatória nesta matéria.\n\nNa verdade, a similitude que VV. Ex.ªs estão a procurar estabelecer entre esta discussão e a do Orçamento do Estado não tem qualquer sentido, porque quando o Governo aqui apresenta o Orçamento do Estado está a apresentar um documento em aberto que irá ser colocado à discussão, à consideração da Câmara e, portanto, sujeito a alterações na especialidade até ao momento da votação Final global.\n\nMas a Conta Geral do Estado é completamente diferente, pois trata-se de um documento que, do ponto de vista do Governo, está fechado. E aquilo que a Assembleia vai emitir sobre a Conta Geral do Estado é um juízo de aprovação ou de reprovação, de consentimento ou de censura.\n\nAssim, qualquer partido, seja o da maioria, seja da oposição, tem inteira liberdade de se pronunciar. Não há sentido útil da presença do Governo aqui, mesmo para o efeito da fiscalização política, porque essa fiscalização por parte de qualquer partido, nesta Câmara, pode ser feita sem a presença do Governo.\n\nPor outro lado, como já disse, é legítimo qualquer partido solicitar a presença do Governo, mas não há qualquer disposição, constitucional ou regimental, que obrigue a que o Governo esteja presente nesta discussão."
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 355,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, mantém-se, portanto, o requerimento apresentado pelo líder do Grupo Parlamentar do Partido Socialista, que solicita a interrupção da sessão por vinte minutos e a Mesa delibera deferi-lo.\n\nEstá interrompida a sessão.\nEram 16 horas e 5 minutos.\nApós a interrupção, assumiu a presidência a Sr.ª Vice-Presidente Leonor Beleza."
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 355,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está reaberta a sessão.\nEram 16 horas e 45 minutos.\nSrs. Deputados, o Sr. Secretário vai proceder à leitura do relatório da Comissão de Economia, Finanças e Plano sobre a Conta Geral do Estado de 1989."
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 355,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 355,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 355,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, apenas para que não constitua precedente, desejava chamar a atenção para o facto de, aquando da última revisão do Regimento, aliás, aprovada por unanimidade, ter desaparecido a figura do direito potestativo dos grupos parlamentares à interrupção da reunião - artigo 70.9, n.º 2.\n\nApós a última revisão do Regimento, este direito potestativo dos grupos parlamentares desapareceu, mantendo-se o direito do pedido de interrupção, mas ela só terá lugar se deliberada. Portanto, não se trata de um mero deferimento da Mesa, uma vez que tem de ser deliberada pelo Plenário.\n\nPortanto, chamava a atenção para alteração do Regimento, pois os grupos parlamentares ainda não a tom bem presente na memória. Eu próprio não a tinha.\n\nAssim, só para que a interrupção que ocorreu não constitua precedente, que fique avivada a última revisão regimental."
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 355,
+      "speaker": {
+        "id": 1152,
+        "name": "Alberto De Sousa Martins",
+        "party": "PS",
+        "string": "O Sr. Alberto Martins (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, peço a palavra para uma interpelação à Mesa."
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 355,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 355,
+      "speaker": {
+        "id": 1152,
+        "name": "Alberto De Sousa Martins",
+        "party": "PS",
+        "string": "O Sr. Alberto Martins (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, registamos a crítica do Sr. Deputado Silva Marques ao Sr. Presidente da Assembleia da República e devo esclarecer que o Grupo Parlamentar do Partido Socialista requereu a interrupção da sessão nos termos regimentais em vigor."
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 355,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o Sr. Secretário vai proceder à leitura do relatório já anunciado."
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 355,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (João Salgado)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Presidente, Srs. Deputados: O relatório da Comissão de Economia, Finanças e Plano sobre a Conta Geral do Estado de 1989 é do seguinte teor\n1 - Procedeu a Comissão de Economia, Finanças e Plano à análise da Conta Geral do Estado para 1989, incluindo a Conta da Segurança Social, e do respectivo parecer emitido, nos termos constitucionais, pelo Tribunal de Contas. Para o efeito, constituiu uma subcomissão eventual formada pelos deputados Guilherme de Oliveira Martins, Rui Carp, Lino de Carvalho e José Luís Nogueira de Brito e coordenada pelo primeiro. A Comissão apreciou o projecto de parecer elaborado pela referida subcomissão eventual na sua reunião de 18 de Dezembro.\n\nO projecto de parecer foi profundamente alterado pela Comissão, nomeadamente pela introdução de um"
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 357,
+      "speaker": {
+        "id": 189,
+        "name": "Jaime José Matos Da Gama",
+        "party": "PS",
+        "string": "O Sr. Jaime Gama (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 357,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 357,
+      "speaker": {
+        "id": 189,
+        "name": "Jaime José Matos Da Gama",
+        "party": "PS",
+        "string": "O Sr. Jaime Gama (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, gostaria de saber se, após a interrupção da sessão, a Mesa teve alguma informação sobre a forma como o Governo se fará representar neste importante debate acerca da Conta Geral do Estado de 1989."
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 357,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Jaime Gama, devo informá-lo de que não há qualquer alteração sobre a presença do Governo neste debate, a não ser a informação dada pelo Sr. Secretário de Estado em que disse ter reclamado a grelha de tempos, uma vez que a presença do Governo não foi prevista aquando da realização da conferência de líderes dos grupos parlamentares."
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 357,
+      "speaker": {
+        "id": 189,
+        "name": "Jaime José Matos Da Gama",
+        "party": "PS",
+        "string": "O Sr. Jaime Gama (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 357,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 357,
+      "speaker": {
+        "id": 189,
+        "name": "Jaime José Matos Da Gama",
+        "party": "PS",
+        "string": "O Sr. Jaime Gama (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Se essa é, conforme V. Ex.ª diz, a deliberação do Governo, ou seja, a de não participar no debate sobre a Conta Geral do Estado de 1989, cuja apresentação regimental lhe compete, o meu partido, muito contrariado, tirará a ilação política consequente e far-se-á representar neste debate, da forma adequada.\n\nNeste momento todos os deputados do Partido Socialista presentes abandonam a sala, à excepção do deputado Vera Jardim."
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 357,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Octávio Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 357,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 357,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Octávio Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, perante esta situação, requeremos à Mesa que, nos termos regimentais, seja interrompida a sessão e que o Sr. Presidente convoque, de imediato, a conferência dos representantes dos grupos parlamentares para se tratar a questão que foi levantada."
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 357,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Guilherme Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 357,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 357,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Guilherme Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, pensamos que a interrupção solicitada deve ser atendida, reunindo a conferência de líderes para se analisar a questão que está a ser levantada.\n\nMas gostaria ainda de dizer que o Partido Socialista vem manifestando a preocupação de colmatar a sua incapacidade de estar com o não estar dos outros e acabou de fazê-lo agora relativamente a este incidente da ausência do Governo."
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 358,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 358,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados; ao abrigo do artigo 70.8 do Regimento, foi requerida a interrupção da reunião plenária a fim de que a conferência dos representantes, dos grupos parlamentares se reúna.\n\nEntendo que a expressão «deliberada», que consta do texto, implica apenas que haja uma deliberação do órgão colegial que é, por exemplo, a Mesa, salvo o devido respeito, com direito de recurso de qualquer deputado para a Assembleia.\n\nNa linha desta interpretação, vamos interromper a sessão e reunir, de imediato, no meu Gabinete, a conferência dos representantes dos grupos parlamentares.\n\nEstá, pois, interrompida a sessão.\nEram 17 horas e 5 minutos.\nSrs. Deputados, está reaberta a sessão.\nEram 18 horas.\nComo os Srs. Deputados sabem, foi convocada uma conferência dos representantes dos grupos parlamentares para se debruçar sobre o problema suscitado na primeira parte da sessão de hoje.\n\nComo não houve unanimidade de pontos de vista, nos lermos do artigo 57.º e seguintes do Regimento, mantém-se inalterada a ordem de trabalhos, pelo que vamos iniciar o debate sobre a Conta Geral do Estado de 1989."
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 358,
+      "speaker": {
+        "id": 643,
+        "name": "Domingos Duarte Lima",
+        "party": "PSD",
+        "string": "O Sr. Duarte Lima (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para fazer uma interpelação à Mesa."
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 358,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 358,
+      "speaker": {
+        "id": 643,
+        "name": "Domingos Duarte Lima",
+        "party": "PSD",
+        "string": "O Sr. Duarte Lima (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, na sequência da conferência dos representantes dos grupos parlamentares a que V. Ex.ª acabou de presidir, não posso, em nome do meu grupo parlamentar, deixar de registar perante esta Câmara a atitude política, que qualifico de profunda indignidade do Partido Socialista, tomada relativamente a esta matéria."
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 358,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 358,
+      "speaker": {
+        "id": 643,
+        "name": "Domingos Duarte Lima",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os direitos e os deveres que articulam a relação entre os dois órgãos de soberania - o Governo e a Assembleia da República - estão consignados na Constituição e no Regimento é nem num nem noutro destes documentos existe qualquer disposição quê obrigue o Governo a, neste caso concreto, comparecer perante a Câmara. É uma faculdade que o Governo tem, como é uma faculdade que o Governo tem de estar presente no período de antes da ordem do dia, mas não é uma obrigação.\n\nO Governo é obrigado a estar presente na discussão do seu Programa, na discussão das moções de censura ou de confiança, na discussão do Orçamento do Estado, na discussão das suas iniciativas legislativas, na discussão das interpelações ao Governo, mas já não é obrigado, nem a letra nem o espírito da Constituição e do Regimento obrigam a isso, a estar hoje aqui presente."
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 358,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 358,
+      "speaker": {
+        "id": 643,
+        "name": "Domingos Duarte Lima",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E percebe-se porquê! Porque houve um hábito - que é um mau Hábito! -, ao longo dos últimos 14 ou 15 anos, de não se aprovarem as Contas Gerais do Estado.\n\nPorém, os governos do PSD e do Prof. Cavaco Silva regularizaram uma lacuna importante no funcionamento das instituições."
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 358,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 358,
+      "speaker": {
+        "id": 643,
+        "name": "Domingos Duarte Lima",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É importante também que, no futuro, se possa pensar num reenquadramento para a discussão da Conta Geral do Estado, mas hoje isso não tem que acontecer, até porque não havia sentido útil para a presença do Governo.\n\nO que nos é hoje presente é um documento acabado, que tem um parecer do Tribunal de Contas. A fiscalização da Assembleia, que é uma fiscalização política, pode exercer-se sem limite e, portanto, sem a presença do Governo. Aliás, é estranho que nenhum deputado ou grupo parlamentar, aquando da elaboração do relatório, tenha solicitado a presença do Governo.\n\nTemos que dar outra interpretação a este hiato: o Partido Socialista, que está dividido por uma guerra autenticamente jugoslava, que vive uma situação jugoslava de guerra civil, precisa de criar um álibi, um argumento falso, como é este, para desviar a atenção da opinião pública da situação interna que vive!\n\nÉ triste, Sr. Presidente, que o maior partido da oposição - e não digo que é o líder da oposição,..."
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 358,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 359,
+      "speaker": {
+        "id": 643,
+        "name": "Domingos Duarte Lima",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... porque não é líder quem quer e não basta ser o maior para ser líder da oposição! -,...\n... ou seja, o PS, lenha dado ao País este grave exemplo de irresponsabilidade política, mostrando a forma como o conduziria se fosse governo e se tivesse ganho as eleições!"
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 359,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 359,
+      "speaker": {
+        "id": 643,
+        "name": "Domingos Duarte Lima",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Felizmente para Portugal, felizmente para o prestígio da Assembleia da República, o PS foi colocado no seu lugar pelos eleitores!"
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 359,
+      "speaker": {
+        "id": 1315,
+        "name": "Lino António Marques De Carvalho",
+        "party": "PCP",
+        "string": "O Sr. Lino de Carvalho (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 359,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 359,
+      "speaker": {
+        "id": 1315,
+        "name": "Lino António Marques De Carvalho",
+        "party": "PCP",
+        "string": "O Sr. Lino de Carvalho (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, tal como já afirmámos em Plenário - e reiterámos na conferencia dos representantes dos grupos parlamentares-, é nossa opinião que, nas condições que foram geradas pela ausência do Governo, o debate não deveria realizar-se e deveria ser adiado, para permitir ao Governo e à maioria reflectirem sobre este incidente e poderem calendarizar a presença do Governo num debate desta importância.\n\nO Governo responde politicamente perante a Assembleia pelas contas que apresentou, que é onde está plasmada a execução do Orçamento do Estado de 1989. Ora, o parecer do Tribunal de Contas que nos foi dirigido refere um conjunto de mais de três dezenas de irregularidades e ilegalidades, que, naturalmente, não iriam deixar de estar presentes no debate que se iria realizar. Por isso, o Governo deveria estar presente, até porque o Primeiro-Ministro e o partido representado na Assembleia da República são os mesmos, para poder responder, contestar e defender-se perante as questões que serão trazidas à colação, derivadas do parecer do Tribunal de Contas e das acusações que nele suo feitas, relativas a graves irregularidades e ilegalidades que, ao longo do exercício de 1989, se detectaram na execução do Orçamento.\n\nTalvez por isso mesmo, talvez porque o actual Governo e o Ministro das Finanças se querem dessolidarizar dessa gestão orçamental de então, o Governo tenha decidido não estar presente. Pensamos que o Governo fez mal em ausentar-se de um debate político desta natureza e, mais do que nunca, a Câmara tem de assumir tão importante debate - tão ou mais importante do que o debate do Orçamento do Estado.\n\nEnquanto no Orçamento do Estado debatemos intenções e políticas que o Governo se propõe efectuar, na Conta Geral do Estado debatemos a efectiva realização dessa política e a comparação entre as promessas e perspectivas e a política económica que foi realizada.\n\nÉ, portanto, evidente que este debate não pode deixar de envolver o Governo, pelas responsabilidades políticas que tem perante o Orçamento e a sua execução e, como consequência, perante a conta final, que é o resultado da política económica e da execução orçamental que desenvolveu. Como não o fez, penso, desvaloriza um debate político importante.\n\nNesse sentido e, como disse, face à ausência de um dos partidos e aos incidentes gerados, pensamos que seria mais sensato o adiamento desta reunião plenária. Não o tendo sido e nas condições geradas, que estão à vista, o meu grupo parlamentar entendeu também retirar-se deste debate, ficando apenas eu a representá-lo, mas sem intervir."
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 359,
+      "speaker": {
+        "id": 643,
+        "name": "Domingos Duarte Lima",
+        "party": "PSD",
+        "string": "O Sr. Duarte Lima (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Faz muito bem!"
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 359,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "PCP",
+        "string": "O Sr. Mário Tomé (Indep.)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 359,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 359,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "PCP",
+        "string": "O Sr. Mário Tomé (Indep.)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, naturalmente, consideramos que o Governo tem todo o direito de não estar presente, embora, em nossa opinião, teria o dever de aqui estar.\n\nDe facto, o relatório do Tribunal de Contas aponta para uma grande falta de rigor de execução orçamental, digamos mesmo que o «rigor» de que fala o Governo é a falta de rigor, pelo que não é de estranhar que o Governo não se tenha querido apresentar aqui ao rigor da fiscalização desta Assembleia.\n\nDesta forma, consideramos também que, perante a sucessão de factos que se deram no Plenário, não há condições para um debate valorizado, para um debate onde as posições sejam devidamente clarificadas, pelo que, também nós, não vamos intervir."
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 359,
+      "speaker": {
+        "id": 1719,
+        "name": "André Valente Martins",
+        "party": "PEV",
+        "string": "O Sr. André Martins (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 359,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 359,
+      "speaker": {
+        "id": 1719,
+        "name": "André Valente Martins",
+        "party": "PEV",
+        "string": "O Sr. André Martins (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, o Grupo Parlamentar de Os Verdes entende que, num debate desta natureza, onde está em causa, de facto, a Conta Geral do Estado, o Governo deveria estar representado e intervir, se assim o entendesse. Mas deveria participar neste debate, no sentido de todos podermos assumir as responsabilidades, que a cada um compete, na discussão desta matéria tão importante. Tratando-se de uma situação em que o actual Primeiro-Ministro é o mesmo da anterior legislatura, pensamos mesmo ser esta uma razão acrescida para que o Governo estivesse presente.\n\nSr. Presidente, face às situações criadas no Plenário e depois da conferência dos representantes dos grupos parlamentares, entendemos que não devemos participar neste debate, porque, em nossa opinião, poderia ter sido encontrada uma outra solução para resolver a situação aqui criada."
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 359,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. João Corregedor da Fonseca (Indep.)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 359,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 359,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. João Corregedor da Fonseca (Indep.)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados do PSD: Isto não é para rir.\n\nEu, aos Srs. Deputados, retirava as ilações e consequências políticas da falta de disponibilidade para o diálogo por pane do PSD e do Governo perante uma matéria desta natureza."
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 360,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS-PP",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 360,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 360,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS-PP",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, não vou aqui repelir os argumentos que já dei, quer no início desta reunião quer na conferência de líderes, para justificar a nossa posição neste debate.\n\nEntendemos que a presença do Governo deveria ser imprescindível politicamente, por três razões.\n\nEm primeiro lugar, desde o momento em que o instituto de prestação de contas está normalizado vir hoje com argumentos do que sucedeu antes desta normalização não tem hoje qualquer relevância.\n\nEm segundo lugar, o destinatário de todas as críticas, sugestões, esclarecimentos, posições que cada bancada parlamentar tome sobre a Conta Geral do Estado é o Governo, como o responsável máximo, segundo a Constituição, da Administração do Estado. E não havendo um destinatário para o debate de hoje, este é naturalmente um debate incompleto, é um debate que seja prejudicado por falta de comparência do Governo.\n\nEm terceiro lugar, trata-se de um acto político de eminente importância. É, como disse, o reverso da medalha do Orçamento, da sua verdadeira natureza. Trata-se de saber se as receitas foram subavaliadas e se as despesas foram sobreavaliadas no orçamento. Isto para que depois não se verifiquem aqui as manigâncias de tapar os buracos dizendo que não aumenta o défice porque o Estado arrecadou mais receitas, já que estas tinham sido subavaliadas, ou que fez menos despesas por terem sido sobreavaliadas. Só com o exame criterioso da Conta Geral do Estado é que se pode ver como o Estado orçamenta as suas receitas e despesas e como é que depois procede à sua execução. A verdadeira crítica ao Orçamento é também feita não no momento da previsão de receitas e despesas mas propriamente na crítica às contas do Estado pela execução desse Orçamento.\n\nEm quarto lugar, diz o Sr. Primeiro-Ministro que gosta de vir sempre à Assembleia e que muitas das vezes que manifesta esse desejo o Parlamento se mostra incomodado. Ora, aqui está como o Sr. Primeiro-Ministro se comporta: uma coisa é o que diz à televisão e outra o que diz à Câmara no momento em que a esta lhe diz que deve vir cá S. Ex.ª ou o ministro ou até o seu subsecretário de. Estado. E quando o Sr. Secretário de Estado dos Assuntos Parlamentares assiste a este debate através da televisão interna lá no seu Gabinete, para depois vir fazer as críticas e não vir aqui ao Plenário, mostra bem a importância que o Sr. Primeiro-Ministro e o Governo, no seu todo, dão aos grandes institutos parlamentares, como é o caso da Conta Geral do Estado.\n\nCada um escolhe os métodos de protesto. Lá porque o PS teve a iniciativa de dizer que vai abandonar esta sessão, pensámos pela nossa parte que essa não era para nós a melhor maneira de mostrar o nosso desacordo com o Governo."
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 360,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 360,
+      "speaker": {
+        "id": 1315,
+        "name": "Lino António Marques De Carvalho",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E até porque o PS está presente, não abandonou a sessão, uma vez que o Regimento não diz quantos deputados é que devem estar presentes para um partido estar presente ou ausente. Estamos aqui no cumprimento do nosso mandato."
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 360,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 360,
+      "speaker": {
+        "id": 1315,
+        "name": "Lino António Marques De Carvalho",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Faremos as críticas que entendermos, interpelaremos o Governo ausente, bem como todos os partidos que nos quiserem responder. Não temos o tempo que desejamos, porque existe o regime da mordaça. Atribuem-se tempos para depois, o contemplado, o PS, não estar aqui presente. Porque o PS tem quarenta e dois minutos e não está aqui para falar, nós temos treze minutos para dizer tudo quanto pretendíamos dizer e manifestamente o tempo é pouco. Registamos o amordaçar da nossa voz para não dizermos aquilo que queríamos dizer e a reserva de tempo excessivo para os que se abstêm de falar e estarem ausentes da bancada.\n\nEste é um ponto para o qual queríamos chamar a atenção de todos, a reserva de tempo para quem o não utiliza e o não dar tempo a quem o deve utilizar. Nós vamos utilizar tempo e queremos mais tempo."
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 360,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queira terminar, Sr. Deputado."
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 360,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Termino já, Sr. Presidente.\n\nSr. Presidente; estamos aqui para cumprir a nossa missão de parlamentares, interviremos no debate e com o protesto de que o Governo não esteja presente."
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 360,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs.. Deputados, vamos dar início à apreciação da Conta Geral do Estado de 1989.\n\nPara uma intervenção, tem a palavra o Sr. Deputado Rui Carp."
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 360,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Sr. Rui Carp (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Não queria começar a minha intervenção sem contar um pequeno episódio que sucedia antes de o PSD chefiar o Governo.\n\nO Sr. Deputado Jaime Gama - e lamento muito que aqui não esteja presente! - falou há pouco da dignificação da Assembleia da República. Posso informar como é que as Contas Gerais dó Estado, mesmo atrasadas e tudo, eram enviadas, antes de 1985, para a Assembleia da República: através de um ofício, assinado por um chefe de repartição"
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 362,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS-PP",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Da OCDE de hoje?"
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 362,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... quando refere que, e cito: «Os resultados macroeconómicos de Portugal foram excelentes no crescimento do produto, na, queda do desemprego, no saneamento das finanças públicas, na quebra dos défices orçamentais e no aumento do superavit do saldo orçamental, na introdução do imposto sobre o rendimento, no início do processo de privatizações, no saneamento progressivo no sector empresarial do Estado, nas relações formais com a CEE, no não financiamento inflacionista através da emissão da dívida pública pelo Banco de Portugal.»\n\nTambém o relatório do Banco de Portugal relativo a 1989, é concludente, quando refere: «A concretização da política orçamental assumiu um cariz de rigor, confirmado, aliás, pela redução das necessidades de financiamento do sector público, administrativo», e isto, conforme aponta o Banco, num ano em que aprovou b novo sistema retributivo da função pública, com evidentes repercussões na evolução do consumo público.\n\nFinalmente e como prova da efectiva melhoria na apresentação da Conta Geral do Estado, não posso deixar de' citar o que consta a pp. 13 e 14 do parecer do Tribunal de Contas, quando nos alerta para o facto de aquela Conta ter uma composição que se aproxima já dos objectivos definidos no novo enquadramento legal previsto na então proposta de Lei de Enquadramento do Orçamento (que viria a ser a Lei n.º 6/91), ultrapassando, assim, em muito as obrigações que a legislação da época obrigava a prestar em matéria de informações.\n\nSr. Presidente, Srs. Deputados: Ouviu quem quis, recolheu as informações quem soube, tomou as atitudes que quis, perante o eleitorado, quem as entendeu tomar. O certo é que consideramos que, no âmbito da tomada de contas pela Assembleia da República, prevista na alínea d) do artigo 164.º da Constituição da República Portuguesa, a Assembleia da República está em condições de aprovar o relatório da Comissão de Economia, Finanças e Plano; dando, assim; cumprimento à parle final do artigo 110.º da Constituição e um passo significativo para a disciplina das finanças públicas, iniciada com o governo social-democrata, presidido por Cavaco Silva."
+    },
+    {
+      "utterance_id": 166,
+      "order": 166,
+      "page_start": 363,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. José Reis Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, peço a palavra para, na sequência da intervenção do Sr. Deputado Rui Carp, dar uma informação à Câmara."
+    },
+    {
+      "utterance_id": 167,
+      "order": 167,
+      "page_start": 363,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Então, é uma intervenção!"
+    },
+    {
+      "utterance_id": 168,
+      "order": 168,
+      "page_start": 363,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. José Reis Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não, Sr. Presidente. Só posso usar da palavra sob a figura regimental da interpelação à Mesa."
+    },
+    {
+      "utterance_id": 169,
+      "order": 169,
+      "page_start": 363,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 170,
+      "order": 170,
+      "page_start": 363,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. José Reis Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: Na sequência da intervenção do Sr. Deputado Rui Carp, gostaria de esclarecer que a instalação tardia da Secção do Tribunal de Contas na Região Autónoma dos Açores não se deveu a qualquer questão relacionada com os órgãos do Governo próprio da Região, pois estes várias vezes insistiram para que essa Secção fosse criada.\n\nAlém disso, gostaria também de dizer que as contas referentes à Região Autónoma dos Açores foram todas discutidas e aprovadas pela Assembleia Legislativa Regional e julgadas pelo Tribunal de Contas.\n\nNo que diz respeito às contas referentes à Região, anteriores à criação da referida Secção, as mesmas não deixaram de ser apresentadas e aprovadas pela Assembleia Legislativa Regional.\n\nEra esta informação que gostaria de dar, em complemento à intervenção feita pelo Sr. Deputado Rui Carp."
+    },
+    {
+      "utterance_id": 171,
+      "order": 171,
+      "page_start": 363,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, no fundo, tratou-se mais de um pedido de esclarecimento do que de uma interpelação à Mesa, razão pela qual vou dar a palavra ao Sr. Deputado Rui Carp."
+    },
+    {
+      "utterance_id": 172,
+      "order": 172,
+      "page_start": 363,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Sr. Rui Carp (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Interpretando também as palavras do Sr. Deputado José Reis Leite como um pedido de esclarecimento, posso, de facto, confirmar que foi altamente abonatória a intervenção quer do Governo Regional dos Açores quer do Governo Regional da Madeira pela forma extremamente prestável e aberta como colaboraram na instalação das respectivas Secções Regionais do Tribunal de Contas."
+    },
+    {
+      "utterance_id": 173,
+      "order": 173,
+      "page_start": 363,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 174,
+      "order": 174,
+      "page_start": 363,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Agradeço a intervenção do Sr. Deputado José Reis Leite para que isso fique bem registado aqui no Plenário."
+    },
+    {
+      "utterance_id": 175,
+      "order": 175,
+      "page_start": 363,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Nogueira de Brito."
+    },
+    {
+      "utterance_id": 176,
+      "order": 176,
+      "page_start": 363,
+      "speaker": {
+        "id": 813,
+        "name": "José Luis Nogueira De Brito",
+        "party": "CDS-PP",
+        "string": "O Sr. Nogueira de Brito (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Quando, há dias, discutimos nesta Assembleia o Orçamento rectificativo, que - perdoem-me a minha veia conservadora! - persisto em chamar suplementar, tive ocasião de dizer que os repetidos deslizes verificados em termos de execução orçamental, não apenas no respeitante à previsão da despesa como também à previsão da receita, acabariam por tornar mais importante a discussão e a aprovação, na Câmara, da Conta Geral do Estado do que do próprio Orçamento.\n\nÉ com esse espírito e nessa perspectiva que, por sobre todos os ventos e marés desta sessão, o CDS não desiste e decide permanecer no Plenário e fazer a intervenção que tinha preparado."
+    },
+    {
+      "utterance_id": 177,
+      "order": 177,
+      "page_start": 363,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 178,
+      "order": 178,
+      "page_start": 363,
+      "speaker": {
+        "id": 813,
+        "name": "José Luis Nogueira De Brito",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tememos que o resultado deste protesto, que consideramos inteiramente justificado, e sublinho,..."
+    },
+    {
+      "utterance_id": 179,
+      "order": 179,
+      "page_start": 363,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não apoiado!..."
+    },
+    {
+      "utterance_id": 180,
+      "order": 180,
+      "page_start": 363,
+      "speaker": {
+        "id": 813,
+        "name": "José Luis Nogueira De Brito",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... acabe por traduzir-se, em termos de opinião pública, mais numa desvalorização..."
+    },
+    {
+      "utterance_id": 181,
+      "order": 181,
+      "page_start": 363,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É capaz!..."
+    },
+    {
+      "utterance_id": 182,
+      "order": 182,
+      "page_start": 363,
+      "speaker": {
+        "id": 813,
+        "name": "José Luis Nogueira De Brito",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... do debate da Conta do que naquilo que, porventura, todos pretenderiam, que era a valorização desse debate.\n\nAliás, na última sessão da legislatura passada - todos o sabemos e o Sr. Deputado Rui Carp também o recordou ainda há minutos - julgámos e aprovámos, de uma assentada - suponho que numa célere sessão de sexta-feira, de manhã -, as contas referentes a 12 anos, isto é, de 1976 a 1988, sendo certo que isto, obviamente, perante a opinião pública, não contribuiu para valorizar a nossa intervenção, em termos de apreciação da Conta.\n\nFelizmente, agora, no início da actual legislatura, estamos já ocupados, volvidos uns meses, a discutir e a apreciar a Conta Geral do Estado referente ao ano de 1989, num contexto que é já de normalidade.\n\nÉ positiva esta sequência e revela, sem dúvida, um esforço de normalização na gestão das finanças públicas e não uma preocupação de rigor orçamental -já iremos ver porque -, que nos apraz registar.\n\nE, apesar de todos os incidentes que ocorreram na sessão de hoje, não queremos deixar de aproveitar a presença na Assembleia, como nosso par, do Sr. Deputado Rui Carp, para o cumprimentar pelo contributo pessoal dado em ordem à obtenção de um tal resultado. Primeiro, como director-geral da Contabilidade Pública, depois, como secretário de Estado do Orçamento e, finalmente, como deputado sabemos que ele sempre se preocupou com a situação anómala da Conta e com o modo de lhe pôr termo.\n\nMas não é só o Sr. Deputado Rui Carp que se preocupa com estes temas, pois também nós, no CDS, aqui tivemos um especialista em direito orçamental - o Dr. António Lobo Xavier- e agora o PS tem entre nós o Dr. Guilherme Oliveira Martins, que preparou com esmero e saber o projecto de parecer da Comissão, do qual pôde resultar um texto, quase unânime, para servir de base à nossa discussão.\n\nParecia, no fundo, estarem criadas todas as condições para termos uma sessão pacífica e consensual de aprovação de um objectivo finalmente conseguido, que era o de discutir, praticamente no tempo que agora está definido, depois da nova Lei de Enquadramento Orçamental, a Conta Geral do Estado. Afinal, não foi assim!\n\nEstaria, repito, tudo bem - Conta em tempo, acompanhada do respectivo parecer do Tribunal de Contas, e deputados preparados para a apreciar. Só é pena, no fundo, que tudo isto que devia ser normal e corrente acabe por ser motivo de regozijo, quase como de festa, principalmente para o maior partido da Assembleia.\n\nPensamos só no que aconteceria se qualquer particular, obrigado a dar contas das suas finanças, não cumprisse com"
+    },
+    {
+      "utterance_id": 183,
+      "order": 183,
+      "page_start": 364,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS-PP",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 184,
+      "order": 184,
+      "page_start": 364,
+      "speaker": {
+        "id": 813,
+        "name": "José Luis Nogueira De Brito",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É claro que já nos começamos a desiludir em relação ao próximo orçamento para cuja preparação vão afinal ter que ser utilizados os 90 dias da lei, aplicáveis com ou sem estabilidade, com ou sem continuidade governativa."
+    },
+    {
+      "utterance_id": 185,
+      "order": 185,
+      "page_start": 364,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS-PP",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 186,
+      "order": 186,
+      "page_start": 364,
+      "speaker": {
+        "id": 813,
+        "name": "José Luis Nogueira De Brito",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E começamos a perder as ilusões - ou antes já as perdemos definitivamente - em relação à Conta, que respeitando ao exercício de 1989, pelo qual foi responsável um governo apoiado pelo PSD e presidido pelo seu presidente, Prof. Cavaco Silva, tudo indicava que aqui fosse defendida pelo novo Governo, também presidido pelo Prof. Cavaco Silva e apoiado pelo PSD."
+    },
+    {
+      "utterance_id": 187,
+      "order": 187,
+      "page_start": 364,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS-PP",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 188,
+      "order": 188,
+      "page_start": 364,
+      "speaker": {
+        "id": 813,
+        "name": "José Luis Nogueira De Brito",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Assim se daria, além do mais, realização ao princípio do contraditório, em relação ao parecer do Tribunal de Contas e as posições dos Srs. Deputados da oposição, ou somente críticos porque alguns Srs. Deputados do PSD poderiam estar tentados a assumir algumas das críticas do Tribunal, ião reclamado em plena comissão pelo Sr. Deputado Rui Carp.\n\nAfinal não e assim e estamos a ver que os princípios orientadores da política financeira dos idos de 1989 são para esquecer, talvez porque em desconformidade com o novo QUANTUM de convergência, não havendo agora ninguém que os defenda com a legitimidade apenas própria de quem os adoptou, viveu e implementou.\n\nE é realmente pena que assim seja e que se esqueçam ião depressa as pessoas e as políticas que, no fundo, deviam ser políticas de continuidade. É realmente pena que assim seja, tanto mais que o exercício de 1989 nos fornece lições preciosas sobre o passado mais recente de 1991, bem como sobre o futuro, que se avizinha, de 1992, 1993 e 1994.\n\nEstão principalmente em causa os erros de estimativa que levaram à necessidade de tão frequentes correcções, tanto do Governo como da Assembleia, no tocante ao orçamento. de despesa e também ao flagrante desvio verificado em relação às receitas.\n\nSabemos, é claro, que um orçamento é sobretudo um exercício de previsões, mas de previsões vinculativas no caso da despesa, só alterável pela via do cumprimento de adequadas formalidades, e de previsão que, em parte, fundamenta o exercício pela Câmara de uma das suas competências mais fundamentais e que está mesmo na origem do parlamentarismo: a autorização da cobrança de impostos.\n\nOra, o que se passou em 1989, voltou a verificar-se flagrantemente no exercício que agora chega ao seu termo. Seria, por isso, bom que fosse possível apreciar, com o respeito pelo princípio do contraditório e com a colaboração do Governo, cabeça da Administração Pública, os motivos dados para os desvios verificados e sobre os quais é lamentável que não nos tenha falado o Sr. Deputado Rui Carp.\n\nAs explicações introduzidas no texto do relatório com o peso dos votos da maioria e sob proposta do Sr. Deputado não colhem, como o comprova o que se passou este ano. O que resulta claro é que o governo antigo alterou o sistema de tributação directa para angariar mais receita. Assim como não é o simples alargamento da base de incidência que explica o crescimento da receita verificado em 1989. Não havendo novidades em relação a tal alargamento no exercício de 1991 - o novo regime fiscal está em vigor desde 1989 - voltou a verificar-se um aumento de receita que só em relação ao IRS atingirá os 50 milhões de contos.\n\nQuer dizer que o que se está sistematicamente a passar, ao menos a partir de 1989, é uma subestimação da receita; fiscal em termos orçamentais que tem como objectivo comprovado tomar os impostos a cobrar mais aceitáveis do ponto de vista do seu peso no produto interno bruto.\n\nPor outro lado, é óbvio que os desvios sistemáticos terão como efeito inelutável desvalorizar a discussão orçamental, o que, no fundo, só contribuirá para desvalorizar o papel do próprio Parlamento.\n\nAinda na perspectiva das lições a tirar desta Conta, que agora estamos a apreciar e que vamos votar, não poderemos deixar passar em claro o problema da despesa e da explicação que para o seu acréscimo é dada, tanto pelo Tribunal, como pelos próprios serviços responsáveis pelo relatório. Não restam dúvidas de que o novo sistema retributivo escapou completamente ao controlo do Governo, tal caixa de Pandora que, uma vez aberta, deixa escapar forcas incontroláveis. Dada como explicação para a derrapagem de 1989, continua a sê-lo em 1991, não se sabendo o que irá encontrar em 1992, último ano da sua implementação.\n\nNem tudo, porém, é mau. Estamos a pensar no que se passou com o défice, com o stock da dívida, com o saldo primário do Orçamento."
+    },
+    {
+      "utterance_id": 189,
+      "order": 189,
+      "page_start": 364,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Sr. Rui Carp (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 190,
+      "order": 190,
+      "page_start": 364,
+      "speaker": {
+        "id": 813,
+        "name": "José Luis Nogueira De Brito",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tememos, porém, que o que houve de bom tenha sido principalmente o fruto de factores extraordinários, dificilmente repetíveis (em 1989 os novos impostos e o novo sistema de tributação directa, em 1991 as privatizações), não permitindo encarar de forma sustentada a normalização tão reclamada aqui como apanágio para esta Conta. Por isso fazemos votos no sentido de valorizar cada vez mais este debate, transformando-o em verdadeira lição para o futuro, na base de um juízo objectivo, completo e desapaixonado sobre o passado, tal como deve ser."
+    },
+    {
+      "utterance_id": 191,
+      "order": 191,
+      "page_start": 364,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Manuel Sérgio."
+    },
+    {
+      "utterance_id": 192,
+      "order": 192,
+      "page_start": 364,
+      "speaker": {
+        "id": 1797,
+        "name": "Manuel Sérgio Vieira E Cunha",
+        "party": "PSN",
+        "string": "O Sr. Manuel Sérgio (PSN)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ªs e Srs. Deputados: Colocado ante a inesperada contingência de ter que falar de contas que não são da sua conta, já que entrou no Parlamento tão-só no dia 6 de Outubro último, o"
+    },
+    {
+      "utterance_id": 193,
+      "order": 193,
+      "page_start": 365,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Sr. Rui Carp (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 194,
+      "order": 194,
+      "page_start": 365,
+      "speaker": {
+        "id": 1797,
+        "name": "Manuel Sérgio Vieira E Cunha",
+        "party": "PSN",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A solidariedade pode unir todos os partidos com assento nesta Assembleia porque não é ser-se solidário agarrar num só aspecto da complexidade humana e proceder como se todos os demais não existissem; não é ser-se solidário prolongar no indefinido dicotomias que já se demonstraram nefastas; não se quadra com a solidariedade a incapacidade para superar os contrários numa síntese superior.\n\nPor isso, o meu partido, que nasceu descomprometido de quaisquer centrais ideológicas e assentou os seus alicerces sobre a radicalidade do humano, ou seja, sobre aquilo que resiste a todas as violências do sistema, não pode deixar de denunciar a agressão farisaica da solidariedade de ocasião, uma espécie de «sociedade do elogio mútuo» de Eça de Queirós, ou aquele outro tipo de solidariedade, bem à portuguesa, ditada por situações-limite, de emergência, quase sempre terminais, trágicas, irreversíveis. A solidariedade que o PSN propõe como única via para a nova era que já começou, consiste na radical aceitação do outro como pólo fundamental do eu de cada um de nós. E esta radicalidade é interpelante e exige uma quotidiana atitude de partilha e de co-responsabilidade.\n\nPeço, Sr. Presidente e Srs. Deputados, que me relevem o tom aparentemente pedagógico que V. Ex.ª de todo não necessitam. Mas foi apenas e tão-só a necessidade que senti de acentuar a especificidade humana desta solidariedade, hoje já agitada por quase iodos os pensadores e homens de Estado, como a verdadeira saída para um futuro de profícua convivência mundial.\n\nE nesta quadra tão densamente povoada de ressonâncias e de sonhos, 13o intensamente partilhada pelas nossas famílias, nada de melhor me ocorreu do que dirigir um apelo aos poderes públicos e à sociedade civil, para que harmonizem acções e potenciam esforços no sentido da redescoberta da família, como «escola da verdadeira solidariedade, relançando-a como célula base da saúde do tecido social».\n\nConvido os meus ilustres colegas a um passeio pós-prandial e nocturno pelas ruas da baixa da cidade de Lisboa. Tropeçareis com um sem-número de concidadãos, homens e mulheres, já sem nome, autênticas «estátuas jacentes», na feliz expressão do jornalista do Expresso, na sua edição de 22 de Dezembro de 1990. «Vivem nas margens da vida, dormem às nossas portas; comem o nosso lixo e vestem-se com os nossos desperdícios.» Ninguém sabe ao certo quantos são mas estima-se que ande pelos 5000 o número de pessoas que dormem nas ruas, em Portugal.\n\nEsta tragédia social mio é a mera soma aritmética de dramas individuais, fruto de desvios à norma, ao padrão dos comportamentos médios da sociedade. Não! Ela é sobretudo uma cruenta imagem da falência civilizacional do nosso tempo.\n\nO desenraizamento cultural, o desequilíbrio psico-emocional, a instabilidade afectiva pela fragilização dos laços familiares, quando não pela inexistência da família, estão a provocar vagas de seres informes, errantes, sem referências sólidas, gente incapaz de memória e profecia.\n\nO Estado tem de apoiar decididamente as instituições particulares de solidariedade social na sua obra de acolhimento humanitária. Sem dúvida. Mas é a sociedade no seu lodo que terá de interrogar-se sobre os caminhos de dissolvência afectiva e de desertificação moral que vem trilhando. Urge parar, reflectir e recomeçar a tarefa de devolver o homem a si mesmo, reabilitando a família e fomentando os instrumentos conducentes à sua preservação.\n\nPor outro lado, o desenvolvimento económico dos últimos anos abalou e quase destruiu por completo as estruturas tradicionais de enquadramento familiar dos idosos, dos nossos pais, dos nossos avós, que deixaram de ter lugar à mesa do Orçamento do Estado para serem atirados para os campos da «sucata humana» que são os lares de idosos, convertidos em chocante meio de acumular riqueza por parte de entidades ou pessoas privadas, salvo honrosas excepções. Portugal tem cerca de 1,5 milhões de idosos. No ano 2000 14 % dos portugueses serão velhos. É a maior «minoria social» e também a que enfrenta a situação mais dramática. É urgente travar a marcha produtivista e atender à dignidade da pessoa humana. O Estado não pode usar de escandaloso favoritismo em relação aos cidadãos produtivos de hoje, esquecendo os de ontem, para que ser velho não continue a significar «a mais injusta e aviltante das cidadanias».\n\nSer solidário é manter abertos os canais de comunicação em todas as direcções, partindo do pressuposto de que nada do que é humano nos pode ser estranho. Esta é a única revolução permanente necessária. No imediato do Natal de 1991. Mas para além dele, na recuperação do passado e na criação do futuro."
+    },
+    {
+      "utterance_id": 195,
+      "order": 195,
+      "page_start": 365,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, não há mais inscrições, pelo que está encerrado o debate.\n\nAssim, nos termos do artigo 110.º da Constituição, vamos proceder à votação da Conta Geral do Estado de 1989.\nSubmetida à votação, foi aprovada, com votos a favor do PSD, votos contra do PCP e do deputado independente Mário Tomé e abstenções do CDS e do PSN, registando-se a ausência do PS, de Os Verdes e do deputado independente João Corregedor da Fonseca.\nSrs. Deputados, a próxima reunião plenária realiza-se amanhã, às 10 horas, e terá como ordem do dia a apreciação de petições.\n\nEntretanto e conforme já estava previsto desde ontem, vai realizar-se, de imediato, uma conferência dos representantes dos grupos parlamentares, no meu gabinete.\n\nEstá encerrada a sessão."
+    }
+  ]
+}

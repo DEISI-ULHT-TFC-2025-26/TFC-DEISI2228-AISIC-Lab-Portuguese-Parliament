@@ -1,0 +1,2476 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "6",
+    "legislative_session": "1",
+    "number": "65",
+    "date": "1992-05-19"
+  },
+  "debate_id": "r3_6_1_65_1992-05-19",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2080,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.\nEram 15 horas e 25 minutos.\nEstavam presentes os seguintes Srs. Deputados:\nPartido Social-Democrata (PPD/PSD):\nAbílio Sousa e Silva.\ndriano da Silva Pinto.\n\nAna Paula Matos Barros.\n\nAntónio Barbosa de Melo.\n\nAntónio Barradas Leitão.\n\nAntónio da Silva Bacelar.\n\nAntónio do Carmo Malveiro.\n\nAntónio Esteves Morgado.\n\nAntónio Fernandes Alves.\n\nAntónio Germano Sá e Abreu.\n\nAntónio Santos Pires Afonso.\n\nAristides Alves Teixeira.\n\nArlindo da Silva Moreira.\n\nArmando Guerreiro da Cunha.\n\nArménio dos Santos.\n\nBelarmino Henriques Correia.\n\nBernardino Gata da Silva.\n\nCarlos de Almeida Coelho.\n\nCarlos Duarte Oliveira.\n\nCarlos Lopes Pereira.\n\nCarlos Oliveira da Silva.\n\nCipriano Rodrigues Martins.\n\nDelmar Ramiro Palas.\n\nDomingos Duarte Lima.\n\nDomingos José Soares Lima.\n\nEduardo Pereira da Silva.\n\nEma Maria Lóia Paulista.\n\nFernando Correia Afonso.\n\nFernando dos Reis Condesso.\n\nFernando Marques de Andrade.\n\nFernando Monteiro do Amaral.\n\nFernando Santos Pereira.\n\nFrancisco Antunes da Silva.\n\nFrancisco Fernandes Martins.\n\nGuilherme Rodrigues Silva.\n\nHilário Azevedo Marques.\n\nIsilda Maria Pires Martins.\n\nJaime Gomes Mil-Homens.\n\nJoão Alberto Granja Silva.\n\nJoão Álvaro Poças Santos.\n\nJoão Carlos Duarte.\n\nJoão do Lago Mota.\n\nJoão Granja da Fonseca.\n\nJoão José da Silva Maçãs.\n\nJoão Salgado.\n\nJoaquim Eduardo Gomes.\n\nJoaquim Fernandes Marques.\n\nJoaquim Vilela Araújo.\n\nJorge Paulo Roque da Cunha.\n\nJosé Alberto Puig Costa.\n\nJosé Augusto Silva Marques.\n\nJosé Borregaria Meireles.\n\nJosé de Almeida Cesário.\n\nJosé Júlio Carvalho Ribeiro.\n\nJosé Leite Machado.\n\nJosé Macario Correia.\n\nJosé Mário Lemos Damião.\n\nJosé Pereira Lopes.\n\nJosé Reis Leite.\n\nLeonardo Ribeiro de Almeida.\n\nLuís António Martins.\n\nLuís Carlos David Nobre.\n\nLuís Carrilho da Cunha.\n\nLuís Filipe Pais de Sousa.\n\nManuel Acácio Martins Roque.\n\nManuel Baptista Cardoso.\n\nManuel Costa Andrade.\n\nManuel Lima Amorim.\n\nManuel Maria Moreira.\n\nManuel Simões Marques.\n\nMaria Conceição Rodrigues.\n\nMaria da Conceição Pereira.\n\nMaria de Lurdes Póvoa Costa.\n\nMaria Helena Ramos Mourão.\n\nMaria José Barbosa Correia.\n\nMaria Leonor Beleza.\n\nMaria Luísa Ferreira.\n\nMaria Manuela Aguiar.\n\nMaria Margarida de Sousa.\n\nMarília Dulce Pires Morgado.\n\nMelchior Pereira Moreira.\n\nMiguel Bento Macedo e Silva.\n\nMiguel Fernando Relvas.\n\nOlinto da Cruz Ravara.\n\nPedro Augusto Cunha Pinto.\n\nPedro Manuel Cruz Roseta.\n\nRui Alberto Limpo Salvada.\n\nRui Chancerelle de Macheie.\n\nVasco Francisco Miguel.\n\nVirgílio de Carneiro.\n\nVítor Manuel Igreja Raposo.\nPartido Socialista (PS):\nAlberto Arons de Carvalho.\n\nAlberto Dentardes Costa.\n\nAlberto de Sousa Martins.\n\nAlberto Manuel Avelino.\n\nAna Maria Bettencourt.\n\nAntónio Alves Martinho.\n\nAntónio Correia Campos.\n\nAntónio da Silva Braga.\n\nAntónio de Almeida Santos.\n\nAntónio José Martins Seguro.\n\nAntónio Marques Júnior.\n\nAntónio Poppe Lopes Cardoso.\n\nAntónio Ribeiro Campos.\n\nAntónio Ribeiro da Silva.\n\nArmando Martins Vara.\n\nArtur Pereira dos Penedos.\n\nCarlos Manuel Luís.\n\nEdite Marreiros Estrela.\n\nEduardo Ribeiro Pereira.\n\nElisa Maria Ramos Damião.\n\nFernando Manuel Costa.\n\nFernando Pereira Marques.\n\nHelena Torres Marques.\n\nJaime José Matos da Gama.\n\nJoão António Gomes Proença.\n\nJoão Ferraz de Abreu.\n\nJoão Maria Meneses Ferreira.\n\nJoão Rui Gaspar de Almeida.\n\nJorge Lacão Costa."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 2081,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o Sr. Secretário vai dar conta de requerimentos e da resposta a alguns outros."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 2081,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (João Salgado)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, nas últimas reuniões plenárias foram apresentados à Mesa os seguintes requerimentos: ao Governo, formulados pelos Srs. Deputados Apolónia Teixeira, Miranda Calha, António Filipe, Fernando Marques, Cerqueira de Oliveira, Júlio Henriques, Mário Tomé e João Poças Santos; ao Ministério da Saúde, formulados pelos Srs. Deputados Macário Correia e Luís Peixoto; ao Ministério do Ambiente e Recursos Naturais, formulados pelos Srs. Deputados José Apolinário, Macário Correia, Isabel Castro, Luís Pais de Sousa e Lino de Carvalho; ao Ministério do Emprego e da Segurança Social, formulados pelos Srs. Deputados José Magalhães e Manuel Sérgio; ao Ministério da Justiça, formulados pelos Srs. Deputados Cerqueira de Oliveira, José Magalhães e Raul Castro; ao Ministério das Obras Públicas, Transportes e Comunicações, formulados pelos Srs. Deputados Macário Correia, António Martinho e Manuel Sérgio; à EPAL, formulado pela Sr.ª Deputada Isabel Castro; à Secretaria de Estado da Cultura, formulados pelos Srs. Deputados António Filipe e Luís Pais de Sousa; ao Ministério das Finanças, formulado pelo Sr. Deputado Olinto Ravara; ao Ministério da Administração Interna, formulados pelos Srs. Deputados José Magalhães e Lino de Carvalho; ao Ministério da Educação, formulado pelo Sr. Deputado António Filipe; ao Ministério dos Negócios Estrangeiros, formulado pelo Sr. Deputado Francisco Martins.\n\nEntretanto, o Governo respondeu aos requerimentos apresentados pelos seguintes Srs. Deputados: Luís Sá, nas sessões de 6 de Dezembro, 9 de Janeiro, 11 e 12 de Fevereiro; Macário Correia, na sessão de 12 de Fevereiro; Ana Maria Bettencourt, na sessão de 13 de Fevereiro; Cerqueira de Oliveira, na sessão de 25 de Fevereiro; Agostinho Lopes, nas sessões de 25 e 27 de Fevereiro; João Corregedor da Fonseca, na sessão de 27 de Fevereiro; Paulo Pereira Coelho, na sessão de 12 de Março; Luís Peixoto e Manuel Sérgio, na sessão de 19 de Março; Mário Tomé, na sessão de 24 de Março; Vítor Raposo, na sessão de 26 de Março; José Apolinário, na sessão de 2 de Abril; Vítor Ranita, na sessão de 23 de Abril.\n\nEntretanto, assumiu a presidência o Sr. Vice-Presidente Ferraz de Abreu."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 2081,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Ferraz de Abreu)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma declaração politica, tem a palavra o Sr. Deputado Narana Coissoró."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 2081,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS-PP",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Ao entregar na Mesa o projecto de resolução para que esta Assembleia, nos lermos do n.º 2 do artigo 284.º, assuma poderes de revisão constitucional por maioria de quatro quintos dos Deputados, o CDS desencadeou o processo político-parlamentar para a introdução das emendas constitucionais necessárias para a admissão de legislação ordinária em que estão interessados também outros partidos, bem como do referendo vinculativo sobre a integração de Portugal na Europa, com relevo óbvio para a ratificação do Tratado de Maastricht sobre a União Europeia, assinado em 7 de Fevereiro de 1992.\n\nNão conheço nenhum tema político no último decénio que lenha apaixonado a opinião pública portuguesa como vem sendo a questão do referendo para a ratificação do Tratado de Maastricht. Não há dia em que este ou aquele analista ou comentador político não se pronuncie sobre a sua realização, com os argumentos mais variados; os principais órgãos da comunicação social reservam um espaço nobre, quase diário, para relatar as vicissitudes da proposta do CDS; os dirigentes de iodos os partidos fazem saber a sua posição a favor ou contra a sua realização e está já lançado o debate entre os constitucionalistas para averiguação de qual a melhor maneira de ultrapassar a proibição constante do artigo 118.º da Constituição da República Portuguesa.\n\nNem poderia ser de outra maneira: num Estado nacional, o primeiro e o único da Europa, com fundas raízes demo-"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 2083,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Ferraz de Abreu)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma declaração política, tem a palavra o Sr. Deputado José Vera Jardim."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 2083,
+      "speaker": {
+        "id": 1310,
+        "name": "José Eduardo Vera Cruz Jardim",
+        "party": "PS",
+        "string": "O Sr. José Vera Jardim (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente. Srs. Deputados: A burocracia atingiu em Portugal um peso e uma dimensão que se situam já ao nível do insuportável para os cidadãos em geral e para as empresas em particular.\n\nA teia de deveres, ónus, procedimentos que se exigem a propósito do acto mais simples constitui sério travão à iniciativa individual e colectiva. Cada vez mais, a cada nova lei ou regulamentação corresponde uma parafernália burocrática com a dose maciça de requerimentos, reconhecimentos, escrituras, lermos, certidões, certificados, guias, públicas formas, um nunca mais acabar de papéis, enquanto que o sentido útil de muitas desta exigências escapa ao normal dos mortais.\n\nSubjacente a lodo este estado de coisas, uma posição fundamental: a desconfiança em relação à sociedade civil. Tudo se controla para que nada de fundamental seja controlado. O notário controla o Registo Nacional de Pessoas Colectivas (RNPC); o conservador controla o notário; ambos se controlam um ao outro; as Finanças controlam tudo e todos e exigem que todos, até os tribunais, lhes comuniquem as mais variadas coisas. E todos controlam os cidadãos!"
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 2083,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 2083,
+      "speaker": {
+        "id": 1310,
+        "name": "José Eduardo Vera Cruz Jardim",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os custos económicos de toda esta burocracia são enormes, os mais altos da Europa. Todos cobram para controlar e cobram bem! Para constituir uma sociedade cobra o RNPC; cobra o notário; cobra o conservador; cobra o ICEP, em caso de investimento estrangeiro; cobra a Imprensa Nacional; cobra a imprensa diária ou regional; cobram as Finanças. Para iodos estes controlos, cada vez existem mais cartões - de identidade, de contribuinte, da segurança social. Big brother em acção, mas «à portuguesa», com jeitinho.\nNa verdade, a sociedade civil criou e continua a criar as suas próprias defesas. Aprendeu que a burocracia tem duas portas: a visível - a oficial - e a outra - «a porta do cavalo». E aprendeu depressa que é por esta que é forçoso entrar! E aí os «papéis» arranjam-se de outro modo, os problemas resolvem-se a outro ritmo. A «poria do cavalo» é a do clientelismo, do jeitinho, do compadrio, do Sr. Doutor ou do Sr. Engenheiro; a da corruptela ou da «corrupção branca»; a da falia de transparência e do favor. É a «mão direita» do Estado, mas é também a degradação dos princípios constitucionais da igualdade e da legalidade.\n\nPara outros, ainda, e face aos custos astronómicos que a paranóia fiscal se recusa a reconhecer, a porta é ainda outra: classe executiva - suite em Mayfair, jantar no Simpsons, tabelião no Straud. E ainda fica muito dinheiro no bolso por comparação com o que cobra o notário da baixa lisboeta ou portuense, mal instalado, mal equipado, ajoujado ao peso de milhares de escrituras anuais, muitas vezes, dezenas por dia, e pelas filas intermináveis que enchem as escadas dos tugúrios onde o Estado os armazenou."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 2083,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 2083,
+      "speaker": {
+        "id": 1310,
+        "name": "José Eduardo Vera Cruz Jardim",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os custos sociais de tudo isto são também enormes: custos para a economia, para o normal desenvolvimento das iniciativas legítimas dos cidadãos e para a imagem do Estado que, para a maior parte das pessoas, é personificada pelo funcionário que o atende ao balcão ou ao guichet da repartição e que lhe diz, porque outra coisa não pode dizer, que falta o reconhecimento da assinatura, que ultrapassou o máximo de linhas por lauda, que o solo não é aquele, que o bilhete de identidade caducou e há que arranjar outro, etc., etc., etc.\n\nTudo lógico, legal, inatacável! Eles são o Estado e o Estado tem este discurso."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 2084,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 2084,
+      "speaker": {
+        "id": 1310,
+        "name": "José Eduardo Vera Cruz Jardim",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr: Presidente, Srs. Deputados: A simplificação e a desburocratização fazem-se sujeitando a critérios de utilidade, racionalidade e custo/benefício muitas das exigências burocráticas. Que utilidade tem? Se se abolir, o que se perde? Quanto custa ao Estado e aos cidadãos? Esse custo está relacionado com o benefício que se retira?\n\nSe estas questões forem formuladas em relação a muitas das exigências formais, claramente nos apercebemos da sua inutilidade ou, pelo menos, de que o seu custo social e económico não é justificado pelas vantagens que delas se retiram, quando estas existem.\n\nÉ, pois, uma acção continuada de crítica de imaginação! de iniciativa e de coragem de reformar. Os resultados não se farão esperar!"
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 2084,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 2084,
+      "speaker": {
+        "id": 1310,
+        "name": "José Eduardo Vera Cruz Jardim",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pela nossa parte, fizemo-lo já em relação a muitos actos e contratos da vida jurídica quotidiana dos cidadãos e vamos apresentar os resultados na Mesa desta Assembleia dentro de minutos.\n\nSão estes, em suma, os resultados deste primeiro exercício de luta contra a burocracia, e que passo a expor:\n\nSimplificação da constituição de associações por simples escrito particular e seu registo junto do Ministério Público, entidade já hoje com competência para controlar a legalidade da sua constituição, e abolição do registo junto dos governos civis;\n\nAbolição da necessidade de escritura pública para uma série de negócios jurídicos para que hoje é exigida a sua constituição por documento autenticado ou com reconhecimento notarial: constituição de hipoteca, consignação de rendimentos, renda vitalícia, constituição e alteração da propriedade horizontal, constituição e alteração do direito de habitação periódica, celebração de contratos de arrendamento para comércio e indústria, trespasse, cessões de exploração de estabelecimentos comerciais e industriais, mútuos;\n\nPossibilidade de constituição de sociedades por quotas mediante contrato-tipo a adoptar oficialmente e, neste caso, sem necessidade de escritura, bastando a simples autenticação das assinaturas e o posterior registo na conservatória;\n\nMedidas de facilitação de vários actos das sociedades, designadamente para a sua constituição, e criação da figura do secretário da sociedade com funções de fé pública, sendo assim desnecessárias muitas das certidões e reconhecimentos a que, hoje em dia, as empresas tem de proceder.\n\nVárias outras medidas de simplificação avulsas, designadamente a abolição quase generalizada do reconhecimento notarial por semelhança, a facilitação das procurações passadas a advogados e solicitadores, a definição em termos amplos da legitimidade destes para proceder a registos e deles reclamar ou recorrer, a facilitação da outorga de procurações a profissionais forenses, etc., etc., etc.\n\nSr. Presidente, Srs. Deputados: A reforma que hoje vamos apresentar é, sem dúvida, a mais ampla das últimas décadas em matéria de formalismo. negocial. Implica, por si só, a revisão de muitos dos artigos do Código Civil, do Código das Sociedades, do Código de Registo e Notariado e outra legislação avulsa, incluindo a Lei do Arrendamento.\n\nA ser aprovada, como esperamos, deixarão de ser sujeitos a escritura muitos milhares de actos e negócios e diminuirá sensivelmente o número de actos notariais que, no ano de 1990, segundo os últimos números oficiais disponíveis, atingiram o montante de 8 milhões.\n\nPoderíamos ter ido mais longe, mas tivemos em conta que reformas deste tipo tem de ser assimiladas por todos e que tem o seu próprio timing e limites balizados por concepções culturais e jurídicas enraizadas em séculos de prática. Há, pois, que fazer um compasso de espera para que a nova via possa ser assimilada consensualmente por todos. Só assim as reformas de fundo terão impacte e criarão raízes na sociedade portuguesa.\n\nSrs. Deputados do PSD, chegou o momento de abandonar o terreno do discurso e de se defrontarem com o terreno do concreto.\nEstão ou não, o Governo e o PSD, interessados na reforma de fundo do funcionamento è modo de relacionamento da Administração com os cidadãos? Estão ou não, o Governo e o PSD, disponíveis para passar das palavras aos actos e contribuir para uma Administração de qualidade e para a oxigenação da sociedade civil e não apenas para as «curas de emagrecimento» do Estado?\n\nEstão ou não, o Governo e o PSD, disponíveis para dar um contributo decisivo para terminar de vez com a «corrupção branca» que campeia a olhos vistos na sociedade portuguesa?\n\nPor nós, assumimos as nossas responsabilidades, conscientes das dificuldades e das limitações, pois sabemos não ser a lei a chave miraculosa, o «abre-te Sésamo» da solução de todos os problemas. É este o contributo que nos cabe dar neste momento e aí estamos perante o povo português a prestar contas. Que o Governo e a maioria saibam assumir também as suas responsabilidades!\n\nVou apresentar na Mesa o projecto de lei do Grupo Parlamentar do PS, aproveitando para dizer que é também uma forma de celebrarmos condignamente o Dia do Advogado, que hoje se comemora.\nA Ordem, numa festa para que está convidado o Sr. Presidente da República, vai celebrar o Dia do Advogado. Os"
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 2085,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Ferraz de Abreu)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, encontram-se nas galerias a assistir à sessão, acompanhados dos respectivos professores, um grupo de alunos da Escola Secundária de Alijó, da Escola C+S de Murça, da Escola Preparatória Marquesa de Aloma de Lisboa e do Colégio Marista de Carcavelos, para os quais peço a vossa habitual saudação.\nPara pedir esclarecimentos, tem a palavra o Sr. Deputado Guilherme Silva."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 2085,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Guilherme Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado José Vera Jardim, quero dizer-lhe que é com algum regozijo e satisfação que vejo o Partido Socialista aproximar-se das preocupações do Governo e do PSD...\n... relativamente à necessidade de desburocratização e de simplificação das relações dos administrados com a Administração.\n\nErn boa hora registo este facto da parte do Partido Socialista e faço-o com duplo regozijo, porque sei e V. Ex.ª também afirmou que tomou essa atitude como advogado, hoje, dia de S. Ivo, patrono dos advogados, uma classe que, efectivamente, se bate quotidianamente por estas questões, porque sente na pele, ao acompanhar iodos os cidadãos que recorrem aos seus serviços, a teia complexa que, infelizmente, é ainda hoje a Administração.\n\nEsperava que V. Ex.ª deixasse falar um pouco mais o advogado e menos o Deputado socialista, embora compreenda que tenha dado prevalência a esta segunda qualidade. E digo isto, porque se V. Ex.ª tem deixado falar um pouco mais o advogado com certeza que tinha prestado aqui o seu preito de justiça e de homenagem ao Governo pelo muito que tem feito nesta matéria.\n\nComo Deputado socialista, compreendo que V. Ex.ª tenha tido dificuldade em fazê-lo, mas, como advogado, decerto que o faria, homenageando o Código de Procedimento Administrativo, que há poucos dias entrou em vigor, e que durante tantos anos registou sucessivas tentativas para ser aprovado e executado, lendo sido este Governo e esta maioria a aprová-lo. Também no ano passado foi aprovado o Decreto-Lei n.º 129/91, que veio simplificar igualmente determinados procedimentos, tomando mais fácil e transparente o relacionamento dos cidadãos com a Administração. Estes diplomas, e em particular o primeiro, constituem um exemplo marcante das preocupações do Governo, que não são apenas as de aprovar legislação. O Código de Procedimento Administrativo entrou em vigor, não porque constitua uma preocupação mas porque se trata de uma acção..."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 2085,
+      "speaker": {
+        "id": 736,
+        "name": "José Manuel Santos De Magalhães",
+        "party": "PS",
+        "string": "O Sr. José Magalhães (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Acção com vacatio."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 2085,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... concreta que os cidadãos estão a sentir no seu dia-a-dia na melhoria, na desburocratização e na simplificação das relações com a Administração.\n\nSr. Deputado José Vera Jardim, pela minha parte, e suponho que o meu grupo parlamentar não se oporá a tal medida, estamos disponíveis para analisar o projecto de lei que irá ser apresentado pelo Partido Socialista, dando o nosso contributo e conjugando esforços no sentido de mais passos serem dados no caminho da vulgarização e da simplificação.\n\nFazemo-lo sem qualquer preocupação de ordem partidária, lendo exclusivamente em mente a preocupação de melhor servir o País."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 2085,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Ferraz de Abreu)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o entender, tem a palavra o Sr. Deputado José Vera Jardim."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 2085,
+      "speaker": {
+        "id": 1310,
+        "name": "José Eduardo Vera Cruz Jardim",
+        "party": "PS",
+        "string": "O Sr. José Vera Jardim (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Guilherme Silva, também eu me regozijo pela disposição demonstrada por V. Ex.ª, em nome da sua bancada, em olhar de uma forma positiva o projecto de lei e outras iniciativas que iremos apresentar a esta Câmara nos tempos mais próximos. Serão todos na mesma linha de simplificar, de desburocratizar, de embaratecer, fazendo com que deixem de existir muitos dos ónus que hoje constituem esta tremenda leia que envolve o cidadão.\n\nInfelizmente, Sr. Deputado, não posso acompanhá-lo inteiramente na primeira parte da sua intervenção. Eu diria que, ao subir à tribuna, fi-lo obviamente na veste de político e de parlamentar, também na de advogado, mas sobretudo, Sr. Deputado, como cidadão, porque este é um problema que diz respeito a todos os cidadãos e todos nós sabemos - V. Ex.ª sabe Ião bem como eu - o quanto de irracional, de impossível de sustentar para as empresas e para os cidadãos em geral atingiu a burocracia em Portugal.\n\nTambém não posso acompanhar V. Ex.ª quanto à obra dos governos do PSD nesta matéria. Infelizmente, não há muito para mostrar! Leia V. Ex.ª, por exemplo, o Manifesto Eleitoral do PSD, onde vem enunciada a grande obra do governo de Cavaco Silva no que diz respeito à desburocratização e verá que ela consiste em seis medidas das quais refiro algumas. Foi abandonado o reconhecimento da assinatura do médico nos atestados médicos e substituído o papel azul de 25 linhas por qualquer outro papel.\n\nSr. Deputado, nesta matéria, há um atraso de décadas e os governos do PSD não tem estado à altura das necessidades, sobretudo das actuais. Portugal, confrontado com uma economia aberta cada vez mais universalizada, não está\n\n- e refiro-me às nossas empresas e aos nossos cidadãos em geral - em igualdade de circunstâncias com o que se passa hoje na Europa.\n\nV. Ex.ª sabe isto tão bem como eu e há felizmente na bancada do PSD, porque sei que há, muitas pessoas que acompanharão este nosso projecto de lei e que ajudarão a vencer esta etapa decisiva para simplificar e desburocratizar a vida em Portugal.\nNeste momento, reassume a presidência o Sr. Presidente, Barbosa de Melo."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 2085,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma declaração política, tem a palavra o Sr. Deputado Jerónimo de Sousa."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 2085,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Sr. Jerónimo de Sousa (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Começo por anunciar que vamos entregar na Mesa um projecto de resolução, visando a constituição"
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 2086,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 2086,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não estamos a fazer qualquer desafio. Estamos, sim, a responder a um desafiada bancada do PSD, já que, através de voz autorizada, durante a discussão da Lei Quadro das Privatizações e como argumento para votar contra uma comissão de acompanhamento As privatizações proposta pelo PS, estranhamento silencioso em todo este processo, a maioria afirmava que a Assembleia da República teria sempre meios de fiscalizar o Governo. Assim se faça!\n\nSe é certo que não foi aqui que as coisas começaram, aqui se deram dois momentos importantes: procedeu-se à revisão da parte económica da Constituição e aprovou-se a Lei Quadro das Privatizações. Nesses dois momentos, alguém aqui quis enganar alguém ou alguém se enganou face à realidade e ao curso das coisas."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 2086,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 2086,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Das actas da Comissão de Revisão Constitucional e do Diário da República de 12 de Novembro de 1989 constam abundantes declarações de garantias de «transparência processual, de utilidade pública, de independência nacional, de democratização do capital, do menos Estado e melhor Estado, da formação de novos e dinâmicos grupos económicos nacionais, da intocabilidade dos direitos dos trabalhadores», etc., etc., etc.!\n\nEntretanto, num processo que já vinha detrás; há novos desenvolvimentos e avança-se para uma ofensiva global, visando a liquidação do património público empresarial com o objectivo estratégico e ideológico da reconstituição de grandes grupos capitalistas e dá restauração do capitalismo monopolista.\n\nO governo PSD; animado por um retrógrado liberalismo, e através da intervenção administrativa alheia aos próprios mecanismos de mercado tão sacralizados pelo Executivo de Cavaco Silva, pretende que a reconstituição dós grandes grupos económicos e a concentração capitalista se opere não em resultado tia concorrência do sector privado com o sector público mas através de decretos liquidacionistas do sector empresarial do Estado e dá transferência forçada do património, recursos e bens nacionais para as mãos dos grandes capitalistas.\n\nÉ pouco dizer que tem sido um processo pouco transparente tem sido, antes, um processo tenebroso!\n\nA prosseguir e a concretizar-se esta gigantesca operação, o sistema sócio-económico corre sérios riscos de ser idêntico ao que vigorava durante a ditadura fascista. E se salvaguardamos o regime político é porque tal operação de entrega e de reconstituição está a ser feita no quadro de uma democracia parlamentar, o que não invalida-os perigos decorrentes para essa mesma democracia, na medida em que os seus mecanismos estatais e jurídicos podem soçobrar ante o poder e o controlo de grandes grupos económicos-dominantes associados as transnacionais.\n\nRecentemente, num grilo de alma, António Champalimaud demonstrou a sua impaciência, à sua arrogância, o seu desejo de ajuste de contas com a democracia e com os trabalhadores, quando arrecadou, a preços de saldo, a Mundial Confiança e mais 10 milhões de contos por conta. Foi um erro táctico, um grito de alma, mas é um exemplo vivo dos escândalos, dos conluios ardilosos que se processam durante os leilões, colocando a nu um processo concertado, faseado e de carácter estratégico, onde o Governo assume o protagonismo e parceria."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 2086,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 2086,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas foi só mais um facto, que teve o mérito de abanar consciências. O rol começa a ser tão longo e as situações tão escandalosas que, hoje, já não é só PCP, os trabalhadores e as suas organizações a denunciar esta operação de grande envergadura!\nSr: Presidente, Srs. Deputados: Acusamos o processo de privatizações de tenebroso.\n\nComo classificar, à luz dos interesses nacionais da independência e soberania económicas, um processo de leilão e entrega a preços subavaliados ao grande capital, particularmente ao capital estrangeiro, o melhor do património público empresarial?\n\nComo é possível que encarregados de avaliar empresas públicas, para efeitos do seu leilão, as subavaliem e depois as arrematem?\n\nComo reage o Governo ante os autênticos cambalachos, em curso, que levam, por exemplo, José Roquete a admitir em público que se conluiou previamente com José Manuel de Mello, antes de concorrer à compra do Totta & Açores; o Grupo Espírito, Santo a dizer, em praça pública, que queria a Tranquilidade e o BESCL, sem outros: concorrentes; o Grupo Mello a comprar a Sociedade Financeira Portuguesa, sem oposição; e Champalimaud a dizer que houve um «acordo de cavalheiros» para concorrer sozinho e adquirir por metade do preço, a valores internacionais, a Mundial Confiança?"
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 2086,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É um escândalo!"
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 2086,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Confirma-se ou não que o Governo quer permitir ao Grupo Mello tempo cedo para juntar capitais necessários, a fim de iniciar a privatização da Seguradora Império, e que o IPE estaria a negociar com este grupo a venda por um preço de saldo da Compal?\n\nChampalimaud chama a isto «acordo de cavalheiros», mas no dicionário da língua portuguesa chama-se a isto, «cambalacho»!"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 2086,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP e do Deputado independente, Mário Tomé",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 2086,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Com novos episódios a prosseguir no Pinto e Sotto Mayor, na Petrogal, na Cimpor e noutras empresas, que estão na calha de leilão!\nSr. Presidente, Srs. Deputados: O Governo, no processo das privatizações, tem como eixo central uma estratégia e uma ideologia que se conforma com os objectivos dos grandes grupos estrangeiros e das sete velhas famílias que dominaram Portugal durante 48 anos de ditadura fascista."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 2086,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 2086,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Começou-se pela imposição de estrangulamentos financeiros, pela nomeação de autênticos comissários políticos ou homens de mão do grande capital para gestores que, depois do trabalho de sapa, se passaram para administradores da empresa privatizada; encarregaram-se avaliadores das empresas públicas que as subavaliaram ao preço da chuva e, nalguns casos, até as arremataram, aumentaram se progressivamente as indemnizações; facilitou-"
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 2087,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 2087,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A ânsia do lucro máximo conduzirá à degradação das empresas prestadoras de serviços públicos, nomeadamente nos transportes, na distribuição de energia e na saúde.\n\nO Governo tem uma estratégia de liquidação e entrega e não uma estratégia de desenvolvimento económico e de garantia do interesse nacional."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 2087,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 2087,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Apesar das subavaliações, da entrega a concorrentes únicos em leilão, da abusiva transferência de propriedade de valiosas empresas a preços irrisórios para o seu valor, os capitalistas portugueses não estão em condições financeiras de, num curto espaço de tempo, adquirirem tudo quanto o Governo tem pressa em transferir para a propriedade privada para encaixar, só neste ano, 350 milhões de contos."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 2087,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 2087,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Era inevitável que as transnacionais, em sectores tão vitais e determinantes (como o financeiro, o petrolífero, o da metalomecânica pesada, o das comunicações, o dos cimentos e o da energia), se apoderassem ou venham a apoderar de sectores estratégicos, com todas as consequências que isso tem para a nossa independência e soberania económicas. No quadro da Comunidade Europeia, em vez da concretização da coesão económica e social, Portugal corre o risco de se tornar num país de economia apendicular, periférica em que o desenvolvimento nacional e os padrões de vida do povo português serão sacrificados aos interesses, decisões e imposições dos países mais desenvolvidos.\n\nComo afirmava recentemente o insuspeito Fernando Ulrich, «não nos podemos tomar o local onde os outros implementam as suas estratégias. E a diferença entre o País e o sítio».\n\nSr. Presidente, Srs. Deputados: A dimensão lodosa a que chegou o processo das privatizações não se compadece com silêncios e cumplicidades. Transformou-se, sim, numa questão nacional que envolve o próprio regime democrático, o seu futuro e o futuro do País!\n\nO inquérito parlamentar pode constituir uma valiosa contribuição da Assembleia da República a favor da democracia."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 2087,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "PCP",
+        "string": "O Sr. Mário Tomé (Indep.)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 2087,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 2087,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "PCP",
+        "string": "O Sr. Mário Tomé (Indep.)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, fui encarregue de fazer uma oferta à Assembleia da República, que é uma peça magnífica, concretamente um jarro que só a Fábrica-Escola Irmãos Stephens consegue fazer, como resposta ã insensibilidade manifestada pelo PSD em sede de Comissão quando lhe foi pedido para ir visitar aquela fábrica a fim de, in loco, verificar o que eslava a provocar aquela situação - aliás, um pouco contraditoriamente com as preocupações que o próprio Sr. Governador Civil demonstrou ontem, em entrevista que tive com ele.\n\nEsta minha entrega vai também acompanhada do pedido de agendamento da petição que já deu entrada há muito tempo nesta Assembleia para que seja constituída uma comissão de inquérito para apreciar a forma como foi gerida, sob orientação do Estado, a Fábrica-Escola Irmãos Stephens.\nNeste momento, o Orador dirige-se à Mesa, entregando o jarro ao Sr. Presidente."
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 2087,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Raúl Rêgo (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "E estranho que o partido do Governo não aplauda!"
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 2087,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "A Mesa agradece a lembrança, que fica à guarda no meu Gabinete.\n\nPara uma intervenção, tem a palavra o Sr. Deputado Júlio Henriques."
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 2087,
+      "speaker": {
+        "id": 1649,
+        "name": "Júlio Da Piedade Nunes Henriques",
+        "party": "PS",
+        "string": "O Sr. Júlio Henriques (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Firmado no conhecimento directo de uma pequena comunidade em crise, cuja vida económica e social decorre fundamentalmente da indústria de lanifícios instalada há longos anos, e também da consulta sistemática a documentos de analise sobre a problemática do sector têxtil em Portugal (destes destacando os produzidos pelo Ministério da Indústria e Energia, pelo Conselho Permanente de Concertação Social e pelo Relatório Karla Peijs do Parlamento Europeu), proponho-me a fazer à Câmara uma rellexão e um alerta para o que considero ser uma das questões mais relevantes para o futuro próximo de vastas regiões do País, envolvendo muitas dezenas de milhar de trabalhadores do têxtil, empresas e empresários do sector.\n\nOs factos sito conhecidos e, por certo, motivo de preocupação a todos os níveis; mas é bom, até por isso mesmo, que a Assembleia da República os aprecie e que o Governo dedique a tão grave problema redobrada atenção, envolvendo os parceiros sociais, disponibilizando meios, e, acima de tudo, afirmando uma vontade política determinante e determinada para a criação de novos dispositivos de apoio à indústria (que passam pela área da promoção comercial e da formação profissional), acelerando, assim, os programas"
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 2088,
+      "speaker": {
+        "id": 1310,
+        "name": "José Eduardo Vera Cruz Jardim",
+        "party": "PS",
+        "string": "O Sr. José Vera Jardim (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 2088,
+      "speaker": {
+        "id": 1649,
+        "name": "Júlio Da Piedade Nunes Henriques",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Este quadro, que é imperativo nacional mudar com urgência, vem traduzindo para o País uma situação bem pouco lisonjeira estamos hoje muito afastados dos nossos parceiros da Comunidade e alguns subsectores do têxtil - as confecções de vestuário, por exemplo - colocam-nos, lamentavelmente, numa situação próxima da que caracterizava a mesma indústria na Itália dos anos 60 (salários baixos, recurso à subcontratação, trabalho domiciliário, trabalho infantil, evasão fiscal, insegurança no emprego, segurança social mínima). Enfim, uma situação que urge mudai' e reclama actuação e medidas eficazes contra um tal estado de coisas!\n\nSr. Presidente, Srs. Deputados: A indústria têxtil e do vestuário, com os seus mais de 200 000 trabalhadores, representando 20 % do valor acrescentado bruto da indústria transformadora e 30 % das exportações, rondando os 700 milhões de contos, assume, sem dúvida, no nosso país, um enorme relevo no contexto da economia nacional. Por outro lado, visto em termos comparativos, em nenhum outro Estado membro da Europa comunitária se regista unia tão grande importância do sector, lacto que internamente tem de ser ponderado e assumido sem tibieza e com todas as consequências, e que, ao nível da Comunidade; sendo embora reconhecido, terá de merecer mais activo e diferenciado tratamento."
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 2088,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 2088,
+      "speaker": {
+        "id": 1649,
+        "name": "Júlio Da Piedade Nunes Henriques",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Aliás, outra coisa não se pode esperar da acção do Governo português e de uma Europa que se pretende solidária.\n\nMas, Sr. Presidente e Srs. Deputados, o que mais motiva a minha intervenção, para além das referidas vicissitudes por que vem passando o ramo têxtil e do peso que representa na economia nacional, é a circunstância de se tratar de uma indústria concentrada em regiões muito específicas e com carácter de quase exclusividade, acarretando, assim, problemas económicos e sociais acrescidos quando as fábricas fecham e a alternativa é o desemprego.\n\nSão disso exemplo o Vale do Ave e a Covilhã, casos de maior dimensão. Mas de forma não menos preocupante, e a solicitar a adopção de medidas urgentíssimas já que a Portaria n.º 381/88; que respeita à reestruturação dos lanifícios, não resolveu nem resolverá só por si as dificuldades, é o que se passa em localidades como Castanheira de Pêra, Mira de Aire ou Avelar, para reportar-me somente ao distrito de Leiria.\n\nNuma outra perspectiva - e aqui já não se trata de situações de monoindústria - temos também o peso relativo que o têxtil representa em lermos de emprego em determinadas regiões, como são os casos de Coimbra e de Alcobaça. Em Coimbra, por exemplo, há um forte movimento que, envolvendo a sua associação comercial e industrial, a UGT, a CGTP e a própria câmara municipal, reclama justamente medidas urgentes que permitam salvaguardar os 4500 postos de trabalho do sector, distribuídos pelas 44 pequenas e médias empresas (PME) existentes no concelho de Coimbra.\n\nSr. Presidente, Srs. Deputados: O País dispõe de condições para actuar. O Governo, as confederações sindicais e patronais podem e devem convergir na busca das soluções mais ajustadas, que passam, obviamente, pelo recurso aos fundos comunitários.\n\nO relatório anual da Comissão das Comunidades Europeias sobre a situação da indústria têxtil e do vestuário realça, até certo ponto, a vulnerabilidade especial destas empresas face a uma maior concorrência resultante da progressiva concretização das opções fundamentais da Comunidade em matéria de realização do mercado interno. Mais adiante, ao manifestar conhecimento do estado de degradação financeira em que se encontram as empresas têxteis de algumas regiões e dos esforços a empreender, admite que se justifica plenamente a acção do poder público, no sentido de proporcionar às referidas empresas um enquadramento favorável a este esforço. Mas nas regiões em que a adaptação da indústria as exigências actuais é menos avançada a dimensão dos ajustamentos a realizar em prazos relativamente curtos poderá, no entanto, ser tal que as soluções menos Onerosas a nível económico e social não sejam viáveis sem uma intervenção dos poderes públicos, o que representará uma despesa importante para este último.\n\nCondições existem, mas é necessário agir e depressa! A implementação de algumas propostas apresentadas em sede do Conselho Permanente de Concertação Social poderá contribuir, a par de outros instrumentos hoje disponíveis graças aos fundos comunitários (muito para além do recém-anunciado RETEX, que pouco resolverá), para a resolução gradual do que consideramos ser neste momento um gravíssimo problema nacional."
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 2089,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o período de antes da ordem do dia vai prolongar-se até as 16 horas e 45 minutos.\n\nPara uma intervenção, tem a palavra a Sr.ª Deputada Isilda Martins."
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 2089,
+      "speaker": {
+        "id": 1764,
+        "name": "Isilda Maria Renda Periquito Pires Martins",
+        "party": "PSD",
+        "string": "A Sr.ª Isilda Martins (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Venho falar-vos da Universidade do Algarve, a única universidade criada por decisão da Assembleia da República, e dizer-vos que a nossa universidade é hoje uma escola de sucesso.\n\nEm meu nome e no dos algarvios que aqui represento, aproveito a oportunidade para, perante esta Câmara, agradecer, na pessoa de V. Ex.ª, a todos os que, em boa hora, subscreveram o projecto de lei n.º 45/1, para a criação do ensino superior no Algarve. Foi no dia 25 de Março de 1977, no decurso da 1.ª Sessão Legislativa da I Legislatura, sendo V. Ex.ª, Sr. Presidente, então Deputado, um dos subscritores.\n\nO projecto viria a ser debatido na 2.ª Sessão Legislativa, no dia 4 de Maio de 1978, e aprovado por unanimidade.\n\nForam seus intervenientes os então Srs. Deputados António Esteves, do PS, na qualidade de relator substituto, por ausência do Deputado Luís Filipe Madeira, José Vitorino, do PSD, que apresentou o projecto, e, ainda Cristóvão Norte, do PSD, Adriano Rodrigues, do CDS, Zita Seabra, do PCP, e Acácio Barreiros, da UDP.\n\nA ideia de dólar o Algarve de uma universidade há muito que vinha sendo defendida, sobretudo a partir da década de 60, pelos Drs. Mário Lyster Franco e Maurício Monteiro, no semanário regional Correio do Sul, entre outros.\n\nNessa época, era um sonho difícil de concretizar, por duas ordens de razão: a primeira, de natureza geográfica, prendia-se com o facto de o Algarve ser vítima de síndroma de «região periférica», votado por esse motivo ao esquecimento; a segunda, de natureza política: num País de estrutura político-administrativa fortemente centralizadora tal desiderato feria a tradição.\n\nForam os eleitos benéficos tia democracia que permitiram que a ideia pudesse ser retomada pela Assembleia da República e consagrada na Lei n.º 11/79, de 28 de Março, que, no seu artigo 1.º, determina a instituição da Universidade do Algarve, com sede em Faro, e autoriza a abertura de estabelecimentos noutras localidades. Consigna, ainda, o mesmo diploma a criação de uma comissão instaladora encarregada de apresentar, no prazo de um ano uma proposta de estruturação, localização dos estabelecimentos a criar, instalação e um plano de cursos, organizado de acordo com as características, potencialidades e necessidades da região e do País, nos seus aspectos económico, social e cultural.\n\nAo abrigo do Decreto-Lei n.º 46/83, de 18 de Junho, foram autorizados os cursos que conferiam o grau de licenciatura em Biologia Marinha e Pescas, Gestão de Empresas e Hortofruticultura.\n\nFinalmente, no dia 30 de Outubro de 1983, deu-se início ao primeiro ano lectivo da Universidade do Algarve.\n\nFundava-se, assim, a primeira universidade de temática regional, aberta, dialogante e extrovertida, rompendo com a postura tradicional da universidade clássica, esotérica, quantas vezes alheada do País real e, quiçá, autista.\n\nA Universidade do Algarve seria, de acordo com a filosofia defendida pelos seus fundadores, uma escola de cunho regional, tendo como prioridades o estudo dos problemas do Algarve e a elaboração de projectos que contemplem a diversidade do seu território e como objectivos naturais, para além da divulgação do saber, a valorização dos recursos naturais, a protecção do património cultural e natural, a definição das grandes linhas programáticas de ordenamento do território e a preparação de recursos humanos para as tarefas da regionalização, consignada na lei fundamental.\n\nSr. Presidente, Srs. Deputados: Só os países cultos são ricos. Sem um sistema de ensino efectivo, adequado e sem quadros técnicos bem preparados, não há desenvolvimento.\n\nNa verdade, o atraso a que o Algarve esteve sujeito deve-se, em grande parte, à inexistência de uma universidade.\n\nOs jovens que tinham a fortuna do acesso ao ensino superior não regressavam ao Algarve, por falia de oportunidades, e contribuíram, com o seu saber e inteligência, para o progresso de outras regiões.\n\nSendo a inteligência o património mais lucrativo, aos poucos, o Algarve foi-se descapitalizando e empobrecendo.\n\nAssim se explica que o desenvolvimento que o Algarve hoje conhece se fique a dever à iniciativa de estrangeiros, sobretudo ingleses, porquanto a maioria dos naturais residentes, por falta de conhecimentos, apenas se dedicavam à prática da agricultura tradicional ou a funções intermédias e subalternas nos sectores secundário e terciário.\n\nAo saírem do Algarve, os nossos jovens desenraizaram-se e, quando se deu o surto da indústria turística, os postos de trabalho existentes foram preenchidos por indivíduos nascidos noutras regiões do País e mesmo no estrangeiro.\n\nO Algarve tomou-se, gradualmente, naquilo que é hoje: uma região cujos naturais estão espalhados pelo resto do País e por texto o mundo e cujos habitantes talvez só cerca de metade sejam seus naturais, exercendo estes funções, até certo ponto, de menor projecção. Na verdade, no Algarve de hoje, quem domina as tecnologias de ponta, são em grande parte os estrangeiros ou nacionais nascidos noutras regiões, com especial relevo para os primeiros, a quem se deve a agricultura e as iniciativas fundamentais associadas ao turismo.\n\nSr. Presidente, Srs. Deputados: A Universidade do Algarve foi projectada para atingir uma população de 3000 alunos, ao fim de 15 anos de funcionamento. Ora, acontece que, no ano lectivo de 1990-1991, o número de alunos era de 1600 e, no ano de 1991-1992, a população escolar quase"
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 2091,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Maria da Conceição Rodrigues."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 2091,
+      "speaker": {
+        "id": 1800,
+        "name": "Maria Da Conceição Figueira Rodrigues",
+        "party": "PSD",
+        "string": "A Sr.ª Maria da Conceição Rodrigues (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Ao assumir, hoje e aqui, a palavra, não escondo a minha satisfação pelo facto de, pela primeira vez, o meu distrito contar nesta Câmara com duas vozes do PSD.\n\nÉ precisamente acerca do distrito de Portalegre e de algumas das suas questões fundamentais que me debruçarei hoje, procurando fugir aos temas abordados, há algumas semanas atrás, pelo meu colega de bancada João Maçãs.\n\nNa sua intervenção, ele tocou essencialmente aspectos ligados à implementação da OID (Operação Integrada de Desenvolvimento) e seu impacte na vida da região.\n\nPela minha parte, desejaria debruçar-me, principalmente, sobre a problemática ligada as áreas sociais nas suas vertentes laboral, prestação de serviços de saúde, segurança social e educação.\n\nSem pretender transformar as minhas palavras num discurso pautado pelo optimismo, procurarei assumir uma postura consentânea com a realidade, não podendo deixar de dizer que muito existe para fazer mas que também grande foi a obra levada a cabo nos últimos anos.\n\nNão lenho a menor dúvida, hoje, em assegurar que o distrito de Portalegre sofreu uma enorme transformação, resultando aos olhos de quem o conheceu, mesmo no passado recente, de forma verdadeiramente notável. Tratou-se de uma séria tentativa de o arrancar do marasmo e atraso em que, infelizmente, mergulhou, ao longo de décadas.\n\nAtraso, desde logo, por ser uma região cuja principal fonte de receita reside num sector primário pouco promissor, associado ao facto de se localizar no interior, com difíceis acessos, uma população envelhecida e cada vez mais reduzida, graças ao forte surto emigratório.\n\nSituação verdadeiramente injusta esta, porquanto, não se tratando também de uma região fortemente industrializada, é, no entanto, detentora de grandes potencial idades em termos de recursos naturais, já não falando no carácter das suas gentes, vincado por inúmeras tradições culturais e espírito hospitaleiro.\n\nSr. Presidente, Srs. Deputados: Entrando mais concretamente na matéria e designadamente no que respeita ao emprego, também nós, em pleno Alentejo, não fugimos à regra.\n\nAté 1985, não só não se criaram postos de trabalho como era notória u sua diminuição. Esta é uma realidade inquestionável, por muito que nos doa, e foi também uma realidade que só mudou graças ao clima de confiança que foi possível gerar-se, sobretudo, nos últimos dois a três anos, com o aparecimento de nova legislação laboral, verdadeira reforma estrutural, da aposta no diálogo social e do investimento que se fez em matéria de formação profissional.\n\nNos últimos três anos, verificou-se uma muito maior cobertura do subsídio de desemprego e subsídio social de desemprego, relativos ao número global de desempregados. Através dos programas ocupacionais, foi possível ocuparem-se, nos últimos dois anos e meio, cerca de 2200 trabalhadores sazonais e desempregados de longa duração, criando-se cerca de 1700 novos postos de trabalho, de 1987 a esta parte."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 2093,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, terminámos o período de antes da ordem do dia.\nEram 16 horas e 49 minutos."
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 2093,
+      "speaker": {
+        "id": 1276,
+        "name": "João Rui Gaspar De Almeida",
+        "party": "PS",
+        "string": "O Sr. João Rui de Almeida (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 2093,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra. Sr. Deputado."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 2093,
+      "speaker": {
+        "id": 1276,
+        "name": "João Rui Gaspar De Almeida",
+        "party": "PS",
+        "string": "O Sr. João Rui de Almeida (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, o Grupo Parlamentar do PS requer à Mesa a interrupção dos trabalhos por um período de 30 minutos."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 2093,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, é regimental. Está suspensa a sessão por 30 minutos.\nEram 16 horas e 50 minutos.\nSrs. Deputados, está reaberta a sessão. Eram 17 horas e 45 minutas.\nORDEM DO DIA"
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 2093,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos dar início ao período da ordem do dia, com a discussão conjunta dos projectos de resolução n.ºs 4/VI e 22/VI, da iniciativa do PCP e de Os Verdes, respectivamente, relativos à Convenção sobre Ambiente e Desenvolvimento no Rio de Janeiro, no próximo mês de Junho.\n\nPara uma intervenção, tem a palavra o Sr. Deputado Miguel Urbano Rodrigues."
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 2093,
+      "speaker": {
+        "id": 1807,
+        "name": "Miguel Urbano Tavares Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. Miguel Urbano Rodrígues (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Estamos a duas semanas da abertura da Conferência das Nações Unidas sobre o Ambiente e o Desenvolvimento (CNUED). Ela é tão significante para o futuro da humanidade que recebeu a designação simbólica de Cimeira do Planeta Terra.\n\nNo Rio de Janeiro, representantes de quase todos os povos do Mundo vão esforçar-se por aproximar dois objectivos, que deveriam ser convergentes e, na prática, tom sido contraditórios. Nesta viragem do século, o desenvolvimento, tal como é planeado e se concretiza nos países industrializados, agride o ambiente.\n\nÉ neste contexto que a Assembleia da República aprecia hoje dois projectos de resolução, um do Partido Comunista Português, outro de Os Verdes, que visam aprofundar o debate sobre a Cimeira da Terra.\n\nAo propor, em Janeiro passado, que a Assembleia promovesse uma Convenção sobre Ambiente e Desenvolvimento, o meu partido pretendia criar um espaço para levantamento de questões relevantes em Portugal naquelas áreas e contribuir assim para uma clarificação das posições do País na Cimeira da Terra. A iniciativa permitiria simultaneamente sensibilizar a opinião pública nacional para os grandes problemas económicos, políticos e sociais que estarão em debate no Rio de Janeiro.\n\nPor motivos que não cabe aqui analisar, os projectos do PCP e de Os Verdes estão decisivamente prejudicados quanto aos seus objectivos. A Cimeira da Terra está prestes a começar. A Assembleia ficou à margem do grande debate prévio.\n\nSrs. Deputados, seria ingénuo esperar que a participação portuguesa no grande acontecimento respondesse ao mínimo exigível. O Governo limitou-se a produzir uns «relatoriozecos», como muito bem escreveu o meu camarada João Amaral no Jornal cie Notícias. O principal, redigido num português de matizes gongóricos, com enxertos de cientifismo duvidoso, chama sobretudo a atenção por conter parágrafos quase ininteligíveis.\n\nNas vésperas da abertura da ECO-92 uma chuva de críticas desaba na Europa sobre a Presidência portuguesa das Comunidades. São justíssimas. Organizações internacionais ligadas h defesa do ambiente censuram a displicência com que os representantes de Portugal conduziram os trabalhos preparatórios da Conferência do Rio.\n\nO director do Bureau Europeu do Ambiente, Van Ermen, em entrevista ao semanário Expresso foi muito explícito: «O papel representado pela Presidência portuguesa nos trabalhos preparatórios de Nova Iorque foi fraco, não tendo havido uma verdadeira liderança. O embaixador português que conduziu as reuniões não estava à altura do encontro. Faltaram grupos de trabalho com capacidade e propostas de textos concretos para discutir».\n\nAs enérgicas teses do ministro Carlos Borrego sobre o lixo tóxico não encontraram tradução na prática.\n\n«Não o vemos fazer nada» - comentou com razão a Greenpeace. «Como Presidente do Conselho de Ministros do Ambiente teria de apresentar propostas que forçassem decisões.»\n\nMas ficou de braços cruzados. Será por acaso que, há dias, a Comissão Europeia criticou no Parlamento Europeu a actuação da Presidência portuguesa, por omissa?\n\nNo tocante a defesa do ambiente tivemos, aliás, nesta Assembleia na última sexta-feira, uma prova concreta da teia de mentiras, em que o Governo se envolve. Os moradores de Riba de Ave arrancaram-lhe a máscara.\n\nSrs. Deputados, o combate à contradição real, na prática da vida, entre o crescimento económico selvagem e o ambiente é uma vez o primeiro objectivo da Conferência do Rio de Janeiro. As sociedades mais ricas do planeta não encontraram até hoje soluções capazes de neutralizar estratégias que colocam a busca do lucro ilimitado como fim supremo da actividade social. Acontece que no limiar do século x» essas estratégias egoístas, além de aprofundarem o abismo já existente entre o Norte e o Sul, ameaçam a própria sobrevivência da humanidade.\n\nAlgumas gerações viveram no pós-guerra marcadas pelo pesadelo do holocausto nuclear. Hoje, o temor de que a Terra fique inabitável é outro. Nasce da agressão ao ambiente, resultante de uma concepção selvagem e egoísta do desenvolvimento económico. Os interesses das empresas transnacionais e a ideologia do consumo, sustentados pela ditadura mundial da tecnocracia, tornaram-se incompatíveis com uma nova ordem ecológica, humanizada, respeitadora dos ecossistemas, que garanta no nosso planeta, cada dia mais devastado e poluído, uma qualidade de vida satisfatória.\n\nO diagnóstico do crime está feito. Assusta. Os países industrializados do Norte geram 90 % dos resíduos perigosos e emitem 74 % do dióxido de carbono que contribui para o sobreaquecimento do planeta. Produzem praticamente a totalidade do clorofluorcarbono, o temível CFC que destrói a camada de ozono - escudo natural contra os raios ultravioletas. A diminuição da camada de ozono - responsável pelo chamado efeito de estufa - atingiu no hemisfério Norte níveis entre 4 % e 8 % na última década.\n\nEm certas regiões dos EUA, na transição do Inverno para a Primavera, a redução da camada, embora transitoriamente, chega aos 40 %. Segundo Robert Wilson, director dos Estudos e Processos Científicos da NASA: «se hoje fosse"
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 2094,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado André Martins."
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 2094,
+      "speaker": {
+        "id": 1719,
+        "name": "André Valente Martins",
+        "party": "PEV",
+        "string": "O Sr. André Martins (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: O projecto de resolução n.º 22/VT, da iniciativa do Partido Ecologista Os Verdes, tinha como objectivo que a Assembleia da República se associasse às recomendações das Nações Unidas para promover, ao nível planetário, um debate que fomentasse a informação e a participação de todos os povos do Mundo, relativamente à importância que a Cimeira da Terra tem para o futuro de todos nós...\n\nEste foi o objectivo primeiro, que esteve na origem da apresentação do nosso projecto, em 23 de Abril passado, na Assembleia da República. Aliás, a sua apresentação vem na sequência da decisão' anunciada aqui, na Assembleia da República, aquando da interpelação que fizémos ao Governo sobre política de ambiente è ordenamento do território, em 31 de Março passado, precisamente no seguimento do desafio que fizemos ao Governo para que a partir de então fizesse aquilo que até ali não linha feito, isto é, promover na sociedade portuguesa debates, envolvendo a sociedade civil, as organizações não governamentais, no sentido de preparar a Cimeira da Terra. O Governo assim não o entendeu. Portanto, recusou-se a cumprir aquilo que foram as recomendações das Nações Unidas ao convocar essa Conferência.\n\nEsta nossa iniciativa está prejudicada, como já disse aqui o Sr. Deputado Miguel Urbano Rodrigues, porque não é nos próximos oito dias que a Assembleia da República vai promover um debate de forma a preparar o Governo, que irá representar o nosso país na Cimeira da Terra.\n\nNo entanto, não está ainda posta de parle a possibilidade - e lançamos aqui este desafio - de a Assembleia da República organizar um debate com vista a contribuir para á divulgação pública, para o envolvimento dos Portugueses nas questões importantes que vão ser tratadas na Cimeira da Terra e no que se refere ao futuro comum, na responsabilidade colectiva que todos temos; para que não caminhemos mais aceleradamente para o abismo.\n\nSr. Presidente, Srs. Deputados: Julgo que está justificada a responsabilidade que assumimos neste processo e que, o Governo não quis assumir. Compreendemos certamente as razões do Governo, algumas delas estão, inclusive, bem expressas na própria constituição de uma comissão nacional preparatória da Conferência, em que, para além dos representantes dos ministérios, apenas envolveu um represen-"
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 2095,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Manuel Moreira."
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 2095,
+      "speaker": {
+        "id": 525,
+        "name": "Manuel Maria Moreira",
+        "party": "PSD",
+        "string": "O Sr. Manuel Moreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Começo por dizer a Câmara que vou apenas referir-me àquilo que está em discussão, ou seja, aos projectos de resolução do PCP e de Os Verdes. Não vou, portanto, abordar os temas e os objectivos da Conferência do Rio.\n\nPara o PSD a Conferência das Nações Unidas sobre Ambiente e Desenvolvimento, a realizar de 1 a 12 de Junho, no Rio de Janeiro, pelos temas que vai abordar, assume uma vital importância para o futuro da humanidade.\n\nPor isso o PSD deu o seu apoio activo à proposta do Partido Ecologista Os Verdes, apresentada no âmbito da Comissão de Administração do Território, Poder Local e Ambiente, no dia 27 de Abril, e discutida na reunião da Comissão, de é de Maio, para a realização, em tempo útil, de um debate público sobre as questões a tratar e os objectivos da Conferência das Nações Unidas sobre Ambiente e Desenvolvimento.\n\nAcontece, porém, que, com o agendamento para o dia de hoje, no Plenário da Assembleia da República, do projecto de resolução n.º 4/VI, do PCP, que propõe a realização de uma convenção sobre ambiente e desenvolvimento, no âmbito da participação de Portugal na Conferência das Nações Unidas sobre Ambiente e Desenvolvimento, e o projecto de resolução n.º 22/VI, do Partido Ecologista Os Verdes, que propõe a organização de um debate sobre a Conferência da Organização das Nações Unidas sobre Ambiente e Desenvolvimento, pareceu-nos que só faria sentido a aprovação de imediato, na comissão especializada, da proposta do Partido Ecologista Os Verdes, se os projectos de resolução que estamos hoje aqui a discutir fossem retirados, dado a Comissão, assim e desde logo, se propor organizar e realizar o debate público sobre a Conferência do Rio de Janeiro.\n\nNão foi esse o entendimento do PCP e do Partido Ecologista Os Verdes, e, por isso, com a sua teimosia, perdemos duas indispensáveis e preciosas semanas para a realização, em tempo útil, do referido debate.\n\nSr. Presidente, Srs. Deputados: Quero também aqui referir o facto de o projecto de resolução n.º 4/VI, do PCP, ter dado entrada na Mesa da Assembleia da República em 15 de Janeiro e de este partido, estranhamente, nunca o ter agendado. Para tal foi preciso que o PSD, na Conferência dos Representantes dos Grupos Parlamentares, tivesse proposto o seu agendamento para o dia de hoje, em conjunto com o projecto de resolução n.º 22/VI, do Partido Ecologista Os Verdes.\n\nO projecto de resolução do PCP propunha as datas de 15, 1é e 17 de Maio para a realização da convenção, datas essas já ultrapassadas. Daqui se conclui facilmente que o PCP nunca esteve efectivamente interessado em realizar esta convenção, porque, se o estivesse, já teria forçado o agendamento deste seu projecto de resolução há muito mais tempo.\n\nEm relação ao projecto de resolução do Partido Ecologista Os Verdes, o conteúdo da resolução proposta é perfeitamente irrelevante, uma vez que a discussão e preparação da participação portuguesa na Conferência do Rio de Janeiro está decidida há vários meses.\n\nO PSD considera que foi pena não se ler aprovado, no dia é de Maio, na Comissão de Administração do Território, Poder Local e Ambiente, a proposta do Partido Ecologista Os Verdes para a realização, em tempo útil, de um debate público sobre a Conferência do Rio, porque este debate seria mais uma tias fornias de sensibilização da comunicação social e da opinião pública portuguesa para a referida conferência.\n\nSr. Presidente, Srs. Deputados: Assim, temos todos de reconhecer humilde e realisticamente que, sendo hoje 19 de Maio e iniciando-se a Conferência do Rio de Janeiro no próximo dia 1 de Junho, não há já tempo suficiente para se organizar este debate e, por isso, o PSD declara, desde já, a sua total disponibilidade para, no âmbito da Comissão de Administração do Território, Poder Local e Ambiente, fazer a avaliação dos resultados da Conferência do Rio de Janeiro, apesar das dificuldades que subsistem, que esperamos sejam ultrapassadas e que os seus resultados sejam positivos para o futuro da Terra e da Humanidade e para um ambiente mais equilibrado e saudável.\n\n(O Orador reviu.)"
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 2095,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveram-se para pedir esclarecimentos os Srs. Deputados André Martins e Miguel Urbano Rodrigues.\n\nTem a palavra o Sr. Deputado André Martins."
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 2095,
+      "speaker": {
+        "id": 1719,
+        "name": "André Valente Martins",
+        "party": "PEV",
+        "string": "O Sr. André Martins (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Manuel Moreira, quero começar por me solidarizar com as palavras com que acabou a sua intervenção. Aliás, penso que nelas, contrariamente ao que pretendeu afirmar, estão subjacentes todas as nossas intervenções nesta Assembleia, incluindo o projecto de resolução que apresentámos e a proposta que apresentámos à Comissão de Administração do Território, Poder Local e Ambiente, precisamente em 27 de Abril, como referiu."
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 2096,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Miguel Urbano Rodrigues."
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 2096,
+      "speaker": {
+        "id": 1807,
+        "name": "Miguel Urbano Tavares Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. Miguel Urbano Rodrigues (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Manuel Moreira, verifiquei, com alguma melancolia, que, num momento em que são feitas as mais graves acusações, dentro e fora do País, à política de ambiente do Governo do seu partido (e eu, ao falar, empreguei a palavra «chuva» em cascata), lendo a ausência do Sr. Ministro Carlos Borrego sido criticada até no Parlamento Europeu. As organizações ambientais l alam da omissão e da displicência com que a Presidência portuguesa se comporto nas conferências preparatórias em que se discutia um acontecimento que é da máxima importância para toda a humanidade. E essas omissões foram reais, estão na imprensa internacional e o Sr. Deputado Manuel Moreira vem agora trazer para aqui a questão do agendamento!\n\nO Sr. Deputado está aqui há mais anos do que eu e sabe perfeitamente que há um partido, que é o seu, que tem a maioria e que, na Conferência dos Representantes dos Grupos Parlamentares, toda a questão do que é ou não agendado depende, em última análise, da vontade do seu partido. Mas, mais do que isso, esta não era realmente a questão com se deveria prender neste momento. \nO Sr. Deputado disse mesmo que não ia referir-se à conferência que se inicia dentro de poucos dias no Brasil, da qual a humanidade está pendente porque dela depende o destino e a sobrevivência do homem.\n\nOra, num momento em que, superando divergências ideológicas e partidárias, se fala que os homens se devem unir para defender o planeta e as civilizações nele criadas, o Sr. Deputado está preocupado com a pequeníssima defesa do seu partido num caso destes e não com a problemática da Humanidade no planeta a que pertencemos."
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 2096,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 2096,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, Vem á palavra o Sr. Deputado Manuel Moreira."
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 2096,
+      "speaker": {
+        "id": 525,
+        "name": "Manuel Maria Moreira",
+        "party": "PSD",
+        "string": "O Sr. Manuel Moreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Em bom rigor os Srs. Deputados que me interpelaram não disseram nada de novo e devo dizer que devolvo o epíteto «espectáculo» ao Sr. Deputado André Martins, porque julgo também que quem faz espectáculo são aqueles partidos que apresentam projectos de resolução - como é o caso do PCP que o apresentou em 15 de Janeiro e não os agendam.\n\nFoi preciso o PSD, como referi na minha intervenção, propor o seu agendamento para que hoje pudéssemos aqui discutir esse projecto, bem como o do Partido Ecologista Os Verdes, e, como tal, julgo que essa atitude de propor as iniciativas e não as agendar em tempo útil é que é uma atitude irresponsável, demagógica e de espectáculo."
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 2096,
+      "speaker": {
+        "id": 418,
+        "name": "Carlos Miguel Maximiano De Almeida Coelho",
+        "party": "PSD",
+        "string": "O Sr. Carlos Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade."
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 2096,
+      "speaker": {
+        "id": 1807,
+        "name": "Miguel Urbano Tavares Rodrigues",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Porque se queríamos - e queríamos todos - fazer um debate sério sobre os objectivos e sobre os temas que vão ser abordados na Conferência do Rio, devíamo-lo ter leito há muito mais tempo e não apenas a 15 dias da Conferência, como disse o Sr. Deputado Miguel Urbano Rodrigues."
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 2096,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Octávio Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É ignorante, surdo ou quê?!"
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 2096,
+      "speaker": {
+        "id": 1719,
+        "name": "André Valente Martins",
+        "party": "PEV",
+        "string": "O Sr. André Martins (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peça essa responsabilidade ao seu Governo."
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 2096,
+      "speaker": {
+        "id": 1807,
+        "name": "Miguel Urbano Tavares Rodrigues",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A responsabilidade é sua, Sr. Deputado André Martins, bem como do PCP, na medida em que nós, no dia 6 deste mês, quando aderimos à vossa proposta, no âmbito da Comissão de Administração do Território, Poder Local e Ambiente, podíamos, ainda durante o corrente mês, preparar esse debate. E tínhamo-lo feito."
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 2096,
+      "speaker": {
+        "id": 1719,
+        "name": "André Valente Martins",
+        "party": "PEV",
+        "string": "O Sr. André Martins (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ainda estamos a tempo. Uma questão não inviabiliza a outra."
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 2096,
+      "speaker": {
+        "id": 1807,
+        "name": "Miguel Urbano Tavares Rodrigues",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ora, os senhores não quiseram e, por isso, não estavam efectivamente interessados nele. Têm de reconhecer que não estavam interessados em fazer um debate público nem em associar esta Assembleia aos objectivos da Conferência do Rio."
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 2097,
+      "speaker": {
+        "id": 1807,
+        "name": "Miguel Urbano Tavares Rodrigues",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso, Srs. Deputados, julgo que, efectivamente, deve haver mais humildade e seriedade quando se tomam as iniciativas para que elas tenham eleito útil.\n\n(O Orador reviu.)"
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 2097,
+      "speaker": {
+        "id": 418,
+        "name": "Carlos Miguel Maximiano De Almeida Coelho",
+        "party": "PSD",
+        "string": "O Sr. Carlos Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mais humildade. Boa receita!"
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 2097,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Gameiro dos Santos."
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 2097,
+      "speaker": {
+        "id": 1757,
+        "name": "Jose Manuel Oliveira Gameiro Dos Santos",
+        "party": "PS",
+        "string": "O Sr. Gameiro dos Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A reduzida e insuficiente informação sobre a Conferência das Nações Unidas para o Ambiente e Desenvolvimento justifica plenamente a aprovação dos projectos de resolução n.ºs 4/VI, do PCP, e 22/VI, de Os Verdes, ambos com o objectivo de promover, sob a égide da Assembleia da República, um amplo debate sobre tal temática.\n\nQuestões fundamentais para o desenvolvimento harmonioso e equilibrado do Mundo não podem ser tratados unicamente por cientistas e políticos."
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 2097,
+      "speaker": {
+        "id": 1821,
+        "name": "Rui Pedro Lopes Machado Ávila",
+        "party": "PS",
+        "string": "O Sr. Rui Ávila (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 2097,
+      "speaker": {
+        "id": 1757,
+        "name": "Jose Manuel Oliveira Gameiro Dos Santos",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É urgente a participação activa de iodos os cidadãos, sejam eles técnicos ou especialistas, representantes de associações de defesa do ambiente ou de associações de desenvolvimento regional, representantes da Administração Pública Central ou das autarquias locais, representantes das associações económicas ou sindicais, professores ou alunos, jornalistas, etc.\n\nSr. Presidente, Srs. Deputados: A falia de iniciativa do Governo em matéria tão importante é confrangedora. O Ministro do Ambiente do país que preside actualmente à Comunidade Económica Europeia tem revelado uma grande falta de iniciativa e protagonismo político nesta matéria. Desde logo porque, no âmbito interno, não promoveu, como lhe competia, um grande debate nacional sobre o ambiente e o desenvolvimento e, no âmbito externo, não conseguiu levar os nossos parceiros da Comunidade Económica Europeia a assumir, frontalmente, propostas concretas a apresentar na Conferência do Rio de Janeiro.\n\nLamentavelmente, não temos ministro do Ambiente. Só hoje, decorridos quase cinco meses da Presidência portuguesa da CEE, o Ministro Carlos Borrego se mostra muito preocupado com o vazio criado à volta da Conferência do Rio de Janeiro, que pode transformar-se num mero passeio turístico de políticos pouco interessados em concertar soluções para salvar o Mundo.\n\nSr. Presidente, Srs. Deputados: Ao contrario do que seria de esperar a menos de um mês da Conferência do Rio, os principais dossiers continuam bloqueados: não há objectivo definido para a redução de emissões de dióxido de carbono, apesar de, inicialmente, se ler apontado para atingir rapidamente o nível de 1990; não se concretizaram princípios e regras para a transferência de tecnologia para os países do Sul, de forma a ultrapassar a situação de miséria em que vivem; não se esclareceu o envelope financeiro. Quem vai pagar a conservação da Natureza e do Mundo? Já há acordo no seio da CEE. E o que pensam o Japão e os EUA sobre tudo isto?\nSr. Presidente, Srs. Deputados: O Governo continua calado e insensível ao que pode acontecer no nosso planeta caso não se alterem significativamente as políticas de ambiente e de desenvolvimento. É que o aumento da erosão e acidificação dos solos, a contaminação das águas de superfície e subterrâneas, a destruição maciça da floresta, o contínuo efluir de gases para a atmosfera, designadamente o dióxido de carbono e os CFC, não nos augura nada de bom para o futuro da humanidade. E iodos nós temos o dever e a obrigação de deixar as novas gerações um mundo melhor do que aquele que encontrámos."
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 2097,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Casimiro Tavares."
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 2097,
+      "speaker": {
+        "id": 1741,
+        "name": "Casimiro Da Silva Tavares",
+        "party": "CDS-PP",
+        "string": "O Sr. Casimiro Tavares (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Discutir e preparar a participação portuguesa na Conferência da Organização das Nações Unidas sobre Ambiente e Desenvolvimento era, realmente, o objectivo do projecto de resolução do Grupo Parlamentar de Os Verdes e, na sua sintonia, do projecto de resolução subscrito pelos Deputados do Partido Comunista Português.\n\nPena foi que a sua discussão surgisse já tardiamente, a cerca de 15 dias da abertura da ECO-92. No entanto, ficar-lhes-á, pelo menos, a boa vontade e o benefício das intervenções!\n\nResta-nos não a preparação de trabalhos preparatórios desta Assembleia da República mas, pelo menos, a possibilidade de analise dos trabalhos dos comités preparatórios da Conferência do Rio, ontem anunciada por Maurice Strong - Secretário-Geral das Nações Unidas, sobre ambiente e desenvolvimento.\n\nOxalá que o grito de esperança de Maurice Slrong não seja prelúdio de falhanço da ECO-92, avisado já no cansaço e na desilusão de Carlos Pimenta e encenada por Cario Ripa de Meana, comissário europeu responsável pelo ambiente, quando também, ontem mesmo, referiu: «Os eco-diplomatas parecem-se cada vez mais com Nero, tocando lira perante Roma em chamas. Não se esqueçam do que aconteceu com Nero!». E, mais adiante: «Ano sim, ano não, os mesmos eco-diplomatas fazem encontros em vários locais agradáveis por todo o inundo. Entre festas e cocktails diplomáticos, as sessões plenárias chegam a um glorioso compromisso.»\n\nSr. Presidente, Srs. Deputados: Pode Roma encandescer em chamas, mas não será ao som da lira desta Câmara que, afinal, se quedou muda nas realizações! Valha-nos ao menos isso!"
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 2097,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, não havendo mais inscrições, declaro encerrado o debate dos projectos de resolução n.ºs 4/VI e 22/VI, estando, assim, em condições de serem votados no período de votações, que se seguirá.\n\nVamos entrar no ponto seguinte da ordem do dia, ou seja, na discussão do projecto de resolução n.º 16/VI - Medidas de defesa das crianças em risco, apresentado pelo PS.\n\nPara uma intervenção, tem a palavra a Sr.ª Deputada Julieta Sampaio."
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 2097,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Julieta Sampaio (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.ªs e Srs. Deputados: Em Portugal existem 20 000 crianças maltratadas pelas famílias - maus tratos, quer físicos quer de apoio psicológico e humano - que as leva à marginalidade.\n\nEm Portugal existem cerca de 12 % de crianças que não cumprem a escolaridade obrigatória."
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 2098,
+      "speaker": {
+        "id": 1821,
+        "name": "Rui Pedro Lopes Machado Ávila",
+        "party": "PS",
+        "string": "O Sr. Rui Ávila (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 2098,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ªs e Srs. Deputados: A Assembleia da República deve empenhar-se num levantamento preciso da situação das crianças em Portugal e promover o adequado debate sobre a temática. Só assim estaremos em condições de promover medidas legislativas e de apoiar as acções políticas necessárias à erradicação deste flagelo."
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 2098,
+      "speaker": {
+        "id": 1757,
+        "name": "Jose Manuel Oliveira Gameiro Dos Santos",
+        "party": "PS",
+        "string": "O Sr. Gameiro dos Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 2098,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "As crianças valem o nosso futuro!\nSr.ªs e Srs. Deputados, permitam-me agora que, para terminar, traga aqui um testemunho: lembram-se, com certeza, de, há relativamente pouco tempo, aquando da apresentação deste projecto de resolução, eu ler falado aqui no caso do Vítor Hugo - um menino de 22 meses, cujo assassino foi ontem condenado em 15 anos de prisão. Esse assassino está vivo, Srs. Deputados, mas a criança morreu! Não teve direito, sequer, a um futuro! Deixo isto à vossa consideração."
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 2098,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Margarida Silva Pereira."
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 2098,
+      "speaker": {
+        "id": 1799,
+        "name": "Maria Margarida Da Costa E Silva Pereira Taveira De Sousa",
+        "party": "PSD",
+        "string": "A Sr.ª Margarida Silva Pereira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada, devo dizer-lhe que ouvi com agrado, e até com comoção, a sua intervenção, que tratou de uma questão que nos loca a iodos particularmente. Penso que é saudável, que será estimulante e esperemos que seja vantajoso, pelas possibilidades de divulgação junto da comunica-"
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 2099,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 2099,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra a Sr.ª Deputada Julieta Sampaio."
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 2099,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Julieta Sampaio (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.ª Deputada Margarida Silva Pereira, fiquei satisfeita pela sua sensibilização e lenho a impressão que todos os Deputados desta Câmara lambem estarão sensibilizados com este problema, que é realmente grave.\n\nA Sr.ª Deputada mencionou várias entidades que se tem interessado por esta temática das crianças, pelo que não queria deixar de referir aqui o empenhamento e a dedicação dos professores do ensino básico."
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 2099,
+      "speaker": {
+        "id": 1166,
+        "name": "António Fernandes Da Silva Braga",
+        "party": "PS",
+        "string": "O Sr. António Braga (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 2099,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Realmente, deve-se aos professores do ensino básico, Sr.ª Deputada, que muitas mais crianças não tenham caído no desespero - digo mesmo no desespero e, algumas, até na tortura. É que é através da escola que tem sido detectadas a maior parte das crianças sujeitas a maus tratos. Tem sido a escola - tenho o testemunho dos nossos colegas da Comissão de Educação, Ciência e Cultura que se deslocaram ao Porto - que, através de actividades extracurriculares, os prende a algo de útil e os tira da rua, evitando assim que eles caiam mais baixo.\n\nPor isso, queria deixar aqui hoje a minha homenagem, muito sincera - penso que nisso estou acompanhada por todos os Deputados da Comissão Parlamentar de Educação, Ciência e Cultura - aos professores do ensino básico, que muito tem contribuído, bem como todos os Srs. Deputados, para que estas crianças em risco não o sejam tanto assim."
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 2099,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 2099,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada, detectei uma contradição no seu discurso quando disse que não há estimativas concretas: não se sabe se serão 20 000 ou 30 000. Os estudos que consultei e que V. Ex.ª referiu dizem respeito ao período de 1986-1988, pelo que há uma necessidade urgente de fazermos uma actualização e um levantamento. Não sei quem é que vai fazer o estudo, se são os professores do ensino básico, se são as organizações hospitalares. Só sei uma coisa: é que esta Câmara precisa de deliberar rapidamente..."
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 2099,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 2099,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "... e encomendar um estudo que nos permita legislar conscientemente e não às cegas."
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 2099,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 2099,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Estas crianças não podem esperar mais. Sr.ª Deputada, enquanto há uma «democracia de sucesso», não pode haver em Portugal mais crianças como o Vítor Hugo, que ontem a televisão mostrou, e que com certeza fez correr lágrimas pela cara de muita gente!"
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 2099,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 2099,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É isto que pretendemos com este projecto de resolução."
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 2099,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos interromper o decurso do tema em debate para proceder às votações agendadas. Da folha que foi oportunamente distribuída constam três: a da proposta de lei n.º 9/VI, do projecto de lei n.º 40/VI, da iniciativa do PS, e da proposta de lei n.º 21/VI, da iniciativa do Governo. Temos ainda, como disse há pouco, os projectos de resolução relativos à Conferência da ONU no Rio de Janeiro, cuja discussão terminou antes da hora regimental e, por isso, irão ser votados também hoje."
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 2100,
+      "speaker": {
+        "id": 1799,
+        "name": "Maria Margarida Da Costa E Silva Pereira Taveira De Sousa",
+        "party": "PSD",
+        "string": "A Sr.ª Margarida Silva Pereira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: É objectivo desta minha intervenção dar alguma nota da concepção que. neste momento, o meu grupo parlamentai' tem acerca da estratégia, eventualmente mais adequada, para minorar este problema dramático das crianças em risco, que são vítimas do maus tratos - digo, neste momento, porque estou a ter em linha de conta os trabalhos que estão a ser produzidos no terreno.\n\nA Sr.ª Deputada Julieta Sampaio referia há pouco a necessidade de encomendar um estudo que nos habilitasse a ler informação detalhada sobre esta matéria. O problema que colocamos, Sr. Presidente, Srs. Deputados, e o da eventual\n\ncontradição nestas palavras: «um estudo que nos habilite». Um estudo encomendado neste momento pela Assembleia da República, no nosso entender e depois de ouvirmos vários especialistas na matéria, não será porventura o elemento mais idóneo para nos habilitar efectivamente a tratar, de uma forma cabal, a problemática das crianças em risco."
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 2100,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Porquê?!"
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 2100,
+      "speaker": {
+        "id": 1799,
+        "name": "Maria Margarida Da Costa E Silva Pereira Taveira De Sousa",
+        "party": "PSD",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Porque seria sempre um estudo desconhecedor do trabalho que está a ser feito. Preferíamos que continuasse a avançar a acção que está a ser desenvolvida nos hospitais, assim como a do grupo de trabalho que neste momento desenvolve a. sua actuação no Centro de Estudos Judiciários.\n\nNos hospitais, em primeiro lugar, porque é muitas vezes aos bancos e aos centros de urgência - e não aos centros de pediatria - que chegam casos extraordinariamente graves, cuja triagem não é feita, e que poderá vir a sê-lo desde que junto desses bancos hospitalares funcionem grupos habilitados a fazer a sua despistagem. Refiro-me concretamente às unidades de queimados dos hospitais, onde chegam muitas vezes - dizem os médicos - crianças que recebem tratamento e vão imediatamente para casa sem que seja detectado o problema da negligência, ou mesmo do dolo, na ofensa corporal autêntica de que muitas vezes foram vítimas.\n\nAlém disso, entendemos também que há que continuar a implementar medidas de natureza legal e refiro, ainda que muito sucintamente, o diploma que, felizmente, se encontra em processo de conclusão, referente à adopção, o qual vai tomar o processo jurisdicional muitíssimo mais expedito e que, a par do processo jurisdicional, virá estruturar também um processo de adopção administrativa sempre com acompanhamento do Ministério Público.\n\nRefiro também a criação, que pretendemos e saudaremos, do Instituto de Confiança do Menor, ou seja, a tentativa de criar famílias alternativas de acolhimento para as crianças que no interior das suas próprias famílias não conseguem a pedagogia e a vivência familiar adequada.\n\nPor outro lado, ainda, não queria deixar de apontar a existência das comissões de protecção de menores e a implementação que se está a verificar ao longo do País dos chamados serviços de acolhimento. Esses serviços de acolhimento não têm aumentado, provavelmente, ao ritmo que todos desejaríamos, mas têm de facto aumentado nos últimos tempos.\n\nCremos que é pelo trabalho no terreno daqueles que, mercê da experiência que já tem, possuem dados e estratégias concretas para fazer a despistagem e encontrar alternativas, que alguma coisa pode ser feita neste país para minorar a situação terrível das crianças vítimas de maus tratos.\n\nSr.ª Deputada, questionei a oportunidade de um estudo encomendado neste momento pela Assembleia da República e pergunto também: a quem? A pessoas mais habilitadas do que aquelas que no Centro de Estudos Judiciários, no Ministério Público e nos hospitais actualmente trabalham? Existem essas pessoas em Portugal? Existem esses técnicos alternativos?\n\nUm estudo vago e abstracto que apenas criasse na comunidade atingida por estas situações a ideia de que ainda nos encontramos numa pré-história do tratamento das crianças vítimas de maus tratos, com toda a carga nociva que isso poderia trazer, parece-nos, do ponto de vista da prevenção geral e até da prevenção especial, bastante desa-"
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 2101,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Julieta Sampaio."
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 2101,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Julieta Sampaio (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.ª Deputada Margarida Silva Pereira, agradeço-lhe, mais uma vez, a solidariedade que mostrou nesta temática. Nem outra coisa, aliás, esperaria de V. Ex.ª.\n\nQuero, no entanto, dizer-lhe que tudo o que a Sr.ª Deputada disse na sua intervenção não é contraditório com o que se propõe no projecto de resolução em debate. Pelo contrário, penso ser urgente que a Assembleia recolha todos os dados de que a Sr.ª Deputada falou e as informações de todas as pessoas que tem esses conhecimentos. Também estou informada de que esses estudos existem. É necessário formar uma comissão que faça a recolha de todos esses dados, de modo a habilitar esta Assembleia a legislar com o conhecimento real das situações, que são muitas e graves.\n\nPermito-me recordar-lhe, Sr.ª Deputada, que uma coisa são as competências desta Assembleia e outra são as competências governativas. Neste caso concreto, que é um caso humano, penso que devem ser reunidos os esforços entre este órgão legislativo e o órgão político e executivo que é o Governo. Sobre esse assunto não pode haver divergências, nem acredito que as haja."
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 2101,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Ferraz de Abreu."
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 2101,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ferraz de Abreu (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.ª Deputada Margarida Silva Pereira, fiquei um pouco perplexo por V. Ex.ª dizer que esta iniciativa iria com certeza ignorar os trabalhos já produzidos nesta matéria. Foi essa, segundo me pareceu, a sua afirmação, mas não consigo perceber por que é que tal iniciativa iria prejudicar esses trabalhos. Pelo contrário, em qualquer estudo que se fizesse iríamos, naturalmente, recorrer a todo o trabalho que já estivesse feito nesta matéria.\n\nMais, uma iniciativa deste tipo por parle da Assembleia da República só iria levar um grande estímulo às pessoas que já estão a trabalhar neste assunto.\n\nMais ainda, dada a gravidade deste problema, ficaria muito bem à Assembleia da República e constituiria um factor para a prestigiar demonstrarmos perante a opinião pública a nossa preocupação e o nosso desejo de legislar, no sentido de pôr cobro a uma situação tão trágica como esta.\n\nFinalmente, referiu V. Ex.ª que os hospitais disporiam de uma grande informação nesta matéria. Permito-me não concordar consigo, porque os hospitais só tem conhecimento dos casos gravíssimos de crianças que são hospitalizadas. A grande maioria dos maus tratos, que, como aqui foi dito pela Sr.ª Deputada, são muitas vezes do foro psicológico, não chega aos hospitais, aos quais só chegam os casos graves, como, por exemplo, os tais queimados. De grande parte das crianças mal tratadas os hospitais não tem qualquer conhecimento."
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 2101,
+      "speaker": {
+        "id": 1745,
+        "name": "António Fernando Correia De Campos",
+        "party": "PS",
+        "string": "O Sr. António Correia de Campos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 2101,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra a Sr.ª Deputada Margarida Silva Pereira."
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 2101,
+      "speaker": {
+        "id": 1799,
+        "name": "Maria Margarida Da Costa E Silva Pereira Taveira De Sousa",
+        "party": "PSD",
+        "string": "A Sr.ª Margarida Silva Pereira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Ferraz de Abreu, estou de acordo em que muitos dos casos de maus tratos - admite-se, nesta altura, que até a maioria - sejam efectivamente do foro psicológico e que esses não cheguem aos hospitais.\n\nDe qualquer forma, chega aos hospitais uma fatia de casos que denuncia um universo sócio-familiar que também é, obviamente, muito importante. Penso que nessa matéria todos estamos, com certeza de acordo.\n\nQuando questionei a oportunidade de um estudo que agora começasse, referia-me, naturalmente, aos lermos em que ele aparece no projecto resolução que o Partido Socialista apresentou. Essa resolução aponta - eventualmente isso até poderá ser alterado - para a ideia de um estudo a que se vai proceder ex novo. Foi isso que, de alguma maneira, me chocou.\n\nÉ preciso sublinhar bem que o trabalho que irá ser desenvolvido vem na continuação de estudos e trabalhos já feitos ou em curso. É bom que isso passe para o exterior. O PSD considera - sublinho estas palavras e peço a compreensão dos Srs. Deputados para elas - que, por razões de prevenção geral e especial, o mesmo é dizer por razões de natureza pedagógica seria muitíssimo bom que passasse para a opinião pública a mensagem de que os nossos trabalhos seguem na continuação e em entrosamento absoluto com algo de muito substancial que já está a ser operado no terreno, com prejuízo de que efectivamente, a bem de uma causa magnífica, possamos dar um contributo que não interesse.\n\nQuero, a terminar, dar apenas um breve nota. Eu, jurista, respeitadora socrática da lei, não partilho, de forma alguma, da visão, que considero algo optimista, de que é por via legislativa que todas estas coisas poderão ser resolvidas. Não afirmarei, de modo algum, que estão feitas todas as leis adequadas sobre esta matéria, mas direi que fizemos já, porventura, as principais e aderimos já, porventura também, aos instrumentos internacionais mais importantes. Neste momento trata-se da materialização, da efectivação, da aplicação da lei. Em questões deste género, como a da igualdade de oportunidades (à qual, segundo sei, a Sr.ª Deputada Julieta Sampaio é também, e felizmente, particularmente sensível) e a dos direitos das crianças em geral e das crianças vítimas de maus tratos em particular, o drama maior começa no momento da necessidade de aplicação da lei. É aí que se coloca o problema dos meios e das estratégias adequadas. É também aí que começa o debate."
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 2101,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Para isso é que há o Governo!"
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 2101,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Odete Santos."
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 2101,
+      "speaker": {
+        "id": 819,
+        "name": "Maria Odete Dos Santos",
+        "party": "PCP",
+        "string": "A Sr.ª Odete Santos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Quem tem assistido a debates organizados pela sociedade civil sobre o problema das crianças - e direi que «crianças em situação de risco» é um conceito que vai para além do de crianças vítimas de maus tratos - sabe que uma das questões suscitadas nos mesmos é a de que não há funcionamento das estruturas para responder as leis existentes. Esta é que é a realidade: as leis e a Constituição que existem não são aplicadas.\n\nSabemos - os serviços dos tribunais, o Ministério Público e os hospitais dizem-nos - que normalmente, quando"
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 2102,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP e do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 2102,
+      "speaker": {
+        "id": 819,
+        "name": "Maria Odete Dos Santos",
+        "party": "PCP",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "As leis do planeamento familiar, que servem para que as crianças nasçam num lar que as deseje e, assim, com menos possibilidade de se tomarem crianças em risco - e crianças em risco não são só as crianças que são batidas, mas as crianças que têm menos amor -, não são i efectivamente aplicadas. O número de mães adolescentes cresce e os filhos dessas mães têm grande possibilidade de vir a ser crianças em risco."
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 2102,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 2102,
+      "speaker": {
+        "id": 819,
+        "name": "Maria Odete Dos Santos",
+        "party": "PCP",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Quando discutimos as questões da criança devemos ter a consciência de que as leis que Portugal tem nesta matéria, por via do 25 de Abril, que acabou com a autoridade tia família e criou os mecanismos legislativos para que o amor e a solidariedade existissem na família, são também das mais avançadas.\n\nNesta questão, não se traia efectivamente - estou de acordo, neste aspecto, com a Sr.ª Deputada Margarida Silva Pereira de grandes iniciativas legislativas, embora elas possam ser necessárias num ou noutro ponto. Podemos introduzir melhorias e podemos, por exemplo, em relação à regulação do poder paternal e aos alimentos devidos a menores, aceitar uma recomendação do Conselho da Europa sobre essa matéria.\n\nDevo referir, a propósito, que o PCP irá reapresenta o seu projecto de lei relativo ao adiantamento dos alimentos devidos a menores, que penso que melhorará as condições de crianças que não recebem pensões de alimentos do pai ou da mãe, por dificuldade em obter tais pensões. É justo, na nossa opinião, que o Estado adiante essas pensões. Iremos reapresenta essa iniciativa, que faz falta. Há dois anos que o Sr. Ministro da Justiça prometeu uma proposta de lei sobre a adopção, que efectivamente faz falta.\n\nMais do que tudo isso, o que faz falta é ter, em relação aos vários sectores da vida português; - habitação, saúde, ensino, cultura - mecanismos que concretizem direitos conseguidos na lei. Ora, são, efectivamente, esses mecanismos que não existem! Sabemos que há crianças abandonadas, crianças que vivem na marginalidade, que são toxico de pendentes, que estão na prostituição - como recentemente foi denunciado pela sociedade civil em Aveiro -, que são vítimas de uma das fornias de violência que se instituiu em Portugal, o trabalho infantil, relativamente ao qual não venham dizer, Srs. Deputados, que é pura questão de mentalidades... As mentalidades - e isto aprende-se! -não surgem por acaso, porque a pessoa tem uma célula e um grão de plutónio nessa célula; as mentalidades surgem porque são criadas condições, assim como para que elas subsistam, isto é, por exemplo, para que uma pessoa se sinta autoritária na família. Portanto, são criadas condições para existir a agressão e a violência sobre a criança.\n\nSrs. Deputados do PSD, falem da política do vosso Governo em relação a todas as áreas que mencionei e verão que, efectivamente, a situação que se vive relativamente à criança degrada-se - aliás, o último censo à população revela que a taxa de mortalidade infantil aumentou -, reconhecerão que nada fizeram para que Portugal as crianças: possam ser felizes."
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 2102,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado António Correia de Campos, utilizando tempo cedido pelo CDS e também pela Mesa."
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 2102,
+      "speaker": {
+        "id": 1745,
+        "name": "António Fernando Correia De Campos",
+        "party": "PS",
+        "string": "O Sr. António Correia de Campos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Em primeiro lugar, gostaria de dizer que este problema, como muitos outros, nomeadamente o dos idosos e o da deficiência, não é exclusivamente judiciário, nem de saúde, nem escolar, nem psicológico, nem muito menos psiquiátrico. É um problema interdisciplinar e, como acontece com todos os problemas interdisciplinares, tem muitas causas e precisa de muitas soluções coordenadas.\n\nOra, os governos, e não apenas o nosso, não têm soluções simples nem imediatas para estes problemas complexos e normalmente são, talvez, os equipamentos menos aparelhados para os solucionar.\n\nGostaria ainda de dizer, confirmando algumas das afirmações anteriores, que este é um tema obseuro, é um iceberg do qual apenas conhecemos a ponta e não todas as suas implicações, porque o problema é extremamente complexo. Finalmente, gostaria de trazer a esta Câmara dois exemplos próximos deste e usados em países onde os Parlamentos desempenharam uma função muito importante. Assim, gostaria de lembrar que, em Inglaterra, há 12 anos, por iniciativa, do Parlamento, fez-se o primeiro inquérito nacional à diminuição física, o chamado Amélia Harris Survey, que foi um estudo extremamente importante pelo qual; pela primeira vez, se passou a conhecer totalmente o problema da deficiência física e mental no Reino Unido, inquirindo todas as crianças e todos os jovens-adultos com mais de 16 anos.\n\nO segundo exemplo, que gostaria de lembrar, teve lugar há cerca de 15 anos nos Estados Unidos da América. Assim, os problemas nutricionais eram de tal ordem, e tinham exactamente uma característica semelhante a esta. que o Congresso se uniu para organizar uma iniciativa, chamada HANES (Health and Nutrition Examination Survey), que leve resultados incontestados.\n\nNa verdade, quando a realidade é complexa, ela precisa de ser conhecida por meios consensuais, que reúnam o maior sentido de apelo nacional."
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 2103,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para defesa da honra e da consideraçâo, tem a palavra a Sr.ª Deputada Lurdes Póvoa Costa."
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 2103,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Lurdes Póvoa Costa (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: Sr.ª Deputada Odete Santos, a minha bancada não podia, face à sua intervenção, ficar calada.\n\nCertamente que não era intenção da Sr.ª Deputada utilizar um tom tão agressivo ao referir-se a uma situação que, julgo, a todos exige uma maior ponderação e reflexão. De facto, trata-se de uma situação grave que nos loca a todos não fundo!... É o problema das crianças! Elas exigem de nós um tom mais doce, mais terno, Sr.ª Deputada!...\n\nA Sr.ª Deputada acusou o Governo de nada fazer em relação às crianças em risco, referindo palavras aqui proferidas pelo Sr. Ministro da Justiça. De fado. Sr.ª Deputada, não é justo que lhe se refira dessa maneira.\n\nSabemos que muito há para fazer! Talvez ainda muito pouco esteja feito quanto às crianças maltratadas, mas lembro-a que foi graças a este Governo que, em todos os distritos do País, se criou um serviço de acolhimento e de apoio às famílias.\n\nNeste momento, e a Sr.ª Deputada sabe-o, funcionam, ligados aos Centros Regionais de Segurança Social de todo o País, serviços onde se seleccionam famílias de acolhimento, que são estudadas por equipas puridisciplinares profundamente técnicas, que dão o seu parecer no sentido de para aí serem encaminhadas as crianças que, a lodo o momento, apareçam, tanto nos hospitais, abandonadas nas maternidades ou nas pediatrias, como as enviadas pelo Ministério Público."
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 2103,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para dar explicações, se assim o entender, tem a palavra a Sr.ª Deputada Odete Santos."
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 2103,
+      "speaker": {
+        "id": 819,
+        "name": "Maria Odete Dos Santos",
+        "party": "PCP",
+        "string": "A Sr.ª Odete Santos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: No exercício do direito de defesa da honra, que foi exercido, de algum modo, retardadamente, uma vez que houve uma intervenção pelo meio e, aliás, parece que a senhora despertou tarde, a Sr.ª Deputada Lurdes Póvoa Costa não disse - e talvez tivesse sido útil lazê-lo - quantas crianças eram acolhidas nesses centros e por essas famílias de acolhimento. Gostaria de ouvir os números! Como sabe, são muito poucas!\n\nPor exemplo, em Setúbal, há um centro de acolhimento de crianças que só tem capacidade para sete crianças. Espantoso!...\n\nAssim, não é com paninhos quentes, com vozes lenias e delicodoces, com gestos melodramáticos ou com lágrimas correndo, mas que não correspondem efectivamente a políticas, que se resolve seja o que for! É aí que eu me irrito! De facto, não vale a pena citar versos de Augusto Gil - aliás, muito bonitos - e continuar sem fazer nada, Sr.ª Deputada! Será que a senhora não se irrita com isso? É mulher e por isso irrita-se, com certeza, ale mais! Não quer é demonstrá-lo! Mas a situação que muitas crianças vivem hoje no nosso país é uma situação para irritar!...\n\nFalei no Sr. Ministro da Justiça e tenho muita legitimidade para lazê-lo como Deputada! Alias, também podia falar do Sr. Ministro do Emprego e da Segurança Social, que vai a seminários, como eu já ouvi, falar da legislação avançada mas não fala do trabalho infantil! Não diz, nesses seminários, que existe trabalho infantil em Portugal! Não é uma vergonha?! Não é uma vergonha que o ministro de um governo de uma democracia omita as graves situações que existem em Portugal? Isto é uma vergonha!\n\nPor isso, lenho todo o direito de denunciar essa situação, porque o PSD ainda não calou a minha voz nem a calará a ninguém desta bancada! Não estamos a pedir louvaminhas ao Governo, estamos aqui para denunciar e a Sr.ª Deputada devia ter decoro em vir aqui criticar o facto de eu ler referido as palavras do Sr. Ministro da Justiça que, aliás, constam no Diário da Assembleia da República."
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 2103,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 2103,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Casimiro Tavares."
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 2103,
+      "speaker": {
+        "id": 1741,
+        "name": "Casimiro Da Silva Tavares",
+        "party": "CDS-PP",
+        "string": "O Sr. Casimiro Tavares (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: É necessário pensar, programar e agir. É necessário fazer os estudos, debater e implementar tudo o que seja em prol das crianças. Simplesmente, para além de pensar e de programar, é sobretudo necessário agir e nós, depois de ouvirmos as palavras tilo interessantes e vivas das Sr.ª Deputadas, todos, de facto, sentimos este problema.\n\nAinda há oito dias, na minha terra, todos vivemos um problema que os jornais, na ocasião, relataram. Uma criança desaparecera e ninguém sabia dela, lendo sido procurada durante toda a noite; no dia seguinte apareceu. Tinha sido raptada. Estava em estado de choque, apresentava traumatismo craniano, um braço partido, perfurações no pescoço e no tronco que tinham sido feitas por uma arma branca."
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 2103,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Julieta Sampaio (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "E ainda está no hospital!"
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 2103,
+      "speaker": {
+        "id": 1741,
+        "name": "Casimiro Da Silva Tavares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O indivíduo que a linha raptado já tinha sido condenado por homicídio qualificado na pessoa da namorada e tinha cumprido oito anos de prisão, encontrando-se em liberdade condicional!\n\nMas, Sr. Presidente e Srs. Deputados, agora interrogamo-nos: para além dos estudos e de todas estas soluções Ião necessárias, não será urgente revermos e reformularmos a política criminal? Não será necessário rever o sistema penal e até o próprio processo penal, quando admite que as declarações prestadas fora da audiência não sirvam de prova nessa mesma audiência? É preciso reestruturar o sistema prisional! É que o Homem não pode continuar beneficamente encarcerado à sombra do sistema! Cada criminoso deve ter um tratamento específico, porque cada homem é diferente do outro homem! Os homens não são iguais na natureza, são, sim, iguais em direitos."
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 2103,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, não havendo mais inscrições, dou por encerrado o debate relativo ao projecto de resolução n.º 16/VI.\n\nDe seguida, vamos passar à apreciação do projecto de resolução n.º 18/VI, apresentado pelo PCP, relativo a medidas de combate à seca.\n\nPara uma intervenção, tem a palavra o Sr. Deputado Lino de Carvalho."
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 2103,
+      "speaker": {
+        "id": 1315,
+        "name": "Lino António Marques De Carvalho",
+        "party": "PCP",
+        "string": "O Sr. Lino de Carvalho (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Há cerca de um mês alertámos o Plenário e"
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 2105,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Octávio Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 2105,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Luís Capoulas Santos."
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 2105,
+      "speaker": {
+        "id": 1189,
+        "name": "Luís Manuel Capoulas Dos Santos",
+        "party": "PS",
+        "string": "O Sr. Luís Capoulas Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A queda de alguma precipitação nos princípios de Abril fez-nos acalentar esperanças sobre a possibilidade de poderem ainda ser atenuados alguns efeitos da seca que vinha, já então, atingindo proporções alarmantes.\n\nNeste momento, não restam, infelizmente, quaisquer dúvidas de que os agricultores estão confrontados com uma situação de catástrofe que apenas antecipou a declaração de uma crise mais vasta, que se vinha progressivamente manifestando. Também a situação vivida nalguns sectores de actividade, mais directamente conexos com a actividade agrícola, e o abastecimento de água às populações nalgumas zonas constituem motivos de grande preocupação.\n\nNão pode, por isso, o Partido Socialista deixar de denunciar a forma como o Governo tem vindo a enfrentar a situação, sobretudo a prevalência há várias semanas de uma total falta de preconização das medidas que pressurosamente entendeu fazer anunciar. Este facto tem contribuído para acentuar o grau de incerteza e de desespero que neste momento atinge uma significativa parcela da população activa agrícola portuguesa.\n\nCom eleito, o Governo anunciou medidas para facilitar o escoamento do gado a abater e evitar o avultamento dos preços. Não referiu, porém, qual o preço de aquisição que vai ser praticado: será o preço de intervenção comunitário, inferior, como se sabe, ao preço de mercado? Será outro?\n\nQual? E no que refere ao gado ovino, onde a legislação comunitária nem sequer admite intervenção, como vai ser materializada a medida?\n\nAnunciou também o Governo, através do Ministério da Agricultura, medidas tendentes a apoiar os produtores pecuários, para o que divulgou montantes máximos por cabeça a atribuir por espécies e por zonas do País. Mas quais são as zonas e quais os montantes a praticar em cada uma delas? Quais são os exactos compromissos que vão ser exigidos aos criadores?\n\nPublicitou também o Governo a intenção de conceder moratórias de um ano sobre os empréstimos contraídos, bem como a concessão de créditos especiais a três anos com bonificações das taxas de juro. Mas quais vão ser as taxas de juro a praticar e quais as instituições de crédito com as quais o Governo já negociou esta linha de crédito? E quais são as que aceitaram contribuir com os 3 % que constam da nota informativa do Ministério da Agricultura?\n\nTambém a anunciada medida de transferência para o PÍUS de 382 000 t de cercais da CE nos parece tratar-se de uma medida sem quaisquer efeitos práticos directos junto dos agricultores e com vantagens para o próprio Estado com certeza inferiores às estimativas efectuadas.\n\nDo que acaba de ser dito. Sr. Presidente e Srs. Deputados, parece-nos ter ficado demonstrado que, além de totalmente imprecisas, algumas medidas de combate aos efeitos da seca anunciadas pelo Governo são manifestamente inadequadas e claramente insuficientes.\n\nO PS considera imperiosa e urgente uma mudança de atitude do Governo e entende ser necessária a adopção das seguintes medidas: criação de um gabinete de emergência, ao qual competirá proceder à rápida sondagem do país em função dos efeitos da seca e ao controlo da aplicação das ajudas (já reclamado atempadamente pelo PS), onde estejam representadas, para além do Ministério da Agricultura - como agora sucede -, as organizações representativas dos agricultores; o pagamento de uma ajuda ao rendimento dos produtores de cereais (e não só de trigo) até 100 % do valor da margem bruta regional por hectare, a calcular a partir das contas de cultura regionais; garantia de aquisição do gado bovino e ovino para abate ao preço do mercado que vigorava no início da declaração da seca, com majoração da perda de peso dela decorrente; atribuição aos bovinicultores, até Outubro de 1992, de 50 % do valor do custo da alimentação necessária para substituir as forragens, podendo efectuar-se o abate a partir de l de Julho, neste caso com perda, obviamente, da ajuda após o abate; apoio aos produtores de ovinos e caprinos nos lermos da proposta anterior, sendo admissível o abate a partir de 11 de Maio, com consequente perda da ajuda a partir da efectivação do abale; possibilidade do apoio aos produtores pecuários poder ser, total ou parcialmente, efectuado directamente em género (fardos de palha ou feno) a importar, dadas as condições vantajosas em termos de preços e transportes a que se sabe ser possível recorrer; a especificidade própria do regadio e da eventual ausência de rendimentos, por impossibilidade de realização das respectivas culturas, deverá ser objecto de medidas a adoptar consoante as circunstâncias de cada caso, devendo a situação excepcional do Vale do Sorraia, agravada pelo vazamento da barragem do Maranhão, constituir primeira prioridade;..."
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 2105,
+      "speaker": {
+        "id": 1166,
+        "name": "António Fernandes Da Silva Braga",
+        "party": "PS",
+        "string": "O Sr. António Braga (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 2105,
+      "speaker": {
+        "id": 1189,
+        "name": "Luís Manuel Capoulas Dos Santos",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... a adopção de medidas de apoio às autarquias obrigadas a recorrer a soluções excepcionais para abastecimento de água às populações."
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 2106,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 2106,
+      "speaker": {
+        "id": 1189,
+        "name": "Luís Manuel Capoulas Dos Santos",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A situação veio, infelizmente, pôr a nu a total incorrecção da estratégia dos governos do PSD que, convém não esquecer, levam 12 anos - 10 dos quais ininterruptos -, de responsabilidade* directas na concepção e execução da política agrícola, tendo beneficiado de um conjunto de meios financeiros e de condições políticas para introduzir reformas estruturais, antes nem sequer imagináveis.\n\nSem dinheiros comunitários fez mais o Dr. Salazar pelo aproveitamento dos recursos hídricos para fins agrícolas do que os governos do Prof. Cavaco Silva, o que, longe de constituir elogio aos resultados dos Planos de Fomento do Estado Novo, demonstra bem a falta de mérito da governação do PSD nesta matéria."
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 2106,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 2106,
+      "speaker": {
+        "id": 1189,
+        "name": "Luís Manuel Capoulas Dos Santos",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para além de nem sequer ter havido capacidade para proceder à reabilitação dos perímetros de rega existentes (ainda há dias a comunicação social fez eco de opiniões cientificamente credíveis, segundo as quais os actuais sistemas de gestão da água nos perímetros beneficiados pelo Estado desperdiçam 60 % da água utilizada),..."
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 2106,
+      "speaker": {
+        "id": 1166,
+        "name": "António Fernandes Da Silva Braga",
+        "party": "PS",
+        "string": "O Sr. António Braga (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É típico do PSD!"
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 2106,
+      "speaker": {
+        "id": 1189,
+        "name": "Luís Manuel Capoulas Dos Santos",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... os governos do PSD secundarizaram completamento o esforço de investimento neste domínio, como, com toda a frieza, o demonstram os indicadores de execução do mais importante instrumento de intervenção neste campo - o PEDAP.\n\nPor tudo isto, Sr. Presidente e Srs. Deputados, para além dos tristes ensinamentos que a situação ad uai nos permite retirar, porque o fenómeno da seca é cíclico e se reveste de alguma regularidade, impõe-se a urgente adopção das medidas que propomos e doutras que se reconheçam igualmente positivas, mas impõe-se sobretudo uma profunda inflexão política que passe pelo rápido início do estudo, inventariação e aproveitamento dos recursos hídricos nacionais, dando execução, sem demora, a projectos como o do Alqueva ou dos Minutos que, sempre suspensos ou adiados, fazem com que a situação seja agora mais grave e maior o esforço de solidariedade do País para com as zonas e os sectores mais afectados."
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 2106,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para um pedido de esclarecimento, tem a palavra o Sr. Vasco Miguel."
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 2106,
+      "speaker": {
+        "id": 858,
+        "name": "Vasco Francisco Aguiar Miguel",
+        "party": "PSD",
+        "string": "O Sr. Vasco Miguel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Luís Capoulas Santos, lemos assistido, desde há muito, a uma luta entre o Partido Comunista Português e o Partido Socialista no sentido de, efectivamente, saber qual deles apresenta medidas mais reivindicativas para as zonas atingidas pela seca.\n\nOra, a questão que lhe quero pôr prende-se com o facto de estarmos a apreciar um projecto de resolução apresentado pelo Partido Comunista, pelo que a pergunta é muito simples: o Sr. Deputado Luís Capoulas Santos vai votar o projecto de resolução que o Partido Comunista apresentou ou vai votar o seu pseudo-projecto, que acabou de enunciar?\n\nÉ que, efectivamente, o seu é muito mais completo, só que não pode ser votado! Muito concretamente, penso que temos de ter aqui discussões sérias e como está em análise o projecto de resolução do Partido Comunista apenas me interessa saber se os senhores apoiam ou não este projecto de resolução."
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 2106,
+      "speaker": {
+        "id": 1166,
+        "name": "António Fernandes Da Silva Braga",
+        "party": "PS",
+        "string": "O Sr. António Braga (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E vocês?!"
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 2106,
+      "speaker": {
+        "id": 858,
+        "name": "Vasco Francisco Aguiar Miguel",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado a seu (empo irá saber. Aliás, é já de seguida.\n\nÉ que assim os senhores andam a iludir-nos: não querem ficar atrás das propostas do Partido Comunista e este, por seu lado, vem de seguida, com certeza, aqui, com outro normativo porá passar a frente das propostas que o Sr. Deputado agora enunciou. Mas, Srs. Imputados, não «embarcamos» nisso! Não podemos «embarcar» neste tipo de actuação.\n\nNa verdade, compreendemos que a questão da seca é um problema dramático e sério, pelo que não podemos vir aqui fazer parangonas políticas. O que o Sr. Deputado fez e tenho muito respeito por si, pelo que peço desculpa, mas tenho mesmo de o dizer -, foi marginalizar, de certa maneira, o debate que estava em questão, pois tínhamos um projecto de resolução para apreciar e o Sr. Deputado falou de um projecto seu! Aliás, um projecto que, inclusive, não pode ser votado!\n\nPortanto, a sua intervenção não foi séria: reivindicou tudo, mas sem qualquer cabimento neste ponto do debate.\n\nAssim, quero saber, muito concretamente - e é importante que o Sr. Deputado diga a esta Câmara -, se vai votar ou não o projecto de resolução do Partido Comunista, porque o seu, efectivamente, não pode ser votado."
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 2106,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Luís Capoulas santos."
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 2106,
+      "speaker": {
+        "id": 1189,
+        "name": "Luís Manuel Capoulas Dos Santos",
+        "party": "PS",
+        "string": "O Sr. Luís Capoulas Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Vasco Miguel, muito obrigado pela sua questão.\n\nPretendi, com a minha intervenção, introduzir o tom de seriedade que a matéria justifica, pois na qualidade de Deputado pelo círculo de uma das zonas mais afectadas pela seca não poderia deixar de trazer aqui a preocupação, que é uma preocupação crescentemente gritante, de um número progressivo de pessoas ligadas ao sector agrícola, e não só.\n\nQuanto à questão concreta que me colocou, o Sr. Deputado terá oportunidade de saber qual o sentido de voto da bancada do Partido Socialista no momento da votação, naturalmente.\n\nComo teve oportunidade de verificar, há uma zona de interpenetração relativamente a algumas das medidas constantes do projecto de resolução aqui em debate e, obviamente, com essas estaremos de acordo. Mas o sentido principal da minha intervenção consistiu em alertar o Governo que, há mais de dois meses, tem vindo, pura e simplesmente, a enganar o País, anunciando-lhe um conjunto de medidas que está, cada vez mais, demonstrado que não tem qualquer, conteúdo."
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 2107,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Vasco Miguel."
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 2107,
+      "speaker": {
+        "id": 858,
+        "name": "Vasco Francisco Aguiar Miguel",
+        "party": "PSD",
+        "string": "O Sr. Vasco Miguel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: O projecto de resolução n.º 18/VI, da autoria do Partido Comunista Português, sobre medidas de combate à seca, tem como objectivo, à primeira vista, fazer transparecer para a opinião pública uma preocupação acrescida em relação a todas as outras forças políticas de um problema grave, que penso todos estarem perfeitamente conscientes e empenhados na diluição das suas consequências.\n\nA tentativa atrás referida è perfeitamente visível comparando as medidas que aqui foram apresentadas pelo Sr. Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar aquando de uma pergunta feita pelo Sr. Deputado António Campos sobre este mesmo tema. Mas, efectivamente, com algumas alterações para pior, o que nos leva a admitir que se trata de uma má cópia, onde são incluídas uma série de medidas já implementadas e outras tantas que estão aquém do preconizado pelo Governo, não falando já nas que estão perfeitamente contempladas em legislação já existente.\n\nO problema da seca constitui, sem margem alguma de dúvida, uma questão, ou melhor, uma grande preocupação para os agricultores, particularmente os das zonas mais atingidas.\n\nCabe-nos, certamente, lutar ao seu lado no sentido de minorar os seus prejuízos, levando a que o Governo actue com eficácia e prontidão com todos os dispositivos que estiverem ao seu alcance.\n\nSilo sobejamente conhecidas as medidas que o Governo accionou, as que vai accionar e ainda o esforço que neste momento está a lazer para alargar o leque de apoios da Comunidade Europeia, já anteriormente estabelecido no âmbito financeiro e no fornecimento de alimentos.\n\nInúmeras acções já foram realizadas pelas diversas bancadas parlamentares em tomo desta temática; quanta informação já nos foi cuida pelo Governo e pelas associações de agricultores; a Comissão de Agricultura e Mar já visitou as zonas mais atingidas.\n\nPara quê esta tentativa de aproveitamento político, Srs. Deputados do Partido Comunista? A seca não pode servir de bandeira política para ninguém e muito menos como bode expiatório da vossa falta de capacidade para inovar e reorganizar algo de que foram reis e senhores. Este projecto de resolução mostra claramente que estão secos de ideias e de ideais.\n\nPensamos que colaborar na resolução e ler sobre tudo isto uma visão séria é perfeitamente compatível com as nossas competências, é perguntar ao Governo o ponto da situação neste momento, tanto no que diz respeito a uma inventariação global dos prejuízos como sobre a implementação das medidas estabelecidas.\n\nDepois, e só depois, é que poderá haver da nossa parle uma tomada de posição séria e coerente, que pode incluir ou não uma crítica ou um apoio, ou até - porque não - um conjunto de sugestões que complementem, se necessário, tudo o que foi feito.\n\nO Grupo Parlamentar do PSD não embarca em processos demagógicos que tem em vista, única e exclusivamente, uma tentativa de manipulação dos agricultores. Pensamos mesmo que estes métodos já estavam ultrapassados em virtude do pouco que haviam rendido no passado.\n\nSrs. Deputados, vamos continuar alentos ao avançar das medidas e ò respectiva incidência na melhoria da situação, mas para já é nossa opinião que foram oportunas e equilibradas. Como tal, pela nossa parle, esta iniciativa é descabida e sem conteúdo inovador, pelo que não terá o nosso apoio."
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 2107,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveram-se para pedir esclarecimentos os Srs. Deputados Lino de Carvalho e Luís Capoulas Santos.\n\nPara esse efeito, tem a palavra o Sr. Deputado Lino de Carvalho."
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 2107,
+      "speaker": {
+        "id": 1315,
+        "name": "Lino António Marques De Carvalho",
+        "party": "PCP",
+        "string": "O Sr. Lino de Carvalho (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Vasco Miguel, das duas uma: ou leu mal as medidas anunciadas pelo Governo, nomeadamente pelo Sr. Secretário de Estado, quando veio a este Plenário, ou leu mal o projecto de resolução que apresentamos agora!\n\nSr. Deputado, está de acordo que as medidas de combate à seca sejam restringidas a sele concelhos da margem esquerda do rio Guadiana?\n\nEstamos de acordo que esses concelhos são particularmente afectados. Mas são só esses os afectados? E quanto ao resto do Alentejo? E toda a zona do Vale do Sorraia? E a Beira Interior? E Trás-os-Montes?\n\nSr. Deputado, está de acordo que os apoios a compensação de indemnizações por perda das searas se limite aos cereais de Outono/Inverno e com tectos de produtividade que não vão além dos 800-900 kg/ha como base de cálculo? E as culturas de Primavera e de regadio que não venham a ser feitas por falta de água nas albufeiras?\n\nSr. Deputado, está de acordo com a ausência de apoios às autarquias para fazer face aos encargos financeiros acrescidos, que têm de suportar, para abastecer de água as populações? Está de acordo com o facto de, ale ao momento, não terem sido definidas quaisquer medidas de apoio aos trabalhadores rurais desempregados, que devido à falta de trabalho nesse sector vão enfrentar situações inesperadas? Está de acordo com a ausência de comissões de acompanhamento a nível concelhio em que participem as diversas organizações da lavoura?\n\nSr. Deputado, estas são algumas das medidas que propomos e que não vimos registadas nas medidas enunciadas pelo Governo. Além do mais, já lá vão dois meses desde que foi anunciado esse rol genérico de medidas e até ao momento só uma foi implementada: a que antecipou o subsídio à alimentação do gado em metade de uma verba global para um determinado número de concelhos e que ainda não se sabe sequer qual é!...\n\nNós não copiámos. Pelo contrário, antes de o Sr. Secretário de Estado aqui se deslocar e antes de o Governo se pronunciar, fizémos uma intervenção sobre esta matéria onde avançámos o essencial das medidas que agora propomos no projecto de resolução, ou seja, com medidas muito mais amplas e abrangentes."
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 2108,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Luís Capoulas Santos."
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 2108,
+      "speaker": {
+        "id": 1189,
+        "name": "Luís Manuel Capoulas Dos Santos",
+        "party": "PS",
+        "string": "O Sr. Luís Capoulas Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Vasco Miguel, lendo em atenção a escassez do tempo, gostaria de colocar-lhe com toda a frontalidade duas questões.\n\nEm primeiro lugar, gostava de saber se considera que as medidas anunciadas e o grau de pormenorização efectuado até este momento são respostas satisfatórias para a ansiedade e para o desespero de milhares e milhares de agricultores do nosso país.\n\nSr. Deputado, tendo em atenção o cancelamento, há 12 anos, do projecto do Alqueva, e dado o significado que tem para a reconversão de uma vasta região que, desde então, não tem deixado de ver aumentada significativamente a sua desertificação física e humana, gostaria de saber se o PSD, como tudo indica, vai finalmente desbloquear o processo e se pensa que não há uma responsabilidade política já que as gerações vindouras terão de pagar por um adiamento que se repercutirá por mais de uma década, pois a conclusão das obras demorará cerca de duas se se iniciarem desde já."
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 2108,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o desejar, tem a palavra o Sr. Deputado Vasco Miguel."
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 2108,
+      "speaker": {
+        "id": 858,
+        "name": "Vasco Francisco Aguiar Miguel",
+        "party": "PSD",
+        "string": "O Sr. Vasco Miguel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Começo por agradecer as questões que me colocaram, mas não posso deixai de dizer que o Sr. Deputado Lino de Carvalho mais não fez do que enunciar o já conhecido rosário de perguntas de sempre quando aqui se fala da problemática da seca.\n\nNa verdade, Sr. Deputado, não conheço nenhuma disposição legal que consagre que as ajudas vão ser restritas às zonas mais afectadas da margem esquerda do Guadiana, embora se dê prioridade as zonas mais debilitadas que, em nossa opinião, são precisamente essas. Certamente o Sr. Deputado concorda com esta medida.\n\nGostaria ainda de salientar que, em meu entender, o Sr. Deputado fez mal as contas no projecto que aqui apresentou, que se prendia com as indemnizações para cobrir os prejuízos sofridos pelas searas, incluindo os cereais não abrangidos pelos apoios comunitários, como as aveias e as oleaginosas, na base da área semeada e da média da produtividade do último triénio. Não queira prejudicar os agricultores!\n\nMas, já agora, posso informá-lo que a média do último triénio foi de 1600 kg/ha e a proposta do Governo é de 2000 kg/ha. Esta é uma questão que me parece bastante importante.\n\nPor outro lado, Sr. Deputado, também não diga que não foi nada feito, que as suas medidas é que estão correctas e que tudo está por implementar, pois o Sr. Deputado sabe que no Conselho de Ministros de 19 de Março foi dada autorização para o pastoreamento ou corte das searas perdidas para o gado sem perda de subsídio à produção de cereais.\n\nO Sr. Deputado também referiu algumas soluções para os problemas que se levantam com a questão da seca e que se prendem com a legislação já existente. Remeto-o, por exemplo, para a lei do arrendamento no que diz respeito à não rescisão de contratos de arrendamento quando o não cultivo da terra se deva à seca. E poderia ainda remetê-lo para outras disposições."
+    },
+    {
+      "utterance_id": 166,
+      "order": 166,
+      "page_start": 2108,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Lino Carvalho (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Responda às questões que lhe coloquei!"
+    },
+    {
+      "utterance_id": 167,
+      "order": 167,
+      "page_start": 2108,
+      "speaker": {
+        "id": 858,
+        "name": "Vasco Francisco Aguiar Miguel",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Na verdade, ouvimos um rosário de questões. Não ponho em causa a sua preocupação quanto à questão da seca, aliás, nunca foi minha intenção fazê-lo, mas o que me parece é que falamos vezes demais da seca sem ter dados concretos da realidade. E estou já a reportar-me à questão colocada pelo Sr. Deputado Luís Capoulas Santos, que tem a ver com a inventariação da situação neste momento. \nO Sr. Deputado Luís Capoulas Santos sabe exactamente quid é, neste momento, o ponto da situação no que diz respeito à concretização das medidas que foram implementadas pelo Governo? Duvido que saiba, Sr. Deputado!\n\nPenso que este debate só seria sério depois de sabermos exactamente qual é o ponto da situação, pois não me parece correcto virmos aqui falar da seca sem conhecer a realidade que se vive actualmente. Já se fala da seca há muito mais tempo, pois até no último debate que aqui travámos, e que teve a ver com Bruxelas, foram discutidos muitos aspectos e apresentadas propostas - por acaso o Partido Socialista não apresentou nenhuma, mas até podia ter apresentado, não é isso que está aqui em causa agora - que fazem parle do documento que emanou do Parlamento Europeu para a Comissão e para o Conselho. Mas, neste momento, tudo se reporta apenas a um simples comentário: querem ter a dianteira na questão das secas. Quem é que, efectivamente, oferece mais aos agricultores? Nós não vamos nisso, Srs. Deputados!\n\nNo que diz respeito ao Alqueva, o Sr. Deputado Luís Capoulas Santos admite que um projecto da envergadura do Alqueva se possa fazer sem um estudo efectivo e concreto?"
+    },
+    {
+      "utterance_id": 168,
+      "order": 168,
+      "page_start": 2108,
+      "speaker": {
+        "id": 1189,
+        "name": "Luís Manuel Capoulas Dos Santos",
+        "party": "PS",
+        "string": "O Sr. Luís Capoulas Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Demoraram 10 anos a estudar!"
+    },
+    {
+      "utterance_id": 169,
+      "order": 169,
+      "page_start": 2108,
+      "speaker": {
+        "id": 858,
+        "name": "Vasco Francisco Aguiar Miguel",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, antes de o PSD ser governo, já o PS tinha sido e nunca os Deputados do PSD aqui levantaram essa questão da responsabilidade nem nunca vos atribuímos qualquer responsabilidade por não lerem elaborado um projecto para o Alqueva.\n\nMas os Srs. Deputados estão agora a falar no Alqueva e só costumam falar nas coisas quando elas se vão concretizar. Ora, penso que isso agradável, pois pode ser que consigam, realmente, transmitir à opinião pública essa ideia de que foram os Srs. Deputados do Partido Socialista que alertaram o Governo para essas coisas. Na verdade, parece que está em vias de resolução o problema do Alqueva, tal qual os Srs. Deputados preconizam, e talvez nós também! Não me compele a mim falar sobre isso. Não é essa a questão que aqui me trouxe, mas, com certeza, vamos ter ainda oportunidade de falar muito sobre essa questão do Alqueva.\n\nDe qualquer maneira, não me parece justo vir aqui falar no Alqueva e não dizer, com seriedade, com lisura, que, efectivamente, o projecto do Alqueva não pode ser des-"
+    },
+    {
+      "utterance_id": 170,
+      "order": 170,
+      "page_start": 2109,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "O Alqueva já tem barbas!"
+    },
+    {
+      "utterance_id": 171,
+      "order": 171,
+      "page_start": 2109,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ferraz de Abreu (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "O projecto do Alqueva começou antes do 25 de Abril e quem o suspendeu não foi o Partido Socialista."
+    },
+    {
+      "utterance_id": 172,
+      "order": 172,
+      "page_start": 2109,
+      "speaker": {
+        "id": 858,
+        "name": "Vasco Francisco Aguiar Miguel",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Srs. Deputados, a questão da seca é mais uma questão com que o Partido Socialista costuma divertir-se, mas nós levamos as coisas a sério e somos incapazes de fazer apartes como os que estão a surgir da bancada do Partido Socialista.\n\nPenso que tudo tem de ser feito com dignidade e na altura devida."
+    },
+    {
+      "utterance_id": 173,
+      "order": 173,
+      "page_start": 2109,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, peco-lhe para concluir a sua resposta."
+    },
+    {
+      "utterance_id": 174,
+      "order": 174,
+      "page_start": 2109,
+      "speaker": {
+        "id": 858,
+        "name": "Vasco Francisco Aguiar Miguel",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, vou concluir dizendo o seguinte: tratar do problema da seca com o PSD só se houver apoio e um inventário concreto do ponto da situação. Vir aqui com projectos de lei só para tomar dianteiras e apanhar comboios em andamento, será bom que saibam que o PSD não embarca nisso!"
+    },
+    {
+      "utterance_id": 175,
+      "order": 175,
+      "page_start": 2109,
+      "speaker": {
+        "id": 1315,
+        "name": "Lino António Marques De Carvalho",
+        "party": "PCP",
+        "string": "O Sr. Lino de Carvalho (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O PSD é que fica sempre na estação!"
+    },
+    {
+      "utterance_id": 176,
+      "order": 176,
+      "page_start": 2109,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, esgotaram-se as inscrições e também o tempo de quase todos os grupos parlamentares para o debate desta matéria relativa as medidas de combate à seca Declaro, por isso, encerrado o debate.\n\nA votação dos projectos de resolução n.ºs 16/VI e 18/VI, que foram discutidos, será realizada na próxima terça-feira.\n\nA nossa próxima reunião plenária terá lugar na quinta-feira, às 15 horas, e terá como ordem do dia a interpelação ao Governo n.º 5/VI (CDS), sobre política geral, com incidência na solidariedade institucional e do cumprimento das competências do Governo da República quanto às Regiões Autónomas.\n\nEntretanto, votar-se-á, também na quinta-feira, à hora regimental, o parecer da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias sobre o recurso interposto da decisão do Presidente da Assembleia da República de admitir o projecto de lei n.º 147/VI (CDS), sobre a lei da greve.\nEstá encerrada a sessão."
+    }
+  ]
+}

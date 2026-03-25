@@ -1,0 +1,922 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "6",
+    "legislative_session": "2",
+    "number": "38",
+    "date": "1993-02-11"
+  },
+  "debate_id": "r3_6_2_38_1993-02-11",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 1374,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.\nEram 15 horas e 30 minutos.\nEstavam presentes os seguintes Srs. Deputados:\nPartido Social-Democrata (PSD):\nAbílio Sousa e Silva.\n\nAdérito Manuel Soares Campos.\n\nAdriano da Silva Pinto.\n\nAlberto Cerqueira de Oliveira.\n\nAlberto Monteiro de Araújo.\n\nAna Paula Matos Barros.\n\nAnabela Honório Matias.\n\nAntónio Costa de Albuquerque de Sousa Lara.\n\nAntónio da Silva Bacelar.\n\nAntónio de Carvalho Martins.\n\nAntónio do Carmo Branco Malveiro.\n\nAntónio Esteves Morgado.\n\nAntónio Germano Fernandes de Sá e Abreu.\n\nAntónio Joaquim Correia Vairinhos.\n\nAntónio José Barradas Leitão.\n\nAntónio Manuel Fernandes Alves.\n\nAntónio Maria Pereira.\n\nAntónio Moreira Barbosa de Melo.\n\nAristides Alves do Nascimento Teixeira.\n\nArlindo da Silva André Moreira.\n\nArménio dos Santos. \n\nBelarmino Henriques Correia.\n\nCarlos Alberto Lopes Pereira.\n\nCarlos de Almeida Figueiredo.\n\nCarlos Filipe Pereira de Oliveira.\n\nCarlos Lélis da Câmara Gonçalves.\n\nCarlos Manuel de Oliveira da Silva. \n\nCarlos Manuel Duarte de Oliveira. \n\nCarlos Manuel Marta Gonçalves.\n\nCarlos Miguel de Valleré Pinheiro de Oliveira.\n\nCarlos Miguel Maximiano de Almeida Coelho.\n\nCecília Pita Catarino.\n\nCipriano Rodrigues Martins.\n\nDelmar Ramiro Palas.\n\nEduardo Alfredo de Carvalho Pereira da Silva.\n\nEma Maria Pereira Leite Lóia Paulista.\n\nFernando Carlos Branco Marques de Andrade.\n\nFernando dos Reis Condesso.\n\nFernando José Russo Roque Correia Afonso.\n\nFrancisco Antunes da Silva.\n\nFrancisco João Bernardino da Silva.\n\nGuido Orlando de Freitas Rodrigues.\n\nGuilherme Henrique Valente Rodrigues da Silva.\n\nHilário Torres Azevedo Marques.\n\nIsilda Maria Renda Periquito Pires Martins.\n\nJaime Gomes Mil-Homens.\n\nJoão Alberto Granja dos Santos Silva.\n\nJoão do Lago de Vasconcelos Mota.\n\nJoão Domingos Fernandes de Abreu Salgado.\n\nJoão Eduardo Dias Madeira Gouveia.\n\nJoão Granja Rodrigues da Fonseca.\n\nJoão José da Silva Maçãs.\n\nJoão José Pedreira de Matos.\n\nJoão Manuel dos Santos Henriques.\n\nJoão Maria Leitão de Oliveira Martins.\n\nJoaquim Cardoso Martins.\n\nJoaquim Eduardo Gomes.\n\nJoaquim Manuel Pereira de Almeida e Silva.\n\nJoaquim Maria Fernandes Marques.\n\nJoaquim Vilela de Araújo.\n\nJorge Paulo de Seabra Roque da Cunha.\n\nJosé Alberto Puig dos Santos Costa.\n\nJosé Álvaro Machado Pacheco Pereira.\n\nJosé António Peixoto Lima.\n\nJosé Augusto Santos da Silva Marques.\n\nJosé de Almeida Cesário.\n\nJosé Fortunato Freitas Costa Leite.\n\nJosé Júlio Carvalho Ribeiro.\n\nJosé Leite Machado.\n\nJosé Macário Custódio Correia.\n\nJosé Manuel Borregana Meireles.\n\nJosé Manuel da Silva Costa.\n\nJosé Manuel Nunes Liberato.\n\nJosé Mário de Lemos Damião.\n\nLuís António Carrilho da Cunha.\n\nLuís António Martins.\n\nLuís Filipe Garrido Pais de Sousa.\n\nLuís Manuel Costa Geraldes.\n\nManuel Acácio Martins Roque.\n\nManuel Antero da Cunha Pinto.\n\nManuel Castro de Almeida.\n\nManuel da Costa Andrade.\n\nManuel da Silva Azevedo.\n\nManuel de Lima Amorim.\n\nManuel Filipe Correia de Jesus.\n\nManuel Joaquim Baptista Cardoso.\n\nManuel Maria Moreira.\n\nManuel Simões Rodrigues Marques. \n\nMaria da Conceição Figueira Rodrigues.\n\nMaria da Conceição Ulrich de Castro Pereira.\n\nMaria de Lurdes Borges Póvoa Costa.\n\nMaria José Paulo Caixeiro Barbosa Correia.\n\nMaria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.\n\nMaria Luísa Lourenço Ferreira. \n\nMaria Manuela Aguiar Dias Moreira. \n\nMaria Margarida da Costa e Silva Pereira Taveira de Sousa.\n\nMarília Dulce Coelho Pires Morgado Raimundo.\n\nMário Jorge Belo Maciel. \n\nMelchior Ribeiro Pereira Moreira. \n\nMiguel Bento Martins da Costa de Macedo e Silva. \n\nMiguel Fernando Cassola de Miranda Relvas. \n\nNuno Francisco Fernandes Delerue Alvim de Matos. \n\nNuno Manuel Franco Ribeiro da Silva. \n\nOlínto Henrique da Cruz Ravara. \n\nPedro António de Bettencourt Gomes. \n\nPedro Domingos de Souza e Holstein Campilho. \n\nPedro Manuel Mamede Passos Coelho. \n\nRui Alberto Limpo Salvada. \n\nRui Carlos Alvarez Carp. \n\nRui Fernando da Silva Rio. \n\nRui Manuel Lobo Gomes da Silva. \n\nVasco Francisco Aguiar Miguel. \n\nVirgílio de Oliveira Carneiro. \n\nVítor Manuel da Igreja Raposo. \nPartido Socialista (PS):\nAlberto Bernardes Costa.\n\nAlberto de Sousa Martins. \n\nAlberto Manuel Avelino.\n\nAlberto Marques de Oliveira e Silva."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 1375,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o Sr. Secretário vai dar conta dos diplomas que deram entrada na Mesa."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 1375,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (João Salgado)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados: Deram entrada na Mesa, e foram admitidos, o projecto de lei n.º 25S/VI - Criação da freguesia de Tamaga no concelho de Ponte de Sor (PCP), que baixou à 6.ª Comissão, e a ratificação n.º 60/VI - Decreto-Lei n.º 251 93, de S de Fevereiro, que institui medidas especiais de apoio ao sector dos despachantes oficiais.\n\nNas últimas reuniões plenárias, foram apresentados à Mesa os seguintes requerimentos: ao Governo, formulados pelos Srs. Deputados Nogueira de Brito, Manuel Sérgio, Carlos Luis, Isilda Martins, Mário Tomé, José Magalhães e Macário Correia; ao Ministério da Justiça, formulados peio Sr. Deputado Alberto Costa; ao Ministério do Emprego e da Segurança Social, formulados pelos Srs. Deputados Manuel Sérgio, Mário Tomé, Apolónia Teixeira e Odete Santos; ao Ministério das Obras Públicas, Transportes e Comunicações, formulados pelos Srs. Deputados Jorge Paulo Cunha, Macário Correia e Isilda Martins; ao Ministério da Administração Interna, formulado pelo Sr. Deputado Francisco Martins; ao Ministério do Planeamento e da Administração do Território, formulado pelo Sr. Deputado José Silva da Costa; ao Ministério do Mar, formulado pelo Sr. Deputado Filipe Abreu; ao Ministério da Agricultura, formulado pelo Sr. Deputado José Silva da Costa; ao Ministério do Ambiente e Recursos Naturais, formulados pelos Srs. Deputados Adérito Campos e Apolónia Teixeira; ao Ministério da Educação, formulados pelos Srs. Deputados Sousa Lara e Julieta Sampaio; à Secretaria de Estado da Cultura, formulado pela Sr.ª Deputada Isilda Martins; às Câmaras Municipais de Faro e Aljezur, formulados pelo Sr. Deputado Macário Correia.\n\nEntretanto, o Governo respondeu aos requerimentos apresentados pelos seguintes Srs. Deputados: Luís Peixoto, na sessão de 12 de Maio; Lino de Carvalho, na sessão de 12 de Junho; João Granja da Fonseca, na sessão de 16 de Outubro; Manuel Sérgio, na sessão de 2 de Dezembro; António Barradas Leitão, na sessão de 3 de Dezembro; Fernando Pereira Marques, na sessão de 12 de Janeiro; e António Alves, na sessão de 21 de Janeiro."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 1375,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o período de antes da ordem do dia de hoje inclui uma declaração política do Partido Ecologista Os Verdes. Para esse efeito, tem a palavra o Sr. Deputado André Martins."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 1375,
+      "speaker": {
+        "id": 1719,
+        "name": "André Valente Martins",
+        "party": "PEV",
+        "string": "O Sr. André Martins (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Com inegável perspectiva de futuro, na sequência da grave crise económica e social que se abateu sobre a península de Setúbal na primeira metade da década"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 1377,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Fernando de Sousa."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 1377,
+      "speaker": {
+        "id": 652,
+        "name": "Fernando Alberto Pereira De Sousa",
+        "party": "PS",
+        "string": "O Sr. Fernando de Sousa (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente. Srs. Deputados: Nos últimos meses temos assistido a uma discussão e ampla confusão, a nível nacional, sobre o novo sistema de avaliação do ensino básico, instituído pelo Despacho n.º 98-A/92.\n\nEm traços gerais, as principais mudanças introduzida» por este sistema de avaliação vão no sentido do reforço da avaliação formativa, do reforço do papel dos alunos e encarregados de educação, do desenvolvimento dos sistemas de apoio e complementos educativos para os alunos que se debatem com dificuldades, do carácter dual da certificação e da avaliação aferida do sistema de ensino.\n\nAnalisemos, criticamente, estas componentes do novo sistema de avaliação.\n\nCertamente que concordamos com o reforço da avaliação formativa, transformada «na principal modalidade de avaliação do ensino básico». A avaliação deve incidir, com efeito, sobre os conhecimentos adquiridos pelos alunos, mas também sobre «as competências e capacidades que desenvolvem, as atitudes e valores que demonstram».\n\nTendo em consideração a progressão normal dos alunos, numa perspectiva formativa, o professor tem de adaptar a execução do programa as capacidades reveladas pelos alunos, arriscando-se, assim, a não cumprir esse mesmo programa.\n\nMas o professor, para, progredir na sua carreira, tem de cumprir os programas. Como conciliar, assim, a avaliação formativa com a dimensão exagerada dos programas?\n\nComo compatibilizar a avaliação formativa com as escolas superlotadas, a dimensão excessiva das turmas, os reduzidos espaços das salas de aulas, os horários escolares inadequados e rígidos, os programas que importa cumprir a todo o custo, a inexistência dos indispensáveis recursos educativos, enfim a escassez dos meios de ensino, que nem sequer estão concebidos, para uma pedagogia activa e diferenciada?\n\nComo é que os professores, com mais de 200 e 300 alunos num dado ano lectivo, podem diversificar os instrumentos de avaliação?\n\nTendo em atenção a excessiva carga lectiva dos alunos, em média, vinte e quatro horas por semana, como arranjar tempo para a formação integral e, para as actividades desenvolvidas no âmbito da área-escola, um dos aspectos inovadores da reforma educativa?\n\nO diploma prevê que cada, escola é responsável pelo sucesso escolar dos seus alunos e que no processo de avaliação devem intervir os professores, alunos, encarregados de educação e, - mesmo, os psicólogos e orientadores escolares.\n\nComo é que os encarregados de educação podem intervir se nem sequer conhecem este novo sistema de avaliação nem foram preparados para ele? E como é que os serviços de psicologia e de educação especial vão participar nesse processo se tais serviços, pura e simplesmente, ainda não existem?\n\nA igualdade de oportunidades, o direito ao acesso e ao sucesso no ensino básico não são conseguidos se os alunos forem tratados da mesma maneira. Se assim se proceder apenas se conseguem aumentar as desigualdades que se verificam no momento da sua entrada no sistema escolar.\n\nDe todas as medidas previstas no novo sistema de avaliação, as medidas de apoio e complemento educativo são aquelas que maior influência terão na organização das escolas e do seu ensino, exigindo planificação adequada e recursos materiais e humanos consideráveis. Qualquer plano de actividades da escola, qualquer organização dos espaços e horários tem de ter em linha de conta a área-escola, as actividades de complemento curricular e também os apoios e complementos educativos.\n\nAssim sendo, perguntamos: quem vai garantir a execução de tais programas de apoio e complemento educativo? O professor? Que tempo tem disponível, se as horas compreendidas entre o seu horário lectivo (vinte e duas horas) e as trinta e cinco horas que o Ministério da Educação afirma competirem-me são destinadas, segundo o referido Ministério, para a formação contínua?\n\nQuais os espaços e horas disponíveis para tais programas?\n\nE o aluno? Vai ser obrigado a permanecer trinta ou trinca e cinco horas semanais na escola?\n\nQuais os meios postos a disposição das escolas para desenvolverem este tipo de acções, se muitas vezes nem as folhas de papel existem em quantidades suficientes?\n\nA retenção só, pode ter um carácter excepcional, como pretende o despacho, se funcionarem estes sistemas de"
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 1378,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 1378,
+      "speaker": {
+        "id": 652,
+        "name": "Fernando Alberto Pereira De Sousa",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O novo sistema prevê ainda a avaliação aferida do sistema de ensino. Concordamos com a avaliação aferida do sistema, mas defendemos igualmente uma avaliação aferida dos alunos, a nível nacional, à semelhança, afinal, do que se passa por toda a Europa e que nada tem a ver com os clássicos e ultrapassados exames.\n\nEmbora considerando a selecção um mal necessário, a avaliação formativa não é incompatível com a avaliação sumativa, a qual, aliás, faz parte inevitavelmente de todo o sistema educativo, do ensino de qualidade que se pretende, sob pena de estarmos a preparar os nossos jovens para continuarem a ser a mão-de-obra barata da Europa.\n\nSr. Presidente e Srs. Deputados: Ninguém está satisfeito, com as actuais taxas de abandono e de insucesso escolar, demasiado elevadas para que possamos falar de Portugal como uma democracia de sucesso. Mas os factores mais importantes do insucesso e abandono escolares - há que reconhecê-lo! - são exteriores à própria escola.\n\nNa ausência de verdadeiras medidas que urge tomar para combater o insucesso e o abandono escolar, o novo sistema de avaliação só pode ser interpretado como um triste expediente para, de forma administrativa, reduzir em poucos anos, artificialmente, a vergonha nacional do insucesso escolar."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 1378,
+      "speaker": {
+        "id": 1166,
+        "name": "António Fernandes Da Silva Braga",
+        "party": "PS",
+        "string": "O Sr. António Braga (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 1378,
+      "speaker": {
+        "id": 652,
+        "name": "Fernando Alberto Pereira De Sousa",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Ministério da Educação deve reconhecer com humildade que errou, que houve precipitação no lançamento deste novo sistema de avaliação sem ouvir os professores nem sensibilizar os pais, sem garantir às escolas os meios indispensáveis para a sua aplicação. Portanto, perguntamos se não seria mais prudente suspender a sua aplicação, pelo menos, no presente ano lectivo, sob pena de se desencadearem receios e oposições por parte de todos os agentes educativos.\n\nÀ semelhança do que está a acontecer com o novo modelo de gestão, este sistema de avaliação deverá ser testado, primeiramente, nalgumas escolas representativas do todo nacional, depois de preparados os professores e os encarregados de educação e após a concessão a essas escolas dos meios indispensáveis à prossecução dos objectivos que se pretendem atingir com tal sistema. Só depois de avaliar os resultados desta experiência é que deveria implementar-se uma avaliação adequada ao nosso ensino básico, uma avaliação simples, equitativa, razoável e inteligível, que tivesse em conta a verdadeira situação da realidade educativa portuguesa.\n\nOs professores, os pais querem a mudança; sabem que a avaliação tradicional impede a renovação indispensável das práticas pedagógicas; sabem que a renovação, a reforma, a inovação, são urgentes. Mas sabem, antes de tudo, que a mudança passa por uma nova escola.\n\nMudar a avaliação é mudar a escola. Sem mudar a escola, como é que se pretende mudar a avaliação?"
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 1378,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Carlos Coelho."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 1378,
+      "speaker": {
+        "id": 418,
+        "name": "Carlos Miguel Maximiano De Almeida Coelho",
+        "party": "PSD",
+        "string": "O Sr. Carlos Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Fernando de Sousa, V. Ex.ª fez uma intervenção que nos merece três considerações. À primeira, quanto à sua intenção política. Ficámos na dúvida sobre se o Sr. Deputado estava a dirigir-se à Câmara ou ao Partido Socialista,..."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 1378,
+      "speaker": {
+        "id": 614,
+        "name": "Armando António Martins Vara",
+        "party": "PS",
+        "string": "O Sr. Armando Vara (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ora essa!"
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 1378,
+      "speaker": {
+        "id": 418,
+        "name": "Carlos Miguel Maximiano De Almeida Coelho",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... de tal forma são diferentes os discursos sobre esta matéria vindos de técnicos com reputação na área socialista e até de Deputados com assento nesta Câmara. Não estamos, portanto, a falar de discursos diferentes de quaisquer socialistas, mas de pessoas com responsabilidades e, desde logo, com a responsabilidade de dar expressão às posições do Partido Socialista na Assembleia da República.\n\nSeria conveniente esclarecer esta questão essencial, Sr. Deputado Fernando de Sousa: o discurso que V. Ex.ª fez é o discurso do PS, de uma parte do PS, destinava-se a uniformizar os discursos que o Partido Socialista tem feito sobre a matéria ou trata-se de uma reflexão - aliás, interessantíssima - dirigida aos Deputados aqui presentes?"
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 1378,
+      "speaker": {
+        "id": 1166,
+        "name": "António Fernandes Da Silva Braga",
+        "party": "PS",
+        "string": "O Sr. António Braga (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Essa questão é mesmo pertinente!..."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 1378,
+      "speaker": {
+        "id": 418,
+        "name": "Carlos Miguel Maximiano De Almeida Coelho",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É muito pertinente, Sr. Deputado António Braga, porque, quando os discursos são muitos, ficamos na dúvida sobre que PS está a falar. Compreenderá que é uma dúvida legítima!"
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 1378,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 1378,
+      "speaker": {
+        "id": 418,
+        "name": "Carlos Miguel Maximiano De Almeida Coelho",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em segundo lugar, Sr. Deputado Fernando de Sousa, V. Ex.ª referiu-se à avaliação aferida e registo o elogio feito ao modelo adoptado na parte em que ele pode e deve ter um contributo essencial para avaliarmos a eficácia do sistema e a performance das escolas. Mas foi mais longe, pois considerou que essa avaliação aferida deve ter consequências na avaliação dos estudantes. Aliás, usou uma expressão que nos pareceu muito curiosa quando disse «que esta avaliação aferida não tem nada a ver com os exames nacionais».\n\nO Sr. Deputado Fernando de Sousa jogou à defesa porque, como se recorda, quando o ilustríssimo Deputado Guilherme Oliveira Martins deu uma conferência de imprensa sobre a matéria, na qual esteve presente V. Ex.ª bem como o Deputado António Braga, alguns Deputados socialistas disseram que essa posição era de direita ou"
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 1379,
+      "speaker": {
+        "id": 1166,
+        "name": "António Fernandes Da Silva Braga",
+        "party": "PS",
+        "string": "O Sr. António Braga (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Já vai ouvir!\nO Orador - Finalmente, Sr. Presidente e Srs. Deputados, a concluir, o Sr. Denotado Fernando de Sousa, em bom rigor, não desmontou o novo sistema de avaliação! Disse que era difícil com os horários que temos, com as escolas que possuímos, com os recursos de que dispomos, com a dimensão das turmas existentes no actual sistema educativo... Ou seja, enumerou dificuldades, das quais estamos perfeitamente conscientes, mas à questão de fundo, à maneira como olhamos para os estudantes, para os alunos, para o progresso na aprendizagem, a essa o Sr. Deputado não se referiu!\n\nÉ particularmente na escolaridade obrigatória, cujo cumprimento entendemos que deve ser universalizado - e julgo que o Sr. Deputado concordará com certeza com essa posição -, que o problema se coloca. Importa saber se, perante um aluno que tem dificuldades de aprendizagem, a reacção do sistema deve ser imediata, administrativa, de exclusão - «este senhor não está em condições, deve ficar para trás» - ou se deve fazer-se uma leitura positiva de modo que às dificuldades de aprendizagem corresponda um esforço pedagógico reforçado no sentido do progresso do sucesso educativo. Esta é a quentão de fundo do novo sistema de avaliação em relação à qual não me pareceu ser clara a posição do PS."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 1379,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!\n\nO Sr. Presidente - Para responder, tem a palavra o Sr. Deputado Fernando de Sousa."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 1379,
+      "speaker": {
+        "id": 652,
+        "name": "Fernando Alberto Pereira De Sousa",
+        "party": "PS",
+        "string": "O Sr. Fernando de Sousa (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente e Sr. Deputado Garfos Coelho, a posição do PS é certamente a que acabei de transmitir e que também foi expressa na semana passada numa conferência de imprensa, conforme referiu. Pertencendo eu à direcção do PS e desempenhando o cargo de secretário nacional para a Educação, o Sr. Deputado há-de concordar que assumi aqui a posição que a direcção do partido defende sobre esta matéria.\n\nCertamente que achamos necessária a avaliação aferida do sistema, mas também pensamos que se torna necessário efectuar a avaliação aferida dos estudantes. Numa altura em que, por toda a Europa, a avaliação aferida dos estudantes está a desenvolver-se cada vez mais no sentido do rigor e da exigência, porque ò futuro e a terceira revolução industrial em curso exigem um ensino de qualidade, mau seria admitir apenas uma avaliação aferida do sistema e não dos estudantes, designadamente, face ao ensino de qualidade que todos pretendemos.\n\nSe neste momento o certificado e v diploma permitem a existência de cidadãos de primeira e de segunda, no caso de essa avaliação aferida não se verificar a nível nacional, arriscamo-nos a ter escolas de primeira e de segunda, escotas em regiões que nada cumprem e escolas em regiões que cumprem, escolas em áreas cujos alunos são oriundos de determinados estratos sociais e onde tudo corre bem e escolas em áreas cujos alunos, sendo oriundos de estratos sociais mais desfavorecidos, vêem que tudo irá correr mal."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 1379,
+      "speaker": {
+        "id": 418,
+        "name": "Carlos Miguel Maximiano De Almeida Coelho",
+        "party": "PSD",
+        "string": "O Sr. Carlos Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os dados não apontam para isso. Não é rigorosa essa afirmação!"
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 1379,
+      "speaker": {
+        "id": 418,
+        "name": "Carlos Miguel Maximiano De Almeida Coelho",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Finalmente, Sr. Deputado Carlos Coelho, defendemos a utopia como um sistema filosófico para o futuro e não na educação que está a preparar os nossos jovens para serem, amanhã, uns profissionais responsáveis."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 1379,
+      "speaker": {
+        "id": 418,
+        "name": "Carlos Miguel Maximiano De Almeida Coelho",
+        "party": "PSD",
+        "string": "O Sr. Carlos Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "São os conservadores do sistema!"
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 1379,
+      "speaker": {
+        "id": 418,
+        "name": "Carlos Miguel Maximiano De Almeida Coelho",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Teoricamente, poderíamos dizer que não encontramos objecções de fluido a este novo sistema de avaliação."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 1379,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 1379,
+      "speaker": {
+        "id": 418,
+        "name": "Carlos Miguel Maximiano De Almeida Coelho",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Porém, ele não pode ser aplicado, hoje em dia, ao sistema educativo português, ao ensino básico. Os conselhos pedagógicos de grande parte das escolas que estão a proceder - não direi a este novo sistema de avaliação, porque ainda não começou a ser aplicado directamente nas escolas - à avaliação dos alunos ainda pelo método antigo têm feito chegar as suas posições ao Ministério, nas quais reconhecem que, na prática, este sistema não é viável se não forem dadas condições à escola. Nunca será deste modo que o problema do insucesso escolar se resolverá, porque, como todos sabemos, a resolução do insucesso escolar não reside apenas e tão-só num novo sistema de avaliação."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 1379,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Mário Maciel."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 1379,
+      "speaker": {
+        "id": 1112,
+        "name": "Mário Jorge Belo Maciel",
+        "party": "PSD",
+        "string": "O Sr. Mário Maciel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Pedi a palavra para consubstanciar um apelo pessoal ao Governo subordinado ao tema «Preservemos a jazida de iconofósseis ou pegadas de dinossauros em Carenque no concelho de Sintra».\n\nTrata-se da descoberta mais sensacional e importante no género em Portugal: é uma pista com mais de 100 m de icnitos ou pegadas de dinossauros, ao que parece, de um herbívoro quadrúpede, talvez de um saurópode de grande corpulência, e de um carnívoro bípede. Essas pegadas cruzam-se numa extensa pista que já foi classificada por especialistas de renome mundial como sendo a mais importante na Europa e das mais importantes no mundo inteiro.\n\nEm 1986, dois jovens estudantes da Faculdade de Ciências, em trabalho de campo devido ao estágio em Geologia, encontravam-se nessa zona e tiveram a felicidade - que, certamente, irão recordar durante toda a sua vida - de descobri-la. De imediato, o reputado geólogo português Prof. Galopim de Carvalho, ilustre director do Museu Nacional de Historia Natural, desenvolveu um enorme esforço junto da autarquia de Sintra e do Governo para que esse local fosse preservado."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 1380,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 1380,
+      "speaker": {
+        "id": 1112,
+        "name": "Mário Jorge Belo Maciel",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Há momentos da nossa vida - e todos nós já os tivemos - em que o dinheiro não é o mais importante, como, por exemplo, salvar uma vida. Este é um caso em que o dinheiro não é o mais importante, mas não é o único exemplo. Salvar, por exemplo, uma relíquia do passado, seja ela artística, tenha ela natureza arquitectónica - uma escultura, uma pintura -, ou natureza ambiental, portanto, natural, como é uma jazida paleontológica com repercussão mundial. Logo, Sr. Presidente e Srs. Deputados, para salvar uma relíquia destas todas as cifras são irrisórias. Aqui fica, pois, o meu apelo!\n(O orador reviu.)"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 1380,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Mário Maciel, a Mesa vai extrair a sua intervenção do Diário da Assembleia da República e enviá-la, expressamente, aos Srs. Ministros das Obras Públicas, Transportes e Comunicações, do Ambiente e Recursos Naturais e das Finanças."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 1380,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD e do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 1380,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Com este gesto pretendo simbolizar o meu apoio à resolução desse caso.\n\nSrs. Deputados, informo que se encontram presentes nas galerias alunos, jovens estudantes - dirigentes da geração futura, e é para o futuro que este património deve ser preservado - da Escola Secundária da Cidade Univer-"
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 1381,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Octávio Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Mário Maciel, em primeiro lugar, gostaria de associar-me ao conteúdo da sua intervenção, no sentido da defesa da pista de dinossauros, que há pouco referia."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 1381,
+      "speaker": {
+        "id": 1112,
+        "name": "Mário Jorge Belo Maciel",
+        "party": "PSD",
+        "string": "O Sr. Mário Maciel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 1381,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Aliás, aproveito também para me solidarizar e dar, digamos, o meu acordo, embora neste momento não seja necessário, à decisão tomada pelo Sr. Presidente da Assembleia da República no anúncio há pouco feito de enviar o extracto da sua intervenção para o Sr. Ministro das Obras Públicas, Transportes e Comunicações, porque, em minha opinião, o Sr. Ministro é suficientemente inteligente para perceber o significado do envio dessa intervenção!... \n\nSr. Deputado Mário Maciel, houve um consenso generalizado - da reacção de toda a Câmara à sua intervenção pode depreender-se isso - no sentido da defesa daquela pista de dinossauros, que é não só um património nacional como também mundial, o que não podemos esquecer.\n\nA questão que queria colocar-lhe é, pois, a seguinte: sendo esta uma posição, pelo menos, largamente maioritária nesta Câmara, se não mesmo unanime, pergunto se é admissível que, numa situação destas, o Governo se comporte por critérios exclusivamente economicistas, pondo, praticamente, como condição à salvaguarda daquela pista de dinossauros - repito, de interesse nacional e mundial do ponto de vista do património natural - a contribuição, do seu bolso, de cada um dos 10 milhões de portugueses de 400$, tal como ontem o Sr. Presidente da República e a sua esposa o fizeram junto das entidades competentes. Isto é, será que a Assembleia da República não pode impor, se for caso disso, que o Orçamento do Estado contribua com a verba necessária para a salvaguarda daquele património natural, existente no nosso país, sem ser necessário andar a fazer-se peditórios públicos, que até ficam mal a um qualquer governo, que neste caso concreto é do seu próprio partido?..."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 1381,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 1381,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Mário Maciel, como há ainda outros pedidos de esclarecimento, V. Ex.ª deseja responder já ou no fim?"
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 1381,
+      "speaker": {
+        "id": 1112,
+        "name": "Mário Jorge Belo Maciel",
+        "party": "PSD",
+        "string": "O Sr. Mário Maciel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "No fim, Sr. Presidente."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 1381,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado André Martins."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 1381,
+      "speaker": {
+        "id": 1719,
+        "name": "André Valente Martins",
+        "party": "PEV",
+        "string": "O Sr. André Martins (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Mário Maciel, mais uma vez me associo à sua posição de «remar um pouco contra a maré» e, naturalmente, também ao apelo que faz ao seu Governo.\n\nFazemos diariamente imensos apelos, designadamente para questões destas, que são fundamentais na garantia de um património cultural, que é da humanidade, como é o caso que aqui referiu.\n\nDe facto, o exemplo Apresentado por V. Ex.ª é património da humanidade, pelo que pergunto: um qualquer ministro ou governo de um qualquer país tem legitimidade para pôr em causa o que é património da humanidade? Esta é a questão, Sr. Deputado.\n\nOra, por aquilo que tem sido a demonstração prática da actuação política deste governo, parece-nos que ele se assume, com toda a legitimidade, para fazer o que se costuma designar de «eu quero, posso e mando», sendo múltiplos os exemplos, embora peste momento não queira desviar a atenção deste caso concreto.\n\nMas, Sr. Deputado, ainda há pouco referi um exemplo de um outro património da humanidade, o caso da serra da Arrábida. Há aqui dois caminhos a tomar: ou queremos defender este património e nos assumimos em sua defesa - e teremos então de arranjar uma, solução que impeça a sua degradação e destruição causada pela exploração de pedreiras que ali é desenvolvida há longos de anos - ou dizemos que não assumimos a responsabilidade de defendê-lo e deixaremos, neste caso, que a exploração das pedreiras continue.\n\nA opção é, naturalmente, do Governo, Sr. Deputado. E este é apenas mais um exemplo!\n\nTudo isto para dizer que, de facto, lamentamos ter, em Portugal, um governo insensível a estas questões, que são fundamentais para garantir o futuro de todos nós, sobretudo dos que virão a seguir a nós e aos quais temos a obrigação de, pelo menos, garantir condições de vida idênticas, se não melhores, àquelas que encontrámos. Por isso, Sr. Deputado, associo-me ao seu apelo e, se me é permitido, saúdo a iniciativa do Sr. Presidente da Assembleia da República em dirigir por escrito e em nome da Assembleia da República, segundo penso, esta mensagem ao Governo, para ver se, desta vez e com esta força, é sensível à preservação deste património, que é de todos nós."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 1381,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o desejar, tem a palavra o Sr. Deputado Mário Maciel."
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 1381,
+      "speaker": {
+        "id": 1112,
+        "name": "Mário Jorge Belo Maciel",
+        "party": "PSD",
+        "string": "O Sr. Mário Maciel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, começo por agradecer a decisão de V. Ex.ª de enviar a minha modesta intervenção ao Sr. Ministro das Obras Públicas - aliás, sendo V. Ex.ª um ilustre universitário, conhece bem a paixão com que os universitários às vezes se batem por projectos científicos em que acreditam e que sabem que podem valorizar a ciência e a cultura do seu país.\n\nSr. Presidente, Srs. Deputados: Quero também agradecer as palavras de associação e de compreensão que os Srs. Deputados Octávio Teixeira e André Martins tiveram para com a minha intervenção. Talvez não seja muito oportuno estar a tecer comentários partidarizados neste momento - é certo que desfraldaram, aqui e acolá, algumas bandeiras partidárias; todavia, o que me interessa neste momento é extrair da Assembleia da República um sentimento de compreensão e de sensibilidade face a essa luta da comunidade científica no sentido de querer ver preservado um geomonumento que poderá ficar na história e na boa memória das gerações vindouras como tendo sido respeitado e preservado pela actual geração de portugueses. O que mais me impressiona com a eventual destruição desta jazida é o facto de que não ficamos em boa posição nas páginas da história que serão escritas depois de nós."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 1382,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Carlos Miguel Oliveira."
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 1382,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": " Sr. Carlos Miguel Oliveira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: Há momentos na história de um país em que certas medidas, decisões ou acções, ou a falta das mesmas, assumem um carácter histórico que marca significativamente o futuro desse mesmo país. Muitas vezes, de facto demasiadas vezes, o imediato e o urgente ofuscam aquilo que é verdadeiramente importante.\n\nEu compreendo que por vezes não seja fácil às instituições do Estado, aos partidos, à sociedade civil, à comunicação social e à opinião pública em geral acompanhar, compreender e defender medidas referentes a uma entidade social aparentemente distante, insuficientemente conhecida e divulgada, como é a juventude das comunidades portuguesas. Todos os dias emergem assuntos de reconhecido mérito, urgência e importância que necessitam da nossa atenção. A potencial lista de exemplos é demasiado extensa, aleatoriamente começando pela educação, passando pela agricultura e por muitos outros sectores e acabando no sistema financeiro, por exemplo. No meio de todos estes assuntos, a relativa importância de que se reveste a juventude das comunidades portuguesas pode passar despercebida.\n\nNa verdade, o futuro da juventude das comunidades portuguesas está directamente ligado ao futuro da presença de Portugal no mundo. Acresce o facto de o tempo disponível para se definir e implementar uma política de fundo relativa à juventude das comunidades portuguesas começar a escassear. Se perdermos muito tempo, perdemos, de uma forma irremediável e total, esta juventude para outras culturas e outros países.\n\nO objectivo desta curta intervenção é, em primeiro lugar, o de chamar a atenção para a fundamental importância da juventude das comunidades portuguesas espalhadas pelo mundo e, em segundo lugar, o de salientar a necessidade de se definir uma política de fundo para esta mesma juventude das comunidades portuguesas.\n\nQuanto ao primeiro ponto, a importância relativa da juventude das comunidades portuguesas, convém mencionar logo à partida um aspecto de lógica demográfica incontornável- como todos temos conhecimento, presentemente, a corrente migratória de portugueses para o estrangeiro é muito reduzida. De facto, prevalece o movimento em sentido contrário, isto é, o regresso a Portugal de um grande número de portugueses. Isto significa que o futuro das comunidades portuguesas resta, pura e simplesmente, na cativação dos luso-descendentes para a esfera de influência cultural portuguesa. Todas as políticas do Estado Português referentes às comunidades portuguesas, que, por exemplo, e entre outros, passam pelo apoio ao ensino do Português, ao associativismo e à criação de lobbies portugueses, estão condenadas a longo prazo se não conseguirmos definir políticas concretas e eficazes que cativem os jovens luso-descendentes para a esfera cultural portuguesa.\n\nEstá muita coisa em jogo relativamente ao futuro das comunidades portuguesas - basta lembrar a importância estratégica que estas comunidades têm para Portugal nos campos económico, cultural e político -, mas está em causa também a continuidade da nossa presença histórica no mundo. A longo prazo a situação é dramática, uma vez que, por um lado, por via das circunstâncias inerentes à sociologia do processo de emigração, as novas gerações de portugueses nestas comunidades têm uma tendência natural para se integrar cada vez mais nas culturas e interesses particulares dos países de acolhimento e a dissociar-se da cultura portuguesa; por outro lado, estas novas gerações de portugueses representam potencialmente um valor acrescido em relação à primeira geração de emigrantes portugueses, em termos de potencial estratégico, económico e cultural, devido a vários factores, como sejam a sua melhor integração nas sociedades de acolhimento, maior grau de escolaridade e formação académica, profissional e científica e o desempenho de cargos-chave e proeminentes nas sociedades de acolhimento.\n\nAliás, convém também salientar que não se trata de uma parcela reduzida e periférica da Nação portuguesa: se atendermos à estimativa de 4 milhões de portugueses espalhados pelo mundo - segundo o Ministério dos Negócios Estrangeiros - e extrapolarmos para este universo a aplicação de uma curva normal de distribuição etária demográfica, podemos identificar o universo da juventude das comunidades portuguesas como sendo de aproximadamente 1 milhão.\n\nSr. Presidente, Srs. Deputados: Tendo salientado a importância relativa da juventude das comunidades portuguesas, passo agora ao segundo e último ponto, que se refere a uma política de fundo para essa mesma juventude das comunidades portuguesas, onde gostaria de salientar dois aspectos."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 1383,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para formular um pedido de esclarecimento tem a palavra o Sr. Deputado António José Seguro."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 1383,
+      "speaker": {
+        "id": 1001,
+        "name": "António José Martins Seguro",
+        "party": "PS",
+        "string": "O Sr. António José Seguro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, queria fazer-lhe uma pergunta muito concreta, que é a"
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 1384,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o entender, tem a palavra o Sr. Deputado Carlos Miguel Oliveira."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 1384,
+      "speaker": {
+        "id": 1737,
+        "name": "Carlos Miguel De Valleré Pinheiro De Oliveira",
+        "party": "PSD",
+        "string": "O Sr. Carlos Miguel Oliveira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Na anterior legislatura foram iniciados vários programas. Penso que o Sr. Deputado António José Seguro pode informar-se directamente com o Governo. Gostaria aqui de desenvolver mais o aspecto político da política de juventude. Gostaria, porém, de saber qual é, pelo seu lado, a participação, quais são as propostas que o PS tem para a juventude das comunidades portuguesas em termos deste debate. Mas, respondendo à sua pergunta, especifico: seminários de Verão - 241 jovens; classes transplantadas -4748 jovens; férias jovens em Portugal - 705 jovens; bolseiros do Instituto de Apoio à Emigração e Comunidade Portuguesas -119 jovens, cursos de formação de jovens dirigentes associativos - 44 jovens; bolsas de estudo, etc., etc.\nNo entanto, antes de terminar, Sr. Deputado, gostaria de pedir-lhe que, na sua próxima intervenção, dissesse quais são as vossas propostas para a questão de fundo da política de juventude nas comunidades."
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 1384,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Calçada."
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 1384,
+      "speaker": {
+        "id": 1642,
+        "name": "José Fernando Araujo Calçada",
+        "party": "PCP",
+        "string": "O Sr. José Calçada (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Depois de mais de uma década à frente dos destinos do respectivo ministério, é hoje consensual que a agricultura e os agricultores portugueses foram conduzidos pelos sucessivos governos do PSD a uma situação de desespero e de falência económica e social. E não é preciso ser especialista para apreender esta trágica situação. Basta ter olhos na cara - sendo embora certo que, e o Governo é disso um bom exemplo, «o pior cego é aquele que não quer ver»! Não há sector produtivo ou área geográfica do País em que o desespero dos agricultores não tenha vindo a fazer ouvir a sua voz e o seu protesto contra a política, agrícola desencadeada pelo governo do PSD à revelia dos interesses nacionais e dos interesses dos nossos produtores. Não é só o regresso do latifúndio ao Alentejo, acompanhada pelo desemprego, pela fome, pela desertificação humana e geográfica, pela incapacidade estratégica deste governo em consolidar o futuro do sul do País pela via .do aproveitamento hídrico do Alqueva; é também o drama dos produtores de vinho do Oeste sem escoamento para o fruto do seu trabalho, ou dos produtores de laranja do Bombarral ou do Algarve, ou dos produtores de carne de Entre Douro e Minho. \n\nÉ neste contexto que assume particular relevância política, económica e social a situação igualmente dramática por que estão a passar os agricultores da região do Alto Tâmega Na verdade, impossibilitados de concorrer com os preços da batata espanhola importada da vizinha Galiza, olham, desesperados, para as quase 10 000 t da sua batata sem possibilidade de escoamento e a apodrecer nos armazéns. Abertos ao diálogo com o Ministério da Agricultura com vista à solução do problema, mas confrontados com a total indiferença do Ministro, Sr. Arlindo Cunha, não lhes restou outra hipótese de chamar a atenção do País se não bloqueando a fronteira de Vila Vente da Raia, próximo de Chaves, no passado dia 3. E que querem, afinal, os agricultores do Alto Tâmega? Querem apenas duas coisas, e bem simples: querem ser ouvidos, eis a primeira exigência: querem ser encarados como pessoas, como sujeitos, e não como estatística - eis a segunda exigência. E, naturalmente, querem soluções concretas! Isto é: ou um apoio directo à produção, num valor mínimo de 10$ o quilograma de batata; ou que o Governo garanta - não por mera declaração de intenções mas por protocolo expresso a estabelecer com as organizações da lavoura - o apoio à comercialização com preços compensadores. \n\nParece-nos igualmente indispensável reforçar o controlo fitossanitário nas fronteiras. E não se diga que tais diligências contrariam disposições comunitárias, porque, no caso concreto da batata, estamos perante um produto que não está integrado em nenhuma organização comum de mercado - ao contrário, aliás, do que temos vindo sucessivamente a defender. Os produtores de batata do Alto Tâmega vivem um drama tanto económico quanto social. Para este governo, claro, tudo o que é social é subversivo e cheira a bloqueio. Os agricultores não conseguem entender, e não aceitam, estar condenados ao desaparecimento; não conseguem entender, e não aceitam, que os seus colegas espanhóis recebam do seu governo aquilo que o governo do PSD a eles lhes nega. A batata, portuguesa não chega a atingir os 15$ por quilograma e, mesmo assim, não tem escoamento. Os produtores espanhóis colocam a batata no armazém, no Bombarral, a pouco mais de 8$ por quilograma, não por milagre - que os não há - mas porque recebem do seu Governo um subsídio de cerca de 10 pesetas (mais ou menos 12$) por quilograma. Mas Madrid quer mandar em Espanha mais do que Lisboa quer mandar em Portugal, ou seja: é Bruxelas quem manda em Lisboa e isso acontece, antes de tudo, por vontade deste governo, Ou por falta dessa vontade.\n\nAinda mais: numa atitude subserviente e contrária aos interesses nacionais, este governo é mais papista do que o papa e faz depressa, e mais, o que nem sequer a Comunidade exige que se faça. O Governo, que até 1996 pode utilizar os mecanismos complementares de troca para minimizar situações dramáticas como as actualmente vividas não só pelos produtores de batata de Chaves mas pela generalidade dos agricultores portugueses, o Governo, esse, maximalista, não utiliza esses mecanismos. Afinal, na óptica deste governo os agricultores portugueses não são mais do que 18 % da população activa na verdade, ainda ontem, confirmando os alertas lançados pelo meu partido, o Governo abdicou inconscientemente das garantias de defesa da agricultura que o período de transição ainda ia permitindo - aceitando a extinção desse período de transição, presumivelmente em troca da entrada de mais 100 milhões de contos que irão possuir a mesma «eficácia» dos 900 milhões até agora entrados - «eficácia» já claramente desmontada nesta Câmara e não apenas pela minha bancada."
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 1385,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Rui Carp."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 1385,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Sr. Rui Carp (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado José Calçada. V. Ex.ª começou a sua intervenção dizendo que o «pior cego é aquele que não quer ver» e muito bem porque começou com uma autocrítica.\n\nNp preciso momento em que nesta Assembleia a Comissão de Agricultura e Mar se reúne com uma confederação de agricultores, a CAP, V. Ex.ª está ausente dessa reunião, ou seja, VV. Ex.ª gostara de criticar, mas não gostam de participar VV. Ex.ªs gostam de estar sempre por fora.\n\nDe facto, «o pior cego é aquele que não quer ver» e VV. Ex.ªs nunca querem ver as realidades, não querem, colocar as questões no local exacto e no preciso momento."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 1385,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Octávio Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Aí vem o censor!"
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 1385,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, repito, V. Ex.ª está ausente - com todo o direito, mas tiraremos daí as conclusões - de uma reunião da Comissão de Agricultura e Mar ao mesmo tempo que fala de matérias com críticas já gastas, porque continua a fazer uma crítica à evolução da agricultura portuguesa.\n\nO Sr. Deputado diz que há crise, na agricultura portuguesa porque dispensámos prorrogação do período de transição, mas agora pergunto: será por causa de algum período de transição que os agricultores em França na Bélgica, na Itália ou na Holanda fazem grandes manifestações criticando os seus governos? Será que tiveram esses períodos de transição?\n\nVV. Ex.ªs gostam muito de criticar o Governo, mas tem sido feita muita, coisa pela agricultura, portuguesa desde que aderimos à Comunidade Económica Europeia. Há factos concretos e também há situações, mais fracas.\n\nMas falemos da zona ou, melhor, da chamada ex-Zona de Intervenção da Reforma Agrária. Por que será que há seca, falta de recursos hídricos, de trabalho útil e de produtividade numa série de zonas agrárias de autarquias comunistas e o mesmo não acontece em município como por exemplo, o de Alvito? Por que é que tem havido uma transferência de trabalhadores, e de alentejanos para as zonas do Alvito? Por acaso, o município até nem é dirigido por autarquias comunistas!... No fundo, os comunistas gostam muito de criticar, mas têm feito muito pouco pela agricultora portuguesa. Diria mesmo mais: são os principais responsáveis pelo atraso que a agricultura portuguesa sofre desde o 25 de Abril."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 1385,
+      "speaker": {
+        "id": 418,
+        "name": "Carlos Miguel Maximiano De Almeida Coelho",
+        "party": "PSD",
+        "string": "O Sr. Carlos Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 1385,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Octávio Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ó Carp..., tanta asneira junta!"
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 1385,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o desejar, tem a palavra o Sr. Deputado José Calçada."
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 1385,
+      "speaker": {
+        "id": 1642,
+        "name": "José Fernando Araujo Calçada",
+        "party": "PCP",
+        "string": "O Sr. José Calçada (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Rui Carp, estou espantado, se é que nesta Câmara alguma coisa ainda espanta alguém!... Mas vou responder às perguntas que me colocou e, portanto, não vou tentar «dar a volta à questão».\n\nSr. Deputado, na Comissão de Agricultura e Mar estava - como deve ter verificado tardiamente, com certeza - o meu camarada Lino de Carvalho. Estavam lá representantes do meu partido, portanto não fique preocupado com isso. Aliás, não vejo por que é que o PSD deve estar preocupado pelo facto de o Partido Comunista não estar presente aqui ou acolá para defender as suas posições. Enfim, é mais uma preocupação que lhe desconhecia!\n\nRelativamente, à questão dos belgas, dos franceses e dessas histórias todas, quero dizer-lhe que o nosso povo costuma dizer que com o mal dos outros podemos nós bem. Este é um argumento que, no entanto, até me parece um pouco egoísta - e admito que o seja -, mas não posso deixar de dizer-lhe que há poucas semanas - que diabo, não foi há 20 nem 30 anos - aqui se ouvia falar do «oásis». Então, como é? Passamos do oásis para a aridez?\n\nQuanto a esta mistura incrível de trabalhadores e alentejanos - falou de trabalhadores e alentejanos -, autarquias e agricultura, quero dizer que tenho dificuldades em percepcionar onde queria chegar com isso. Por acaso, referi há pouco questões muito graves que talvez, não admitam tanto sentido de humor - só posso encarar o seu pedido de esclarecimento no domínio de um certo sentido de humor, embora deslocado, devo dizê-lo. Quero lembrar-lhe que na região do Alto Tâmega - tanto quanto sei e a não ser que V. Ex.ª esteja melhor informado do que nós - não há, infelizmente, autarquias comunistas e nas zonas do Oeste também não! Portanto, não compreendo onde queria chegar com isto e, na generalidade, a Câmara também não deve ter compreendido."
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 1385,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Armando Vara."
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 1385,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Armando Vaca (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: Gostava de começar esta minha intervenção exprimindo o meu apoio às preocupações aqui manifestadas pelo Sr. Deputado Mário Maciel e à iniciativa do Sr. Presidente da Assembleia da República no sentido de enviar ao Sr. Ministro das Obras Públicas, Transportes e Comunicações - uma cópia da intervenção aqui produzida.\n\nNo entanto, gostaria de realçar algum espanto que sinto pelas declarações e pela forma como o Governo, nomeadamente o Sr. Ministro das Obras Públicas, Transportes e Comunicações, tem procurado tratar esse problema,"
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 1387,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Hilário Marques.\n\nO Sr. Hilário Marques (PSD); - Sr. Presidente, Srs. Deputados: Há pouco o meu colega Mário Maciel falou-vos dos caminhos dos dinossauros e agora, no ano do jacobino, vou falar-vos dos «caminhos de Santiago». Espero que a Câmara tenha o mesmo consenso relativamente aos «caminhos de Santiago» como teve para os caminhos dos dinossauros.\n\nSr. Presidente, Srs. Deputados: Santiago de Compostela foi durante a Idade Média a zona mais antiga, mais concorrida e mais celebrada de todo o Noroeste peninsular.\n\nJerusalém, Roma, quiçá, mais importantes como grandes centros da cristandade e locais de peregrinações, Santiago, porém, assemelhando-se na sua grandeza, ultrapassou-as e foi até superior porque teve o condão de erguer nestas paragens ignotas, a que os romanos apelidavam de «finisterra», um só caminho, uma só estrada, um só roteiro.\n\nFoi pelo caminho de Santiago que circularam rainhas e príncipes, pintores e artistas, trovadores e jograis, as cantigas milagreiras, os romances heróicos, as narrativas e as lendas que encheram a geografia literária medieval.\n\nToda a paisagem física, monumental e humana rimou pelo eco dos peregrinos, pela andadura dos viajantes, pelos bordões dos romeiros. Por montes inóspitos, pontes e vales, pelo «caminho francês», pelo «caminho português» ou pelo «caminho de Puente la Reina a Santiago» construiu-se uma nova Europa, uma nova sociedade. Mais ainda: deu-se um espírito ecuménico a uma humanidade que só tinha como ponto de apoio uma vieira, uma sacola e um cajado e, quiçá, uma fé imensa nesses caminhares inseguros até à morada eterna.\n\nSr. Presidente, Srs. Deputados: Santiago é universal, numa Idade Média recém-saída dos fantasmas do século X, por isso mesmo, e porque nos julgamos participantes deste fenómeno criativo e comunitário, aqui trazemos uma pequena síntese do que foi e do que é esta movimento cultural, agora também europeu, da revitalização e consagração dos caminhos de Santiago.\n\nE citando Fraga Iribarne, Sr. Presidente e Srs, Deputados, «O caminho de Santiago significou na história do Ocidente uma das mais importantes vias de peregrinações e intercâmbios da cultura. Todos os países da Europa medieval contribuíram activamente para a sua criação e na realidade nenhuma nação lhe é historicamente estranha. O caminho de Santiago foi um crisol em que se fundiram o sentir e o pensamento de muitos homens e de onde nasceu constituído o espírito ocidental.» . Várias são as lendas medievais e tradições sobre Tiago, irmão de João. Segundo uma das tradições, Santiago, o maior, pregou o Evangelho na Hispânia e, tendo regressado a Jerusalém, aí sofreu o martírio. Depois, teria sido trasladado para Jope e dali, por mar, para Iria (actualmente Padron, na Galiza).\n\nOutro testemunho diz-nos que, após a sua morte, o seu corpo foi recolhido por Atanásio e Teodósio e levado num barco que navegaria para a Lusitânia.\n\nChegados a Iria Flávia (Ria de Arosa), núcleo castrejo onde vivia a rainha Lupa, os discípulos suplicaram-lhe para deixar sepultar o seu amigo.\n\nMais tarde o bispo Teodomiro de Iria encontrou num sepulcro de mármore as relíquias do apóstolo.\n\nSr. Presidente, Srs. Deputados: É uma rede complexa de caminhos e estradas, muitas delas medievais, iniciadas em Franca e que depois de cruzar os Pirinéus se uniam, na localidade de Puente La Reina, numa só via - chamado o «caminho francês», que, cruzando o Norte de Espanha, terminava em Santiago de Compostela.\n\nHavia ainda uma outra via o «caminho do norte» e a «via de prata» como existia o «caminho português».\n\nSobre o «caminho português» conservam-se várias referências seguidas por peregrinos na sua deslocação até Santiago de Compostela desde o século XII ao século XVIII.\n\nA mais antiga refere-se ao geógrafo árabe El-Idyisi (século XII), que descreve o caminho marítimo e terrestre de Coimbra a Santiago.\n\nDepois o itinerário de D. Sancho II (1244); da rainha Santa Isabel, viúva de D. Dinis (1325); de D. Manuel I (1502); do sacerdote italiano Giovanni Battista Confalonieri; do nobre polaco Sobieski (1611); do italiano Laffi, três vezes peregrino a Santiago (1666, 1670, 1673); do italiano Nicola Albani, que vai de Lisboa a Compostela (1745).\n\nPorém, e apesar de todas estas referencias o «caminho português» não é considerado em 1987 pelo Conselho da Europa que reconhece o «caminho de Santiago» como o «primeiro itinerário cultural europeu».\n\nSr. Presidente, Srs. Deputados: A Região de Turismo do Alto Minho nunca se conformou com a decisão do Conselho da Europa e através de diversos requerimentos tem vindo a questionar a inclusão do «caminho português» nos itinerários jacobeus.\n\nTem a minha solidariedade e o meu protesto por tal omissão. Faço-o por diversos motivos: a incontestável profusão de igrejas românicas, quer na Ribeira Lima, quer na Ribeira Minho, quantidade de igrejas que tem como santo patrono Santiago; os votos de Santiago instituídos por Ramiro I; as tradições populares que se mantêm vivas em todo o Alto Minho referenciando Santiago (lendas, poesia popular, ditados, provérbios); a profusão de símbolos jacobeus (vieiras, báculos, bordões, sacolas de peregrinos), heráldica, estatuária; a devoção com que alguns monarcas visitaram o túmulo do apóstolo, deixando obras marcantes em toda a região Norte (D. Sancho II, a Rainha Santa, D. Manuel I).\n\nTudo isso, a nosso ver, justifica: reiterar o mais profundo respeito pela origem e legados da realidade jacobeia; desenvolver as relações culturais, económicas, comerciais e turísticas subjacentes aos itinerários do «caminho português»; solicitar o reconhecimento tanto do Conselho da Europa como da Comissão, através da Secretaria de Estado do Turismo e Secretaria de Estado da Cultura, reconhecendo-se a nível oficial da importância e valor que representam para a convivência europeia o legado jacobeu e a sua vivência permanente, naquilo que diz respeito aos «caminhos de Santiago» portugueses; pedir, através da Direcção-Geral do Desenvolvimento Regional, uma atenção urgente, prioritária e permanente aos itinerários portugueses, facilitando-se os incentivos e apoios para acções de promoção e desenvolvimento cultural do conjunto de património histórico que existe ao longo das diferentes rotas.\n\nSr. Presidente, Srs. Deputados: Consciente de todas estas situações é absolutamente imprescindível que a Secretaria de Estado do Turismo - e acreditamos que vai fazê-lo - apoie a Região de Turismo do Alto Minho nas seguintes acções: edição dos oito itinerários turísticos do «caminho português»; sinalização dos «caminhos portugueses» (assunto já em estudo pela Direcção de Estradas de Viana"
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 1388,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, terminámos o período de antes da ordem do dia."
+    }
+  ]
+}

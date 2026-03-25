@@ -1,0 +1,1678 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "7",
+    "legislative_session": "4",
+    "number": "39",
+    "date": "1999-01-22"
+  },
+  "debate_id": "r3_7_4_39_1999-01-22",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 1438,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.\nEram 10 horas e 30 minutos.\nEstavam presentes os seguintes Srs. Deputados:\nPartido Socialista (PS):\nAcácio Manuel de Frias Barreiros.\n\nAlberto de Sousa Martins.\n\nAna Catarina Veiga Santos Mendonça Mendes.\n\nAníbal Marcelino Gouveia.\n\nAntónio Alves Martinho.\n\nAntónio de Almeida Santos.\n\nAntónio Fernando Marques Ribeiro Reis.\n\nAntónio José Guimarães Fernandes Dias.\n\nAntónio Manuel Carmo Saleiro.\n\nArlindo Cipriano Oliveira.\n\nArmando Jorge Paulino Domingos.\n\nArtur Clemente Gomes de Sousa Lopes.\n\nArtur Miguel Claro da Fonseca Mora Coelho.\n\nArtur Rodrigues Pereira dos Penedos.\n\nCarlos Alberto Cardoso Rodrigues Beja.\n\nCarlos Alberto Dias dos Santos.\n\nCarlos Justino Luís Cordeiro.\n\nCarlos Manuel Amândio.\n\nCarlos Manuel Luís.\n\nCasimiro Francisco Ramos.\n\nCláudio Ramos Monteiro.\n\nDomingos Fernandes Cordeiro.\n\nEurico José Palheiros de Carvalho Figueiredo.\n\nFernando Alberto Pereira de Sousa.\n\nFernando Alberto Pereira Marques.\n\nFernando Antão de Oliveira Ramos.\n\nFernando Garcia dos Santos.\n\nFernando Manuel de Jesus.\n\nFernando Pereira Serrasqueiro.\n\nFrancisco Fernando Osório Gomes.\n\nFrancisco José Pereira de Assis Miranda.\n\nFrancisco José Pinto Camilo.\n\nFrancisco Manuel Pepino Fonenga.\n\nGonçalo Matos Correia de Almeida Velho.\n\nJoão Rui Gaspar de Almeida.\n\nJoaquim Sebastião Sarmento da Fonseca Almeida.\n\nJorge Lacão Costa.\n\nJorge Manuel Damas Martins Rato.\n\nJorge Manuel Gouveia Strecht Ribeiro.\n\nJosé Adelmo Gouveia Bordalo Junqueiro.\n\nJosé Afonso Teixeira de Magalhães Lobão.\n\nJosé Alberto Cardoso Marques.\n\nJosé António Ribeiro Mendes.\n\nJosé Carlos Correia Mota de Andrade.\n\nJosé Carlos da Cruz Lavrador.\n\nJosé da Conceição Saraiva.\n\nJosé de Matos Leitão.\n\nJosé Ernesto Figueira dos Reis.\n\nJosé Fernando Rabaça Barradas e Silva.\n\nJosé Manuel Niza Antunes Mendes.\n\nJosé Manuel Rosa do Egipto.\n\nJosé Manuel Santos de Magalhães.\n\nJosé Maria Teixeira Dias.\n\nJosé Pinto Simões.\n\nJovita de Fátima Romano Ladeira.\n\nJúlio Manuel de Castro Lopes Faria.\n\nJúlio Meirinhos Santanas.\n\nLaurentino José Monteiro Castro Dias.\n\nLuís Afonso Cerqueira Natividade Candal.\n\nLuís António do Rosário Veríssimo.\n\nManuel Afonso da Silva Strecht Monteiro.\n\nManuel Alberto Barbosa de Oliveira.\n\nManuel Alegre de Melo Duarte.\n\nManuel António dos Santos.\n\nManuel Ferreira Jerónimo.\n\nManuel Francisco dos Santos Valente.\n\nMaria Celeste Lopes da Silva Correia.\n\nMaria do Carmo de Jesus Amaro Sequeira.\n\nMaria Eduarda Bento Alves Ferronha.\n\nMaria Fernanda dos Santos Martins Catarino Costa.\n\nMaria Helena do Rêgo da Costa Salema Roseta.\n\nMaria Isabel Ferreira Coelho de Sena Lino.\n\nMaria Jesuína Carrilho Bernardo.\n\nMaria Manuela de Almeida Costa Augusto.\n\nMiguel Bernardo Ginestal .\n\nMachado Monteiro Albuquerque.\n\nNatalina Nunes Esteves Pires Tavares de Moura.\n\nNelson Madeira Baltazar.\n\nNuno Manuel Pereira Baltazar Mendes.\n\nPaula Cristina Ferreira Guimarães Duarte.\n\nPaulo Jorge dos Santos Neves.\n\nPaulo Jorge Lúcio Arsênio.\n\nPedro Luís da Rocha Baptista.\n\nRaimundo Pedro Narciso.\n\nRosa Maria da Silva Bastos da Horta Albernaz.\n\nRui do Nascimento Rabaça Vieira.\n\nRui Manuel dos Santos Namorado.\n\nRui Manuel Palácio Carreteiro.\n\nSérgio Carlos Branco Barros e Silva.\n\nSérgio Paulo Mendes de Sousa Pinto.\nPartido Social Democrata (PSD):\nAdriano de Lima Gouveia Azevedo.\n\nÁlvaro dos Santos Amaro.\n\nAmândio Santa Cruz Domingues Basto Oliveira.\n\nAntónio Costa Rodrigues.\n\nAntónio dos Santos Aguiar Gouveia.\n\nAntónio Fernando da Cruz Oliveira.\n\nAntónio Joaquim Correia Vairinhos.\n\nAntónio José Barradas Leitão.\n\nAntónio Manuel Taveira da Silva.\n\nAntónio Moreira Barbosa de Melo.\n\nAntónio Paulo Martins Pereira Coelho.\n\nArménio dos Santos.\n\nArtur Ryder Torres Pereira.\n\nCarlos Manuel de Sousa Encarnação.\n\nDuarte Rogério Matos Ventura Pacheco.\n\nEduardo Eugénio Castro de Azevedo Soares.\n\nFernando Manuel Alves Cardoso Ferreira.\n\nFernando Pedro Peniche de Sousa Moutinho.\n\nFernando Santos Pereira.\n\nFilomena Maria Beirão Mortágua Salgado Freitas Bordalo.\n\nFrancisco José Fernandes Martins.\n\nHermínio José Sobral Loureiro Gonçalves.\n\nHugo José Teixeira Velosa.\n\nJoão Álvaro Poças Santos.\n\nJoão Bosco Soares Mota Amaral.\n\nJoão Carlos Barreiras Duarte.\n\nJoaquim Manuel Cabrita Neto."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 1439,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o' Sr. Secretário vai anunciar os diplomas que deram entrada na Mesa."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 1439,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Artur Penedos)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, deram entrada na Mesa, e foram admitidas, as seguintes iniciativas legislativas: projecto de lei n.º 606/VII - Lei de bases de protecção aos animais não humanos (Os Verdes), que baixou às 1.ª e 10.ª Comissões; projecto de lei 607/VII - Competências das Câmaras Municipais na concessão de apoio às instituições de carácter social e cultural dos respectivos funcionários municipais (PSD), que baixou à 4.ª Comissão e projecto de resolução n.º 109/VII - Adopção de medidas contra a deslocalização de empresas (PCP), que baixou à 5.ª Comissão."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 1439,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o período da ordem do dia de hoje consta de perguntas ao Governo.\n\nA primeira pergunta, sobre o Hospital de São Paio de Oleiros, em Santa Maria da Feira, será formulada pelo Sr. Deputado Manuel Alves de Oliveira, do Grupo Parlamentar do PSD, e respondida pelo Sr. Secretário de Estado da Saúde.\n\nPara formular a pergunta, tem a palavra o Sr. Deputado Manuel Alves de Oliveira."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 1439,
+      "speaker": {
+        "id": 1336,
+        "name": "Manuel Alves De Oliveira",
+        "party": "PSD",
+        "string": "O Sr. Manuel Alves de Oliveira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, Srs. Deputados, trazemos hoje à Assembleia da República a questão do Hospital de Nossa Senhora da Saúde de São Paio de Oleiros que, a partir de 4 de Janeiro de 1999, ou seja, a data da entrada em funcionamento do Hospital de São Sebastião, foi institucionalmente extinto, em cumprimento do Decreto-Lei n.º 151/98, de 5 de Junho.\n\nQue fique bem claro que não questiono com isto o regime jurídico do Hospital de São Sebastião, só tenho pena é que ainda não esteja a funcionar em plenitude.\n\nRecordo, a esse respeito, que o Hospital de São Sebastião representa uma velha aspiração dos feirenses que agora se vê concretizada.\n\nPorém, não posso perder de vista que o Hospital de São Paio de Oleiros durante vários anos prestou cuidados hospitalares à população e que, simultaneamente, funcionou em Santa Maria da Feira, no centro de saúde, um serviço de atendimento permanente.\n\nRecordo que a Administração Regional de Saúde do Centro, em ofício datado de 26 de Fevereiro de 1998, dirigido ao Sr. Presidente da Câmara Municipal de Santa Maria da Feira, transmitia que \"a ARS vai iniciar, através da sub-região de saúde de Aveiro, o estudo da utilização a conferir às actuais instalações do Hospital de São Paio de Oleiros, após a transferência dos serviços para o novo Hospital de São Sebastião (...)\" E continuava: \"(...)Pensa-se que as instalações em causa poderão, caso a Fundação Comendador Sá Couto (... )\" - ou seja a entidade proprietária do imóvel - \"('...) assim também o entenda, ser aproveitadas na área dos cuidados continuados, em termos a acordar, num quadro de responsabilidades partilhadas (...)\". '\n\nRecordo também que as freguesias do norte e poente do concelho de Santa Maria da Feira, das quais destaco"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 1440,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 1440,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra para responder o Sr. Secretário de Estado da Saúde."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 1440,
+      "speaker": {
+        "id": 169,
+        "name": "Francisco Augusto Ramos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado da Saúde (Francisco Ramos)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados,. Sr. Deputado Manuel Alves de Oliveira, muito obrigado pela sua questão, que me permite fazer o ponto da situação da assistência de cuidados de saúde no concelho da Feira.\n\nComo é do conhecimento de todos, entraram em funcionamento as instalações do Hospital de São Sebastião no início deste mês de Janeiro, concretizando a aspiração do concelho da Feira que o Sr. Deputado referiu - e melhorando, sem dúvida, em muito, todas as condições de assistência e prestação de cuidados de saúde a toda a população daquele concelho.\n\nConforme estava previsto no decreto-lei de criação do hospital, foi extinto o Hospital de São Paio de Oleiros, tendo transitado todos os serviços e pessoal que aí existiam para o novo Hospital de São Sebastião.\n\nConforme referiu também - e eu confirmo -, decorrem, nesta altura, ainda negociações e conversações com a Fundação Comendador Sá Couto no sentido de as instalações onde funcionava o Hospital de São Paio de Oleiros serem dedicadas, de facto, a serviços de cuidados continuados, uma área claramente carenciada naquela e noutras regiões. Em conjunto com o Ministério do Trabalho e da Solidariedade, queremos apostar num desenvolvimento em todo o País de unidades de apoio integrado que permitam, de facto, desenvolver esta área em que estamos muito carenciados de serviços. A nossa aposta é, de facto, a de instalar nesta zona, em conjunto com a Fundação e com o Ministério do Trabalho e da Solidariedade, uma unidade de apoio integrado, segundo as regras de um despacho conjunto, publicado o ano passado, que serve exactamente de regulamentação ao desenvolvimento dessas unidades.\n\nPenso que é consensual que o desenvolvimento deste tipo de serviços é importante, até mesmo para funcionar articuladamente com a prestação de cuidados em situação aguda, que, naturalmente, será desenvolvida no Hospital de São Sebastião.\n\nQuanto à questão do serviço de atendimento permanente, a opção foi também a de localizá-lo nos terrenos do Hospital de São Sebastião, portanto, funcionando em articulação com o centro de saúde de Santa Maria da Feira, aumentando, claramente, a capacidade de recursos humanos disponível em relação à situação anterior.\n\nEste é o ponto da situação actual. Para o destino e, digamos, para o arranque concreto da unidade de cuidados continuados em São Paio de Oleiros não há ainda uma decisão. Decorrem, neste momento, exactamente, as negociações entre a Fundação, o Ministério da Saúde, através da Administração Regional de Saúde do Centro, e o Ministério do Trabalho e da Solidariedade."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 1440,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para um pedido de esclarecimento adicional, tem a palavra o Sr. Deputado Manuel Alves de Oliveira."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 1440,
+      "speaker": {
+        "id": 1336,
+        "name": "Manuel Alves De Oliveira",
+        "party": "PSD",
+        "string": "O Sr. Manuel Alves de Oliveira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, constata-se pelas informações fornecidas pelo Sr. Secretário de Estado - as quais agradeço - que não será criado qualquer serviço do tipo de atendimento permanente naquela área do norte/oeste do concelho de Santa Maria da Feira.\n\nComo referi inicialmente, quando ainda funcionava o Hospital de São Paio de Oleiros funcionava, em simultâneo, em Santa Maria da Feira, um centro de atendimento permanente e, com certeza, o Sr. Secretário de Estado conhece bem a área territorial e a dispersão do concelho, justificando-se plenamente o funcionamento, na parte norte do concelho, de um serviço deste tipo. Aliás, estou convicto de que o gabinete do Sr. Secretário de Estado ou da Sr.ª Ministra terão recebido as posições unanimemente aprovadas nos órgãos municipais e nos órgãos de freguesias envolvidos, reclamando exactamente este serviço. Entretanto, lamento que o Sr. Secretário de Estado hoje nos venha trazer esta infeliz notícia para o concelho de Santa Maria da Feira.\n\nPor outro lado, em relação à unidade de apoio integrado, tenho a informação no sentido de que as candidaturas, nos termos do Despacho n.º 407/98, estão totalmente esgotadas, quer as primeiras quer as segundas prioridades para 1999 - informação que gostaria que o Sr. Secretário de Estado confirmasse. Nesga perspectiva, e a correr bem a negociação que está em curso para a tomada de decisão, gostaria de saber quando é que prevê uma decisão sobre o funcionamento da unidade de apoio integrado em São Paio de Oleiros."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 1440,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 1440,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para pedir esclarecimentos ao Sr. Secretário de Estado, durante um minuto, o Sr. Deputado Rui Pedrosa de Moura."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 1440,
+      "speaker": {
+        "id": 1703,
+        "name": "Rui Miguel Gama Vasconcelos Pedrosa De Moura",
+        "party": "CDS-PP",
+        "string": "O Sr. Rui Pedrosa de Moura (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, Srs. Deputados, o Hospital de São Paio de Oleiros, em Santa Maria da Feira, fechou porque abriu o Hospital de São Sebastião, também"
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 1441,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para pedir esclarecimentos, o Sr. Deputado Castro Almeida."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 1441,
+      "speaker": {
+        "id": 1456,
+        "name": "Manuel Castro De Almeida",
+        "party": "PSD",
+        "string": "O Sr. Castro de Almeida (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, sentimos que não há desculpa para o Governo pelo facto de, nesta altura dos acontecimentos, ainda não ter assumido uma coordenação efectiva dos recursos existentes em matéria de saúde na zona norte do distrito de Aveiro.\n\nEntrou em funcionamento uma importantíssima unidade de saúde e as demais unidades de saúde - São Paio de Oleiros, o Hospital de S. João da Madeira, o Hospital de Oliveira de Azeméis, de Espinho, de Ovar, etc. - não sabem que incidência vai ter nos seus hospitais, e a população não sabe que incidência vai ter em si própria, a entrada em funcionamento do novo hospital.\n\nDe que vai precisar o Governo para assumir as suas responsabilidades e decidir, de uma vez por todas, o que vai competir a cada hospital?\n\nSr. Secretário de Estado, os Deputados do PSD de Aveiro têm defendido a seguinte tese, muito simples: a entrada em funcionamento do novo hospital da Feira há-de servir para prestar à população daquela zona norte do distrito de Aveiro cuidados de saúde que até agora só podiam ser encontrados nos Hospitais de Gaia ou do Porto, e não pode a entrada em funcionamento do Hospital de Santa Maria da Feira servir para levar ao encerramento outros serviços que actualmente estão a funcionar nestes hospitais que referi.\n\nGostaria de saber, Sr. Secretário de Estado, se, ao menos, o Governo está em condições de dar esta orientação, por escrito, às unidades de saúde daquela zona de forma a garantir que nenhuma valência vai encerrar 24 horas por dia 'ou parte do dia com a entrada em funcionamento deste novo hospital."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 1441,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, também para pedir esclarecimentos, o Sr. Deputado Jorge Roque Cunha."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 1441,
+      "speaker": {
+        "id": 1638,
+        "name": "Jorge Paulo De Seabra Roque Da Cunha",
+        "party": "PSD",
+        "string": "O Sr. Jorge Roque Cunha (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado: Anunciada para Março de 1997, houve, recentemente, uma deslocação da titular da pasta da saúde ao Hospital de Santa Maria da Feira para a sua pré-inauguração - é o que supomos.\n\nNesse sentido, gostaria de saber qual a avaliação que faz deste primeiro mês, nomeadamente quantos serviços estão abertos. Aliás, o Sr. Deputado Rui Pedrosa de Moura colocou as questões muito concretas... De qualquer modo, eu gostaria de saber quantos serviços estão abertos, quantos partos foram feitos e qual a razão para que uma unidade de saúde que o Governo veio dizer à Assembleia da República que abriria, em Março de 1997, apresentando, inclusivamente, o cronograma - recordo-o aqui... Como é, então possível que, em 1999, estejamos aqui com esta situação de completa falta de planeamento no próprio funcionamento do hospital?\n\nGostaria também de saber a razão pela qual quer o Hospital de Ovar quer o Hospital de Espinho não tiveram o investimento que foi prometido no sentido de fortalecer as suas unidades de saúde.\n\nFinalmente, em relação ao modelo de gestão - e, neste caso, talvez o Sr. Deputado Manuel Strecht Monteiro pudesse também dar o seu contributo... -, gostaria de saber qual a avaliação que fazem do tipo de aquisições que fizeram, a forma como foram elaborados os concursos, etc."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 1441,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Secretário de Estado da Saúde, durante 10 minutos."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 1441,
+      "speaker": {
+        "id": 169,
+        "name": "Francisco Augusto Ramos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado da Saúde",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, começaria por responder ao Sr. Deputado Manuel Alves de Oliveira, que me colocou a primeira questão, comentando que, de facto, me parece que, para a população do concelho de Santa Maria da Feira, não é propriamente uma infeliz notícia a abertura de um novo hospital com instalações e recursos francamente melhores, ou seja, com todas as condições para que, quer em quantidade quer em qualidade, a assistência de cuidados hospitalares melhore substancialmente. Parece-me que dizer que isto é uma infeliz notícia não é atender às preocupações das pessoas.\n\nQuanto à questão da localização do SAP, a opção tomada, neste momento, é colocá-lo junto ao hospital e reforçar a sua capacidade no' sentido de - como, aliás, está a ser feito noutros locais e junto de outros hospitais aliviar o afluxo directo à urgência hospitalar, que é um problema estrutural do nosso sistema de saúde.\n\nEstamos com variadíssimas iniciativas com instruções claras para - onde é possível, onde há condições para isso, onde há possibilidades de pôr projectos concretos a funcionar - canalizar o acesso via centros de saúde de forma articulada com os hospitais, resguardando o mais possível as urgências para as situações de verdadeira emergência. Nesta altura, parece-me que esta é a situação tecnicamente adequada, mas, naturalmente, o decorrer e o evoluir da situação e a análise concreta, que tem de ser feita em cada momento, podem recomendar ou não a instalação de outro tipo de serviço em outras áreas do concelho de Santa Maria da Feira.\n\nPortanto, , neste momento, há, de facto, uma decisão tomada e uma estrutura montada, mas não há possibilidade nem é adequado dizer que esta vai ser a estrutura para os próximos 20 anos. Não é isso o que vai acontecer, até mesmo porque, como é conhecido de todos, também estamos a apostar nos sistemas locais de saúde. Ou seja,"
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 1442,
+      "speaker": {
+        "id": 1456,
+        "name": "Manuel Castro De Almeida",
+        "party": "PSD",
+        "string": "O Sr. Castro de Almeida (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Diga quem vai decidir!"
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 1442,
+      "speaker": {
+        "id": 169,
+        "name": "Francisco Augusto Ramos",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Naturalmente que a decisão é assumida pelo Governo face a informações concretas. Por isso, eu, Secretário de Estado da Saúde, estou aqui, neste momento, a validar a opção que foi tomada de um melhor aproveitamento dos recursos e de uma melhor organização para uma superior assistência às populações.\n\nRelativamente à questão da incidência da entrada em funcionamento do novo Hospital de São Sebastião, gostaria de dizer que o mesmo deve ser entendido como um claro reforço e uma clara melhoria da prestação de cuidados de saúde, nomeadamente ao evitar transferências, que, como disseram e bem, eram efectuadas para os hospitais da zona do Porto, como, por exemplo, o Centro Hospitalar de Vila Nova de Gaia. Essa é,, numa primeira linha, a grande alteração que é conseguida desde já.\n\nO Sr. Deputado Jorge Roque Cunha perguntou-me qual é a avaliação que se faz, ao fim das primeiras três semanas - nem sequer chega a um mês -, da abertura do Hospital de São Sebastião, mas esta não é altura para fazermos uma avaliação definitiva. Ou seja, os dados que temos - e há uma rotina de o conselho de administração do hospital fazer um relatório do progresso mensal, relatório que envia para a sua tutela - vão no sentido de que o processo de abertura está a decorrer dentro daquilo que é normal na abertura de um hospital.\n\nComo todos sabem, um hospital não abre, de um momento para o outro com tudo a funcionar, sem qualquer questão, nomeadamente de recursos humanos. É conhecido de todos que temos problemas de recursos humanos, ou seja, de disponibilidade de médicos e de pessoal de enfermagem, pois, de facto, temos essa escassez em termos nacionais. No início, houve alguns problemas que, provavelmente, deviam estar resolvidos, mas, entretanto, já foram solucionados através da colocação, nomeadamente, de alguns médicos pediatras e ortopedistas. São problemas que no dia 4 de Janeiro ainda não estavam resolvidos, mas que, hoje, já estão solucionados.\n\nPor isso, a avaliação que se faz, nesta altura, é claramente positiva, pois, contra aquilo que é habitual noutros processos de abertura, este hospital teve condições de abrir mais rapidamente do que aconteceu noutras situações, o que também terá a ver com o modelo de gestão adoptado, que é inovador. A avaliação que fazemos dos processos de concurso e de recrutamento de pessoal é claramente positiva, ou seja, o hospital tem, hoje, condições para funcionar bastante melhor do que qualquer outro hospital público teria ao fim de três semanas da sua abertura. E convém notar que estamos a falar de três semanas de entrada em funcionamento do hospital, não estamos a falar de três anos...!\n\nPortanto, isto dá-nos todas as garantias de que este é, com certeza, um modelo adequado. No entanto, não queria deixar de frisar que este é um modelo a ser adoptado em regime experimental e em avaliação permanente, para se extraírem conclusões e fazerem-se os aperfeiçoamentos que estaremos dispostos a efectuar, conforme a avaliação da realidade nos aconselhar."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 1442,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, assistem a esta sessão plenária dois grupos de estudantes, um, de 65 alunos, da Escola Secundária Francisco Simões, do Laranjeiro, e outro, de 50 alunos, da Escola Básica dos 2 º e 3.º Ciclos de Alenquer, para quem peço uma saudação.\nSrs. Deputados, vamos passar à segunda pergunta, sobre adaptação e divulgação do euro aos invisuais, que será formulada pela Sr.ª Deputada Maria Eduarda Azevedo e respondida pelo Sr. Secretário de Estado do Tesouro e das Finanças.\n\nTem a palavra. Sr.ª Deputada Maria Eduarda Azevedo."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 1442,
+      "speaker": {
+        "id": 1346,
+        "name": "Maria Eduarda De Almeida Azevedo",
+        "party": "PSD",
+        "string": "A Sr.ª Maria Eduarda Azevedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado do Tesouro e das Finanças, Portugal, como membro do grupo fundador do euro, tem até ao ano de 2002 para preparar-se para o grande desafio que é adopção da moeda única europeia. É uma preparação que passa por campanhas de esclarecimento junto de todos os cidadãos e agentes económicos, por isso, todos devem inteirar-se do efectivo significado de uma operação deste folgo, que, no fundo, encerra a substituição da moeda nacional pelo euro, é significativa para o nosso futuro colectivo na óptica da integração europeia e, obviamente, tem profundas implicações para os nossos quotidianos.\n\nSó através do esclarecimento é que se poderá evitar a ignorância, exorcizar os receios, combater a desinformação, que, a subsistir, é o fermento da mais elementar demagogia, o que ninguém quer, não o quer o Governo nem o queremos nós. Será também esse o modo - não o único mas um dos possíveis - para levar todos os cidadãos a terem consciência da realização da União Económica e Monetária e a aproveitarem os seus benefícios, aproximando-os da construção europeia.\n\nOra, é precisamente considerando o universo dos invisuais e as sua especificidades que gostava de ser inteirada sobre as medidas e as acções específicas que o Governo tem previstas para levar a divulgação do euro até esses portugueses, tanto mais que, numa newsletter da Comissão Euro, do Ministério das Finanças, se falou da importância das campanhas de esclarecimento junto dos cidadãos comuns e ainda, numa forma supletiva e superlativamente infeliz, junto das mulheres, dos agricultores e, exactamente, dos deficientes."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 1443,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Secretário de Estado do Tesouro e das Finanças."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 1443,
+      "speaker": {
+        "id": 2912,
+        "name": "Fernando Teixeira Dos Santos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e das Finanças (Teixeira dos Santos)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Maria Eduarda Azevedo, gostaria de começar por referir que o Governo dá toda a relevância às campanhas de divulgação do euro que permitam a informação e o esclarecimento da opinião pública relativamente a esta mudança, que reputamos histórica, no sistema económico-financeiro da Europa e, em particular, do País, com repercussões aos mais variados níveis, que ultrapassam os meros domínios económico-financeiro, tendo implicações a nível político, social e noutras áreas da nossa vida comum na Europa.\n\nDiria que a campanha que, neste momento, está em curso é de natureza generalista, no sentido de ser uma campanha indiferenciada que visa prestar as informações fundamentais ao público em geral. Temos consciência, e já o anunciámos por diversas vezes, de que é necessário prestar particular atenção a certos segmentos da população que, por maiores dificuldades no acesso à informação ou pelo seu posicionamento na sociedade, merecem um destaque especial nesta campanha de divulgação. Daí o ter-se referido os deficientes, os jovens, as mulheres, etc., como públicos alvo relativamente aos quais a informação geral que está a ser fornecida deve ser complementada por uma informação especialmente preparada para esses destinatários.\n\nNo que se refere concretamente aos invisuais, gostaria de esclarecer os seguintes aspectos: em primeiro lugar, no âmbito dos trabalhos técnicos levados a cabo a nível europeu para a definição da configuração das notas e das moedas, houve o cuidado de introduzir diferenciações nas espécies monetárias que permitam uma fácil identificação das mesmas por parte dos invisuais. Tal acontece com as notas, que têm uma dimensão diferente, crescente consoante o seu valor inclusivamente, as notas de maior valor terão marcas com relevo nos cantos que facilitará a sua identificação. O mesmo se passa relativamente às moedas, que têm elementos de diferenciação em termos de tamanho, de rebordo ou serrilha, de peso, textura, etc.\n\nTudo isto foi feito em contacto permanente com as associações de invisuais, associações estas que tiveram oportunidade de dar o seu parecer e opiniões na fase, repito, de definição dessas espécies monetárias."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 1443,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Secretário de Estado, queira fazer o favor de concluir."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 1443,
+      "speaker": {
+        "id": 2912,
+        "name": "Fernando Teixeira Dos Santos",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, se me permite, concluo já.\n\nNeste momento, a Comissão Euro, do Ministério das Finanças, está a trabalhar com a ACAPO no sentido de levar a cabo uma campanha destinada especialmente aos invisuais. Poderei, em momento mais oportuno, prestar alguns esclarecimentos adicionais."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 1443,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para formular um pedido de esclarecimento adicional, tem a palavra a Sr.ª Deputada Maria Eduarda Azevedo."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 1443,
+      "speaker": {
+        "id": 1346,
+        "name": "Maria Eduarda De Almeida Azevedo",
+        "party": "PSD",
+        "string": "A Sr.ª Maria Eduarda Azevedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, se outro mérito não tiver tido esta questão, pelo menos teve o de forçar o Governo a não esquecer cerca de 15 000 pessoas. E digo não esquecer pelo simples facto de que não basta anunciar e nada fazer! Mais vale não anunciar fazer e, depois, sim, apresentar um produto.\n\nSr. Secretário de Estado, sou tentada a deixar aqui não direi um repto mas uma promessa: não me obrigue a vir cá, de novo, também numa sessão de sexta-feira, perguntar quando é que vai pôr em prática essa campanha a favor dos invisuais. Eles merecem, são cidadãos como quaisquer outros.\n\nA consciência não se anuncia, não deve ser mera propaganda, antes deve ter concretização prática."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 1443,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 1443,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos adicionais, tem a palavra o Sr. Deputado Moura e Silva."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 1443,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Moura e Silva (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, para além do tratamento desta questão no que aos individuais diz respeito de facto, nos múltiplos colóquios, seminários e outras iniciativas que se têm realizado não temos conhecimento da distribuição de documentação que possa ser acompanhada por esses invisuais -, existe um outro grupo de cidadãos portugueses que não tem condições de acompanhar a divulgação do euro, nomeadamente através dos spots publicitários. Refiro-me aos surdos-mudos ou, pelo menos, aos que sofrem de problemas auditivos e que necessitam de uma linguagem gestual para acompanhar toda a divulgação e campanha do euro.\n\nAliás, os spots publicitários não estão a dar satisfação à obrigação contida na Lei n.º 31-A/98 (Lei - da Televisão), nomeadamente o artigo 45.º, ao não garantir, de forma progressiva, que as emissões possam ser acompanhadas por pessoas surdas ou com deficiência auditiva, recorrendo, para o efeito, à legendagem e à interpretação, através da linguagem gestual, bem como emitir programação específica direccionada para esse segmento de público.\n\nComo já foi referido, os invisuais carecem de formação específica, mas este conjunto de cidadãos também"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 1444,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Secretário de Estado do Tesouro e das Finanças."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 1444,
+      "speaker": {
+        "id": 2912,
+        "name": "Fernando Teixeira Dos Santos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e das Finanças",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Maria Eduarda Azevedo, ainda relativamente à questão da campanha para os invisuais, na sequência dos contactos havidos e que mencionei há pouco com a ACAPO, foi já possível apreender um conjunto de carências neste domínio a nível informativo e estabelecer programas de acção comuns, em conjunto com a ACAPO.\n\nNesse sentido, está já elaborado um plano de acção que incluirá a disponibilização de folhetos em braille sobre as questões relacionadas com o euro. A reprodução desta informação também terá um suporte informático apropriado a invisuais e cassettes audio contendo essa mesma informação.\n\nPara além dos contactos que a Comissão Euro, do Ministério das Finanças, tem mantido com a ACAPO, temos trocado informações e experiências com as comissões euro dos restantes Estados-membros e com a Comissão Europeia, em particular a DG-10, com vista ao reforço e aprofundamento das acções destinadas a grupos específicos que vão para além dos invisuais.\n\nA Associação Europeia de Cegos recebeu já da ACAPO a indicação do interesse da Comissão Euro, do Ministério das Finanças, por este assunto e, recentemente, esta Comissão foi convidada pela Associação Europeia de Cegos para participar numa reunião a nível europeu sobre o assunto.\n\nPortanto, quanto a esta matéria, devo informar que o trabalho está em marcha e, se até este momento, não foi ainda disponibilizada informação em braille, tal deve-se a razões operativas, porque só no final do ano tivemos conhecimento da taxa de conversão. E essa é, sem dúvida, uma` informação fundamental a incluir em qualquer brochura ou prospecto informativo nesta matéria.\n\nDe qualquer modo, Sr' Deputada Maria Eduarda Azevedo, gostaria de salientar que, para além de informações de natureza geral relacionadas com a transição para o euro, há informação particular e especialmente destinada a invisuais a que, em meu entender, não faz sentido, para já, dar uma grande prioridade por ser demasiado cedo. Ou seja, se só daqui a três anos vão entrar em circulação as novas espécies monetárias, de facto, não faz sentido, neste momento, a três anos de distância, estar a dizer que á serrilha ou a textura desta ou daquela moeda tem esta ou aquela natureza, ou que as notas de 200 ou de 100 euros têm esta ou aquela marca! A três anos de distância, francamente, é excessivamente cedo.\n\nPortanto, terá de haver aqui uma programação adequada do tipo de informação que é relevante, em cada momento, ao longo deste período e desta fase de transição. Sem dúvida que teremos de estar atentos e, no momento oportuno, a informação que é necessária e indispensável será fornecida.\n\nQuanto à questão colocada pelo Sr. Deputado Moura e Silva, relativa a destinatários com deficiência auditiva, reconheço que a informação televisiva, pela natureza da sua produção e pelo seu conceito, não facilita, de facto, a transmissão adequada para os deficientes auditivos. De qualquer modo, eles não estão esquecidos.\n\nDevo salientar que, neste momento, a nossa prioridade é fornecer informação em geral. E, muito embora o decorrer do spot, em si, não seja adequado a deficiente auditivos, recordo que há inserções que, de alguma forma, complementam e suprem essa carência.\n\nDe qualquer modo, tal como para os invisuais, também teremos campanhas adequadas e especialmente destinadas a outros segmentos da população, isto é, a cidadãos com outro tipo de deficiências. Temos, repito, a preocupação de complementar a informação para o público em geral com informação especializada e destinada, em particular, a esses segmentos da população."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 1444,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Natalina Moura (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 1444,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, passamos a uma nova pergunta, sobre a situação do ensino nocturno, que será formulada pelo Sr. Deputado Bernardino Soares, do Grupo Parlamentar do PCP. e respondida pela Sr.ª Secretária de Estado da Educação e Inovação.\n\nTem a palavra o Sr Deputado Bernardino Soares."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 1444,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Secretária de Estado da Educação e Inovação, em várias escolas, surgem notícias quanto ao encerramento do ensino nocturno, nos ensinos básico e secundário.\n\nÉ certo que o ensino nocturno é para muitos trabalhadores a única possibilidade de aumentar a sua escolaridade, todavia, ele hoje não é um ensino predominantemente de adultos mas, sobretudo, um ensino frequentado por jovens que, entretanto, foram excluídos, por uma razão ou por outra, do ensino regular, jovens estes que têm como única oportunidade a frequência deste ensino nocturno, hoje consubstanciado no ensino recorrente.\n\nEstá comprovado - aliás, há poucos dias, foi divulgado um relatório sobre esta matéria - que o ensino recorrente não dá a resposta necessária ao que os jovens procuram, uma vez que os jovens excluídos do ensino regular vão à procura de um modelo organizativo que não é o do ensino recorrente e acabam por enfrentar grandes dificuldades, como prova o insucesso escolar que se verifica neste domínio, no nosso país.\n\nPor outro lado, estas escolas que vêem, de repente, ser-lhes comunicado que vão deixar, no próximo ano lectivo, de ter ensino nocturno, não são, sequer, consultadas em todo este processo. Ou seja, toma-se esta decisão de encerramento à revelia de qualquer avaliação, ou ponderação do próprio projecto educativo da escola, da planificação já feita e da questão de muitos dos professores que dão, predominantemente, aulas no ensino nocturno ficarem, em resultado deste encerramento, com horários zero.\n\nPortanto, existe aqui uma falta de ponderação das realidades concretas que importa avaliar.\n\nPor um lado, queremos saber por que razão não foram ouvidos os agentes educativos e por que é que as escolas, os seus projectos e planificação não foram tidos em conta em todo este processo."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 1445,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra a Sr.ª Secretária de Estado da Educação e Inovação."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 1445,
+      "speaker": {
+        "id": 2899,
+        "name": "Ana Maria Benavente",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária de Estado da Educação e Inovação (Ana Benavente)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, a pergunta que o Sr. Deputado Bernardino Soares formulou não poderia aparecer em melhor momento, porque, como sabe, esta semana, tivemos ocasião de apresentar, não apenas o balanço sobre o ensino recorrente, como um conjunto de medidas que, precisamente, procura responder às preocupações que enunciou.\n\nA questão concreta que referiu, a do encerramento de cursos nocturnos, não pode ser equacionada dessa forma, isto é, como encerramento, mas, sim, como reorganização da rede. Ou seja, verificamos que há uma grande dispersão de oferta de ensino recorrente, que esse ensino recorrente é muitíssimo ineficaz e, portanto, os jovens e os adultos que se inscrevem têm baixíssimas taxas de certificação. Por essa razão, de há dois anos para cá, estamos a procurar agrupar essa oferta em escolas com melhores condições de equipamento, mais experiência e um corpo docente mais investido, até pela sua estabilidade, neste tipo de trabalho.\n\nEssa negociação tem sido realizada sempre com a participação das escolas e obedece, aliás, a um conjunto de critérios. Um desses critérios é, precisamente, o de que a oferta de ensino recorrente esteja integrada no projecto educativo, porque, como sabe, nos últimos anos tinha-se criado uma situação em que o ensino nocturno não era assumido pelas escolas como fazendo parte do seu projecto educativo; era qualquer coisa que funcionava nas escolas, à noite, e que, a partir de um determinado momento do ano, era praticamente inexistente, porque os formandos que se inscreviam acabavam por desistir, diante das dificuldades que esta oferta lhes apresentava.\n\nEstávamos, portanto, diante de uma situação de imenso desperdício que não beneficiava ninguém.\n\nO que apresentámos esta semana prende-se, precisamente, com a possibilidade de termos, para público jovem como referiu, mais de metade daqueles que hoje procuram um ensino de segunda oportunidade são jovens, respostas predominantemente diurnas, no caso de estes não terem ocupações profissionais, que articulem a educação com a formação profissional inicial.\n\nO público adulto vai poder encontrar respostas nas escolas, mas respostas com modelos diversificados, porque, como muito bem referiu o Sr. Deputado, o ensino recorrente tem sido, nos últimos anos, a única resposta.\n\nE sabemos que, do ponto de vista pedagógico e organizativo, essa não tem sido uma resposta adequada. Dividiram-se as disciplinas em unidades, de maneira a que os adultos pudessem ir capitalizando essas unidades, e o que verificamos é que, ao contrário do que acontece na escola, em que basta ter 10 valores para se ter sucesso, aqui, qualquer adulto teria de completar todas as unidades para ter a disciplina e todas as disciplinas para obter a sua certificação. Portanto, as taxas que divulgámos são baixíssimas."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 1445,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Secretária de Estado, ultrapassou o tempo de que dispunha, por isso tem de concluir, por agora."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 1445,
+      "speaker": {
+        "id": 2899,
+        "name": "Ana Maria Benavente",
+        "party": "N/A",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Concluo já, Sr. Presidente.\n\nNeste momento, o que está a ser feito visa enriquecer, diversificar e melhorar a oferta de alternativas para quem, em devido tempo, não fez a sua certificação escolar e profissional."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 1445,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos adicionais, tem a palavra o Sr. Deputado Bernardino Soares."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 1445,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Secretária de Estado, embora o PCP já tivesse inscrito esta pergunta para a última sessão de perguntas ao Governo, infelizmente, não foi a escolhida, mas hoje temos a oportunidade de discutir aqui esta questão.\n\nVou pôr em causa alguns princípios que a Sr.ª Secretária de Estado afirmou estarem presentes em todo este processo, porque as informações que temos, de cartas que foram chegando aos vários grupos parlamentares, vão precisamente em sentido contrário. E dou, como exemplo, a Escola Elias Garcia, em Almada. É que a Escola Elias Garcia, em Almada, tem incluído no seu projecto educativo o ensino nocturno, factor que a Sr.ª Secretária de Estado acabou de referir como importante, tem cerca de 800 alunos no ensino nocturno e, ainda por cima, uma acessibilidade, em termos de transportes públicos, muito importante. Por isso, é um pólo muito importante de ensino nocturno naquela área. Apesar disso, não foi ouvida em todo este processo, tendo-lhe sido comunicado o encerramento do ensino nocturno numa reunião e este facto estende-se a outras escolas na mesma e noutras áreas do País. Portanto, não há qualquer envolvimento dos agentes educativos e das escolas em todo este processo.\n\nAgora, sobre a questão da redução da rede, acho muito difícil que a Sr.ª Secretária de Estado justifique a redução da oferta de ensino nocturno no nosso país como uma forma de melhorar e de fazer frente ao problema da certificação e do insucesso. Então, é reduzindo as escolas onde é possível aceder ao ensino nocturno que se vai conseguir isso?! Não é, com certeza, dessa maneira!\n\nSobre o aumento e a diversificação da oferta, é muito importante que não se entre aqui pelo mesmo caminho que o Ministério já entrou em relação aos currículos alternativos. É que a tendência para, em vez de dar apoio pedagógico acrescido e de criar as condições para que os alunos com dificuldades possam ter a melhor respos-"
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 1446,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 1446,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos adicionais, tem a palavra a Sr.ª Deputada Ana Catarina Mendonça."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 1446,
+      "speaker": {
+        "id": 1160,
+        "name": "Ana Catarina Veiga Santos Mendonça Mendes",
+        "party": "PS",
+        "string": "A Sr.ª Ana Catarina Mendonça (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Secretária de Estado, diagnosticar um problema e apresentar, core coragem, soluções para o diminuir revela manifestamente a responsabilidade e a vontade política de um governo. Não vale a pena referir os números que todos já conhecemos, porque vieram a público no relatório de avaliação do ensino recorrente -..."
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 1446,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ainda não o tenho! O Governo já o mandou para o PS?"
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 1446,
+      "speaker": {
+        "id": 1160,
+        "name": "Ana Catarina Veiga Santos Mendonça Mendes",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... os resultados foram desastrosos, com grande pena de todos nós -, mas, perante estes números preocupantes, há duas soluções muito concretas: ou ignoramos e fazemos de conta que tudo está bem e que a taxa de insucesso não é relevante, ou, com coragem e responsabilidade política, enfrentamos o problema e apresentamos as soluções adequadas.\n\nOu seja, aquilo que a Sr.ª Secretária de Estado da Educação e Inovação apresentou, esta semana, ao País foi uma reformulação do ensino recorrente, no sentido da readaptação desse mesmo ensino, no que se refere aos locais onde pode ser leccionado este ensino recorrente e, tendo em atenção a ligação escola/formação/mercado de trabalho, nomeadamente à aprendizagem nas empresas, nas associações, nas autarquias e no Instituto do Emprego e Formação Profissional,..."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 1446,
+      "speaker": {
+        "id": 771,
+        "name": "Maria Luísa Raimundo Mesquita",
+        "party": "PCP",
+        "string": "A Sr.ª Luísa Mesquita (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso não é verdade!"
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 1446,
+      "speaker": {
+        "id": 1160,
+        "name": "Ana Catarina Veiga Santos Mendonça Mendes",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": ".. coordenada pelas agências de educação de adultos. É também importante relembrar a necessidade de readaptar os curricula deste tipo de ensino e que a educação se Faz com responsabilidade, com todos nós e com toda a sociedade."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 1446,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Menos com as escolas!"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 1446,
+      "speaker": {
+        "id": 1160,
+        "name": "Ana Catarina Veiga Santos Mendonça Mendes",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Secretária de Estado, quero colocar-lhe duas questões muito concretas. Peço-lhe que, comentando as notícias vindas a público, me diga se não será esta a melhor maneira de, no actual estado do ensino recorrente, rentabilizar o sistema e os meios humanos e financeiros, para termos, nesse tipo de ensino, uma taxa de sucesso escolar superior a 1 %. Por último, que medidas concomitantes com esta, na área de formação de professores, pensa a Sr.ª Secretária de Estado tomar, para dar resposta a esta relevante e importante transformação no sistema de ensino?"
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 1446,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 1446,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos adicionais, tem a palavra o Sr. Deputado José Cesário."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 1446,
+      "speaker": {
+        "id": 727,
+        "name": "José De Almeida Cesário",
+        "party": "PSD",
+        "string": "O Sr. José Cesário (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Secretária de Estado, a Sr.ª Secretária de Estado referiu que não está em causa o encerramento dos cursos nocturnos mas, sim, uma política de reorganização. Permita-me que discorde, profunda e totalmente. O que está em causa, em nosso entender, para o Governo, são preocupações de natureza economicista; para o Governo, não conta, neste momento, a pessoa."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 1446,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Natalina Moura (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não conhece..."
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 1446,
+      "speaker": {
+        "id": 727,
+        "name": "José De Almeida Cesário",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A Sr.ª Secretária de Estado critica a dispersão. Mas, Sr.ª Secretária de Estado, a dispersão corresponde às necessidades locais. Ninguém tem culpa, de que não haja só gente em Lisboa ou no Porto; há gente nas periferias das cidades; há gente espalhada por todo 0 País. E é a isto que os governos têm de dar resposta.\n\nSr.ª Secretaria de Estado, quero referir-lhe apenas mais um aspecto. Não tenha dúvidas de que as taxas de insucesso, que, infelizmente, existem nos cursos nocturnos, no ensino recorrente, têm fundamentalmente a ver com a motivação dos agentes educativos e, particularmente, dos professores. Ora, a esse nível, a questão que quero colocar-lhe é se o Ministério não pensa reequacionar os critérios de selecção e de colocação dos professores, nomeadamente do ensino recorrente."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 1446,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 1446,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para pedir esclarecimentos adicionais, tem a palavra o Sr. Deputado Castro de Almeida."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 1446,
+      "speaker": {
+        "id": 1456,
+        "name": "Manuel Castro De Almeida",
+        "party": "PSD",
+        "string": "O Sr. Castro de Almeida (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Secretária de Estado, a avaliar por aquilo que tem vindo a público, a posição do Ministério da Educação é a seguinte: há muitos portugueses a procurar o ensino de segunda oportunidade, o ensino nocturno, mas, como têm grande insucesso escolar, a solução é acabar com o ensino nocturno.\n\nEvidentemente, não concordamos com este ponto de vista. As pessoas procuram o ensino nocturno, porque querem, de facto, a oportunidade que não tiveram na idade própria. E se há dificuldades, como, de facto, há, se o sucesso é escasso, como, de facto, é, não é pela falta de vontade dos estudantes que procuram a escola, porque, senão, não a procuravam - empenhados estão eles -, mas, sim, pela falta de condições.\n\nA solução não é encerrar os cursos; a solução será dar melhores condições ao funcionamento do ensino noctur-"
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 1447,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 1447,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Natalina Moura (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Que descaramento!"
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 1447,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra, por 10 minutos, a Sr.ª Secretária de Estado da Educação e Inovação."
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 1447,
+      "speaker": {
+        "id": 2899,
+        "name": "Ana Maria Benavente",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária de Estado da Educação e Inovação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Bernardino Soares, o relatório referido, no próprio dia em que foi divulgado, foi enviado a todos os grupos parlamentares. Tenho ainda aqui dois exemplares, mas foram enviados três exemplares a cada grupo parlamentar."
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 1447,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vieram por mão própria!"
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 1447,
+      "speaker": {
+        "id": 2899,
+        "name": "Ana Maria Benavente",
+        "party": "N/A",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Foram entregues em mão, aqui na Assembleia da República, Sr. Deputado.\n\nUma segunda observação para vos dizer que a reorganização da rede - reorganização e nunca encerramento! .vai de par com uma garantia de oferta. Em todos os concelhos e em todos os lugares em que haja público, jovem ou adulto, que queira e necessite continuar a sua formação, tem de ser garantida oferta. Essa oferta será sempre garantida na escola, mas também e, pela primeira vez, desde ha muitos anos fora da escola.\n\nHá pouco, não tive oportunidade de referir este aspecto: se, por um lado - e penso que aí estamos todos de acordo, não é possível conviver com uma situação, em que, como aqui foi dito, há um público jovem ou adulto que procura voltar à escola e que se encontra diante de barreiras e de dificuldades que provocam estes resultados, aquilo que é preciso fazer é, de imediato, tomar medidas a curto prazo. A saber: reorganizar a oferta nas escolas que têm melhores condições e, do ponto de vista pedagógico, reorganizar estas unidades capitalizáveis, assim chamadas, de maneira a que haja várias respostas, desde o ensino à distância, como já se verifica com algumas experiências que o Ministério da Educação acompanha e apoia, a modelos mistos, inspirados na Telescola, para que os adultos possam ter os seus materiais e, depois, enquadramento regular na escola, de modo a tirarem dúvidas, a terem o seu apoio e melhores resultados.\n\nTodos os jovens e adultos que voltam à escola - e queremos que sejam cada vez mais - necessitam, merecem e têm o direito de encontrar respostas adequadas à sua situação. Portanto, terá sempre de haver uma oferta, ou centrada na escola ou, como eu dizia, pela primeira vez, também fora da escola.\n\nPor outro lado, criámos, o Ministério da Educação e o Ministério do Trabalho e da Solidariedade, um grupo de missão, que, daqui a algumas semanas, vai dar origem à primeira agência nacional de educação e formação de adultos, que vai dinamizar, incentivar e coordenar um conjunto de ofertas para público adulto, que articulam a formação profissional com a certificação escolar, através, nomeadamente, de um mecanismo, de que já se tem falado, mas que ainda não está no terreno, que é a \"certificação dos saberes adquiridos\". A maior parte dos países tem esse mecanismo, e é fundamental para os portugueses que ele esteja a ser concretizado. É que há pessoas que obtiveram, por exemplo, o antigo diploma da 4.ª classe, mas, na sua vida profissional, cívica e social, fizeram outras aprendizagens e, quando querem voltar à sua formação, deparam-se com a barreira de nada lhes ser reconhecido.\n\nPortanto, estamos a pôr de pé, com o grupo de missão, esses mecanismos de \"certificação dos saberes adquiridos\" e respostas muito mais diversificadas, de modo a que cada um possa ter o seu percurso, vendo reconhecido aquilo que já fez, aquilo que já sabe e as competências que tem, podendo completar aquilo que lhe falta para ter o certificado do 2.º ou 3.º ciclos ou do ensino secundário.\n\nQuando o Sr. Deputado Bernardino Soares diz que o Governo pretende excluir alunos do sistema, devo dizer-lhe que temos feito da luta contra a exclusão um dos nossos objectivos. E estes jovens, dos 15 aos 18 anos, que foram empurrados para o ensino nocturno por falta de alternativas, já estão excluídos. Ora, aquilo que queremos é encontrar maneira de, durante o dia, todos os jovens, que, com 15 anos ou mesmo com mais de 16 anos, não tenham uma ocupação profissional, poderem ter respostas adequadas, inspiradas, naturalmente, nos cursos de educação/formação, que estão a demonstrar ser uma resposta muito positiva, e nos currículos alternativos, que são igualmente uma resposta muito positiva para todos os jovens que os frequentam e que lhes permitem obter um certificado de escolaridade obrigatória com as competências fundamentais e exactamente com o mesmo valor que qualquer outro diploma obtido no percurso normal se eles não tivessem sido excluídos da escola..."
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 1447,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E quantos desses prosseguem os estudos?"
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 1447,
+      "speaker": {
+        "id": 2899,
+        "name": "Ana Maria Benavente",
+        "party": "N/A",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... e, paralelamente, com um nível de qualificação profissional. Essas respostas vão ser postas de pé a partir do próximo ano lectivo.\n\nQuero ainda dizer ao Sr. Deputado Bernardino Soares que, no caso da Escola Elias Garcia, em Almada, uma das quatro que tinha oferta de ensino nocturno e que não vai ter no próximo ano, ela concordou com essa solução - a escola, aliás, vai entrar em obras - e vai acompanhar todo este processo de reformulação e reorganiza-"
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 1448,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Terminada esta pergunta, agradeço a presença da Sr.ª Secretária de Estado.\n\nSrs. Deputados, uma vez que a quarta pergunta que constava da ordem do dia foi retirada, passamos à pergunta sobre o litoral algarvio, que vai ser formulada pela Sr.ª Deputada Carmen Francisco e respondida pelo Sr. Secretário de Estado do Ambiente.\n\nTem a palavra a Sr.ª Deputada Carmen Francisco."
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 1448,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr Carmen Francisco (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, se quiséssemos dar um título a esta pergunta, chamar-lhe-íamos \"Projectos movediços no litoral algarvio\", não só porque estão sobre areia mas porque, aparentemente, é possível movê-los, mais metro, menos metro, para esconderem aquilo que é óbvio. E aquilo que, para nós, é óbvio é que o discurso deste Ministério do Ambiente, de que há que acabar com intervenções correctivas, em que a segurança das pessoas e bens está em causa e em que se utilizam dinheiros públicos para a defesa de interesses privados, porque no passado se permitiram erros, ignorando as mais elementares regras de protecção do litoral, como a não construção em zonas de risco, nomeadamente no que se refere à erosão, é um discurso que pouco ou nada tem a ver com a prática.\n\nPara que, no futuro, se pudesse acabar com estas intervenções, sempre urgentes, sempre caras, sempre de eficácia relativa, haveria que não mais permitir os atentados cometidos no passado.\n\nSendo o Algarve, infelizmente, um exemplo grave desses erros cometidos no passado, de modo muito mais infeliz é, ainda hoje, exemplo ilustrativo da acusação que fazemos. E o exemplo que escolhemos, a praia da Lota, no concelho de Vila Real de Santo António, pode ainda ser travado. Muitos têm sido os alertas, nomeadamente aqui, neste Parlamento, e já houve compromissos nesse sentido, por parte da própria Sr.ª Ministra do Ambiente. Mas o que sucede é que continua a prevalecer uma situação de omissão, de inépcia, por parte do Governo e, em especial, de organismos dependentes do Ministério do Ambiente. Parece, assim, que mais uma zona de dunas, esta ainda relativamente bem preservada, vai ser destruída com a conivência deste Ministério. Como certamente conhecerá, trata-se de processos de loteamento implantados, em parte, na zona dunar e dentro da faixa de protecção terrestre dos 500 m definidos nos POOC e em zona abrangida pelo regime transitório da REN, porque, neste concelho, não há sequer proposta de delimitação de REN apresentada, de acordo com o balanço governativo do Governo. Aliás, deixe-me que lhe diga que a prioridade que se diz que é dada à delimitação da REN vai deixando de fora, expectantes, largas manchas, estrategicamente colocadas no litoral ou em outras zonas apetecíveis. É o caso do Algarve, onde, dos 16 concelhos, de acordo com os dados do Ministério, apenas 6 têm, ou tinham, em Outubro, carta de REN publicada.\n\nA actuação da Direcção Regional de Ambiente do Algarve em todo este processo é, no mínimo, bizarra e, no máximo, poderá estar entre o irresponsável e o escandaloso. A sua actuação vai desde o \"descuido\" de emitir pareceres favoráveis, porque se entendia que haviam licenciamentos anteriores, sem verificar que estes, afinal, já tinham caducado, até ao permitir que continuem movimentações de terras com maquinaria pesada, destruição do coberto vegetal, obras de saneamento e até de estradas em pleno cordão dunar. Tudo isto, apesar de um despacho do Sr. Secretário de Estado Adjunto da Ministra do Ambiente, Dr. Ricardo Magalhães, de 23 de Março de 1998, em que mandava proceder ao embargo das acções descritas pela ADRIP, a Associação que, na altura, fez a denúncia, caso se confirmasse que \"as acções em curso de destruição da zona dunar não foram devidamente aprovadas. Já agora, suscito esta questão, apesar de não estar aqui o Sr. Secretário de Estado em apreço: é possível que hoje ou em Março de 1998, neste país, se permitisse ou se admitisse que acções de destruição de zonas dunares fossem devidamente aprovadas?\n\nReconhecida a clara ilegalidade destes processos, a DRA Algarve, ainda assim, dispõe-se hoje a negociar o \"desvio\", um pouco mais para trás, de um dos lotes, como se a questão fosse de mais metro ou menos metro.\n\nAssistimos, assim, a um claro exercício de demagogia em torno da pretensa defesa do litoral. A pergunta que faço é a seguinte: até quando?"
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 1448,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 1448,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Secretário de Estado do Ambiente."
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 1448,
+      "speaker": {
+        "id": 2920,
+        "name": "José Guerreiro",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Ambiente (José Guerreiro da Silva)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, em primeiro lugar, sendo a primeira vez, este ano, que me dirijo à Assembleia, gostaria de desejar aos Srs. Deputados um bom ano de 1999.\n\nSr.ª Deputada Carmen Francisco, em primeiro lugar, quero dizer-lhe que é com rara oportunidade que, de fac-"
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 1449,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 1449,
+      "speaker": {
+        "id": 2920,
+        "name": "José Guerreiro",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E até ao final do mandato deste Governo, em Outubro, teremos, com certeza, um país diferente, um país real e não um país de ficção, um país real em que exista reserva ecológica nacional delimitada de acordo com os planos directores municipais e também respeitando aquilo que é a Lei de Bases do Ordenamento do Território."
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 1449,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra a Sr.ª Deputada Carmen Francisco."
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 1449,
+      "speaker": {
+        "id": 1602,
+        "name": "Carmen Isabel Amador Francisco",
+        "party": "PEV",
+        "string": "A Sr.ª Carmen Francisco (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, reconheço que a pergunta era lata mas já colocámos, algumas vezes, esta questão específica da praia da Lota: no debate sobre ambiente, que teve lugar em 14 de Outubro, mas não era o Sr. Secretário de Estado que cá estava, nessa altura; à Sr.ª Ministra do Ambiente, em sede de discussão do Orçamento; através. de requerimento, em Outubro. E a garantia que me está a dar hoje, de que este processo vai ser travado e de que as obras estão paradas, foi a garantia que a Sr.ª Ministra do Ambiente deu em 30 de Outubro.\n\nOra, tanto quanto sei, e isso é público, de 30 de Outubro para cá as obras não estão paradas, houve desenvolvimentos, e neste mês de Janeiro havia maquinaria pesada a proceder a obras nesta zona.\n\nMas tomarei a sua informação como boa e esperamos verificar que, a partir de hoje, o que disse seja verdade, porque não tem sucedido assim desde 30 de Outubro. Se assim for, ficaremos contentes e terão valido a pena os alertas que, nomeadamente, a ADRIP tem vindo a fazer, desde há muito tempo, pelo que não se trata, sequer, de uma questão de pretender que este Governo ande depressa, na medida em que as denúncias sobre este processo têm já bem mais de um ano.\n\nQuanto à REN, deixe-me que lhe diga que admiti que foi dada prioridade à delimitação das cartas de REN e que foram publicadas muitas cartas de REN. Mas, olhando para o mapa que o próprio Ministério do Ambiente teve a amabilidade de nos ceder, quando distribuiu o balanço governativo dos últimos três anos de Governo, é fácil verificar onde é que estão as manchas das cartas não aprovadas e, admitindo que serão zonas onde, eventualmente, haverá algumas complicações que é preciso resolver, serão, com certeza, essas as zonas prioritárias onde mais falta fazia delimitar a reserva ecológica nacional."
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 1449,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma pergunta adicional, tem a palavra o Sr. Deputado Paulo Neves."
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 1449,
+      "speaker": {
+        "id": 1689,
+        "name": "Paulo Jorge Dos Santos Neves",
+        "party": "PS",
+        "string": "O Sr. Paulo Neves (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, nesta óptica, o Sr. Secretário de Estado, há pouco, começou a mencionar o tema da utilização das areias que têm origem nas dragagens para recarga das praias. E, nesse sentido, há um trabalho interessantíssimo e um esforço enorme que estão a ser desenvolvidos, neste momento, na nossa região, de forma integrada, por parte do Ministério do Ambiente e do Ministério do Equipamento, do Planeamento e da Administração do Território."
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 1450,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr: Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para uma pergunta adicional, tem a palavra o Sr. Deputado Fernando Pedro Moutinho."
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 1450,
+      "speaker": {
+        "id": 1229,
+        "name": "Fernando Pedro Peniche De Sousa Moutinho",
+        "party": "PSD",
+        "string": "O Sr. Fernando Pedro Moutinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, V. Ex.ª teve ocasião de expor aqui as suas opiniões sobre a pergunta que lhe foi formulada mas, no fundo, ficámos sem perceber o seguinte: quais são, de facto, as medidas que o Governo pretende implementar para o litoral algarvio, sendo certo que esta matéria interessa a todos os portugueses, particularmente àqueles que ali habitam e procuram fazer a sua vida, e sendo certo também que o Algarve é, sem qualquer dúvida, um destino turístico relevante?\n\nA conservação da natureza, sobretudo, a relação com os ecossistemas naturais é uma matéria sensível para todos nós e, do meu ponto de vista, tem de ser compreendida antes de os problemas acontecerem e não, como sucede muitas vezes, depois de eles acontecerem.\n\nSr. Secretário de Estado, o que é que está a fazer para antecipar e evitar problemas?"
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 1450,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 1450,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Secretário de Estado do Ambiente."
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 1450,
+      "speaker": {
+        "id": 2920,
+        "name": "José Guerreiro",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Ambiente",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, em primeiro lugar, quero abordar de novo a temática da REN, até porque é um tema que nos é particularmente caro. E por uma razão muito simples: reafirmo que, de facto, este Governo já publicou cerca de uma centena de cartas de REN e se há alguns sítios onde, de facto, isso é difícil e tecnicamente complicado de elaborar, tal deve-se, em grande parte, ao desordenamento do território em que vivemos durante muitos anos. E, quando um Governo tenta desenvolver uma política concertada entre ordenamento do território e ambiente, é natural, é lógico que se procure a melhor solução possível, naquilo que tem a ver com a articulação entre a Lei de Bases do Ordenamento do Território, os planos directores municipais, as cartas de REN e as áreas protegidas. É esta articulação, esta visão inter-sectorial do Governo sobre esta matéria que, de facto, nos tem permitido avançar com alguma velocidade.\n\nEm relação às areias e ao problema que foi colocado pelo Sr. Deputado Paulo Neves, devo dizer que herdámos muitos montes desses e, sobretudo, herdámos uma situação em que, poucas vezes, se utilizavam as areias de forma reciclável. E reciclar quer dizer também que a extracção por dragagens deve ser utilizada de uma forma consequente e não apenas noutras áreas que não têm a ver directamente com a estabilidade dos ecossistemas de que falava o Sr. Deputado do PSD.\n\nOra, foi por nos preocupar a estabilidade de todo um sistema, que é extremamente sensível, como o caso do da orla costeira algarvia, que avançámos num programa de consolidação dos cordões dunares. Eu próprio, como sabe, tive ocasião de, há pouco, me deslocar a Ferragudo e posso garantir-lhe 'que há, neste momento, conversações entre os representantes dos Ministérios do Ambiente e do Equipamento de forma a que esse problema que afecta o quotidiano e a vida das populações seja, num curto prazo, resolvido.\n\nJá agora, devo também dizer ao Sr. Deputado do PSD uma coisa que, creio, começa a ser evidente ao olhos dos portugueses: quando, por exemplo. se fala na questão da requalificação da Ria Formosa e quando dizemos que temos um problema que custa cerca de 2 milhões de contos, esse problema foi desencadeado por uma situação de prevenção, porque aquilo que estava em risco não era um canal de navegação, era, sim, a estabilidade dos cerca de 800 viveiristas que dependem dessa Ria e da saúde ecológica desse sistema para poderem sobreviver.\n\nPortanto, o Governo tomou uma iniciativa de coragem política, se me permite a expressão, porque era um problema que era necessário resolver desde há 20 anos, mas não era só um problema de ecologia no sentido estrito do termo, era também de ecologia humana que era necessário resolver em termos de estabilidade do cordão dunar."
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 1450,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos entrar na última pergunta, mas o membro do Governo ainda não está presente.\n\nAguardaremos um pouco, não muito, caso contrário a Sr.ª Deputada Maria Manuela Augusto fará a pergunta e arrisca-se a ficar sem resposta...\n\nÉ que não é a Assembleia que deve esperar pelos membros do Governo...\nPausa.\nSr. Secretário de Estado, desculpe-me, mas o senhor devia ter sido informado para estar a horas, porque a Assembleia não deve esperar pelos membros do Governo.\n\nPara formular uma pergunta sobre a articulação das políticas de educação, formação e- emprego tem a palavra a Sr.ª Deputada Maria Manuela Augusto."
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 1450,
+      "speaker": {
+        "id": 1674,
+        "name": "Maria Manuela De Almeida Costa Augusto",
+        "party": "PS",
+        "string": "A Sr.ª Maria Manuela Augusto (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, agradeço, antes de mais, a sua presença e a sua disponibilidade para estar aqui, - esclarecendo e informando esta Câmara sobre uma questão social que, é público e notório, tem sido alvo de empe-"
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 1451,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Secretário de Estado do Emprego e Formação."
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 1451,
+      "speaker": {
+        "id": 1376,
+        "name": "Paulo José Fernandes Pedroso",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Emprego e Formação (Paulo Pedroso)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente e Srs. Deputados, antes de mais, quero pedir desculpa à Assembleia pelo facto de não ter estado aqui no momento devido e quero apenas explicar que tal se deveu a um problema de comunicação interna, uma vez que já me encontrava no edifício há algum tempo.\n\nRelativamente às questões colocadas pela Sr.ª Deputada, em primeiro lugar, quero agradecer-lhas e, a esse respeito, abordar quatro aspectos: primeiro, como a senhora salientou, a posição de partida de Portugal é difícil na questão da empregabilidade.\n\nPortugal tem um aspecto positivo no sistema de emprego, pois somos um País que no contexto europeu tem uma taxa de desemprego baixa e somos um País, para além disso, como bem referiu, em que a tendência para a diminuição do desemprego tem aumentado.\n\nEm segundo lugar, temos dois aspectos negativos, sendo um deles um baixo nível de qualificação escolar e profissional da nossa população empregada, o que implica um risco estrutural e outro uma tendência para que haja nas situações de desemprego uma elevada proporção de desempregados de longa duração."
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 1451,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Moura e Silva (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "A Sr.ª Deputada não estava a reconhecer isso!"
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 1451,
+      "speaker": {
+        "id": 1376,
+        "name": "Paulo José Fernandes Pedroso",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, nós temos por hábito não esconder os problemas, mostrá-los e agir com determinação para resolvê-los..."
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 1451,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 1451,
+      "speaker": {
+        "id": 1376,
+        "name": "Paulo José Fernandes Pedroso",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... e foi neste contexto que transformámos estas questões, que são questões-chave, em questões centrais do nosso Piano Nacional de Emprego que apresentámos nesta Assembleia.\n\nA nossa estratégia antecipou, de alguma maneira, o reconhecimento pela própria União Europeia de que as oportunidades de educação e formação ao longo da vida são parte importante da empregabilidade e da sustentabilidade do emprego a prazo e definimos para isso uma meta ambiciosa e particularmente ambiciosa dada a situação de partida.\n\nSendo certo que o nosso atraso do ponto de vista da qualificação tem a ver com um défice de gerações, que não é imputável, sequer, provavelmente aos governos do sistema democrático, não é menos verdade que a nossa situação há dois anos atrás ainda reflectia uma tendência que foi muito marcada no próprio planeamento do QCA e que é esta: temos ainda em educação e formação ao longo da vida um número de pessoas que é cerca de metade do da média da União Europeia e temos a ambição de até ao ano de 2003 transformar esta relação de modo a que tenhamos em 2003 em formação, em Portugal, ao longo da vida o dobro das pessoas da média da União.\n\nPara o fazermos estamos a agir em diversas frentes num trabalho que está a ser coordenado pelos Ministérios do Trabalho e Solidariedade e da Educação e de que eu destacaria quatro grandes áreas de actuação: em primeiro lugar, combater uma tendência para a sub-certificação, ou seja, há muito esforço de formação em Portugal que não"
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 1452,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 1452,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Secretário de Estado, nós sabíamos que o senhor estava presente, mas os telefones é que não podem estar bloqueados enquanto decorre a sessão.\n\nPara fazer uma pergunta adicional, tem a palavra a Sr.ª Deputada Maria Manuela Augusto."
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 1452,
+      "speaker": {
+        "id": 1674,
+        "name": "Maria Manuela De Almeida Costa Augusto",
+        "party": "PS",
+        "string": "A Sr.ª Maria Manuela Augusto (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, permita-me que particularize o caso dos indivíduos que estão na faixa etária dos 40 aos 55 anos e que necessitam de estabilidade emocional que lhes é proporcionada pela conservação do emprego ou da sua actividade profissional.\n\nEstes indivíduos têm a seu cargo, na generalidade, filhos a estudar e porventura, terão também a seu cargo ascendentes com fracos recursos económicos. Na maior parte dos casos ter-se-ão habituado ao longo da vida a exercer a sua profissão para a qual adquiram competência inicial e formação inicial, ou não, mas que, face aos nossos desafios do mundo actual, vêem-se confrontados com necessidades específicas de formação e de qualificação profissional ou porque perderam o seu emprego ou porque a sua actividade profissional se vai desadequando aos novos desafios empresariais.\n\nMuitos deles dificilmente vencerão a inércia necessária para voltar aos bancos da escola ou para procurar formação específica adequada que lhe confira as qualificações e competências necessárias de acordo com uma economia moderna e tecnologicamente inovadora.\n\nSr. Secretário de Estado, gostaria que especificasse as medidas que estão previstas para este sector da população, que estímulos e que informação é prestada, relativamente aos mecanismos de que dispõem para actualizarem os seus conhecimentos quer no âmbito da formação permanente e contínua quer no caso dos desempregados de longa duração."
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 1452,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 1452,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos adicionais, tem a palavra o Sr. Deputado Castro de Almeida."
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 1452,
+      "speaker": {
+        "id": 1456,
+        "name": "Manuel Castro De Almeida",
+        "party": "PSD",
+        "string": "O Sr. Castro de Almeida (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, ouvimo-lo aqui quase no fim da presente Legislatura anunciar que vai preparar um diploma criando um serviço que há-de assegurar a articulação entre os Ministérios da Educação e do Emprego para a educação profissional. Portanto, na próxima legislatura teremos qualquer resultado visível da acção deste Governo, ao fim de quatro anos de exercício de funções.\n\nSr. Secretário de Estado, tivemos aqui, hoje, a Sr.ª Secretária de Estado da Educação e Inovação a dizer-nos que vão ser encerrados variados cursos nocturnos que estão a funcionar no nosso sistema educativo.\n\nOra, ocorre-nos colocar-lhe a si a seguinte questão: prepara-se o Governo para substituir as escolas pelos centros de formação do Ministério do Trabalho? Vai passar para a responsabilidade do Ministério do Trabalho aquelas que eram as competências do Ministério da Educação em matéria de educação recorrente, educação de segunda oportunidade, do ensino nocturno concretamente?\n\nEsta é a questão que eu gostaria de ver respondida, Sr. Secretário de Estado."
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 1452,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos adicionais, tem a palavra o Sr. Deputado Moura e Silva."
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 1452,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Moura e Silva (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, de facto, ficou aqui patente a diferença de critério e até da constatação em relação à realidade que vivemos, entre o Sr. Secretário de Estado e a bancada do Partido Socialista que teve, pelo menos, a coragem de reconhecer que ainda há muito para fazer na qualificação da mão-de-obra portuguesa. Aliás, de acordo com a recente intervenção do Sr. Primeiro-Ministro, a formação profissional e a qualificação da mão-de-obra portuguesa são um desígnio nacional que o Governo não deixará de ter em consideração, tanto mais porque esta é a grande razão que ainda leva a que, sob o ponto de vista da produtividade, estejamos um pouco longe dos nossos parceiros comunitários.\n\nPermita-me só um ligeiro comentário em relação ao Plano Nacional de Emprego, o qual, como sabe, foi objecto de muita crítica pelas diversas organizações, quer de parceiros sociais quer até mesmo pelas instâncias comunitárias.\n\nGostaria também de saber para quando é que está prevista a alteração à funcionalidade do Instituto do Emprego e Formação Profissional que, de tacto, hoje é um organismo esclerosado, estatizado, que pouco ou nada serve aqueles que precisam de acompanhamento e de apoio por parte do mesmo."
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 1452,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Secretário de Estado."
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 1453,
+      "speaker": {
+        "id": 1376,
+        "name": "Paulo José Fernandes Pedroso",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Emprego e Formação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Maria Manuela Augusto, em relação às questões que colocou, gostaria de dizer-lhe claramente que estamos, neste momento, a discutir com os parceiros sociais um programa que lhes foi apresentado sob a forma de memorando no final do ano passado que é, precisamente, um programa de apoio a trabalhadores em risco ligados a sectores e empresas em reestruturação e que visa, em primeiro lugar, uma abordagem preventiva em situações de reestruturação com uma formação que aumente a empregabilidade destas pessoas e, em segundo lugar, uma vez geradas inevitáveis situações de desemprego que possam ocorrer, facilitar o regresso ao mercado de trabalho.\n\nPor outro lado - e com isto faço também a ponte para a questão colocada pelo Sr. Deputado Moura e Silva, o Instituto do Emprego e Formação Profissional está a ser alvo de uma profunda modernização que dura desde o início da legislatura, que tem sido persistentemente seguida pelo Governo e que faz com que já hoje, Sr. Deputado, eu lhe diga que os milhares de desempregados inscritos num centro de emprego não se reconheçam na sua afirmação.\n\nÉ que, desde Julho do ano passado, como sabem, primeiro em zonas-piloto e, progressivamente, em todo o País, o Instituto do Emprego e Formação Profissional está a desenvolver uma abordagem precoce em que todos os desempregados inscritos, com mais de 25 anos e antes de 12 meses de inscrição sejam alvo de uma resposta de política activa de emprego. Por enquanto, isto acontece apenas em zonas-piloto, mas são zonas-piloto que já cobrem mais de 25% da população inscrita e que vêm transformar radicalmente o modo como o serviço público de emprego se relaciona com os seus utentes e é o modo em que, com este processo, estou seguro, dentro de três ou quatro anos, teremos um Instituto do Emprego e Formação Profissional perfeitamente capaz de responder imediatamente às necessidades da sua população utente, que é por isso que está inscrita num centro de emprego.\n\nO Sr. Deputado Moura e Silva disse, por outro lado, que o Plano Nacional de Emprego tinha sido objecto de críticas e omitiu - mas eu gostaria de recordar-lhe - que, na avaliação apresentada pela Comissão Europeia em conjunto com o Conselho de Ministros dos planos nacionais de emprego, o Plano Nacional de Emprego português é um dos destacados, ,a vários títulos, com referências elogiosas às suas metas, ao modo como as mesmas estão definidas e ao modo como está colocada a estratégia. \nO Sr. Deputado situou-se numa informação que vem de há muito atrás no tempo e que não corresponde à avaliação que, em sede de União Europeia, é feita do Plano Nacional de Emprego português."
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 1453,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Moura e Silva (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Em relação à meta, o problema é esse mesmo."
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 1453,
+      "speaker": {
+        "id": 1376,
+        "name": "Paulo José Fernandes Pedroso",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por último, o Sr. Deputado Castro de Almeida colocou duas questões, se bem entendi. Gostaria de começar por sublinhar que não é habitual o PSD reconhecer a acção do Governo, seja tardia ou menos tardia, pelo que o saúdo por tê-lo feito, porque, de facto, esta Agência Nacional de Educação e Formação de Adultos vem para ficar..."
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 1453,
+      "speaker": {
+        "id": 1456,
+        "name": "Manuel Castro De Almeida",
+        "party": "PSD",
+        "string": "O Sr. Castro de Almeida (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ainda não veio, há-de vir!"
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 1453,
+      "speaker": {
+        "id": 1376,
+        "name": "Paulo José Fernandes Pedroso",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... e vem fazer algo que os governos do PSD não conseguiram fazer ao longo de mais de uma década e, mais do que isso, desarticularam significativamente a oferta de educação e formação ao longo da vida em Portugal.\n\nO Sr. Deputado perguntou-me também sobre a relação com o ensino recorrente. Sr. Deputado, seguramente que a minha colega Ana Benavente teve ocasião de esclarecer a Câmara sobre o modo como a questão do ensino recorrente se coloca. Há, em Portugal, desperdício no ensino recorrente que hoje existe e importa usar bem os dinheiros públicos, que são de todos. O que estamos a fazer é a rever esse ensino recorrente com muito desperdício, ao mesmo tempo que ampliamos globalmente a oferta de educação e formação de adultos. Continuará a haver ensino recorrente em condições adequadas, haverá uma nova rede de cursos de educação e formação, quer no âmbito do Ministério da Educação, quer no do Ministério do Trabalho e Solidariedade e haverá uma instituição, que é a Agência Nacional de Educação e Formação de Adultos, que tratará da certificação do conjunto das ofertas.\n\nA nossa ideia não é desenvolver em separado duas sub-redes de educação e formação de adultos, como se de dois governos se tratasse - e como se fazia no passado -; é, sim, a de que haja uma instituição reguladora e haja, sobretudo, a inversão da situação estrutural que temos hoje, para que possamos esperar ter, daqui a 10 anos, um nível de qualificação da nossa população activa radicalmente diferente do que temos neste momento. É essa, Srs. Deputados, a nossa maior fragilidade, em termos de emprego, no País."
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 1453,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma interpelação à Mesa, tem a palavra o Sr. Deputado Acácio Barreiros."
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 1453,
+      "speaker": {
+        "id": 3,
+        "name": "Acácio Manuel De Frias Barreiros",
+        "party": "PS",
+        "string": "O Sr. Acácio Barreiros (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente e Srs. Deputados, faço esta interpelação à Mesa para referir e repudiar, com toda a firmeza, uma notícia saída hoje no semanário O Independente sobre supostas afirmações feitas pelo Sr. Presidente da Assembleia da República, a qual é inteiramente falsa e constitui um atentado à dignidade desta Assembleia e à dignidade do Sr. Presidente da mesma."
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 1453,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 1453,
+      "speaker": {
+        "id": 3,
+        "name": "Acácio Manuel De Frias Barreiros",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estive na Conferência dos Representantes dos Grupos Parlamentares, como estiveram os representantes de todos os partidos, em que foi preparada, com todo o cuidado, a visita de S. Ex.ª o Presidente da Repú-"
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 1454,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma interpelação à Mesa, tem agora a palavra o Sr. Deputado Carlos Encarnação."
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 1454,
+      "speaker": {
+        "id": 420,
+        "name": "Carlos Manuel De Sousa Encarnação",
+        "party": "PSD",
+        "string": "O Sr. Carlos Encarnação (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, quero acompanhar as palavras do Sr. Deputado Acácio Barreiros no repúdio que manifestou aqui.\n\nTenho a sensação de que há regras para tudo, de que tem de haver limites e o sensacionalismo jornalístico tem de reconhecer, ele próprio, que um dos limites mais importantes é, porventura, o do interesse do Estado.\n\nNesta. altura, aquilo que se passa é qualquer coisa que coloca mal a Assembleia da República e o seu Presidente e que é susceptível de introduzir um problema nas relações entre França e Portugal. Se aquilo que se disse fosse verdadeiro, mas mesmo que não o fosse - e não o é! -, o mero facto de se fazer uma primeira página com uma notícia destas é, ele próprio, o reconhecimento de que o sensacionalismo jornalístico não tem limites, infelizmente.\n\nO Sr. Presidente Chirac vem visitar Portugal, tem a honra, que é concedida a Presidentes da República muito esporadicamente, de discursar nesta Assembleia e o Presidente e todos os Deputados da mesma sentir-se-ão muito honrados com a visita e com o discurso do Sr. Presidente Chirac!\nAplauso do PSD e do PS."
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 1454,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma interpelação à Mesa, tem a palavra o Sr. Deputado Sílvio Rui Cervan."
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 1454,
+      "speaker": {
+        "id": 1551,
+        "name": "Sílvio Rui Neves Correia Gonçalves Cervan",
+        "party": "CDS-PP",
+        "string": "O Sr. Sílvio Rui Cervan (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente e Srs. Deputados, no mesmo sentido das interpelações dos Srs. Deputados Acácio Barreiros e Carlos Encarnação, quero repudiar a notícia que veio hoje, na primeira página e com desenvolvimento no interior, do semanário D Independente, nomeadamente porque aquilo de que a conferência dos representantes dos grupos parlamentares cuidou - e eu estive na mesma, em representação do Partido Popular - foi de bem receber e de bem acolher, nesta Casa, o Sr. Presidente da República Francesa e de contribuir, dessa forma, como é nosso dever, para as melhores relações entre as Repúblicas de Portugal e da França.\n\nNotícias como aquela em nada beneficiam o prestígio das instituições, em nada beneficiam o prestígio desta Assembleia da República e têm a irresponsabilidade completa de poder prejudicar centenas de milhares de portugueses que vivem e são bem recebidos na República Francesa.\n\nQuero dizer, em nome do Partido Popular, que se espera sempre que notícias como aquelas sejam as últimas, mas, infelizmente, a prática é diferente."
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 1454,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma interpelação à Mesa, tem a palavra o Sr. Deputado Octávio Teixeira."
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 1454,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Octávio Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente e Srs. Deputados, na sequência do que foi dito pelos Colegas que me antecederam, também começaria por repudiar a notícia dada hoje por O Independente, porque ela não apenas fere a honra do Presidente da Assembleia da República como põe em causa as relações entre os Estados português e francês.\n\nJá aqui foi dito, mas gostaria de o repetir, que, não sendo verdade aquela notícia, mesmo que, hipoteticamente, aquilo se tivesse passado, seria inaceitável que pudesse ser transmitido para um órgão de comunicação social poder fazer um título. As relações que têm gerido os trabalhos da conferência têm sido de compreensão entre todos e de diálogo franco e aberto, sem quaisquer outras preocupações. Se viermos a ter de mudar a forma como se realizam as conferências para evitar coisas destas, haverá também aí um prejuízo enorme para a própria eficácia dos trabalhos da Assembleia da República.\n\nMas o que é importante, Sr. Presidente, e com isto termino, é que também estive presente naquela conferência e aquela notícia nada tem de verdade!"
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 1454,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma interpelação à Mesa, tem a palavra a Sr.ª Deputada Carmen Francisco."
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 1454,
+      "speaker": {
+        "id": 1602,
+        "name": "Carmen Isabel Amador Francisco",
+        "party": "PEV",
+        "string": "A Sr.ª Carmen Francisco (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, não estive presente na conferência dos representantes dos grupos parlamentares - esteve a minha colega Isabel Castro -, mas quero também, em nome do Grupo Parlamentar do Partido Ecologista Os Verdes, associar-me ao repúdio pela notícia hoje vinda a público que, certamente, em nada dignifica esta Casa e julgo que o Presidente da Assembleia da República não merece este tipo de tratamento."
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 1454,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Manuel Alegre)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, em meu nome pessoal e em nome da Mesa também quero manifestar a minha indignação por uma notícia que não só põe em causa a dignidade do Presidente da Assembleia da República e a dignidade da Assembleia mas também põe em causa a dignidade do Estado português e, sobretudo, as relações luso-francesas, as quais se inscrevem numa prioridade estratégica, tradicional e cultural da política externa portuguesa.\n\nQuero manifestar toda a minha solidariedade ao Presidente Almeida Santos, não apenas por ser Presidente da Assembleia, não apenas por ser a segunda figura do Es-"
+    }
+  ]
+}

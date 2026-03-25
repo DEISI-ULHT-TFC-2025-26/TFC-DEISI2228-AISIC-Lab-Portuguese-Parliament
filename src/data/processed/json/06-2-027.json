@@ -1,0 +1,838 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "6",
+    "legislative_session": "2",
+    "number": "27",
+    "date": "1993-01-08"
+  },
+  "debate_id": "r3_6_2_27_1993-01-08",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 984,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.\nEram 10 horas e 35 minutos.\nEstavam presentes os seguintes Srs. Deputados:\nPartido Social-Democrata (PSD):\nAbi1io Sousa e Silva.\n\nAdérito Manuel Soares Campos.\n\nAdriano da Silva Pinto.\n\nAlberto Cerqueira de Oliveira.\n\nAlberto Monteiro de Araújo.\n\nÁlvaro José Martins Viegas.\n\nÁlvaro Roque de Pinho Bissaia Barreto.\n\nAna Paula Matos Barros.\n\nAnabela Honório Matias.\n\nAntónio Costa de Albuquerque de Sousa Lara.\n\nAntónio da Silva Bacelar.\n\nAntónio de Carvalho Martins.\n\nAntónio do Carmo Branco Malveiro.\n\nAntónio Esteves Morgado.\n\nAntónio Germano Fernandes de Sá e Abreu.\n\nAntónio Joaquim Correia Vairinhos.\n\nAntónio José Barradas Leitão.\n\nAntónio José Caeiro da Mota Veiga.\n\nAntónio Manuel Fernandes Alves.\n\nAntónio Maria Pereira.\n\nAntónio Moreira Barbosa de Melo.\n\nAristides Alves do Nascimento Teixeira.\n\nArlindo da Silva André Moreira.\n\nArmando de Carvalho Guerreiro da Cunha.\n\nArménio dos Santos.\n\nBelarmino Henriques Correia.\n\nCarlos Alberto Lopes Pereira.\n\nCarlos Lélis da Câmara Gonçalves.\n\nCarlos Manuel de Oliveira da Silva.\n\nCarlos Manuel Duarte de Oliveira.\n\nCarlos Manuel Marta Gonçalves.\n\nCarlos Miguel de Valleré Pinheiro de Oliveira.\n\nCarlos Miguel Maximiano de Almeida Coelho.\n\nCecília Pita Catarino.\n\nCipriano Rodrigues Martins.\n\nDelmar Ramiro Palas.\n\nDomingos Duarte Lima.\n\nDuarte Rogério Matos Ventura Pacheco.\n\nEduardo Alfredo de Carvalho Pereira da Silva.\n\nElói Franklin Fernandes Ribeiro.\n\nEma Maria Pereira Leite Lóia Paulista.\n\nFernando Carlos Branco Marques de Andrade.\n\nFernando dos Reis Condesso.\n\nFernando José Antunes Gomes Pereira.\n\nFernando José Russo Roque Correia Afonso.\n\nFernando Manuel Alves Cardoso Ferreira.\n\nFernando Monteiro do Amaral.\n\nFernando Santos Pereira.\n\nFilipe Manuel da Silva Abreu.\n\nFrancisco Antunes da Silva.\n\nFrancisco João Bernardino da Silva.\n\nGuido Orlando de Freitas Rodrigues.\n\nGuilherme Henrique Valente Rodrigues da Silva.\n\nHilário Torres Azevedo Marques.\n\n15ilda Maria Renda Periquito Pires Martins.\n\nJaime Gomes Mil-Homens.\n\nJoão Alberto Granja dos Santos Silva.\n\nJoão Carlos Barreiras Duarte.\n\nJoão do Lago de Vasconcelos Mota.\n\nJoão Domingos Fernandes de Abreu Salgado.\n\nJoão Eduardo Dias Madeira Gouveia.\n\nJoão Granja Rodrigues da Fonseca.\n\nJoão José da Silva Maçãs.\n\nJoão José Pedreira de Matos.\n\nJoão Manuel dos Santos Henriques.\n\nJoão Maria Leitão de Oliveira Martins.\n\nJoaquim Cardoso Martins.\n\nJoaquim Eduardo Gomes.\n\nJoaquim Manuel Pereira de Almeida e Silva.\n\nJoaquim Maria Fernandes Marques.\n\nJoaquim Vilela de Araújo.\n\nJosé Alberto Puig dos Santos Costa.\n\nJosé Álvaro Machado Pacheco Pereira.\n\nJosé Ângelo Ferreira Correia.\n\nJosé Augusto Santos da Silva Marques.\n\nJosé de Almeida Cesário.\n\nJosé Fortunato Freitas Costa Leite.\n\nJosé Júlio Carvalho Ribeiro.\n\nJosé Leite Machado.\n\nJosé Macário Custódio Correia.\n\nJosé Manuel Borregana Meireles.\n\nJosé Manuel da Silva Costa.\n\nJosé Manuel Nunes Liberato.\n\nJosé Mário de Lemos Damião.\n\nJosé Pereira Lopes.\n\nLeonardo Eugénio Ramos Ribeiro de Almeida.\n\nLuís António Carrilho da Cunha.\n\nLuís António Martins.\n\nLuís Carlos David Nobre.\n\nLuís Filipe Garrido Pais de Sousa.\n\nLuís Manuel Costa Geraldes.\n\nManuel Acácio Martins Roque.\n\nManuel Albino Casimiro de Almeida.\n\nManuel Castro de Almeida.\n\nManuel da Costa Andrade.\n\nManuel da Silva Azevedo.\n\nManuel de Lima Amorim.\n\nManuel Filipe Correia de Jesus.\n\nManuel Joaquim Baptista Cardoso.\n\nManuel Maria Moreira.\n\nManuel Simões Rodrigues Marques.\n\nMaria da Conceição Figueira Rodrigues.\n\nMaria da Conceição Ulrich de Castro Pereira.\n\nMaria de Lurdes Borges Póvoa Costa.\n\nMaria José Paulo Caixeiro Barbosa Correia.\n\nMaria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.\n\nMaria Luísa Lourenço Ferreira.\n\nMaria Manuela Aguiar Dias Moreira.\n\nMaria Margarida da Costa e Silva Pereira Taveira de Sousa.\n\nMário Jorge Belo Maciel.\n\nMelchior Ribeiro Pereira Moreira.\n\nMiguel Bento Martins da Costa de Macedo e Silva.\n\nMiguel Fernando Cassola de Miranda Relvas.\n\nNuno Francisco Fernandes Delerue Alvim de Matos.\n\nOlinto Henrique da Cruz Ravara.\n\nPedro António de Bettencourt Gomes.\n\nRui Alberto Limpo Salvada.\n\nRui Carlos Alvarez Carp.\n\nRui Fernando da Silva Rio.\n\nRui Manuel Lobo Gomes da Silva."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 985,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a ordem do dia de hoje destina-se à apreciação, na generalidade, da proposta de lei n.º 40/VI - Altera o Estatuto da Ordem dos Advogados.\n\nPara uma intervenção, tem a palavra o Sr. Secretário de Estado Adjunto do Ministro da Justiça."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 985,
+      "speaker": {
+        "id": 2860,
+        "name": "Álvaro Laborinho Lúcio",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto do Ministro da Justiça (Borges Soeiro)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A Directiva do Conselho da Comunidade Europeia n.º 89/48/CEE, de 21 de Dezembro de 1988, introduziu nos Estados membros um sistema geral de reconhecimento de diplomas de ensino superior que sancionem formações profissionais com a duração mínima de três anos.\n\nO objectivo foi o de facultar aos nacionais dos Estados membros o exercício de uma profissão, independente ou assalariada num outro Estado membro diferente daquele onde adquiriram as respectivas qualificaç6es profissionais.\n\nA directiva em causa constitui, assim, um instrumento de abolição dos obstáculos à livre circulação de pessoas e serviços entre os Doze, de acordo com um dos grandes objectivos do Tratado de Roma.\n\nO Decreto-Lei n.º 289/91, de 10 de Agosto, procedeu à transposição de tal directiva para a ordem jurídica interna."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 986,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveram-se, para pedir esclarecimentos, os Srs. Deputados 15abel Castro, Rui Machete, José Vera Jardim e António Filipe.\n\nTem a palavra a Sr.ª Deputada 15abel Castro."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 986,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª 15abel Castro (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr. Secretário de Estado Adjunto do Ministro da Justiça, quero colocar-lhe uma questão que, sendo secundária, constitui uma mera curiosidade relativamente a esta proposta de lei e que tem a ver com o disposto no artigo 33 º do Estatuto da Ordem dos Advogados, onde se prevê que, no Porto, haja a redução para um do número de jornais diários em que são publicados anúncios para a convocação das assembleias gerais pelo bastonário. Portanto, no que diz respeito ao Porto, há uma alteração em relação ao que se passava anteriormente - tanto em Lisboa como no Porto essa publicação era feita em dois jamais diários, no sentido de essa publicação ser feita apenas num único jornal diário.\n\nPergunto-lhe se esta redução tem a ver com a constatação da existência de uma crise no sector, não se justificando a publicação em dois jornais no Porto, ou se há uma outra razão para esse facto.\n\nDe qualquer modo, a questão que gostaria que o Sr. Secretário de Estado Adjunto clarificasse melhor tem a ver com a referência às provas de aptidão durante o estágio. Esta proposta de lei decorre naturalmente de uma directiva comunitária e o Decreto-Lei n.º 289/91, de 10 de Agosto, prevê regulamentação especifica para a Ordem, instituição na qual é obrigatória a inscrição para o exercício da advocacia, em Portugal.\n\nGostava que precisasse este ponto, porque a situação que hoje se vive é a de sobrecarga do mercado, havendo um excesso de advogados, questão esta que tem sido frequentemente colocada Ora, a livre circulação de serviços"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 987,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Secretário de Estado; como há mais oradores inscritos para formular pedidos de esclarecimento, pergunto se deseja responder já ou no fim."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 987,
+      "speaker": {
+        "id": 2860,
+        "name": "Álvaro Laborinho Lúcio",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto do Ministro da justiça",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "No fim, Sr. Presidente."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 987,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Rui Machete."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 987,
+      "speaker": {
+        "id": 352,
+        "name": "Rui Manuel Parente Chancerelle De Machete",
+        "party": "PSD",
+        "string": "O Sr. Rui Machete (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado Adjunto do Ministro da Justiça, ouvi, com toda a atenção e interesse, a sua intervenção e a minha pergunta diz respeito a uma passagem em que V. Ex.ª faz referência ao respeito pela autonomia da associação pública que é a Ordens dos Advogados, o que é sempre agradável para aqueles que são simultaneamente Deputados e advogados. Todavia, existe um ponto relativamente ao qual gostaria de saber a opinião do Governo e, simultaneamente, de fazer uma observação, que me parece importante, para evitar problemas no futuro.\n\nEm matéria de ingresso e de estágio, diz V. Ex.ª, que a Ordem deverá ser consultada, com o que estou de acordo, devendo até, em minha opinião, ser ouvida, no sentido de termos uma ideia clara sobre o pensamento da Ordem a esse respeito.\n\nContudo, existe uma questão formal importante na proposta de lei porque a solução que parece desenhar-se, e que naturalmente será objecto de análise na especialidade, aponta para algumas dificuldades de compatibilização com as matérias de reserva relativa da Assembleia da República. 15to é, as\n\nrelativas à liberdade de profissão, reguladas, como sabe, no artigo 47 º da Constituição da República Portuguesa, como liberdade fundamental, fazem parte das matérias de reserva relativa da Assembleia, carecendo portanto, de um autorização legislativa, na hipótese de ser o Governo a regulá-las, portando ser também reguladas pela ~ Assembleia; porém, não poderão, do ponto de vista formal ser entregues à autonomia de uma associação pública, muito embora se trate de um associação tão prestigiada, coca é a Ordem dos Advogados.\n\nNeste sentido, penso que seria importante que, em sede de especialidade, se tomassem as directrizes fundamentais na proposta de lei, através de uma opção por parte da Assembleia, por forma a esclarecer este problema e a respeitar-se a Constituição."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 987,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 987,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado José Vera Jardim."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 987,
+      "speaker": {
+        "id": 1310,
+        "name": "José Eduardo Vera Cruz Jardim",
+        "party": "PS",
+        "string": "O Sr. José Vera Jardim (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, já na anterior legislatura o Governo veio à Assembleia da República com um pedido de autorização legislativa sobre esta matéria, como, certamente, estará bem recordado. Só que, nessa altura, o Governo não teve o arroubo de amor pela autonomia da Ordem dos Advogados e veio regulamentar, quer na proposta de lei de autorização legislativa quer no texto de decreto-lei, que anexou à proposta de lei, muito detalhadamente, o regime que deveria ser implementado para o acesso à profissão de advogado por cidadãos de Estados membros da Comunidade e que era o regime de exame.\n\nAssim, a primeira questão que gostaria de colocar é a seguinte: o que é que justifica que, neste momento, o Governo, no decorrer desse tal arroubo de amor pela autonomia da Ordem dos Advogados, nada tenha dito sobre essa matéria e, pura e simplesmente - e V. Ex.ª desculpar-me-á a expressão! -, «sacudindo a água do capote», venha dizer que deverá ser a Ordem dos Advogados a tratar do problema, porque o Governo não tem qualquer ideia (e presume-se que a Assembleia também não!) sobre o método a escolher, de entre os dois que são abertos pela directiva, para o acesso à profissão de advogado?\n\nTanto mais que - e não vou repetir as considerações já feitas pelo Sr. Deputado Rui Machete - o Governo, metendo-se por esta via, meteu-se pela má via, porque ignorou que não é possível, por mero regulamento interno de uma associação pública, como é a Ordem dos Advogados, regulamentar o acesso à profissão em termos de criar-lhe restrições sejam elas quais forem, pelo que o Governo veio cometer, a nosso ver, uma manifesta inconstitucionalidade.\n\nA segunda questão que gostaria de colocar tem a ver com o conselho distrital de Faro. A este propósito, gostaria de dizer que ainda bem que o Governo, finalmente, ouviu aquilo que já vem sendo dito há muito tempo aliás, eu fui o primeiro na Ordem dos Advogados, já há 10 anos, a dizer que era necessário implementar um conselho distrital em Faro.\n\nContudo, Sr. Secretário de Estado, dada a urgência e a necessidade de implementação desse conselho, como V. Ex.ª referiu na sua intervenção, pergunto por que razão é que isso só terá lugar daqui a três anos."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 987,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado António Filipe."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 987,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, o Governo, mais uma vez, vem a esta Assembleia da República apresentar uma proposta de lei de autorização legislativa para rever o Estatuto da Ordem dos Advogados, referindo-se apenas taxativamente a uma parte da matéria que está em causa e que é a mais consensual, ou seja, a necessidade de criação de um conselho distrital em Faro e a urgência em transpor para o direito interno a Directiva n.º 89/48/CEE no que se refere à garantia e às condições do acesso de cidadãos de outros países comunitários ao exercício de advocacia em Portugal.\n\nNo entanto, há questões complexas que também estão a ser tratadas, embora isso não se diga, nomeadamente o acesso ao exercício da advocacia em Portugal por licenciados em Direito pelas universidades portuguesas.\n\nEsta é uma questão que está presente e é nisso que estamos a pensar, um o Governo, quase que fazendo de conta que esse ponto não passa de um pormenor, não se refere às soluções que propõe para resolver um problema grave que tem a ver com o boom de cursos de Direito em tudo quanto é universidade privada - e falo, sobretudo,"
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 988,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 988,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o desejar, tem a palavra o Sr. Secretário de Estado Adjunto do Ministro da Justiça."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 988,
+      "speaker": {
+        "id": 2860,
+        "name": "Álvaro Laborinho Lúcio",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto do Ministro da Justiça",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Como nota introdutória nesta fase de resposta ás perguntas que me foram colocadas - que, desde já, agradeço -, convirá explicitar um pouco mais o facto de a Ordem dos Advogados, como, aliás, as restantes ordens, ser uma associação pública, o que significa que o Estado delega poderes de jus imperii a associações por considerá-las de interesse público.\n\nComo tive oportunidade de referir na minha intervenção, a nível do travejamento constitucional, há duas leituras acerca da construção daquilo que é uma associação pública e até onde é que o Estado pode ou não ir. Ora, na minha perspectiva, essas duas alternativas ou estão a ocupar-se directamente da regulamentação e tutela da profissão, definindo os parâmetros legais de carácter geral ou, então, entram na regulamentação de tipo pormenorizado daquilo que é ou não uma associação pública.\n\nA nossa opção é a de que, face ás balizas constitucionais e ao respeito que nos merece a Ordem dos Advogados, o Estado deve limitar-se a fixar os grandes parâmetros legais, deixando aos órgãos da Ordem dos Advogados, no caso concreto ao conselho geral, a parte regulamentar da actuação da Ordem dos Advogados.\n\n15to entronca, obviamente, na pergunta, repetida por todos os Srs. Deputados, sobre o problema do exame.\n\nÉ óbvio que, através de um raciocínio linear, seria o conselho geral a entidade competente para decidir ou não acerca da existência do exame. Mas não vou responder de uma forma linear, porque penso que a questão do exame é deveras importante e merece a reflexão de todos nós.\n\nA advocacia é, efectivamente, uma profissão liberal, mas tem um cunho público bem vincado, sendo o advogado um colaborador precioso da administração da justiça. Interessa à justiça que o advogado seja uma pessoa com um grau de formação adequado e um grau de preparação que lhe permita fazer que a máquina judiciária funcione da melhor maneira.\n\nPorque pensamos que a questão de saber se deve ou não haver exame é uma questão fulcral, o Governo não quis tomar a iniciativa de optar por essa decisão e considera que, nessa área, a proposta de lei é aberta. 15to significa que o Governo está absolutamente disponível para, juntamente com os Srs. Deputados, nomeadamente na 3.ª Comissão, encontrar os consensos necessários para se decidir esta matéria. A 3.ª Comissão, depois de ouvir a Ordem dos Advogados, o Ministério da Justiça e as entidades que entender, tomará a sua decisão e pode contar com toda a colaboração do Ministério da Justiça no sentido de se encontrar a melhor solução, porque para o Governo esta não é uma questão fechada.\n\nPara nós, repito, a questão do exame não está decidida, não optámos por ela, porque entendemos que merece o consenso mais alargado possível desta Assembleia.\n\nQuanto a questões de maior pormenor, penso que são duas.\n\nUma, aflorada pela Sr' Deputada 15abel Castro, que diz respeito à alteração dos anúncios. \nA Sr.ª Deputada focou, nomeadamente, o exemplo de a redacção actual do diploma prever dois anúncios em dois jornais do Porto e a actual proposta de lei apenas um. Penso que a previsão se deve à existência de mais um distrito judicial, o de Faro, bem como a uma nova redistribuição do número de advogados pelos respectivos distritos judiciais. Nessa linha, mantiveram-se dois em Lisboa, por ser o distrito judicial onde existe um número mais elevado de advogados, e, relativamente aos restantes distritos, fixou-se a obrigatoriedade de publicação dos anúncios num jornal. Aliás, esta foi até uma sugestão da própria Ordem dos. Advogados.\n\nA outra questão foi colocada pelo Sr. Deputado José Vera Jardim e refere-se à entrada em funcionamento do distrito judicial de Faro. Apesar de pensar que já está a"
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 989,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 989,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, encontram-se a assistir à sessão alunos e professores das Escolas Primárias n.º 72 de Lisboa e 1 da Damaia e da Escola Secundária de Miranda do Douro, para os quais peço a vossa habitual saudação.\nPara uma intervenção, tem a palavra o Sr. Deputado José Vera Jardim."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 989,
+      "speaker": {
+        "id": 1310,
+        "name": "José Eduardo Vera Cruz Jardim",
+        "party": "PS",
+        "string": "O Sr. José Vera Jardim (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Antes de iniciar a minha intervenção, queria começar por saudar a presença, numa das tribunas desta Câmara, do, recentemente eleito, novo bastonário da Ordem dos Advogados, de quem a classe dos advogados espera e exprimiu-o claramente nas eleições - uma actuação que consiga dignificar a classe e fazer avançar todas as deliberações que têm sido tomadas ao longo dos últimos congressos da Ordem dos Advogados e que, infelizmente, na prática, estão ainda, em grande parte, por executar.\n\nOs problemas colocados pela proposta de lei são fundamentalmente dois.\n\nO primeiro, o mais importante e relevante, diz respeito à transposição, para o domínio da Orlem dos Advogados e do exercício da profissão de advogado, da directiva da CEE sobre o reconhecimento de títulos académicos para o exercício do direito de estabelecimento e para a livre prestação de serviços noutros países comunitários. Já não é a primeira vez que o Governo apresenta, nesta Câmara, este problema. Na última legislatura, o Governo escolheu a forma de autorização legislativa; desta vez, apresenta-nos uma proposta de lei. Nessa autorização legislativa, couto já tive ocasião de referir no pedido de esclarecimento que formulei ao Sr. Secretário de Estado, encontrava-se regulamentado em pormenor o tipo de exigência que se faria em Portugal para o exercício da profissão de advogado por cidadãos dos Estados membros. Escolhia-se claramente o exame e não o chamado «estágio» prolongado até três anos e regulamentava-se em pormenor, no projecto de decreto-lei que o Governo juntou ao pedido de autorização legislativa, o tipo desse exame, com o currículo, as disciplinas, todos os métodos a seguir nessa matéria.\n\nDesta vez, o Governo, naquilo que já qualifiquei de arroubo de amor à autonomia da Orlem dos Advogados - bom seria que o Governo tivesse esses mesmos arroubos sobre a autonomia noutros sectores em que o não tem demonstrado, designadamente (e para dar um exemplo) em relação ao Ministério Público -, vem dar um cheque em branco e remeter, pura e simplesmente, para regulamento interno da Ordem dos Advogados a regulamentação do acesso à profissão. Já aqui foi dito, e pretendia repeti-lo para que ficasse bem claro, que entendemos que esta norma é inconstitucional. Efectivamente, as restrições ao acesso à profissão 86 podem ser conteúdo de lei e nunca de regulamento interno de uma associação, mesmo que pública. \nO Sr. Secretário de Estado não se pronunciou claramente sobre esta matéria, que lhe foi questionada por Deputados das várias bancadas. É bom que fique claro - aliás, já há uma referência a este problema, no parecer da 3.ª Comissão sobre esta proposta de lei - que nesta solução escolhida pelo Governo há uma inconstitucionalidade manifesta.\n\nNo que diz respeito a advogados oriundos de países membros da Comunidade em Portugal, a situação não é, por enquanto, grave pela razão simples de que o nosso país não é, ainda, um mercado atraente, quer para as chamadas «multinacionais da advocacia», quer para a generalidade dos advogados dos países membros da Comunidade. A maior parte dos advogados estrangeiros oriundos de países da Comunidade, que são ainda muito poucos, têm-se deslocado para o Algarve na procura de trabalho relacionado com o investimento estrangeiro feito nessa zona por empresas e particulares estrangeiros.\n\nE, como já disse, não chegaram ainda a Portugal, como já chegaram à vizinha Espanha, as chamadas «multinacionais da advocacia». Pelo contrário, elas têm vindo a implantar-se, em Portugal, através de acordos de representação com escritórios e advogados portugueses, pelo que o problema não é ainda muito agudo, mas poderá vir a sê-lo com o passar dos anos e a recessão que afecta muitos países da Europa, designadamente a Inglaterra e a Alemanha. Aliás, já há sinais de movimentos para a instalação de escritórios de advogados anglo- saxónicos e alemães em Portugal, os quais, naturalmente, seguem os seus clientes, as empresas e os particulares que investem em Portugal.\n\nOra, esta situação não se verifica com os advogados portugueses; de facto, neste campo, não há uma reciprocidade, porque, como todos sabemos, não existe um movimento idêntico de empresas portuguesas que se estabeleçam em países estrangeiros, pelo que não há qualquer similitude entre tuna e outra situação. Com efeito, os únicos casos conhecidos - aliás, muito poucos - de advogados portugueses que se têm estabelecido em países da Comunidade, e são muito poucos, repito, têm vindo a verificar-se, sobretudo, em França e têm por objectivo prestar serviço às comunidades de emigrantes portugueses no estrangeiro, mas não são casos significativos.\n\nAssim, penso que este problema da aplicação da Directiva da Comunidade Europeia n.º 89/48/CEE não é muito grave, mas é urgente que seja resolvido, porque é preciso dar à Ordem dos Advogados, por instrumento suficiente, ou seja, por lei, a possibilidade, que não tem, neste momento, de usar qualquer dos sistemas da directiva para poder controlar o estabelecimento de advogados nacionais dos países da CE em Portugal. Neste momento, eles estão a instalar-se, embora ainda em pequeno número, e a Ordem dos Advogados não tem, até ao momento, capacidade para poder optar por qualquer dos regimes da directiva.\n\nNa realidade, esta directiva levanta problemas relativos á liberdade de estabelecimento e à liberdade de prestação de serviços - este último, aliás, já regulamentado através da introdução, no próprio Estatuto da Ordem dos Advo-"
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 990,
+      "speaker": {
+        "id": 736,
+        "name": "José Manuel Santos De Magalhães",
+        "party": "PS",
+        "string": "O Sr. José Magalhães (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 990,
+      "speaker": {
+        "id": 1310,
+        "name": "José Eduardo Vera Cruz Jardim",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Efectivamente, é do conhecimento geral que o sistema jurídico atravessa uma fase de grande complexidade. Há novos ramos de direito: o direito do ambiente, o direito dos consumidores, por exemplo, para já não falar do sistema jurídico bastante recente, que cria a necessidade de uma formação adequada de todos os advogados, que é o direito das Comunidades, ou seja, o direito comunitário.\n\nActualmente, o problema da especialização do advogado e o problema das sociedades de advogados, para fazer face à concorrência - essa, sim, real -, que se vai verificando um pouco por toda a Europa, exigem uma preparação adequada e uma razoável capacidade dos advogados portugueses que lhes permitam responder às situações «taco a taco» com os seus colegas estrangeiros.\n\nOra, a verdade é que, até ao momento, não foi dado à Ordem dos Advogados o apoio necessário que lhe permitisse ter o mínimo de capacidade para proceder a uma formação adequada dos advogados. Efectivamente, o Orçamento do Estado carreia para a formação de magistrados, juízes e magistrados do Ministério Público mais de 1 milhão de contos e tem atribuído à Ordem dos Advogados a mísera verba de 36 000 contos para a formação de mais de 1500 advogados que todos os anos pretendem fazer o seu estágio, à sombra, naturalmente, dos cursos dados pela Ordem, o que levou a Ordem dos Advogados a ter de recorrer aos subsídios do Fundo Social Europeu para poder levar a efeito a formação dos jovens licenciados em Direito que, anualmente, se inscrevem na Ordem dos Advogados para fazer o estágio de advocacia. Os problemas relativos ao exame dos advogados estagiários para o acesso à carreira estão nitidamente a jusante e não a montante do da formação. Se alguma vez se puder pensar em exames de acesso à profissão, tem, nessa altura, de haver uma formação minimamente dignificada."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 990,
+      "speaker": {
+        "id": 736,
+        "name": "José Manuel Santos De Magalhães",
+        "party": "PS",
+        "string": "O Sr. José Magalhães (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 990,
+      "speaker": {
+        "id": 1310,
+        "name": "José Eduardo Vera Cruz Jardim",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se o CET pode fazer exames é porque tem uma formação especifica profissionalizante, que não cabe às faculdades de Direito. A estas cabe apenas dar a formação jurídica de base a todos aqueles que pretendem exercer a sua profissão no mundo do direito e não preparar para o leque de profissões especificas que se abre aos jovens após a licenciatura. Portanto, é preciso que o Governo, de uma vez para sempre, encare a sério o problema da disponibilidade de meios para que a Ordem dos Advogados possa proceder à formação digna dos advogados.\nNão é justo que o Governo venha a esta Assembleia falar na dignificação do advogado, dizer que o advogado tem um papel muito relevante na aplicação da justiça, etc., ou seja, proferir palavras-chavões, quando continua a ignorar as necessidades da Ordem dos Advogados para fazer face aos problemas de formação dos mais de 1000 licenciados em Direito, que todos os anos, perante a falta de outras saídas profissionais, se dirigem à Ordem para obter a possibilidade de advogar. É preciso, repito, encarar este problema de vez e não fazer ouvidos de mercador às exigências que a Ordem dos Advogados, de há anos a esta parte, vem colocando ao Governo no que diz respeito à formação dos advogados.\n\nFinalmente, quanto à criação do conselho distrital de Faro, já tive ocasião de dizer que é com muito prazer que encaramos esta iniciativa do Governo, que tem por base um pedido expresso da Ordem dos Advogados. Pessoalmente, tenho também grande prazer em que ela tenha sido apresentada, visto ter sido o primeiro a exigir, há 10 anos atrás, que, dadas as condições especas da advocacia que se pratica naquela região do País, dado o imenso número de advogados que lá exercem a sua profissão, dada a pouca acessibilidade a Évora, que, até agora, tem sido o conselho distrital que estende a sua acção até ao Algarve, importava criar o conselho distrital de Faro, como aliás, em nosso entender, importa criar o tribunal de 2.ª instância, o tribunal da relação de Faro. Sobre esta matéria, também já tivemos ocasião de apresentar propostas, na altura própria.\n\nNo entanto, o que nos admira é que, vindo o Governo aqui dizer que o conselho distrital de Faro é necessário e é urgente, tenha atirado para as calendas gregas, ou seja, para daqui a três anos, a sua efectiva criação. Atribuímos isso a um lapso temporal do Governo, que começou a preparar esta proposta de lei há já alguns meses, atrasou-se - estava, talvez, a contar que as eleições já pudessem ter tido lugar há umas semanas atrás - e foi colhido pelos seus próprios atrasos, o que significa que, a concretizar-se esta proposta, os advogados algarvios, isto é, os que exercem a advocacia no Algarve, só irão ter conselho distrital, apesar de ele ser urgente e necessário, segundo as palavras do Sr. Secretário de Estado, daqui a três anos. Há que emendar esta matéria, como há que emendar outros aspectos considerados na proposta de lei, a começar pelas manifestas inconstitucionalidades de que está eivada."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 990,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Pata pedir esclarecimentos, tem a palavra o Sr. Deputado Guilherme Silva."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 990,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Guilherme Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado José Vera Jardim, comungo de muitas das preocupações que adiantou relativamente à Ordem dos Advogados e não há dúvida de que é necessário encontrar uma forma que assegure à Ordem meios para fazer face aos vários problemas que tem de encarar, designadamente e em particular o do estágio de advocacia. Já aquando da votação da Lei do Orçamento do Estado foi possível encontrar uma solução que não é ainda a ideal, mas que permitirá, porventura, que a parte da procuradoria que é afecta à Ordem seja mais vultosa do que tem sido. Mas penso que é ainda nessa sede que temos de encontrar uma solução que concilie, tanto quanto possível, o não agravamento do custo da justiça.\n\nColoco-lhe duas questões: a primeira para saber qual é , a sua posição efectiva relativamente à solução a adoptar nesta lei quanto ao acesso à profissão de advogado e aos"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 991,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado José Vera Jardim."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 991,
+      "speaker": {
+        "id": 1310,
+        "name": "José Eduardo Vera Cruz Jardim",
+        "party": "PS",
+        "string": "O Sr. José Vera Jardim (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Guilherme Silva, as propostas de lei devem ser correctamente elaboradas. O Governo sabia há meses que as eleições para os órgãos da Ordem dos Advogados se realizavam em Dezembro de 1992. Não foi colhido de surpresa, as eleições não foram antecipadas, pois tal não sucede, em principio, na Ordem dos Advogados - claro que podem ser antecipadas quando o bastonário pede a demissão - e, portanto, é errado o que está escrito na proposta de lei."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 991,
+      "speaker": {
+        "id": 736,
+        "name": "José Manuel Santos De Magalhães",
+        "party": "PS",
+        "string": "O Sr. José Magalhães (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exacto!"
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 991,
+      "speaker": {
+        "id": 1310,
+        "name": "José Eduardo Vera Cruz Jardim",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tal não significa que não possamos tomar algumas medidas, que são necessárias, para corrigi-lo. Se aprovarmos esta proposta de lei, o conselho distrital da Ordem dos Advogados de Faro só existirá daqui a crés anos, pelo que creio que temos de corrigir a proposta do Governo. Foi tão-somente isto o que quis dizes!\n\nSr. Deputado, aquando da discussão do Orçamento, apresentei propostas de alteração que, como V. Ex.ª sabe, foram «chumbadas» pelo PSD na especialidade. Eram muito simples, não pediam nada do outro mundo, apenas que fosse reforçada a verba da Procuradoria atribuída à Ordem, o que nada tem a ver com este assunto; relaciona-se com outro problema importante que diz respeito à classe dos advogados, mas que não está em jogo neste momento, que é a previdência dos advogados.\n\nComo V. Ex.ª sabe, não pretendia que a totalidade da percentagem da verba da Procuradoria revertesse para a Ordem, apenas que houvesse um pequeno aumento. No fundo, esta verba aparece como uma remuneração extra - digamos assim - do trabalho prestado pelos profissionais do foro e que hoje em dia reverte para os cofres do Estado, o que é, salvo o devido respeito, um autêntico desconchavo. O grupo parlamentar de V. Ex.ª «chumbou» essa proposta na comissão mas, depois, como se tratava de algo de tal ordem negativo, VV. Ex.ªs - fizeram marcha atrás na votação final global, ou seja, reconheceram finalmente que não tinha qualquer sentido o que tinham feito.\n\nSr. Deputado Guilherme Silva, chamei a atenção para o seguinte aspecto: o Governo gasta por ano, do Orçamento do Estado, 1,8 milhões de contos, se não estou em erro - se estiver errado, o Sr. Secretário de Estado Adjunto do Ministro da Justiça fará o favor de corrigir-me -, com o Centro de Estudos Judiciários para a formação de magistrados (juízes e delegados do Ministério Público) e, na formação de 1500 profissionais da advocacia, gasta 36 000 contos. Foi apenas para isto que chamei a atenção na minha intervenção, e certamente que V. Ex.ª não está de acordo com o que se passa, como aliás já o demonstrou. De tacto, há muitos anos que vimos alertando para esta situação - não eu, porque estou no Parlamento recentemente. É que estes cursos realizam-se há anos e o Governo tem dito sempre «vamos fazer coisas, temos de fazer...», mas a verdade é que nada faz ou faz muito pouco. Foi, pois, para essa situação que, do alto da tribuna, chamei a vossa atenção, e V. Ex.ª está, certamente, como disse, de acordo comigo."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 991,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 991,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado António Filipe."
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 991,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Voltamos hoje ao debate sobre o Estatuto da Ordem dos Advogados na perspectiva da regulamentação específica do acesso ao exercício da profissão de advogado no quadro da transposição para o direito interno da directiva comunitária relativa ao sistema geral de reconhecimento de diplomas do ensino superior.\n\nA proposta de lei de autorização legislativa, hoje em apreciação, não difere muito da que aqui foi debatida em Maio de 1991; difere substancialmente apenas numa questão que, sem dúvida, é importante: propõe a criação de um distrito da Ordem dos Advogados com sede em Faro, e, quanto a ela, manifestamos a nossa inteira concordância.\n\nPassemos então à outra questão suscitada, que é a do acesso ao exercício da advocacia em Portugal. A necessidade de proceder à transposição para o direito interno da directiva relativa ao reconhecimento de diplomas de ensino superior, no que se refere especificamente ao exercício da advocacia, é inquestionável. Também não é contestável que o reconhecimento do direito ao exercício da advocacia em Portugal por cidadãos licenciados em Direito noutros pares da Comunidade Europeia seja aferida pela Ordem dos Advogados, por forma a assegurar que só possa exercer a profissão em Portugal quem demonstre um mínimo de conhecimento da língua portuguesa e do direito português que o habilite para tal.\n\nNão é aqui que surgem, portanto, os principais problemas, embora também possam surgir alguns delicados, que importa equacionar com algum cuidado na especialidade. Mas não será aqui repito - que surgirão problemas nem discordâncias de maior. O mesmo não pode dizer-se, no entanto, no que se refere ao acesso ao exercício da advocacia pelos cidadãos licenciados em Direito em Portugal. É esta a questão que hoje, entre nós, sobretudo se coloca.\n\nTal como na anterior proposta de autorização legislativa, o Governo faz os possíveis por passar por cima desta questão, como se de um mero pormenor se tratasse e como se o Governo não tivesse qualquer responsabilidade em relação aos problemas complexos que estão criados no acesso à advocacia em Portugal e no respeitante ao estágio dos jovens advogados.\n\nÉ do conhecimento geral que, tanto o estágio de advocacia, como o próprio acesso a esta profissão, se colocam hoje em moldes muito diferentes do que há uns anos atrás. As universidades portuguesas, sobretudo as privadas, lan-"
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 992,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Octávio Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 992,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Confrontados com a incompatibilidade entre a capacidade de resposta do sistema de ensino superior e o número de candidatos à sua frequência, os governos PSD não optaram pelo que seria racional e imperioso: investir no ensino superior público, promover a sua diversificação e aumentar a sua capacidade de resposta. Não! Os governos PSD preferiram propagandear o alargamento do ensino superior incentivando o aparecimento de universidades privadas e provocando um autêntico boom de cursos de Direito ou de Gestão de Empresas e mantendo situações de carência em outras áreas formativas. É esta a opção irresponsável que hoje estamos a pagar e cuja consequências o Governo não se preocupa sequer em minorar.\n\nA proposta de lei que hoje apreciamos, na sequência, aliás, da anterior, passa por todos estes problemas como gato sobre brasas, para fugir, obviamente, às suas pesadas responsabilidades. Limita-se, assim, o Governo a solicitar à Assembleia da República uma autorização legislativa para determinar que seja a Ordem dos Advogados a resolver por si o problema em sede de aprovação do regulamento de inscrição dos advogados.\n\nEm suma: o Governo solicita autorização para lavar as mãos do assunto. Pela nossa parte, entendemos que nem o Governo nem a Assembleia da República podem alhear-se deste problema.\n\nNa V Legislatura, o Governo propunha que a possibilidade de inscrição na Ordem fosse sujeita à prestação de provas de aptidão, não apenas por advogados estrangeiros, mas também por advogados nacionais. Agora, a pro-\nposta de lei não é taxativa, mas, com a fórmula adoptada, não exclui essa solução.\n\nEntendemos, Sr. Presidente e Srs. Deputados, que essa solução não é aceitável. Desde logo, porque o problema da formação de juristas não é resolúvel no âmbito da Ordem dos Advogados ou do estágio de advocacia, mas no âmbito das faculdades de Direito e do ensino do Direito em Portugal. Não é aceitável que um cidadão licenciado ou mestre em Direito por uma universidade portuguesa seja obrigado a prestar provas sobre matérias leccionadas no curso que já possui. Dir-se-á que as faculdades de Direito não formam para a advocacia e que os conhecimentos adquiridos no estágio poderão ser aferidos. Dir-se-á também então que as faculdades de Direito não formam hoje menos para a advocacia do que formavam ontem e, se o estágio é feito hoje em piores condições pela grande maioria dos estagiários do que ontem, menos legitimo se torna exigir a prestação de provas sobre conhecimentos adquiridos em condições crescentemente deficientes.\n\nO que está em causa não se resolve pela imposição de obstáculos administrativos a impor no acesso à advocacia que façam lembrar o numerus clausus ou a defunta prova geral de acesso ao ensino superior. Resolve-se, seguramente melhor, equacionando em termos inovadores todo o regime de estágio e acesso à advocacia, assegurando à generalidade dos estagiários um acompanhamento que crie melhores condições para a sua inserção e desempenho profissional.\n\nA Ordem dos Advogados terá aqui um papel primordial, mas não poderá ser a Ordem só por si a assegurar estas condições. 15to exige meios e legislação específica que está por elaborar.\n\nO Grupo Parlamentar do PCP entende que a presente proposta de lei, reabrindo o debate sobre o Estatuto da Ordem dos Advogados, constitui uma oportunidade para equacionar em termos substantivos a questão do estágio e das condições de acesso à advocacia que não deve ser desperdiçada. O PCP tem ideias e propostas sobre a matéria que ainda não há muito tempo aqui foram debatidas e dispõe-se a colaborar activamente para encontrar as melhores soluções.\n\nSr. Presidente e Srs. Deputados: Se a proposta de lei do Governo é questionável no plano dos factos, também o é no plano do direito, sendo fundadas as dúvidas sobre a sua constitucionalidade. O acesso à profissão é matéria de direitos, liberdades e garantias, as restrições que lhe sejam impostas constituem reserva relativa de competência da Assembleia da República. O mesmo se diga do Estatuto das Associações Públicas.\n\nA Assembleia da República pode autorizar o Governo a legislar sobre a matéria, mas é muito mais duvidoso que possa autorizar o Governo a, por sua vez, autorizar outra entidade a regular matérias que, substantivamente, se encontram no âmbito dessa reserva de competência.\n\nSr. Presidente, Srs. Deputados: Face ao exposto, entendemos que a solução mais conveniente para a presente proposta seria a sua baixa à Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, com vista à ponderação mais cuidada de questões complexas que a proposta suscita e sobre as quais é, de facto, importante legislar."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 992,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado António Lobo Xavier."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 993,
+      "speaker": {
+        "id": 601,
+        "name": "António Bernardo Aranha Da Gama Lobo Xavier",
+        "party": "CDS-PP",
+        "string": "O Sr. António Lobo Xavier (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Acabámos de saber, pelas palavras do Sr. Deputado José Vera Jardim, que estava entre nós, a assistir a esta sessão, o recentemente eleito bastonário da Ordem dos Advogados.\n\nQuero, pois, saudar o Dr. Júlio Castro Caldas, não só pelo cargo que desempenha, mas também pela admiração que tenho por ele, e ao mesmo tempo dar-lhe testemunho da esperança que os advogados portugueses que, por vezes, vêm ter comigo depositam no exercício do seu mandato.\n\nAproveito ainda esta oportunidade para, em nome da minha bancada, desejar-lhe as maiores felicidades e o maior sucesso no desempenho dessas funções.\n\nDe facto, também nós, CDS, consideramos que esta proposta de lei é excessivamente circunscrita. Estes temas são necessários, designadamente o que se relaciona com a transposição da directiva, só que, sendo óbvio que têm de ser abordados e tratados, numa altura em que se discutem, de tantos lados, questões e surgem propostas que têm que ver com os advogados portugueses, especificamente com os candidatos a advogados, esta proposta é, no mínimo, minimalista.\n\nNo entanto, ela pode dar origem a um grande debate sobre o Estatuto da Ordem dos Advogados. Pela nossa parte, estamos dispostos a que assim ocorra. De facto, há muitos problemas que, com certeza, também a Ordem dos Advogados gostaria de ver tratados, pelo que nos empenharemos nesse sentido.\n\nAliás, temos várias reservas, conhecemos várias críticas sobre o funcionamento dos estágios, designadamente do período de formação dos estágios. Porém, sabemos que essas criticas não são imputáveis à Ordem dos Advogados, mas, como referiu o Sr. Deputado José Vera Jardim, à debilidade de condições proporcionadas pelas entidades públicas à Ordem. Essa, sim, é uma matéria urgente e uma questão que importa resolver nesta oportunidade.\n\nTambém temos algumas reservas quanto a certos aspectos jurídicos desta proposta. Assim, é difícil imaginar que um regulamento elaborado pelo conselho geral seja absolutamente inócuo do ponto de vista dos direitos, liberdades e garantias. Portanto, é difícil aceitar, pacificamente, a constitucionalidade da proposta.\n\nMas, se bem que essa questão possa ser vista mais adiante, é importante que o problema seja sublinhado e se faça aqui uma advertência para que, tal como estão as coisas, não seja possível aceitá-las deste modo."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 993,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Guilherme Silva."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 993,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Guilherme Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Secretários de Estado, Srs. Deputados: Antes de iniciar a minha intervenção, quem também registar a presença do Sr. Bastonário da Ordem dos Advogados, meu amigo, Dr. Júlio Castro Caldas, e desejar-lhe as matares felicidades no exercício da sua nova fino, salientando o sacrifício que é esse pesado cargo a favor de todos nós, advogados.\n\nDe harmonia com o disposto no artigo 8 º, n.º 3, da Constituição, as normas emanadas dos órgãos competentes das organizações internacionais de que Portugal seja parte vigoram directamente na ordem interna, desde que tal se encontre estabelecido nos respectivos tratados constitutivos.\n\nEstá neste caso o chamado direito comunitário derivado», que inclui, como é sabido, os regulamentos e as directivas. Só que em relação a estas últimas, de um modo geral, e em conformidade com o artigo 189 º do Tratado de Roma, torna-se necessário proceder à sua transposição para a ordem jurídica interna.\n\nFm 21 de Dezembro de 1988, o Conselho das Comunidades Europeias aprovou a Directiva n.º 89/48/CEE, relativa a um sistema geral de reconhecimento de diplomas de ensino superior, e visando, por essa via, assegurar a abolição de obstáculos à livre circulação de pessoas e serviços entre os Estados membros, objectivo para que aponta, aliás, a alínea c) do artigo 3 º do Tratado de Roma.\n\nA possibilidade de adopção de directivas por parte do Conselho com tal fim tem expressa consagração nos artigos 49 º, 57 º e 66 º do Tratado constitutivo da Comunidade Europeia.\n\nA directiva em causa tem assim aplicação no âmbito do exercício da advocacia em qualquer pais das Comunidades Europeias por parte de nacionais de outro Estado membro.\n\nO artigo 12 º da Directiva n.º 89/48/CEE, a que nos vimos referindo, estabelece que «os Estados membros tomarão as medidas necessárias, num prazo de dois anos a contar da sua notificação», o qual ocorreu em Janeiro de 1989.\n\nEstava, pois, o Estado Português, por força da nossa integração na Comunidade, obrigado a adoptar as medidas legislativas internas necessárias à implementação da referida directiva do Conselho.\n\nÉ, pois, ainda no âmbito do cumprimento das obrigações do Estado Português, enquanto membro das Comunidades Europeias e com plena observância dos preceitos constitucionais aplicáveis, que se insere a presente iniciativa do Governo, que visa alterar o Estatuto da Ordem dos Advogados.\n\nNos termos do respectivo Estatuto foi ouvida a Ordem dos Advogados.\n\nNa anterior legislatura, o Governo apresentou à Assembleia da República a proposta de lei, de autorização legislativa, n.º 179/V, através da qual pretendia proceder à transposição da Directiva n.º 89/48/CEE, do Conselho, de 21 de Dezembro de 1988, relativa ao sistema geral de reconhecimento de diplomas de ensino superior, que sancionem formações profissionais com a duração mínima de três anos, introduzindo também alterações ao Estatuto da Ordem dos Advogados.\n\nAquela proposta de lei, embora tenha sido discutida na generalidade, em Plenário, não chegou a ser aprovada pela Assembleia da República. Tal, porém, não impediu que o Governo, através do Decreto-Lei n º 289/91, de 10 de Agosto, tivesse procedido à transposição da referida directiva.\n\nContudo, de harmonia com o artigo 16.º do mesmo decreto-lei, a regulamentação própria do regime de acesso à profissão, sujeita a inscrição em associação pública, deveria ser objecto de regulamentação especifica a inserir no diploma regulador do respectivo estatuto profissional.\n\nTal regulamentação respeita a matéria da competência exclusiva da Assembleia da República, por força do disposto na alínea c) do n.º 1 do artigo 168 º da Constituição, pelo que o Governo não tinha outra alternativa que não fosse a de submeter à Assembleia da República a proposta de lei ora em apreciação.\n\nNo entanto, a directiva prevê, tal como o artigo 9.º do Decreto-Lei n.º 289/91, que a transpôs, com vista ao acesso à profissão num Estado de nacionais de outro Estado membro, a prévia submissão a prova de aptidão ou a um estágio de adaptação."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 995,
+      "speaker": {
+        "id": 433,
+        "name": "Fernando Monteiro Do Amaral",
+        "party": "PSD",
+        "string": "O Sr. Fernando Amaral (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 995,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esta questão é ainda mais saliente quanto é certo que os direitos fundamentais evoluem para os chamados «direitos de segunda geração», que incluem os direitos na área económico-social, e já também para os direitos de terceira geração, que incluem, como sabemos, a defesa do ambiente.\n\nPor isso, pesem embora a complexidade e a vastidão dos problemas que à Ordem se colocam, as soluções que lhe cabe encontrar não podem ser estatais nem estatizantes. Por certo que é de todo desejável e mesmo indispensável que haja recíproca cooperação entre a Ordem e o Ministério da Justiça, mas com mútuo respeito dos espaços próprios, que continue a salvaguardar a independência da Ordem que o Estado e a Administração têm sabido respeitar.\n\nSr. Presidente, Srs. Deputados, Srs. Membros do Governo: A presente proposta de lei prevê também a criação do conselho distrital de Faro. Saudamos esta iniciativa do Governo. Já aqui esclareci também, a propósito da intervenção do Sr. Deputado José Vera Jardim, que a colocada questão dos três anos estava na perspectiva óbvia de tal medida ser contemporânea com a eleição dos corpos sociais que agora iniciam as suas funções na Ordem. Corrigiremos, naturalmente, essa situação em sede de especialidade, de forma que o conselho distrital de Faro seja implementado em prazo mais curto."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 995,
+      "speaker": {
+        "id": 1070,
+        "name": "José Apolinário Nunes Portada",
+        "party": "PS",
+        "string": "O Sr. José Apolinário (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 995,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, Sn. Membros do Governo: O futuro dos advogados, como o futuro do Pais, está, por irreversível e benéfico ciclo de gerações, na mão dos jovens, neste caso daqueles que ora ingressam na advocacia. A profunda mutação que o mundo de hoje vem registando e as transformações a que assistimos também em Portugal não podem deixar de influenciar fortemente o mato de estar de toda uma profissão, que, por natureza, intervém no conflito e cada vez mais deverá, preferencialmente, intervir na sua prevenção.\n\nUma associação pública como a Ordem dos Advogados, baluarte da defesa da legalidade e que tem as suas raízes cimentadas nos valores do diálogo e da tolerância, naturalmente empenhada na defesa da dignificação dos profissionais que representa e preocupada com a garantia de que os direitos e interesses dos que recorrem aos profissionais do foro sejam acautelados por uma qualificação e uma formação profissionais sólidas, saberá, por certo, no quadro da observância das regras do direito comunitário a que devemos obediência, encontrar as soluções que conciliem a legítima esperança dos futuros advogados com a salvaguarda de que a Ordem e os advogados continuem, perante todos, a ser respeitados como exemplares defensores e garantes do direito e da justiça."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 995,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Secretário de Estado Adjunto do Ministro da Justiça."
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 995,
+      "speaker": {
+        "id": 2860,
+        "name": "Álvaro Laborinho Lúcio",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto do Ministro da justiça",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A presente intervenção limitar-se-á a prestar alguns esclarecimentos ou a reiterar algumas afirmações já produzidas na anterior intervenção, sobretudo no que se refere às questões de índole jurídico-constitucional que foram levantadas, nomeadamente pelos Srs. Deputados Rui Machete, José Vera Jardim e António Filipe.\n\nEm primeiro lugar, penso ser duvidoso e discutível que se esteja perante uma inconstitucionalidade quando se coloca, de alguma forma, um condicionamento ao exercício da advocacia. Julgo, em todo o caso, que poderíamos conjuntamente analisar essa questão na sede própria, o mesmo é dizer em sede de 3.ª Comissão, e estudar se essa poderá ser matéria a remeter para a competência do conselho geral ou se, pelo contrário, a nossa Constituição exclui de todo essa hipótese. Sei que a posição dos Srs. Deputados é a posição de um constitucionalista conhecido, mas há quem defenda entendimentos diversos. Penso, por isso, que não é em sede de Plenário, mas em sede de comissão, que poderemos analisar a questão da constitucionalidade ou não do problema suscitado pelos Srs. Deputados.\n\nA segunda referência que importa fazer é a de que houve efectivamente uma falta de sincronia na calendarização da discussão desta proposta de lei com o momento da eleição dos órgãos da Ordem dos Advogados. Na verdade, o artigo 3 º, n.º 1, viria postergar no tempo a entrada em funções da assembleia distrital de Faro. Assim sendo, também estaremos disponíveis, em sede de discussão na especialidade na 3.ª Comissão, para alterar essa disposição, porque, como é óbvio, não era intenção do Governo dilatar no tempo a entrada em funcionamento da assembleia distrital de Faro.\n\nPor último, diria, na sequência da afirmação do Sr. Deputado José Vera Jardim de que o Ministério da Justiça pouco ou nada tem feito pela formação dos magistrados, que julgo haver uma pequena injustiça nas palavras do Sr. Deputado José Vera Jardim. Já não falando dos protocolos que têm sido celebrados, com muita regularidade, entre o Ministério da Justiça, o Centro de Estudos Judiciários e a Ordem dos Advogados e das verbas que têm sido canalizadas para a Ordem dos Advogados, chamaria a atenção para o facto de ainda ontem, no Porto, o Sr. Ministro da Justiça ter doado à Ordem dos Advogados um belíssimo imóvel destinado à formação de advogados. 15so sucedeu ontem mesmo e não se deveu ao facto de a discussão desta proposta de lei ter sido marcada para a sessão de hoje."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 995,
+      "speaker": {
+        "id": 1310,
+        "name": "José Eduardo Vera Cruz Jardim",
+        "party": "PS",
+        "string": "O Sr. José Vera Jardim (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Foi pura coincidência!..."
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 995,
+      "speaker": {
+        "id": 2860,
+        "name": "Álvaro Laborinho Lúcio",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nessa linha, é óbvio que o Ministério da Justiça continuará a cooperar, como tem feito, com a Ordem dos Advogados - a partir de agora na pessoa do"
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 996,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Não havendo mais inscrições, dou por concluído o debate desta proposta de lei, cuja votação terá lugar, como é regimental, na próxima terça-feira, dia 12 de Janeiro. A agenda da próxima reunião plenária, que terá lugar exactamente nessa data pelas 15 horas, compreende período de antes da ordem do dia e período da ordem do dia, do qual consta a discussão da proposta de lei n.º 42/VI - Autoriza o Governo a legislar em matéria de defesa da concorrência e do orçamento da Assembleia da República para 1993."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 996,
+      "speaker": {
+        "id": 736,
+        "name": "José Manuel Santos De Magalhães",
+        "party": "PS",
+        "string": "O Sr. José Magalhães (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente, para interpelar a Mesa no sentido de obter uma informação."
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 996,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 996,
+      "speaker": {
+        "id": 736,
+        "name": "José Manuel Santos De Magalhães",
+        "party": "PS",
+        "string": "O Sr. José Magalhães (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, gostaria de saber se o Governo remeteu à Assembleia da República o articulado do decreto-lei projectado e que deseja emanar ao abrigo da autorização legislativa que V. Ex.ª referiu, atinente ao regime da concorrência, uma vez que, segundo é do conhecimento do Grupo Parlamentar do PS, tinha havido consenso no sentido de que esse articulado fosse remetido a tempo de poder ser estudado, antes do início do debate.\n\nSe isso não acontecer, solicitaríamos, Sr. Presidente, as diligências suficientes para que o Governo possa cumprir esse ponto, necessário a que o debate tenha lugar em condições adequadas."
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 996,
+      "speaker": {
+        "id": 418,
+        "name": "Carlos Miguel Maximiano De Almeida Coelho",
+        "party": "PSD",
+        "string": "O Sr. Carlos Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente, também para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 996,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 996,
+      "speaker": {
+        "id": 418,
+        "name": "Carlos Miguel Maximiano De Almeida Coelho",
+        "party": "PSD",
+        "string": "O Sr. Carlos Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente; sem pôr em causa a bondade da interpelação do Sr. Deputado José Magalhães, como ela poderia pressupor que há qualquer tipo de obrigatoriedade de o Governo fazer anexar ao conteúdo da proposta de lei o articulado que depois pretende traduzir em decreto-lei, desde que autorizado pela Assembleia, quero apenas referir que efectivamente não se trata de uma obrigação, mas tão-só de uma cortesia que o Governo repetidas vezes tem usado na sua relação com a Assembleia quando solicita autorizações legislativas, a qual repito não resulta de qualquer obrigação constitucional ou legal.\n\nCumpre-me também dizer que no plano da conferência de lideres não foi acertado o compromisso a que o Sr. Deputado José Magalhães acabou de fazer referência. Que seja do nosso conhecimento, o Governo não assumiu esse compromisso. Se o assumiu numa relação entre o Governo e o Partido Socialista, esse é um problema que teria de ser gerido numa relação a dois. No plano da relação institucional entre Assembleia e Governo é que não foi traduzido, seja em que nível for, o compromisso de o Governo fazer anexar o texto do articulado ao da proposta de lei."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 996,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Apesar do esclarecimento que acabou de ser dado pelo Sr. Deputado Carlos Coelho, cumpre-me igualmente dar uma breve explicação sobre o assunto, já que a Mesa foi directamente interpelada.\n\nNão tive possibilidade de obter o concurso do Governo para poder de imediato dar uma resposta satisfatória, mas suponho que na conferência de líderes essa tal cortesia ficou apalavrada no sentido de o Governo enviar aos grupos parlamentares, o mais urgentemente possível, não o articulado a adoptar com base na proposta de lei n.º 421 VI mas, pelo menos, a própria proposta de lei, visto ela não ir baixar à Comissão.\n\nSou agora informado de que a proposta já foi distribuída aos partidos.\n\nO Sr. Deputado José Magalhães pede de novo a palavra, em certeza porque pretende saber mais da Mesa, mas a Mesa não sabe mais!"
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 996,
+      "speaker": {
+        "id": 736,
+        "name": "José Manuel Santos De Magalhães",
+        "party": "PS",
+        "string": "O Sr. José Magalhães (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não, Sr. Presidente. Pretendia apenas solicitar os bons ofícios da Mesa na sequência de uma observação que gostaria de fazer, se me permite."
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 996,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 996,
+      "speaker": {
+        "id": 736,
+        "name": "José Manuel Santos De Magalhães",
+        "party": "PS",
+        "string": "O Sr. José Magalhães (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, a entrega aos grupos parlamentares, do texto de uma proposta de autorização legislativa é o que consideraria ser o mínimo dos mínimos imagináveis.\n\nNão se trata de uma cortesia em relação aos grupos parlamentares, mas de um pedido a estes de generosidade na aceitação de um regime especialmente rápido na tramitação, uma vez que o Governo não pode ver discutidas quaisquer propostas que não tenham sido admitidas, numeradas, distribuídas e enviadas para publicação, que é um processo normalmente moroso.\n\nOra, quando os grupos parlamentares aceitam que essas propostas sejam agendadas sem a observação de qualquer destes actos que referi, estão eles, sim, a fazer uma cortesia em relação ao Governo. Portanto, o que aconteceu foi que os grupos parlamentares aceitaram que, no próprio dia, o Governo, em vez de se submeter a essa tramitação, que implicaria, hoje, o anúncio da proposta e outras morosas diligências, o fizesse mais expeditamente.\n\nParece-me, pois, que a contrapartida que está pressuposta nesta matéria é que essa cortesia seja levada até ao fim e, deste modo, que não comecemos o debate na terça-feira sem termos conhecimento do articulado integral que o Governo deseja emanar, até porque se trata de uma matéria de grande importância, com implicações de carácter penal e do ponto de vista de conformação do direito económico português, portanto com mudanças muito sensíveis, pelo que seria altamente negativo para o bom desenvolvimento dos debates que a Assembleia começasse esse debate na base do mero articulado.\n\nPosto isto, peço a V. Ex.ª os bons ofícios no sentido de que tal, que se envolve no plano das relações de cortesia Governo/Assembleia da República, ainda possa acontecer até ao inicio da reunião plenária de terça-feira."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 996,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Assim farei, Sr. Deputado, veiculando a preocupação das bancadas de dispor desses elementos em tempo côngruo, antes do debate.\n\nSrs. Deputados, está encerrada a sessão."
+    }
+  ]
+}

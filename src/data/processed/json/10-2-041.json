@@ -1,0 +1,3512 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "10",
+    "legislative_session": "2",
+    "number": "41",
+    "date": "2007-01-25"
+  },
+  "debate_id": "r3_10_2_41_2007-01-25",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão. \nEram 15 horas e 10 minutos. \nSrs. Deputados presentes à sessão: \nPartido Socialista (PS): \nAgostinho Moreira Gonçalves \nAlberto Arons Braga de Carvalho \nAlberto de Sousa Martins \nAldemira Maria Cabanita do Nascimento Bispo Pinho \nAna Maria Ribeiro Gomes do Couto \nAntónio Alves Marques Júnior \nAntónio Bento da Silva Galamba \nAntónio José Martins Seguro \nAntónio Ramos Preto \nAntónio Ribeiro Gameiro \nArmando França Rodrigues Alves \nArtur Miguel Claro da Fonseca Mora Coelho \nCarlos Alberto David dos Santos Lopes \nCláudia Isabel Patrício do Couto Vieira \nDavid Martins \nDeolinda Isabel da Costa Coutinho \nElísio da Costa Amorim \nEsmeralda Fátima Quitério Salero Ramires \nFernanda Maria Pereira Asseiceira \nFernando Manuel de Jesus \nFernando dos Santos Cabral \nGlória Maria da Silva Araújo \nHorácio André Antunes \nHugo Miguel Guerreiro Nunes \nIsabel Maria Batalha Vigia Polaco de Almeida \nIsabel Maria Pinto Nunes Jorge \nJaime José Matos da Gama \nJoana Fernanda Ferreira Lima \nJoaquim Barbosa Ferreira Couto \nJoaquim Ventura Leite \nJorge Filipe Teixeira Seguro Sanches \nJorge Manuel Monteiro de Almeida \nJosé Adelmo Gouveia Bordalo Junqueiro \nJosé Alberto Rebelo dos Reis Lamego \nJosé Augusto Clemente de Carvalho \nJosé Carlos Bravo Nico \nJosé Carlos Correia Mota de Andrade \nJosé Eduardo Vera Cruz Jardim \nJosé Manuel Lello Ribeiro de Almeida \nJosé Manuel Pereira Ribeiro \nJovita de Fátima Romano Ladeira \nJoão Cardona Gomes Cravinho \nJoão Carlos Vieira Gaspar \nJoão Cândido da Rocha Bernardo \nJoão Miguel de Melo Santos Taborda Serrano \nJoão Raul Henriques Sousa Moura Portugal \nLeonor Coutinho Pereira dos Santos \nLuiz Manuel Fagundes Duarte \nLuís António Pita Ameixa \nLuís Miguel Morgado Laranjeiro \nLúcio Maia Ferreira \nManuel António Gonçalves Mota da Silva \nManuel Francisco Pizarro de Sampaio e Castro \nManuel Luís Gomes Vaz \nManuel Maria Ferreira Carrilho"
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos dar início à ordem do dia de hoje, que é exclusivamente centrada na apreciação, por agendamento potestativo do PSD, do projecto de lei n.º 337/X — Transmissão dos direitos de antena no serviço público de televisão (PSD).\nPara apresentar o referido diploma, tem a palavra o Sr. Deputado Miguel Macedo."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 5,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Sr. Miguel Macedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O agendamento deste diploma tem um antecedente próximo e conhecido.\nRevisitando os factos de forma sumária, recordo que, inopinadamente, a RTP comunicou aos partidos políticos, em 28 de Dezembro, que a emissão dos tempos de antena passaria a ter lugar às 19 horas, em vez de, como até agora, serem emitidos imediatamente antes do principal bloco noticiário do dia.\nA consequência desta decisão unilateral da RTP é clara para todos: faz com que as audiências médias dos tempos de antena sejam reduzidas para metade ou menos de metade.\nEsta é uma decisão grave: grave porque é uma decisão que ignora as exigências de pluralismo político, sem o qual fica irremediavelmente comprometida a qualidade da democracia.\nGrave porque compromete uma das componentes essenciais do serviço público de televisão a que a RTP está obrigada por contrato, serviço público que é pago pelos impostos de todos os portugueses.\nGrave ainda porque, nesta matéria, a RTP comportou-se como uma empresa majestática, que julga tudo poder, por qualquer forma e com inapelável efeito."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 5,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 5,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Grave, sobretudo, porque a RTP deu provas de desprezar direitos constitucionais e legais, como se «o quero, posso e mando», mais ao jeito de pequenos tiranetes, pudessem, num Estado de direito democrático, valer mais do que a Constituição e a lei.\nSr. Presidente, Sr.as e Srs. Deputados: O PSD não se conformou e não se conforma com esta situação.\nEsta não é uma questão partidária e muito menos é uma questão de egoísmo partidário.\nOs partidos da oposição já deixaram clara a sua posição sobre esta matéria: todos assinalam a gravidade da decisão e a sua vontade de fazer cumprir, em termos adequados, este direito constitucional.\nO Partido Socialista declarou ontem, publicamente, que não se opõe a esta iniciativa legislativa. A ser assim — o que esperamos ver comprovado no momento da votação —, quero saudar esta posição dos socialistas.\nEm intervenção anterior, critiquei fortemente a decisão da RTP e o argumentário formalista e desculpabilizador da posição, então, assumida pelo Partido Socialista. A confirmar-se, hoje, esta nova posição do Partido Socialista, saúdo os seus Deputados, por subscreverem as nossas razões e colocarmos um ponto final, este, sim, definitivo, em tão lamentável processo."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 5,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esta é uma questão em que é imperioso fazer valer os princípios, fazer prevalecer os princípios que são a força da democracia, fazer vencer o pluralismo, estimulando o contraditório democrático, para fortalecer a qualidade da democracia.\nA Constituição consagra o direito aos tempos de antena. A Lei da Televisão impôs essa obrigação aos operadores. O serviço público de televisão, a que a RTP está obrigada por contrato, compreende a emissão dos tempos de antena.\nEsta não é uma questão qualquer! Por isso mesmo, a Entidade Reguladora para a Comunicação Social publicitou ontem a sua posição"
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 6,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pois é!"
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 6,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A Entidade Reguladora entende ainda que a garantia efectiva do exercício do direito a tempo de antena (e cito outra vez) «impõe uma avaliação material e qualitativa», salientando, a propósito, que a prática até agora adoptada pela RTP, reservando um espaço de emissão com audiências muito relevantes, «não colidiu com a capacidade para uma adequada gestão da sua grelha de programas»."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 6,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 6,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mais: a Entidade Reguladora defende que esta alteração justificaria que (e passo a citar, de novo) «a RTP tivesse auscultado previamente os titulares do direito de antena»."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 6,
+      "speaker": {
+        "id": 380,
+        "name": "Zita Maria De Seabra Roseiro",
+        "party": "PSD",
+        "string": "A Sr.ª Zita Seabra (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 6,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Sr. Agostinho Branquinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que não fez!"
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 6,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ou seja, preto no branco, sem margem para equívocos ou interpretações benevolentes, a Entidade Reguladora critica a RTP pelo conteúdo e pela forma desta decisão!"
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 6,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como sempre afirmámos, esta decisão da RTP compromete, de forma grave, o exercício de um direito constitucional a todos os titulares do direito de antena.\nO PSD tem razão! O PSD tinha razão!\nPor isso mesmo, apresentamos a esta Assembleia um projecto de lei que tem por único objectivo repor o horário de emissão dos tempos de antena. Nem mais nem menos!! É um projecto de lei simples e objectivo, tem uma só alteração e um propósito claro e expresso: devolver aos tempos de antena o espaço de emissão que tiveram até este momento."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 6,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 6,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Assim, não vemos razão para que o Parlamento não só discuta como aprove hoje, na generalidade, na especialidade e em votação final global, este projecto de lei. É esta a nossa proposta. Não vemos qualquer razão para que assim não seja, a menos que se pretenda arrastar no tempo uma decisão que, a cada dia que passa, penaliza os titulares, todos os titulares, dos tempos de antena."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 6,
+      "speaker": {
+        "id": 380,
+        "name": "Zita Maria De Seabra Roseiro",
+        "party": "PSD",
+        "string": "A Sr.ª Zita Seabra (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 6,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "No voto de cada um de nós, Sr.as e Srs. Deputados, estará a expressão do valor que atribuímos à defesa de direitos políticos fundamentais e da nossa determinação em construir uma democracia mais aberta, mais plural e, por isso, mais adulta."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, antes de prosseguirmos, relembro que haverá votações no final do debate.\nPara uma intervenção, tem, agora, a palavra o Sr. Deputado Fernando Rosas."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 6,
+      "speaker": {
+        "id": 1470,
+        "name": "Fernando José Mendes Rosas",
+        "party": "BE",
+        "string": "O Sr. Fernando Rosas (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O debate que hoje nos convoca resume-se de uma forma bastante simples: a Rádio Televisão Portuguesa (RTP) decidiu alterar o horário dos tempos de antena emitidos fora do período legal de campanha eleitoral, deixando de colá-los ao Telejornal e passando-os para as 19 horas. Na prática, ainda que formalmente os mantenha, esvazia-os, em grande parte, de qualquer eficácia real! A RTP errou! Os tempos de antena são um elemento fundamental da democracia, consagrado constitucionalmente. A RTP errou, e errou de uma forma inaceitável!!"
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 7,
+      "speaker": {
+        "id": 1320,
+        "name": "Luís Emídio Lopes Mateus Fazenda",
+        "party": "BE",
+        "string": "O Sr. Luís Fazenda (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 7,
+      "speaker": {
+        "id": 1470,
+        "name": "Fernando José Mendes Rosas",
+        "party": "BE",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A forma como a RTP lidou com esta situação é de uma arrogância que dificilmente se entende e que dificilmente se enquadra nas obrigações a que, como operador público, se deve sentir obrigada.\nTomou esta decisão de forma unilateral, sem consultar, previamente, como lhe competia, as partes directamente envolvidas na produção dos conteúdos.\nPara além disso, a forma como a comunicação foi feita, em 28 de Dezembro passado, para anunciar uma alteração com efeitos imediatos, a partir do dia 1 de Janeiro deste ano, revela um desdém pelas entidades detentoras dos direitos de antena que o Bloco de Esquerda não pode deixar de assinalar e de lamentar."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 7,
+      "speaker": {
+        "id": 1320,
+        "name": "Luís Emídio Lopes Mateus Fazenda",
+        "party": "BE",
+        "string": "O Sr. Luís Fazenda (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 7,
+      "speaker": {
+        "id": 1470,
+        "name": "Fernando José Mendes Rosas",
+        "party": "BE",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A forma como a RTP tomou uma decisão com tão grande impacto na relação comunicacional das entidades que produzem os tempos de antena com os cidadãos e eleitores — comunicando de véspera e sem consulta os interessados — não parece ser a forma mais correcta de esta empresa cumprir com a especificidade do seu estatuto e a missão pública que o mesmo acarreta.\nComo refere a Entidade Reguladora para a Comunicação Social, em parecer ontem divulgado, esta decisão (e cito) «empobrece a realização material e qualitativa» dos tempos de antena.\nEquiparar o horário dos tempos de antena fora do período legal de campanha com o dos emitidos em período eleitoral, como faz a RTP, é escamotear a natureza pública da RTP, equiparando-a aos restantes canais privados.\nTrata-se, como é natural e evidente, de uma óbvia tentativa da administração da televisão pública de sacrificar o interesse geral ao interesse comercial, negando precisamente o carácter de serviço público que deve ser prestado pela estação do Estado.\nSucede que, pela emissão desse serviço público, a RTP é compensada com o dinheiro dos contribuintes, não podendo, portanto, alegar a «coerência» da programação para defender interesses comerciais, os quais, pela sua natureza, terão de ser sempre distintos dos dos canais privados.\nO Bloco de Esquerda lamenta ainda que, após tentativas da Entidade Reguladora para a Comunicação Social, para tentar mediar o conflito entre a RTP e as partes interessadas, quanto ao horário dos tempos de antena, a administração da estação pública tenha persistido na atitude inicial, rompendo, mais uma vez, de forma unilateral, qualquer tentativa para chegar a um acordo, dando razão à hipótese — a única que restava — de resolver esta questão através de uma iniciativa legislativa.\nFoi isso que o Bloco de Esquerda fez: apresentou um projecto de lei que defende uma visão, em nosso entender, mais rigorosa e mais consonante com o que é hoje a realidade social e televisiva, do que seja o «horário nobre». Não foi possível agendar esta iniciativa legislativa e o que está hoje em discussão é um projecto do PSD, com o qual o Bloco se identifica no que se refere aos seus princípios essenciais.\nO Bloco de Esquerda junta-se, portanto, a todos quantos não se revêem na atitude absurda da televisão pública e entendem que a importância dos tempos de antena não deve ser menorizada sem que exista uma alternativa, razão pela qual votará favoravelmente o projecto de lei apresentado pelo PSD."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para uma intervenção, tem a palavra o Sr. Deputado Arons de Carvalho."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 7,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Sr. Alberto Arons de Carvalho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: As escolhas dos agendamentos potestativos constituem um espelho das prioridades políticas de quem as promove. É verdade que não faltariam temas ao PSD: do «Dia do Cão» até — para referir os últimos projectos de lei do PSD — à reforma da segurança social, ao combate à corrupção no desporto, ao sigilo bancário, ao sistema nacional de avaliação nas escolas básicas e secundárias ou à Lei Orgânica do Conselho Superior da Magistratura.\nNinguém contesta ao PSD a liberdade de escolher os seus agendamentos, mas o PSD também não pode impedir os outros grupos parlamentares de tirarem as devidas ilações sobre as suas opções. Diz-me o que agendas, dir-te-ei que prioridades tens…!"
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 7,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ai que bonito…!"
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 8,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Este agendamento constitui o espelho das prioridades do PSD: o que está em causa nesta matéria para o PSD não é, de resto, o horário do direito de antena mas, sim, encontrar meros pretextos para continuar a pressionar a RTP e para acusar o Governo de limitar a sua independência.\nA emissão de tempos de antena fora dos períodos eleitorais é rara, mesmo nos regimes democráticos.\nA garantia de pluralismo na informação dos operadores públicos de rádio e de televisão torna o direito de antena desnecessário à vista de muitos cidadãos, tanto mais que a ausência de mediação jornalística equipara esses espaços, muitas vezes, à pura propaganda, equiparável à publicidade comercial.\nEm Portugal, o direito de antena surgiu em 1975, durante o chamado PREC. Era então a única forma de consagrar alguma pluralidade nas emissões da televisão e da rádio.\nComo em outras matérias da comunicação social, a inclusão deste direito na Constituição representou então uma tentativa de ultrapassar a hegemonia dos plenários de trabalhadores como instância de definição da linha editorial dos órgãos de comunicação social. Como assinalava então o Deputado Constituinte Mário Mesquita: «cada jornal segundo a sua tipografia».\nNa altura, chegaria mesmo a criar-se um insólito direito de espaço nas publicações periódicas, que teria até consagração constitucional na Revisão de 1982, mas que nunca seria regulamentado.\nO direito de antena perdeu, entretanto, grande parte da sua importância e é fácil explicar porquê: em primeiro lugar, porque existem outros espaços de afirmação partidária e de debate plural nos operadores públicos; em segundo lugar, porque já não existe monopólio da televisão pública, havendo, quer no espaço hertziano, quer na plataforma do cabo, quer por satélite, quer on line, e a curto prazo por via digital terrestre, uma exponencialmente crescente oferta de novos serviços de programas; em terceiro lugar, porque importa reconhecer que os tempos de antena são encarados pela maioria dos espectadores como meros espaços de autopromoção, não conquistam novos públicos e só não afastam uma parte significativa das audiências porque têm uma curta duração e antecedem o telejornal. Importa, aliás, ter a honestidade de reconhecer que qualquer análise meramente baseada no número de televisores sintonizados na RTP1, sem ter em conta a efectiva atenção dos espectadores à programação emitida, apresenta dados viciados sobre o seu efectivo impacto."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 8,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 8,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em quarto lugar, porque o horário de emissão do tempo de antena eleitoral, cuja relevância no Direito Comparado é indiscutivelmente maior, foi há anos transferido para as 19 horas sem que — recorde-se, em nome da verdade — se assinalassem quaisquer protestos.\nO PS já manifestou — e não apenas ontem, Sr. Deputado Miguel Macedo! — a sua oposição quer à forma quer ao conteúdo da decisão de alteração do horário de emissão dos tempos de antena.\nSem prejuízo da plena garantia da sua liberdade de programação, a RTP deveria ter estabelecido um consenso com as entidades utilizadoras dos tempos de antena, tal como, aliás, a lei prescreve relativamente, por exemplo, aos seus planos gerais de utilização. Por outro lado, a RTP não deveria ter desvalorizado a importância dos tempos de antena para alguns dos seus utilizadores, desde logo as confederações sindicais e patronais e algumas associações representativas de sectores de actividade, cuja expressão através da generalidade da comunicação social é relativamente escassa."
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 8,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 8,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ao reafirmar esta posição o PS rejeita, todavia, encontrar neste episódio dos tempos de antena a oportunidade para «ajustes de contas» com a RTP. Por outro lado, o PS considera como completamente falsas e caluniosas as acusações dirigidas ao Governo sobre a sua pretensa influência na decisão da RTP.\nFalta rigor ao PSD: não existe qualquer prova de que o Governo tenha tido qualquer influência na decisão da RTP. Tal acusação, que, aliás, o Sr. Deputado Miguel Macedo hoje esqueceu,…"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 8,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Já a retirou!"
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 8,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… é, repito-o, completamente falsa e caluniosa. O Governo não foi sequer dela previamente informado, como, aliás, a RTP já confirmou, nem exprimiu, antes ou depois de ela ser anunciada, qualquer posição sobre o seu conteúdo."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 8,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isto é uma vergonha!"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 8,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Falta também legitimidade ao PSD: nos últimos anos, o PSD — tal como, aliás, outras forças parlamentares, e desde logo o CDS-PP e o PS — não utilizou sequer metade do tempo de antena que a lei lhe atribui. Quem assim prescinde voluntariamente da emissão de parte significativa do seu tempo de antena não pode, nem deve, bramir nem manifestar qualquer cólera por ver a RTP tomar à letra tamanho"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 9,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Falta também sentido de oportunidade ao PSD: está em curso, por acção da Entidade Reguladora para a Comunicação Social, uma iniciativa para encontrar uma solução consensual. O agendamento deste projecto de lei não contribui para encontrá-la. O PSD não pode, nem deve, adoptar o mesmo comportamento que critica nos outros.\nNão falta, todavia, vergonha ao PSD."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 9,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 9,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O pretexto da alteração do horário de emissão do direito de antena serviu simultaneamente para três objectivos: em primeiro lugar, para continuar as acusações completamente falsas e caluniosas contra o Governo. O PSD não apresentou ainda qualquer prova — nem as possui — de que o Governo tenha de alguma forma determinado, ou sequer influenciado, a decisão da RTP.\nEm segundo lugar, para pressionar a RTP com o objectivo evidente de tentar obter mais uns minutos de emissão nos telejornais, convencida que está a Direcção do PSD de que estes sucessivos protestos, mesmo se completamente infundados, garantirão mais umas imagens, mais umas declarações do seu líder.\nEm terceiro lugar, para encontrar na RTP — e, através dela, na comunicação social — um bode expiatório para o fracasso da política de oposição da direcção do PSD e da afirmação da sua liderança."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 9,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 9,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Apesar disso, o PS não inviabilizará com o seu voto a aprovação, na generalidade, dos projectos de lei do PSD ou do BE, quando este for apreciado, e acompanharemos com total disponibilidade a iniciativa promovida pela Entidade Reguladora para a Comunicação Social para encontrar uma boa solução.\nImporta, todavia, ir um pouco mais longe.\nA próxima revisão da Lei da Televisão, ditada nomeadamente pela proximidade das emissões da televisão digital terrestre, constitui o momento apropriado para rever os preceitos sobre o direito de antena em matérias como a fixação dos horários de emissão, sendo certo que importa continuar a assegurar tanto a liberdade de programação como a independência da concessionária face ao poder político; os prazos de reserva do direito de antena e de entrega das respectivas gravações; a extensão de uma eventual intervenção de arbitragem da Entidade Reguladora, tal como, aliás, ela ontem propôs; a duração dos tempos de antena, quer a que a lei prevê para cada emissão quer a anual, designadamente dos grandes partidos; a ponderação sobre a duração dos tempos de antena dos partidos políticos em comparação com a das principais organizações sindicais, profissionais e representativas das actividades económicas; e, considerando que, na última década, apenas um governo (adivinhem qual: o presidido por Pedro Santana Lopes!…) utilizou tempo de antena destinado pela lei ao Governo, a ponderação sobre se fará sentido reservar, com esse objectivo, uma hora anual."
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "A Mesa regista várias inscrições para pedir esclarecimentos ao orador.\nEm primeiro lugar, tem a palavra o Sr. Deputado Fernando Rosas."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 9,
+      "speaker": {
+        "id": 1470,
+        "name": "Fernando José Mendes Rosas",
+        "party": "BE",
+        "string": "O Sr. Fernando Rosas (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Alberto Arons de Carvalho, há um aspecto na sua intervenção e na atitude do Partido Socialista que não compreendo.\nNaturalmente, a razão pela qual o Bloco Esquerda apresentou um projecto de lei sobre esta questão foi por achar que há uma denegação de um direito constitucionalmente previsto na prática da televisão. Em relação aos tempos de antena, que constituem um direito constitucional que os partidos e outros parceiros sociais têm, a televisão, sem negar formalmente esse direito, colocando a sua emissão uma hora mais cedo, retira-lhes eficácia, há menos meio milhão de pessoas que vêem o tempo de antena, o que consideramos que é mau — é uma forma de, formalmente mantendo um direito, esvaziá-lo de conteúdo.\nÉ por isso que entendemos que a televisão, ainda por cima ao recusar-se a negociar, ao romper a intermediação que fez a entidade reguladora, nos empurra para a única solução que temos,…"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 9,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 9,
+      "speaker": {
+        "id": 1470,
+        "name": "Fernando José Mendes Rosas",
+        "party": "BE",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… que é a de tentar mudar na lei uma situação arbitrária, unilateral e arrogante.\nGostava de perceber o que o PS diz nesta matéria. É que o Sr. Deputado diz «protestámos contra a"
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 10,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 10,
+      "speaker": {
+        "id": 1470,
+        "name": "Fernando José Mendes Rosas",
+        "party": "BE",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e, depois, inaugura o seu discurso dizendo que «isto, dos tempos de antena, já não tem importância alguma», como que a justificar, na prática, a intervenção da televisão. Não percebo!! Para VV.\nEx.as pode não ter importância, porque têm muito espaço no telejornal,…"
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 10,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 10,
+      "speaker": {
+        "id": 1470,
+        "name": "Fernando José Mendes Rosas",
+        "party": "BE",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… têm ministros a aparecer três e quatro vezes nos telejornais."
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 10,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Sr. Agostinho Branquinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 10,
+      "speaker": {
+        "id": 1470,
+        "name": "Fernando José Mendes Rosas",
+        "party": "BE",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "VV. Ex.as não precisam, mas nós precisamos desse espaço, precisamos desse direito à livre expressão que a Constituição nos assegura! Se os senhores banalizam isto para desculpar a posição da RTP, naturalmente, ficamos sem perceber se os senhores querem aplicar a lei e a Constituição ou se querem desculpar a RTP pela violação implícita que está a fazer de uma prerrogativa constitucional dos partidos.\nJá agora, Sr. Deputado, para terminar, muito rapidamente, talvez possa esclarecer-me um aspecto — e ainda que eu reconheça que não é da sua competência responder, gostava de conhecer a sua interpretação.\nA televisão negociou, há uns anos, com a Alta Autoridade para a Comunicação Social exactamente este problema e comprometeu-se com esta a manter os tempos de antena no horário nobre."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 10,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Sr. Agostinho Branquinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Com este Conselho de Administração!"
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 10,
+      "speaker": {
+        "id": 1470,
+        "name": "Fernando José Mendes Rosas",
+        "party": "BE",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Com este Conselho de Administração! Nessa altura era o Conselho de Administração que tomava atitudes.\nQuando veio cá o Presidente do Conselho de Administração explicou-nos, através de um longo debate, que, afinal, o Conselho de Administração nada tinha que ver com isto mas, sim, a Direcção de Programas e que, por isso, até estava ali um bocado «sem pé». Agora, para romper as negociações e manter a decisão unilateral torna a ser o Conselho de Administração o responsável. E, portanto, não sei já muito bem com quem é que estamos a falar, se é com a Direcção de Programas se é com o Conselho de Administração.\nNa opinião de V. Ex.ª com quem é? É que, além do mais, parece que para lidar com esta questão há uma entidade nebulosa que, de acordo com as circunstâncias, ou se refugia na Direcção de Programas ou assume plenamente a representação da entidade.\nPortanto e já agora, há aqui um mistério do interlocutor que conviria esclarecer. Sei que a V. Ex.ª não cabe esclarecê-lo, mas talvez tenha uma interpretação possível para este puzzle."
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para pedir esclarecimentos, tem a palavra o Sr. Deputado Miguel Macedo."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 10,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Sr. Miguel Macedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Alberto Arons de Carvalho, julgo que todos temos direito a ter um dia não bom, e V. Ex.ª, hoje, não teve, de facto, um bom dia! É porque, mesmo que não quisesse, o Sr. Deputado Alberto Arons de Carvalho deu aqui razão aos que pensam que, neste momento, o PS, a contragosto, aceita reverter a situação criada pela RTP em matéria de direitos de antena.\nNão está aqui em causa quem usa, ou quanto tempo usa, um direito consagrado constitucionalmente!"
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 10,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 10,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que está aqui em causa é que, em termos democráticos, amputar da forma como a RTP pretende fazer um direito constitucional…"
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 10,
+      "speaker": {
+        "id": 1255,
+        "name": "Hermínio José Sobral Loureiro Gonçalves",
+        "party": "PSD",
+        "string": "O Sr. Hermínio Loureiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Essa é a questão!"
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 10,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… empobrece a democracia, diminui a capacidade dos agentes sociais e políticos no uso de direitos constitucionais consagrados, que é fazer do pluralismo, do contraditório e da exposição das suas"
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 11,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esta é a questão! Por isso mesmo, Sr. Deputado, ouvindo a sua intervenção, fiquei com a ideia de que o senhor, não sei se em nome do PS, acabou de preanunciar à Assembleia da República e aos portugueses que na próxima revisão constitucional o seu partido proporá o fim da consagração constitucional dos direitos de antena. É que V. Ex.ª teorizou muito sobre esta matéria,…"
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 11,
+      "speaker": {
+        "id": 1255,
+        "name": "Hermínio José Sobral Loureiro Gonçalves",
+        "party": "PSD",
+        "string": "O Sr. Hermínio Loureiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas disse muito pouco!"
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 11,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… falou sobre a evolução dos meios de comunicação social, fez uma série de considerações em torno desta matéria que desaguam quase inevitavelmente, na lógica da sua argumentação, neste ponto: os tempos de antena, hoje, não fazem sentido e, por isso, o PS aqui está a questionar a necessidade dos mesmos.\nPois quero dizer-lhe, Sr. Deputado Alberto Arons de Carvalho, que não conte com esta bancada para fazer essa amputação da democracia,…\n… que desde o 25 de Abril existe; não vale a pena sequer ter essa tentação! Passo a um segundo ponto, Sr. Deputado: o extraordinário desta situação leva-nos até a outros factos.\nEstá consagrado na lei, mas não na Constituição, que o Primeiro-Ministro e o Presidente da República podem dirigir-se, através do canal público de televisão, ao País."
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 11,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E também o Presidente da Assembleia da República!"
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 11,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E também o Presidente da Assembleia da República. E a televisão tem feito sempre, criteriosamente, a transmissão das mensagens destas Altas figuras do Estado, como é seu dever, como todos entendemos, nos momentos nobres do seu horário informativo: imediatamente após o telejornal, regra geral."
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 11,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Sr. Agostinho Branquinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Claro!"
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 11,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pois, V. Ex.ª, sabendo que a lei assim estabelece, vem aqui negar uma coisa que está consagrada na Constituição em relação aos agentes sociais e aos partidos políticos.\nFinalmente, Sr. Deputado, na matéria das prioridades políticas do PSD, não abdicamos de definir a nossa agenda política. Pensei, no entanto, já que o Sr. Deputado queria falar dessas matérias, que vinha hoje dar a resposta que ontem o Primeiro-Ministro não deu para a questão de se ter tornado facultativa a realização das provas globais do 9.º ano."
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 11,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pensei que o Sr. Deputado Arons de Carvalho vinha aqui explicar por que é que o Governo, tendo prometido aos portugueses que não aumentava impostos, todos os dias aumenta impostos.\nPensei que vinha aqui explicar as trapalhadas que todos os dias sucedem no domínio da saúde."
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 11,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como o Sr. Deputado nada disso veio aqui explicar, não tem qualquer autoridade…"
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 11,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… para, dirigindo-se a esta bancada, questionar as nossas prioridades políticas, que somos sempre nós que definimos."
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Pedro Mota Soares."
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 12,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Alberto Arons de Carvalho, antes de lhe colocar uma questão concreta, deixe-me que lhe diga que não o acompanho no seu discurso sobre o que é a natureza dos tempos de antena.\n\nO Sr. Deputado fez, da tribuna, um discurso muito facilitista, que, se calhar, pode cair bem junto de muitos, mas que considero muito perigoso. É o discurso sobre o que é o conteúdo dos tempo de antena: se são de autopromoção, ou não; se servem para fazer publicidade ou propaganda aos intervenientes, ou não."
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 12,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Sr. Alberto Arons de Carvalho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não foi isso que eu disse! Não ouviu bem!"
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 12,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E não o acompanho, Sr. Deputado, porque considero que esse discurso raia o populismo e, mais grave do que isso, é muito perigoso, visto que, ao introduzir-se no que é o conteúdo legítimo de cada um dos tempos de antena, que é um conteúdo que vincula, única e exclusivamente, o titular do tempo de antena, V. Ex.ª está a entrar no princípio muito perigoso da censura a esses mesmos tempos de antena."
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 12,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso mesmo, Sr. Deputado, não o acompanho e peço-lhe que reflicta um pouco sobre esse discurso, que considero muito negativo e muito perigoso.\nSr. Deputado, nesta matéria, não é possível ter um discurso dúplice. Trata-se de uma matéria muito clara e ou estamos a favor de que a RTP continue a fazer a prática reiterada de mais de 30 anos de passar os tempos de antena sempre junto aos telejornais ou, então, não estamos.\nNesse sentido, vir aqui dizer que temos de fazer uma reflexão, que temos de ver na especialidade como é que fazemos as coisas, que acompanhamos as diligências da Entidade Reguladora para a Comunicação Social (ERC) é um discurso que não cola, em primeiro lugar, porque a ERC já deu por finda a sua intervenção neste processo. A Entidade Reguladora para a Comunicação Social realizou um conjunto de diligências, que até saudamos, e já disse que sentiu que a sua intervenção terminou, porque esbarrou na intransigência da RTP.\nPortanto, Sr. Deputado, vai ter de ser o Parlamento a resolver esta matéria e aqui não pode haver um «sim» ou «sopas»: ou acompanha um conjunto de bancadas que querem resolver, e de preferência hoje, este problema ou não acompanha.\nAssim, muito claramente, a pergunta que lhe quero colocar é a seguinte: o Grupo Parlamentar do Partido Socialista está disponível para resolver hoje o problema, ainda que, mais à frente, numa alteração à Lei da Televisão, possamos todos pensar em conjunto sobre esta matéria (não ponho isso em causa) ou a sua lógica é a de adiar esta matéria para a especialidade,…"
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 12,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 12,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… eventualmente, até, a de colocar esta matéria na «gaveta» e não dar uma solução a um problema político muito concreto e que nos aflige de uma forma muito directa? Esta é a pergunta para a qual quero uma resposta muito directa, Sr. Deputado."
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Agostinho Branquinho."
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 12,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Sr. Agostinho Branquinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Arons de Carvalho, a questão que hoje estamos aqui a discutir não é partidária, não diz respeito a este ou àquele partido. A questão que hoje estamos aqui a discutir tem a ver com a qualidade da democracia, com a democracia, com o direito de participação. É algo que tem dignidade institucional.\nSr. Deputado Arons de Carvalho, aquilo que nos preocupa é que, numa questão como esta, em que praticamente toda a Câmara percebeu do que se trata e em relação à qual a Entidade Reguladora, de uma forma muito clara, disse o que é que estava em cima da mesa, o Partido Socialista parece que não quer perceber a importância desta matéria para a qualidade da nossa democracia e está a afunilar a sua visão, colocando-a nas tricas partidárias.\nNesse sentido, Sr. Deputado, tem aqui uma excelente oportunidade para recolocar e posicionar esta matéria no local devido, que tem a ver com os direitos, liberdades e garantias, que constitucionalmente devemos preservar e defender."
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 12,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, como disse o meu colega de bancada, Deputado Miguel Macedo, gostava"
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 13,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Diga!"
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 13,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Considera que esta questão é importante, ou não?"
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 13,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 13,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Considera que esta questão é central, ou não? É, ou não, indiferente para o Partido Socialista? É uma questão partidária? Considera que se trata de uma questão dos partidos da oposição versus maioria absoluta do Partido Socialista? Não considera que é algo por que todos devemos lutar, porque é para isso, exactamente, que serve o serviço público?"
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 13,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Arons de Carvalho, as reflexões que V. Ex.ª produziu sobre o âmbito do direito de antena são algo que vamos ter tempo de discutir. Estamos perfeitamente de acordo! Podemos reflectir sobre tudo e mais alguma coisa, quando o Governo fizer aquilo a que se comprometeu, que é apresentar, nesta Assembleia da República, o problema da Lei da Televisão. No entanto, aquilo que hoje está em cima da mesa, aquilo que hoje é determinante é uma coisa tremendamente simples: trata-se de repor a situação que existia no dia 31 de Dezembro de 2006.\nPortanto, Sr. Deputado, a pergunta concreta que lhe coloco é a seguinte: qual é a posição que o Partido Socialista hoje vai assumir na votação, na generalidade, na especialidade e final global, sobre uma coisa que é mesmo muito simples (e escusa de fazer essa cara de espanto, Sr. Deputado), que é a de repor a situação que existia a 31 de Dezembro de 2006 e que, inopinadamente, sem ninguém perceber porquê, sem ninguém perceber quem mandou, sem ninguém perceber a quem é que serve — bom, a quem serve, percebemos…! — foi alterada? Qual é o problema do Partido Socialista em votar, hoje, a reposição da situação que existia a 31 de Dezembro de 2006? No que se refere às outras dúvidas, a seu tempo iremos discuti-las.\nAssim, a questão central que coloco é a de saber como é que o Partido Socialista vai hoje votar uma coisa que tem a ver com a qualidade da nossa democracia."
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder a este conjunto de pedidos de esclarecimento, tem a palavra o Sr. Deputado Alberto Arons de Carvalho."
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 13,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Sr. Alberto Arons de Carvalho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, em primeiro lugar, quero reafirmar a posição do Partido Socialista: pronunciámo-nos, desde a primeira hora, contra a forma e contra o conteúdo desta decisão da RTP."
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 13,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 13,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Posto isto, devo dizer que não desvalorizamos a importância do direito de antena, sobretudo, como disse na minha intervenção, no que se refere às organizações sociais, sindicais, patronais e ligadas a actividades económicas, já que os partidos políticos têm espaço de intervenção, quer na informação diária quer nos debates efectuados na própria televisão, muito mais frequentes e com muito mais visibilidade.\nPortanto, não desvalorizo a importância do direito de antena, desvalorizo, sim, completamente, a demagogia que é feita em torno desta questão."
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 13,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso, sim, desvalorizo.\nPenso que, lá fora, está o País que olha para este debate com o sentimento de que estamos aqui a discutir em circuito fechado, que não estamos a olhar para o País, que não temos a noção de como o direito de antena, muitas vezes, é olhado com desdém, com desconfiança, como se fosse autopromoção.\nO que procurei referir na minha intervenção é que, nesta matéria, existe uma grande diferença entre a legislação portuguesa e a dos outros países da Europa."
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 14,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Sr. Agostinho Branquinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é uma questão partidária!"
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 14,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… o CDS-PP, que, em 2006, não aproveitou um segundo do direito de antena,…\n… têm alguma legitimidade para falar sobre esta questão do direito de antena?!"
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 14,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isto é um direito constitucional!"
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 14,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não têm legitimidade para a cólera profundamente artificial que têm exibido sobre esta matéria."
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 14,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 14,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esta cólera profundamente artificial, sobretudo no caso do PSD, suscita-me uma outra questão.\nÉ claro que o PSD já desistiu de acusar o Governo de estar por trás desta decisão. Como não têm argumentos, não têm provas, já esqueceram essa parte do debate. Mas, em relação a esta matéria, há qualquer coisa de má consciência por parte do PSD. Dá ideia de que o PSD procura afastar a circunstância de ter sido durante a vigência de um governo apoiado por si que foi designada a actual administração da RTP.\nA este propósito, recordo até que houve uma pessoa que saiu da bancada do PSD directamente para a actual administração da RTP. Será esse o problema que o PSD tem…"
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 14,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Claro!"
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 14,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Sr. Agostinho Branquinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não, não!"
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 14,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e é isso que o faz hostilizar a RTP, tão demagogicamente, tão artificialmente, com tão pouca sinceridade.\nOra, nós queremos resolver esta situação. Defendemos que o tempo de antena deve voltar a ser exibido à hora a que estava a ser exibido. Mas não contem connosco para actos de intromissão na liberdade de programação, de diktat sobre a RTP.\nEsperamos que a RTP acolha a decisão ontem tomada pela Entidade Reguladora para a Comunicação Social. Só depois disso estaremos em condições de dar o passo seguinte."
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 14,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A RTP já respondeu!"
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 14,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Entretanto, neste momento, como toda a gente sabe, não há ocasião para qualquer tempo de antena não eleitoral por força da lei, uma vez que estamos próximo de um acto referendário.\nFinalmente, Sr. Deputado Fernando Rosas, a sua pergunta é certamente muito pertinente mas, como confessou, não está à espera que eu venha aqui falar em nome da Radiotelevisão Portuguesa ou da sua administração."
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 14,
+      "speaker": {
+        "id": 1470,
+        "name": "Fernando José Mendes Rosas",
+        "party": "BE",
+        "string": "O Sr. Fernando Rosas (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Só lhe pedi uma opinião!"
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 14,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 14,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é para uma interpelação à Mesa."
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 15,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é para pedir à Mesa que faça distribuir um documento que foi enviado a todos os grupos parlamentares mas que o Sr. Deputado Arons de Carvalho diz que não conhece. O Partido Socialista, provavelmente, foi maltratado pela ERC e o documento não lhe terá sido enviado ou extraviou-o.\nAssim, peço ao Sr. Presidente que faça distribuir este documento, datado de ontem, proveniente da ERC, no qual se diz que «(…) hoje, 24 de Janeiro, a RTP informou que, atento o teor e o sentido daquele entendimento, decidiu manter a sua posição, reiterando o enquadramento legal e procedimental que, no seu entender, a sustenta (…)».\nPortanto, a RTP já decidiu! \nO Sr. Deputado escusa de fingir que vamos esperar que a RTP responda à ERC. Já respondeu! A carta que tenho comigo é a que foi dirigida ao nosso partido…"
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 15,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Eu também recebi!"
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 15,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e, seguramente, também haverá uma dirigida ao PCP, outra ao CDS-PP, outra ao Bloco de Esquerda… Se calhar, se perguntar ao Dr. Alberto Martins, também há uma carta dirigida ao Partido Socialista…!? Peço, pois, ao Sr. Presidente que providencie no sentido de os serviços fotocopiarem este exemplar da carta que tenho comigo e distribuírem-na, por forma a informar o Sr. Deputado Arons de Carvalho."
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Seguramente, Sr. Deputado. Será distribuída.\nPara uma intervenção, tem a palavra o Sr. Deputado António Filipe."
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 15,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Pela nossa parte, vamos retirar do debate o que não tem que ver com o mesmo.\nNão vamos discutir se o Governo concordou ou não, influenciou ou não. Isso não está em causa. Também não vamos discutir se o PSD agendou este projecto de lei mas devia ter agendado outro. Esse é um problema do PSD, que agendou este projecto de lei, que é o que estamos a discutir. As prioridades políticas do PSD são com o próprio e, portanto, não nos interessam para este debate. O que nos interessa é o que está em causa, de facto.\nO que está em causa é uma decisão unilateral, tomada pela RTP, de, fora de períodos eleitorais, passar a transmitir os tempos de antena às 19 horas, quando, antes, a respectiva transmissão estava «colada» ao jornal nacional, de maior audiência.\nOra, isto remete-nos para uma questão fundamental. De facto, o direito de antena tem consagração constitucional, e não é por acaso. Não se deixou essa matéria exclusivamente para a lei ordinária, é a própria Constituição que impõe a existência do direito de antena. Isso diz alguma coisa e confere a esta matéria um valor que não pode ser esquecido, escamoteado.\nSe assim é, foi porque se reconheceu que o direito de antena tem suficiente relevância democrática e cívica para que o legislador constituinte tenha entendido integrar esta matéria no texto constitucional. O direito de antena tem, pois, importância democrática, importância cívica e, fundamentalmente, é um direito da oposição.\nAliás, reparámos que o Sr. Deputado Arons de Carvalho chamou a atenção para o facto de o Governo ter deixado de utilizar esta possibilidade. Provavelmente, já se sente satisfeito com o «tempo de antena» informativo que vai obtendo na comunicação social, mas o mesmo não se passa em relação a todos os partidos, designadamente alguns partidos da oposição que, de facto, sentem necessidade de utilizar este direito, que a Constituição e a lei lhes conferem, para fazerem chegar aos portugueses mensagens que, de outra forma, não conseguiriam. Portanto, repito, isto tem relevância democrática e é, inquestionavelmente, um direito da oposição.\nAssim, prejudicar a forma de exercício deste direito tem um sentido, que é o de causar prejuízo aos partidos que sentem necessidade de exercê-lo e que o fazem efectivamente.\nE, Sr. Deputado Arons de Carvalho, não releva o argumento de que podemos desvalorizar o tempo de antena porque o Governo não o utiliza e há partidos que também não. Esse raciocínio levar-nos-ia muito longe, Sr. Deputado. É que, então, também poderíamos dizer que «como, nas eleições, há muitos eleitores que se abstêm, então, agora, as urnas passam a encerrar às 17 horas porque os que querem votar vão mais cedo!»\nNão, Sr. Deputado! O facto de haver partidos que não utilizam esses tempos não significa que o direito"
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 16,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 16,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, do nosso ponto de vista, esse argumento não releva.\nVoltemos, então, à posição que foi tomada pela RTP.\nEm primeiro lugar, é preciso notar que estamos a falar de uma empresa concessionária do serviço público de radiotelevisão. A RTP tem este dever que está consagrado na Constituição, na lei e no respectivo contrato de concessão.\nTem sido dito que a RTP não violou a lei porque esta última permite que os tempos de antena sejam transmitidos entre as 19 horas e as 22 horas e, uma vez que a RTP «encostou» a transmissão às 19 horas, está dentro da lei.\nMas isso é ver apenas parte da lei. Isto porque a lei também estabelece — artigo 53.º, n.º 5, da Lei da Televisão — que «Os responsáveis pela programação devem organizar, com a colaboração dos titulares do direito de antena e de acordo com a presente lei, planos gerais da respectiva utilização.» Ou seja, em momento algum a lei considera que os tempos de antena estão na disposição unilateral do operador do serviço de televisão."
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 16,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 16,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Remete-se, assim, muito claramente, para uma perspectiva de concertação com os beneficiários do tempo de antena e, mais adiante, até se diz que, em caso de diferendo, haverá lugar a arbitragem por parte da entidade reguladora.\nPortanto, esta questão não está na disposição exclusiva do serviço público de televisão.\nAcresce que a questão não pode ficar dependente das audiências e do espaço publicitário. Desde logo, porque é sabido que o serviço público de televisão é financiado por uma indemnização compensatória paga pelo Estado — e, a nosso ver, bem! —, precisamente para que sejam cumpridas as missões de serviço público. Aliás, como se sabe, foi assumido que o serviço público de televisão não tem o seu financiamento preferencial nas receitas de publicidade. Tanto assim é que foi decidido que as receitas publicitárias da RTP apenas funcionam para cobertura do serviço da dívida e, mais, até já foi decidido por governos anteriores abdicar de parte da publicidade da RTP. Portanto, não se pode imputar a medida em causa a qualquer ideia de equilíbrio financeiro por parte da RTP.\nDepois, a RTP, ultimamente, até tem aumentado as suas audiências, com o que nos congratulamos (não por menosprezo para com os canais privados, mas porque pensamos ser bom que o serviço público de televisão tenha o seu trabalho reconhecido por um número mais significativo de portugueses), e, para consegui-lo, não foi preciso, como se viu, desvalorizar o tempo de antena.\nAgora, Sr. Presidente e Srs. Deputados, a forma como a RTP comunicou esta sua decisão unilateral aos partidos políticos é inaceitável. Mais, quando se sabe que essa decisão foi comunicada à Entidade Reguladora para a Comunicação Social no dia 12 de Dezembro e aos partidos no dia 28 de Dezembro, com a informação de que entraria em vigor no dia 1 de Janeiro, isso é não só inaceitável…"
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 16,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 16,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… como prova de alguma má consciência. Se isto foi feito assim, quando poderia ter sido feito de outra maneira, foi para impedir que os partidos políticos pudessem ter tempo de resposta em tempo útil."
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 16,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 16,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ora, essa é uma forma de relacionamento que não faz qualquer sentido e que queremos aqui claramente repudiar.\nE é uma pena que a questão tenha de ser resolvida por via legislativa. Porém, também temos de assumir claramente que, se não for resolvida de outra maneira, esta é uma forma perfeitamente legítima de resolvê-la. É que a Lei da Televisão é uma competência da Assembleia da República; a regulamentação de uma matéria com a relevância constitucional que tem o direito de antena é também uma competência da Assembleia da República; e a definição da forma como o serviço público deve ou não ser cumprido é igualmente uma competência desta Assembleia.\nAssim sendo, se o operador do serviço público se recusa a dar ao tempo de antena a relevância legal e constitucional que ele deve ter, não há mal nenhum, do nosso ponto de vista, em que a Assembleia da República não só emita a sua opinião mas exerça as competências constitucionais que possui para que este direito tenha, de facto, a relevância que o legislador constituinte lhe pretendeu conferir.\nNesse sentido, concordamos com o conteúdo das iniciativas legislativas que foram apresentadas nesta"
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Pedro Mota Soares."
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 17,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente e Srs. Deputados, permitam-me que, antes de iniciar a minha intervenção, faça um pequeno comentário a algo que foi dito nesta Câmara e que reputo da maior gravidade. Dizia, há pouco, o Sr. Deputado Alberto Arons de Carvalho que não tinham legitimidade para falar desta questão os partidos políticos que não tenham usado sempre os seus tempos de antena."
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 17,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Sr. Alberto Arons de Carvalho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Eu não disse isso!"
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 17,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ó Sr. Deputado, peço-lhe imensa desculpa mas a liberdade de falar, o modo de falar e o tempo de falar tem de ser sempre do próprio partido político!"
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 17,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 17,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Então, o Partido Socialista, agora, quer gerir as opiniões, o tempo de falar ou o tempo de não falar dos partidos da oposição?! Acha isto normal, Sr. Deputado?! Nós não achamos, Sr. Deputado! E essa linha — digo-lho muito honestamente — não pode ser ultrapassada.\nSr. Deputado, a mim nunca me ouvirá dizer — e ouvi-o também comentar a oportunidade política dos agendamentos potestativos dos outros partidos políticos — aqui, no Plenário, que o Sr. Deputado não tem legitimidade para falar dos potestativos dos outros partidos políticos, quando o PS nem sequer esgota os seus agendamentos. Nunca me ouvirá falar disso! Essa é uma matéria que, como é óbvio, pertence à gestão interna da bancada do Partido Socialista e, repito, não ouvirá por parte do CDS alguma espécie de crítica relativamente a isso."
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 17,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Talvez seja necessário relembrar-lhe que, mesmo o Partido Socialista, se calhar, também não usa sempre os seus tempos de antena. Mas essa gestão é do PS! E não venho aqui, ao Plenário da Assembleia, em nome das pessoas que represento, criticar o Partido Socialista por isso. A gestão dos silêncios, das opiniões e das omissões do PS pertence ao Partido Socialista e não sou eu que vou criticá-la.\nÉ que, Sr. Deputado, num Estado de direito que preserva e valoriza valores como a pluralidade de opiniões e o direito de participação política, valores como a liberdade de expressão e a possibilidade de confronto das diferentes correntes de opinião, valores como o pluripartidarismo e os direitos da oposição, valores como o direito de informar e ser informado, o tempo de antena é uma ferramenta essencial para que se garanta a efectivação desses direitos."
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 17,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A exemplo do que se passa em vários países da Europa, em Portugal, está consagrada legalmente a existência do direito aos tempos de antena. Aliás, é curioso verificarmos que a nossa Constituição consagra a existência desse direito, no artigo 40.º, incluindo-o na categoria dos direitos, liberdades e garantias, naquele conjunto essencial de direitos fundamentais que o Estado tem sempre de respeitar.\nPara os partidos políticos — e, acima de tudo, para os partidos políticos que estão na oposição —, assim como para as associações de empregadores e de trabalhadores, para as associações de defesa do ambiente e do consumidor, a garantia do direito ao tempo de antena é fundamental para a transmissão das suas posições e pontos de vista, e, sobretudo, para garantir que é livremente executado o direito à informação, quer na lógica de quem informa quer na lógica de quem é informado."
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 17,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em mais de 30 anos, sempre se conseguiu gerir com sensibilidade e bom senso a efectivação deste direito, consagrando a sua emissão no serviço de programas televisivos de cobertura nacional"
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 18,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 18,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso mesmo, da nossa parte, não abdicaremos de que os tempos de antena passem sempre ligados aos serviços noticiosos, ao Telejornal — e não abdicaremos não só pelo número de pessoas que vê mas também pela apetência e pela disponibilidade que as pessoas têm ao ver, neste período, os tempos de antena.\nDizia, há pouco, o Sr. Deputado Alberto Arons de Carvalho que a ERC tomou um conjunto de diligências — é verdade e nós elogiamo-las. Mas a verdade é que essas diligências da ERC foram totalmente infrutíferas. A verdade é que a própria ERC, numa carta que dirigiu a todas as bancadas, diz que «Nestes termos, cabe informar a V. Ex.ª que dou por encerrado, infelizmente sem êxito, o processo de mediação». A própria ERC encerrou esse processo e fê-lo porque esbarrou na intransigência da RTP, esbarrou até na intransigência de quem tem uma obrigação de cumprir o serviço público.\nPor isso mesmo, votaremos favoravelmente o projecto de lei hoje em discussão, assim como a necessidade de ele ser aprovado com a máxima rapidez.\nDiz o Partido Socialista que vai acompanhar o trabalho da ERC — mas a ERC esgotou o seu trabalho! Diz o Partido Socialista que vai analisar na especialidade — mas, para nós, nesta matéria, não é preciso haver especialidade, para nós, nesta matéria, o que o Parlamento tem de fazer é, legitimamente, quer do ponto de vista legal quer, acima de tudo, do ponto de vista político, repor a situação anteriormente existente.\nEstamos totalmente disponíveis para, noutro fórum, repensar globalmente a lógica de emissão dos tempos de antena; não estamos disponíveis para separar os tempos de antena dos serviços noticiosos nem para aceitar uma decisão unilateral da RTP, contra a vontade dos partidos políticos e contra a vontade de muitos agentes económicos, sociais e sindicais em Portugal.\nPor isso mesmo, acompanharemos o PSD neste projecto de lei."
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Francisco Madeira Lopes."
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 18,
+      "speaker": {
+        "id": 1238,
+        "name": "Francisco Miguel Baudoin Madeira Lopes",
+        "party": "PEV",
+        "string": "O Sr. Francisco Madeira Lopes (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: O serviço público de televisão, de acordo com a Lei n.º 32/2003, de 22 de Agosto — a Lei da Televisão —, está sujeito a um importante conjunto de princípios enformadores, de entre os quais gostaria de destacar o rigor, a objectividade e a independência, devendo ainda assegurar uma programação de qualidade, equilibrada, diversificada, contribuindo para a formação cultural e cívica dos telespectadores e promovendo o pluralismo político.\nNesta ordem de princípios, o direito a tempo de antena, um direito fundamental e com consagração constitucional, assume um papel preponderante como factor de garantia do acesso ao maior meio de comunicação social de massas por parte de uma multiplicidade de entidades que não apenas os partidos políticos da oposição, com ou sem assento parlamentar. Abrange ainda sindicatos, organizações profissionais, bem como associações de defesa do ambiente e do consumidor, ou seja, as mensagens, informações e comunicações que estas entidades entendem dever dirigir ao público e à população portuguesa.\nTodavia, o direito ao tempo de antena, conforme consagra a lei e a Constituição da República Portugue-"
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 19,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Junqueiro."
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 19,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Este agendamento potestativo do PSD não tinha propriamente o objectivo de debater a questão dos tempos de antena,…"
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 19,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ai não?!"
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 19,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… foi um pretexto para o PSD dirigir um ataque ao Governo, o que, aliás, já tinha feito através dos Srs. Deputados Agostinho Branquinho e Miguel Macedo.\nHoje, porém, na declaração do Sr. Deputado Miguel Macedo, há um claro recuo nesta matéria, porque de duas, uma: ou o PSD demonstrava aqui, como sublinhou o Sr. Deputado Arons de Carvalho, que havia provas de qualquer interferência ou intervenção do Governo nesta matéria ou, então, o PSD corria o risco de passar por um partido que utiliza como meio de acção política uma coisa muito feia, que se chama, claramente, a mentira.\nA verdade é que, na declaração aqui proferida pelo Sr. Deputado Miguel Macedo, parece ter existido um pequeno recuo nesta matéria.\nDe facto, gostaria de relembrar que esta Lei da Televisão foi aprovada no tempo da maioria absoluta do"
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 20,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Essa é boa!"
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 20,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e, como se vê, o Partido Socialista tinha toda a razão quando, na altura, discordou dessas decisões.\nPortanto, a nossa posição é muito clara nesta matéria."
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 20,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Sr. Agostinho Branquinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Decidam lá quem é que manda!"
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 20,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por outro lado, a Entidade Reguladora para a Comunicação Social respondeu, aqui, a quê? Àquela que era a opinião dos partidos políticos. Mas a Entidade Reguladora não obteve resposta em relação às propostas que fez à RTP. Ora, o Partido Socialista diz, e bem, que assumirá uma decisão imediatamente a seguir a essa resposta. Refiro-me à resposta às propostas que a ERCS apresentou exactamente à RTP.\nFinalmente, em matéria de tempos de antena, o que aqui ficou dito não traduz uma desvalorização dos tempos de antena por parte do Partido Socialista."
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 20,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Sr. Agostinho Branquinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Parece!"
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 20,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ficou aqui bem sublinhado que os partidos que agora «choram sobre leite derramado» são aqueles que não utilizaram esses tempos de antena. Por exemplo, não se percebe a inquietação do CDS quando, no ano passado, não utilizou sequer 1 minuto do seu tempo de antena. Não se percebe a inquietação do PSD quando, não tendo utilizado metade do seu tempo de antena, vem hoje colocar esta questão como se estivesse extraordinariamente prejudicado. Esta é a questão de fundo: os senhores levantaram este debate apenas para tentar fazer um ataque ao Governo, o que foi um acto falhado da vossa parte,…"
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 20,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nota-se!"
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 20,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… porque a nossa posição é clara. A administração procedeu mal, a vossa administração procedeu mal, e os tempos de antena serão repostos nos seus devidos horários."
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Pedro Mota Soares."
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 20,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado José Junqueiro, sei que, tal como nos tempos de antena, a emissão das opiniões vincula única e exclusivamente o titular. Todavia, explico-lhe a razão da minha inquietação. A verdade é que estou incomodado com o ataque feito a um direito, liberdade e garantia consagrado na nossa Constituição, no seu artigo 40.º, que são os tempos de antena. A minha inquietação resulta, portanto, do ataque feito a um instrumento essencial da nossa vida democrática.\nHá uma coisa que gostava de lhe perguntar. Quando a RTP faz esse ataque, o senhor não fica inquieto? Eu fico e muito! De facto, a questão aqui em debate não é a de saber se o tempo disponível foi ou não utilizado mas, sim, a de saber se está ou não em causa o exercício do direito de antena.\nMas há ainda outra coisa que gostava de lhe perguntar. \nO Sr. Deputado faz um ataque à anterior maioria, nomeadamente ao CDS, dizendo que foi o meu partido, juntamente com o PSD, que nomeou o anterior conselho de administração da RTP."
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 20,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O actual!"
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 21,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ora, tenho de lhe dizer que não foi assim, visto que quem nomeou o anterior conselho de administração foi o governo. Todavia, a questão reside em saber quem tomou esta decisão. Foi o conselho de administração? Ou foi a Direcção de Programas? Quem é que o senhor está a pôr em causa? É o conselho de administração? Leia a lei, Sr. Deputado! Esta decisão, nos termos legais, cabe à direcção de programas, pelo que, se quer ser sério, não pode vir para aqui falar na história do conselho de administração."
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado José Junqueiro."
+    },
+    {
+      "utterance_id": 166,
+      "order": 166,
+      "page_start": 21,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Pedro Mota Soares, é evidente que esta atitude assumida pela RTP é um ataque aos direitos elementares. Nisso estamos de acordo."
+    },
+    {
+      "utterance_id": 167,
+      "order": 167,
+      "page_start": 21,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas isso não o inquieta?!"
+    },
+    {
+      "utterance_id": 168,
+      "order": 168,
+      "page_start": 21,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas, relativamente a esta matéria, não ficamos inquietos. A verdade é que estamos inquietos desde há muito com a condução levada a cabo até agora. Aquilo que dissemos foi que o direito aos tempos de antena é inalienável, que a RTP procedeu mal e que os tempos de antena têm de ser repostos no seu devido lugar.\nTodavia, constatámos também alguma demagogia e, sobretudo, alguma hipocrisia da parte de alguns partidos políticos, nomeadamente do PSD e do próprio CDS. De facto, se é tão importante a questão dos tempos de antena (e nós pensamos que é), por que é que os senhores não os utilizaram?"
+    },
+    {
+      "utterance_id": 169,
+      "order": 169,
+      "page_start": 21,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E o que é que o senhor tem a ver com isso?! Meta-se na sua vida!"
+    },
+    {
+      "utterance_id": 170,
+      "order": 170,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Miguel Macedo."
+    },
+    {
+      "utterance_id": 171,
+      "order": 171,
+      "page_start": 21,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Sr. Miguel Macedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, esta é uma intervenção final sobre esta matéria, para nos centrarmos no que é essencial. Quando, há duas semanas, trouxe a esta Assembleia esta questão, quase todos os partidos estavam de acordo sobre o problema dos tempos de antena, com excepção do Partido Socialista, que levantou dúvidas e manifestou discordâncias. Todos os outros partidos estavam, contudo, de acordo com a questão levantada.\nDuas semanas depois, nesta Assembleia e nesta sessão, todos os partidos manifestaram a sua concordância relativamente a esta questão, isto é, o Partido Socialista também manifestou a sua concordância em relação a ela."
+    },
+    {
+      "utterance_id": 172,
+      "order": 172,
+      "page_start": 21,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E bem!"
+    },
+    {
+      "utterance_id": 173,
+      "order": 173,
+      "page_start": 21,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Sr. Alberto Arons de Carvalho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Desde o princípio!"
+    },
+    {
+      "utterance_id": 174,
+      "order": 174,
+      "page_start": 21,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tive oportunidade de, na minha intervenção, saudar essa nova posição do PS em relação a esta matéria."
+    },
+    {
+      "utterance_id": 175,
+      "order": 175,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Nova?!"
+    },
+    {
+      "utterance_id": 176,
+      "order": 176,
+      "page_start": 21,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E quero dizer que estamos muito satisfeitos por termos chegado a este ponto de grande consenso.\nDo que se trata agora não é de desviarmos a atenção para lateralidades que nada interessam. Do que se trata agora é de irmos directos ao assunto, que, Sr. Presidente e Srs. Deputados, passa pelo facto de 230 Deputados serem chamados a votar uma pequena alteração na lei, uma linha só! E esta linha, ao que já está na lei, acrescenta isto: «imediatamente antes ou após o principal jornal nacional.»"
+    },
+    {
+      "utterance_id": 177,
+      "order": 177,
+      "page_start": 21,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não há nada mais simples!"
+    },
+    {
+      "utterance_id": 178,
+      "order": 178,
+      "page_start": 21,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ora, quem está de boa fé e concorda com esta alteração à lei para garantir o tempo de antena não pode aduzir qualquer razão para que esta matéria não seja votada hoje, na generalidade, na especialidade e em votação final global."
+    },
+    {
+      "utterance_id": 179,
+      "order": 179,
+      "page_start": 21,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 180,
+      "order": 180,
+      "page_start": 22,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Realmente, ninguém compreende que por uma linha apenas, esta que resulta da proposta que fazemos, possamos adiar não se sabe para quando e sem qualquer razão, a resolução de um problema que todos percebemos e para o qual já identificámos a solução."
+    },
+    {
+      "utterance_id": 181,
+      "order": 181,
+      "page_start": 22,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 182,
+      "order": 182,
+      "page_start": 22,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso, Sr. Presidente, está a chegar a hora da verdade. Aqueles que estão de acordo com esta alteração, votarão num sentido; aqueles que, apesar de manifestarem esse acordo, mantêm reservas em relação à efectivação deste direito, terão, evidentemente, outra opção.\nPor mim, espero que esta Assembleia, todas as suas bancadas, na sequência das suas declarações aqui proferidas e na boa fé que querem demonstrar no momento da votação, façam aquilo que disseram que iam fazer."
+    },
+    {
+      "utterance_id": 183,
+      "order": 183,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Alberto Arons de Carvalho."
+    },
+    {
+      "utterance_id": 184,
+      "order": 184,
+      "page_start": 22,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Sr. Alberto Arons de Carvalho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Miguel Macedo, trata-se, de facto, apenas de uma linha. Sobretudo desde o momento em que o PSD não deixou que fosse agendado o projecto do Bloco de Esquerda, que tinha uma solução ligeiramente diferente da vossa. É apenas uma linha, mas nessa linha está uma imposição que a Assembleia da República faria à RTP, uma interferência directa na sua liberdade de programação, que penso que a Assembleia da República não deve levar a cabo."
+    },
+    {
+      "utterance_id": 185,
+      "order": 185,
+      "page_start": 22,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está a brincar connosco!"
+    },
+    {
+      "utterance_id": 186,
+      "order": 186,
+      "page_start": 22,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ao contrário do que foi dito, não há na carta da Entidade Reguladora para a Comunicação Social referência a uma decisão final da RTP sobre a decisão da já referida Entidade Reguladora. O que há é algo sobre a posição dos partidos.\nA RTP, que eu saiba, não tomou posição sobre o comunicado da Entidade Reguladora. Tomou posição, sim, sobre a decisão dos partidos políticos. Ora, nós pensamos que não devemos impedir a RTP de tomar posição sobre a decisão da Entidade Reguladora, a qual não foi tomada.\nPensamos ainda que seria muito negativo para a Assembleia da República interferir directa e unilateralmente na liberdade de programação da RTP. Aliás, o preceito constitucional sobre a independência da televisão face ao poder político não é apenas uma questão que se põe em relação ao Governo mas, sim, em relação ao poder político no seu conjunto."
+    },
+    {
+      "utterance_id": 187,
+      "order": 187,
+      "page_start": 22,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Logo vi que havia reserva mental!"
+    },
+    {
+      "utterance_id": 188,
+      "order": 188,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Luís Marques Guedes."
+    },
+    {
+      "utterance_id": 189,
+      "order": 189,
+      "page_start": 22,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, acabámos de assistir a um momento extraordinariamente infeliz, de má fé e de exibição de reserva mental por parte do Sr. Deputado Arons de Carvalho. De facto, o Sr. Deputado Arons de Carvalho já há pouco fingiu que a RTP ainda não tinha tomado qualquer posição sobre este diferendo."
+    },
+    {
+      "utterance_id": 190,
+      "order": 190,
+      "page_start": 22,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Sr. Alberto Arons de Carvalho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é verdade!"
+    },
+    {
+      "utterance_id": 191,
+      "order": 191,
+      "page_start": 22,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Na sequência do pedido que fiz à Mesa, foi distribuído por todas as bancadas algo que, quero acreditar, o Grupo Parlamentar do PS também já tinha, mas que, neste momento, tenho a certeza que tem! Tenho esta certeza porque os serviços distribuíram o documento em causa nesta Câmara, sob ordem do Sr. Presidente da Assembleia da República. Refiro-me a uma carta da Entidade Reguladora para a Comunicação Social, comunicando que a RTP responde negativamente, ou seja, que se recusa a proceder a qualquer alteração, por entender que a mudança que levou a cabo, movendo os tempos de antena, a partir de 1 de Janeiro, para as 19 horas, é correcta.\nComo tal, aquilo que o Sr. Deputado Arons de Carvalho aqui fez foi uma exibição de má-fé. \nO Sr. Depu-"
+    },
+    {
+      "utterance_id": 192,
+      "order": 192,
+      "page_start": 23,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Claro que sabe!"
+    },
+    {
+      "utterance_id": 193,
+      "order": 193,
+      "page_start": 23,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mais: tomou essa posição perante a Entidade Reguladora para a Comunicação Social, que a comunicou aos partidos. \nO Sr. Deputado tem aí cópia da carta que foi enviada ao PSD. Provavelmente, o seu líder parlamentar também lhe poderá facultar cópia ou mesmo o original da carta que foi enviada ao Partido Socialista, e, portanto, só por má-fé é que o Sr. Deputado pode vir aqui, à Assembleia da República, dizer, com o maior dos despudores, que ainda aguarda por uma decisão da RTP.\n\nO Sr. Deputado pode não querer que o direito constitucional aos tempos de antena seja exercido pelos partido políticos e pelas forças sociais, de acordo com aquilo que diz a Constituição, pode não querer que os 150 milhões de euros que os contribuintes portugueses pagam por ano para o serviço público de televisão sirvam, ao menos, para que este direito constitucional consagrado para todos seja efectivado com a dignidade e no horário nobre, como todos entendem que deve ser, agora tem, daqui a pouco, o momento da verdade, que é votar se concorda ou não que os tempos de antena, ao contrário do que a RTP quer fazer e, até ao momento, já fez, voltem a ser transmitidos imediatamente antes ou imediatamente após o Telejornal, sem álibis, sem mais nada. Ou o Sr. Deputado acha que, para entender isto, é preciso repetir 20 vezes, é preciso baixar a uma comissão? Onde é que está o Simplex dessa bancada?!"
+    },
+    {
+      "utterance_id": 194,
+      "order": 194,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 195,
+      "order": 195,
+      "page_start": 23,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado precisa de uma ilustração para perceber o que é que está aqui em causa?! \nO Sr. Deputado sabe o que é que está aqui em causa, a sua bancada sabe o que é que está aqui em causa e, quando votarem, vão dizer com clareza se acham, ou não, que o tempo de antena é um direito fundamental das forças políticas e das forças sociais neste país e se a atitude da RTP está, ou não, a violar um direito fundamental dos cidadãos.\nSe os senhores não votarem favoravelmente, estão a ser cúmplices…"
+    },
+    {
+      "utterance_id": 196,
+      "order": 196,
+      "page_start": 23,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 197,
+      "order": 197,
+      "page_start": 23,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… dessa violação de um direito constitucionalmente consagrado aos partidos políticos e às forças sociais."
+    },
+    {
+      "utterance_id": 198,
+      "order": 198,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado António Filipe."
+    },
+    {
+      "utterance_id": 199,
+      "order": 199,
+      "page_start": 23,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Muito brevemente, como é forçoso, quero apenas repudiar uma concepção aqui manifestada pelo Sr. Deputado Arons de Carvalho, que é a de que a Assembleia da República não pode unilateralmente alterar a Lei da Televisão. Isto é, o concessionário do serviço público de televisão pode alterar unilateralmente o modo de exercício do direito de antena, legal e constitucionalmente consagrado, enquanto a Assembleia da República, que é o órgão de soberania representativo de todos os portugueses, não pode alterar unilateralmente a Lei da Televisão. Isto é extraordinário vindo de uma bancada que está habituada a legislar unilateralmente contra tudo e contra todos!"
+    },
+    {
+      "utterance_id": 200,
+      "order": 200,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD e do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 201,
+      "order": 201,
+      "page_start": 23,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Só agora, nesta matéria, é que acha que não pode alterar nada unilateralmente! Sr. Presidente, isto é espantoso.\nQuero lembrar aqui que a Assembleia da República é um órgão de soberania plenamente competente para aprovar e alterar a Lei da Televisão."
+    },
+    {
+      "utterance_id": 202,
+      "order": 202,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 203,
+      "order": 203,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Agostinho Branquinho."
+    },
+    {
+      "utterance_id": 204,
+      "order": 204,
+      "page_start": 23,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Sr. Agostinho Branquinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Julgo que, chegados a este ponto do debate, para quem, como o PS, diz que é preciso dignificar este Parlamento, que é preciso, perante os portugueses, ter cada vez mais uma aceitação plena daquilo que é o nosso trabalho, não se"
+    },
+    {
+      "utterance_id": 205,
+      "order": 205,
+      "page_start": 24,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "À bancada do PS!"
+    },
+    {
+      "utterance_id": 206,
+      "order": 206,
+      "page_start": 24,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… que, estando hoje o Parlamento a discutir uma linha, no final, se vá dizer que, hoje, os nossos trabalhos ficam interrompidos, esta matéria desce a uma comissão de especialidade — que não sei o que é que vai discutir, a não ser se é imediatamente antes ou imediatamente depois — e, daqui por uns dias, daqui por umas semanas ou daqui por uns meses, conforme a vontade da maioria,…"
+    },
+    {
+      "utterance_id": 207,
+      "order": 207,
+      "page_start": 24,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 208,
+      "order": 208,
+      "page_start": 24,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… sobe a Plenário para a votação final global.\nEsta é que é a questão de fundo, Srs. Deputados! Percebam o ridículo! Percebam o que é que está a acontecer lá fora, como é que os portugueses olham para nós! O que está aqui em causa é saber se os senhores têm ou não capacidade, hoje, aqui e agora, de votar, em votação na generalidade, na especialidade e final global, um inciso à actual lei que diz «imediatamente antes ou imediatamente depois».\nPoder-se-ia dizer: «mas esse inciso é uma coisa muito importante, muda, de forma estrutural, o que se passava no serviço público de televisão». Não, Srs. Deputados da maioria! Aquilo que vai acontecer, se votarmos hoje na generalidade, na especialidade e em votação final global esta linha, é, muito simplesmente, o seguinte: vamos repor a situação que existia no dia 31 de Dezembro de 2006."
+    },
+    {
+      "utterance_id": 209,
+      "order": 209,
+      "page_start": 24,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 210,
+      "order": 210,
+      "page_start": 24,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Qual é a dúvida?! O que é que os senhores querem?! Qual é a dificuldade de entendimento?! Ou, então, existe aí alguma reserva mental."
+    },
+    {
+      "utterance_id": 211,
+      "order": 211,
+      "page_start": 24,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 212,
+      "order": 212,
+      "page_start": 24,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ou, então, existem aí os tais indícios. Se não existem, os senhores têm agora uma excelente oportunidade, uma oportunidade única, para dissiparem todas as dúvidas, votando o inciso «imediatamente antes ou imediatamente depois». Não deixem esta Casa cair no ridículo de remeter para uma discussão na especialidade o inciso «imediatamente antes ou imediatamente depois»! Não há português algum que vá entender isto, Srs. Deputados! É tão-só isto que está hoje, aqui, em discussão."
+    },
+    {
+      "utterance_id": 213,
+      "order": 213,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está concluído o debate do projecto de lei n.º 336/X.\nPresumo que o Grupo Parlamentar do PSD, para além do requerimento que apresentou, também requer a votação na generalidade do diploma."
+    },
+    {
+      "utterance_id": 214,
+      "order": 214,
+      "page_start": 24,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é preciso requerer!"
+    },
+    {
+      "utterance_id": 215,
+      "order": 215,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para defesa da honra, tem a palavra o Sr. Deputado Arons de Carvalho."
+    },
+    {
+      "utterance_id": 216,
+      "order": 216,
+      "page_start": 24,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Sr. Alberto Arons de Carvalho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, há pouco o Sr. Deputado Luís Marques Guedes acusou-me de estar de má-fé na leitura e interpretação da carta da Entidade Reguladora para a Comunicação Social."
+    },
+    {
+      "utterance_id": 217,
+      "order": 217,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Está, está!"
+    },
+    {
+      "utterance_id": 218,
+      "order": 218,
+      "page_start": 24,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Repito o que disse, não lhe retirando uma única linha: esta carta é anterior à deliberação que a Entidade Reguladora para a Comunicação Social tomou sobre esta matéria. Aliás, a carta diz o seguinte, a certo passo: «Hoje, 24 de Janeiro, a RTP informou que, atento o teor e sentido daquele entendimento (…)». Ou seja, não diz que a RTP a tinha informado, atento o sentido e teor do comunicado da Entidade Reguladora, disse do entendimento entre partidos. Posteriormente a isto, a Entidade Reguladora tomou uma posição, e é face a essa posição que eu não sei qual é a posição da RTP. Foi isso que eu disse, é esta a verdade e é isto que eu repito."
+    },
+    {
+      "utterance_id": 219,
+      "order": 219,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos passar…"
+    },
+    {
+      "utterance_id": 220,
+      "order": 220,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Falta dar explicações, Sr. Presidente!"
+    },
+    {
+      "utterance_id": 221,
+      "order": 221,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Alguém pede a palavra para dar explicações? É necessário pedir a palavra!"
+    },
+    {
+      "utterance_id": 222,
+      "order": 222,
+      "page_start": 25,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, eu não preciso de pedir a palavra porque o Sr. Deputado se dirigiu directamente a mim, quando defendeu a sua honra."
+    },
+    {
+      "utterance_id": 223,
+      "order": 223,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ah!…"
+    },
+    {
+      "utterance_id": 224,
+      "order": 224,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Não, Sr. Deputado. É preciso pedir a palavra, porque pode não querer usar dela."
+    },
+    {
+      "utterance_id": 225,
+      "order": 225,
+      "page_start": 25,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, então, peço desculpa. Pensei que o Sr. Presidente é que me perguntava se eu queria usar da palavra, porque é o costume nesta Câmara."
+    },
+    {
+      "utterance_id": 226,
+      "order": 226,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Isso é uma inversão de posições que ainda não está no nosso Regimento."
+    },
+    {
+      "utterance_id": 227,
+      "order": 227,
+      "page_start": 25,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, então, peço a palavra para responder à defesa da honra."
+    },
+    {
+      "utterance_id": 228,
+      "order": 228,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "A palavra é-lhe dada para dar explicações. Tem, para o efeito, 3 minutos."
+    },
+    {
+      "utterance_id": 229,
+      "order": 229,
+      "page_start": 25,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Arons de Carvalho, é evidente que V. Ex.ª não explicou rigorosamente nada e que o texto enviado pela ERC à RTP e a resposta da RTP, que a ERC depois enviou aos partidos, é rigorosamente aquilo que toda a gente percebeu.\nSr. Deputado, parece quase o ridículo de que falava há pouco o Sr. Deputado Agostinho Branquinho. Da mesma maneira que os senhores querem passar para fora o ridículo de esta Assembleia, este conjunto de Deputados, ainda não ter conseguido perceber e que o diploma tem de baixar a uma comissão para se ler melhor uma linha que diz que os tempos de antena devem ser passados no serviço público de televisão imediatamente antes ou após o jornal da noite, o Sr. Deputado acha que todos estes Deputados vão fazer a triste figura de dizer aos portugueses que não perceberam?! Que, se calhar, precisam de um desenho animado para perceberem o que é que isso quer dizer?!\n\nO Sr. Deputado vem dizer que também não percebe aquilo que foi dito pela RTP à ERC e que a ERC comunicou a todos os grupos parlamentares. Com franqueza, Sr. Deputado! Como não acredito — faço-lhe essa justiça — que o Sr. Deputado não sabe ler o que está à frente dos seus olhos,…"
+    },
+    {
+      "utterance_id": 230,
+      "order": 230,
+      "page_start": 25,
+      "speaker": {
+        "id": 11,
+        "name": "Alberto Arons Braga De Carvalho",
+        "party": "PS",
+        "string": "O Sr. Alberto Arons de Carvalho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Que falta de nível!"
+    },
+    {
+      "utterance_id": 231,
+      "order": 231,
+      "page_start": 25,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… só posso pensar que o Sr. Deputado actuou de má fé.\n\nO Sr. Deputado sabe ler, pelo que sabe perfeitamente que a RTP respondeu negativamente à solicitação da ERC, quando lhe foi comunicada a posição unânime de todas as bancadas, inclusive a do Sr. Deputado. É que, na reunião com a ERC, o Sr. Deputado esteve sentado ao nosso lado, tendo também dito que achava que os tempos de antena deviam ser «colados» aos telejornais.\nAgora hesita e diz não saber se não será melhor baixar à comissão para ler melhor mas, sentado ao nosso lado, perante o Presidente da Entidade Reguladora, o Sr. Deputado disse que o seu entendimento — o entendimento da bancada do Partido Socialista, que foi convocado para essa reunião e que o senhor lá representou —, era o de que os tempos de antena deveriam voltar a ser transmitidos imediatamente antes ou após o jornal da noite."
+    },
+    {
+      "utterance_id": 232,
+      "order": 232,
+      "page_start": 25,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E agora?"
+    },
+    {
+      "utterance_id": 233,
+      "order": 233,
+      "page_start": 25,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, o que está aqui em causa, Sr. Presidente, é o seguinte: ou o Sr. Deputado Arons de Carvalho se «ajoelha» perante a decisão unilateral da RTP, ou então assume nesta Câmara as suas responsabilidades e, numa matéria que é um direito constitucional fundamental para as forças políticas e"
+    },
+    {
+      "utterance_id": 234,
+      "order": 234,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as e Srs. Deputados, terminámos o debate, na generalidade, do projecto de lei n.º 337/X.\nVamos passar ao período de votações.\nAntes de mais, começamos por proceder à verificação do quórum, utilizando o cartão electrónico.\nOs Srs. Deputados que, por qualquer razão, não possam utilizar o cartão electrónico assinalarão a sua presença à Mesa e procederão à respectiva assinatura junto dos serviços de apoio, confirmando a vossa presença nesta reunião plenária.\nPausa.\nSrs. Deputados, registam-se 185 presenças, pelo que temos quórum de deliberação.\nEm primeiro lugar, vamos proceder à votação do voto n.º 84/X — De pesar pela morte do Professor António Henrique de Oliveira Marques (PS, PSD, PCP, CDS-PP, BE e Os Verdes).\nTem a palavra a Sr.ª Secretária para proceder à leitura do voto."
+    },
+    {
+      "utterance_id": 235,
+      "order": 235,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, é o seguinte:\nO Professor Doutor A. H. Oliveira Marques foi um dos mais prestigiosos historiadores portugueses do século XX. Licenciado em Histórico-Filosóficas pela Faculdade de Letras da Universidade de Lisboa, onde se tornou docente, destacou-se durante a crise académica de 1962 pelo apoio que prestou à luta estudantil daquele ano. Essas e outras atitudes de desassombro cívico e político valeram-lhe ser demitido da Universidade pelo governo da ditadura em 1965.\nForçado a autoexilar-se, naquele ano, nos Estados Unidos, aí vai fazer boa parte da sua obra, leccionando nas universidades de Alburne, Florida, Columbia N.Y., Minesotta e Chicago. Doutora-se em História nos EUA e regressa a Portugal após a Revolução de Abril de 1974.\nÉ director da Biblioteca Nacional entre Outubro de 1974 e Abril de 1976, aí iniciando um longo projecto de renovação. Em Julho deste ano preside à comissão instaladora da Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa e funda o Departamento de História dessa Faculdade. Foi Presidente do Conselho Científico da Faculdade de Ciências Sociais e Humanas entre 1981 e 1986, cria o primeiro Mestrado de História Contemporânea das universidades portuguesas em 1983 e é o primeiro presidente do Instituto de História Contemporânea da Universidade Nova em 1990. Maçon na clandestinidade, desde antes do 25 de Abril, Oliveira Marques é eleito Grão-Mestre Adjunto do Grande Oriente Lusitano entre 1984 e 1986. Em 1998, recebe das mãos do Presidente da República o colar da Grã Cruz da Ordem da Liberdade.\nConsagrado há muito como eminente medievalista, após a implantação da democracia o Professor Oliveira Marques constrói uma obra de verdadeira referência em matéria de História Contemporânea, designadamente nos domínios da História da I República e da Maçonaria Portuguesa, mas também contribuindo para o arranque dos novos estudos académicos e da historiografia sobre o Estado Novo. Oliveira Marques é autor de uma obra pujante e em muitos aspectos incontornável, onde figuram mais de 60 trabalhos publicados e na qual continuava a labutar afincadamente quando a morte o surpreendeu.\nA Assembleia da República curva-se perante a memória do cidadão, do historiador de vulto e do homem de cultura, apresentando à sua família, à Universidade Nova de Lisboa e à comunidade científica em geral os seus pêsames."
+    },
+    {
+      "utterance_id": 236,
+      "order": 236,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos proceder à votação deste voto.\nSubmetido à votação, foi aprovado por unanimidade.\nSrs. Deputados, segue-se o voto n.º 85/X — De pesar pela morte da escritora Fiama Hasse Pais Brandão (PS, PSD, PCP, CDS-PP, BE e Os Verdes).\nTem a palavra o Sr. Secretário para proceder à respectiva leitura."
+    },
+    {
+      "utterance_id": 237,
+      "order": 237,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Fernando Santos Pereira)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, o voto é o seguinte:\nFiama Hasse Pais Brandão. Um nome de primeira linha na cena cultural nacional do nosso tempo: escri-"
+    },
+    {
+      "utterance_id": 238,
+      "order": 238,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos proceder à votação deste voto.\nSubmetido à votação, foi aprovado por unanimidade.\nSrs. Deputados, vamos guardar 1 minuto de silêncio em homenagem a estes nossos dois concidadãos.\nA Câmara guardou, de pé, 1 minuto de silêncio.\nSrs. Deputados, vamos proceder à votação, na generalidade, do projecto de lei n.º 337/X — Transmissão dos direitos de antena no serviço público de televisão (PSD).\nSubmetido à votação, foi aprovado, com votos a favor do PSD, do PCP, do CDS-PP, do BE e de Os Verdes e a abstenção do PS.\nVamos votar, de seguida, um requerimento, apresentado pelo PSD nos termos dos artigos 160.º e 165.º do Regimento, de avocação e realização, na presente sessão, das votações na especialidade e final global do projecto de lei n.º 337/X.\nSubmetido à votação, foi rejeitado, com votos contra do PS e votos a favor do PSD, do PCP, do CDSPP, do BE e de Os Verdes."
+    },
+    {
+      "utterance_id": 239,
+      "order": 239,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É uma vergonha!"
+    },
+    {
+      "utterance_id": 240,
+      "order": 240,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, consequentemente, o projecto de lei, votado favoravelmente na generalidade, baixa à 1.ª Comissão pelo período regimental.\nSrs. Deputados, a Sr.ª Secretária vai dar conta de vários relatórios e pareceres da Comissão de Ética."
+    },
+    {
+      "utterance_id": 241,
+      "order": 241,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, em primeiro lugar, há um relatório da Comissão de Ética, cuja primeira parte é a seguinte: «Em reunião da Comissão de Ética, realizada no dia 25 de Janeiro de 2007, pelas 12 horas e 30 minutos, foram observadas as seguintes renúncia e suspensão de mandato de Deputados: a) Substituição, nos termos do artigo 7.º do Estatuto dos Deputados, com efeitos desde 26 de Janeiro, inclusive:"
+    },
+    {
+      "utterance_id": 242,
+      "order": 242,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, não havendo pedidos de palavra, vamos votar o parecer relativo à renúncia de mandato que a Sr.ª Secretária referiu.\nSubmetido à votação, foi aprovado por unanimidade."
+    },
+    {
+      "utterance_id": 243,
+      "order": 243,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, a segunda parte do relatório é a seguinte: «b) Substituição, nos temos da alínea h) do n.º 1 do artigo 20.º do Estatuto dos Deputados, com efeitos desde 26 de Janeiro, inclusive: Paulo José Dias Morgado (Círculo Eleitoral de Faro) por Manuel José dos Mártires Rodrigues.»"
+    },
+    {
+      "utterance_id": 244,
+      "order": 244,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está em apreciação.\nNão havendo inscrições, vamos votar o parecer relativo à substituição que a Sr.ª Secretária acabou de referir.\nSubmetido à votação, foi aprovado por unanimidade."
+    },
+    {
+      "utterance_id": 245,
+      "order": 245,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, segue-se um parecer da Comissão de Ética no sentido de autorizar o Sr. Deputado Umberto Pacheco a prestar depoimento presencialmente, como testemunha, no âmbito dos autos que correm termos no Tribunal de Família e de Menores da Comarca de Cascais, 4.º Juízo Cível, Processo 331/1999."
+    },
+    {
+      "utterance_id": 246,
+      "order": 246,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, não havendo pedidos de palavra, vamos votar o parecer.\nSubmetido à votação, foi aprovado por unanimidade."
+    },
+    {
+      "utterance_id": 247,
+      "order": 247,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, um outro parecer da Comissão de Ética vai no sentido de autorizar o Sr. Deputado Agostinho Branquinho a prestar depoimento, por escrito, como testemunha, no âmbito dos autos que correm termos na 7.ª Vara Cível do Porto, 2.ª Secção, Processo 1352/05.1 – TVPRT."
+    },
+    {
+      "utterance_id": 248,
+      "order": 248,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, não havendo pedidos de palavra, vamos votar o parecer.\nSubmetido à votação, foi aprovado por unanimidade."
+    },
+    {
+      "utterance_id": 249,
+      "order": 249,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, o último parecer da Comissão de Ética vai no sentido de autorizar o Sr. Deputado Paulo Rangel a prestar depoimento presencialmente, como testemunha, no âmbito dos autos que correm termos na 7.ª Vara Cível do Porto, 2.ª Secção, Processo n.º 1352/05.1-TVPRT."
+    },
+    {
+      "utterance_id": 250,
+      "order": 250,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, não havendo pedidos de palavra, vamos votar o parecer.\nSubmetido à votação, foi aprovado por unanimidade.\nSrs. Deputados, chegou ao fim a nossa sessão.\nA próxima reunião plenária realiza-se amanhã, às 10 horas, tendo como ordem do dia a apreciação da proposta de lei n.º 88/X — Regulamenta os artigos 281.º a 312.º do Código do Trabalho, relativos aos acidentes de trabalho e doenças profissionais, e a apreciação conjunta da proposta de lei n.º 76/X — Altera a Lei n.º 1/99, de 13 de Janeiro, que aprovou o Estatuto do Jornalista, e dos projectos de lei n.os 333/X — Altera o Estatuto dos Jornalistas, reforçando a protecção legal dos direitos de autor e do sigilo das fontes de informação (PCP) e 342/X — Altera o Estatuto dos Jornalistas (BE).\nEstá encerrada a sessão."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "9",
+    "legislative_session": "2",
+    "number": "60",
+    "date": "2004-03-05"
+  },
+  "debate_id": "r3_9_2_60_2004-03-05",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 3341,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão."
+    }
+  ]
+}

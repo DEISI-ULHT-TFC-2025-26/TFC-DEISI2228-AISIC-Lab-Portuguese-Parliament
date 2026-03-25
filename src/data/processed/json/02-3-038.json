@@ -1,0 +1,2868 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "2",
+    "legislative_session": "3",
+    "number": "38",
+    "date": "1983-01-21"
+  },
+  "debate_id": "r3_2_3_38_1983-01-21",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 1299,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quorum, pelo que declaro aberta a sessão.\n\nEram 11 horas e 5 minutos.\n\nEstavam presentes os seguintes Srs. Deputados:\nPartido Social-Democrata (PSD):\nAdérito Manuel Soares Campos. \n\nÁlvaro Barros Marques Figueiredo. \n\nÁlvaro Roque Bissaia Barreto. \n\nAmândio Anes de Azevedo. \n\nAmadeu Afonso Rodrigues dos Santos.\n\nAmélia Cavaleiro M. Andrade Azevedo.\n\nAnacleto Silva Baptista.\n\nAntónio Augusto Lacerda de Queiroz.\n\nAntónio Duarte e Duarte Chagas.\n\nAntónio Manuel Lemos de Menezes.\n\nAntónio Roleira Marinho.\n\nArmando Correia Costa.\n\nBernardino da Costa Pereira.\n\nCarlos Dias Ribas.\n\nCecília Pita Catarino.\n\nCipriano Rodrigues Martins.\n\nCristóvão Guerreiro Norte.\n\nDaniel Abílio Ferreira Bastos.\n\nDaniel Cunha Dias.\n\nEleutério Manuel Alves.\n\nFernando Manuel Cardote B. Mesquita.\n\nFernando Manuel Cardoso Ferreira.\n\nFernando dos Reis Condesso.\n\nFrancisco Mendes da Costa.\n\nFrancisco de Sousa Tavares.\n\nHenrique F. Nascimento Rodrigues.\n\nJaime Adalberto Simões Ramos.\n\nJoão Afonso Gonçalves.\n\nJoão Bernardo Ferreira.\n\nJoão Evangelista Rocha Almeida.\n\nJoaquim Manuel Cabrita Neto.\n\nJoaquim Pinto.\n\nJosé Augusto Ferreira de Campos.\n\nJosé Augusto Santos Silva Marques.\n\nJosé Luís Figueiredo Lopes.\n\nJosé Manuel Pinheiro Barradas.\n\nJosé Mário de Lemos Damião.\n\nJúlio Lemos Castro Caldas."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 1301,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vai ser lido o expediente. Deu-se conta do seguinte\nExpediente\nCartas\nDo Comissário para os Direitos do Povo Maubere, com sede em Lisboa, focando 5 pontos que julgam ser fundamentais para a urgente resolução do problema de Timor Leste.\n\nDe António Leal Telo, residente em Lisboa, dirigida a todos os Srs. Deputados, capeando cópia de uma outra enviada ao Sr. Ministro das Finanças e do Plano, focando aspectos da formação, selecção e recrutamento de pessoal técnico superior da Administração Pública.\n\nDe Serafim Ramos Portinha, residente no Barreiro, expondo problemas surgidos na actividade profissional de seu pai, Cláudio Francisco Portinha, que foi despedido da Quimigal e condenado judicialmente, solicitando a revisão de todo o processo, com vista ao apuramento da verdade e que permitiria ilibar o pai de qualquer culpa.\n\nDe Rui Hélder Bernardo Nogueira, residente em São João do Estoril, actualmente em regime de prisão preventiva na Penitenciária de Lisboa, expondo a situação em que se encontra e solicitando a intervenção desta Assembleia, por forma a que urgentemente lhe venha a ser marcado o respectivo julgamento.\n\nOfícios\n\nDo Sindicato dos Transportes Rodoviários do Distrito de Braga, enviando cópia da moção aprovada no plenário de trabalhadores da Rodoviária Nacional, E.P., CEP 01, de Braga, realizado no passado dia 8 do corrente, exigindo absoluto respeito pelos seus direitos.\n\nDa Junta de Freguesia da Damaia, concelho da Amadora, remetendo em anexo um exemplar do comunicado distribuído à população, sobre a onda de criminalidade que aflige aquele freguesia, em que se exige a imediata instalação de forças policiais.\n«Telex»\nEm nome da Unidade Vimaranense, de Guimarães, tecendo várias considerações que levaram a não consentir na amputação daquele concelho, por força da criação do concelho de Vizela."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 1301,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Anacleto Baptista)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Foram apresentados na Mesa, na última reunião plenária, os seguintes requerimentos: ao Governo, formulados pelos Srs. Deputados Mário Tomé e Jorge Lemos, e à Administração-Geral do Porto de Lisboa, formulado pelo Sr. Deputado Vilhena de Carvalho."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 1301,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma declaração política, tem a palavra o Sr. Deputado Corregedor da Fonseca."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 1301,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Sr. João Corregedor da Fonseca (MDP/CDE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: O 1.º Congresso dos Jornalistas Portugueses está a decorrer em Lisboa, facto que muitos pensavam ser impossível de se verificar e que outros não desejavam ver concretizado.\n\nLargas centenas de profissionais da informação estão, finalmente, reunidos num debate aberto sobre as grandes questões relacionadas com o exercício e a dignificação da profissão em Portugal.\n\nDadas as características diversificadas da classe, durante muito tempo pairou nos espíritos de grande número de pessoas a dúvida de que os jornalistas portugueses alguma vez se sentariam à mesma mesa para um diálogo franco e leal que tardava. Ideia errada, como se vê. É evidente que aqueles que tentam servir-se da imprensa, que tentam manipular os jornalistas, dividindo-os, fomentando clivagens desnecessárias, foram derrotados por esta iniciativa, que colheu de surpresa exactamente esses manipuladores que, a partir de agora, terão a sua tarefa muito mais dificultada. Disso estamos certos.\n\nA realização do Congresso dos Jornalistas é uma vitória de uma classe que deve merecer o respeito desta Câmara.\n\nSabemos perfeitamente que o Congresso não agrada a certos sectores da área do Poder. Quem está habituado a usar a imprensa escrita, a rádio, a televisão, apenas como meros meios de propaganda sabe que um congresso desta natureza joga contra eles. Mas esqueceram-se de um aspecto fundamental: da unidade dos jornalistas, apesar da delicadeza de certas situações.\n\nAqueles que, principalmente nos últimos 3 anos, tudo fizeram para impor as suas regras mantiveram em conta que a tradição de luta dos jornalistas pela liberdade, pela liberdade de informação, pela democracia, tem muitas e muitas dezenas de anos.\n\nA unidade dos jornalistas, agora bem patente no Congresso, foi forjada, Srs. Deputados, na dureza de luta travada contra a censura ditatorial, contra as prepotências de governos que sempre viram no jornalista, na imprensa, em geral, um inimigo a afastar desde que não servisse os seus interesses.\n\nA unidade dos jornalistas foi gerada na resistência contra o fascismo.\n\nÉ essa unidade que gerou a resistência contra as prepotências do governo AD.\n\nA insensibilidade dos governos da AD perante a imprensa ajudou a que a unidade desta classe se revigorasse e ganhasse novas e mais profundas raízes.\n\nOs actos persecutórios, a utilização ilegal e desenfreada dos meios de comunicação social, os ataques à"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 1302,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do MDP/CDE e do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 1302,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os marginais da informação vão deparar com uma classe muito mais coesa e disposta a fazer cumprir os seus dignos direitos. Vão deparar com a mesma e bela unidade que tornou possível o alto papel desempenhado pela comunicação social para a implantação das liberdades públicas e que tanta compreensão e respeito despertaram junto do movimento dos capitães de Abril, que reconduziu o País para os caminhos da dignidade."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 1302,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 1302,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não farei agora o balanço da actuação dos governos da AD no sector da comunicação social. Aliás, todos são conhecedores dos ataques indignos à livre informação perpetrados pelo elenco governamental. Contudo, não posso deixar de referir algumas atitudes que, apesar de demitido, o governo ainda persiste em impor ao País.\n\nMuito rapidamente, apontarei como os mais sensíveis os últimos factos ocorridos, que demonstram como a AD, sem saber o que reserva o futuro, tenta garantir, em lugares-chave, a colocação de homens da sua confiança.\n\nAssim, afastado finalmente Proença de Carvalho da presidência da Televisão, cumprido que foi o seu nefasto papel ao serviço governamental e partidário, Pinto Balsemão, em obediência à sua coerência manipuladora, logo o substituiu por uma individualidade que tem graves responsabilidades na destruição da ANOP e no lançamento daquele aventureiro negócio relacionado com a criação da NP.\n\nPor seu turno, Proença de Carvalho, antes de sair da TV distribuiu os seus servidores mais próximos por cargos da mais alta responsabilidade, o que demonstra claramente a disposição de manter a televisão sob controle.\n\nEm relação à ANOP, o escândalo prossegue, já que o Governo não desiste da sua intenção de destruir a Agência Noticiosa Portuguesa. José Alfaia, apesar do Ministério do Trabalho ter recusado o despedimento colectivo, insiste nas suas intenções e vai canalizar para o servil conselho de gerência da ANOP 45000 contos para pagamento de indemnizações aos trabalhadores, já que teima, com revanchismo pessoal, em despedir, num acto de clara ilegalidade, 140 trabalhadores.\n\nAqui temos, Sr. Presidente e Srs. Deputados, como, no seu estertor, o governo da AD ainda se comporta como se fosse poder.\n\nAo citar estes dois breves exemplos é para dizer, Sr. Presidente e Srs. Deputados, que o panorama irá necessariamente ser diferente depois do Congresso dos Jornalistas. Ê que no Congresso, além destes e de outros aspectos relacionados com o exercício do jornalismo no nosso pais, também será debatido o papel da cultura na comunicação social, com a presença de representantes da UNESCO.\n\nE a existência de Alfaias e Balsemões repugna à cultura. Por isso, em defesa do papel cultural e educativo desempenhado pela informação, eles em breve serão colocados à margem do convívio com a classe.\n\n«Liberdade de expressão. Expressão da liberdade». É sob esta máxima que decorre o Congresso dos Jornalistas, que da Assembleia da República saúdo na pessoa dos jornalistas e meus colegas de profissão que, anonimamente, com alto sentido profissional eles que também gostariam de participar no Congresso-, acompanham os trabalhos parlamentares numa missão bem mais difícil do que à primeira vista parece.\n\nSão credores do respeito desta Assembleia da República."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 1302,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveram-se, para pedir esclarecimentos ao Sr. Deputado Corregedor da Fonseca, os Srs. Deputados Maria Adelaide Paiva, Jorge Lemos, Sousa Tavares, Carlos Lage, Silva Marques e Mário Tomé.\n\nTem a palavra a Sr.ª Deputada Maria Adelaide Paiva."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 1302,
+      "speaker": {
+        "id": 230,
+        "name": "Jorge Manuel Abreu De Lemos",
+        "party": "PCP",
+        "string": "O Sr. Jorge Lemos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dá-me licença, Sr. Presidente?"
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 1302,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faz favor."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 1302,
+      "speaker": {
+        "id": 230,
+        "name": "Jorge Manuel Abreu De Lemos",
+        "party": "PCP",
+        "string": "O Sr. Jorge Lemos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, não pondo em causa o critério da Mesa, creio que fui o primeiro a inscrever-me para pedir esclarecimentos."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 1302,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Devo dizer a V. Ex.ª que, como os pedidos de palavra são simultâneos..."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 1302,
+      "speaker": {
+        "id": 230,
+        "name": "Jorge Manuel Abreu De Lemos",
+        "party": "PCP",
+        "string": "O Sr. Jorge Lemos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas, Sr. Presidente, ao que sei, a Sr.ª Deputada Maria Adelaide Paiva ter-se-á inscrito no fim da intervenção do Sr. Deputado Corregedor da Fonseca..."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 1302,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Não, Sr. Deputado. Informa-me o Sr. Secretário que a primeira inscrição que surpreendeu - e viu também a de V. Ex.ª foi a da Sr.ª Deputada Maria Adelaide Paiva. Devo dizer a V. Ex.ª que eu só surpreendi as que foram feitas no final da intervenção, razão pela qual julguei que o primeiro orador inscrito fosse o Sr. Deputado Sousa Tavares. Todavia, com a segurança que o Sr. Secretário dá esta informação, vou dar a palavra à Sr.» Deputada Maria Adelaide Paiva, seguindo-se V. Ex.ª, Sr. Deputado Jorge Lemos.\n\nTem a palavra, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 1302,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Adelaide Paiva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Corregedor da Fonseca, é louvável, e estou consigo, no voto de"
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 1303,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Sr. Mário Tomé (UDP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Era o que faltava que não fosse!"
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 1303,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Portanto, espero sinceramente que, deste Congresso, as coisas saiam melhoradas no aspecto da comunicação social.\n\nO pedido de esclarecimento que queria fazer é o seguinte: o Sr. Deputado, que decerto tem acompanhado os trabalhos do Congresso, tem a ideia de que a comunicação social sairá deste Congresso mais afastada da, digamos, politiquice diária, da «fofoquice», para se debruçar mais sobre os problemas que interessam à população portuguesa, para se coordenar mais com a dinâmica cultural de que Portugal carece, particularmente as regiões mais afastadas dos grandes centros, as quais esperam que a comunicação social apoie esses seus anseios? Espera o Sr. Deputado que, finalmente, consigamos vir a ter em Portugal uma comunicação social que se debruce sobre os grandes problemas, olhados sob uma óptica nacional e construtiva, em vez de utilizar a política pequena (não queria utilizar o termo mesquinho) que se debruça preferencialmente sobre pequenos assuntos - os que podem determinar uma maior venda dos jornais, mas que não dizem respeito à população nacional, nem vão ao encontro dos seus maiores desejos? Espera o Sr. Deputado que saia deste Congresso uma comunicação social mais dignificada, aberta para um futuro onde se possa constituir, em Portugal, um verdadeiro quarto poder no sentido de uma de cada vez maior consolidação da democracia neste país?"
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 1303,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado Corregedor da Fonseca deseja responder já ao pedido de esclarecimento que lhe foi dirigido, ou reserva-se para o final de todas as interpelações à sua intervenção?"
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 1303,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Sr. João Corregedor da Fonseca (MDP/CDE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Prefiro responder já, Sr. Presidente."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 1303,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Então, tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 1303,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Sr. João Corregedor da Fonseca (MDP/CDE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Deputada Adelaide Paiva, ouvi atentamente as suas palavras e devo dizer-lhe que a perplexidade é minha."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 1303,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 1303,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Á Sr.ª Deputada disse que há «politiquice pequena» nos jornais para os vender; eu queria-lhe dizer que deste Congresso dos Jornalistas vão de certeza sair muito boas conclusões. Certamente que irão ser dadas directivas e informações muito claras para a dignificação da classe, pois os jornalistas há muito tempo que querem dignificá-la. Á Sr.ª Deputada diz que não há, por parte do Governo ingerência na comunicação social. Então como é que podemos classificar o comportamento do Governo ao longo destes 3 anos relativamente à televisão, à rádio ao Jornal de Notícias, ao Diário de Notícias e a todos os outros jornais estatizados? Na realidade, é tentar iludir os problemas, quando todos nós sabemos que o controle por parte do Governo dos órgãos estatizados é uma constante. Podemos citar, a título de exemplo, o que se passa com o Diário Popular, onde existe um director imposto por estes governos AD..."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 1303,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 1303,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "...e que foi imposto contra a opinião do conselho de redacção. Em relação a isso, Sr.ª Deputada, não poderemos falar muito mais. Agora há um assunto, em relação ao qual sou muito sensível. Trata-se do mau jornalismo que parece existir nesses jornais. Na realidade, vamos ver quem são as administrações dos jornais, quem são os seus directores, quem são as chefias?"
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 1303,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 1303,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Que directivas é que são indicadas aos chefes e aos directores de jornais? Na verdade, a Sr.ª Deputada deve verificar que os jornais já voltaram com as mulheres nuas para as primeiras páginas, com os grandes assaltos, com as notícias sensacionalistas, fugindo-se ao debate sério de ideias, às boas entrevistas e reportagens. \nA Sr.ª Deputada diga-me, por favor, onde estão as boas reportagens, as boas entrevistas, os assuntos devidamente tratados, na imprensa nacionalizada? Que tipo de programas é que temos na Radiotelevisão Portuguesa? Temos a violência, a degradação, programas anticulturais; contra isso os jornalistas estão sempre..., e, como me dizem aqui do lado, também contra a mentira, como é evidente!\n\nNa realidade, quando a Sr.ª Deputada diz que vamos acabar com a «fofoquice», respondo-lhe que essa é uma exigência de todos os jornalistas, contra o governo AD, contra as suas imposições. O que estamos a assistir hoje é a uma tendência de manter «jornalecos» à venda, para que as administrações, no final do ano, apresentem um saldo mais ou menos positivo - e a verdade, Sr.ª Deputada, é que isso nem sequer acontece. As administrações lançadas pela AD nos jornais estatizados estão a conduzi-los a gravíssimos resultados, e o que se fez com a ANOP estaria em vias de também acontecer com o Diário Popular se o governo da AD não cessasse as suas funções. Ó Diário Popular, que era um jornal de grandes resultados, tem hoje resultados extremamente penosos.\n\nMuito haveria a dizer, Sr.ª Deputada aliás, a Sr.ª Deputada melhor do que ninguém sabe perfeita-"
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 1304,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "A Sr.ª Deputada Adelaide Paiva pediu a palavra para protestar?"
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 1304,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Adelaide Paiva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exactamente, Sr. Presidente."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 1304,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Então e uma vez que o Sr. Deputado Corregedor da Fonseca decidiu responder imediatamente a V. Ex.ª, dou-lhe também, de seguida, a palavra para formular o seu protesto. Dispõe de 2 minutos, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 1304,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Adelaide Paiva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Corregedor da Fonseca, o meu protesto é feito, fundamentalmente, por entender que na sua intervenção há uma subestima de muitos jornalistas portugueses. \nO Sr. Deputado falou aqui numa segunda classe de jornalistas, os tais que trabalham nos jornalecos. Devo dizer-lhe que a formação dos jornalistas em Portugal é uma preocupação que, certamente, sairá nítida das conclusões deste Congresso, e essa dinâmica é algo que compete à classe. Agora quando o Sr. Deputado Corregedor da Fonseca fala na insuficiência e na carência de grandes reportagens ao nível dos órgãos de comunicação social estatizados e depois fala nos jornalecos, não sei se está a classificar os órgãos de comunicação social estatizados como jornalecos. Aí protesto veementemente, porque os órgãos de comunicação social estatizados têm dignidade, têm bons jornalistas, e não se podem comparar como jornalecos. Também não vejo quais são os jornalecos a que o Sr. Deputado faz alvo. Para mim, os jornalistas constituem em Portugal uma classe muito louvável, que tem tido um trabalho muito ingrato; é uma classe que veio de longas vicissitudes no passado e que se tem procurado alicerçar no presente. A minha intervenção foi, justamente, no sentido de entender que este Congresso é louvável, e tanto mais o será se das suas conclusões saírem, não apenas respostas a problemas pontuais, mas uma dinâmica para o futuro que dignifique, cada vez mais, a comunicação social, que, como tive ocasião de dizer na minha intervenção, entendo ser fundamental para a vida dos Portugueses e para a sua dinâmica cultural. Se essa dinâmica não for feita já, vamos efectivamente encontrar, não digo uma grande macrocefalia de Lisboa e das outras grandes cidades, mas um retardamento no interior e nos pontos mais longínquos, inclusive a nível cívico, que poderá ser combatido através de uma comunicação social correcta. Foi justamente nesse sentido o meu apoio a este Congresso."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 1304,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para contraprotestar, tem a palavra o Sr. Deputado Corregedor da Fonseca, para o que dispõe do mesmo tempo de 2 minutos."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 1304,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Sr. João Corregedor da Fonseca (MDP/CDE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Deputada Maria Adelaide Paiva, V. Ex.ª diz que estou a tentar subestimar os jornalistas portugueses ao\n\nfalar em jornalecos. Sr.» Deputada, eu falei na unidade existente nos jornalistas. Estão 800 jornalistas reunidos, neste momento, na Fundação Calouste Gulbenkian. Quando falo em jornalecos refiro-me aos jornalecos oficiosos, como o Governo pretendia que todos os jornais estatizados fossem. É evidente que não lhe vou citar aqui certos jornais que considero jornalecos, pois a lista é imensa. O que verifico, Sr.ª Deputada, è que as administrações fazem dos jornais uns jornalecos. Agora imagine como é que os jornalistas se sentem. Jornalistas que, trabalhando quer em jornais de direita, de esquerda ou de centro, sejam eles de que tendência forem, são jornalistas e não podem exercer a sua profissão com dignidade. No Congresso tudo isso vai ser escalpelizado e então terá oportunidade de, pela leitura das teses e das conclusões, verificar aquilo que acabo de dizer.\n\nE evidente que a dinâmica para o futuro que a Sr.» Deputada refere é exactamente aquilo que pretendemos. A dinâmica passa, desde logo, pelo afastamento da AD da área do poder, pelo respeito das leis por exemplo, os directores de jornais têm de ser nomeados com o apoio dos conselhos de redacção -, pelo respeito pelos conselhos de redacção, pelo estatuto editorial, pela nomeação dos administradores por parte dos trabalhadores das empresas públicas, e, a partir daí, começarmos a dignificar os jornais.\n\nPorque os jornalistas, Sr.ª Deputada, são dignos e sabem fazer jornalismo digno."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 1304,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Sousa Marques (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 1304,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Jorge Lemos."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 1304,
+      "speaker": {
+        "id": 230,
+        "name": "Jorge Manuel Abreu De Lemos",
+        "party": "PCP",
+        "string": "O Sr. Jorge Lemos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Corregedor da Fonseca, ouvi com atenção as suas palavras e posso dizer que, na sua globalidade, as subscrevo."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 1304,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Claro!"
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 1304,
+      "speaker": {
+        "id": 230,
+        "name": "Jorge Manuel Abreu De Lemos",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Queria também, em nome da minha bancada, saudar esta importante iniciativa dos jornalistas portugueses que é o Congresso que, neste momento, se está a realizar na Fundação Calouste Gulbenkian. Não irei referir os casos que aqui trouxe - o escândalo ANOP, o que se passou na Televisão -, mas queria fazer-lhe algumas perguntas sobre um caso muito recente, ocorrido ontem mesmo, e que se vem mantendo há cerca de 1 ano. Faria um pouco de história para situar o problema: há aproximadamente 8 meses o Governo tentou impor ao Jornal de Notícias o nome de Freitas Cruz para seu director. Freitas Cruz, homem conhecido pelo seu apego aos ideais antidemocráticos, responsável pela repressão no Primeiro de Janeiro, foi ontem mesmo nomeado para director do Jornal de Notícias.\n\nA primeira pergunta que lhe faço, Sr. Deputado Corregedor da Fonseca, é a de se saber se considera ou não que esta nomeação é uma provocação aos jornalistas e trabalhadores do Jornal de Notícias, já que ocorre no preciso momento em que eles tinham feito uma greve de solidariedade para com um seu colega que tinha sido despedido precisamente por usar a liberdade de expressão."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 1304,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "E o caso Júlio Pinto em o Diário?!..."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 1305,
+      "speaker": {
+        "id": 230,
+        "name": "Jorge Manuel Abreu De Lemos",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Á segunda pergunta é a de saber se é ou não uma provocação à classe dos jornalistas fazer esta nomeação no preciso momento em que está a decorrer, em Lisboa, o 1.º Congresso dos Jornalistas.\n\nA terceira pergunta é a de saber se considera ou não que esta atitude da administração ao Jornal de Notícias, da responsabilidade do governo AD, visa garantir - agora que a Aliança Democrática sabe que vai haver novas eleições- o controle e a manipulação do único órgão de informação escrita que ainda lhe escapava no Norte do país.\n\nFinalmente, perguntava-lhe se, uma vez que vamos ter eleições antecipadas, considera ou não um imperativo democrático para a legitimidade e genuinidade destas eleições que seja o governo de gestão que se formar a repor legalidade na comunicação social, para que se ponha fim, neste período eleitoral que vamos ter, à manipulação por parte da AD dos meios de comunicação social."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 1305,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado Corregedor da Fonseca deseja responder de imediato, não é verdade?"
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 1305,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Sr. João Corregedor da Fonseca (MDP/CDE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sim, Sr. Presidente."
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 1305,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 1305,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Sr. João Corregedor da Fonseca (MDP/CDE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Jorge Lemos, agradeço-lhe as suas palavras e devo dizer-lhe que ouvi atentamente as perguntas que me fez.\n\nEm relação ao Jornal de Notícias, o problema não é de agora. Ainda há dias o Sr. Deputado Carlos Lage, numa intervenção que subscrevo inteiramente, referia um belo trabalho profissional, publicado nesse mesmo jornal, em relação ao inquérito do 1.º de Maio. É evidente que o Jornal de Notícias é um jornal estatizado, é um jornal que foge, apesar de tudo, ao controle total e apertado dos governos da AD. O governo da AD tentou colocar o Sr. Freitas Cruz - homem que beneficia de todas as simpatias da Fundação Konrad Adenauer - e acabou por nomeá-lo director do jornal Primeiro de Janeiro de onde saiu para tentar controlar definitivamente o Jornal de Notícias. Essas tentativas saíram um tanto frustradas porque o conselho de redacção do Jornal de Notícias recusou, pura e simplesmente, o nome do Sr. Freitas Cruz.\n\nTentam impô-lo, em desrespeito ao conselho de redacção, mas a redacção, em peso, recusou o nome do Sr. Freitas Cruz para director, passando então a administrador. E é evidente, Sr. Deputado, que esta nomeação é uma verdadeira provocação quando se está a realizar o Congresso dos Jornalistas. É uma nomeação ilegal, para todos os efeitos, pois não foram consultados os órgãos representativos dos trabalhadores. É claro, Sr. Deputado, que isto vem também na sequência de um incidente criado pela administração deste jornal, do qual faz parte o Sr. Freitas Cruz. Esta administração, nos últimos meses, lançou 52 processos disciplinares naquele jornal e, no outro dia, despediu um jornalista, baseando-se num comentário que o mesmo teria feito a uma notícia. Esta semana houve já uma greve no Jornal de Notícias e aproveita-se a oportunidade para se atirar, uma vez mais, o nome de Freitas Cruz, não para director, porque se sabe que de momento não poderá ser, mas para director interino. Para todos os efeitos,\n\natingem os objectivos que pretendem. É claro, Sr. Deputado, que, entretanto, os jornalistas que exerciam funções importantes no Jornal de Notícias, na secção de política nacional, já foram afastados ou viram os seus poderes diminuídos há relativamente pouco tempo.\n\nSr. Deputado, em relação ao controle da manipulação que V. Ex.ª falou, temos um exemplo ao nomear-se Freitas Cruz. O Governo caiu, vai haver eleições e por isso eles querem o controle da comunicação social.\n\nVerifique o que se passa na TV, com a nomeação do novo presidente, e o facto de o próprio Proença de Carvalho, uns 2 ou 3 dias antes, ter nomeado uma série de directores disto e daquilo em todos os sectores da TV e não apenas na redacção.\n\nFinalmente, Sr. Deputado, devemos ter a garantia de que no próximo acto eleitoral vai haver uma cobertura digna e honesta e que a legalidade tem que ser cumprida. Terão de ser substituídas certas administrações e a legalidade democrática na comunicação social terá de ser imposta para que o próximo acto eleitoral não venha a constituir o mesmo espectáculo, na comunicação social, que resultou nos dois últimos actos eleitorais, de que todos nós infelizmente nos lembramos."
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 1305,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Silva Marques."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 1305,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Corregedor da Fonseca, os ataques que dirigiu ao Sr. Primeiro-Ministro, enquanto jornalista -sobretudo, porque é o tema de que se trata - são injustos.\n\nV. Ex.ª esquece-se que ele criou - decerto não só ele, mas ele foi o principal responsável - um grande jornal no tempo da ditadura. E nesse tempo só um outro grande jornal existia claramente contra a ditadura: a. República.\n\nDepois V. Ex.ª, que decerto não gosta destas particularizações, esqueceu que se houve jornalistas que se opuseram à ditadura, outros a apoiaram. Assim como, depois da ditadura, se uns se bateram pela liberdade, outros bateram-se contra ela, a tal ponto que tentaram destruir um dos baluartes que sempre fora da liberdade, ou seja, a República. Já vi que V. Ex.ª não gosta de analisar estas particularidades dos acontecimentos históricos, mas é bom lembrar-lhas.\n\nDepois, V. Ex.ª tenta demolir a política da actual coligação do Governo em termos de comunicação social. Já lhe foi chamada a atenção, por uma minha colega de bancada, que tudo o que é demais é moléstia, e a sua argumentação leva-o ao absurdo. Isto é, nós somos tão manipuladores, tão manipuladores, que se dá o fenómeno que V. Ex.ª aponta de que todos os jornalistas estão contra o Governo. Imagine lá o grau de manipulação do Governo!\n\nMas vamos a mais particularizações. V. Ex.ª apontou dois exemplos que se viram contra si: o do Diário de Notícias e o do Diário Popular. A directoria do Diário Popular não foi nomeada pela actual coligação governamental. Só queria dizer-lhe, Sr. Deputado, que também não tenho nenhuma relutância em dizer: viva o Congresso dos Jornalistas, vivam os jornalistas! Mas como me desagrada bastante este estilo, que me parece ser o seu de «vivo», quereria apenas lembrar-lhe que, se as conclusões do Congresso forem suas, desgraçado do Congresso e desgraçados dos jornalistas!"
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 1305,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD, do CDS e do PPM",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 1306,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não há palmas? Não batem palmas?"
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 1306,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não há televisão, não se batem palmas! Só batemos palmas, quando há televisão!..."
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 1306,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para responder, o Sr. Deputado Corregedor da Fonseca."
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 1306,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Sr. João Corregedor da Fonseca (MDP/CDE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Silva Marques, quando fala nos ataques injustos ao Sr. Dr. Pinto Balsemão, quero só dizer-lhe que - quando refere que, com certeza, todos os jornalistas não estão contra o Sr. Dr. Pinto Balsemão - era só o que havia de faltar! Nós somos democratas, Sr. Deputado! Sobre isto quero relembrar-lhe um pequeno episódio: o Sr. Dr. Pinto Balsemão tem actualmente em curso um processo, no Sindicato dos Jornalistas, para ser expulso da classe dos jornalistas. E isto por decisão tomada numa concorrida assembleia do Sindicato dos Jornalistas, onde todos votaram a favor, registando-se apenas uma abstenção. Por aí V. Ex.ª verifica o amor que a classe dos jornalistas tem ao Dr. Pinto Balsemão. Também tenho a certeza de que V. Ex.ª não viu anteontem, na cerimónia inaugural - onde tivemos o gosto, e digo tivemos porque também sou jornalista, de ver o Presidente desta Câmara na Mesa de honra-nem o Sr. Dr. Pinto Balsemão nem o Sr. Dr. José Alfaia entre os convidados da classe dos jornalistas. Os jornalistas não os querem...\n\nQuando o Sr. Deputado fala do grande jornal Expresso é evidente que está a referir-se ao seu conceito de grande jornal e eu não vou dizer que o jornal Expresso não é um jornal bem feito -, mas, Sr. Deputado, é feito por jornalistas! É feito por jornalistas e há lá muito bons jornalistas que respeito muitíssimo.\n\nQuando fala na República, quero dizer-lhe que foi exactamente aí que comecei a minha vida profissional. E não pode comparar o que era a censura na República antes do 25 de Abril com a censura exercida sobre o Expresso. Ê que não tem uma coisa a ver com a outra, Sr. Deputado!"
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 1306,
+      "speaker": {
+        "id": 446,
+        "name": "Helena Tâmega Cidade Moura",
+        "party": "MDP/CDE",
+        "string": "A Sr.ª Helena Cidade Moura (MDP/CDE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 1306,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não faz a mais pequena ideia - ou deve fazer, V. Ex.ª deve fazer- do que foi, na altura, a luta do República, a luta dos jornalistas, as prisões, os cortes de censura, as suspensões, etc.\n\nQuanto ao apoio à ditadura, Sr. Deputado, vou passar por alto! Parece que V. Ex.ª se vangloria pelo facto de uma triste minoria de pessoas ter apoiado a ditadura. O facto de eles terem sido ou não jornalistas não leva a que me congratule com isso. V. Ex.ª parece ter ficado muito feliz com esse assunto.\n\nQuanto ao «viva o Congresso» dito por V. Ex.ª, enquanto deputado, aceito-o, mas como jornalista, não preciso dele. V. Ex.ª, com certeza, e a área do poder não estão muito felizes com a existência deste Congresso. Amanhã veremos as conclusões, se elas os irão satisfazer."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 1306,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para protestar tem a palavra o Sr. Deputado Silva Marques."
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 1306,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Corregedor da Fonseca, protesto em relação às suas palavras porque V. Ex.ª elucidou-nos, ou voltou a elucidar-nos, com bastante interpidez, sobre a luta do República antes da ditadura. Quer V. Ex.ª informar-nos das lutas do República depois da ditadura, depois do 25 de Abril?\n\nPor outro lado, Sr. Deputado não fale sobre os meus sentimentos, se fiquei feliz ou infeliz, porque não é disso que se trata.\n\nFinalmente, fico sem saber se V. Ex.ª é um membro da comunicação social que entrou no Plenário, ou se é um deputado."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 1306,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 1306,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Oh! Oh!..."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 1306,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra para contraprotestar, Sr. Deputado Corregedor da Fonseca."
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 1306,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Sr. Joio Corregedor da Fonseca (MDP/CDE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Silva Marques, eu sei que sou jornalista, e há muitos anos. Já não sei é qual é a profissão de V. Ex.ª!\n\nQuando o Sr. Deputado tenta chamar à colação o problema do República, devo dizer-lhe que esse problema se insere num processo dinâmico de implantação e de defesa da democracia que estava em curso. Estávamos a entrar num processo democrático, através da revolução dos capitães de Abril.\n\nO problema actual do panorama da comunicação social nada tem a ver com a situação do República e com o que se passou naquele período. Senão, Sr. Deputado, teríamos que citar muitíssimos outros casos, e não sairíamos daqui tão cedo!"
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 1306,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quem atacou a República?"
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 1306,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, responda-nos, que eu não sei!"
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 1306,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Deve informar-se!"
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 1306,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É fazer-se um inquérito!..."
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 1306,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos tem a palavra o Sr. Deputado Sousa Tavares."
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 1306,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Sousa Tavares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Corregedor da Fonseca, ouvi com atenção as suas palavras, como não podia deixar de ser, pois interessa-me tudo o que diz respeito à comunicação social.\n\nTenho pena que um jornalista não seja capaz de ser totalmente objectivo. A objectividade e a imparcialidade são as regras de ouro de um jornalista que se quer apresentar como tal."
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 1306,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Uma voz do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É uma autocrítica?"
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 1306,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "E portanto, enquanto jornalista, não deve servir uma ideologia nem outra, mesmo que a tenha. Essa é a regra de ouro e isso é que deveria imperar nos órgãos de comunicação social.\n\nFez V. Ex.ª acusações de carácter genérico que não me"
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 1307,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 1307,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Partidarização que conduziu à destruição das bases tradicionais de recepção do jornal que, na província portuguesa, era o que tinha maior expansão. Ora, não foi possível jamais atalhar esse caminho e o jornal O Século soçobrou, com 3 suicídios e muitos casos de miséria, que teria sido possível evitar se não tivesse acontecido essa partidarização.\n\nIsso angustia-me muito. Angustia-me que muita gente tenha ficado sem trabalho, que muita gente tenha morrido e até se tenha suicidado. Refiro-me ao caso do velho das máquinas - e com certeza que o Sr. Deputado Corregedor da Fonseca se lembra dele, e eu também me lembro, pois passei a noite de fim de ano com ele -, que se enforcou no jornal por não ter trabalho nem salário.\n\nQuem levou este jornal à sua destruição? Foi o senhor..."
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 1307,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Foi o senhor?! Mas isto não se pode admitir!"
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 1307,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "... e foram outros como o senhor que partidarizaram o jornal e não tiveram carácter para o defender num momento...\nSrs. Deputados a objectividade é uma regra de oiro para os jornais!"
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 1307,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Qual objectividade?! Isso é objectividade? Isso é subjectividade!"
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 1307,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Carlos Brito,..."
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 1307,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, façam o favor de não interromper o orador que está no uso da palavra.\n\nSr. Deputado Sousa Tavares, tenha a bondade de concluir."
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 1307,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Carlos Brito, não tenho, infelizmente, capacidade de audição para perceber o que é que está a dizer, aliás, não percebo porque é que se encontra tão exaltado. Por acaso pensa que eu disse alguma coisa que o pudesse agravar a si pessoalmente?"
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 1307,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isto é uma indignidade!"
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 1307,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Eu disse-lhe alguma coisa a si que o pudesse agravar, ou o senhor sente também alguma responsabilidade na destruição do jornal O Século?"
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 1307,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Sousa Tavares, tenha a bondade de abreviar."
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 1307,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Sousa Tavares posso interrompê-lo?"
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 1307,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É o Sr. Presidente que poderá dar licença e não eu."
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 1307,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado pode dar licença para eu o interromper e o Sr. Presidente consentir."
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 1307,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Bom, autorizo a interrupção, não porque fiz sentir ao Sr. Deputado Sousa Tavares que já excedeu o tempo de que dispunha para pedir esclarecimentos, mas porque ainda não lhe retirei a palavra, e portanto, com a latitude que tenho mostrado para com todos os Srs. Deputados, autorizo essa interrupção se o Sr. Deputado Sousa Tavares também o consentir V. Ex.ª responderá, mas com a nota de que o seu tempo terminou e não poderá continuar a usar da palavra..."
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 1307,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Então peço licença para concluir, Sr. Presidente."
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 1307,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ah, não consente a interrupção?"
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 1307,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas se não posso fazê-lo, Sr. Deputado."
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 1307,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Ó Sr. Deputado Sousa Tavares, durante a interrupção, que será necessariamente breve, a Mesa não conta o tempo do Sr. Deputado interpelado. Tem sido sempre este o comportamento da Mesa, aliás, visível no funcionamento dos próprios semáforos luminosos."
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 1307,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Eu não compreendo então porque é que o Sr. Deputado Carlos Brito, a quem tenho o maior prazer em conceder a interrupção que normalmente autorizo sempre, não usa a figura regimental do protesto, em vez de me estar agora a tolher e a impedir que eu conclua o meu pedido de esclarecimento ao Sr. Deputado do MDP/CDE."
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 1307,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 1307,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas eu facilitava-lhe já o"
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 1308,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "V. Ex.ª poderá utilizar a figura regimental do protesto na altura própria."
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 1308,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem, Sr. Presidente. Não é muito líquido regimental me n te, mas poderei, pelo menos, usar do direito de defesa."
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 1308,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Já tem acontecido os Srs. Deputados, num pedido de esclarecimento, fazerem afirmações que suscitam protestos de outros senhores deputados, mas, em todo o caso, se lhe é permitida a interrupção, o Sr. Deputado fará o favor de intervir agora, uma vez que o Sr. Deputado Sousa Tavares não perde tempo por isso.\n\nPeco-lhe apenas que não vá além dos 2 minutos de que disporia para um protesto. Mas é claro que só poderá intervir agora se o Sr. Deputado Sousa Tavares o consentir."
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 1308,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Consinto, Sr. Presidente. Eu consinto sempre."
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 1308,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Sousa Tavares, nem sequer gastarei os 2 minutos.\n\nPedi a palavra apenas para dizer o seguinte: é o facto de o Sr. Deputado Sousa Tavares não me ter feito qualquer referência pessoal que dá mais razão moral ao meu protesto. É que entendo que estas não são formas de discutir no Parlamento e, por outro lado, a Assembleia já está bastante degradada para que a poupemos a maiores prejuízos, fazendo afirmações do tipo «o culpado é o senhor!». Não é assim que nos devemos comportar.\n\nE não é assim porque os senhores até não têm muita razão moral para poderem colocar as coisas nesses termos. Nós temos aqui em curso, na Assembleia da República, vários inquéritos parlamentares, foram formadas várias comissões de inquérito que não funcionam porque a AD, aquilo que foi até agora a maioria, não tem permitido que elas funcionem. Os senhores não têm, pois, o direito de acusar porque são os próprios a não permitirem que as coisas, quando estão em termos de apuramento parlamentar, sejam esclarecidas."
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 1308,
+      "speaker": {
+        "id": 230,
+        "name": "Jorge Manuel Abreu De Lemos",
+        "party": "PCP",
+        "string": "O Sr. Jorge Lemos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 1308,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vamos por isso ser mais moderados quando fazemos essas acusações. Porque senão eu digo: vamos então fazer uma comissão de inquérito aos jornais O Século e República, já que o Sr. Deputado Sousa Tavares suscitou o problema. Vamos então ver quem é que tem a culpa?\n\nMas eu já sei que se formarmos uma comissão de inquérito os senhores não a vão deixar funcionar, como não deixam funcionar as demais."
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 1308,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 1308,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Sousa Tavares, peco-lhe o favor de ser rápido na sua resposta."
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 1308,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estou inteiramente de acordo que se faça um inquérito à fornia como acabou O Século e República. Aliás, desejaria muito que a Assembleia da\n\nRepública realizasse esse inquérito às responsabilidades na destruição destes jornais. Refiro-me ao assalto ao jornal República, depois porque é que, mais tarde, esse jornal acabou não sei."
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 1308,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Certo!"
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 1308,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Repito que gostaria muito que esse inquérito fosse realizado.\n\nA única coisa que queria dizer ao Sr. Deputado Corregedor da Fonseca é que me parece errado generalizar ataques. É evidente que há sempre uma grande atracção do poder pela influência nos meios de comunicação social. Seja qual for o poder que exista, seja o poder da AD, o poder da não AD, o poder socialista ou qualquer outro. Existe sempre uma grande avidez do poder em face dos órgãos de comunicação social, mas não me parece justo nem objectivo, não me parece digno de um jornalista, que aqui se quer apresentar como tal, dizer que essa avidez ou essa tentativa de assalto só existe de um lado, ou dizer que só se manifestou agora. Isso parece-me perfeitamente errado, antiobjectivo e injusto."
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 1308,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Corregedor da Fonseca, para responder."
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 1308,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Sr. João Corregedor da Fonseca (MDP/CDE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Sousa Tavares, antes de mais, tenho de refutar as acusações que fez e que, aliás, não são de agora. Não há, pois, surpresa nenhuma naquilo que ouvi e as acusações são facilmente refutáveis.\n\nQuando V. Ex.ª tenta aqui caracterizar a minha personalidade perante deputados que não me conhecem posso ter de citar o meu exemplo pessoal. Quando diz que foi com o meu concurso que o jornal O Século acabou, devo dizer que ainda hoje tenho, e com muito orgulho, os papéis assinados por toda a redacção em que me aceitaram para subchefe de redacção de O Século; estava no estrangeiro em reportagem profissional quando fui eleito por 736 votos para a comissão de trabalhadores e eleito para o executivo da comissão de trabalhadores num momento em que não me encontrava em Portugal.\n\nComo vêem, o apoio que eu tinha em O Século era generalizado e não vou aqui tecer loas à minha personalidade, disse-o apenas para V. Ex.ª não tentar achincalhar a minha personalidade, que isso é algo que não lhe posso admitir.\nSr. Deputado, em relação à objectividade, devo dizer que esse é um conceito vago que ainda hoje mesmo se discute com certeza no Congresso dos Jornalistas.\n\nE antes de mais, convém recordar a toda a Câmara que não estou aqui em representação dos jornalistas, mas sim como deputado, e como tal me vou comportar. É preciso não facturar as coisas, se não se importa.\n\nVoltando à questão da objectividade, e muito rapidamente, poderia citar-lhe alguns dos seus editoriais quando V. Ex.ª, nas suas lutas partidárias, confusas e confusionistas nos diversos partidos por onde andou, utilizava as páginas do jornal de que V. Ex.ª é director para fazer a sua própria promoção política."
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 1308,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 1309,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Devo dizer que me congratulo pelo facto de V. Ex.ª defender os jornais estatizados. Quanto a esse aspecto, estamos no mesmo lado da fronteira, Sr. Deputado.\n\nE já agora, objectividade por objectividade, quero dizer-lhe que costumo ler diariamente o jornal de que V. Ex.» é director.\n\nQuanto ao acto de consciência, eu já disse, na minha intervenção, o que é que os jornalistas estão a fazer no Congresso.\n\nO Século é realmente um problema doloroso que V. Ex.ª aqui relembrou. É claro que quando se ataca um problema de carácter internacional - ou, como ontem, um problema que se discutiu aqui toda a tarde há deputados que falam no Afeganistão e na Polónia. E quando se fala na comunicação social e no escândalo deste governo AD, quando se fala no assalto e este é que é o verdadeiro assalto - aos órgãos de comunicação social estatizados, vêm igualmente os exemplos da República e de O Século, e isto vai ser assim in illo tempore.\n\nÉ evidente que terá todo o meu apoio se V. Ex.ª, como deputado e como pessoa interessada, até porque V. Ex.ª foi expulso de director de O Século, dinamizar um processo de inquérito a tudo o que se passou neste jornal. Penso que ficará, no entanto, surpreendido, e talvez fique mesmo muito surpreendido, por saber finalmente quem é que dinamizou o processo da sua expulsão, porque não foram de certeza aqueles que V. Ex.ª disse e saberá também que muito menos fui eu um dos autores dessa efeméride quando V. Ex.ª foi despedido.\n\nPois queira então fazer o favor de promover uma comissão de inquérito em vez de andar a badalar com o problema da República e de O Século. Desde já lhe digo que terei muito gosto em estar nessa comissão, mas apenas a assistir, porque, como era parte interessada, prefiro estar de fora.\n\nO Sr. Deputado tenta atacar o Congresso..."
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 1309,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, peço-lhe o favor de abreviar."
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 1309,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Com certeza, Sr. Presidente. Como dizia, o Sr. Deputado tenta atacar o Congresso. Ora, a verdade é que o Congresso está a fazer doer. E quando cita o nome de um camarada meu, jornalista, que teria sido não sei o quê ou não sei que mais, devo lembrar que esse jornalista foi há vários anos afastado de funções na Televisão pelo Sr. Proença de Carvalho e V. Ex.ª está também a não aceitar a evolução deste e de outros jornalistas. A comissão organizadora deste Congresso foi o mais ampla possível, há 800 jornalistas reunidos, de direita, de esquerda e de centro,..."
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 1309,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tenha a bondade de abreviar, Sr. Deputado."
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 1309,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "...e V. Ex.ª só vem dar razão àqueles que pensam que o Congresso dos Jornalistas está a fazer doer fortemente a área do poder."
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 1309,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Sr. Mário Tomé (UDP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 1309,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a Mesa tem estado a conceder um certo alargamento, para além do tempo que é rigorosamente contado pelos sinais luminosos. No entanto, pede a VV. Ex.ªs o favor de, embora seja razoável que possam acabar o vosso pensamento e que uma frase não fique em meio, não se alongarem por tempo que às vezes atinge outro tanto como aquele que regimentalmente lhes é inicialmente concedido."
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 1309,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Sousa Tavares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, peço a palavra para formular um protesto em relação às palavras do Sr. Deputado Corregedor da Fonseca."
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 1309,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 1309,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Sousa Tavares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: Em primeiro lugar, nunca fui director de O Século; em segundo lugar, fica de pé, está até demonstrado por aquilo que disse, que o senhor foi uma das pessoas que ajudou, pelas funções que lá desempenhava, ao descalabro de O Século, até à sua total extinção; em terceiro lugar, queria vincar que, no que diz respeito aos meus editoriais, eles são assinados, que são uma manifestação de opinião individual do jornal, que não comprometem o jornal, e suponho que, ao contrário daquilo que o senhor diz, se têm manifestado por uma permanente, ou quase permanente, oposição ao partido em que me situo ou à posição que politicamente deveria defender.\n\nEra isso que eu gostava de ver fazer aos jornalistas, era essa manifestaçãozinha de carácter e de coragem..."
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 1309,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 1309,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "...para utilizar os meios à sua disposição a fim de restabelecerem a verdade em todos os casos e não servirem «senhoras ideias» que é costume reverenciar e que fica muito bem reverenciar.\n\nLavro, portanto, o meu protesto contra a sua insinuação de carácter pessoal. Essa não pega e bastaria que o senhor lesse realmente, a A Capital, como diz que lê, para reparar que a minha actuação como jornalista nada tem que ver com a minha actuação política. Não há, Sr. Deputado, um único editorial do meu jornal que o comprometa, porque não há um único que não seja assinado."
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 1309,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Sr. João Corregedor da Fonseca (MDP/CDE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para contraprotestar."
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 1309,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado. Dispõe de 2 minutos."
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 1309,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Sr. João Corregedor da Fonseca (MDP/CDE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Sousa Tavares, o facto de V. Ex.ª me informar que não foi director de O Século é novidade."
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 1309,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Sousa Tavares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Eu não fui director de O Século."
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 1309,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "MDP/CDE",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Que eu saiba, só o Dr. Nandim de Carvalho, quando o tentaram impor, foi director de O Século por 1 dia.\n\nTenho que contraprotestar duramente as palavras do Sr. Deputado Sousa Tavares quando diz que eu fui o responsável pela extinção de O Século. É lamentável que V. Ex.ª o tenha afirmado porque sabe que isso não é verdade: a seguir aos acontecimentos de 25 de Novembro de 1975 fui, pura e simplesmente, afastado das minhas funções, fui colocado na «prateleira», como se costuma"
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 1310,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a Mesa, neste momento, vê-se confrontada com a situação de estarmos a 5 minutos do termo do período regimental de antes da ordem do dia e registar-se ainda a inscrição, para pedidos de esclarecimento, dos Srs. Deputados Carlos Lage e Mário Tomé e a inscrição, para intervenção, dos Srs. Deputados Raul Rego e Helena Cidade Moura.\n\nNeste momento a Mesa dará a palavra aos Srs. Deputados pela ordem da sua inscrição. Por isso, tem a palavra o Sr. Deputado Carlos Lage."
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 1310,
+      "speaker": {
+        "id": 446,
+        "name": "Helena Tâmega Cidade Moura",
+        "party": "MDP/CDE",
+        "string": "A Sr.ª Helena Cidade Moura (MDP/CDE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 1310,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 1310,
+      "speaker": {
+        "id": 446,
+        "name": "Helena Tâmega Cidade Moura",
+        "party": "MDP/CDE",
+        "string": "A Sr.ª Helena Cidade Moura (MDP/CDE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, queria intervir em defesa do meu partido por causa das palavras do Sr. Deputado Sousa Tavares."
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 1310,
+      "speaker": {
+        "id": 416,
+        "name": "António José Borges Gonçalves De Carvalho",
+        "party": "PPM",
+        "string": "O Sr. Borges de Carvalho (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não há essa figura regimental!"
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 1310,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada, em todo o caso..."
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 1310,
+      "speaker": {
+        "id": 446,
+        "name": "Helena Tâmega Cidade Moura",
+        "party": "MDP/CDE",
+        "string": "A Sr.ª Helena Cidade Moura (MDP/CDE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, não me importo de esperar."
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 1310,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Certo, Sr.ª Deputada, vamos seguir a ordem das inscrições. Neste momento, o orador, que tem o direito a usar da palavra pela ordem das inscrições é o Sr. Deputado Carlos Lage."
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 1310,
+      "speaker": {
+        "id": 107,
+        "name": "Carlos Cardoso Lage",
+        "party": "PS",
+        "string": "O Sr. Carlos Lage (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se o Sr. Presidente estiver de acordo, cedo a minha vez ao Sr. Deputado Raul Rego."
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 1310,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem então a palavra o Sr. Deputado Raul Rego durante 3 minutos, visto que a cedência que lhe faz o Sr. Deputado Carlos Lage é, nos precisos termos em que ele próprio delimitou o seu tempo."
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 1310,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Raul Rego (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: Queria começar por saudar o meu colega e amigo João Corregedor da Fonseca por ter trazido aqui o Congresso dos Jornalistas, o seu significado e a sua amplitude.\n\nPor outro lado, lamento e faço-o com mágoa - que, em vez de se ater naquilo que nos une, tenha vindo levantar problemas que profundamente nos dividem."
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 1310,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 1310,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Disse que o caso da República se insere no processo de dinamização democrática, mas isso é profundamente falso,..."
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 1310,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 1310,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "...porque se insere apenas na manipulação do jornalismo democrático.\n\nO processo da República insere-se na demissão, no Diário de Notícias, de um dos maiores jornalistas portugueses - que lamentavelmente não foi convidado para o Congresso -, o dr. José Ribeiro dos Santos.\nMeu caro amigo, parece-me que era tempo de esquecer muitos problemas, de esquecer muitos divisionismos e de nos atermos naquilo que interessa à classe jornalística, naquilo que mais nos une, e que é, pelo menos da minha parte, o interesse democrático."
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 1310,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para responder, se assim o entender, o Sr. Deputado Corregedor da Fonseca. Dispõe de 3 minutos, pelo que no fim encerraremos o período de antes da ordem do dia."
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 1310,
+      "speaker": {
+        "id": 446,
+        "name": "Helena Tâmega Cidade Moura",
+        "party": "MDP/CDE",
+        "string": "A Sr.ª Helena Cidade Moura (MDP/CDE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente..."
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 1310,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada, uma vez que o período de antes da ordem do dia não pode sequer ser prorrogado, visto já o ter sido esta semana, V. Ex.ª ficará com a palavra reservada para o próximo período de antes da ordem do dia.\n\nTem a palavra o Sr. Deputado Corregedor da Fonseca.\n\nO Sr. João Corregedor da Fonseca (MDP/CDE): Sr. Deputado Raul Rego, é com viva satisfação que verifico que V. Ex.ª faz parte da comissão organizadora do Congresso dos Jornalistas. A comissão organizadora foi unânime em apontar o nome responsável, digno e íntegro do Dr. Raul Rego para integrar a comissão de honra.\n\nEm relação ao problema de eu ter trazido algo que nos desune, Sr. Deputado, não estou de acordo. E evidente que talvez houvesse deslize de ambas as partes, mas quem realmente trouxe este problema não fui eu, mas o Sr. Deputado Silva Marques, que lançou «a casca de banana» em que V. Ex.ª agora parece ter escorregado.\n\nSr. Deputado, não ataquei o processo da República -, o que eu disse foi que o processo da República se inseriu numa dinâmica do processo democrático que se passava na Reforma Agrária, nas minas, nas pescas, nos serviços, nas cidades, nos campos, etc."
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 1310,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Sr. Mário Tomé (UDP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 1310,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não era apenas no jornal República. Eu não discuti se houve ou não erros, muito menos ataquei o Sr. Deputado Raul Rego enquanto membro da"
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 1311,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Sr. Mário Tomé (UDP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 1311,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Sousa Marques (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Quem o trouxe foi o Silva Marques e ele lá sabe porquê! É o papel do Silva Marques!\nORDEM DO DIA"
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 1311,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos entrar agora no período da ordem do dia. O primeiro ponto diz respeito à ratificação n.º 222/II, requerida pelo Partido Socialista, relativa ao Decreto-Lei n.º 435/82, de 30 de Outubro, que estabelece normas sobre a classificação dos aldeamentos turísticos."
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 1311,
+      "speaker": {
+        "id": 862,
+        "name": "António José Monteiro Vidigal Amaro",
+        "party": "PCP",
+        "string": "O Sr. Vidigal Amaro (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 1311,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 1311,
+      "speaker": {
+        "id": 862,
+        "name": "António José Monteiro Vidigal Amaro",
+        "party": "PCP",
+        "string": "O Sr. Vidigal Amaro (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, antes dessa consta da ordem do dia uma outra ratificação..."
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 1311,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Não consta na ordem do dia que foi distribuída. \nO Sr. Deputado Jorge Lemos já abordou o Sr. Secretário, Sr. Deputado Reinaldo Gomes, acerca desse problema e estamos a tentar esclarecer o assunto. Foi por isso que fui pondo a debate a ratificação n.º 222/II."
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 1311,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Isso não pode ser! \nPausa."
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 1311,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, a informação que me é prestada pelo Sr. Secretário da Mesa, Sr. Deputado Reinaldo Gomes, que normalmente recolhe os elementos nas reuniões dos grupos parlamentares, é a seguinte: a ratificação n.º 157/11, requerida pelo Partido Comunista Português, foi incluída em agenda na segunda parte do período da ordem do dia da reunião anterior à última que tivemos e só por lapso é que não se manteve e não foi referida na última sessão e na última conferência dos grupos parlamentares. Trata-se, portanto, da ratificação n.º 157/II, requerida pelo PCP, relativa ao Decreto-Lei n.º 204/82, de 22 de Maio, que dá nova redacção ao n.º 1 do artigo 3.º do Decreto-Lei n.º 43/82, de 8 de Fevereiro - Regulamento Geral das Edificações Urbanas.\n\nTrata-se, portanto, ao fim e ao cabo, da ratificação de uma alteração no Regulamento Geral das Edificações Urbanas.\n\nSe não houver objecção, está, pois, em discussão esta ratificação.\nPausa.\nPara uma intervenção, tem a palavra o Sr. Deputado Vidigal Amaro."
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 1311,
+      "speaker": {
+        "id": 862,
+        "name": "António José Monteiro Vidigal Amaro",
+        "party": "PCP",
+        "string": "O Sr. Vidigal Amaro (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Foram necessários 8 meses para se conseguir chegar a este debate. Foram 8 longos meses em que uma injustiça se manteve. Vamos hoje decidir se tal\n\ninjustiça acaba hoje mesmo ou se, pelo contrário, se manterá.\nAo discutir a ratificação n.º 157/II do Decreto-Lei n.º 204/82, vai o Plenário da Assembleia da República analisar, mais um caso, entre muitos outros, do mais flagrante despudor com que o demitido Governo tratou o problema da reabilitação e a sua atitude de desprezo para com os problemas dos deficientes portugueses.\n\nO Decreto-Lei n.º 204/82 é um diploma de suspensão. Suspensão de quê? Em Fevereiro de 1982 viram os deficientes portugueses consagrado em lei um diploma sobre a supressão de barreiras arquitectónicas. Diploma por que tanto se bateram e que foi, no final, a excepção à longa lista de promessas realizadas pela AD e seus governos durante o Ano Internacional do Deficiente.\n\nTal diploma saiu de um vasto trabalho realizado pelo Secretariado Nacional de Reabilitação, com o apoio directo das associações de deficientes, que nele trabalharam directamente e que lhes mereceu o maior crédito.\n\nTal diploma, o Decreto-Lei n.º 43/82, deveria ter entrado em vigor em Maio do ano passado. Mas é nessa data, perante o mais vivo repúdio e indignação dos deficientes portugueses e das suas associações representativas, que o Governo faz publicar o Decreto-Lei n.º 204/82, agora chamado à ratificação, que adia a entrada em vigor do diploma que aponta para a supressão das barreiras arquitectónicas.\n\nLogo nessa data, em intervenção produzida no período de antes da ordem do dia, perguntámos, em nome do Grupo Parlamentar do PCP, que «altos interesses» se levantaram, que pressões e donde vieram, que poderes económicos fizeram com que o Governo agora demitido desse o dito por não dito e adiasse a entrada em vigor do único diploma publicado nestes meses não lesivo dos interesses dos deficientes portugueses.\n\nNa altura ficámos sem resposta, o que é elucidativo.\n\nFoi por isso, com espanto, que ainda há poucos dias ouvimos o então ainda Ministro da Qualidade de Vida qualificar nesta Câmara a publicação do diploma que suprime as barreiras arquitectónicas como uma «grande obra» deste demitido Governo. Das duas uma. Ou o Sr. Ministro manifestava apenas ignorância, desconhecendo simplesmente que o diploma fora suspenso, ou veio aqui tentar enganar os deputados.\n\nFazedores de promessas, criadores de falsas ilusões e esperanças, eis o que para os deficientes portugueses foram esses governantes. Nisso foram campeões!\n\nPor mais de uma vez o denunciámos aqui e o continuaremos a fazer. Mais uma vez pomos a pergunta: qual foi a promessa feita durante o Ano Internacional do Deficiente aos deficientes e já realizada? Mais uma vez também damos a resposta: nenhuma.\n\nMas, Sr. Presidente, Srs. Deputados, pelo contrário, os deficientes portugueses viram a sua situação económica e social agravada. Como sector socialmente desfavorecido, viram os seus salários reais ou as suas pensões não acompanhar a inflação, do que resulta um ainda menor poder de compra.\n\nCom a política da habitação seguida pela AD e o Governo não viram resolvidos nenhum dos seus problemas, foram atingidos pelo corte de crédito para construção de habitação ou para compra de casa própria, não vislumbrando quando poderão ter uma habitação condigna.\n\nNo campo da saúde, a catástrofe. Com a descoberta do Ministro Barbosa, cada embalagem, uma receita, cada"
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 1312,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para uma intervenção, tem a palavra o Sr. Deputado Oliveira e Sousa."
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 1312,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Oliveira e Sousa (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: Neste processo de ratificação que, um pouco inopinadamente, veio agora à discussão cabe, antes de mais, desmistificar completamente o que é que se passa.\n\nOra o que aconteceu foi que e isto são apenas os factos, sem qualquer juízo de valor, como o Sr. Deputado Vidigal Amaro quis introduzir em todas as suas declarações pelo Decreto-Lei n.º 43/82, de 8 de Fevereiro, o Governo - não o Governo demitido, mas um governo no pleno exercício das suas funções - decidiu, e muito bem, integrado no Ano Internacional do Deficiente, tomar decisões sobre a eliminação de barreiras físicas, o que comportava a introdução de várias alterações no Regulamento Geral das Edificações Urbanas de forma a permitir as facilidades na vida e no deslocamento dos deficientes que, naturalmente, todos defendemos.\n\nSimplesmente, por uma falta de sentido sobre as repercussões que essas alterações iriam ter na indústria da construção, foi fixado, à partida, um prazo de 60 dias para a entrada em vigor dessas alterações sobre a data da publicação, o que, portanto, atiraria para fins de Abril.\n\nÉ evidente -e qualquer pessoa que esteja ligada à indústria da construção o sabe - que a acção de realizar projectos e estudos de construção não é um acto imediato, não é, como muitas vezes alguns leigos pensam, fazer uma planta, um rabisco em cima de um papel e depois apresentá-lo à Câmara para que seja licenciado e construído. Pelo contrário, representa toda uma série de estudos, quer de carácter técnico de construção, quer de carácter económico e financeiro de viabilização, quer de muitos outros tipos que, evidentemente, não podem ser alterados de ânimo leve e de um dia para o outro.\n\nBasta lembrar que um projecto de construção de certo"
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 1313,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Veiga de Oliveira, para pedir esclarecimentos. Dispõe de 3 minutos."
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 1313,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. Veiga de Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado ... Sr. Deputado Oliveira e Sousa - peço desculpa por não me lembrar do seu nome, mas não é nenhum vezo especial contra si o meu esquecimento dos nomes -, em primeiro lugar convém esclarecer que alguns dos aspectos das suas críticas, que parecem evidentes, mas que não o são, relevam um desconhecimento de todo o processo.\n\nO Sr. Deputado esquece-se que a ratificação foi pedida em 24 de Maio passado e que não é da nossa responsabilidade que só agora ela tenha subido a Plenário. Se a ratificação tivesse subido a Plenário num prazo razoável, a contar de 24 de Maio, nessa altura ela teria um significado muito diverso.\n\nEm segundo lugar, o Sr. Deputado anunciou vários erros cometidos pelo Governo, porque o Governo, segundo as suas palavras, e é verdade, não mediu as consequências do decreto, não mediu, sequer, as consequências em termos de entrada em vigor e, finalmente, quando o Governo descobriu tudo isso, cometeu novo erro, porque o que se impunha não era suspender a entrada em vigor do diploma, era, antes, determinar que não havia efeitos retroactivos para os projectos que estivessem em curso ou até para iniciativas ou intenções que estivessem em curso à data.\n\nIsto é, o Governo devia ter determinado, de maneira clara, que o diploma não ia ter efeitos negativos em intenções anunciadas, em projectos ou mesmo em obras que estivessem em curso, porque, naturalmente, esses efeitos eram indesejáveis e eram-no para todos, em geral, sobretudo do ponto de vista económico. É claro que eram!\n\nMas, em vez de fazer isso, o que é que o Governo fez? Cometeu novo erro: suspendeu a entrada em vigor do diploma, marcou-a para data posterior e manteve tudo na mesma.\n\nA verdade é que os serviços - e eu sei que é assim - não têm estado a anunciar às pessoas que lá se apresentam com intenção de fazer um projecto ou até com projectos que tenham em atenção, porque a partir do dia 31 de Março vai entrar em vigor um diploma com este teor. Os serviços não têm estado a anunciar isto, está simplesmente suspensa a entrada em vigor do diploma e, portanto, ele entrará em vigor em 31 de Março e todos os inconvenientes que o senhor referiu vão persistir, por erros do seu Governo."
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 1314,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "À menos que queiram adiar novamente!"
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 1314,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas mais, Sr. Deputado: \nO Sr. Deputado não sabe várias coisas, como, por exemplo, que uma resolução da Assembleia que terminasse com esta suspensão de entrada em vigor do decreto, entrava em vigor com a data de publicação, isto é, daqui por 2 ou 3 dias, no máximo."
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 1314,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Foram mais céleres a legislar! De imediato, quase!..."
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 1314,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, não seria daqui a 2 meses, como o Sr. Deputado tentou aqui inculcar, mas seria imediatamente.\n\nPor outro lado, o Sr. Deputado não esclareceu senão que todo o processo de elaboração, de promulgação e de suspensão do decreto é um erro do princípio ao fim.\n\nMas mais, Sr. Deputado: o facto de a Assembleia agora tomar posição sobre a entrada em vigor do decreto tem, pelo menos, um mérito, que o Sr. Deputado está a esquecer: é que iria limitar a acção de qualquer governo em nova suspensão, em novo protelamento, em nova actuação incorrecta.\n\nE desde já lhe digo que se bem que o Governo tenha nesta matéria competência concorrencial com a Assembleia, isto é, se bem que uma resolução da Assembleia terminando com a suspensão de entrada em vigor possa ser alterada no dia seguinte por um decreto-lei do Governo que suspenda novamente a entrada em vigor do diploma, se bem que isto possa acontecer, é óbvio que, no entendimento de boas relações entre os Órgãos de Soberania, tais factos não se devem passar.\n\nMas, Sr. Deputado, e para terminar, o que a sua intervenção demonstrou é que a actuação do Governo nesta matéria constitui um erro desde o início até ao fim e tudo aquilo que resta de bom são intenções de eliminar barreiras arquitectónicas, matéria que suponho que ninguém, mesmo aqueles que tenham interesses em opor-se, tem coragem para não aprovar."
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 1314,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!\nEntretanto, assumiu a presidência o Sr. Vice-Presidente Amândio de Azevedo."
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 1314,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Oliveira e Sousa, para responder, se assim o desejar."
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 1314,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Oliveira e Sousa (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Veiga de Oliveira, talvez porque o Sr. Deputado seja mais conhecido do que eu, procuro não me esquecer do seu nome, mas também não levo a mal que não me conheça.\n\nSr. Deputado, o que lhe posso dizer é que os seus argumentos - e reconhecendo que o senhor é, efectivamente, uma pessoa inteligente não convenceram a Câmara nem sequer o convenceram a si. Isto porque os senhores, tendo apresentado um pedido de ratificação em 24 de Maio, nunca usaram o vosso direito regimental de agendamento para que, em tempo, esse pedido fosse discutido. Deixaram que ele corresse os trâmites normais para ser debatido hoje, não tendo também pedido a sua retirada, pelo que, neste momento, ele já não ê oportuno\n\nOra, não sendo oportuno, pergunto-lhe: será que os senhores acham exequível, em termos de funcionamento da sociedade, que amanhã se diga que todos os projectos têm que obedecer a estes critérios, sem que ninguém os conheça?\n\nJulgo que é perfeitamente absurdo pensar isto. E o senhor, que é um homem com uma formação tecnológica, sabe, tão bem como eu, que é perfeitamente absurdo pensar-se dessa maneira.\n\nPor isso, se, efectivamente, esta vinda a plenário tem um mérito, eu digo que esse mérito será só para os senhores e consiste no aproveitamento demagógico de boas intenções que não são exclusivamente vossas, Sr. Deputado, mas do meu grupo parlamentar e também, julgo eu, de todos os grupos conscientes desta Câmara.\n\nV. Ex.ª pretendeu simplesmente contabilizar a vosso favor junto dos deficientes, que merecem tanto respeito e tanto a nossa atenção como a vossa.\n\nEra isso que eu lhe queria dizer Sr. Deputado."
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 1314,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Uma vos do CDS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 166,
+      "order": 166,
+      "page_start": 1314,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. Veiga de Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 167,
+      "order": 167,
+      "page_start": 1314,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 168,
+      "order": 168,
+      "page_start": 1314,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. Veiga de Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É para fazer um protesto, Sr. Presidente."
+    },
+    {
+      "utterance_id": 169,
+      "order": 169,
+      "page_start": 1314,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado."
+    },
+    {
+      "utterance_id": 170,
+      "order": 170,
+      "page_start": 1314,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. Veiga de Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado... Sr. Deputado Oliveira e Sousa -desculpe-me, Sr. Deputado, não me recordar de novo do seu nome, mas isto não é pessoalmente contra si -, procurou convencer-nos que o nosso pedido de ratificação não tem nenhum sentido e muito menos o tem agora.\n\nTem, o Sr. Deputado, insisto.\n\nTem mesmo muito sentido, admitindo que a maioria que ainda existe vote contra a ratificação e que conceda, portanto, que tudo fique na mesma. Pelo menos terá este mérito: alertar o Governo para que tudo está na mesma e que continua errado, porque o Sr. Deputado diz algumas coisas que são verdadeiras, mas não as diz até ao fim.\n\nE continua errado, Sr. Deputado.\n\nOs serviços públicos, as direcções-gerais, as câmaras municipais, não anunciam a ninguém que lá apareça com uma intenção, ou com um projecto, ou com um anteprojecto, que a partir do dia tal vai entrar em vigor uma nova lei. E tal como os senhores fizeram, o que vai suceder é que, seja no dia 31 de Março, seja em qualquer outra data, vai entrar de sopetão uma nova regulamentação que vai afectar interesses de muita gente.\n\nO Sr. Deputado tem que reconhecer que o Governo procedeu mal e que o facto de trazermos aqui à Assembleia este pedido de ratificação terá, pelo menos, o mérito de permitir ao Governo, se assim entender, corrigir o que está mal, porque ficando como está - entrando á lei em vigor depois de amanhã ou daqui a 2 meses -, continua tudo mal.\n\nEste mérito o Sr. Deputado terá que o reconhecer. Nesta matéria há muita gente que conhece o problema, certamente a nossa bancada também o conhece, e por isso não desistiu e fez com que a ratificação aqui viesse para, pelo menos, alertar para o problema que seria criado se tudo continuasse em silêncio e no dia 31 de Março, de repente, entrasse em vigor o decreto-lei."
+    },
+    {
+      "utterance_id": 171,
+      "order": 171,
+      "page_start": 1315,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado Oliveira e Sousa pretende responder a este protesto tão cordato do Sr. Deputado Veiga de Oliveira?"
+    },
+    {
+      "utterance_id": 172,
+      "order": 172,
+      "page_start": 1315,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Oliveira e Sousa (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Pretendo sim, Sr. Presidente."
+    },
+    {
+      "utterance_id": 173,
+      "order": 173,
+      "page_start": 1315,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem então a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 174,
+      "order": 174,
+      "page_start": 1315,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Oliveira e Sousa (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Queria dizer-lhe, também muito cordatamente e até para lhe recordar, Sr. Deputado, que eu tive a honestidade de, logo no início da minha intervenção, reconhecer que tinha havido um erro em termos de verificação, da extensão das consequências em relação aos prazos na formulação inicial que o Governo tinha dado ao decreto-lei.\n\nAliás, mérito que eu não costumo ver na vossa bancada, onde geralmente não costumam reconhecer os vossos erros ou o de forças que lhes estão associadas. Mas da mesma forma que reconheço os erros, também aceito as ideias que me parecem razoáveis, e alertar as populações, e nomeadamente os interessados, para a entrada em vigor do decreto-lei parece-me que é algo de útil, algo de necessário e algo que contará sempre também com o meio apoio."
+    },
+    {
+      "utterance_id": 175,
+      "order": 175,
+      "page_start": 1315,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. Veiga de Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 176,
+      "order": 176,
+      "page_start": 1315,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 177,
+      "order": 177,
+      "page_start": 1315,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. Veiga de Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, eu pedi a palavra porque me acho no direito de discordar que apelide o meu protesto de cordato por muito benévola que seja a sua classificação.\n\nPorque, Sr. Presidente, isso quer dizer uma de duas coisas: ou que o meu protesto é defensivo ou, então, que eu normalmente não sou cordato. Ora nenhuma das coisas é verdadeira.\n\nEu sou normalmente cordato nesta Assembleia e isso é do conhecimento dos Srs. Deputados. Em geral, sou ouvido mesmo quando digo coisas que não agradam a certos ouvidos e sou ouvido sem protestos. Isso é sinal de que o faço em termos.\n\nPor outro lado, o meu protesto não é defensivo, porque não me parece que quem acaba de demonstrar que tudo o que o Governo fez e que a maioria pretende defender está errado tenha uma posição defensiva."
+    },
+    {
+      "utterance_id": 178,
+      "order": 178,
+      "page_start": 1315,
+      "speaker": {
+        "id": 230,
+        "name": "Jorge Manuel Abreu De Lemos",
+        "party": "PCP",
+        "string": "O Sr. Jorge Lemos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 179,
+      "order": 179,
+      "page_start": 1315,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Veiga de Oliveira, compreenda que é extremamente difícil para quem dirige uma reunião verificar constantemente que figuras regimentais são invocadas e depois utilizadas para efeitos que não foram aqueles que constam do Regimento.\n\nTem que haver necessariamente uma diferença entre uma intervenção e um protesto.\n\nUm protesto faz-se quando um deputado disse coisas que não tinha o direito nem a legitimidade de dizer. Não se faz um protesto para rebater opiniões de um outro deputado.\n\nQuem está na Mesa não pode assistir à violação do Regimento sem fazer um comentário. No meu caso concreto foi um comentário relativamente jocoso e que teve a pretensão de manifestar um sentimento com algum espírito, isto é, no fundo, teve a intenção de fazer com que não se pensasse que quem está com a responsabilidade de dirigir esta reunião aceita passivamente que continue a instalar-se cada vez mais, como já aconteceu na reunião de ontem, o hábito de utilizar figuras regimentais por uma forma que é contrária ao Regimento.\n\nO Sr. Deputado Veiga de Oliveira não é, com certeza, especialmente responsável por esta situação. Todavia, eu creio que não assumiria a minha responsabilidade se, ao menos, não fizesse um comentário dessa natureza e se não tentasse remar um pouco contra a maré e fazer com que o protesto fosse uma figura regimental utilizada para os fins que, a meu ver, justificam a sua inserção no Regimento.\n\nQuero dizer-lhe, Sr. Deputado, que não há nem houve na minha observação alguma intenção de me referir especialmente a si. A sua intervenção foi uma ocasião apenas para eu manifestar, na plena assunção das minhas responsabilidades, um sentimento que creio que tinha o dever de manifestar."
+    },
+    {
+      "utterance_id": 180,
+      "order": 180,
+      "page_start": 1315,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. Veiga de Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para fazer uma interpelação à Mesa."
+    },
+    {
+      "utterance_id": 181,
+      "order": 181,
+      "page_start": 1315,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 182,
+      "order": 182,
+      "page_start": 1315,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. Veiga de Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, não quero de forma nenhuma abusar da sua paciência, nem da paciência da Câmara, nem do Regimento.\n\nMas tenho que dizer o seguinte: A Mesa tem, naturalmente, um entendimento do Regimento, que, aliás, varia com a sua composição, mas eu também tenho o meu entendimento sobre o Regimento e, especificamente, do significado técnico da palavra «protesto».\n\nDevo dizer-lhe, Sr. Presidente, que o meu entendimento do significado dessa palavra é completamente diverso do seu.\n\n«Protesto», para mim, é qualquer expressão ou afirmação que seja, por alguma maneira, contestadora daquilo que foi dito. O protesto não é uma revide contra nenhuma ofensa ou qualquer maneira menos agradável que tenha sido utilizada por um deputado. O protesto é, simplesmente, e, aliás, o Sr. Presidente, que é advogado, sabe isto, uma contestação daquilo que foi dito anteriormente.\n\nSó desta maneira se pode entender a figura do protesto, porque senão, nesta Assembleia, muito poucas"
+    },
+    {
+      "utterance_id": 183,
+      "order": 183,
+      "page_start": 1316,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Veiga de Oliveira, não é grave que haja uma divergência entre o critério de quem preside à reunião e o do Sr. Deputado. Cada um de nós assume as suas responsabilidades.\n\nPela minha parte o meu critério é este. Solicitarei à Mesa da Assembleia que possa fazer doutrina sobre isto, ouvindo, porventura, a Comissão de Regimento e Mandatos.\n\nTem a palavra, para uma intervenção, o Sr. Deputado Sousa Lara."
+    },
+    {
+      "utterance_id": 184,
+      "order": 184,
+      "page_start": 1316,
+      "speaker": {
+        "id": 888,
+        "name": "Antonio Costa De Albuquerque De Sousa Lara",
+        "party": "PPM",
+        "string": "O Sr. Sousa Lara (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Começarei pelo fim. Está fora de questão para o meu partido a suspensão da executoriedade do decreto-lei para o qual foi pedida a ratificação.\n\nTambém gostaria de acrescentar que está fora de causa, para nós, a prorrogação do prazo a que alguns senhores deputados fizeram menção.\n\nSe esta ratificação tivesse vindo a debate oportunamente e num prazo em que tivesse algum sentido, isto é, imediatamente a seguir à produção deste decreto-lei, naturalmente que o meu partido teria estado aberto para um encurtamento do prazo que está previsto.\n\nFaz algum sentido considerar este prazo bastante alargado, mas não faz sentido nenhum não atribuir um prazo, digamos, de vacatio, para adequar não só os empreendimentos em curso, os projectos e os anteprojectos em curso, como possibilitar, no fundo, a materialização e o bom termo dos processos que, digamos assim, se fizeram fora desta lógica.\n\nTodos os que foram autarcas, e aqui, nesta Câmara, há bastantes, sabem o complicado processo de tramitação que sofre um projecto e um anteprojecto de qualquer empreendimento deste tipo que se encontre abrangido por esta legislação e por esta alteração ao Regulamento Geral das Edificações Urbanas. Há interesses económicos em jogo que não podem ser descurados e muito menos por pessoas que acreditam e que defendem a iniciativa privada, como é o nosso caso.\n\nPortanto, essa posição obriga-nos a considerar esses interesses e, evidentemente, a dar-lhes cobertura e a dar-lhes uma certa cautela.\n\nTambém gostaria de referir que não cabe apenas ao Governo nem à Assembleia preocupar-se com o problema das barreiras arquitectónicas. As autarquias têm aqui um grande papel a desempenhar, não só fora do âmbito destas alterações ao regulamento geral, mas intervindo mesmo a nível dos processos que se apresentem já depois de produzida esta legislação. Há, pois, digamos, uma certa área de manobra da autarquia, mesmo após a produção desta legislação.\n\nConcluindo, não me parece pertinente, neste momento, suspender a suspensão (passe a duplicação) do decreto-lei pelo que vamos apoiá-lo, como nos cumpre."
+    },
+    {
+      "utterance_id": 185,
+      "order": 185,
+      "page_start": 1316,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, há ainda inscrições para intervenções dos Srs. Deputados Helena Cidade Moura e Aquilino Ribeiro Machado. E, neste momento, inscrições dos deputados Carlos Brito e Vidigal Amaro, para pedidos de esclarecimento.\n\nPonho à vossa consideração a estreiteza do tempo para terminarmos o debate nesta manhã. Entretanto, já pedi aos grupos parlamentares que troquem entre si impressões para a eventualidade de pretenderem um breve prolongamento da reunião, para que possamos proceder ainda hoje à votação.\nPausa.\nEstou a aperceber-me, pela expressão dos Srs. Deputados, de que não há consenso para o prolongamento da sessão, pelo que dou a palavra ao Sr. Deputado Carlos Brito."
+    },
+    {
+      "utterance_id": 186,
+      "order": 186,
+      "page_start": 1316,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Sousa Lara, ouvi com muita atenção a sua exposição que até me pareceu muito razoável.\n\nDa nossa parte, reconhecemos facilmente que o nosso pedido de ratificação tem, actualmente, muito menos sentido do que teria se tivesse sido discutido logo a seguir à sua apresentação na Assembleia da República, o que aconteceu no dia 24 de Maio. Em todo o caso, creio que o Sr. Deputado também é sensível ao perigo de, no dia 31 de Março, haver uma decisão para uma nova suspensão de entrada em vigor do decreto. Aliás, e tendo presentes as palavras do Sr. Deputado Oliveira e Sousa e as explicações aqui dadas por ele, esse espírito já está a germinar nalgumas cabeças.\n\nOra bem, o nosso pedido de ratificação tem, neste momento, esta eficácia: em primeiro lugar, e como dizia há pouco o meu camarada Veiga de Oliveira, alertar para esta questão, que está na ordem do dia, pois vai entrar em vigor dentro de muito pouco tempo; em segundo lugar, desencorajar qualquer tentativa de um novo adiamento da entrada em vigor destas disposições. \nO Sr. Deputado Oliveira e Sousa mostrou que não dominava muito bem o instituto da ratificação e, apesar de me parecer que neste momento já o domina melhor, creio que convirá considerar que este é, na verdade, o instrumento mais eficaz para desencorajar a tentativa ou tendência para um novo adiamento da entrada em vigor destas disposições.\n\nPermitia-me, a propósito, referir o que diz a Constituição sobre o instituto da ratificação, no n.º 3 do artigo 172.º:\n\nSe a ratificação for recusada, o decreto-lei deixará de vigorar desde o dia em que a resolução for publicada no Diário da República e não poderá voltar a ser publicado no decurso da mesma sessão legislativa.\n\nSe nós, nesta altura, queremos desencorajar um novo adiamento, então a melhor maneira e não prejudicamos muito porque são apenas 2 meses - é não darmos a ratificação. É que não dando a ratificação, não só antecipamos a entrada em vigor, como, além disso, conseguimos esta outra coisa: o Governo não poderá elaborar um decreto propondo um novo adiamento. Isto é assim ou não, Sr. Deputado Sousa Lara?"
+    },
+    {
+      "utterance_id": 187,
+      "order": 187,
+      "page_start": 1316,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Vidigal Amaro, tem a palavra para formular esclarecimentos ao Sr. Deputado Sousa Lara."
+    },
+    {
+      "utterance_id": 188,
+      "order": 188,
+      "page_start": 1317,
+      "speaker": {
+        "id": 862,
+        "name": "António José Monteiro Vidigal Amaro",
+        "party": "PCP",
+        "string": "O Sr. Vidigal Amaro (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, gostaria de lhe fazer algumas perguntas.\n\nÁ primeira decorre das suas próprias palavras, quando diz que estão de acordo com a ratificação, pois este decreto-lei não foi muito conveniente para os deficientes. Por que razão, então, se estavam de acordo com ela, não chamaram à ratificação tal diploma? Por que razão o PPM, alertado nessa altura por uma intervenção feita no período de antes da ordem do dia, e se estava contra este decreto-lei, não o chamou à ratificação?\n\nUma segunda questão que se levanta é o problema das autarquias. Evidentemente que há muitas autarquias que, porque têm o sentido da responsabilidade, estão já a eliminar barreiras arquitectónicas nas obras que efectuam e estão, inclusivamente, a eliminar barreiras arquitectónicas em edifícios já existentes, apesar de não serem obrigadas por lei a proceder dessa maneira. E este é o problema que esta lei levanta. É que se muitas câmaras estão a fazer isso, muitos empreiteiros não o fazem nem querem fazê-lo. Esta lei obriga a que essas barreiras sejam suprimidas. Este é, de facto, o grande problema, porque esta lei vai constituir uma obrigação também para os empreiteiros. Além disso não vai entrar já em vigor, mas apenas após decorridos 60 dias.\n\nAgora, Sr. Deputado, a posição do seu grupo parlamentar ficou bem descrita nas suas últimas palavras. Disse o Sr. Deputado - e isso tem de assumir - que a posição do Grupo Parlamentar do PPM é apoiar o decreto-lei do Governo, «como nos cumpre»."
+    },
+    {
+      "utterance_id": 189,
+      "order": 189,
+      "page_start": 1317,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, é possível que a resposta do Sr. Deputado Sousa Lara ultrapasse ligeiramente a hora regimental, sobretudo se nos guiarmos pelo relógio da Assembleia, que continua um pouco adiantado. Presumo que ninguém se oporá a que ultrapassemos nalguns minutos a hora regimental.\n\nTem a palavra o Sr. Deputado Sousa Lara."
+    },
+    {
+      "utterance_id": 190,
+      "order": 190,
+      "page_start": 1317,
+      "speaker": {
+        "id": 888,
+        "name": "Antonio Costa De Albuquerque De Sousa Lara",
+        "party": "PPM",
+        "string": "O Sr. Sousa Lara (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Carlos Brito, queria agradecer as questões que me pôs e dizer-lhe que a nova prorrogação, a ser feita, terá de ser efectuada através de um novo diploma e nesse caso pôr-se-á a questão de uma nova posição da nossa parte. Todavia, posso desde já adiantar-lhe que, pelo menos da minha parte - o meu partido não terá ainda deliberado sobre o assunto-, não há qualquer abertura para uma nova prorrogação, até porque o prazo concedido foi, a meu ver - e aqui faço apelo à minha antiga condição de autarca e, consequentemente, de pessoa minimamente inteirada destes assuntos -, um prazo bastante razoável e que não merece prorrogação.\n\nÉ claro que V. Ex.ª provavelmente terá outros parâmetros, até de carácter político, que levem, eventualmente, a uma necessidade de apressar esta lógica. Esses serão parâmetros em que eu não pretendo meter-me. Simplesmente, parece-me que não podemos entrar com essas variáveis como dados certos e, portanto, na devida altura, e caso exista Assembleia da República, ela poderá - por vossa iniciativa - voltar a recorrer a esta figura regimental.\n\nEm segundo lugar, e quanto às perguntas formuladas pelo Sr. Deputado Vidigal Amaro, devo dizer-lhe que, de facto, se podia ter posto o problema do prazo. Uma vez que havia uma iniciativa da vossa parte, esperámos que ela fosse continuada por vós, pois há uma certa-\n\npraxe, digamos, regimental de não duplicar esse tipo de iniciativas.\n\nIsso não veio a acontecer e consideramos, hoje, que perdeu oportunidade.\n\nQuanto às autarquias, penso que nem todas elas estarão a assumir o papel que V. Ex.ª referiu. Infelizmente, tal não acontece. Há até um grande número de obras que nem sequer são de edificações -têm a ver com passeios, acessos a vias públicas e uma série de pequenas obras - e que não carecem de projecto e cuja responsabilidade é, fundamental e essencialmente, da competência autárquica. Creio que podemos aproveitar esta altura para fazermos um apelo a todas as autarquias no sentido de tomarem a peito estas obrigações que lhes cumprem.\n\nQuanto à defesa do Governo, devo dizer que não sei se é suposto essa última pergunta ser um ataque. Eu não faço esforço nenhum em apoiar o Governo nesta medida, sobretudo no momento presente, porque estou inteiramente de acordo com ela. Portanto, se foi pergunta, não tem resposta, e se não foi pergunta, aqui fica o esclarecimento."
+    },
+    {
+      "utterance_id": 191,
+      "order": 191,
+      "page_start": 1317,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Oliveira e Sousa, para que efeito está a pedir a palavra?"
+    },
+    {
+      "utterance_id": 192,
+      "order": 192,
+      "page_start": 1317,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Oliveira e Sousa (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Para um protesto relativamente à intervenção do Sr. Deputado Carlos Brito."
+    },
+    {
+      "utterance_id": 193,
+      "order": 193,
+      "page_start": 1317,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, como estamos sobre a hora regimental para encerrarmos a sessão, o seu protesto ficará para outra reunião.\n\nSrs. Deputados, está na Mesa um parecer da Comissão de Regimento e Mandatos no sentido de o Sr. Deputado Carlos Macedo ser autorizado a prestar declarações no processo em curso sobre o acidente de Camarate.\n\nSe não houver oposição, podemos votar este parecer.\nPausa.\nNão havendo oposição, vamos passar à votação deste parecer."
+    },
+    {
+      "utterance_id": 194,
+      "order": 194,
+      "page_start": 1317,
+      "speaker": {
+        "id": 416,
+        "name": "António José Borges Gonçalves De Carvalho",
+        "party": "PPM",
+        "string": "O Sr. Borges de Carvalho (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dá-me licença, Sr. Presidente?"
+    },
+    {
+      "utterance_id": 195,
+      "order": 195,
+      "page_start": 1317,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor."
+    },
+    {
+      "utterance_id": 196,
+      "order": 196,
+      "page_start": 1317,
+      "speaker": {
+        "id": 416,
+        "name": "António José Borges Gonçalves De Carvalho",
+        "party": "PPM",
+        "string": "O Sr. Borges de Carvalho (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, V. Ex.ª não referiu o teor do parecer."
+    },
+    {
+      "utterance_id": 197,
+      "order": 197,
+      "page_start": 1317,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Disse sim, Sr. Deputado. Em termos formais, o parecer é o seguinte:\nDe acordo com o solicitado no ofício n.º 50185, processo n.º 998/80, de 25 de Novembro de 1982, da Polícia Judiciária, de que junto fotocópia, comunico a V. Ex.ª que esta Comissão Parlamentar deliberou emitir parecer no sentido de autorizar o Sr. Deputado Carlos Macedo a prestar declarações no processo em referência.\n\nNão se percebendo o que é o processo em referência, tenho que ler o ofício da Polícia Judiciária."
+    },
+    {
+      "utterance_id": 198,
+      "order": 198,
+      "page_start": 1317,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não é necessário, Sr. Presidente."
+    },
+    {
+      "utterance_id": 199,
+      "order": 199,
+      "page_start": 1318,
+      "speaker": {
+        "id": 416,
+        "name": "António José Borges Gonçalves De Carvalho",
+        "party": "PPM",
+        "string": "O Sr. Borges de Carvalho (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, acontece que V. Ex.ª tinha posto à votação um parecer cujo sentido nós desconhecíamos. Agora já sabemos que vamos votar um parecer favorável a que o Sr. Deputado Carlos Macedo seja ouvido. Há pouco não sabíamos se o parecer era positivo ou negativo, e essa foi a razão da minha interpelação. Está agora perfeitamente preenchido o meu pedido, o que agradeço a V. Ex.ª"
+    },
+    {
+      "utterance_id": 200,
+      "order": 200,
+      "page_start": 1318,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "É possível é que eu me tenha exprimido mal ou que o Sr. Deputado não tenha ouvido bem. Todavia, eu disse qual era o sentido do parecer. Mas, uma vez que já não há dúvidas..."
+    },
+    {
+      "utterance_id": 201,
+      "order": 201,
+      "page_start": 1318,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. Veiga de Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dá-me licença, Sr. Presidente."
+    },
+    {
+      "utterance_id": 202,
+      "order": 202,
+      "page_start": 1318,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 203,
+      "order": 203,
+      "page_start": 1318,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. Veiga de Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, que eu me recorde, não estive presente nessa reunião da Comissão de Regimento e Mandatos - não é obrigatório que eu esteja presente, embora eu me encontre sempre no Parlamento quando há reuniões- e acho muito estranho que se tenha feito a reunião sem mim.\n\nEm todo o caso, queria apenas que V. Ex.ª me informasse da data da reunião e de qual o representante do PCP nela presente. Por outro lado, gostaria de saber se foi ouvido, como é de norma, o Sr. Deputado Carlos Macedo e se ele próprio está de acordo em ser ouvido. Como é sabido, nós só estaremos de acordo em concordar com o parecer se o Sr. Deputado Carlos Macedo também estiver de acordo."
+    },
+    {
+      "utterance_id": 204,
+      "order": 204,
+      "page_start": 1318,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Apenas poderei esclarecer que o parecer que chegou à Mesa, e que referi, tem a data de 21 de Janeiro de 1983, não constando a data da reunião em que foi aprovado nem se o Sr. Deputado Carlos Macedo foi ou não ouvido.\n\nSendo assim, o mais prudente é não se proceder à votação, que ficará adiada para a próxima reunião.\n\nSrs. Deputados, resta-me anunciar que entrou na Mesa um projecto de lei com o n.º 396/II, apresentado por deputados do Partido Comunista Português e pelo Sr. Deputado Lino de Carvalho de Lima e outros, sobre a criação da Faculdade de Direito na Universidade do Porto.\n\nSrs. Deputados, a nossa próxima reunião plenária terá lugar na terça-feira, dia 25. A ordem de trabalhos será a discussão do projecto de lei n.º 390/II, do PCP, sobre a actualização do salário mínimo nacional, e corresponde a uma marcação deste partido.\n\nDe acordo com o que foi deliberado na conferência dos líderes dos grupos parlamentares, haverá nessa sessão período de antes da ordem do dia.\n\nEstá encerrada a sessão."
+    }
+  ]
+}

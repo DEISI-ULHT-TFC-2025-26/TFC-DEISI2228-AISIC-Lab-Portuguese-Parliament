@@ -1,0 +1,3876 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "11",
+    "legislative_session": "2",
+    "number": "26",
+    "date": "2010-12-02"
+  },
+  "debate_id": "r3_11_2_26_2010-12-02",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que está aberta a sessão. \nEram 15 horas e 14 minutos. \nDeputados presentes à sessão: \nPartido Socialista (PS) \nAcácio Santos da Fonseca Pinto \nAlberto Bernardes Costa \nAna Catarina Veiga Santos Mendonça Mendes \nAna Paula Mendes Vitorino \nAnabela Gaspar de Freitas \nAntónio Alves Marques Júnior \nAntónio José Martins Seguro \nAntónio Ramos Preto \nAntónio Ribeiro Gameiro \nArtur Miguel Claro da Fonseca Mora Coelho \nAurélio Paulo da Costa Henriques Barradas \nCarlos Filipe de Andrade Neto Brandão \nCatarina Marcelino Rosa da Silva \nDefensor Oliveira Moura \nDeolinda Isabel da Costa Coutinho \nEduardo Arménio do Nascimento Cabrita \nEurídice Maria de Sousa Pereira \nFernando Manuel de Jesus \nFrancisco José Pereira de Assis Miranda \nFrederico de Oliveira Castro \nGlória Maria da Silva Araújo \nHorácio André Antunes \nInês de Saint-Maurice de Esteves de Medeiros Vitorino de Almeida \nJaime José Matos da Gama \nJamila Bárbara Madeira e Madeira \nJorge Filipe Teixeira Seguro Sanches \nJorge Manuel Capela Gonçalves Fão \nJorge Manuel Gouveia Strecht Ribeiro \nJorge Manuel Rosendo Gonçalves \nJosé Carlos Bravo Nico \nJosé Carlos Correia Mota de Andrade \nJosé Duarte Piteira Rica Silvestre Cordeiro \nJosé João Pinhanços de Bianchi \nJosé Manuel Lello Ribeiro de Almeida \nJosé Manuel Pereira Ribeiro \nJosé Miguel Abreu de Figueiredo Medeiros \nJosé Rui Alves Duarte Cruz \nJoão Miguel de Melo Santos Taborda Serrano \nJoão Paulo Feteira Pedrosa \nJoão Paulo Moreira Correia \nJoão Pedro de Aleluia Gomes Sequeira \nJoão Raul Henriques Sousa Moura Portugal \nJoão Saldanha de Azevedo Galamba \nJúlio Francisco Miranda Calha"
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a Sr.ª Secretária vai proceder à leitura do expediente."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, deu entrada na Mesa um relatório e parecer da Comissão de Ética, Sociedade e Cultura, do seguinte teor:\n1 — Em reunião da Comissão de Ética, Sociedade e Cultura, realizada no dia 2 de Dezembro de 2010, pelas 14 horas e 30 minutos, foi observada a seguinte: Renúncia ao mandato de Deputado, nos termos do artigo 7.º do Estatuto dos Deputados, com efeitos desde 1 de Dezembro de 2010, inclusive: Grupo Parlamentar do Partido Socialista (PS): Luís Afonso Cerqueira Natividade Candal (círculo eleitoral de Aveiro) por Marisa da Conceição Correia Macedo.\n2 — Analisados os documentos pertinentes de que a Comissão dispunha, verificou-se que a Deputada indicada é realmente a candidata que deve assumir o mandato, conforme lista apresentada a sufrágio pelo aludido partido, no concernente círculo eleitoral.\n3 — Foram observados os preceitos regimentais e legais aplicáveis.\n4 — Nestes termos, a Comissão entende proferir o seguinte parecer: A renúncia ao mandato do Deputado em causa é de admitir, uma vez que se encontram verificados os requisitos legais."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está em apreciação o parecer.\nPausa.\nNão havendo pedidos de palavra, vamos votá-lo.\nSubmetido à votação, foi aprovado por unanimidade."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, deram ainda entrada na Mesa e foram admitidas, as seguintes iniciativas legislativas: proposta de lei n.º 44/XI (2.ª) — Criminaliza o incitamento público à prática de infracções terroristas, o recrutamento para o terrorismo e o treino para o terrorismo, dando cumprimento à Decisão-Quadro n.º 2008/919/JAI do Conselho, de 28 de Novembro de 2008, que altera a Decisão-Quadro n.º 2002/475/JAI, relativa à luta contra o terrorismo, e procede à terceira alteração da Lei n.º 52/2003, de 22 de Agosto; projectos de lei n.os 454/XI (2.ª) — Regime do fornecimento, pelos agentes económicos, de sacos de plástico destinados a serem utilizados para carregar e transportar as mercadorias adquiridas pelos consumidores finais no comércio a retalho, com vista a reduzir a utilização maciça daquele tipo de sacos e a encorajar a sua reutilização (PS), que baixou à 12.ª Comissão, 455/XI (2.ª) — Tributa as mais-valias mobiliárias realizadas por sociedades gestores de participações sociais (SGPS), sociedades de capital de risco (SCR), fundos de investimento, fundos de capital de risco, fundos de investimento imobiliário em recursos florestais, entidades não-residentes e investidores de capital de risco (ICR) e fixa em 21,5% a taxa aplicável a todas as mais-valias mobiliárias tributadas em sede de IRS e em sede de IRC (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro, e o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho), que baixou à 5.ª Comissão, 456/XI (2.ª) — Estabelece as bases da política de ambiente (PCP), que baixou à 12.ª Comissão, 457/XI (2.ª) — Lei de bases do ambiente (Os Verdes), que baixou à 12.ª Comissão, 458/XI (2.ª) — Define o regime jurídico das condições de instalação, funcionamento e licenciamento dos estabelecimentos das instituições particulares de solidariedade social e de outras instituições sem fins lucrativos (PSD), que baixou à 11.ª Comissão, e 459/XI (2.ª) — Dispensa da prestação de caução pelas instituições particulares de solidariedade social no âmbito da prestação de cuidados de saúde ou de apoio social (PSD), que baixou à 11.ª Comissão; e projectos de resolução n.os 313/XI (2.ª) — Recomenda ao Governo a preservação da autonomia dos teatros nacionais e a sua não fusão (BE), que baixou à 13.ª Comissão, 314/XI (2.ª) — Recomenda ao Governo a criação de um grupo de trabalho para estudar a possibilidade de determinar o impedimento à menção 100% biodegradável nos sacos de plástico oxibiodegradáveis e, ainda, a sua distribuição pelos agentes económicos, com base em fundamentos técnicos e científicos (PS), que baixou à 12.ª Comissão, 315/XI (2.ª) — Recomenda ao Governo a extinção da concessão à Companhia de Banhos de Vizela da exploração das Termas de Vizela e adopte os procedimentos necessários à reabertura da actividade (BE), que baixou à 6.ª Comissão, e 316/XI (2.ª) — Recomenda a suspensão do actual processo de avaliação de desempenho docente (PCP), que baixou à 8.ª Comissão.\nE de expediente, é tudo, Sr. Presidente."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as e Srs. Deputados, vamos cumprir o agendamento potestativo do PCP sobre o projecto de lei n.º 449/XI (2.ª) — Tributa os dividendos distribuídos por sociedades gestoras de participações sociais (Altera o artigo 51.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro, e o artigo 32.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho).\nPara introduzir o diploma, tem a palavra o Sr. Deputado Honório Novo."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 7,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Haja ou não haja crise em Portugal, viva ou não o País com a ameaça dos chamados «mercados» que os poderosos, os grandes grupos económicos e o sistema financeiro continuam sempre a invocar o interesse nacional para continuar a pagar muito pouco ou quase nada dos impostos que poderiam e deveriam pagar.\nVamos hoje demonstrá-lo de novo com este agendamento potestativo."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 8,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Um escândalo!"
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 8,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como é possível toda esta facilidade? Tudo bem simples e na maior das «legalidades»: a participação da PT na Vivo era detida por uma empresa com domicílio fiscal na Holanda, a Brasilcel BV, empresa que pertence à PT, SGPS. Esta rede de relações entre entidades aparentemente diversas, mas que na verdade são uma só unidade empresarial, fez com que a empresa com sede na Holanda tenha sido aí isenta de pagar imposto sobre as mais-valias realizadas com a venda da Vivo e, numa fase posterior, que estes lucros pudessem ter sido integralmente transferidos da sucursal holandesa para a empresa-mãe, isto é, para a PT, sempre sem pagar um cêntimo de imposto sobre lucros."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 8,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É um regabofe!"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 8,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas a história, Sr.as e Srs. Deputados, a história deste tipo de total isenção de impostos com a cobertura «legal» de uma legislação fiscal preparada intencionalmente para beneficiar os grandes grupos económicos e, simultaneamente, penalizar quem trabalha ou quem vive das pensões e reformas bem abaixo do salário mínimo não começou com o caso mais recente da venda da Vivo à Telefónica."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 8,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 8,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "As mesmas ou semelhantes técnicas de planeamento fiscal, usando os «buracos», as omissões e as disposições permissivas existentes no sistema fiscal em Portugal, permitindo a não tributação de milhares de milhões de euros de rendimentos que deveriam ser tributados, não começou, porém, com este caso mais recente e mediatizado da Vivo. O mesmo sucedera antes em inúmeros casos, seja com a mesma PT, quando há algum tempo vendeu interesses em Marrocos, em que cerca de 200 milhões de euros de lucros obtidos ficaram limpos de impostos, seja quando o Grupo Amorim entrou na Galp ou quando a Sonae lançou a OPA sobre a PT, sempre a partir de holdings sedeadas fora do País, para não pagarem impostos sobre os lucros vindouros."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 8,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Uma vergonha!"
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 8,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Quem, contudo, que nos esteja a ouvir possa pensar que a rede montada para isentar de tributação este tipo de rendimentos acabou com as transferências do produto das vendas das sucursais fora do País para as empresas-mãe desengane-se! A rede prossegue até à distribuição efectiva dos lucros, isto é, dos dividendos das empresas-mãe pelos seus accionistas.\nMais uma vez serve de exemplo — evidentemente não único nem isolado — o caso da PT na venda da Vivo.\nDos 6000 milhões de euros de lucros realizados em Junho deste ano, a PT vai distribuir cerca de 1500 milhões de euros pelos accionistas, designadamente o BES, a Caixa Geral de Depósitos, a Ongoing, o Grupo Visabeira ou a Controlinveste. A legislação fiscal continua, porém, a permitir que estes lucros continuem livres de impostos quando os accionistas que recebem os dividendos sejam sociedades gestoras de participações sociais (SGPS), caso de todos aqueles «accionistas de referência» e da maioria esmagadora dos accionistas da PT."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 8,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Uma vergonha!"
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 9,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estão as SGPS «legal e automaticamente» (e digo isto ironicamente, claro!) isentas de impostos sobre dividendos para — pasme-se! — evitar a dupla tributação económica!» Isto é o cúmulo da hipocrisia fiscal!!"
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 9,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Uma vergonha!"
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 9,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Maior hipocrisia é, de facto, impossível para designar um verdadeiro esquema legal de ausência de tributação e de pagamento de impostos da parte de grandes grupos económicos e financeiros organizados em torno das chamadas SGPS, que o Governo, aliás, insiste em continuar a recusa de tributar.\nFoi este objectivo — o da obtenção de enormes mais-valias e de vultosos dividendos — que levou os «accionistas de referência» da PT a pressionarem para a venda da Vivo em Junho.\nDesde esse momento, desde Junho, que se sabia o que pretendia fazer a PT: distribuir dividendos pelos seus accionistas. Isso mesmo foi, aliás, recentemente confirmado pelo próprio Presidente não executivo da PT, Henrique Granadeiro, que recordou que, desde a venda da Vivo, em Junho, a PT anunciara logo que iria distribuir dividendos extraordinários e, igualmente, confirmou há pouco tempo, dizendo que a «política de remuneração dos accionistas tinha sido conversada com a golden share», isto é, com o próprio Estado."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 9,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente! Essa é que é a verdade!"
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 9,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ou seja, o Governo, o Primeiro-Ministro e o Ministro das Finanças sabiam muito bem, pelo menos desde o início do Verão passado, que a PT iria distribuir dividendos extraordinários aos respectivos accionistas. E sabiam também muito bem — porque sempre se recusaram aceitar alterações à legislação fiscal que inúmeras vezes lhe foram sendo feitas pelo PCP e por outros partidos nesta Casa para tributar as mais-valias de SGPS em sede de IRS, mas também em sede de IRC, mormente as realizadas por SGPS e por outras entidades.\nSr. Presidente, Srs. Deputados: O Governo anunciou no final do Verão ter intenções de alterar algumas normas na tributação das SGPS. Esta intenção foi anunciada, nesta Casa, pelo Secretário de Estado dos Assuntos Fiscais em Setembro, bem antes ainda da entrada aqui da proposta de lei do Orçamento do Estado, o que faria prever naturalmente que o Governo iria avançar de imediato, ainda em 2010, com propostas de alteração do actual quadro fiscal privilegiado para as SGPS.\nSó que, apesar das intenções anunciadas, o Governo não tomou qualquer iniciativa legislativa passível de produzir efeitos ainda em 2010."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 9,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 9,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Só apresentou alterações na proposta de Orçamento do Estado, permitindo ainda, uma vez mais, a manutenção do estatuto privilegiado das SGPS no ano em curso.\nEste «esquecimento» do Governo permite que os accionistas dos grandes grupos económicos e financeiros organizados em SGPS continuem a beneficiar, por mais um ano, da isenção plena de tributação dos dividendos que lhes são distribuídos."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 9,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 9,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pior: perante o anúncio feito com dois meses e meio de antecedência, isto é, em 15 de Outubro, com a entrada na Assembleia da República da proposta de lei do Orçamento do Estado, de que a intenção do Governo passava afinal por tributar os dividendos recebidos por SGPS só a partir de 1 de Janeiro de 2011, os grandes grupos económicos e financeiros «desataram» a anunciar a antecipação da distribuição de dividendos, incluindo ordinários e extraordinários, para o ano corrente, ainda que, não fosse este conveniente «esquecimento» do Governo e este amigo pré-aviso de alteração da legislação fiscal, tais dividendos só fossem, normalmente, distribuídos em Abril ou Maio do próximo ano."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 10,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 10,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E vou continuar a citar outras personalidades do nosso país.\nPor exemplo: «A PT certamente fará a distribuição de dividendos de forma a pagar impostos, contribuindo para o esforço colectivo que estamos a fazer», disse José Sócrates, Primeiro-Ministro, numa entrevista à TVI.\nE continuo a citar: «Em matéria tributária, a Assembleia da República é soberana», disse, ainda, Teixeira dos Santos no recente debate orçamental a propósito desta iniciativa legislativa do PCP, que pretende alterar a legislação fiscal no mesmo exacto sentido que o Governo propõe que seja feito em 2011, e que foi, aliás, já aprovado no debate orçamental concluído na passada semana."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 10,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 10,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se os grupos económicos e financeiros querem, ao contrário do que, aparentemente, desejava o Primeiro-Ministro na entrevista da TVI e contrariando os apelos à ética e à moral feitos pelo Ministro das Finanças, antecipar a distribuição de dividendos para fugir legalmente ao pagamento de impostos, que teriam de pagar em 2011, é o momento de o poder político não pactuar com manobras dilatórias desta natureza e dizer se está ou não a mando do poder económico ou se, pelo contrário, e como manda a Constituição da República, é o poder económico que se deve submeter à vontade do poder político."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 10,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 10,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É, em síntese, isto que está em jogo com a tributação ou não dos dividendos recebidos pelas SGPS e com a antecipação da respectiva distribuição para 2010.\nSr. Presidente e Srs. Deputados: Estaremos abertos a todas as soluções técnicas para tributar de forma segura estes dividendos já em 2010, por isso apresentámos e divulgámos, mesmo antes deste debate, algumas soluções que podem ser ainda alteradas e/ou até melhoradas."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 11,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esperamos também, e ansiosamente, Srs. Deputados, as propostas alternativas, que foram sendo anunciadas por Deputados do PS, para permitir uma tributação segura e eficiente, já em 2010, dos dividendos distribuídos antecipadamente.\nDe facto, não conhecemos, ainda, essas propostas, não obstante ter sido dito que seriam incluídas no Orçamento do Estado para 2011 ou, até, fora dele. Aliás, infelizmente, não sei se alguma vez veremos essas soluções à luz do dia, não obstante o Deputado Francisco de Assis, líder parlamentar do PS, ter também, há alguns dias, assumido publicamente que se iria bater pela criação de soluções para o problema."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 11,
+      "speaker": {
+        "id": 1235,
+        "name": "Francisco José Pereira De Assis Miranda",
+        "party": "PS",
+        "string": "O Sr. Francisco de Assis (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é verdade!"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 11,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O importante é ver até que ponto a Assembleia da República é, de facto, «soberana em matéria fiscal» (para voltar a parafrasear o que Teixeira dos Santos disse da bancada do Governo) ou se, pelo contrário, se limita a replicar as indicações expressas ou implícitas do Governo num outro sentido.\nO importante é ver até que ponto as declarações de indignação do Governo, do Ministro das Finanças e do Primeiro-Ministro sobre a antecipação na distribuição de dividendos são, de facto, genuínas.\nO importante, da nossa parte, é verificar se é possível dar um passo, mais um passo no sentido da equidade fiscal, ou se, pelo contrário, se dará mais um passo para confirmar que, em Portugal, os poderosos continuarão a ser ferreamente protegidos por um poder político submisso e obediente."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, inscreveram-se três Srs. Deputados.\nTem a palavra o Sr. Deputado Manuel Seabra."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 11,
+      "speaker": {
+        "id": 2237,
+        "name": "Manuel José De Faria Seabra Monteiro",
+        "party": "PS",
+        "string": "O Sr. Manuel Seabra (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Sr. Deputado Honório Novo, esta sua intervenção, tal qual a proposta que a sustenta, vinda do PCP é mais um tributo à iniquidade, mais uma homenagem à iniquidade e mais uma homenagem à demagogia,»"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 11,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É preciso descaramento!"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 11,
+      "speaker": {
+        "id": 2237,
+        "name": "Manuel José De Faria Seabra Monteiro",
+        "party": "PS",
+        "string": "O Sr. Manuel Seabra (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» mas nós estamos habituados a esse comportamento por parte do PCP.\nE ç mais uma homenagem á iniquidade, ç mais uma homenagem á demagogia»"
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 11,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tenha vergonha!"
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 11,
+      "speaker": {
+        "id": 2237,
+        "name": "Manuel José De Faria Seabra Monteiro",
+        "party": "PS",
+        "string": "O Sr. Manuel Seabra (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» tanto quanto ç certo que o PCP não desconhece que este Governo tem feito, nos últimos anos, um notável esforço de taxação, de tributação do capital, que não pode ser voluntária nem ostensivamente negligenciado, que não pode ser esquecido, nem pode dele pode ser feita tábua rasa."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 11,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ohhh»!"
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 11,
+      "speaker": {
+        "id": 2237,
+        "name": "Manuel José De Faria Seabra Monteiro",
+        "party": "PS",
+        "string": "O Sr. Manuel Seabra (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, permita-me que lhe diga que este esforço que o Governo tem feito de tributação do capital, este esforço que o Governo tem vindo a fazer, também em sede IRS, de"
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Tenha vergonha!"
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 12,
+      "speaker": {
+        "id": 2237,
+        "name": "Manuel José De Faria Seabra Monteiro",
+        "party": "PS",
+        "string": "O Sr. Manuel Seabra (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nunca nada é suficiente para o PCP! Nunca nada é bastante para o PCP!\nDecisivo para o PCP é pôr em causa a segurança e a estabilidade do comércio jurídico! Decisivo para o PCP é pôr em causa a solidez do comércio jurídico, é pôr em causa a confiança dos investidores e é pôr em causa a confiança dos mercados!"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 12,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Sr. Jerónimo de Sousa (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pois claro»! Pois claro»!"
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 12,
+      "speaker": {
+        "id": 2237,
+        "name": "Manuel José De Faria Seabra Monteiro",
+        "party": "PS",
+        "string": "O Sr. Manuel Seabra (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O PCP tem uma estratégia: a de fazer tábua rasa de tudo quanto são os princípios elementares do comércio jurídico, da segurança jurídica, da confiança dos investidores, da confiança das empresas e da confiança dos mercados."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Lá vêm os mercados»!"
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 12,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Sr. Jerónimo de Sousa (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Então, vai buscar a confiança ao salário mínimo, não é?!»"
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 12,
+      "speaker": {
+        "id": 2237,
+        "name": "Manuel José De Faria Seabra Monteiro",
+        "party": "PS",
+        "string": "O Sr. Manuel Seabra (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Permita-me ainda que lhe diga, Sr. Deputado Honório Novo, que esta é tambçm uma lei «com fotografia«»"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 12,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pois», os salários dos trabalhadores ç que não «têm fotografia«»! É uma pouca-vergonha!"
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 12,
+      "speaker": {
+        "id": 2237,
+        "name": "Manuel José De Faria Seabra Monteiro",
+        "party": "PS",
+        "string": "O Sr. Manuel Seabra (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» e V. Ex.ª não desconhece que a lei tem, por definição, de ser geral e abstracta. Ora, V. Ex.ª fez e defendeu enfaticamente uma proposta «com fotografia».\nLamento, mas V. Ex.ª acabou de fazer uma homenagem — e lamentável! — à iniquidade, mais uma lamentável homenagem à demagogia!"
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 12,
+      "speaker": {
+        "id": 1187,
+        "name": "Bruno Ramos Dias",
+        "party": "PCP",
+        "string": "O Sr. Bruno Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Põem a mão por baixo ao poder económico e baixam o salário a quem trabalha!"
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Duarte Pacheco."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 12,
+      "speaker": {
+        "id": 1210,
+        "name": "Duarte Rogério Matos Ventura Pacheco",
+        "party": "PSD",
+        "string": "O Sr. Duarte Pacheco (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Honório Novo, todos sabemos que o PCP gostaria de reinstaurar em Portugal o PREC."
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 12,
+      "speaker": {
+        "id": 1187,
+        "name": "Bruno Ramos Dias",
+        "party": "PCP",
+        "string": "O Sr. Bruno Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Lá vem disparate!"
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 13,
+      "speaker": {
+        "id": 1210,
+        "name": "Duarte Rogério Matos Ventura Pacheco",
+        "party": "PSD",
+        "string": "O Sr. Duarte Pacheco (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Gostava que voltássemos a viver um novo PREC, Sr. Deputado Honório Novo, uma economia sem lei, sem ordem, sem regras, perseguindo empresas, identificando casos concretos e perseguindo-os, pontualmente, um a um.\nFelizmente esse tempo já lá vai!"
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 13,
+      "speaker": {
+        "id": 1210,
+        "name": "Duarte Rogério Matos Ventura Pacheco",
+        "party": "PSD",
+        "string": "O Sr. Duarte Pacheco (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vivemos, Srs. Deputados, num Estado de direito: há leis, há regras e essas regras têm de ser respeitadas!"
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 13,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Sr. Jerónimo de Sousa (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É a ordem dos mercados que prevalece!"
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 13,
+      "speaker": {
+        "id": 1210,
+        "name": "Duarte Rogério Matos Ventura Pacheco",
+        "party": "PSD",
+        "string": "O Sr. Duarte Pacheco (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O sistema fiscal português contém algumas normas; muitas dessas normas têm de ser mudadas, muito bem!, algumas serão já mudadas a partir de 1 de Janeiro, muito bem! — aliás, algumas foram aprovadas há pouco mais de uma semana, o que prova que a melhoria do sistema fiscal complexo, que nós tínhamos, pode e deve ser feita.\nMas, Srs. Deputados, nós não podemos legislar pontualmente com caras,»"
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 13,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quando é para cortar salários já não se preocupam com isso!"
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 13,
+      "speaker": {
+        "id": 1210,
+        "name": "Duarte Rogério Matos Ventura Pacheco",
+        "party": "PSD",
+        "string": "O Sr. Duarte Pacheco (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» como a sua intervenção bem mostrou, perseguindo acções concretas e casos concretos.\nSr. Deputado, o que lhe pergunto é muito simples: caso esta vossa proposta fosse aprovada, os senhores têm consciência de qual o impacto que ela teria na captação de investimento estrangeiro, no momento em que ele ç fundamental»"
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 13,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Sr. Jerónimo de Sousa (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Oh, já cá faltava!»"
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 13,
+      "speaker": {
+        "id": 1210,
+        "name": "Duarte Rogério Matos Ventura Pacheco",
+        "party": "PSD",
+        "string": "O Sr. Duarte Pacheco (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» para o crescimento da nossa economia?"
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 13,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas está prevista para 2011!"
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 13,
+      "speaker": {
+        "id": 1210,
+        "name": "Duarte Rogério Matos Ventura Pacheco",
+        "party": "PSD",
+        "string": "O Sr. Duarte Pacheco (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A estabilidade fiscal tem de vigorar, Srs. Deputados! Os senhores podem dizer que o que está a ser feito é um planeamento fiscal abusivo e eu digo-vos: planeamento todos fazemos, cidadãos e empresas, quando antecipamos as decisões de investimento, de aquisições só porque o quadro fiscal vai ser alterado» Aliás, os senhores tambçm o fazem, muitas empresas fazem-no; então, a questão é a de saber se este planeamento fiscal é abusivo ou não»"
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 13,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que é que o senhor acha?"
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 13,
+      "speaker": {
+        "id": 1210,
+        "name": "Duarte Rogério Matos Ventura Pacheco",
+        "party": "PSD",
+        "string": "O Sr. Duarte Pacheco (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E a questão é muito simples: se é abusivo o Sr. Ministro das Finanças e o Governo já têm instrumentos na sua mão que podem pôr em prática para acabar, de imediato, com tudo o que seja planeamento fiscal abusivo."
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 14,
+      "speaker": {
+        "id": 1187,
+        "name": "Bruno Ramos Dias",
+        "party": "PCP",
+        "string": "O Sr. Bruno Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pode esperar sentado!"
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 14,
+      "speaker": {
+        "id": 1210,
+        "name": "Duarte Rogério Matos Ventura Pacheco",
+        "party": "PSD",
+        "string": "O Sr. Duarte Pacheco (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Srs. Deputados, se nós estamos num Estado de direito, com toda a franqueza, das duas uma: ou a lei está a ser cumprida ou não está.\nSe a lei está a ser cumprida as empresas têm legitimidade para fazer esta acção, como todas as outras empresas o fazem; se não está, aplique-se a lei e responsabilizem-se aqueles que fazem planeamento fiscal abusivo, sem nenhuma excepção, sem nenhum medo! É isto que esperamos que venha a ser feito, porque continuamos a acreditar que não legislamos «por estados de alma»; legislamos «por princípios»!"
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado José Luís Ferreira."
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 14,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Honório Novo, a nosso ver, a iniciativa que o Partido Comunista Português, em boa hora, agendou para discussão, pretende, antes de mais, dar um importante passo com vista a uma maior moralização do nosso sistema fiscal, que tanto precisa de ser moralizado.\nNão se trata apenas de preencher uma lacuna que o Governo supostamente se esqueceu de preencher; trata-se, também, de impedir que meia dúzias de «chicos espertos» se aproveitem desse aparente «esquecimento» do Governo para continuar a beneficiar das isenções fiscais, dos milhões e milhões de euros que se preparam para receber.\nE é por causa destes e de outros «esquecimentos» que o Governo acaba por se lembrar sempre dos mesmos quando é necessário exigir sacrifícios para combater a crise: dos mais desfavorecidos, daqueles que têm menos rendimentos, das famílias que têm menos recursos e que são invariavelmente os mesmos, porque o Governo, quando se trata de exigir sacrifícios, esquece-se sistematicamente dos que mais lucros apresentam.\nNo entanto, ao falar desta proposta é quase inevitável fazer referência ao negócio da PT com a Telefónica.\nDe facto, a Telefónica fez uma primeira oferta de aquisição de participação social da PT na Vivo, mas o Governo português acabaria por vetar o negócio em Assembleia Geral de Accionistas da PT. Um mês depois, se tanto, e após um processo negocial envolvo em contornos pouco claros e pouco transparentes, o Governo viria a alterar a sua posição permitindo a venda à Telefónica. E os portugueses ficaram sem saber o que é que terá transformado aquilo que o Governo dizia «tratar-se de um interesse estratégico nacional a preservar» num interesse que, num curto espaço de tempo, deixou de ser estratégico e que já não interessava preservar.\nEsta alteração radical da posição do Governo neste negócio contém, por isso, ainda muitos elementos por clarificar, designadamente a sua verdadeira motivação, ou seja, os verdadeiros motivos que levaram o Governo a mudar de posição em tão curto espaço de tempo. É assim que o Governo do Partido Socialista tem vindo a governar, com «esquecimentos» e com alterações de posição cuja verdadeira motivação escapa aos portugueses.\nO que lhe quero perguntar, Sr. Deputado Honório Novo, é o seguinte: a iniciativa legislativa que o PCP trouxe para Plenário pretende tributar, ainda este ano, os dividendos distribuídos nas grandes empresas.\nPermitir que, pela sua antecipação, dividendos de empresas como a PT não sejam tributados, sobretudo quando todos sabemos que elas procedem a essa antecipação com o exclusivo propósito de fugir aos impostos, é de uma imoralidade gritante, é um escândalo face aos pesadíssimos sacrifícios que o Governo está a impor aos portugueses.\nPortanto, a pergunta é muito simples, Sr. Deputado: quanto vale este projecto de lei? Qual a dimensão do potencial contributo desta iniciativa legislativa para combater a crise? De quantos milhões de euros poderemos estar a falar em termos de receitas para o Estado se este projecto for aprovado? Ou, dito de outra forma, quantos milhões de euros podemos hoje aqui impedir que se somem aos muitos milhões de euros em termos de fuga fiscal?"
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 14,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Honório Novo."
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 15,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, começo por responder ao Sr. Deputado José Luís Ferreira — os õltimos são os primeiros» — dizendo-lhe que não temos números globais, porque ainda não sabemos quantos grupos económicos vão entrar neste regabofe legal de antecipação de dividendos, mas a verdade é certa e segura: se fizermos as contas pela antecipação de dividendos da PT só as receitas fiscais perdidas na PT davam para que o Governo não tivesse necessidade de cortar o abono de família a dezenas e dezenas de milhares de portugueses.\nSr. Presidente, a pergunta do Deputado Manuel Seabra é verdadeiramente lamentável a todos os títulos! É porque, primeiro, começa por não respeitar a palavra, nem a honra, de um seu colega de bancada que hoje apresentou o seu pedido de renúncia ao mandato de Deputado desta Casa. \nO Sr. Deputado nem sequer respeita a palavra do Deputado Afonso Candal! Quer que eu lha recorde, Sr. Deputado Manuel Seabra?! Dizia o seu colega: «Se houver antecipação de dividendos é preciso tributá-los e não pode haver excepções»."
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 15,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 15,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isto foi o que disse o Sr. Deputado Afonso Candal, mas o que o Sr. Deputado agora diz é o contrário. E mais: é lamentável a sua intervenção, Sr. Deputado, porque o senhor mostra e confirma aqui que votou cegamente o Orçamento do Estado na semana passada! \nO Sr. Deputado nem sequer sabe que votou a favor, repito, que votou a favor das normas que o PCP inclui no projecto de lei que hoje estamos a discutir!!"
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 15,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tal é a hipocrisia!»"
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 15,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O senhor nem sequer percebe o que votou na semana passada, porque o que nós queremos é que aquilo que votou na semana passada valha, também, em 2010 e o senhor não apreendeu isto! Para finalizar, respondo aos Srs. Deputado Duarte Pacheco e Manuel Seabra dizendo-lhes que até nisto os senhores estão de acordo um com o outro. É que os senhores invocam a lei, as declarações legais do Dr.\nPaulo Azevedo, ou do Presidente da Portucel, ou do Presidente da PT, ou do Presidente da Jerónimo Martins, mas esquecem-se de que a Constituição da República manda que seja o poder político a mandar no poder económico e o que os senhores querem é que o poder económico passe a mandar no poder político. Querem antecipar os dividendos? Antecipem! Têm legalidade para o fazer? Têm sim, senhor, mas nós, poder político, temos a capacidade e o poder de dizer o seguinte: «Ai antecipam os dividendos? Então, nós também antecipamos a aplicação da lei!». E é isto que os senhores não querem fazer!!"
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as e Srs. Deputados, há uma grande afluência de inscritos para pedidos de esclarecimento a oradores previsíveis, mas há uma grande carência de oradores inscritos»"
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 15,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Então, começamos pelas perguntas, Sr. Presidente»"
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Paulo Batista Santos."
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 16,
+      "speaker": {
+        "id": 1375,
+        "name": "Paulo Jorge Frazão Batista Dos Santos",
+        "party": "PSD",
+        "string": "O Sr. Paulo Batista Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Aproveitando esta falha de oradores inscritos, o PSD cá está a dar a sua convicção sobre o tema!» De facto, muito se tem falado, em Portugal, do regime fiscal dos dividendos ou, nas palavras da esquerda mais radical, na «tributação dos mais ricos e poderosos de Portugal».\nEm boa verdade, para alguma esquerda parlamentar esta discussão não faz muito sentido, na medida em que, na sua visão política e económica do País, a existência de um sector empresarial privado pujante e dinâmico é uma perversão aos princípios de uma sociedade igualitária, sem classes, baseada na propriedade comum e no controlo dos meios de produção.\nDe facto, nesta senda, vários «ministros do Povo» reclamam para si a ideia de uma «Revolução permanente», na qual a sua principal convicção é acabar com os exploradores imperialistas, que contaminam a sociedade e condicionam as potencialidades da classe trabalhadora.\nNeste plano e para os defensores desta visão da sociedade, a queda do muro de Berlim não augurou grande esperança no futuro."
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 16,
+      "speaker": {
+        "id": 1187,
+        "name": "Bruno Ramos Dias",
+        "party": "PCP",
+        "string": "O Sr. Bruno Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Deixe-se lá de parvoíces e fale de coisas sérias!"
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 16,
+      "speaker": {
+        "id": 1375,
+        "name": "Paulo Jorge Frazão Batista Dos Santos",
+        "party": "PSD",
+        "string": "O Sr. Paulo Batista Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tenha calma, Sr. Deputado!» Por conseguinte, qualquer pretexto é válido para remediar a história, independentemente da racionalidade das medidas, porque o que interessa é mobilizar o apoio do povo contra os perigosos capitalistas.\nInfelizmente, a circunstância de vivermos uma crise profunda favorece este tipo de actuações e presta-se a intervenções demagógicas, sem qualquer adesão com a realidade, na abordagem de um tema que é sério e devia mobilizar a atenção desta Câmara, Sr. Deputado Bernardino Soares, com outra profundidade e necessariamente numa perspectiva global no que toca ao regime fiscal dos dividendos no nosso país.\nNesse particular, importa desde já recordar três ideias básicas que certamente são do conhecimento do grupo parlamentar proponente, mas que foram diluídas na fundamentação da iniciativa em apreço.\nComo primeira ideia e contrariamente à mensagem profusamente difundida pelos tais «ministros do Povo», lembro que hoje, em Portugal, os lucros distribuídos são rendimentos que são tributados em sede de IRS ou IRC, consoante a forma jurídica dos seus titulares, no âmbito do princípio geral da tributação dos rendimentos."
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 16,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estes não são»!?"
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 16,
+      "speaker": {
+        "id": 1375,
+        "name": "Paulo Jorge Frazão Batista Dos Santos",
+        "party": "PSD",
+        "string": "O Sr. Paulo Batista Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Com efeito, em termos fiscais, os dividendos são considerados rendimentos de capitais, tributados segundo as normas estabelecidas pelo Código do IRS para as pessoas singulares. São considerados proveitos ou ganhos e tributados conforme o Código do IRC quando auferidos por pessoas colectivas. É disto que estamos a falar, Sr.as e Srs. Deputados.\nAssim, nos termos do Código do IRS, são considerados rendimentos de capitais os lucros das entidades sujeitas a IRC colocados à disposição dos respectivos associados.\nPara efeitos de IRC, os dividendos são considerados proveitos ou ganhos conforme a sua natureza financeira, tais como juros, dividendos, descontos, ágios, transferências, etc., etc.\nDeste modo, e para que não restem quaisquer dúvidas a esta Câmara, os dividendos, actualmente em Portugal, estão sujeitos a tributação, desde logo, por retenção na fonte à taxa liberatória de 21,5%, a efectuar no momento em que são colocados à disposição dos seus titulares.\nMais: ou por via da opção de englobamento com os restantes rendimentos, aplicando-se as taxas gerais em sede de IRS e também em sede de IRC, ou por via do lucro tributável à taxa em vigor, como os Srs. Deputados, sabem à taxa de 25%.\nPorém, o nosso regime fiscal, à semelhança de outros, prevê — e bem! — um conjunto de mecanismos que visam evitar que os mesmos lucros sejam duplamente tributados, primeiro, na esfera da entidade que os aufere e, depois, na esfera dos accionistas, quando os recebam na forma de dividendos.\nNo âmbito deste regime de atenuação da dupla tributação económica, o método geral, consiste, nos termos da redacção em vigor no Código do IRC, em que os dividendos recebidos por sociedades portuguesas são apenas e só excluídos de tributação face a um conjunto de circunstâncias definidas no respectivo Código."
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 17,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Só que o IRC diminuiu. Porque é que terá sido?"
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 17,
+      "speaker": {
+        "id": 1375,
+        "name": "Paulo Jorge Frazão Batista Dos Santos",
+        "party": "PSD",
+        "string": "O Sr. Paulo Batista Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tenha calma, Sr. Deputado!» Como estava a dizer, outras regras foram aprovadas, nomeadamente em sede de eliminação da dupla tributação nos grupos de sociedades, também ao nível da isenção de retenção na fonte na distribuição de dividendos a accionistas europeus.\nAinda assim, continua por satisfazer a pretensão dos autores da iniciativa, porquanto as alterações introduzidas nos referidos diplomas não abrangem a tributação de dividendos das SGPS para o ano de 2010.\nAliás, não satisfeito quanto ao âmbito da aplicação da sua iniciativa inicial, o Grupo Parlamentar do PCP apresentou mesmo um aditamento ao projecto de lei n.º 449/XI (2.ª), que mais parece um manual de instruções da própria iniciativa,»"
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 17,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 17,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É mesmo esse o objectivo!"
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 17,
+      "speaker": {
+        "id": 1375,
+        "name": "Paulo Jorge Frazão Batista Dos Santos",
+        "party": "PSD",
+        "string": "O Sr. Paulo Batista Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» onde se pretende justificar uma aberração legislativa que trazem hoje a este Parlamento.\nFinalmente, como terceira ideia a considerar, evoque-se a motivação legislativa quanto à aplicação no tempo das alterações fiscais propostas e a sua integração no sistema fiscal europeu.\nQuanto ao regime fiscal em vigor na Europa, na generalidade dos países da União Europeia, como em Portugal, existem regimes fiscais especiais para a tributação dos rendimentos das sociedades gestoras de participações sociais ou as designadas sociedades holdings. Nomeadamente, na maioria dos Estadosmembros da União Europeia, vigora a eliminação total da dupla tributação económica dos dividendos recebidos pelas SGPS, provenientes das suas subsidiárias, mediante determinadas condições relacionadas com a percentagem de participação e com o período de detenção das mesmas.\nNessas circunstâncias encontram-se a Alemanha, a Áustria, a Bélgica, a Dinamarca, a Finlândia, a França, a Holanda, a Itália, o Luxemburgo, o Reino Unido, a Suécia, entre outros que me dispenso de identificar."
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado José Gusmão."
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 19,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Paulo Batista Santos, evocou os sovietes para falar da proposta do PCP. Ora, até fui rapidamente consultar, outra vez, o diploma do PCP, mas o que consta de alteração substancial à legislação fiscal em Portugal não é mais do que aquilo que os Srs. Deputados votaram no Orçamento do Estado para o próximo ano. Portanto, ficámos hoje a saber este facto extraordinário: o PSD opõe-se, em 2010, àquilo que chama a União Soviética de Portugal, mas que, em 2011, já pode ser!\nPortanto, só temos de esperar mais 31 dias para que o PSD assuma plenamente a sua vocação revolucionária! Os Srs. Deputados do PSD, que hoje se fizeram representantes legais de todas as empresas que já anteciparam os dividendos para fugir aos impostos e daquelas que o irão fazer até ao final do ano, não nos explicaram onde é que estão as «fotografias», de que falava o Sr. Deputado Duarte Pacheco, de todos aqueles que o Orçamento do Estado vai perseguir, através dos impostos, nos rendimentos do seu trabalho, na tributação do consumo, com o acordo do PSD."
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 19,
+      "speaker": {
+        "id": 2061,
+        "name": "José Manuel Marques Da Silva Pureza",
+        "party": "BE",
+        "string": "O Sr. José Manuel Pureza (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente."
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 20,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O problema é que os trabalhadores, os pensionistas e os beneficiários das prestações sociais em Portugal são muitos, não cabem numa só «fotografia», ao passo que as «fotografias» daqueles que o PSD veio proteger hoje, e que já beneficiaram de mais de 800 milhões de dividendos, sem qualquer tipo de tributação, cabem todos em meia página do Correio da Manhã.\nÉ por isso que o PSD não quer que se fale de rostos, não quer que se fale de quem não paga impostos e que, por vontade do PSD, continuaria a não pagar.\nSr. Deputado Paulo Batista Santos, a questão que gostaríamos de lhe colocar é no sentido de saber qual é o esforço que o PSD está disponível para fazer em matéria de distribuição dos sacrifícios do ponto de vista fiscal.\nPara o PSD, na aplicação desta norma para tributar todos estes rendimentos, o que é que é injusto que passa a ser a ser justo a partir do dia 1 de Janeiro de 2011? Se estas normas que constam deste projecto são correctas, como o PSD reconheceu que eram, qual é o problema, para evitar uma manobra baixa de planeamento fiscal abusivo, em que as empresas sejam obrigadas a submeterem-se a essa tributação já neste exercício fiscal? O que é que é justo em 2011 que não o é em 2010?"
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para pedir esclarecimentos, tem a palavra o Sr. Deputado António Filipe."
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 20,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Paulo Batista Santos, a avaliar pela intervenção que o Sr. Deputado fez e pelo pedido de esclarecimento de há pouco do Sr. Deputado Duarte Pacheco, a partir do dia 1 de Janeiro de 2011 vai começar em Portugal uma perseguição implacável aos capitalistas e vamos assistir a uma maciça fuga de investimento estrangeiro de Portugal.\nPorquê? Porque as normas de tributação de dividendos que são propostas, e que os senhores consideram serem uma nefanda perseguição aos capitalistas e que levariam à fuga de investimentos do nosso país, são exactamente as que vão entrar em vigor a partir do dia 1 de Janeiro de 2011 com o Orçamento do Estado que o PSD viabilizou.\nOra, o que é evidente, Sr. Deputado, é que os tais grandes accionistas de vários grupos económicos, sabendo que essa tributação vai ter início em 2011, anteciparam uma distribuição de dividendos que só é antecipada porque essas normas entram em vigor em 1 Janeiro de 2011.\nPortanto, estamos claramente perante uma operação de evasão fiscal, de fuga ao fisco, que visa ludibriar o Estado e contornar a aplicação do Orçamento do Estado para 2011. Isto é uma evidência. E tanto é uma evidência que foi considerado por qualquer português de bom senso como uma infâmia e uma indignidade.\nAliás, o Sr. Ministro das Finanças chegou a reconhecer que isso punha em causa a reputação das empresas que assim procedessem.\nA questão é a de saber se esta Assembleia vai pactuar com essa infâmia, com essa indignidade ou se, pelo contrário, vai fazer alguma coisa para a impedir.\nO mais elementar bom senso, o mais elementar respeito para com os portugueses que pagam os seus impostos e para com os trabalhadores que vêem os seus salários reduzidos, para com os portugueses que vão ser privados de abono de família e de prestações sociais levaria a que a Assembleia da República não pactuasse com essa indignidade.\nFicámos muito esclarecidos com a intervenção feita pelo Sr. Deputado. A votação que vai ter lugar daqui a pouco desta iniciativa legislativa é muito importante para que se saiba, nesta Assembleia, ao lado de quem se está e ao serviço de quem se está.\nÉ muito claro, dada a posição que o Sr. Deputado expressou, que o PSD está contra os portugueses que pagam os seus impostos e a favor dos grandes accionistas que pretendem ludibriar o Estado, fugir aos impostos e cometer uma indignidade contra os restantes cidadãos."
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Paulo Batista Santos."
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 21,
+      "speaker": {
+        "id": 1375,
+        "name": "Paulo Jorge Frazão Batista Dos Santos",
+        "party": "PSD",
+        "string": "O Sr. Paulo Batista Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, agradeço as questões colocadas pelos Srs. Deputados José Gusmão e António Filipe.\nConfesso que o Sr. Deputado José Gusmão me facilitou muito a vida, porque o tom, a forma e, sobretudo, o sentido da sua intervenção esclarecem tudo.\nEste problema pode ser tratado de duas formas: de uma forma séria e responsável, vendo a perspectiva global, o direito comparado do sistema fiscal português e europeu; ou de forma demagógica, que o Sr. Deputado utilizou.\nAquilo que não faz sentido é que haja um conjunto de empresas nacionais que são alvo de repetidos ataques por parte de VV. Ex.as como se estivessem a explorar a modesta e a oprimida classe trabalhadora.\nIsso é que não é justo, não é sério e, sobretudo, não é aplicável numa economia de mercado como aquela em que vivemos."
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 21,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os trabalhadores da PT vão pagar impostos até ao último centavo!"
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 21,
+      "speaker": {
+        "id": 1375,
+        "name": "Paulo Jorge Frazão Batista Dos Santos",
+        "party": "PSD",
+        "string": "O Sr. Paulo Batista Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quero ainda completar a minha resposta referindo-me ao esforço do PSD.\nO esforço do PSD, Sr. Deputado, ç o de estar ao lado de quem trabalha, naturalmente,»"
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE e do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Oh!"
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 21,
+      "speaker": {
+        "id": 1375,
+        "name": "Paulo Jorge Frazão Batista Dos Santos",
+        "party": "PSD",
+        "string": "O Sr. Paulo Batista Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» mas tambçm de quem gera emprego, das empresas que geram emprego em Portugal. É disso que precisamos: empresas que geram receita fiscal para o Estado.\nV. Ex.ª terá presente também — certamente terá, pois sei que analisa esta matéria — qual é o contributo, em sede de IRC, para a receita fiscal do nosso País. Terá de reconhecer que isso resulta de um trabalho, de uma actividade privada, de uma actividade empresarial que o Estado e o Governo, em particular este Governo do Partido Socialista, não têm sabido acompanhar e nem sequer apoiar."
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 21,
+      "speaker": {
+        "id": 1375,
+        "name": "Paulo Jorge Frazão Batista Dos Santos",
+        "party": "PSD",
+        "string": "O Sr. Paulo Batista Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quando se fala em aumentar as exportações no nosso País, como aconteceu nos últimos períodos económicos, a verdade é que os empresários têm que se «desenrascar de modo próprio» — desculpe o vulgarismo — , porque o Governo, nestas matérias, só tem atrapalhado.\nO grande problema da vossa argumentação, Sr. Deputado José Gusmão — e passo também a responder ao Sr. Deputado António Filipe, a quem agradeço igualmente as questões colocadas — , é que se esta matéria for, como o Sr. Deputado referiu aqui de forma peremptória, matéria de evasão fiscal, a Lei Geral Tributária tem cabimento para tratar dessa matéria."
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 21,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A questão é que não tem, por isso é preciso isto!"
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 21,
+      "speaker": {
+        "id": 1375,
+        "name": "Paulo Jorge Frazão Batista Dos Santos",
+        "party": "PSD",
+        "string": "O Sr. Paulo Batista Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "V. Ex.a exerce funções públicas e, se tem conhecimento que há evasão fiscal, tem obrigação de a denunciar e de fazer prova da mesma na administração fiscal.\nVou referir o grande problema da vossa iniciativa, passando a resumir três ou quatro aspectos que há pouco citei e que, se fui esclarecedor, parece que V. Ex.ª não os percebeu bem."
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 22,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está-se a ver!"
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Zero!"
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Sónia Fertuzinhos."
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 22,
+      "speaker": {
+        "id": 1405,
+        "name": "Sónia Ermelinda Matos Da Silva Fertuzinhos",
+        "party": "PS",
+        "string": "A Sr.ª Sónia Fertuzinhos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Sejamos claros, este não é um debate sobre quem quer ou não tributar a distribuição de dividendos.\nO Governo, no Orçamento do Estado para 2011, tomou uma opção política clara. O PS, ao aprovar o Orçamento do Estado para 2011, tomou uma opção política clara:»"
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 22,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Sr. Miguel Tiago (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os trabalhadores estão a sofrer já!"
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 22,
+      "speaker": {
+        "id": 1405,
+        "name": "Sónia Ermelinda Matos Da Silva Fertuzinhos",
+        "party": "PS",
+        "string": "A Sr.ª Sónia Fertuzinhos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» a de alargar a dupla tributação sobre a distribuição de dividendos a todos os beneficiários com participações inferiores a 10%. Ou seja, a partir de 2011, a distribuição de dividendos pagará mais imposto. Repito: por decisão do Governo do Partido Socialista, deixa de beneficiar de isenção fiscal a distribuição de dividendos nos casos em que a participação seja inferior a 10% quando estejam em causa quer dividendos distribuídos a residentes quer dividendos distribuídos a não residentes — entidades residentes noutro Estado-membro ou no Espaço Económico Europeu.\nSe hoje o PCP apresenta este projecto e se estamos a ter esta discussão é porque o PS aprovou esta mesma medida, na semana passada, no Orçamento do Estado.\nA iniciativa de taxar mais a distribuição de dividendos, num Orçamento que teve por base o princípio de distribuir os sacrifícios por todos, é, desde o início, do PS e não do PCP ou de qualquer outra força política! Por isso, não estamos aqui a medir nada, Sr.as e Srs. Deputados, nem a competir por nada! O PS está neste debate, como sempre, a decidir em função da defesa dos interesses das portuguesas, dos portugueses e da nossa economia! O alargamento da base contributiva e o combate à evasão fiscal no IRC são desde sempre um objectivo do PS. Na exposição de motivos do projecto de lei do PCP são claras as divergências entre o PS e o PCP em relação a várias matérias."
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 23,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O resultado está à vista!"
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 23,
+      "speaker": {
+        "id": 1405,
+        "name": "Sónia Ermelinda Matos Da Silva Fertuzinhos",
+        "party": "PS",
+        "string": "A Sr.ª Sónia Fertuzinhos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E tanto assim é que recordo que foi o PS que aprovou a limitação do planeamento fiscal na distribuição dos lucros; foi o PS que condicionou as possibilidades de dedução de prejuízos fiscais; foi o PS que aumentou o controlo das «contas-jumbo» em sede de IRC e IRS; foi o PS que decidiu a limitação global dos benefícios fiscais de IRC; foi o PS que decidiu o reforço das obrigações das instituições de crédito e financeiras; foi o PS que criou a contribuição para o sector bancário.\nMas também convém esclarecer que, ao contrário do que afirma o PCP, não há isenção plena da tributação dos dividendos que serão distribuídos. O que hoje, aqui, discutimos é um mecanismo de isenção fiscal da dupla tributação. Sim, da dupla tributação, uma vez que os lucros que determinarão a distribuição de dividendos serão alvo de tributação em sede de IRC."
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 23,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em alguns casos!"
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 23,
+      "speaker": {
+        "id": 1405,
+        "name": "Sónia Ermelinda Matos Da Silva Fertuzinhos",
+        "party": "PS",
+        "string": "A Sr.ª Sónia Fertuzinhos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: A iniciativa do PCP tem como grande objectivo causar dificuldades ao PS."
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 23,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Coitadinho do PS! Pobres Deputados do PS!»"
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 23,
+      "speaker": {
+        "id": 1405,
+        "name": "Sónia Ermelinda Matos Da Silva Fertuzinhos",
+        "party": "PS",
+        "string": "A Sr.ª Sónia Fertuzinhos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Neste debate, a única preocupação do PS é garantir que esta iniciativa não cria dificuldades acrescidas ao País. No limite, o PCP responde com uma habilidade ao que considera ser uma habilidade das empresas.\nMas nesta matéria, como noutras, seria muito fácil correr atrás de raciocínios simples e tendentes a reunir a adesão popular. Porém, não é esse o papel dos políticos e não é seguramente esse o papel do PS."
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 23,
+      "speaker": {
+        "id": 1187,
+        "name": "Bruno Ramos Dias",
+        "party": "PCP",
+        "string": "O Sr. Bruno Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É cortar nos salários!"
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 23,
+      "speaker": {
+        "id": 1405,
+        "name": "Sónia Ermelinda Matos Da Silva Fertuzinhos",
+        "party": "PS",
+        "string": "A Sr.ª Sónia Fertuzinhos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Com todas as medidas que o PS já aprovou, o nosso sistema fiscal é hoje mais equitativo na distribuição das responsabilidades e do esforço de cada um.\nCom a entrada em vigor deste Orçamento, os grandes grupos económicos e o sector bancário pagam mais impostos e, como não podia deixar de ser, são parte importante no contributo que todos temos que dar para ultrapassarmos as dificuldades."
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 24,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas que imprevisibilidade?!"
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 24,
+      "speaker": {
+        "id": 1405,
+        "name": "Sónia Ermelinda Matos Da Silva Fertuzinhos",
+        "party": "PS",
+        "string": "A Sr.ª Sónia Fertuzinhos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» alterando a meio as regras do jogo e atingindo um universo de empresas maior do que aquele que o PCP quer atingir, o PS não hesita em defender os interesses da economia, o que é igual a dizer que não hesita em defender os interesses de todos os trabalhadores e empresas.\nCom uma maior tributação da distribuição de dividendos o PS aprovou com coragem o Orçamento do Estado para 2001. Com responsabilidade, o PS rejeita, hoje, o projecto do PCP."
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveram-se três Srs. Deputados para pedirem esclarecimentos.\nPara o efeito, tem a palavra, em primeiro lugar, a Sr.ª Deputada Assunção Cristas."
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 24,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O CDS vai intervir sobre esta matéria? Até que enfim!"
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 24,
+      "speaker": {
+        "id": 1957,
+        "name": "Maria De Assunção Oliveira Cristas Machado Da Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Assunção Cristas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Sónia Fertuzinhos, o Partido Socialista vem hoje apresentar um discurso de defesa da legalidade e da previsibilidade do enquadramento fiscal. Bem o compreendo, mas já não compreendo, e sobre isso gostaria de ter alguns esclarecimentos, como entende as declarações feitas sobre esta matéria pelo Sr. Primeiro-Ministro e pelo Sr. Ministro de Estado e das Finanças."
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 24,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 24,
+      "speaker": {
+        "id": 1957,
+        "name": "Maria De Assunção Oliveira Cristas Machado Da Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Assunção Cristas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Relembro que, há um mês, o Sr. Ministro das Finanças referiu que o pagamento de dividendos este ano — pela PT, bem entendido — «poderá dar a ideia de que a PT pretende com isso estar a fugir ao pagamento do imposto». E o Sr. Primeiro-Ministro, reiterando a coincidência de pontos de vista com o seu Ministro, afirmou, numa entrevista televisiva, que «moralmente, não seria aceitável que a PT fizesse isso antes», ou seja, a distribuição de dividendos antes do próximo ano.\nE à pergunta da entrevistadora sobre se o Primeiro-Ministro iria tomar alguma iniciativa para que isso acontecesse a resposta foi a seguinte: «Não, julgo que não é preciso tomar. A administração da Portugal Telecom certamente compreenderá e fará essa distribuição por forma a que esses dividendos paguem os seus impostos.».\nOra bem, este discurso do Governo, e hoje o discurso do Partido Socialista, mais parece — peço desculpa pela expressão — um discurso de sonsos,»\n» porque quando podiam e tinham intervenção nada fizeram para evitar a antecipação de dividendos.\nSouberam usar a golden share, mas esqueceram-se dos impostos que viriam com o uso dessa golden share.\nSó o Governo poderia ter enquadrado esta matéria, mais precisamente quando fez valer a sua posição.\nNão se compreende agora como é que o Sr. Ministro das Finanças e o Sr. Primeiro-Ministro se preocupam com questões que qualificam de morais e querem imputar aos outros comportamentos que eles próprios não assumiram em tempo oportuno."
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado José Gusmão."
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 25,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Sónia Fertuzinhos, falou das consequências imprevisíveis da aprovação deste projecto de lei. Gostaríamos muito de saber quais são, porque para nós as consequências muito previsíveis da aprovação deste projecto de lei — tão previsíveis que até chegam a ser enfadonhas — são as de estas empresas, a PT, a Portucel e todas as que se lhes seguirem, pagarem impostos em 2010, como o Governo reconhece que devem fazer.\nMas, na ausência do Governo, queríamos confrontá-la, Sr.ª Deputada, com uma questão que tem a ver com o que o Governo disse sobre esta matéria. E já aqui foi citada a famosa entrevista do Primeiro-Ministro sobre esta matéria, mas ainda não foi citada a frase mais importante dessa entrevista. Quando o PrimeiroMinistro disse que não seria moralmente aceitável, depois referiu o seguinte: «Foi, aliás, por isso que o Ministro das Finanças já comunicou, ele próprio, não à administração da PT mas ao accionista Caixa Geral de Depósitos que era essa (»)« — do Governo — «(») a nossa posição. E tenho a certeza que todos compreenderão que isso é o mais sensato de se fazer».\nO Ministro das Finanças já comunicou, portanto, à Caixa Geral de Depósitos — disse o Sr. PrimeiroMinistro em entrevista à TVI. Mas o Ministro das Finanças teve oportunidade de dizer, aqui, que a Caixa Geral de Depósitos nunca recebeu qualquer tipo de orientação da parte do Governo.\nNão há, pois, duas formas de ver esta matéria: ou o Ministro das Finanças mentiu ao Primeiro-Ministro ou o Primeiro-Ministro mentiu ao País outra vez."
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 25,
+      "speaker": {
+        "id": 2061,
+        "name": "José Manuel Marques Da Silva Pureza",
+        "party": "BE",
+        "string": "O Sr. José Manuel Pureza (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 25,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, o debate que aqui estamos a fazer hoje é um filme que já tem muitas sequelas: José Sócrates mente ao País, parte 142.\n\nO Sr. Primeiro-Ministro não disse, na entrevista que deu à TVI que, se calhar, era homem para comunicar a posição do Governo à Caixa Geral de Depósitos: «Se calhar, um dia destes, dizemos à Caixa Geral de Depósitos para se opor à antecipação dos dividendos». Não, o Sr. Primeiro-Ministro disse o seguinte: «O Ministro das Finanças já comunicou à Caixa Geral de Depósitos»."
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 25,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E é esta mentira, este discurso de falsidade que governou toda a actuação do Governo,»"
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 25,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» com a cumplicidade do Partido Socialista, neste processo. O Partido Socialista e o Governo não andaram distraídos em matéria de tributação de dividendos em 2010; foram cúmplices activos da política de planeamento fiscal abusivo destas empresas para fugirem a um dever de tributação que o próprio Partido Socialista reconhece que é devido e que deveria ser feito."
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Bernardino Soares."
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 26,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Sónia Fertuzinhos, desengane-se, nós não apresentamos iniciativas para causar dificuldades ao PS. O PS causa as suas próprias dificuldades, como é bem visível para todos os portugueses.\nApresentámos esta iniciativa na sequência de declarações do Primeiro-Ministro e do Ministro das Finanças sobre a indignidade deste posicionamento da PT e de outras empresas. Portanto, o que fizemos — já sabemos que os senhores têm dificuldade quando se trata de tributar os lucros dos grupos económicos — foi pegar na formulação jurídica do Governo e dizer, simplesmente, que se isto se aplica a 2011 e estas empresas querem fugir pagando em 2010, então aplique-se também em 2010.\n\nA Sr.ª Deputada diz que nós desvalorizamos essa norma do Orçamento para 2011. Não, Sr.ª Deputada, tanto não desvalorizamos que até queremos que ela se aplique em 2010! E aí é que está o ponto! Vamos hoje aqui discutir, Sr.ª Deputada, se estas empresas que estão a tentar fugir ao pagamento do imposto vão ou não pagá-lo. E é isso que a Sr.ª Deputada tem que dizer ao País, ou seja, se está de acordo que elas paguem, como disseram o Primeiro-Ministro e o Ministro das Finanças, ou se está de acordo que elas não paguem, como querem os seus accionistas."
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra a Sr.ª Deputada Sónia Fertuzinhos."
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 26,
+      "speaker": {
+        "id": 1405,
+        "name": "Sónia Ermelinda Matos Da Silva Fertuzinhos",
+        "party": "PS",
+        "string": "A Sr.ª Sónia Fertuzinhos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Assunção Cristas, se eu quisesse entrar por aí, podia retribuir-lhe a acusação de sonso que tentou fazer ao discurso do PS, porque vou gostar de ver, no final do debate, qual vai ser o sentido de voto do CDS!"
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 26,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Eu também!"
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 26,
+      "speaker": {
+        "id": 1405,
+        "name": "Sónia Ermelinda Matos Da Silva Fertuzinhos",
+        "party": "PS",
+        "string": "A Sr.ª Sónia Fertuzinhos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não vamos, portanto, tentar discutir a «árvore», esquecendo a «floresta». O PS está aqui, como eu disse, a defender aquilo que considera ser a posição que melhor defende os interesses dos portugueses e da nossa economia.\nSr. Deputado José Gusmão, não me parece — aliás, a sua intervenção também não o conseguiu provar — que possamos aqui falar de alguém ter mentido aos portugueses.\nO Bloco de Esquerda gosta imenso de florear os seus discursos com este tipo de linguagem,»"
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 26,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não, não! Diz as coisas como são!"
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 26,
+      "speaker": {
+        "id": 1405,
+        "name": "Sónia Ermelinda Matos Da Silva Fertuzinhos",
+        "party": "PS",
+        "string": "A Sr.ª Sónia Fertuzinhos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» que pode ficar muito bem no ritmo das intervenções — e sabemos como isso é importante para elas serem ouvidas — , mas que, depois, do ponto de vista do conteúdo, pouca adesão têm à realidade.\nRelativamente à imprevisibilidade das consequências, a verdade é que esta proposta significa alterar as regras a meio do jogo, e isso pode ter consequências imprevisíveis na confiança das empresas em investirem no nosso país. Portanto, ponderadas todas as questões em causa — naturalmente que o PS as ponderou, até"
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 27,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E em 2010?"
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 27,
+      "speaker": {
+        "id": 1405,
+        "name": "Sónia Ermelinda Matos Da Silva Fertuzinhos",
+        "party": "PS",
+        "string": "A Sr.ª Sónia Fertuzinhos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que ficará para a história e o que ficará de concreto para o próximo ano é que a realidade muda completamente: as empresas, os grandes grupos económicos e a banca passarão a pagar mais impostos e o nosso sistema fiscal será mais equilibrado e mais justo."
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Jorge Duarte Costa."
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 27,
+      "speaker": {
+        "id": 2052,
+        "name": "Jorge Duarte Gonçalves Da Costa",
+        "party": "BE",
+        "string": "O Sr. Jorge Duarte Costa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Sónia Fertuzinhos, vamos «ler» quem respondeu, antes do Bloco de Esquerda, aqui, hoje, às declarações do Sr. Primeiro-Ministro.\nA Caixa Geral de Depósitos não recebeu nenhumas orientações; a posição que a Caixa terá defendido decidiu-a por seu arbítrio.\nQuanto a Teixeira dos Santos, Ministro das Finanças: depois de José Sócrates, Primeiro-Ministro, ter dito aquilo que aqui já foi citado — que esta posição já tinha sido comunicada pelo Ministro das Finanças à administração da PT — , o desmentido veio do próprio Ministro das Finanças, publicamente, e está citado na imprensa, desde há várias semanas. Portanto, Sr.ª Deputada Sónia Fertuzinhos, o Governo mentiu: mentiu sobre a sua actuação neste processo, sobre a sua política e sobre a sua orientação! Ao recusar antecipar para 2010 aquilo que diz que é justo, correcto, e de cujos méritos vem aqui vangloriarse neste Plenário, o que o Governo está a fazer — e o Partido Socialista a apoiá-lo — é o planeamento fiscal destas empresas."
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 27,
+      "speaker": {
+        "id": 2052,
+        "name": "Jorge Duarte Gonçalves Da Costa",
+        "party": "BE",
+        "string": "O Sr. Jorge Duarte Costa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Grupo Parlamentar do PS, juntamente com o Governo, é quem está a fazer o grande planeamento fiscal destas empresas!"
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 27,
+      "speaker": {
+        "id": 2052,
+        "name": "Jorge Duarte Gonçalves Da Costa",
+        "party": "BE",
+        "string": "O Sr. Jorge Duarte Costa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Podíamos, aqui, fazer legislação que o evitasse."
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 27,
+      "speaker": {
+        "id": 2052,
+        "name": "Jorge Duarte Gonçalves Da Costa",
+        "party": "BE",
+        "string": "O Sr. Jorge Duarte Costa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Podíamos fazer com que estes grandes grupos económicos pagassem o imposto que devem e que vão pagar para o ano!\nMas, este ano, são vocês, com o apoio da direita, que os querem isentar disso.\nNinguém votou em Ricardo Salgado, ninguém votou em Soares dos Santos, ninguém votou em Nuno Vasconcelos, ninguém votou em Queiroz Pereira, mas hoje, aqui, são eles que vão ter o voto."
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado José Luís Ferreira."
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 28,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Com discursos mais ou menos sonsos, a verdade é que a iniciativa legislativa que estamos a discutir pretende combater ou impedir aquilo que podíamos designar pela «grande golpada», porque, de facto, é disso que se trata: de uma «golpada» que algumas das grandes empresas se preparam para fazer, através da distribuição antecipada de uma parte substancial dos seus dividendos.\nPermitir que a antecipação de dividendos de empresas, como a PT, não sejam tributados — aliás, procedem a essa antecipação com o exclusivo propósito de fugir aos impostos — representa uma situação verdadeiramente escandalosa e ofensiva, até, para a generalidade dos portugueses. Mas é mais escandalosa e ofensiva, ainda, numa altura em que o Governo tantos sacrifícios está a impor aos portugueses: o aumento do IVA, o aumento do IRS, os cortes salariais, o congelamento das reformas e pensões, o corte nos apoios sociais, as restrições ao subsídio de desemprego, e por aí fora.\nO Governo que impõe tantos sacrifícios à generalidade dos Portugueses é o mesmo Governo que se esquece de tributar a antecipação de dividendos de empresas, como a PT; é o mesmo Governo que já sabia, pelo menos desde Junho, das intenções dos accionistas de referência em vender a participação da PT na Vivo; é o mesmo Governo que já sabia que esses accionistas sabiam das intenções do Governo de alterar as normas fiscais de tributação desses dividendos distribuídos; é o mesmo Governo que, num mês, veta um negócio, porque considera tratar-se de um interesse estratégico nacional que é necessário preservar para, no mês seguinte, permitir o negócio desse interesse que, afinal, já não era estratégico e já não interessava preservar; é o mesmo Governo que vem a público dizer que estava contra a distribuição antecipada de dividendos, aprovada no Conselho de Administração da PT, mas que foi incapaz de dar qualquer indicação à Caixa Geral de Depósitos para impedir essa distribuição, uma distribuição que, aliás, contou com o apoio do próprio representante da Caixa Geral de Depósitos.\nO Governo que, mesmo em tempos de crise, impõe novas condições de recurso aos beneficiários dos apoios sociais, com o objectivo de excluir milhares e milhares de famílias desses apoios, é afinal o mesmo Governo que se mostra incapaz de impor novas condições de recurso aos grandes grupos económicos para a concessão dos escandalosos benefícios fiscais, que, mesmo em tempos de crise, continuam a beneficiar."
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 28,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem dito!"
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 28,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Era aqui que se impunham novas condições de recurso,»"
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 28,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» era nos grandes grupos económicos a quem o Governo continua a conceder chocantes benefícios fiscais,»"
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 28,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 166,
+      "order": 166,
+      "page_start": 28,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» não era nas famílias que beneficiam desses apoios sociais e que já estão muito fragilizadas e muito penalizadas pelas políticas dos governos e dos partidos que agora falam da segurança jurídica mas que, quando se tratou de alterar as regras a meio do jogo, nos contratos que o Estado fez com os trabalhadores da Administração Pública, ao nível salarial e ao das pensões, ninguém ouviu falar da segurança jurídica.\nMas, se o Governo se esqueceu de criar mecanismos para tributar os 900 milhões de euros que a PT pretende distribuir este ano em dividendos extraordinários e outros milhões de outras grandes empresas que se preparam para fazer o mesmo, compete a esta Assembleia fazê-lo."
+    },
+    {
+      "utterance_id": 167,
+      "order": 167,
+      "page_start": 29,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 168,
+      "order": 168,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Assunção Cristas."
+    },
+    {
+      "utterance_id": 169,
+      "order": 169,
+      "page_start": 29,
+      "speaker": {
+        "id": 1957,
+        "name": "Maria De Assunção Oliveira Cristas Machado Da Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Assunção Cristas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: A posição do CDS sobre política fiscal é conhecida desta Câmara, mas nunca é demais relembrá-la.\nA cobrança de impostos está no centro do contrato que é feito entre Estado e cidadãos firmado nos actos eleitorais. A riqueza pertence aos cidadãos e às empresas — são estes que, com o seu trabalho, empenho e risco, geram rendimento e crescimento económico."
+    },
+    {
+      "utterance_id": 170,
+      "order": 170,
+      "page_start": 29,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 171,
+      "order": 171,
+      "page_start": 29,
+      "speaker": {
+        "id": 1957,
+        "name": "Maria De Assunção Oliveira Cristas Machado Da Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Assunção Cristas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os contribuintes aceitam transferir parte dessa riqueza para o Estado para que este a utilize de forma a cumprir um conjunto de funções previamente definidas. Faz parte desse acordo a estabilidade do sistema fiscal e a previsibilidade do mesmo e, por isso, a Constituição proíbe a retroactividade da lei fiscal."
+    },
+    {
+      "utterance_id": 172,
+      "order": 172,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 173,
+      "order": 173,
+      "page_start": 29,
+      "speaker": {
+        "id": 1957,
+        "name": "Maria De Assunção Oliveira Cristas Machado Da Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Assunção Cristas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O momento próprio para definir regras é o do Orçamento de Estado, e o tempo para a sua aplicação deve ser, sempre, o do ano fiscal a que esse Orçamento diz respeito.\nPara o CDS, os impostos devem obedecer ao princípio da proporcionalidade, de forma a que quem tenha mais rendimentos pague mais impostos.\nMas todos — todos, sem excepção — têm o direito de saber com estabilidade que impostos vão pagar. Por isso, levamos tão a sério o princípio da legalidade e da não retroactividade da lei fiscal."
+    },
+    {
+      "utterance_id": 174,
+      "order": 174,
+      "page_start": 29,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 175,
+      "order": 175,
+      "page_start": 29,
+      "speaker": {
+        "id": 1957,
+        "name": "Maria De Assunção Oliveira Cristas Machado Da Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Assunção Cristas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A não retroactividade é um princípio de todo o sistema fiscal."
+    },
+    {
+      "utterance_id": 176,
+      "order": 176,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 177,
+      "order": 177,
+      "page_start": 29,
+      "speaker": {
+        "id": 1957,
+        "name": "Maria De Assunção Oliveira Cristas Machado Da Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Assunção Cristas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não se pode ser contra a retroactividade no IRS e a favor no IRC."
+    },
+    {
+      "utterance_id": 178,
+      "order": 178,
+      "page_start": 29,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 179,
+      "order": 179,
+      "page_start": 29,
+      "speaker": {
+        "id": 1957,
+        "name": "Maria De Assunção Oliveira Cristas Machado Da Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Assunção Cristas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O CDS é — e foi — contra a tributação retroactiva dos trabalhadores em sede de IRS, pelo que, pela mesma razão — por ser retroactivo e, por isso, por ser ilegal — , não a aceitamos no IRC.\nEsta é uma posição coerente, não é uma posição sonsa que outros não podem afirmar."
+    },
+    {
+      "utterance_id": 180,
+      "order": 180,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 181,
+      "order": 181,
+      "page_start": 30,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Sr. Jerónimo de Sousa (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas é um voto sonso!"
+    },
+    {
+      "utterance_id": 182,
+      "order": 182,
+      "page_start": 30,
+      "speaker": {
+        "id": 1957,
+        "name": "Maria De Assunção Oliveira Cristas Machado Da Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Assunção Cristas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Qualquer solução excepcional para qualquer situação excepcional tinha de ter sido encontrada pelo Governo, no quadro da utilização, também ela excepcional, da golden share."
+    },
+    {
+      "utterance_id": 183,
+      "order": 183,
+      "page_start": 30,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como é óbvio!"
+    },
+    {
+      "utterance_id": 184,
+      "order": 184,
+      "page_start": 30,
+      "speaker": {
+        "id": 1957,
+        "name": "Maria De Assunção Oliveira Cristas Machado Da Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Assunção Cristas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Governo não se coibiu de interferir no negócio, mas absteve-se de se interessar pelos dividendos desse mesmo negócio.\nOra, voltando ao que não é excepcional, mas é geral, diríamos que a alteração que o Governo introduziu no Orçamento do Estado para 2011 relativamente à eliminação da dupla tributação económica de lucros distribuídos é passível de crítica — já era passível de crítica e, por isso, o CDS votou contra — no que toca quer ao seu conteúdo quer ao procedimento.\nJá era passível de crítica relativamente ao conteúdo, porque altera um regime estabilizado com mais de 20 anos e que tem uma razão de ser fundada nos princípios elementares de Direito Fiscal: o que se tributa é o rendimento gerado, o qual deve ser tributado apenas uma vez.\nFaz todo o sentido que as empresas possam organizar-se em grupos para alcançar maior eficiência na gestão e melhor prossecução dos seus objectivos."
+    },
+    {
+      "utterance_id": 185,
+      "order": 185,
+      "page_start": 30,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 186,
+      "order": 186,
+      "page_start": 30,
+      "speaker": {
+        "id": 1957,
+        "name": "Maria De Assunção Oliveira Cristas Machado Da Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Assunção Cristas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Faz sentido que a tributação desses grupos incida sobre o rendimento efectivamente produzido e apenas uma vez. Não faz sentido tributar duas vezes o mesmo rendimento em entidades diferentes.\nAo permitir tributar, de forma mais alargada, duas vezes o mesmo rendimento, a lei está a contrariar esta razão de ser, que continua a ter toda a justificação, e a levar as empresas a se reestruturarem em moldes provavelmente menos eficientes e até desaconselháveis na óptica da gestão.\nTambém o procedimento é censurável. Em qualquer país desenvolvido, alterações profundas como esta são feitas depois de um amplo debate põblico,»"
+    },
+    {
+      "utterance_id": 187,
+      "order": 187,
+      "page_start": 30,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 188,
+      "order": 188,
+      "page_start": 30,
+      "speaker": {
+        "id": 1957,
+        "name": "Maria De Assunção Oliveira Cristas Machado Da Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Assunção Cristas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» onde ç possível ouvir e colher opiniões de quem está no terreno e de quem se dedica teoricamente às matérias em causa, e só depois de se discutir com clareza e lealdade se avança para alterações.\nOra, o Governo nada disto fez, apenas deu alguns pré-avisos. Recordo-me de um, do Sr. Secretário de Estado dos Assuntos Fiscais, em Setembro,»"
+    },
+    {
+      "utterance_id": 189,
+      "order": 189,
+      "page_start": 30,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está a ver como se recorda tambçm?!»"
+    },
+    {
+      "utterance_id": 190,
+      "order": 190,
+      "page_start": 30,
+      "speaker": {
+        "id": 1957,
+        "name": "Maria De Assunção Oliveira Cristas Machado Da Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Assunção Cristas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» mas depois apresentou um texto fechado.\nEsta foi, por isso, no essencial, uma alteração de matriz ideológica. Uma alteração que consistiu numa cedência evidente à lógica da esquerda mais radical, a quem a simples ideia de haver empresários robustos e"
+    },
+    {
+      "utterance_id": 191,
+      "order": 191,
+      "page_start": 31,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 192,
+      "order": 192,
+      "page_start": 31,
+      "speaker": {
+        "id": 1957,
+        "name": "Maria De Assunção Oliveira Cristas Machado Da Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Assunção Cristas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Que dirão os investidores estrangeiros que procuramos captar para o nosso País? Provavelmente, dirão que Portugal não é um país seguro para se investir, porque nunca se sabe quando vão mudar as regras.\nAconteceu de forma escandalosa no ano passado com a tributação dos fundos. Propõe o PCP que aconteça agora com a distribuição de dividendos. Depois, não se queixem da descapitalização do País."
+    },
+    {
+      "utterance_id": 193,
+      "order": 193,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Victor Baptista para uma intervenção."
+    },
+    {
+      "utterance_id": 194,
+      "order": 194,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Em tempo de dificuldades, o que se exige é grande sentido de responsabilidade. Curiosamente, neste final de debate, ficamos com a sensação de que há grupos parlamentares mais preocupados com a colheita do voto do que propriamente com a exigência destes tempos."
+    },
+    {
+      "utterance_id": 195,
+      "order": 195,
+      "page_start": 32,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E nós com a colheita de impostos!»"
+    },
+    {
+      "utterance_id": 196,
+      "order": 196,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É um tempo em que não se pode, nem deve, com a intervenção política, acentuar a divisão entre portugueses com a ideia errada de que há quem pague neste esforço colectivo e há quem não esteja a pagar; de que há os trabalhadores que pagam e há, porventura, os que, detendo rendimentos de capital, não pagam. Esse é um mau passo, porque só ajuda a acentuar clivagens, não ajuda a ultrapassar os problemas.\nEstamos, hoje, a tratar do artigo 51.º do Código do IRC. Do que trata esta disposição é da eliminação da dupla tributação. Não trata de dizer que uns pagam e outros não; trata, isso sim, de o mesmo rendimento ter dois momentos de pagamento.\nOra, da intervenção do Partido Comunista neste debate — e o Deputado Honório Novo vai ao ponto e ao pormenor de referenciar instituições e até de personalizar as instituições em pessoas — , fica a ideia para o cidadão em geral de que há um fulano A que recebe dividendos e que não paga e que há outros que, pelo rendimento de trabalho, têm de pagar."
+    },
+    {
+      "utterance_id": 197,
+      "order": 197,
+      "page_start": 32,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Percebeu bem!"
+    },
+    {
+      "utterance_id": 198,
+      "order": 198,
+      "page_start": 32,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É exactamente isso!"
+    },
+    {
+      "utterance_id": 199,
+      "order": 199,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Assim não é, e já vamos ver porquê! O que se passa concretamente é muito simples: os rendimentos, os dividendos distribuídos pela PT — seja pela PT, SGPS, seja pela própria PT operacional — , quando recebidos por um cidadão individual, pelo accionista individualizado, estão sujeitos a tributação, como VV. Ex.as sabem. Estão sujeitos, desde logo, a tributação em IRS,»"
+    },
+    {
+      "utterance_id": 200,
+      "order": 200,
+      "page_start": 32,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!»"
+    },
+    {
+      "utterance_id": 201,
+      "order": 201,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "» em que a matéria é sujeita a contribuição pelo englobamento, apenas com a redução de 50%, e, se não optar pelo englobamento, tem uma taxa autónoma de 21,5%.\nPortanto, a primeira conclusão quanto à distribuição de dividendos, ao contrário do que pensa a opinião pública, que não está, naturalmente, integrada nestas questões técnicas, é a de que esse rendimento de quem recebe do ponto de vista individual está sujeito a tributação."
+    },
+    {
+      "utterance_id": 202,
+      "order": 202,
+      "page_start": 33,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Sr. Jerónimo de Sousa (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E nas sociedades!"
+    },
+    {
+      "utterance_id": 203,
+      "order": 203,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "» que vai distribuir, ou seja, se a parte que ç distribuída reduz ou não a matéria tributável.\nQuando se trata de accionistas individuais ou até colectivos — pela legislação ainda em vigor em 2010 — que detenham uma participação superior a 10% ou um custo de aquisição superior a 20 milhões de euros, essa questão tem um outro tratamento, mas, quando se trata de accionistas com participações inferiores a 10%, colectivos ou individuais, os rendimentos estão sujeitos, na entidade que os distribui, a tributação, ao contrário do que está a passar para a opinião pública.\nJá iremos à outra questão, aos accionistas que tenham mantido por mais de um ano uma participação superior a 10% ou um custo de aquisição superior a 20 milhões de euros. Em relação a essa questão, trata-se plenamente de uma dupla tributação, porque esse rendimento é inserido, faz parte dos proveitos, dessa participação social dessas instituições, como sabem, e elas estão sujeitas a IRC. É uma condição, que só não entram quando estão sujeitas a IRC. Portanto, trata-se de uma verdadeira dupla tributação.\nO Partido Comunista vem, hoje, aqui com esta proposta, e tem um argumento forte. Qual é o argumento forte? O de que o Governo colocou esta matéria no Orçamento do Estado para 2011.\nSrs. Deputados do Partido Comunista, é indiferente a questão da segurança? Isto é indiferente a quem tem aplicação de capital, que conhece as regras do jogo durante todo o ano, para as suas opções de investimento e para as suas opções na colocação de capitais? Não é indiferente, obviamente! Quem diz que é indiferente não tem consciência da volatilidade do próprio capital.\nSabemos que temos uma economia em dificuldade, mas queremos uma economia que seja sustentável, queremos que o capital não fuja de Portugal, mas que, bem pelo contrário, porque bem precisamos dele, esteja aqui, no nosso País."
+    },
+    {
+      "utterance_id": 204,
+      "order": 204,
+      "page_start": 33,
+      "speaker": {
+        "id": 2052,
+        "name": "Jorge Duarte Gonçalves Da Costa",
+        "party": "BE",
+        "string": "O Sr. Jorge Duarte Costa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não vai fugir todo!"
+    },
+    {
+      "utterance_id": 205,
+      "order": 205,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Os nossos problemas hoje, na Europa e no mundo, são problemas de liquidez.\nNão devemos, com as nossas atitudes precipitadas, criar a descredibilização e o afastamento daqueles que arriscam e colocam os seus dinheiros, e isso tem a ver exactamente com a questão, que aqui foi referida, do ano fiscal. Devemos trabalhar tendo em consideração o ano fiscal.\nAliás, esta proposta do Partido Comunista tem uma particularidade: ainda que fosse aprovada, na prática, não seria sequer exequível neste ano. Quem é que acredita que um projecto de lei aprovado aqui, hoje, na generalidade, que teria de baixar à comissão para discussão na especialidade e que teria, de novo, de ser aprovado, que teria de ir a promulgação»"
+    },
+    {
+      "utterance_id": 206,
+      "order": 206,
+      "page_start": 33,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ah!!»"
+    },
+    {
+      "utterance_id": 207,
+      "order": 207,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "» e de ser publicado em Diário da República, viria a estar em vigor em tempo oportuno, ainda que fosse aprovado? O Partido Comunista sabe disso! O Partido Comunista tem consciência disso! Apressassem-no, se o quisessem!\nMas não! Fizeram-no para criar alguma divisão interna, convencidos de que não estamos unidos no fundamental.\nNós sabemos o nosso caminho, sabemos o que queremos sobre esta matéria!"
+    },
+    {
+      "utterance_id": 208,
+      "order": 208,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não!»"
+    },
+    {
+      "utterance_id": 209,
+      "order": 209,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "» empresas que, desde o início, desenvolveram e programaram a sua actividade de acordo com as regras de jogo que eram conhecidas.\nEsta questão faz-me fazer uma certa história do Partido Socialista.\nSrs. Deputados do Partido Comunista, se, hoje, as mais-valias são tributadas, se esta matéria do capital tem sido tratada deve-se a governos do Partido Socialista. Têm sido os governos do Partido Socialista que, na procura da justiça, têm tido maior equilíbrio na tributação do capital, aproximando-a à tributação do próprio trabalho. Este tem sido o caminho do Partido Socialista.\nMas queremos segurança, que é fundamental nesta matéria. Por isso mesmo, para o ano, no próximo Orçamento do Estado, entendemos e exigimos também um maior esforço às empresas e às próprias SGPS que estavam isentas, passando a estar sujeitas a tributação, nos mesmos condicionalismos de quem tem menos de 10% de participação.\nPortanto, há por parte do Governo e do Grupo Parlamentar do PS um critério de exigência, de contribuição colectiva, de esforço colectivo, não só do cidadão em geral mas também das instituições e das empresas portuguesas. Tem sido esse o nosso caminho, um caminho acertado, um caminho que nos levará garantidamente a uma maior justiça fiscal no País.\nNão podemos esquecer, em matéria de justiça fiscal, a harmonização fiscal, porque não estamos desenquadrados da Europa. Temos de ter no horizonte esta questão que é comum a todos os países da União Europeia. A regulamentação tem de ser equilibrada. Daí que se exige cada vez mais uma harmonização fiscal na União Europeia. Esse é o caminho, e não outro.\nPortanto, a vossa proposta apenas tem a particularidade de querer, no ano 2010, alterar todas as regras.\nEm matéria de dividendos, não é claro que os dividendos distribuídos antecipadamente não estejam sujeitos a tributação, sobretudo nas SGPS, porque se trata de um rendimento corrente e não de um rendimento extraordinário. Ora, sendo um rendimento corrente, tem um outro quadro de inserção fiscal.\nPor isso, se houver planeamento fiscal inadequado ou indevido, o Governo não deixará de actuar, como é sua exigência."
+    },
+    {
+      "utterance_id": 210,
+      "order": 210,
+      "page_start": 34,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ó Sr. Deputado»!"
+    },
+    {
+      "utterance_id": 211,
+      "order": 211,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Se, porventura, o vosso projecto de lei fosse aprovado, o que resultaria? Resultaria que, em relação a uma questão que, até do ponto de vista fiscal, nos parece que está sujeita a tributação, sobretudo as SGPS, aquilo que estavam a querer dizer é que precisavam de aprovar uma lei para o ano de 2010, porque estão isentas. Não é certo que estejam isentas. Aí estão os juristas para debater. Em nome de dois princípios, não queremos aprovar uma lei, cujo artigo 3.º é inconstitucional, dada a sua retroactividade»\nSim, sim! São rendimentos diferentes. Os rendimentos singulares são diferentes. O pagamento é por conta.\nSó se sabe o rendimento global, no final. Por isso é que há acertos de taxas. São situações diferentes, não confundam. Não confundam a matéria técnica dessa forma. São situações diferentes, não as confundam.\nHá aqui uma matçria que nos parece ser claramente inconstitucional»"
+    },
+    {
+      "utterance_id": 212,
+      "order": 212,
+      "page_start": 35,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Sr. Jerónimo de Sousa (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dois pesos e duas medidas!"
+    },
+    {
+      "utterance_id": 213,
+      "order": 213,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não são duas medidas, são questões diferentes e, portanto, questões diferentes são tratadas de forma diferente, não são tratadas por igual."
+    },
+    {
+      "utterance_id": 214,
+      "order": 214,
+      "page_start": 35,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade. São tratamentos diferentes!"
+    },
+    {
+      "utterance_id": 215,
+      "order": 215,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Este é o problema e por isso não poderíamos, evidentemente, acompanhar o vosso projecto."
+    },
+    {
+      "utterance_id": 216,
+      "order": 216,
+      "page_start": 35,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Desculpa esfarrapada!"
+    },
+    {
+      "utterance_id": 217,
+      "order": 217,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Aliás, estou convencido de que nem o Partido Comunista estava ciente de que ele passaria, porque também já sabiam que não ia ser exequível por falta do próprio prazo para a publicação."
+    },
+    {
+      "utterance_id": 218,
+      "order": 218,
+      "page_start": 35,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para nacionalizar o BPN é de um dia para o outro!"
+    },
+    {
+      "utterance_id": 219,
+      "order": 219,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado José Gusmão."
+    },
+    {
+      "utterance_id": 220,
+      "order": 220,
+      "page_start": 35,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Victor Baptista, mostrou-nos que, ao contrário do CDS-PP, o Partido Socialista sabe a diferença entre dupla tributação económica e dupla tributação jurídica.\nE sabe que a obtenção de lucros e a realização de mais-valias são actos económicos diferentes da distribuição de dividendos. Como o Sr. Deputado Victor Baptista disse, e bem, têm tratamentos diferentes, conforme se trate de contribuintes individuais e contribuintes colectivos."
+    },
+    {
+      "utterance_id": 221,
+      "order": 221,
+      "page_start": 35,
+      "speaker": {
+        "id": 2061,
+        "name": "José Manuel Marques Da Silva Pureza",
+        "party": "BE",
+        "string": "O Sr. José Manuel Pureza (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 222,
+      "order": 222,
+      "page_start": 35,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso é uma realidade que iremos discutir amanhã, quando o Bloco de Esquerda trouxer a este Plenário a proposta de que o princípio da tributação das mais-valias se alargue aos investidores institucionais, como se deve alargar."
+    },
+    {
+      "utterance_id": 223,
+      "order": 223,
+      "page_start": 35,
+      "speaker": {
+        "id": 2061,
+        "name": "José Manuel Marques Da Silva Pureza",
+        "party": "BE",
+        "string": "O Sr. José Manuel Pureza (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 224,
+      "order": 224,
+      "page_start": 35,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas não é sobre dupla tributação que nos referimos quando falamos do negócio da PT."
+    },
+    {
+      "utterance_id": 225,
+      "order": 225,
+      "page_start": 36,
+      "speaker": {
+        "id": 1957,
+        "name": "Maria De Assunção Oliveira Cristas Machado Da Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Assunção Cristas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não foi isso que eu disse!"
+    },
+    {
+      "utterance_id": 226,
+      "order": 226,
+      "page_start": 36,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Deputada Assunção Cristas e Sr. Deputado Victor Baptista, qual foi a primeira vez? É que os 7500 milhões de euros do negócio da Vivo não foram tributados uma vez!"
+    },
+    {
+      "utterance_id": 227,
+      "order": 227,
+      "page_start": 36,
+      "speaker": {
+        "id": 2061,
+        "name": "José Manuel Marques Da Silva Pureza",
+        "party": "BE",
+        "string": "O Sr. José Manuel Pureza (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 228,
+      "order": 228,
+      "page_start": 36,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não se tributou 1 cêntimo!"
+    },
+    {
+      "utterance_id": 229,
+      "order": 229,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 230,
+      "order": 230,
+      "page_start": 36,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dos 7500 milhões de euros que foram para a PT, uma parte foi distribuída aos accionistas sem nunca passar pela mais pequena tributação. Essa é a realidade que estamos aqui a discutir hoje!\nSr. Deputado Victor Baptista, não sei se nos poderá esclarecer, finalmente, sobre as tais contradições das declarações do Governo.\n\nA Sr.ª Deputada Sónia Fertuzinhos pôs-se a falar de floreados. Não há floreados nenhuns! Disse o Primeiro-Ministro: «O Ministro das Finanças já comunicou à Caixa Geral de Depósitos que era essa a nossa posição.» Disse o Ministro das Finanças: «A Caixa Geral de Depósitos não recebeu nenhumas orientações.» Sem quaisquer floreados, Sr. Deputado Vítor Baptista, o Sr. Ministro das Finanças desmentiu aqui, à frente da bancada, aquilo que o Primeiro-Ministro garantiu na entrevista à TVI!! Portanto, nós queremos saber se o Primeiro-Ministro voltou a mentir ao País nesta matéria, porque, essa sim, é uma questão de confiança, é uma questão que, a continuar a repetir-se, essa sim, tem consequências imprevisíveis.\nSobre a questão da antecipação dos dividendos, entristece-nos que o Partido Socialista venha agora utilizar todos os argumentos que rejeitou aquando da tributação das mais-valias em sede de IRS: a fuga de capitais, a retroactividade» Sr. Deputado Victor Baptista, se as normas que constam do Orçamento do Estado forem aplicadas em 2011, já não vai haver fuga de capitais?! Só se elas forem aplicadas em 2010, aí sim, é que vai haver fuga de capitais tremenda?! Não compreendemos estas contradições. Importa-se de nos explicar?"
+    },
+    {
+      "utterance_id": 231,
+      "order": 231,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Victor Baptista."
+    },
+    {
+      "utterance_id": 232,
+      "order": 232,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr. Deputado José Gusmão, comecemos pelo final.\nEm matéria de fuga de capitais, quando são conhecidas as regras do jogo, os investidores sabem qual é o quadro fiscal definido para o ano de 2011. São opções. Não vou aqui hoje dizer o que penso sobre essa matéria. Estamos aqui para depois ler as estatísticas. Estamos aqui para ver os movimentos de capitais.\nHaverá um outro tempo para retirar leitura política e económica sobre essa matéria. Mas, para já, quem investe conhece exactamente o quadro. Não há a menor dúvida sobre isso. Portanto, são coisas diferentes.\nOutra coisa é ter todo o ano, até ao final do mês de Novembro, (começámos agora o mês de Dezembro) e ter um quadro fiscal que é alterado agora e com efeitos retroactivos a Janeiro, que é a proposta que o Partido Comunista queria. São quadros completamente diferentes.\nOutra questão é dizer que estes dividendos não estão sujeitos a tributação. Se me permite, julgo que o Sr. Deputado José Gusmão não compreendeu o que eu disse. Não! Estão sujeitos a tributação! O facto de"
+    },
+    {
+      "utterance_id": 233,
+      "order": 233,
+      "page_start": 37,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Qual foi a tributação, à partida?!"
+    },
+    {
+      "utterance_id": 234,
+      "order": 234,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Estão sujeitos a tributação."
+    },
+    {
+      "utterance_id": 235,
+      "order": 235,
+      "page_start": 37,
+      "speaker": {
+        "id": 1235,
+        "name": "Francisco José Pereira De Assis Miranda",
+        "party": "PS",
+        "string": "O Sr. Francisco de Assis (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 236,
+      "order": 236,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Já resulta hoje, no ano de 2010. Desculpe, mas ou conhece a lei em pormenor ou não conhece. Está a discutir o quê? Apenas política geral? Tem de conhecer pormenorizadamente a lei, tem de conhecer os condicionalismos técnicos. Desculpe, mas estão sujeitos a tributação.\nOs que não estão sujeitos a tributação são os accionistas com participação superior a 10% ou com um custo de aquisição superior a 20 milhões de euros. Esses é que têm um tratamento diferente.\nMas ouça: têm um tratamento diferente porque são sociedades, a maior parte delas com esta dimensão. E essas sociedades têm uma actividade, bem como proveitos e custos. Isto é, obviamente, um proveito dessas empresas.\nO quadro de diferença para o próximo ano é que o Partido Socialista e o Governo exigem mais um esforço a esses empresários, em nome de uma sociedade mais justa. E aquilo que o Sr. Deputado disse, ou seja, de que não são tributados, não é verdade, porque são. Portanto, porque são tributados, o que o Sr. Deputado disse deve ser corrigido.\nNão pode, a partir de um conjunto de intervenções, passar para a opinião pública a ideia de que uns pagam e outros não pagam, porque pagam individualmente, enquanto rendimento, e pagam as empresas. Apenas têm tratamento diferenciado as empresas com um custo de aquisição superior a 20 milhões de euros e tenham mantido por mais de um ano uma participação superior a 10%.\nSão circunstâncias completamente diferentes e a opinião pública merece conhecer em pormenor, porque, na opinião pública, a ideia que fica, pelas vossas intervenções, é que uns pagam e os outros não pagam. Isso é uma pura mentira, tem de ser desmistificada e clarificada.\nO que é, é! O que não é, tem de ser desmentido."
+    },
+    {
+      "utterance_id": 237,
+      "order": 237,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Bernardino Soares."
+    },
+    {
+      "utterance_id": 238,
+      "order": 238,
+      "page_start": 37,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: O debate de hoje e a votação do projecto do PCP vão ser um teste a esta Assembleia da República e aos Deputados. Um teste para saber se há ainda um resto de independência do poder político face ao poder económico, ou se nem nesta cristalina questão da tributação da distribuição de dividendos de empresas como a PT a capacidade de decisão política do Governo e de alguns partidos se encontra completamente capturada pelos grandes grupos económicos."
+    },
+    {
+      "utterance_id": 239,
+      "order": 239,
+      "page_start": 37,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 240,
+      "order": 240,
+      "page_start": 37,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Durante as últimas semanas, foram muitas as declarações de repúdio pela tentativa de fugir à tributação da PT e de outras empresas, incluindo, como foi já aqui referido, da parte do Primeiro-Ministro, do Ministro das Finanças e de muitos Deputados de várias bancadas."
+    },
+    {
+      "utterance_id": 241,
+      "order": 241,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Francisco de Assis."
+    },
+    {
+      "utterance_id": 242,
+      "order": 242,
+      "page_start": 39,
+      "speaker": {
+        "id": 1235,
+        "name": "Francisco José Pereira De Assis Miranda",
+        "party": "PS",
+        "string": "O Sr. Francisco de Assis (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, já enunciámos, com toda a clareza, a nossa posição.\nQuero apenas dizer, respondendo ao Sr. Deputado Bernardino Soares, duas coisas: em primeiro lugar, não deixa de ser uma suprema ironia ver o líder parlamentar do PCP enaltecer aqui as virtudes da liberdade de voto — não deixa de ser uma suprema ironia que não deixa de marcar este debate; e, em segundo lugar, não admito, enquanto líder do Grupo Parlamentar do PS, a nenhum Deputado que lance qualquer suspeita sobre as motivações genuínas das nossas votações.\nO PCP tem toda a legitimidade para discordar, para contrariar, para entender até — se assim for o caso — que não estamos a tomar uma posição de acordo com aquilo que, na sua interpretação, é a salvaguarda do interesse colectivo. É a posição do PCP, e nós respeitamo-la.\nAgora, o que não admito ao Sr. Deputado Bernardino Soares — nem a ninguém! — é que faça uma afirmação como aquela que acabou de fazer, procurando lançar a ideia de que, por detrás da nossa orientação de voto, estão interesses , pressões ou cálculos,»"
+    },
+    {
+      "utterance_id": 243,
+      "order": 243,
+      "page_start": 39,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Subordinação ao poder económico!"
+    },
+    {
+      "utterance_id": 244,
+      "order": 244,
+      "page_start": 39,
+      "speaker": {
+        "id": 1235,
+        "name": "Francisco José Pereira De Assis Miranda",
+        "party": "PS",
+        "string": "O Sr. Francisco de Assis (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» fora da natureza puramente política."
+    },
+    {
+      "utterance_id": 245,
+      "order": 245,
+      "page_start": 40,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Onde está a segurança jurídica de que fala?!"
+    },
+    {
+      "utterance_id": 246,
+      "order": 246,
+      "page_start": 40,
+      "speaker": {
+        "id": 1235,
+        "name": "Francisco José Pereira De Assis Miranda",
+        "party": "PS",
+        "string": "O Sr. Francisco de Assis (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» e projecta uma desconfiança nos investidores que tem de ser contrariada. Essa é a razão pela qual votaremos contra este projecto de lei do PCP e não apresentaremos qualquer proposta no sentido de garantir a entrada em vigor do Orçamento antes da data em que ele deve entrar em vigor, que é em 1 de Janeiro do próximo ano.\nAgora, o que tem de ficar — e fica — deste debate e de todo o debate do Orçamento do Estado é que foi com este Governo e com o governo anterior, foi com o Partido Socialista, que se deram passos significativos e concretos, com efeitos práticos, no sentido de aumentar a tributação incidente sobre os rendimentos do capital aos mais diversos níveis. Não foi, infelizmente, com o contributo do PCP, não foi, infelizmente, com o contributo da extrema-esquerda que, sistematicamente, votou contra propostas do Orçamento do Estado que vão claramente nesse sentido."
+    },
+    {
+      "utterance_id": 247,
+      "order": 247,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queira concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 248,
+      "order": 248,
+      "page_start": 40,
+      "speaker": {
+        "id": 1235,
+        "name": "Francisco José Pereira De Assis Miranda",
+        "party": "PS",
+        "string": "O Sr. Francisco de Assis (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Termino, dizendo o seguinte: nós valorizamos a equidade, valorizamos a visão de um Estado redistributivo, mas também temos a consciência de que, sem um mercado a funcionar com regras que inspirem confiança, nenhuma equidade tem verdadeiros efeitos práticos."
+    },
+    {
+      "utterance_id": 249,
+      "order": 249,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Gusmão."
+    },
+    {
+      "utterance_id": 250,
+      "order": 250,
+      "page_start": 40,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Francisco de Assis, registamos que mais de meia bancada da primeira fila do Partido Socialista interveio neste debate e nenhum dos Srs. Deputados teve a coragem de se pronunciar sobre as contradições do Governo nesta matéria e sobre a mentira do PrimeiroMinistro, que todos os Deputados do Partido Socialista evitaram neste debate.\nE esse silêncio sobre a mentira do Governo nesta matéria é bem a imagem do desconforto da bancada do Partido Socialista»"
+    },
+    {
+      "utterance_id": 251,
+      "order": 251,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 252,
+      "order": 252,
+      "page_start": 40,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» com a situação que aqui vai consagrar para o ano de 2010.\nMas quero perguntar-lhe outra coisa que tem a ver com o seguinte: foi dito pelo Sr. Deputado Francisco Assis que o Partido Socialista ia procurar uma solução técnica, com solidez, do ponto de vista jurídico e fiscal.\nSr. Deputado Francisco Assis, onde está a solução que o Partido Socialista prometeu ao País?"
+    },
+    {
+      "utterance_id": 253,
+      "order": 253,
+      "page_start": 41,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Zero!"
+    },
+    {
+      "utterance_id": 254,
+      "order": 254,
+      "page_start": 41,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Disseram que iriam encontrar uma forma de resolver este problema e de impor justiça fiscal, o que, aliás, mostra que reconhecem que há um problema de justiça fiscal na não antecipação da entrada em vigor destas normas. Prometeram uma solução técnica e não a apresentaram.\nGostávamos de saber porquê."
+    },
+    {
+      "utterance_id": 255,
+      "order": 255,
+      "page_start": 41,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Bernardino Soares."
+    },
+    {
+      "utterance_id": 256,
+      "order": 256,
+      "page_start": 41,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Francisco Assis, respeitamos totalmente as decisões da bancada do Partido Socialista, e foi isso que quis salientar na minha intervenção.\nAgora, há uma responsabilidade política pelas decisões que se tomam. E esta decisão que vamos agora tomar, como o Sr. Deputado há algumas semanas bem disse, é a decisão que vai impor, ou não, a tributação justa a estas empresas que querem fugir a ela.\nOs senhores — o Sr. Deputado e outros Deputados da sua bancada — falaram, muitas vezes, na procura de uma solução técnica para o fazer e, agora, curiosamente, já não falam na solução técnica e dizem que esta norma só pode entrar em vigor em 2011.\nOra, aí é que está a grande contradição — e é essa contradição que temos de assinar.\nSr. Deputado, o que temos de perguntar, neste momento, é a quem interessa a decisão que cada bancada vai tomar. Se este projecto de lei for chumbado, a quem interessa esse chumbo? Interessa aos accionistas, que não vão pagar o imposto."
+    },
+    {
+      "utterance_id": 257,
+      "order": 257,
+      "page_start": 41,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Sr. Jerónimo de Sousa (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É claro!"
+    },
+    {
+      "utterance_id": 258,
+      "order": 258,
+      "page_start": 41,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E aquilo que o Sr. Deputado Francisco de Assis diz que é equidade não é senão uma impunidade que tem de ser combatida e que nós, com esta iniciativa, queremos combater."
+    },
+    {
+      "utterance_id": 259,
+      "order": 259,
+      "page_start": 41,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as e Srs. Deputados, não havendo mais oradores inscritos, vamos passar à votação do diploma apreciado.\nAntes de mais, vamos proceder à verificação do quórum, accionando o respectivo mecanismo.\nPausa.\nEstão presentes 210 Srs. Deputados (86 do PS, 76 do PSD, 17 do CDS-PP, 16 do BE, 13 do PCP e 2 de Os Verdes), pelo que temos quórum de deliberação.\nVamos, então, votar, na generalidade, o projecto de lei n.º 449/XI (2.ª) — Tributa os dividendos distribuídos por sociedades gestoras de participações sociais (Altera o artigo 51.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro, e o artigo 32.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho) (PCP).\nSubmetido à votação, foi rejeitado, com votos contra do PS, do PSD e do CDS-PP, votos a favor do BE, do PCP, de Os Verdes e de 1 Deputado do PS e abstenções de 2 Deputados do PS."
+    },
+    {
+      "utterance_id": 260,
+      "order": 260,
+      "page_start": 41,
+      "speaker": {
+        "id": 2235,
+        "name": "Manuel António Gonçalves Mota Da Silva",
+        "party": "PS",
+        "string": "O Sr. Manuel Mota (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 261,
+      "order": 261,
+      "page_start": 41,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 262,
+      "order": 262,
+      "page_start": 42,
+      "speaker": {
+        "id": 2235,
+        "name": "Manuel António Gonçalves Mota Da Silva",
+        "party": "PS",
+        "string": "O Sr. Manuel Mota (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é para informar que, em meu nome e no do Deputado Horácio Antunes, irei apresentar uma declaração de voto."
+    },
+    {
+      "utterance_id": 263,
+      "order": 263,
+      "page_start": 42,
+      "speaker": {
+        "id": 1212,
+        "name": "Eduardo Arménio Do Nascimento Cabrita",
+        "party": "PS",
+        "string": "O Sr. Eduardo Cabrita (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é igualmente para anunciar que irei apresentar uma declaração de voto sobre esta votação."
+    },
+    {
+      "utterance_id": 264,
+      "order": 264,
+      "page_start": 42,
+      "speaker": {
+        "id": 2418,
+        "name": "José Manuel Pereira Ribeiro",
+        "party": "PS",
+        "string": "O Sr. José Manuel Ribeiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É para o mesmo efeito, Sr. Presidente."
+    },
+    {
+      "utterance_id": 265,
+      "order": 265,
+      "page_start": 42,
+      "speaker": {
+        "id": 2253,
+        "name": "Luís Miguel Morgado Laranjeiro",
+        "party": "PS",
+        "string": "O Sr. Miguel Laranjeiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é para informar a Mesa de que irei apresentar uma declaração de voto."
+    },
+    {
+      "utterance_id": 266,
+      "order": 266,
+      "page_start": 42,
+      "speaker": {
+        "id": 1972,
+        "name": "Catarina Marcelino Rosa Da Silva",
+        "party": "PS",
+        "string": "A Sr.ª Catarina Marcelino (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É para informar que apresentarei uma declaração de voto, Sr.\nPresidente."
+    },
+    {
+      "utterance_id": 267,
+      "order": 267,
+      "page_start": 42,
+      "speaker": {
+        "id": 1936,
+        "name": "Ana Paula Mendes Vitorino",
+        "party": "PS",
+        "string": "A Sr.ª Ana Paula Vitorino (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É para o mesmo efeito, Sr. Presidente."
+    },
+    {
+      "utterance_id": 268,
+      "order": 268,
+      "page_start": 42,
+      "speaker": {
+        "id": 1036,
+        "name": "Defensor Oliveira Moura",
+        "party": "PS",
+        "string": "O Sr. Defensor Moura (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é para informar que vou apresentar uma declaração de voto sobre o meu voto a favor do projecto de lei do PCP."
+    },
+    {
+      "utterance_id": 269,
+      "order": 269,
+      "page_start": 42,
+      "speaker": {
+        "id": 1330,
+        "name": "Luiz Manuel Fagundes Duarte",
+        "party": "PS",
+        "string": "O Sr. Luiz Fagundes Duarte (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para o mesmo efeito, ou seja, para dizer que apresentarei, na Mesa, uma declaração de voto."
+    },
+    {
+      "utterance_id": 270,
+      "order": 270,
+      "page_start": 42,
+      "speaker": {
+        "id": 1001,
+        "name": "António José Martins Seguro",
+        "party": "PS",
+        "string": "O Sr. António José Seguro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para o mesmo efeito."
+    },
+    {
+      "utterance_id": 271,
+      "order": 271,
+      "page_start": 42,
+      "speaker": {
+        "id": 2429,
+        "name": "Marisa Da Conceição Correia Macedo",
+        "party": "PS",
+        "string": "A Sr.ª Marisa Macedo (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, também peço a palavra para o mesmo efeito."
+    },
+    {
+      "utterance_id": 272,
+      "order": 272,
+      "page_start": 42,
+      "speaker": {
+        "id": 2116,
+        "name": "Nuno André Araújo Dos Santos Reis E Sá",
+        "party": "PS",
+        "string": "O Sr. Nuno Sá (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, também peço a palavra para dizer que vou apresentar, na Mesa, uma declaração de voto."
+    },
+    {
+      "utterance_id": 273,
+      "order": 273,
+      "page_start": 42,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada de Inês de Medeiros, é também para o mesmo efeito?"
+    },
+    {
+      "utterance_id": 274,
+      "order": 274,
+      "page_start": 42,
+      "speaker": {
+        "id": 2022,
+        "name": "Inês De Saint-Maurice De Esteves De Medeiros Vitorino De Almeida",
+        "party": "PS",
+        "string": "A Sr.ª Inês de Medeiros (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É, sim, Sr. Presidente. É também para apresentar uma declaração de voto."
+    },
+    {
+      "utterance_id": 275,
+      "order": 275,
+      "page_start": 42,
+      "speaker": {
+        "id": 1168,
+        "name": "António Alfredo Delgado Da Silva Preto",
+        "party": "PSD",
+        "string": "O Sr. António Silva Preto (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra também para dizer que, em meu nome e no do Deputado Luís Rodrigues, apresentarei uma declaração de voto."
+    },
+    {
+      "utterance_id": 276,
+      "order": 276,
+      "page_start": 42,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Se não houver mais nenhum Sr. Deputado ou Sr.ª Deputada para referir à Mesa que irá apresentar uma declaração de voto, dou por concluídos os trabalhos de hoje.\nA próxima sessão realizar-se-á amanhã, com início às 10 horas, e da ordem do dia, para além da aprovação dos n.os 7 a 19 do Diário, consta a discussão conjunta, na generalidade, dos projectos de lei n.os 224/XI (1.ª) — Revisão da Lei de Bases do Ambiente (PSD), 456/XI (2.ª) — Estabelece as bases da política de ambiente (PCP) e 457/XI (2.ª) — Lei de bases do ambiente (Os Verdes); a discussão, na generalidade, do projecto de lei n.º 450/XI (2.ª) — Segunda alteração ao Decreto-Lei n.º 74/2004, de 26 de Março, que visa garantir a equidade no acesso ao ensino superior (CDS-PP); a discussão conjunta, na generalidade, dos projectos de lei n.os 453/XI (2.ª) — Determina o regime de tributação das mais-valias mobiliárias, aplicável a entidades colectivas (BE) e 455/XI (2.ª) — Tributa as mais-valias mobiliárias realizadas por Sociedades Gestores de Participações Sociais (SGPS), Sociedades de Capital de Risco (SCR), Fundos de Investimento, Fundos de Capital de Risco, Fundos de Investimento Imobiliário em Recursos Florestais, Entidades não Residentes e Investidores de Capital de Risco (ICR) e fixa em 21,5% a taxa aplicável a todas as mais-valias mobiliárias tributadas em sede de IRS e em sede de IRC (Altera o Código do Imposto sobre o Rendimento das"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "5",
+    "legislative_session": "2",
+    "number": "40",
+    "date": "1989-02-16"
+  },
+  "debate_id": "r3_5_2_40_1989-02-16",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 1406,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quorum, pelo que declaro aberta a sessão."
+    }
+  ]
+}

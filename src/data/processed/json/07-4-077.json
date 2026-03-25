@@ -1,0 +1,26 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "7",
+    "legislative_session": "4",
+    "number": "77",
+    "date": "1999-04-25"
+  },
+  "debate_id": "r3_7_4_77_1999-04-25",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2770,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, declaro aberta a sessão solene comemorativa e evocativa do 25.º Aniversário do 25 de Abril de 1974."
+    }
+  ]
+}

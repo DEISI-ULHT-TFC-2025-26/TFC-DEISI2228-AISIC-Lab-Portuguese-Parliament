@@ -1,0 +1,838 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "13",
+    "legislative_session": "1",
+    "number": "1",
+    "date": "2015-10-23"
+  },
+  "debate_id": "r3_13_1_1_2015-10-23",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bom dia a todos, Sr. e Srs. Deputados. \nCumprindo a praxe parlamentar, cabe-me, como líder parlamentar do partido maioritário nesta Câmara, a \nhonrosa tarefa de dar início aos nossos trabalhos e abrir a XIII Legislatura. \nNesta ocasião, e em primeiro lugar, gostaria de saudar o povo português que, de forma ordeira, livre e \ndemocrática, expressou a sua vontade política e também, de forma clara e transparente, elegeu no passado \ndia 4 de outubro os seus representantes na Assembleia da República. \nSaúdo também, por isso, os 230 Deputados que aqui se encontram, felicitando-os pela sua eleição e \ndesejando que possamos todos, em conjunto, na pluralidade das nossas opiniões, construir uma Legislatura \nque leve à vida da nossa comunidade, aos nossos concidadãos mais bem-estar, mais progresso económico e \nmais justiça social. \nUm bom mandato, por isso, para todos e, sobretudo, uma palavra de boas-vindas àqueles que aqui se \nencontram pela primeira vez. \nDo mesmo modo, gostaria também, nesta ocasião, de dirigir uma palavra de reconhecimento e gratidão a \ntodos os que cessaram funções e que serviram Portugal e a democracia na legislatura que agora termina. \nEm particular, é devida uma palavra muito especial à anterior Presidente da Assembleia da República, Dr.ª \nMaria da Assunção Esteves."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 2,
+      "speaker": {
+        "id": 2160,
+        "name": "Teresa De Andrade Leal Coelho",
+        "party": "PSD",
+        "string": "A Sr.ª Teresa Leal Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 2,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O seu exemplo de tolerância, imparcialidade, de competência política e \njurídica e a sua inteligência afetuosa marcaram o mandato que agora termina. \nDevemos-lhe o reconhecimento público e a gratidão pelo prestígio e dignificação que acrescentou à \ninstituição parlamentar. \nResta-me, por fim, e ainda seguindo a praxe parlamentar, sugerir um de nós para presidir interinamente \naos nossos trabalhos. Assim, na ausência da Presidente da Assembleia da República cessante e do Vice-\nPresidente da Assembleia da República cessante representativo do mesmo Grupo Parlamentar, gostaria de \nvos propor para exercer essa função aquele que de entre nós, digo eu, embora não pareça, há mais tempo viu \na luz do dia. Trata-se, ademais, de um parlamentar experiente e respeitado e que, por isso mesmo, não \nencontrou qualquer objeção na consulta prévia que fiz a todos os demais grupos parlamentares. \nPessoalmente, perdoe-me esta nota, é com redobrado prazer que convido o Sr. Deputado Alberto Martins, \ndo Partido Socialista, meu muito estimado amigo… \nDizia eu que é com redobrado prazer que convido o Sr. Deputado Alberto Martins, do Partido Socialista, \nmeu estimado amigo, a assumir a presidência desta sessão e a conduzir doravante os nossos trabalhos. \nCom o assentimento da Assembleia, assumiu a presidência o Deputado do PS Alberto Martins. \nas"
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. e Srs. Deputados, ao assumir a direção dos trabalhos no início desta sessão \nparlamentar, permitam-me que, por um dever de cortesia, que cumpro com gosto, saúde todos os meus \ncolegas Deputados, no início de funções, de todas as bancadas e de todos os grupos parlamentares, \nnaturalmente, o que é para todos nós uma honra e uma responsabilidade de, nos termos constitucionais, \ncumprirmos o mandato nesta Assembleia representativa de todos os cidadãos portuguesas."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 3,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, o Grupo Parlamentar do PSD indica o Sr. Deputado \nDuarte Pacheco para exercer essa função."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Ferro Rodrigues."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ferro Rodrigues (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, o Grupo Parlamentar do PS indica a Sr.ª Deputada Rosa \nAlbernaz para as mesmas funções. \nTambém com o assentimento da Assembleia, aqueles Deputados ocuparam os seus lugares na Mesa.\nas"
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. e Srs. Deputados, o Sr. Secretário vai proceder à leitura do projeto de resolução \nn.º 1/XIII (1.ª) — Constituição de uma Comissão Eventual de Verificação de Poderes dos Deputados Eleitos, \napresentado pelo PSD, PS, BE, CDS-PP, PCP e Os Verdes. \nTem a palavra o Sr. Secretário, Deputado Duarte Pacheco. \nas"
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Duarte Pacheco)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr. e Srs. Deputados, o projeto de resolução n.º \n1/XIII (1.ª), subscrito por todos os grupos parlamentares, é do seguinte teor: \n«Aos 23 dias do mês de outubro de 2015, os Deputados eleitos na XIII Legislatura da Assembleia da \nRepública deliberam constituir uma Comissão Eventual de Verificação de Poderes dos Deputados eleitos \nconforme relação constante da ata de apuramento geral, da Comissão Nacional de Eleições, a qual se \nmanterá em funcionamento até que se constitua a comissão competente em razão desta matéria. \nA Comissão Eventual será constituída pelos seguintes Srs. Deputados: \nSeis membros designados pelo Partido Social Democrata: \n— José Matos Correia; \n— Miguel Santos; \n— Sérgio Azevedo; \n— Clara Marques Mendes; \n— Carlos Abreu Amorim; \n— Ângela Guerra. \nCinco membros designados pelo Partido Socialista: \n— Filipe Neto Brandão; \n— Inês de Medeiros; \n— Isabel Santos; \n— João Paulo Correia; \n— Pedro Delgado Alves. \nUm membro designado pelo Bloco de Esquerda: \n— Jorge Costa. \nUm membro designado pelo Partido Popular: \n— Abel Lima Baptista. \nUm membro designado pelo Partido Comunista Português: \n— António Filipe."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o projeto de resolução está em apreciação. \nPausa. \nNão havendo pedidos de palavra, creio que posso interpretar o silêncio como a aquiescência da \npossibilidade de passarmos, desde já, à votação. \nVamos, então, votar o projeto de resolução n.º 1/XIII (1.ª) — Constituição de uma Comissão Eventual de \nVerificação de Poderes dos Deputados Eleitos, subscrito por todos os grupos parlamentares. \nSubmetido à votação, foi aprovado por unanimidade. \nSrs. Deputados, vamos interromper os nossos trabalhos, para que a Comissão possa reunir na Sala 1. \nRetomaremos os trabalhos às 15 horas. \nEram 10 horas e 28 minutos. \nSrs. Deputados, vamos reiniciar os nossos trabalhos. \nEram 15 horas e 7 minutos. \nSrs. Deputados, pedia ao Sr. Deputado Duarte Pacheco o favor de proceder à leitura do relatório e parecer \napresentado pela Comissão Eventual de Verificação de Poderes dos Deputados Eleitos. \nTem a palavra o Sr. Secretário, Deputado Duarte Pacheco. \nas"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Duarte Pacheco)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr. e Srs. Deputados, o relatório e parecer \napresentado pela Comissão Eventual de Verificação de Poderes dos Deputados Eleitos foi aprovado por \nunanimidade pela Comissão e é do seguinte teor: \n«1 — Aos 23 dias de outubro de 2015, pelas 10 horas e 45 minutos, na sala 1 do Palácio de São Bento, \nreuniu a Comissão Eventual de Verificação de Poderes dos Deputados Eleitos, para proceder à verificação \ndos poderes dos Deputados eleitos no dia 4 de outubro de 2015 para a Assembleia da República — XIII \nLegislatura. \n2 — Iniciada a reunião, a Comissão deliberou eleger a Mesa da Comissão constituída pelo Deputado José \nde Matos Correia, do Grupo Parlamentar do PSD, Presidente, e pela Deputada Isabel Santos, do Grupo \nParlamentar do PS, Vice-Presidente. \n3 — Foi seguidamente deliberado nomear Relator a Deputada Ângela Guerra, do Grupo Parlamentar do \nPSD. \n4 — Compulsados o processo e os demais elementos enviados pela Comissão Nacional de Eleições, \ndesignadamente as atas de apuramento geral das eleições para a Assembleia da República, ali inclusas, \nconstatou-se a regularidade formal da atribuição dos mandatos, conforme o Mapa Oficial n.º 2-B/2015, da"
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, penso que não há objeções, pelo que este relatório e parecer está \naprovado pelo Plenário. \nVamos, agora, proceder à eleição do Presidente da Assembleia da República."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 6,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 6,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, queria apenas esclarecer que não se trata de um \ncaso de substituição. \nA Sr.ª Deputada Ana Rita Bessa não foi chamada e foi eleita diretamente pelo círculo \neleitoral de Lisboa, por onde também foi eleito o Sr. Deputado Paulo Sacadura Cabral Portas, neste momento \nVice-Primeiro-Ministro."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço ao Sr. Deputado Duarte Pacheco para proceder à retificação da lista que foi \napresentada e para chamar a Sr.ª Deputada eleita para que proceda à votação."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Duarte Pacheco)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, houve, de facto, uma falha na lista que nos foi \ndistribuída, porque ainda constava o nome do Sr. Deputado Paulo Sacadura Portas que, sabemos, está \nsuspenso por funções públicas. \nPausa. \nCom a minha votação e a da Sr.ª Deputada Ana Rita Bessa, fica concluído o processo de votação."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, encerrada a votação, interrompemos a sessão para a contagem dos \nvotos, sendo os responsáveis pelo escrutínio os Srs. Deputados Secretários da Mesa. \nEstá interrompida a sessão. \nEram 15 horas e 41 minutos. \nSrs. Deputados, declaro reaberta a sessão. \nEram 16 horas e 1 minuto."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. e Srs. Deputados: Começo por saudar a Presidente cessante, Dr.ª Assunção \nEsteves, que, com o seu humanismo e a sua competência, soube dignificar o Parlamento e o cargo de \nPresidente da Assembleia da República num tempo complexo e numa Legislatura muito exigente. \nSaúdo também todos os Srs. Deputados eleitos, desejando-lhes os maiores sucessos no exercício dos \nseus mandatos agora que arranca a XIII Legislatura. as\nSaúdo todas as funcionárias e todos os funcionários da Assembleia da República e cumprimento as Sr. e \nos Srs. Jornalistas que trabalham quotidianamente connosco. \nO arranque de uma legislatura é um momento de renovada esperança e é sempre um momento bastante \nespecial para aqueles que aqui chegam pela primeira vez com a mais nobre das missões: representar os \nportugueses na Assembleia da República. \nLembro-me bem do dia em que assumi pela primeira vez o meu mandato de Deputado. Infelizmente já \npassaram quase 30 anos desde esse momento, embora com muitas interrupções. \nRelembro alguns Deputados que me marcaram em vários momentos e funções: Raúl Rêgo, Jaime Gama, \nManuel Alegre, Barbosa de Melo, Mota Amaral, Almeida Santos, Silva Lopes, João Cravinho, Basílio Horta, \nPacheco Pereira, Lobo Xavier e tantos outros que, injustamente, não estou, neste momento, a citar. \nQuero dizer-vos que a honra que senti no primeiro dia em que me sentei nestas bancadas como Deputado \né a mesma que sinto hoje ao merecer a confiança do vosso voto para exercer o cargo de Presidente da \nAssembleia da República. Espero estar à altura do legado que me é deixado pelos Presidentes que me \nantecederam e do seu exemplo de cultura democrática e de cooperação institucional. as \nSerei o Presidente de todas as Sr. Deputadas e de todos os Srs. Deputados. as\nSr. e Srs. Deputados: A Assembleia da República é um órgão de soberania que ocupa um lugar \ninsubstituível no nosso sistema político democrático. É neste Hemiciclo que a vontade soberana, expressa \npelo voto, de todas as portuguesas e de todos os portugueses se encontra representada na composição das \nbancadas dos diferentes partidos políticos. É por aqui que passa a iniciativa legislativa e a aprovação das leis. \nÉ a Assembleia da República o espaço por excelência da fiscalização da ação governativa, mas é também \naqui que está o centro dos grandes debates políticos. E é, por isso, este o espaço decisivo de expressão das \ndiferenças, mas também da construção de compromissos e de equilíbrios, sempre decisivos para sustentar os \ngrandes avanços do nosso País."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD e do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Oh!…"
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "… repito, muitos destes sinais de insatisfação com as instituições democráticas dizem \nrespeito, em primeiro lugar, à insatisfação com a própria situação económica e social do País. \nO processo de ajustamento económico que vivemos deixou feridas sociais que importa sarar com urgência. \nEstou a pensar na pobreza, no desemprego, nas desigualdades e na emigração indesejada. \nNenhuma economia cresce de forma justa e partilhada se deixar para trás a maioria das pessoas. \nNenhuma democracia se consolida com uma classe média a encolher. As sociedades mais prósperas e \ncompetitivas do mundo são sociedades coesas e solidárias com altos níveis de qualificação e inovação. \nTemos de trazer de volta os valores da solidariedade e da inovação às instituições democráticas. Estes têm \nsido, e continuarão a ser, os motivos dos combates da minha vida. as\nSr. e Srs. Deputados, além das melhorias económicas e sociais, os portugueses esperam por mudanças \nno sistema político, mudanças que lhes tragam mais poder de escrutínio e de participação e mudanças, \ntambém, na cultura dominante dos agentes políticos. \nA vivacidade do debate e a plena expressão das diferenças é compatível com uma cultura de respeito \nideal. Nos últimos anos, tão difíceis, teria sido importante em vários momentos ter sabido preservar essa \ndistinção e encontrar espaços de negociação e de compromisso. \nTer boa política é meio caminho andado para ter boas políticas e bons resultados. Precisamos, \nurgentemente, de consolidar uma nova democracia de proximidade, precisamos de encontrar formas de \ngarantir que os cidadãos têm mais influência na escolha de cada um dos seus representantes, sempre no \nrespeito escrupuloso pela proporcionalidade. Precisamos de mais transparência no exercício de cargos \npúblicos. Precisamos de tornar o Estado e os seus serviços mais próximos dos cidadãos. \nA Assembleia da República deve o palco destes grandes debates políticos. as\nSr. e Srs. Deputados: No próximo ano comemoram-se os 40 anos da aprovação da Constituição da \nRepública Portuguesa. Essa data merece uma celebração especial. Celebrar a Constituição não é um mero \nritual, é lembrar à atualidade o espírito constitucional de 1976."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ah!…"
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "… e de avanços sociais. A medida do êxito é termos, daqui a quatro anos, uma \ndemocracia mais próxima das nossas ambições. \nMuito obrigado. \nPara uma intervenção, tem a palavra o Sr. Deputado Luís Montenegro. \nas"
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 10,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. e Srs. Deputados: Hoje foi quebrada uma regra, \numa tradição de sempre da democracia portuguesa."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD e do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 10,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Lamento que, pela primeira vez, um Presidente da Assembleia da \nRepública não tenha saído do partido ou da coligação que venceu as eleições e lamento que o Sr. Deputado \nEduardo Ferro Rodrigues tenha sido eleito em confronto com esta tradição."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD e do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 10,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não obstante, quero cumprimentar o novo Presidente da Assembleia da \nRepública com respeito e com fair play democrático. \nEm democracia, quando há eleições, quem tem mais votos vence e quem tem menos votos perde. \nEm democracia, e na nossa democracia, sempre foi assim: quem tem mais votos vence e governa, neste \ncaso, vence e dirige os trabalhos; quem tem menos votos, constitui-se como oposição, e, neste caso, respeita \na direção dos trabalhos."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exatamente! \nas"
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 10,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. e Srs. Deputados, é isto que o povo espera de todos nós! Estamos \na iniciar uma legislatura — mais uma — de grande exigência e de grande complexidade. Os tempos que nos \nesperam não são tempos fáceis. O País empreendeu um caminho de recuperação económica e social que não \ndeve ser travado. Mais: o povo não quis que fosse travado!"
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem! \nas"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 10,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E, neste início de Legislatura, quero dizer às Sr. e aos Srs. Deputados \ne ao Sr. Presidente da Assembleia da República que cabe a todos nós a responsabilidade de aceitar a decisão \ndo povo soberano, que expressou a sua vontade política nas últimas eleições de 4 de outubro."
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE, do PCP e de Os Verdes",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 10,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nessas eleições, o povo escolheu o programa político da coligação \nPortugal à Frente, do PSD e do CDS-PP, para servir de base à ação governativa. É verdade que não confiou a \nesta coligação um apoio parlamentar que configurasse uma maioria absoluta dos mandatos, o que faz com"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 11,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço, por isso, a todos os parlamentares e a todos os partidos: respeite-\nse a vontade do povo! Respeite-se a forma, clara e inequívoca, como ela foi expressa! Nós aqui estaremos, \nnesta bancada, com o nosso parceiro de coligação, para suportar o Governo de Portugal e para conseguir, no \nParlamento, os entendimentos que forem necessários para não desperdiçarmos o esforço feito. \nSr. Presidente, quero terminar, dirigindo-lhe uma palavra, com toda a frontalidade. Repito: não obstante ter \nsido quebrada uma tradição bem instalada na nossa democracia, nós respeitamos e temos o fair play\ndemocrático para reconhecer a legitimidade da sua eleição e para lhe desejar um bom mandato e boa sorte no \nexercício dessa função. \nMas também lhe quero dizer que não começou bem o seu mandato como Presidente da Assembleia da \nRepública,…"
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Oh!…"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 11,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… porque fiquei — e quero dizê-lo com toda a franqueza e frontalidade \n— com a sensação de que as garantias de isenção e de imparcialidade, que devem estar na base do exercício \nda função de Presidente da Assembleia da República estão ainda longe de ser garantidas. \nDesejo, por isso, que o contágio da recente campanha eleitoral e o contágio do que tem sido a vida política \nnos últimos dias de que, infelizmente, V. Ex.ª foi atacado não se projete no resto do seu mandato e que \npossamos, todos, respeitar, mais uma vez vos digo, a vontade soberana do povo, que se expressou de forma \nlivre e democrática no passado dia 4 de outubro."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tal como o Sr. Deputado, também eu podia tecer considerações sobre a isenção e o \nfair play, mas prefiro não as fazer neste momento, devido ao simbolismo da hora que vivemos. \nPara uma intervenção, tem a palavra o Sr. Deputado António Costa. \nas"
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 12,
+      "speaker": {
+        "id": 1167,
+        "name": "António Luís Santos Da Costa",
+        "party": "PS",
+        "string": "O Sr. António Costa (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. e Srs. Deputados: Em primeiro lugar, neste início de \ntrabalhos parlamentares, quero dirigir a todas e a todos os colegas um cordial cumprimento, e faço-o com uma \nemoção particular de regressar a esta primeira fila desta bancada, volvidos 11 anos desde que cessei o meu \núltimo mandato parlamentar, e a todas e a todos quero desejar as maiores felicidades e sucessos no exercício \ndeste mandato, que é o nobre mandato que nos foi confiado diretamente, a todos e a cada um de nós, pelos \neleitores e cidadãos de Portugal. Desejo a todos as maiores felicidades para o exercício do mandato. \nQuero, naturalmente, dirigir uma saudação particular ao Sr. Deputado Fernando Negrão, a quem me ligam \nlaços de estima pessoal, com quem tive o gosto de trabalhar na Câmara Municipal de Lisboa e a quem saúdo \nnesta disputa democrática que aqui travámos, porque, em democracia, o mérito não se apura pelo resultado \ndos votos,… \n… o mérito resulta da qualidade, da convicção e da dignidade com que cada um trava o combate político, \ne, no Deputado Fernando Negrão, quero saudar a dignidade, o empenho e a convicção com que trava o seu \ncombate político. \nE é, naturalmente, com especial satisfação, que dirijo uma saudação ao Sr. Deputado Eduardo Ferro \nRodrigues por esta sua eleição para Presidente da Assembleia da República, com uma maioria muito \nexpressiva, que assegurou a sua eleição à primeira volta, para nosso orgulho e satisfação. \nO Deputado Ferro Rodrigues, nosso Presidente, é um homem que ao longo de toda a sua vida demonstrou \nbem como é possível, em todas as condições, lutar por aquilo que é fundamental no combate político, o \ncombate pelas ideias, o combate em nome das convicções. Fê-lo nos tempos da oposição à ditadura, \nenquanto dirigente estudantil; fê-lo enquanto líder e militante de partidos sem expressão parlamentar; fê-lo \ncomo Deputado nesta Casa; fê-lo como Secretário-Geral do Partido Socialista; fê-lo como membro do Governo \ne tenho a certeza de que o continuará a fazer, como segunda figura do Estado português, honrando a nossa \ndemocracia e prestigiando a nossa República. Desejo-lhe as maiores felicidades no exercício do seu mandato. \nHoje, o início dos nossos trabalhos é a primeira expressão institucional da XIII Legislatura e a primeira \nexpressão institucional daquilo que foram os resultados eleitorais do passado dia 4 de outubro. \nNesta sua primeira votação, a eleição para Presidente da Assembleia da República, a Assembleia da \nRepública expressou, de um modo inequívoco, a maioria da vontade do conjunto dos portugueses de que essa \nXIII Legislatura seja marcada, desde o seu início, por uma Legislatura de mudança e de construção de um \nnovo estádio na nossa democracia."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD e do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Oh!"
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 13,
+      "speaker": {
+        "id": 1167,
+        "name": "António Luís Santos Da Costa",
+        "party": "PS",
+        "string": "O Sr. António Costa (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Hoje passou a ser o Presidente da Assembleia da República, o Presidente \nque representa a Casa da democracia, que representa o órgão de soberania onde está depositada a vontade \nsoberana do povo português e estou certo de que saberá exercer esta função não simplesmente como um de \nnós mas, certamente, como o Presidente de todas e de todos os Deputados à Assembleia da República, e não \nsó da grande maioria que permitiu a sua eleição inequívoca à primeira volta. \nBom mandato, Sr. Deputado Eduardo Ferro Rodrigues."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Pedro Filipe Soares, pelo BE. \nas"
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 13,
+      "speaker": {
+        "id": 2134,
+        "name": "Pedro Filipe Gomes Soares",
+        "party": "BE",
+        "string": "O Sr. Pedro Filipe Soares (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente da Assembleia da República, Sr. e Srs. Deputados: \nEm primeiro lugar, uma saudação especial ao Sr. Presidente pelo mandato que agora inicia. Sabendo que ele \nserá exigente, sabemos também que estará à altura de cumprir os pergaminhos exigidos no cumprimento do \nseu mandato. \nTodas e todos os Deputados estão também de parabéns e por isso permita-me, nesta intervenção, ao \ncumprimentá-lo a si, que cumprimente todas e todos os Deputados, estreantes e aqueles que repetem o seu \nmandato, porque a todas e a todos é exigido o máximo em cumprimento da República. \nEsta sala diz muito e explica bem como está sobre os nossos ombros uma enorme responsabilidade. \nOlhando até para as estátuas que aqui estão nesta sala vemos que, em primeiro lugar, está representada a \nConstituição e a Lei, e depois a Jurisprudência, a Eloquência, a Justiça e a Diplomacia. E porque é de \ndemocracia que falamos em cada uma das nossas escolhas, em democracia mandam os votos e não as \ntradições."
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 14,
+      "speaker": {
+        "id": 2134,
+        "name": "Pedro Filipe Gomes Soares",
+        "party": "BE",
+        "string": "O Sr. Pedro Filipe Soares (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não há nenhuma destas estátuas que seja dedicada às tradições \nparlamentares. \nPor isso, se na sua eleição houve uma tradição bem instalada que acabou por ser quebrada, então, \nesperemos que não seja a única que, por estes dias, tenha esse fim. É esse o nosso desejo. \nEm democracia manda quem tem mais votos, mas em democracia manda quem escolhe os votos. Uma \npessoa, um voto, todas e todos iguais, todos os votos valem o mesmo. \nEm democracia não há votos de primeira nem votos de segunda. Por isso, se alguma regra democrática foi \nquebrada por estes dias foi ontem,…"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 14,
+      "speaker": {
+        "id": 2061,
+        "name": "José Manuel Marques Da Silva Pureza",
+        "party": "BE",
+        "string": "O Sr. José Manuel Pureza (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 14,
+      "speaker": {
+        "id": 2134,
+        "name": "Pedro Filipe Gomes Soares",
+        "party": "BE",
+        "string": "O Sr. Pedro Filipe Soares (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… quando um Presidente da República se dirigiu ao País e disse que, \nafinal, havia votos de primeira e votos de segunda. Nós não aceitamos essa afirmação. \nTermino, Sr. Presidente da Assembleia da República, dirigindo-lhe a si estas palavras mas também, \natravés de si, a todas e todos os Deputados. Daremos toda a lealdade institucional a si e a qualquer uma ou \nqualquer um dos Deputados, valeremos sempre pelos nossos votos e pelas nossas consciências, cumprindo a \nConstituição da República Portuguesa e garantindo, pelas nossas ideias, que nos bateremos por ela enquanto \nas nossas forças existirem, mas garantindo também que nunca nos esquecemos que, na democracia, são os \nvotos e a composição das maiorias por eles ditadas que regem as nossas regras. \nPor isso, da nossa parte, há toda a disponibilidade para trabalhar em prol da Constituição, em prol da \nRepública e, acima de tudo e de todos, em prol das pessoas, porque é esse o nosso mandato."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Nuno Magalhães, do CDS-PP. \nas"
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 14,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. e Srs. Deputados: Não posso nem quero deixar \nde começar esta intervenção por, de forma clara, dizer que, no entender do CDS, acabámos de quebrar uma \ntradição de 40 anos, em que o Presidente da Assembleia da República sempre emanou da bancada com o \nmaior número de Deputados."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 14,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É objetivamente falso!"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 14,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Presidente falou do ex-Presidente Jaime Gama. Pois bem, Sr. \nPresidente, devo dizer-lhe que o Presidente Jaime Gama emanou de uma Assembleia da República que tinha"
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Oliveira, do PCP. \nas"
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 15,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. e Srs. Deputados: Permitam-me que inicie a minha as\nintervenção deixando um cumprimento a todas as Sr. e Srs. Deputados que foram eleitos, em particular, ao \nSr. Deputado Fernando Negrão, que participou no sufrágio cujo desfecho agora se regista, e, obviamente, Sr. \nPresidente, uma saudação pela sua eleição enquanto Presidente da Assembleia da República, cumprindo o \npreceito constitucional de eleição por maioria absoluta dos votos dos Deputados, que é o preceito \nconstitucional relevante para o sufrágio que conduziu à sua eleição, numa eleição que tem registado práticas \ndiferentes. \nE porque julgo que esse registo, apesar de não o ter previsto inicialmente, deve ficar feito, lembro a prática \nde eleição de presidentes oriundos do grupo parlamentar com o maior número de Deputados mas lembro \ntambém que tivemos um Presidente eleito oriundo de um grupo parlamentar que não foi o mais votado na \naltura, o Grupo Parlamentar do CDS, nuns casos e noutro respeitando o preceito constitucional…"
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 15,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Era uma coligação!"
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 15,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… relevante para a eleição em apreço, que é o de recolher a maioria \nabsoluta dos votos dos Deputados em exercício de funções, preceito esse que o Sr. Presidente cumpriu e, \nportanto, quero saudá-lo pela sua eleição. \nA eleição do Sr. Presidente da Assembleia da República tem, naturalmente, um significado simbólico, mas \ntambém um significado político, porque ela dá expressão à nova correlação de forças que resulta das eleições \ndo passado dia 4 de outubro e esse facto deve ser também registado. \nQueria dizer-lhe, Sr. Presidente da Assembleia da República, que, da parte do Grupo Parlamentar do PCP, \nlhe desejamos as maiores felicidades e sucessos na condução dos trabalhos da Assembleia da República e \nnas funções da presidência da Assembleia da República, garantindo-lhe que, tal como os seus antecessores, \ncontará, da parte do Grupo Parlamentar do PCP, com toda a colaboração, no respeito pelos princípios da \nlealdade, da frontalidade e da honestidade, que, de resto, têm regido o relacionamento com anteriores \nPresidentes da Assembleia da República e com todos os outros Srs. Deputados eleitos. \nÉ certo que as dificuldades e os problemas que marcam o dia a dia do povo português e a realidade \nnacional não deixarão, certamente, de colocar exigências acrescidas à Assembleia da República, \nparticularmente nas decisões que há de ter de ser chamada a tomar relativamente ao destino do nosso País. \nDa parte do Grupo Parlamentar do PCP, contando, obviamente, com um grupo parlamentar renovado e \nreforçado, continuaremos a dar o contributo relevante que sempre temos dado para que os problemas dos"
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção em representação do Partido Ecologista «Os Verdes», tem a \npalavra a Sr.ª Deputada Heloísa Apolónia. \nas"
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 16,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. e Srs. Deputados: Se me permite, Sr. as\nPresidente, em primeiro lugar, em nome do Grupo Parlamentar de «Os Verdes», quero saudar todas as Sr. e \ntodos os Srs. Deputados agora eleitos, designadamente aqueles que transitaram da Legislatura passada para \nesta Legislatura. Vejo também que há muitos Deputados e Deputadas que, não tendo estado na anterior \nLegislatura, já estiveram noutras, tendo agora regressado, e vejo também, com satisfação, que existem muitas as\nSr. e Srs. Deputados que pela primeira vez entram na Assembleia da República, no exercício destas \nfunções. Queria, portanto, saudá-los e saudá-las, a todos e a todas. \nNaturalmente, queria também dirigir um cumprimento muito especial ao Sr. Presidente da Assembleia da \nRepública agora eleito e dizer-lhe, em nome do Grupo Parlamentar de «Os Verdes», que lhe desejamos os \nmaiores sucessos e os maiores êxitos no exercício do cargo que agora inicia. \nConte connosco, Sr. Presidente da Assembleia da República, para uma questão que nos parece \nfundamental e que talvez nesta Legislatura que agora se inicia não seja de somenos importância para \ndignificar a Assembleia da República. \nPara dignificar a Assembleia da República, Sr. Presidente, talvez seja importante clarificar, desde já, uma \nquestão a termos em conta também nesta Legislatura: as últimas eleições legislativas serviram para eleger \n230 Deputados para a Assembleia da República e não um Primeiro-Ministro. \nEsta é uma questão crucial para que possamos formular os nossos raciocínios. E desses 230 Deputados \neleitos surge, de facto, um novo quadro parlamentar e uma nova correlação de forças na Assembleia da as\nRepública — não vale a pena fingir que não é assim, Sr. e Srs. Deputados! — e é com este quadro que \nvamos trabalhar nesta mesma Legislatura. \nE, nesta nova correlação de forças, talvez seja importante evocarmos a última campanha eleitoral (não é \npreciso ir muito mais longe) e percebermos o seguinte: houve forças políticas que se comprometeram com \numa continuidade de políticas e houve forças políticas que se comprometeram perante os eleitores com uma as\nmudança de políticas. As forças que se comprometeram com essa continuidade, Sr. e Srs. Deputados, \nperderam a maioria absoluta na Assembleia da República; as forças que se comprometeram com uma \nmudança de políticas têm hoje a maioria dos Deputados na Assembleia da República. Importa não \nesquecermos isto. \nas\nÉ que é isto, Sr. Presidente, Sr. e Srs. Deputados, que marcará esta XIII Legislatura, independentemente \nda vontade do Sr. Presidente da República. \nas"
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Muito obrigado, Sr. e Srs. Deputados, pelas vossas intervenções. Realmente \nvivemos tempos novos, tempos diferentes. Nem tudo é tão consensual nas palavras como antes, mas o"
+    }
+  ]
+}

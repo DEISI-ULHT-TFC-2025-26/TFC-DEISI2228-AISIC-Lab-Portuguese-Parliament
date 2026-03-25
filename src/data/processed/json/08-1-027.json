@@ -1,0 +1,824 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "8",
+    "legislative_session": "1",
+    "number": "27",
+    "date": "2000-01-15"
+  },
+  "debate_id": "r3_8_1_27_2000-01-15",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados,\ntemos quórum, pelo que declaro aberta a sessão.\nEram 10 horas e 30 minutos.\nEstavam presentes os seguintes Srs. Deputados:\nPartido Socialista (PS):\nAgostinho Moreira Gonçalves\nAires Manuel Jacinto de Carvalho\nAlberto Bernardes Costa\nAlexandre António Alves Chaves\nAntónio Alves Marques Júnior\nAntónio Alves Martinho\nAntónio Bento da Silva Galamba\nAntónio de Almeida Santos\nAntónio Fernandes da Silva Braga\nAntónio Fernando Menezes Rodrigues\nAntónio Jorge Freire de Brito Calvete\nAntónio José Gavino Paixão\nAntónio Manuel Dias Baptista\nAntónio Manuel do Carmo Saleiro\nArtur Miguel Claro da Fonseca Mora Coelho\nArtur Rodrigues Pereira dos Penedos\nBruno Renato Sutil Moreira de Almeida\nCarlos Alberto\nCarlos Alberto Dias dos Santos\nCarlos José Gonçalves Vieira de Matos\nCarlos Manuel Luís\nCasimiro Francisco Ramos\nCláudio Ramos Monteiro\nDinis Manuel Prata Costa\nEduarda Maria Castro de Sousa\nEduardo Ribeiro Pereira\nFernando Manuel de Jesus\nFernando Pereira Serrasqueiro\nFilipe Mesquita Vital\nFrancisco José Pereira de Assis Miranda\nFrancisco Xavier Pablo da Silva Torres\nGonçalo Matos Correia de Almeida Velho\nHelena Maria Mesquita Ribeiro\nIsabel Maria Batalha Vigia Polaco d’Almeida\nIsabel Maria dos Santos Barata\nJamila Bárbara Madeira e Madeira\nJoão Alberto Martins Sobral\nJoão Cardona Gomes Cravinho\nJoão Carlos da Costa Ferreira da Silva\nJoão Francisco Gomes Benavente\nJoão Macedo Lourenço\nJoão Pedro da Silva Correia\nJoão Pedro de Aleluia Gomes Sequeira\nJoão Rui Gaspar de Almeida\nJoaquim Sebastião Sarmento da Fonseca Almeida\nJoel Eduardo Neves Hasse Ferreira\nJorge Lacão Costa\nJorge Manuel Gouveia Strecht Ribeiro\nJosé Adelmo Gouveia Bordalo Junqueiro\nJosé Afonso Teixeira de Magalhães Lobão\nJosé Aurélio da Silva Barros Moura\nJosé Carlos Correia Mota de Andrade\nJosé Carlos da Cruz Lavrador\n\nJosé Carlos das Dores Zorrinho\nJosé Carlos Lourenço Tavares Pereira\nJosé Carlos Pinto Basto Mota Torres\nJosé da Conceição Saraiva\nJosé de Matos Leitão\nJosé Eduardo Vera Cruz Jardim\nJosé Ernesto Figueira dos Reis\nJosé Manuel de Medeiros Ferreira\nJosé Manuel Pires Epifânio\nJosé Manuel Rosa do Egipto\nJosé Manuel Santos de Magalhães\nJosé Miguel Abreu de Figueiredo Medeiros\nJosé Rodrigues Pereira dos Penedos\nJovita de Fátima Romano Ladeira\nLaurentino José Monteiro Castro Dias\nLuís Afonso Cerqueira Natividade Candal\nLuís Miguel Gomes Miranda Teixeira\nLuís Pedro de Carvalho Martins\nLuísa Pinheiro Portugal\nLuiz Manuel Fagundes Duarte\nMafalda Cristina Mata de Oliveira Troncho\nManuel Alberto Barbosa de Oliveira\nManuel António dos Santos\nMargarida Maria Santos Soares da Rocha Gariso\nMaria Amélia do Carmo Mota Santos\nMaria Celeste Lopes da Silva Correia\nMaria Custódia Barbosa Fernandes Costa\nMaria do Carmo de Jesus Amaro Sequeira\nMaria do Céu da Cruz Vidal Lourenço\nMaria do Rosário Lopes Amaro da Costa da Luz Carneiro\nMaria Fernanda dos Santos Martins Catarino Costa\nMaria Helena do Rêgo da Costa Salema Roseta\nMaria Isabel da Silva Pires de Lima\nMaria Isabel Ferreira Coelho de Sena Lino\nMaria José Vidal do Rosário Campos\nMaria Teresa de Oliveira Ferreira Coimbra\nMiguel Bernardo Ginestal Machado Monteiro Albuquerque\nNatalina Nunes Esteves Pires Tavares de Moura\nNelson Madeira Baltazar\nNuno Manuel Pereira Baltazar Mendes\nPaula Cristina Ferreira Guimarães Duarte\nPaulo Alexandre de Carvalho Pisco\nPedro Ricardo Cavaco Castanheira Jorge\nRenato Luís de Araújo Forte Sampaio\nRosa Maria da Silva Bastos da Horta Albernaz\nRosalina Maria Barbosa Martins\nRui do Nascimento Rabaça Vieira\nRui Manuel Leal Marqueiro\nSónia Ermelinda Matos da Silva Fertuzinhos\nVictor Brito de Moura\nVítor Manuel Alves Peixoto\nVítor Manuel Caio Roque\nZelinda Margarida Carmo Marouço Oliveira Semedo\nPartido Social Democrata (PSD):\nAdão José Fonseca Silva\nÁlvaro dos Santos Amaro\nÁlvaro Roque de Pinho Bissaia Barreto\nAna Maria Martins Narciso\nAna Maria Sequeira Mendes Pires Manso\nAntónio da Silva Pinto de Nazaré Pereira"
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o\nSr. Secretário vai ler o expediente."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Artur Penedos)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e\nSrs. Deputados, deram entrada na Mesa, e foram aceites, as\nseguintes iniciativas legislativas: propostas de lei n.os\n11/VIII — Autoriza o Governo a legislar a realização dos\ncensos 2001 e 12/VIII — Dispensa da fiscalização prévia\ndo Tribunal de Contas, sem prejuízo da fiscalização sucessiva, os contratos de aquisição de projectos relativos às\nobras que se venham a realizar no âmbito do euro 2004\npromovidas pelas autarquias locais envolvidas, que baixou\nàs 4.ª e 6.ª Comissões; projectos de lei n.os 66/VIII — Lei\nda liberdade religiosa e da laicização do Estado (BE), que\nbaixou à 1.ª Comissão, 67/VIII — Prevê o plano da rede\nnacional de pistas dedicadas à circulação de velocípedes\n(Os Verdes), que baixou às 4.ª e 6.ª Comissões, 68/VIII —\nLei da criação do município de Fátima (CDS-PP), que\nbaixou à 4.ª Comissão, 69/VIII — Altera o regime de\nfinanciamento dos partidos políticos, coligações e das\ncampanhas eleitorais (CDS-PP), que baixou à 1.ª Comissão, 70/VIII — Criação do concelho de Fátima (PSD), que"
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a\nordem de trabalhos de hoje inclui a discussão de diversas\npropostas de resolução apresentadas pelo Governo concernentes a tratados internacionais.\nQuanto às propostas de resolução n.os 1/VIII — Aprova, para ratificação, o Código Ibero-Americano de Segurança Social e os seus Protocolos Primeiro e Segundo,\nassinado em Madrid, a 19 de Setembro de 1995, e 2/VIII\n— Aprova, para ratificação, a Convenção entre a República Portuguesa e a República da Tunísia para evitar a dupla\ntributação em matéria de impostos sobre o rendimento,\nassinada em Lisboa, a 24 de Fevereiro de 1999, foi entendido em Conferência de Líderes que, não havendo, provavelmente, matéria de fundo a discutir, não seriam distribuídos tempos para a discussão, pelo que vamos dar início\nà apreciação da proposta de resolução n.º 3/VIII — Aprova, para ratificação, a Convenção do Unidroit, sobre Bens\nCulturais Roubados ou Ilicitamente Exportados, assinada\nem Roma, a 24 de Julho de 1995.\nPara apresentar a proposta de resolução, tem a palavra\no Sr. Secretário de Estado dos Negócios Estrangeiros e da\nCooperação."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 4,
+      "speaker": {
+        "id": 1654,
+        "name": "Luís Filipe Marques Amado",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação (Luís Amado)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente,\nSrs. Deputados: Trata-se de uma proposta que não exige,\ncreio, grande discussão por parte da Assembleia e que\nprocura regular matéria que, seguramente, todos os Srs.\nDeputados entenderão pacífica face à necessidade, hoje\nreconhecida, de consagrar mecanismos de regulação mais\nimportantes para a protecção do património nacional dos\nrespectivos Estados.\nEsta proposta de resolução procura, sobretudo, regular\no comércio internacional de obras de arte, o qual tem sido\num dos elementos perturbadores, em muito aspectos, da\nrelação entre Estados mais desenvolvidos e Estados em\ndesenvolvimento, como se tem podido reconhecer, designadamente, no âmbito da negociação da revisão da Convenção de Lomé, em que a formulação de normas que\nregulem esta matéria tem suscitado bastante controvérsia\nentre os pontos de vista manifestados pelos Estados europeus, ex-potências colonizadoras, e os Estados de África,\nCaraíbas e Pacífico, colonizados.\nOra, havendo o entendimento de que esta matéria necessita de uma regulação mais adequada por parte do\nsistema internacional, houve necessidade de rever os\ntermos da Convenção da UNESCO de 1970, já existente,\ne de propor, em 1995, uma nova Convenção sobre Bens\nCulturais Roubados ou Ilicitamente Exportados, que o\nGoverno, agora, apresenta à Assembleia da República,\npara ratificação."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Manuel Ricardo de\nAlmeida.\n\nI SÉRIE — NÚMERO 27"
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 4,
+      "speaker": {
+        "id": 1456,
+        "name": "Manuel Castro De Almeida",
+        "party": "PSD",
+        "string": "O Sr. Manuel Ricardo de Almeida (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A Convenção do Unidroit merece\npor parte do Partido Social Democrata algumas considerações.\nA Convenção do Unidroit, sobre Bens Culturais Roubados ou Ilicitamente Exportados, assinada em Roma, tem\ncomo antecedente a Convenção da UNESCO, aprovada na\nConferência Geral de Paris, em 1970.\nÉ de louvar a existência desta Convenção porque ela\nreflecte a nossa preocupação relativamente ao crescimento\nda circulação ilícita de bens culturais e à falta de harmonização entre os diversos Estados nesta área.\nPara o PSD, é fundamental combater a delapidação dos\nnossos bens culturais, do nosso enorme património, que\nconstitui uma riqueza reconhecida por todos.\nEstamos perante um instrumento fundamental para uma\nmaior intervenção nas trocas internacionais de bens culturais e de salvaguarda de um dos valores fundamentais de\nidentificação de um povo.\nConvém, no entanto, referir que teria sido bom que a\nratificação por parte da Assembleia tivesse surgido mais\ncedo e que continua a existir um problema fundamental\nque a Convenção não resolve. Neste contexto, é fundamental salvaguardar o património cultural nacional, apostando,\npara isso, num esforço acrescido no investimento em\ninvestigação e, acima de tudo, aumentar a capacidade de\nrecuperação e restauro de milhares de elementos patrimoniais que hoje andam à disposição do «amigo do alheio».\nMesmo que a Convenção em questão não resolva estes\nproblemas, estamos perante um contributo decisivo para a\ndefesa do nosso património cultural para que possa circular\nlivre e licitamente, valorizando assim o património da\nhumanidade.\nÉ, no entanto, fundamental aproveitar o momento para\nreforçar a discussão em torno da revisão da Lei de Bases\ndo Património e aumentar o enquadramento de diversos\naspectos aqui referidos.\nÉ fundamental promover um entendimento nesta área,\ntendo em conta que a diversificação da cultura promoverá\no bem-estar da humanidade e o progresso da civilização."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Luiz Fagundes\nDuarte."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 4,
+      "speaker": {
+        "id": 1330,
+        "name": "Luiz Manuel Fagundes Duarte",
+        "party": "PS",
+        "string": "O Sr. Luiz Fagundes Duarte (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente,\nSr.as e Srs. Deputados: Quem visita, hoje, a Acrópole de\nAtenas é confrontado com desdobráveis e cartazes que\nreivindicam o regresso, à luz dos dias ensolarados da velha\nÁtica, dos monumentos e esculturas dali retirados por\npovos invasores e que agora jazem expostos na sombra das\nsalas dos grandes museus do mundo.\nIsto leva-nos a pensar nos muitos monumentos do\nEgipto, de Roma, dos Incas ou dos povos africanos, cuidadosamente incorporados em museus e em colecções privadas e leva-nos também a pensar no túmulo de Inês de Castro, em Alcobaça, que ostenta as marcas do saque a que foi\nsujeito pelos soldados de Napoleão."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 4,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 5,
+      "speaker": {
+        "id": 1330,
+        "name": "Luiz Manuel Fagundes Duarte",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Todos nós acharemos, porventura, que\nos artefactos culturais dos gregos, dos romanos, dos incas,\ndos povos africanos, se teriam perdido ou degradado se,\ndepois de roubados ou de qualquer outro modo retirados\ndos seus locais e enquadramentos originais, não tivessem\nsido incorporados nos grandes museus do mundo onde\nhoje se encontram. Mas não é menos verdade que, quando\nos visitamos nos museus, olhamos para eles como para\ncorpos sem alma — ou seja, como para cadáveres expostos\n— e de certeza que todos nós, portugueses, entendemos a\nirrecuperável vandalização do túmulo de Inês de Castro\ncomo uma agressão à nossa identidade cultural.\nNo entanto, todas as situações que aqui dou como\nexemplos não foram situações ilegais. Não o foram, porque à época não existiam as preocupações que hoje, embora tardiamente, se fazem sentir face à necessidade de se\npreservar o património cultural enquanto fundamento e\ncimento das identidades nacionais. E, como é óbvio, essas\nsituações não foram ilegais, porquanto não existiam, então,\nverdadeiras leis sobre a matéria.\nTenho por isso a honra de apresentar a este Plenário a\nposição do Grupo Parlamentar do Partido Socialista acerca\nda proposta de resolução que o Governo submeteu à Assembleia da República para aprovação e que tem por objecto a ratificação da Convenção do Unidroit, sobre Bens\nCulturais Roubados ou Ilicitamente Exportados, assinada\nem Roma, a 24 de Julho de 1995, em sede de uma conferência diplomática que foi, por feliz coincidência, presidida pelo Embaixador de Portugal em Itália.\nConscientes da importância que a defesa e a valorização do património cultural representa no processo de desenvolvimento nacional, os Governos do Partido Socialista\ntêm demonstrado uma evidente preocupação com a definição e a concretização de uma política cultural que promove\na inventariação, a recuperação, a protecção e a valorização\ndo património cultural português nas suas vertentes material e imaterial. Por isso, qualquer boa iniciativa legislativa\nque tenha esta matéria por objecto merecerá a inequívoca\naprovação do nosso grupo parlamentar. É o caso da convenção objecto desta proposta de resolução, que, em nosso\nentender, só peca pela demora que levou para ser negociada e assinada.\nCom efeito, já em 14 de Novembro de 1970 fora aprovada, durante a XVI Conferência Geral da UNESCO, uma\nconvenção que, apesar de alguns laivos de matiz colonialista, na medida em que reconhecia aos países detentores\nde colónias o direito de disporem dos bens e do património\ncultural dos territórios e povos seus colonizados — razão\npor que alguns artigos da Convenção foram então contestados por países como Cuba, Hungria e Checoslováquia —\ntinha por objectivo a adopção de medidas internacionais\nque proibissem a importação, a exportação e a transferência de propriedade, ilícitas, dos bens culturais dos países\nsignatários, na sequência de uma recomendação anterior,\nde 1964, que determinava que a protecção do património\ncultural, para ser eficaz, deveria ser organizada tanto no\nplano nacional como no plano internacional, exigindo uma\nestreita colaboração entre os Estados.\nEm Portugal — e recorde-se que o nosso país não aderiu à convenção de 1970 —, o principal instrumento legislativo que ainda agora se ocupa da protecção do património cultural português é a Lei n.º 13/85, que, no entanto, é\n\nomissa no que respeita às precauções a tomar nos casos de\nroubo e de exportação ilícita de bens culturais.\nAgora, passados mais de 35 anos sobre a primeira convenção da UNESCO, visando a importância do património\ncultural; passados quase 30 anos sobre a convenção da\nUNESCO que tomava medidas no sentido de proteger o\npatrimónio cultural dos povos e estabelecia normas e critérios para impedir o tráfico internacional de bens culturais;\npassados quase 15 anos sobre a publicação da Lei do Património Cultural português;..."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, o\nseu tempo esgotou-se, faça favor de concluir."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 5,
+      "speaker": {
+        "id": 1330,
+        "name": "Luiz Manuel Fagundes Duarte",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Concluo já, Sr. Presidente.\n... e passados quatro anos sobre a presente Convenção do\nUnidroit, a Assembleia da República tem, finalmente,\noportunidade de ratificar um instrumento legislativo que\npoderá, depois de devidamente adaptado à realidade portuguesa, desempenhar um papel fundamental na preservação\ndo nosso património cultural.\nPor isso, é tempo de esta Assembleia não só ratificar a\npresente Convenção como passar a ocupar-se com mais\natenção das matérias relativas à defesa do nosso património cultural, porquanto, Sr.as e Srs. Deputados, neste preciso momento, algures no nosso país, alguns dos bens culturais que os nossos antepassados nos legaram poderão estar\na ser roubados ou ilicitamente exportados.\nSr.as e Srs. Deputados, é tempo de estas acções deixarem, definitivamente, de ser ilícitas para passarem a ser\nilegais."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Narana Coissoró."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 5,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS-PP",
+        "string": "O Sr. Narana Coissoró (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente,\nSr. Secretário de Estado dos Negócios Estrangeiros e da\nCooperação, Srs. Deputados: Há pouco para dizer sobre a\nConvenção que protege os bens patrimoniais de alto valor\nno caso de roubo ou de exportação ilícita. É caso para\ndizer que «depois da casa roubada, trancas à porta!». Efectivamente, no nosso país, como todos sabem — e para\ntanto basta ler a comunicação social, basta andar pelos\nantiquários, pelas feiras e por várias lojas que divulgam os\ncatálogos de peças valiosas sob o nome de antiguidades ou\nvelharias —, verifica-se que a maior parte delas são peças\nilicitamente tiradas aos seus verdadeiros proprietários.\nTornou-se já escandaloso o desvio das chamadas\n«peças de arte sacra». Logo depois da Revolução, houve\nautênticos saques no Alentejo e noutras zonas do País, em\nque as igrejas, as capelas, os sacrários, foram «despidos» à\nvista de todos, muitas vezes com a colaboração dos revolucionários, e todas essas peças, altamente valiosas, dos\nséculos XII, XIII, XIV, XV e por aí fora foram para o\nestrangeiro ou encontram-se nos antiquários e em colecções privadas. O que não consta é que elas estejam em\nlugar seguro ou sejam do domínio do Estado.\nSucede, igualmente, que, hoje, é quase lícito entrar em\nqualquer antiquário, ver uma determinada peça — por\nexemplo, nos catálogos de leilões — e verificar que muitas"
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado o\nseu tempo esgotou-se. Peço que conclua a sua intervenção."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 6,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Posteriormente, estes documentos, há\npoucos anos, foram vendidos a preço de ouro, por milhões\nde dólares, a uma universidade americana como sendo a\ncolecção privada deste historiador que ainda é vivo e que é\nconsultado pelo nosso Governo.\nPor isso, é preciso, antes de assinar esta Convenção,\nque o nosso património esteja catalogado, bem guardado, é\npreciso que tenha condições para não ser roubado. Não\nvale a pena assinarmos todas estas convenções, que, naturalmente, são necessárias, quando todo o trabalho de guardar com amor e com segurança o verdadeiro património\nartístico literário português ainda está por fazer. Não basta\nfazer decretos ou grandes parangonas sobre leis do património quando este está na rua!"
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados,\numa vez que não há mais oradores inscritos, declaro encerrado o debate da proposta de resolução n.º 3/VIII.\nVamos passar à apreciação da proposta de resolução n.º\n4/VIII — Aprova, para adesão, o Tratado de Criação e\nEstatutos do Conselho Ibero-Americano do Desporto,\nassinado em Montevideu, a 4 de Agosto de 1994.\n\nTem a palavra o Sr. Secretário de Estado dos Negócios\nEstrangeiros e da Cooperação para introduzir o debate."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 6,
+      "speaker": {
+        "id": 1654,
+        "name": "Luís Filipe Marques Amado",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados:\nCom esta proposta de resolução, estamos perante a criação\nde uma nova organização de carácter intergovernamental\nque procura, no fundo, desenvolver mecanismos de cooperação numa área de crescente importância na relação entre\nos povos e que corresponde também a um vector estratégico assumido pelo Governo português nos últimos anos, no\nsentido de implementar as relações de cooperação com o\nespaço Ibero-Americano. Temo-lo feito no plano bilateral,\ntanto no domínio económico como no domínio cultural e\npolítico. Temo-lo feito, também, no âmbito da Cimeira\nIbero-Americana e no âmbito do aprofundamento das\nrelações da União Europeia com todo o espaço IberoAmericano, tendo-se realizado, como é sabido, no ano\npassado, no Brasil, a Cimeira União Europeia/América\nLatina e estando previstas, designadamente durante a presidência portuguesa, inúmeras reuniões quer do Grupo de\nS. José quer do Grupo do Rio, em Lisboa, e noutras cidades do nosso país.\nO aprofundamento das relações de cooperação e a intensificação das relações económicas entre Portugal e os\npaíses da América Latina são, como sublinhei, um vector\nestratégico da política externa portuguesa que a presença\nem mais uma organização intergovernamental do espaço\nIbero-Americano só fortalece.\nPor isso, solicito à Assembleia que aprove também,\npara ratificação, este Tratado."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Laurentino Dias."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 6,
+      "speaker": {
+        "id": 1312,
+        "name": "Laurentino José Monteiro Castro Dias",
+        "party": "PS",
+        "string": "O Sr. Laurentino Dias (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, Srs. Deputados: Somos, hoje, aqui\nchamados a apreciar a proposta de resolução n.º 4/VIII que\no Governo nos enviou, cujos propósitos e objectivos são já\nsuficientemente claros para nos restar, enquanto parlamentares, pouco a dizer.\nNão obstante, Sr. Presidente e Srs. Deputados, sempre\nse dirá que se compreende a adesão e a presença de Portugal em organizações deste teor, organizações essas que\nsignificam um propósito de entrelaçar mais a posição de\nPortugal e dos portugueses no contexto da América Latina.\nAquela zona do globo não é só o Brasil, a América Latina\ndiz-nos também alguma coisa e bom será que, por esta e\npor outras vias, seja possível a Portugal e aos portugueses,\nàs instituições que nas diversas áreas operam e podem\nvoltar-se para o exterior na sua própria actividade, estabelecerem melhores e maiores laços de relação entre as diferentes comunidades e povos e, por que não, também entre\nos portugueses da América Latina. Aliás, ainda há pouco\ntempo «descobrimos» que são muitos os laços de relação\nque temos, por exemplo, na Venezuela, a propósito de uma\nsituação de dramatismo que aquele país viveu. Portanto,\ndigo que é útil e proveitoso que estas organizações se\ncriem e que Portugal faça parte delas para podermos também retirar, no benefício do contexto da comunidade\ninternacional, alguns proveitos."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Sílvio Rui Cervan."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 7,
+      "speaker": {
+        "id": 1551,
+        "name": "Sílvio Rui Neves Correia Gonçalves Cervan",
+        "party": "CDS-PP",
+        "string": "O Sr. Sílvio Rui Cervan (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente,\nSrs. Deputados: Muito brevemente e apenas na sequência\ndas palavras do Sr. Deputado Laurentino Dias, quero dizer\nque também nos associamos a esta iniciativa. Efectivamente, o espaço ibero-americano não é apenas o Brasil, é, por\nexcelência, uma zona de influência e de presença portuguesa, uma zona de destino da nossa emigração, como\nsabemos, sendo o desporto também um veículo de aprofundamento das nossas relações com esses países e esses\npovos e de interpenetração cultural com os mesmos.\nComo tal, apoiamos o presente diploma e associamonos a esta iniciativa, que julgo ser francamente positiva."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados,\ndado não haver mais inscrições, está encerrado o debate da\nproposta de resolução n.º 4/VIII e vamos dar início à discussão da proposta de resolução n.º 5/VIII — Aprova, para\nratificação, o Tratado entre a República Portuguesa e a\nRepública Francesa relativo à Cooperação no Domínio da\nDefesa, assinado em Paris a 30 de Julho de 1999.\nPara introduzir o debate, tem a palavra o Sr. Secretário\nde Estado dos Negócios Estrangeiros e da Cooperação."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 7,
+      "speaker": {
+        "id": 1654,
+        "name": "Luís Filipe Marques Amado",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados:\nTrata-se de propor à Assembleia um Tratado que, no fundo, reforça tradicionais relações bilaterais de cooperação\nentre Portugal e a França no domínio da defesa, dando-lhe\num enquadramento mais adequado, tendo em vista, designadamente, as responsabilidades a que quer Portugal quer\na França têm de responder num momento particularmente\nimportante para a viragem da política europeia, seja no\ndomínio da segurança, seja no da defesa, seja na relação\nexterna que a vertente da segurança e defesa não deixará\nde ter junto da política da União Europeia.\nTrata-se, por isso, de um Tratado que procura enquadrar as relações no domínio das instituições de defesa\nsegundo as necessidades de resposta mais imediata de\nPortugal e da França nestas áreas, no quadro de uma aliança estratégica que desenvolvem no contexto da União\nEuropeia.\n\nO Tratado baliza as áreas da cooperação no domínio da\ndefesa, das quais saliento particularmente os seguintes\ndomínios importantes: análises estratégicas sobre a manutenção da estabilidade na Europa, bem como em outras\nzonas que as partes decidam estudar, de comum acordo;\nreflexões sobre as possibilidades de empreender acções\ncomuns no quadro das operações de manutenção da paz ou\nhumanitárias; desenvolvimento da cooperação operacional\ncombinada; troca de informação em matéria de defesa\naérea entre as forças aéreas dos dois Estados; realização de\nexercícios comuns.\nPor conseguinte, o quadro de concertação e de actuação comum destas áreas, entre outras, estará definido pelo\npresente Tratado, o qual, simultaneamente, procura concretizar as formas que devem enquadrar as relações de cooperação no domínio da defesa no âmbito da respectiva execução.\nSublinho, pois, a importância deste instrumento e da\nsua aprovação pela Assembleia da República justamente\ncomo forma de consolidar uma relação de cooperação\nmuito estreita que tem existido no domínio da defesa e da\nsegurança conjunta dos dois países, particularmente no\nquadro da União Europeia.\nReforço, uma vez mais, a importância da aprovação\ndeste Tratado no momento em que a Europa desenvolve\nem relação a estas áreas perspectivas muito inovadoras e\nque exigem um grande esforço de concertação a todos os\nníveis, não apenas ao nível político mas também ao nível\ndas instituições, seja no plano do quadro técnico, seja no\ndomínio dos respectivos estados-maiores das forças armadas, tendo, designadamente, em consideração a experiência\nmuito importante que tanto as forças armadas portuguesas\ncomo as francesas têm no continente africano e a necessidade de, nesse domínio, haver uma intervenção mais coordenada das acções de prevenção e de regulação de conflitos em África, por parte da União Europeia – isto, aliás, no\nquadro de instrumentos que têm sido objecto de aprovação\nem diferentes áreas da União Europeia, seja ao nível do\nConselho «Desenvolvimento», seja no domínio da PESC.\nReforço, por conseguinte, a oportunidade de aprovar-se\neste Tratado num momento particular da evolução da dinâmica interna da União Europeia e da sua relação externa,\ndesignadamente, com o continente africano, pois muito do\nque este Tratado prevê poderá servir de contexto para uma\ncooperação mais acertada e bem enquadrada entre Portugal\ne a França."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Henrique de Freitas."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 7,
+      "speaker": {
+        "id": 1482,
+        "name": "Henrique José Praia Da Rocha De Freitas",
+        "party": "PSD",
+        "string": "O Sr. Henrique de Freitas (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente,\nSrs. Deputados: O PSD saúda, nesta Câmara, o Tratado\nassinado em 1999 entre Portugal e a República Francesa.\nQueremos sublinhar que a cooperação bilateral é uma\nrealidade há muito existente, que vem sendo sufragada em\nvários domínios e não só com os nossos aliados tradicionais – e estou a referir-me concretamente aos países da\nEuropa central e oriental, nomeadamente a Polónia, a\nHungria, a República Checa, a Eslovénia, a Eslováquia, e\ntambém aos países do Magrebe, como o Sr. Secretário de"
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Renato Sampaio."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 8,
+      "speaker": {
+        "id": 1390,
+        "name": "Renato Luís De Araújo Forte Sampaio",
+        "party": "PS",
+        "string": "O Sr. Renato Sampaio (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs.\nMembros do Governo, Srs. Deputados: O Governo apresentou à Assembleia da República a proposta de resolução\nn.º 5/VIII — Aprova, para ratificação, o Tratado entre a\nRepública Portuguesa e a República Francesa relativo à\ncooperação no domínio da defesa, assinado em Paris a 30\nde Julho de 1999.\nPortugal já celebrou tratados e acordos de cooperação\nno domínio da defesa com vários países que se inserem em\ndiferentes áreas estratégicas regionais, nomeadamente com\npaíses da Europa central e de leste, como a Polónia, a\nRoménia, a Bulgária e a República Checa, e países da\nregião do sul da bacia mediterrânea (Marrocos e Tunísia),\ntornando-se, por isso, importante o desenvolvimento de\nacordos bilaterais com países amigos e pertencentes ao\nmesmo espaço geopolítico, como é o caso da Republica\nFrancesa.\nPortugal e França ao longo dos séculos tiveram percursos históricos comuns, muitas vezes os caminhos dos dois\npovos se cruzaram, pese embora algumas divergências\nhavidas em alguns momentos. No entanto, as marcas do\nseu relacionamento são por demais evidentes.\nHoje, estes dois países fazem parte do mesmo bloco\npolítico e económico, a União Europeia, e do mesmo bloco\nmilitar, a NATO, e integram ainda outras organizações\ninternacionais que visam a estabilidade, a paz e a segurança dos povos.\nPor outro lado, Portugal e França têm mantido nos últimos anos um relacionamento bilateral no âmbito da defesa, através da realização de actividades de cooperação\nmilitar, nomeadamente nas áreas operacional, de ensino e\ninstrução, de intercâmbio de visitas e, principalmente, ao\nnível da negociação de acordos técnicos específicos.\nÉ neste quadro que este Tratado assume relevante importância, por enquadrar politicamente este relacionamento\n\nI SÉRIE — NÚMERO 27\n\nbilateral e pelo contributo, ao nível das estruturas de segurança e defesa de que ambos fazem parte, no reforço da\nafirmação da identidade europeia.\nA aplicação deste Tratado é, também para Portugal, um\npasso importante na afirmação e reforço da nossa posição\nno seio das organizações internacionais a que pertencemos.\nO tratado de cooperação, hoje em apreciação, fixa, de\numa forma genérica, as áreas de cooperação no domínio da\ndefesa a desenvolver e os métodos de as executar, incidindo, nomeadamente, na análise estratégica sobre manutenção da estabilidade europeia, na reflexão sobre a possibilidade de empreender acções comuns no quadro das operações de manutenção da paz ou humanitárias, na reflexão\nsobre os conceitos de segurança e de defesa, no controlo\nde armamentos, na gestão, formação, instrução e treino do\npessoal militar e civil das forças armadas, no desenvolvimento da cooperação operacional combinada, na troca de\ninformação em matéria de defesa aérea entre as forças\naéreas dos dois Estados, na realização de exercícios comuns, na prossecução e aprofundamento de acções conjuntas no domínio das tecnologias e das indústrias de defesa,\nmaterial e equipamentos de defesa, nas actividades geográficas, cartográficas e hidrográficas e ainda nas manifestações históricas e culturais.\nO Tratado define também a forma de o concretizar e\nimplementar, através de reuniões conjuntas aos mais diversos níveis, bem como contactos e consultas entre as delegações e a participação em congressos, colóquios e seminários.\nNo plano do pessoal e dos seus familiares, o Tratado\nconsubstancia as condições da sua estadia e assistência\nmédica, sempre de acordo com o estabelecido na Convenção de Londres entre os Estados que fazem parte do Tratado do Atlântico Norte.\nSr. Presidente, Srs. Deputados: Porque estamos perante\num Tratado com inequívoca importância, que permite\ndesenvolver relações de confiança entre os Estados, que\nassegura e corresponde aos interesses nacionais e é potenciador de condições de estabilidade, paz e segurança no\ncontinente, o Grupo Parlamentar do Partido Socialista vai\nvotar favoravelmente a proposta de resolução n.º 5/VIII e\nsaúda a sua assinatura."
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Amaral."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 8,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs.\nMembros do Governo, Srs. Deputados: Em termos globais,\npoderá dizer-se que este acordo bilateral em matéria de\ndefesa corresponde a uma linha adequada de desenvolvimento da política externa de defesa assente em acordos\nbilaterais. Os acordos bilaterais têm, sobre os acordos\nmultilaterais, a vantagem de corresponder a interesses das\nduas partes, de procurar equilibrá-los e, nessa medida,\npoder-se-á dizer que é uma linha adequada para aprofundar a política externa de defesa.\nNo entanto, levantam-se algumas questões, que eu gostaria de registar, e vou começar pelas relativas ao articulado, deixando para depois duas questões de fundo."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Narana Coissoró."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 9,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS-PP",
+        "string": "O Sr. Narana Coissoró (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente,\nSrs. Membros do Governo, Srs. Deputados: O Tratado\nbilateral entre a República Portuguesa e a República Francesa, relativo à cooperação no domínio da defesa e assinado em Paris a 30 de Julho de 1999, merece da nossa bancada o apoio e o voto favorável.\nEsta cooperação confirma os laços tradicionais de amizade que têm regulado as relações bilaterais de defesa\nentre os dois países e o relacionamento assume uma maior\nimportância num quadro de reforço da afirmação de identidade europeia, de segurança e de defesa.\nPor outro lado, o Tratado assinado entre os dois Estados resulta igualmente dos princípios objectivos estipulados no Tratado do Atlântico Norte, assinado em Washington, em 4 de Abril de 1949, e na Convenção entre os Estados-Partes do Tratado do Atlântico Norte sobre o Estatuto\ndas suas forças, assinado em Londres, em 19 de Julho de\n1951, o que significa que é a continuação de outras aprovações, a que estamos sujeitos.\nEntre os objectivos mais relevantes deste Tratado destacamos, pela sua importância, a intenção de promover a\ncooperação entre as partes nos seguintes domínios: análises estratégicas sobre a manutenção da estabilidade na\nEuropa e as condições do seu reforço; reflexões sobre as\npossibilidades de empreender acções comuns no quadro\ndas operações de manutenção da paz ou humanitárias e\nainda sobre o conceito de segurança e de defesa; controlo\nde armamentos; gestão, formação, instrução e treino de\npessoal militar e civil das forças armadas; troca de informação em matéria de defesa aérea entre as forças aéreas\ndos dois Estados; e realização de exercícios comuns.\nA partilha de valores civilizacionais comuns e a busca\nde uma solução pacífica dos conflitos internacionais justificam a celebração deste tipo de acordos.\nPor tudo o que acabei de dizer, o nosso partido votará\nfavoravelmente esta proposta de resolução."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma segunda\nintervenção, tem a palavra o Sr. Secretário de Estado dos\nNegócios Estrangeiros e da Cooperação."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 9,
+      "speaker": {
+        "id": 1654,
+        "name": "Luís Filipe Marques Amado",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, vou ser muito\nrápido, pois vou usar da palavra apenas porque a intervenção do Sr. Deputado João Amaral suscita questões muito\npertinentes e que deveriam ser objecto de uma discussão\nque o quadro regimental que nos orienta não permitirá\nseguramente. Mas as questões são pertinentes.\nAssim, quero, em primeiro lugar, dizer que há no Tratado «cláusulas abertas», precisamente porque há domínios\nque têm de ser implementados à medida que a consolida-"
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Secretário de\nEstado, peço-lhe que termine, pois já não dispõe de tempo."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 10,
+      "speaker": {
+        "id": 1654,
+        "name": "Luís Filipe Marques Amado",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Termino já, Sr. Presidente!\nMas admito que o desenvolvimento que a muito curto\nprazo terá de ser implementado pelos Estados-membros da\nUnião Europeia e pelas suas instituições, com o objectivo\nde resolver estes problemas da política europeia e dos seus\nEstados-membros, dará certamente resposta às pertinentes\nquestões aqui levantadas pelo Sr. Deputado.\n\nI SÉRIE — NÚMERO 27"
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados,\nvisto não haver mais inscrições, declaro encerrado o debate da proposta de resolução n.º 5/VIII.\nAntes de passarmos à discussão da proposta de resolução n.º 6/VIII – Aprova o Acordo entre a República Portuguesa e a República da Eslovénia relativo a transportes\ninternacionais rodoviários de passageiros e mercadorias e\nrespectivo protocolo, informo a Câmara de que se encontram a assistir aos nossos trabalhos alunos da Escola Tecnológica e Profissional de Sicó de Avelar e da Escola E.B.\n2,3, de Loulé, para quem peço a vossa saudação amiga,\ncomo é habitual.\nSrs. Deputados, vamos, então, dar início à discussão da\nproposta de resolução n.º 6/VIII, que é o último ponto da\nnossa ordem de trabalhos.\nPara apresentar o diploma, tem a palavra o Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 10,
+      "speaker": {
+        "id": 1654,
+        "name": "Luís Filipe Marques Amado",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados:\nEm relação à proposta de resolução ora em discussão,\ngostaria apenas de sublinhar que se trata de um Acordo\nsemelhante a muitos outros acordos que têm sido objecto\nde apreciação por parte da Assembleia da República e que,\nno fundo, visa facilitar o processo de aproximação dos\nEstados da Europa central e da Europa mais oriental à\nUnião Europeia, tendo Portugal assumido, também estrategicamente, a importância de fortalecer uma dinâmica\nfavorável à mais rápida integração destes Estados na União\nEuropeia.\nPor isso, sabendo que a Eslovénia tem um Acordo de\nAssociação, que assinou em 1996, com a União Europeia,\nque visa desenvolver a preparação, nos domínios político,\neconómico e administrativo, de uma mais rápida integração na União Europeia, e a importância que este Estado\ntem, no quadro da estabilidade, numa zona tão delicada\ncomo é a balcânica, Portugal tem desenvolvido, também\nem relação à Eslovénia, no quadro bilateral, uma intensa\nactividade de cooperação de que o presente Acordo é,\napenas, um dos exemplos e é, como sublinhei, semelhante\na outros acordos-tipo que visam facilitar a circulação de\npessoas e mercadorias no espaço da União Europeia a\nestes novos Estados, que se propõem aderir à União Europeia.\nPortanto, Sr. Presidente e Srs. Deputados, estou certo\nde que não haverá qualquer inconveniente ou objecção à\nratificação deste Acordo pela Assembleia da República."
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Carlos Luís."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 10,
+      "speaker": {
+        "id": 1022,
+        "name": "Carlos Manuel Luís",
+        "party": "PS",
+        "string": "O Sr. Carlos Luís (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação,\nSrs. Deputados: O Acordo entre a República Portuguesa e\na República da Eslovénia relativo a transportes internacionais rodoviários de passageiros e mercadorias e respectivo\nprotocolo, celebrado em Varsóvia, em 19 de Maio de\n1999, visa «(…) contribuir para o desenvolvimento do"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Manuela Aguiar."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 11,
+      "speaker": {
+        "id": 798,
+        "name": "Maria Manuela Aguiar Dias Moreira",
+        "party": "PSD",
+        "string": "A Sr.ª Manuela Aguiar (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.\nSecretário de Estado, Sr.as e Srs. Deputados: A minha\ntarefa está, de algum modo, facilitada pelas intervenções\nanteriores, mas quero também, em nome do PSD, manifestar o nosso pleno acordo a este Acordo entre a República\nPortuguesa e a República da Eslovénia relativo a Transportes Internacionais Rodoviários de Passageiros e de Mercadorias e Respectivo Protocolo.\nTrata-se de um Acordo que, como já foi dito, pretende\ninserir-se numa progressiva abertura do espaço europeu,\n\nna facilitação dos intercâmbios de passageiros ou de mercadorias, e, ao fazê-lo, regular as condições de concorrência entre as Partes Contratantes e assegurar, como foi dito,\na segurança rodoviária e a protecção do ambiente.\nÉ um Acordo que contém, evidentemente, a definição\nde transportador autorizado a operar no outro país; os tipos\nde serviços que pode prestar; as condições de reciprocidade das autorizações a conceder aos agentes de transportes;\nos regimes de autorização para transporte de mercadorias e\ncontingentamento, que é feito anualmente por comum\nacordo das Partes Contratantes; autorizações especiais para\noperações de cabotagem; o regime fiscal e aduaneiro dos\nveículos temporariamente importados em território da\noutra Parte Contratante, para efectuar os serviços constantes da autorização; regras referentes ao regime sancionatório e à fiscalização; a constituição de uma comissão mista,\nque deverá acompanhar a implementação do Acordo; e as\nnormas para a sua entrada em vigor, o que acontecerá com\na última notificação de que se encontram cumpridas as\nformalidades constitucionais exigidas a cada Parte Contratante.\nOs votos que fazemos aqui é que todo este processo\ndecorra rapidamente, para que o Acordo possa entrar em\nvigor. Como foi dito, o Acordo é para vigorar por tempo\nindefinido, mas pode ser denunciado por qualquer das\nPartes Contratantes três meses antes do fim de cada ano\ncivil.\nUma vez mais, reafirmo, em nome do PSD, o nosso\napoio e a nossa aprovação da proposta de resolução n.º\n6/VIII."
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Rosado Fernandes."
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 11,
+      "speaker": {
+        "id": 1545,
+        "name": "Raúl Miguel De Oliveira Rosado Fernandes",
+        "party": "CDS-PP",
+        "string": "O Sr. Rosado Fernandes (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Não era a mim que cabia falar sobre\neste assunto, mas, de qualquer maneira, como frequentei\ndurante um ano a Comissão de Inquérito ao Trânsito\nComunitário, tenho alguma experiência, por ouvir representantes de 16 países — a Suíça também estava representada —, sobre as dificuldades que têm existido com o\ndesaparecimento das fronteiras e com o não estabelecimento de um sistema de controlo em todos estes contratos que se fazem amigavelmente neste admirável mundo\nnovo, que é o nosso.\nA verdade é que o pagamento do IVA, que se faz na\nchegada e que, muitas vezes, não é executado e o desaparecimento de mercadorias — ainda há pouco, em Portugal,\ndesapareceram 70 vagões de tabaco, tendo o Estado português pedido 12 milhões de contos à companhia transportadora —, têm de ser acautelados e se, naturalmente, não\nforem tomadas as precauções devidas, é evidente que estes\nacordos são lindíssimos no papel, mostram uma grande\nharmonia universal entre todos os povos, mas, se não houver controlo, isso pode trazer graves prejuízos para a economia portuguesa.\nNão sendo eu um optimista por natureza, sei que, no\ncampo do real, há muitos camiões — e é o trânsito rodoviário que está também aqui em causa — que desaparecem"
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados,\ncomo não existem mais inscrições, declaro encerrado o\ndebate da proposta de resolução n.º 6/VIII."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 12,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a\npalavra para uma interpelação."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr.\nDeputado."
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 12,
+      "speaker": {
+        "id": 1330,
+        "name": "Luiz Manuel Fagundes Duarte",
+        "party": "PS",
+        "string": "O Sr. Luiz Fagundes Duarte (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente,\nera apenas para chamar a atenção do Sr. Secretário de\nEstado e de toda a Assembleia para um erro que há em\ntodos os documentos que se referem à proposta de resolução n.º 3/VIII. Neles está dito que a Convenção foi\nassinada no dia 24 de Julho de 1995, mas ela foi assinada\nem 24 de Junho de 1995. Não sei se isso pode ter alguma\ninfluência ou não mas, de qualquer maneira, o lapso é\ninteressante."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Mota Amaral)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados,\nantes de dar por encerrada a sessão, informo que, afinal,\nsempre vieram assistir aos nossos trabalhos os alunos da\nEscola E.B. 2/3 de Évora. Agradecemos a vossa visita, tal\ncomo a dos outros que estiveram connosco esta manhã.\nA próxima sessão plenária realizar-se-á na próxima\nquarta-feira, dia 19, às 15 horas, dela constando de um\nperíodo da ordem do dia com um agendamento potestativo\nrequerido pelo PSD, para discussão do projecto de lei n.º\n61/VIII — Programa especial de combate às listas de espera (PSD).\nSrs. Deputados, está encerrada a sessão."
+    }
+  ]
+}

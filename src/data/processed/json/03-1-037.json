@@ -1,0 +1,908 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "3",
+    "legislative_session": "1",
+    "number": "37",
+    "date": "1983-10-21"
+  },
+  "debate_id": "r3_3_1_37_1983-10-21",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 1605,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "SUMÁRIO",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Presidente declarou aberta a sessão às 10 horas e 40 minutos.\nNa ordem do dia foram apreciados os projectos de lei n.º 106/III, sobre o equilíbrio orçamental e a clarificação política da votação do Orçamento, 214/III, sobre o enquadramento do Orçamento, e 215/III, sobre a elaboração do orçamento do Estado e respectiva execução, e a proposta de lei n.º 48/III, relativa ao enquadramento do Orçamento do Estado.\n\nO Sr. Deputado Magalhães Mota (ASDI) fez a apresentação do projecto de lei n.º 106/III, tendo respondido no fim a um pedido de esclarecimento do Sr. Deputado Nogueira de Brito (CDS).\n\nOs Srs. Deputados Lobo Xavier (CDS) e Octávio Teixeira (PCP) procederam, respectivamente, d apresentação dos projectos de lei n.º 214/III e 215/III.\n\nFinalmente, o Sr. Ministro das Finanças e do Plano (Ernâni Lopes) apresentou a proposta de lei do Governo, fendo respondido no fim a pedidos de esclarecimento dos Srs. Deputados Lobo Xavier (CDS), José Magalhães (PCP), Octávio Teixeira (PCP) e António Vitorino (UEDS).\n\nNo debate dos projectos e da proposta de lei usou da palavra o Sr. Deputado António Vitorino (UEDS).\n\nO Sr. Presidente encerrou a sessão às 12 horas e 50 minutos."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 1605,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quorum, pelo que declaro aberta a sessão.\nEram 10 horas e 40 minutos.\nEstavam presentes os seguintes Srs. Deputados:\nPartido Socialista (PS):\nAcácio Manuel Frias Barreiros.\nAgostinho de Jesus Domingues.\n\nAlberto Rodrigues Ferreira Gamboa.\nAlexandre Monteiro António.\nAlmerindo da Silva Marques.\nAmadeu Augusto Pires.\nAmérico Albino da Silva Salteiro.\nAníbal Coelho da Costa.\nAntónio Cândido Miranda Macedo.\nAntónio da Costa.\nAntónio Domingues de Azevedo.\nAntónio Frederico Vieira de Moura.\nAntónio Gonçalves janeiro.\nAntónio José dos Santos Meira.\nBeatriz Almeida Cal Brandão.\nCarlos Augusto Coelho Pires.\nCarlos Cardoso Lage.\nCarlos Justino Luís Cordeiro.\nEdmundo Pedro.\nEurico Faustino Correia.\nFerdinando Lourenço de Gouveia.\nFernando Alberto Pereira de Sousa.\nFernando Fradinho Lopes.\nFrancisco Augusto Sá Morais Rodrigues.\nFrancisco Igrejas Caeiro.\nFrancisco Lima Monteiro.\nFrancisco Manuel Marcelo Curto.\nFrederico Augusto Handel de Oliveira.\nGaspar Miranda Teixeira.\nGil da Conceição Palmeiro Romão.\nHenrique Aureliano Vieira Gomes.\nHermínio Martins de Oliveira.\nJoão de Almeida Eliseu.\nJoão Eduardo C. Ferraz de Abreu.\nJoão do Nascimento Gama Guerra.\nJoão Luís Duarte Fernandes."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 1607,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Da nossa ordem de trabalhos para hoje - e rectifico assim uma primeira versão que foi distribuída e está a ser emendada - consta a apreciação dos projectos de lei n .ºs 106/III, sobre o equilíbrio orçamental e a clarificação política da votação do orçamento, apresentado pela ASDI, 214/III, sobre o enquadramento do orçamento, apresentado pelo CDS, e 215/III, sobre a elaboração do Orçamento do Estado e respectiva execução, apresentado pelo PCP, e ainda da proposta de lei n.º 48/III - enquadramento do Orçamento do Estado.\n\nPara apresentação do projecto de lei ri."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 1607,
+      "speaker": {
+        "id": 470,
+        "name": "Joaquim António Miranda Da Silva",
+        "party": "PCP",
+        "string": "O Sr. Joaquim Miranda (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dá-me licença, Sr. Presidente?"
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 1607,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito deseja usar da palavra, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 1607,
+      "speaker": {
+        "id": 470,
+        "name": "Joaquim António Miranda Da Silva",
+        "party": "PCP",
+        "string": "O Sr. Joaquim Miranda (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é apenas para uma pequena nota introdutória, que é a seguinte: parecia-nos correcto que o Governo estivesse presente nesta sessão, pois, além do resto, apresentou uma proposta de lei sobre a mesma matéria.\nO Governo não está e ó que nós gostaríamos de saber era se a Mesa está informada sobre se o Governo virá a estar presente nesta sessão."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 1607,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, fomos informados de que os membros do Governo estão a chegar.\n\nEm todo o caso, se o Sr. Deputado Magalhães Mota desejar aguardar alguns minutos ...\nPausa.\nEntretanto tomaram assento na bancada do Governo os Srs. Ministros das Finanças e do Plano (Ernâni Lopes) e do Trabalho (Amândio de Azevedo) e os Srs. Secretários de Estado dos Assuntos Parlamentares (Armando Lopes) e do Orçamento (Alípio Dias)."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 1607,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Magalhães Mota, na medida em que já estão presentes os membros do Governo, queira fazer o favor de iniciar a sua intervenção."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 1607,
+      "speaker": {
+        "id": 283,
+        "name": "Joaquim Jorge De Magalhães Saraiva Da Mota",
+        "party": "ASDI",
+        "string": "O Sr. Magalhães Mota (ASDI)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Quando da revisão constitucional, tivemos oportunidade de salientar a importância do novo processo de discussão e aprovação introduzido relativo ao orçamento e tivemos então ocasião de salientar também que essa modificação representava uma inflexão profunda na nossa vida financeira e administrativa.\n\nDe facto, em vez de uma lei de meios - visto que na sua versão original a Constituição de 1976 nada tinha inovado substancialmente em relação ao regime financeiro então vigente -, é um autêntico orçamento aquilo que a revisão constitucional impôs que passasse a ser discutido e votado por esta Assembleia.\n\nPassaremos a votar não apenas palavras, mas as opções quantificadas da política geral do Estado e, como tal, é o controle da vida financeira do Estado que passará a ser feito. Quer dizer, a Assembleia da República passará a exercer, em Portugal, o poder fiscalizador que tradicionalmente sempre coube aos Parlamentos - o que era também a nossa tradição constitucional desde 1822, só interrompida com a Constituição de 1933 - e passará também a forçar que a transparência democrática em matéria financeira seja uma realidade.\n\nTrata-se, pois, de uma modificação de fundo sobre toda a actividade do Estado. Na realidade, julgamos que, face ao novo processo constitucional de discussão do Orçamento do Estado, o Estado passará a só poder exercer a sua função se for organizado de acordo com missões a realizar. As tarefas só podem ser levadas a cabo de acordo com as prioridades racionais e para isso é necessário que os meios administrativos do Estado sejam redistribuídos de acordo com essas prioridades, ou seja, não é mais possível que a organização do Estado seja feita por motivos que têm a ver com hábitos do passado ou com relações de forcas burocráticas. Agora o orçamento é outra coisa.\n\nCreio também - e é importante salientar isto - que a modificação do sistema de discussão do orçamento faz cessar um certo poder superior ao dos seus"
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 1608,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes da ASDI e do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 1608,
+      "speaker": {
+        "id": 283,
+        "name": "Joaquim Jorge De Magalhães Saraiva Da Mota",
+        "party": "ASDI",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Creio que todas estas questões - que são questões essenciais da nossa noção de Estado, da nossa responsabilidade política e da vida colectiva de todos nós - vêm ao de cima e têm de ser encaradas a propósito da discussão do Orçamento do Estado para 1984 e, portanto, também a propósito da sua lei do enquadramento.\n\nPor isso nos preocupámos, desde bastante cedo, em apresentar um projecto de lei alterando a Lei n.º 64/77. Nas alterações que procurámos introduzir na lei de enquadramento do Orçamento vigente tivemos em vista, essencialmente, 5 grandes questões: primeira, o conteúdo do Orçamento, tal como ele deve ser discutido pela Assembleia da República; segunda, o regime de acordo, com o qual o Governo justifica e torna presentes perante a Assembleia as suas opções em termos da proposta de lei; terceira, o regime das alterações relativas à lei votada pela Assembleia da República; quarta, a questão da publicidade do Orçamento votado pela Assembleia e, portanto, dos meios de conhecimento pela opinião pública do debate e da votação aqui produzidos e, por último, os poderes do Governo na situação infelizmente ocorrida entre nós - e que este ano, louvavelmente, não ocorreu - de atraso na apresentação, e consequentemente na votação, do Orçamento.\nMuito resumidamente, quais são as questões contempladas em cada um destes capítulos? Em primeiro lugar, o conteúdo do Orçamento.\n\nPorque a ideia do Orçamento do Estado tem implícita a ideia de uma autorização política, julgamos que é necessário que o Orçamento surja em termos políticos, e portanto de votação desta Assembleia, como uma forma de limitação dos poderes dos órgãos de Estado. 15to pressupõe não só uma grande clareza e uma grande firmeza na definição deste Orçamento, como também, e consequentemente, que a sua execução seja sujeita a regras estritas, condicionando a Administração no respeito pela legalidade em geral e pelo Orçamento em especial, e que existam formas, quanto mais aperfeiçoadas melhor, de controle da execução orçamental.\n\nPensamos que a consequência directa e necessária da revisão constitucional operada implica que a lei do orçamento, tal como é votada na Assembleia da República, corresponda, quase na íntegra, àquilo que no sistema dualista antes vigente era o decreto orçamental. Ou seja, é preciso que a Assembleia da República vote receitas e despesas clarificadas. Poderá votá-las"
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 1609,
+      "speaker": {
+        "id": 350,
+        "name": "Ruben José De Almeida Martins Raposo",
+        "party": "ASDI",
+        "string": "O Sr. Ruben Raposo (ASDI)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 1609,
+      "speaker": {
+        "id": 283,
+        "name": "Joaquim Jorge De Magalhães Saraiva Da Mota",
+        "party": "ASDI",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os poderes do Governo, em caso de atraso de aprovação do Orçamento, precisarão também, em nosso entender, de ser modificados. A prática demonstrou-o e pensamos que, por isso mesmo, valerá a pena acautelar esse tipo de situações. E acautelá-lo de duas maneiras: primeiro, tentando evitar, reduzindo ou eliminando, as causas possíveis desse atraso, e daí que nós pensemos também que deve ser modificado, por antecipação, o prazo em que o Governo deve apresentar a proposta de lei orçamental na Assembleia da República. Até à data o prazo limite é o de 15 de Outubro. Há propostas que sugerem que esse prazo seja ainda dilatado. Nós pensamos, pelo contrário, que ele deve ser antecipado e que a proposta de lei ornamental deverá dar entrada na Assembleia da República, para permitir este debate aprofundado, até 15 de Setembro.\n\nHá uma última questão que queria suscitar nesta introdução do projecto de lei da ASDI. É que temos"
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 1610,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Nogueira de Brito, para pedir esclarecimentos."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 1610,
+      "speaker": {
+        "id": 813,
+        "name": "José Luis Nogueira De Brito",
+        "party": "CDS",
+        "string": "O Sr. Nogueira de Brito (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Magalhães Mota, ouvi atentamente a sua intervenção, que apreciei, como, aliás, costumo apreciar as suas intervenções nesta Câmara, e queria colocar-lhe duas questões, que, posso bem dizer, e resumem numa só.\n\nVV. Ex.as apresentaram aqui um projecto de alteração à Lei n.º 64/77. Eu diria mesmo mais: VV. Ex.as apresentaram um projecto de alteração a alguns - poucos - preceitos da Lei n.º 64/77. No entanto, o Sr. Deputado Magalhães Mota fez um discurso que deixou nesta Câmara a ideia de que têm nesta matéria ideias bastantes mais ambiciosas do que aquelas que se traduziram no projecto apresentado.\n\nComeço por perguntar se V. Ex.ª entende que a simples alteração de pormenor da Lei n.º 64/77 traduzirá em si a importância da alteração constitucional que nós visamos realizar com a aprovação deste novo método de discussão e aprovação do Orçamento na Assembleia da República. Por outro lado, no que respeita propriamente ao processo de aprovação do Orçamento, V. Ex.ª mostrou dar o seu acordo no essencial ao projecto de lei do CDS, mas resta-me uma dúvida e por isso pergunto se está de acordo em que as regras sobre aprovação na Assembleia constem apenas do Regimento ou devam antes constar desta lei de enquadramento orçamental.\n\nEra tudo quanto tinha para lhe perguntar, Sr. Deputado."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 1610,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Magalhães Mota, para responder, se assim o entender."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 1610,
+      "speaker": {
+        "id": 283,
+        "name": "Joaquim Jorge De Magalhães Saraiva Da Mota",
+        "party": "ASDI",
+        "string": "O Sr. Magalhães Mota (ASDI)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Agradeço ao Sr. Deputado Nogueira de Brito as referências amáveis que quis fazer-me e responderia aos seus pedidos de esclarecimento.\n\nNós pensamos que a Lei n.º 64/77 oferece um quadro que, nalguns aspectos, já revelou os seus méritos e que, como tal, as alterações propostas são, do nosso ponto de vista, suficientes. Mas isso não significa que as alterações que pretendemos não sejam profundas. Tive o cuidado de salientar que também pensamos que entre a exigência de um desafio, tal como o colocamos, e as necessidades de rigor que nos levam a reconhecer que não será talvez o método mais desejável o fazer de repente e por uma só vez uma modificação tão radical nos nossos hábitos e nos nossos costumes. As alterações à Lei n.º 64/77, ainda que poucas, mas profundas, porque profunda é a exigência da revisão constitucional, seriam o neces-"
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 1611,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Lobo Xavier, para fazer a apresentação do projecto de lei n.º 214/III, do CDS, sobre o enquadramento do orçamento."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 1611,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Lobo Xavier (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados, Srs. Membros do Governo: A recente revisão da Constituição da República Portuguesa, operada pela Lei Constitucional n.º l/82, introduziu importantes modificações no domínio do chamado «ciclo orçamentar e em matérias conexas.\n\nPoderemos dizer que o fim pretendido pela alteração, em sede de revisão, do artigo 108.º da Constituição era o de reforçar o controle do Parlamento sobre a política financeira do Governo, aumentando, ao mesmo tempo - como já avisámos no preâmbulo do projecto de lei que ora apresentamos -, o grau de corresponsabilização da Assembleia na definição de tal política. Sem dúvida que a modificação que mais evidentemente traduz este sentido pretendido é aquela pela qual a Assembleia da República passa a discutir e votar não uma lei de orçamento, como até há pouco, mas o próprio Orçamento do Estado, elaborado e apresentado pelo Governo sob a forma de proposta de lei. Se no regime constitucional que vigorou até ao presente ano orçamental a Lei do Orçamento, com a sua configuração e o seu nível de especificação próprios, implicava já um grau apreciável de participação e responsabilização da Assembleia da República na definição da política financeira, constituindo um «quadro orçamental sumário» que se não pode confundir com a antiga Lei de Meios (apesar de algumas vozes contrárias), agora, após a Lei Constitucional n º 1/82 e a partir do próximo exercício orçamental, a Assembleia da República, ao aprovar o próprio Orçamento através de uma sua lei, corresponsabilíza-se - até aos limites do possível com a definição da referida política.\n\nNão nos devemos esquecer, apesar de tudo, que esta intenção manifesta da revisão constitucional não parece acompanhar a tendência que se verifica nos países com sistemas parlamentares; aí, como claramente nos ensina Lalumière e Gangemi e como podemos concluir dos resultados que D. Coombes colheu num simpósio recentemente realizado a propósito do chamado «Power of the Purse», fala-se, predominantemente, na tendência para diminuir os poderes parlamentares em benefício do executivo, recorrendo-se a argumentos que eu consideraria já de clássicos, apesar de tudo: a complexidade da tarefa administrativa, o elevado grau de tecnicidade que representa a discussão de um orçamento que perfilha a ideia keynesiana são de um orçamento que perfilha a ideia Keynesiana de integração entre a actividade económica e financeira. Não deve esquecer esta Assembleia, no entanto, que se fala - como de facto falam Lalumière, Gangemi e . Coombes - em tendência para a diminuição do papel parlamentar nas decisões orçamentais relativamente a países onde esse papel parlamentar é muito superior àquele que esta Assembleia desempenhava quando aprovava a Lei do Orçamento: de facto, e por exemplo, tanto a loi de finances, em França, como a legge di Bilancio, em Itália, aproximam-se muito mais daquilo a que chamamos hoje «Orçamento» do que da «Lei do Orçamento» do regime constitucional de 1976.\n\nNão estamos de acordo, pois, com quem disser que o sentido da revisão constitucional, nesta matéria, constitui apenas um reviver de uma velha tradição política; para além da importância que atribuímos ao acordo do Parlamento sobre as grandes opções financeiras do Governo, achamos que a publicidade conseguida por este sistema satisfaz uma exigência fundamental que se mantém e que o Dr. Teixeira Ribeiro formula, com a sua habitual expressividade, nos termos que já uma vez referi aqui à Câmara:\n\nO povo quer saber, através dos seus representantes, o destino que o Estado dá ao dinheiro que lhe leva!\nDe facto, só enquanto for o Parlamento a aprovar o Orçamento do Estado se satisfará este «direito popular», que depende, efectivamente, da publicidade de que a aprovação parlamentar se pode revestir.\n\nJulgamos, no entanto, que só agora chegou o momento de precisar o alcance da revisão constitucional; de facto, apesar desta, era possível esvaziar bastante o sentido que se pretendia dar ao artigo 108.º da Constituição, nomeadamente através de uma lei de enquadramento orçamental que regulasse - porque achamos que deve regular -, em termos muito apertados, a discussão e votação parlamentares, como acontece no direito comparado com a definição de limites ao direito de iniciativa dos deputados (Itália e França) e com a criação de regras de discussão e aprovação que beneficiam o executivo (Itália e França, aqui com especial relevância para o chamado vote bloqué). Esta ideia, aliás, de que tudo dependia de uma futura lei de enquadramento já tinha sido intuída nos debates da Comissão Eventual de Revisão Constitucional e vai ganhar evidência neste debate de hoje, segundo cremos.\n\nGostaria, pois, Sr. Presidente, Srs. Deputados, de, após essa introdução, apresentar algumas linhas mestras do projecto de lei do CDS sobre o enquadramento do Orçamento.\n\nEm primeiro lugar, não pode o CDS deixar de deplorar o facto de estarmos a discutir o enquadramento orçamental após a apresentação feita pelo Governo nesta Câmara da sua proposta de orçamento. Este facto, sendo uma demonstração de uma certa indiferença governamental pelo direito orçamental, é subli"
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 1613,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para fazer a apresentação do projecto de lei do PCP, tem a palavra o Sr. Deputado Octávio Teixeira."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 1613,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Octávio Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, Srs. Membros do Governo: Começamos hoje a discutir as normas a que devia ter obedecido a organização e elaboração do Orçamento do Estado neste ano. Basta dizer isto para ficarem realçadas as características anómalas da situação que aluemos.\nNeste momento já deu entrada nesta Assembleia uma concreta proposta de lei do Orçamento do Estado, elaborada de acordo com normas, concepções e padrões de que esta Assembleia não teve conhecimento nem aprovou, como só a ela cabe nos termos constitucionais.\n\nCriou-se assim uma «situação embaraçosa», como expressamente se reconhece na exposição de motivos da proposta de lei n.º 48/III.\n\nInfelizmente, porém, a situação não é apenas embaraçosa: é inquietante. O debate começa tarde e começa torto.\n\nSe prevalecessem alguns dos vícios graves de que enferma a base de trabalho que o Governo aqui veio trazer, se não fossem tidas em conta as contribuições para que apontam projectos entretanto apresentados e neste momento em debate, então, nesse caso, teríamos não uma lei de enquadramento conforme ao artigo 108.º da Constituição, mas uma lei conforme à concreta proposta de Orçamento do Estado para 1984. Assistir-se-ia então a uma.. dupla violação da constituição financeira.\nÉ isso que a todo o custo importa evitar.\n\nNa verdade, a partir do Orçamento para 1984, a Assembleia da República deixa de aprovar uma mera lei de autorização de receitas e despesas (que a prática dos sucessivos governos, com o apoio das respectivas maiorias parlamentares, veio a transformar numa autêntica «Lei de Meios» de má memória), passando a aprovar efectivamente o Orçamento do Estado. E se é certo que a nova situação prestigia o órgão de soberania Assembleia da República, e reforça a sua importância no conjunto das instituições democráticas portuguesas, não é menos verdade que se trata fundamentalmente de uma responsabilidade acrescida da Assembleia da República, que esta tem por dever assumir na sua plenitude. Responsabilidade acrescida porque reforçados os poderes do Parlamento em relação ao Governo em matéria orçamental e fiscal e porque se lhe exige agora uma fiscalização de toda a vida financeira do Estado. Face ao novo regime constitucional em matéria orçamental, não é mais possível que a Assembleia da República se limite a aprovar meras dotações globais com desconhecimento das suas aplicações e destinos concretos, isto é, sem conhecimento dm sua finalidade, necessidade e adequação. Como não é lícito à Assembleia da República excluir do seu dever de fiscalização áreas de actividade financeira com importantes reflexos na vida económica e social do Pais, como vinha sucedendo nos últimos anos.\nTal como se reforça a inadmissibilidade de qualquer maioria parlamentar autorizar o Governo ou o Ministro das Finanças a alterarem livremente aquilo que a assembleia da República aprovou.\nO projecto de lei do PCP exclui, deliberadamente, quaisquer propostas que significassem alterações de fundo aos princípios gerais ou às regras sobre execução e fiscalização orçamental hoje constantes da Lei n.º 64/77, de 26 de Agosto. Visa-se apenas alterar o que não poderia subsistir face à actual estrutura orçamental e corrigir aquilo que nem face à anterior era admissível ou desejável, mas vinha sendo reiteradamente praticado.\nO articulado dá cumprimento ao disposto no artigo 108.º da Constituição, na sua redacção actual, a qual implica, do nosso ponto de vista, que do Orçamento do Estado sejam expurgadas todas as disposições legais alheias à matéria orçamental. Estas abundaram, com abuso, no período em que à Assembleia da República cabia apenas a aprovação da lei do orçamento, convertida num aglomerado híbrido de normas de natureza, âmbito de vigência e finalidades muito diversas. Não nos parece, porém, de admitir que se prossiga por tal caminho. As providências relativas ao sistema fiscal (criação de impostos, revisão de taxas e incidências, isenções, etc.) devem constar de propostas autónomas apresentadas à Assembleia da República simultaneamente cem a proposta do Orçamento do Estado.\nSó assim é possível atingir o máximo rigor e transparência do Orçamento. Deste entendimento e desta delimitação resultará ainda uma útil clarificação do papel e do âmbito de cada uma das leis que regulam a vida financeira do Estado e cuja vigência em geral não se confina a um único ano económico. O que não se justifica é incluir no Orçamento do Estado normas que ou fazem parte de códigos autónomos, e só nessa sede devem ser tratadas, ou devem ser objecto de leis especiais em razão da sua própria excepcionalidade (como sucede com as normas que em relação à execução orçamental de um determinado ano impliquem alteração do regime geral constante da lei do enquadramento).\nPlenamente necessário se afigura, por outro lado, o cuidado posto na regulamentação da obrigação governamental de justificar as medidas que proponha, informando a Assembleia da República e o País sobre a realidade da vida orçamental. Todo o trabalho de elaboração orçamental até agora desenvolvido pela Assembleia da República corrobora as graves consequências dessa obscuridade, que têm impedido o conhecimento da situação real de vastas regiões das finanças públicas, bem como a importância de uma atempada, rigorosa e completa informação por parte dos responsáveis governamentais."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 1616,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para a apresentação da proposta de lei do Governo, tem a palavra o Sr. Ministro das Finanças e do Plano."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 1616,
+      "speaker": {
+        "id": 2781,
+        "name": "Ernâni Lopes",
+        "party": "N/A",
+        "string": "O Sr. Ministro das Finanças e do Plano (Ernâni Lopes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A presente proposta de lei de enquadramento do Orçamento do Estado justifica-se desde logo pela alteração introduzida pela revisão constitucional no artigo 108.º da Constituição, mas corresponde também à intenção do Governo de introduzir algumas inovações significativas no sistema orçamental português.\n\nO artigo 108.º da Constituição, na sua forma de 1976, previa um sistema em que o Governo apresentava à Assembleia da República uma proposta de lei contendo as linhas gerais das receitas e despesas, estas classificadas por ministérios e grandes funções, e em que a Assembleia apenas discutia e votava essas linhas gerais, sendo depois o Orçamento elaborado pelo Governo e posto em execução através de um decreto-lei orçamental.\n\nCom a revisão constitucional, o Governo passa a apresentar a esta Câmara uma proposta com o próprio Orçamento, o qual é aqui discutido e votado e depois publicado sob a forma de uma lei.\n\nAssim, há necessidade de alterar a lei do enquadramento de maneira a adaptá-la a este novo sistema, colocando-se as formas de apresentação parlamentar do Orçamento e da sua, discussão e votação ao par do que se faz na generalidade dos países democráticos.\n\nPor outro lado, aproveita-se a oportunidade desta proposta de lei para introduzir algumas inovações na gestão orçamental e de contabilidade pública, que são produto dos trabalhos que vêm sendo prosseguidos na Secretaria de Estado do Orçamento.\n\nCom efeito, um dos instrumentos mais importantes para a estabilização financeira do País é a prática de uma boa gestão orçamental e de um controle evoluído das despesas públicas, pelo que aquela Secretaria de Estado vem desenvolvendo estudos no sentido de colocar essa gestão e esse controle ao par das técnicas mais evoluídas.\n\nEntretanto, nesta matéria, mais do que em qualquer outra, é indispensável ter um particular cuidado com que as novas técnicas introduzidas no sistema orçamental não comprometam o equilíbrio do seu funcionamento e não provoquem rupturas que, especialmente numa situação de grave crise financeira como é a portuguesa, teriam consequências muito sérias.\n\nAssim, mantém-se a estrutura geral da Lei n.º 64/77 e introduzem-se apenas as alterações que, como resultado da experiência adquirida, não são susceptíveis de provocar rupturas no sistema orçamental; contudo, deve acentuar-se de novo que se trata de alterações significativas que representam um avanço decisivo.\n\nNão desconhece o Governo que alguns partidos da oposição apresentaram projectos de lei com o mesmo objectivo, sendo de saudar essas iniciativas pelo que traduzem de reconhecimento da importância de que se reveste a matéria, e essa saudação faço-a aqui eu em nome do Governo.\n\nConsidera, entretanto, o Governo que é sua obrigação propor, ele próprio, uma proposta de lei que tome em conta a experiência entretanto colhida no Ministério, das Finanças e do Plano, ao longo dos últimos anos, em matéria de preparação e apresentação à Assembleia da República, para efeito de discussão e votação.\nDe resto, a presente proposta enquadra-se nos trabalhos que, como já referi, vêm sendo prosseguidos na Secretaria de Estado do Orçamento e que, entre outros aspectos, implicaram, naturalmente, a comparação das constituições e dos sistemas orçamentais de vários países, e, em especial, dos países da CEE, bem como a análise detalhada da evolução das constituições portuguesas e da evolução dos sistemas orçamentais e de contabilidade pública que têm vigorado em Portugal.\n\nSendo estas as duas linhas de força principais em que assenta a presente proposta de lei, convém explicitar o fundamento das principais inovações introduzidas.\n\nComo tem sido salientado e como, de resto, é unanimemente reconhecido, quer pelos estudiosos de finanças públicas, quer pelos parlamentos e governos da generalidade dos países democráticos, a especificação das receitas e despesas não deve ser tão vaga que retire o importante significado política que reveste o controle parlamentar do Orçamento, nem deve ser tão detalhada que faça com que a Assembleia corra o risco de funcionar como uma «câmara orçamental», com os graves prejuízos de funcionamento que daí resultar riam para ela própria e com o bloqueio que isso acarretaria para a normal acção governativa.\nCom efeito, se a especificação das receitas e despesas for demasiadamente detalhada,, o funcionamento normal da Assembleia fica perturbado, as decisões orçamentais atrasam-se e a gestão orçamental é seriamente prejudicada, o que, se em situação financeira normal é grave, em situação de crise é extremamente grave.\n\nPortanto, houve necessidade de se apresentar aqui uma proposta de equilíbrio, de maneira a corresponder ao objectivo de um eficaz controle parlamentar e, simultaneamente, de uma eficaz gestão orçamental.\n\nAssim (artigos 7.º, 8.º e 12.º), as receitas são classificadas no Orçamento, segundo a classificação económica, por capítulos, grupos e artigos, e as despesas são classificadas por departamentos e capítulos (ao nível de direcção-geral) e por funções (códigos funcionais).\n\nEsta especificação corresponde ao que se faz na generalidade dos países da CEE."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 1617,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Lobo Xavier."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 1617,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Lobo Xavier (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Ministro das Finanças e do Plano, V. Ex.ª acaba de apresentar a proposta de lei do Governo sobre o enquadramento orçamental e o CDS comunga com V. Ex.ª na preocupação de fazer uma lei tão perfeita quanto possível, de fazer uma revisão profunda daquilo que já existia.\n\nA proposta de lei que V. Ex.ª apresentou tem alguns aspectos positivos, muito embora se encontrem a par com disposições claramente inaceitáveis, como é o caso, por exemplo, da possibilidade da inscrição orçamental a posteriori.\n\nQueria, pois, perguntar-lhe se não acha desejável que a proposta de lei do Governo e o projecto de lei do CDS, que são globais, sejam ambos aprovados na generalidade, para depois, em comissão, serem discutidos na especialidade."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 1617,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Ministro, há mais oradores inscritos. Deseja responder já ou no fim?"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 1617,
+      "speaker": {
+        "id": 2781,
+        "name": "Ernâni Lopes",
+        "party": "N/A",
+        "string": "O Sr. Ministro das Finanças e do Plano",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Respondo no fim, Sr. Presidente."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 1617,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimento, tem a palavra o Sr. Deputado José Magalhães."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 1617,
+      "speaker": {
+        "id": 736,
+        "name": "José Manuel Santos De Magalhães",
+        "party": "PCP",
+        "string": "O Sr. José Magalhães (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Ministro das Finanças e do Plano, a intervenção com que apresentou a proposta governamental suscita-nos algumas reflexões que gostaríamos de lhe transmitir.\nAfirma-se que se trata de cumprir a Constituição e de introduzir inovações significativas no nosso sistema orçamental. Permita-me que lhe diga que nos surpreende a observação, uma vez que, quanto a nós, a proposta governamental - e isto é lamentável - se caracteriza um pouco pelo contrário, isto é, onde a Constituição determinaria, e determina, imperativamente, inovações não se inova; por outro lado, mantêm-se preceitos que são discutíveis e que corroboram práticas que eram já dubiamente constitucionais ou mesmo inconstitucionais, eliminam-se disposições da"
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 1618,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Octávio Teixeira."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 1618,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Octávio Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Ministro das Finanças e do Plano disse, e bem, que a proposta de lei do Governo introduz inovações significativas. Estamos de acordo com isso. Só que nos parece que as inovações significativas que aí surgem residem essencialmente em questões que não podiam, além de não deverem, ser inovadas.\n\nVozes do PCP - Muito bem!"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 1618,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Desculpe que lhe diga, mas desconheço qualquer regime orçamental em que se permita que, simultaneamente com a aprovação das dotações pelo Parlamento, o Parlamento diga: bem, estas aprovações são as que aprovamos, mas vocês podem fazer umas alterações da ordem dos 10 %, 15 %, em cada uma, depois veremos - isso fica ao vosso critério.\nDesconheço isso, é uma inovação. Simplesmente, é uma inovação que não devia ser feita.\n\nHá também uma inovação em termos de elementos apresentados no Orçamento a esta Assembleia, designadamente em termos de especificação. Repare que nem sequer aquilo que era prática no decreto orçamental o Governo agora se propõe realizar. Por exemplo, iro âmbito das receitas as contas de ordem não são discriminadas por capítulos, grupos e artigos. Poderá dizer-me que isto não está contido na proposta de lei do Governo agora em discussão, mas tenho de a computar com a proposta de lei do orçamento que já foi entregue, e a proposta de lei do orçamento explicita a intenção do Governo. Nem sequer o decreto orçamental se cumpre nessa matéria.\n\nPor outro lado, vai-se atrás em relação àquilo que até agora era prática quando se aprovava uma mera lei orçamental, o problema da classificação económica das despesas. \nO Sr. Ministro considera que é irrelevante para a Assembleia da República conhecer a classificação económica das despesas.\n\nTambém em relação à questão do artigo 17.º - efeitos do orçamento das receitas -, subvertendo-se o princípio existente - e julgo que generalizado, universal - da necessidade da inscrição orçamental para que possa haver cobrança de impostos, gostaria de saber aonde irá o Governo com esta inovação. Para onde irá o princípio que já referi da exactidão e veracidade orçamental que é aceite em todos os manuais de direito financeiro, de finanças públicas e que é aceite em todas as escolas, aceite e consagrado em todos os países?\n\nGostaria, se for possível, que a estas questões o Sr. Ministro dê uma resposta cabal."
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 1618,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Ainda para pedir esclarecimentos, tem a palavra o Sr. Deputado António Vitorino."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 1618,
+      "speaker": {
+        "id": 610,
+        "name": "António Manuel De Carvalho Ferreira Vitorino",
+        "party": "UEDS",
+        "string": "O Sr. António Vitorino (UEDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Ministro das Finanças e do Plano, V. Ex.ª, na sua intervenção, a um enunciado de princípios gerais com o qual nós estamos de acordo e não negamos que a proposta de lei apresenta múltiplos e variados aspectos positivos.\n\nContudo, tivemos ocasião, na comissão - e tivemos ocasião de ouvir já hoje aqui nesta Câmara, e na intervenção que iremos proferir faremos referência a essas matérias -, de levantar dúvidas de constitucionalizasse em relação a algumas disposições da proposta de lei.\n\nEm suma, a proposta de lei, em nosso entender, não acata na íntegra um monismo total para que aponta o artigo 108.º da Constituição, deixa subsistir um certo monismo imperfeito, para não dizer um certo dualismo encapotado. V. Ex.ª não fez referência à possibilidade de o Governo estar disponível para reapreciar o âmbito de repartição de competências entre a Assembleia da República e o Governo, tal como ele é definido na matriz inicial da proposta de lei do Governo.\n\nA minha primeira questão era, portanto, a de saber se há ou não da parte do Governo disponibilidade para reapreciar esse quadro de repartição de competências que a proposta de lei inicialmente apresentava, atendendo às dúvidas de inconstitucionalidade que foram, e que ainda poderão vir a ser, suscitadas.\n\nUma segunda questão, que no fundo e apenas um corolário desta primeira, é a de saber qual é o grau"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 1619,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o entender, tem a palavra o Sr. Ministro das Finanças e do Plano."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 1619,
+      "speaker": {
+        "id": 2781,
+        "name": "Ernâni Lopes",
+        "party": "N/A",
+        "string": "O Sr. Ministro das Finanças e do Plano",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Começaria por abordar o tema suscitado pelo Sr. Deputado Lobo Xavier, que me perguntou se o Governo está aberto a aceitar as propostas de alteração que forem apresentadas.\n\nPenso que não é ao Governo que compete definir essa matéria, mas sim à própria Assembleia, e, sendo assim, as propostas de alteração serão objecto de trabalho da própria Assembleia da República."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 1619,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Lobo Xavier (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Ministro, dá-me licença?"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 1619,
+      "speaker": {
+        "id": 2781,
+        "name": "Ernâni Lopes",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 1619,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Lobo Xavier (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Ministro, desejava perguntar a V. Ex.ª se acha útil, se acha oportuno, que essas propostas sejam presentes."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 1619,
+      "speaker": {
+        "id": 2781,
+        "name": "Ernâni Lopes",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, suponho que fui claro na resposta que dei. Deixo esse problema ao critério, que respeitarei, da Assembleia da República. A única resposta clara que lhe posso dar é que respeitarei como me compete, o critério da Assembleia.\n\nO Sr. Deputado José Magalhães, do PCP, refere, nos comentários que fez, alguns problemas em matéria de classificação e de especificação das despesas e das receitas que o Governo apresenta na sua proposta de lei.\n\nSr. Deputado, a proposta que o Governo apresentou tem a convergência de 2 problemas fundamentais: o primeiro, e dominante, respeita à competência da Assembleia da República no desempenho do papel que lhe foi conferido, e bem, pela Constituição; o outro liga-se com a viabilidade da gestão orçamental do Estado ao longo do ano.\n\nAssim, pareceu ao Governo que a proposta de lei apresentada concilia de uma forma equilibrada estes 2 princípios. É basicamente um problema de equilíbrio, tal como referi na minha exposição, e por isso penso que haverá sempre a possibilidade de discutir onde é que o equilíbrio se encontra. No entanto o Governo pensa que neste momento o texto da proposta é aquele que melhor permite respeitar ambos os condicionantes,\nisto é, a execução de funções da Assembleia e a possibilidade de gestão orçamental em termos de funcionamento do Governo.\n\nReferiu também V. Ex.ª que o Governo pretende este ano não cumprir obrigações de explicações. Creio que se refere a algumas normas transitórias do texto da proposta de lei relativas ao capítulo v, artigos 24.º, 25.º e 26.º\n\nTrata-se ainda aqui, julgo eu, de algo muito importante, e o Governo, ao formular a proposta que apresentou, pretende explicitar e respeitar claramente as suas obrigações perante a Assembleia da República. É um princípio de fundo que ficou inscrito no próprio articulado. No entanto devo salientar que não foi possível - reporto-me ao artigo 24.º - cumprir transitoriamente essa determinação que o Governo aceita e propõe. Dai uma norma transitória para este ano limitada a 31 de Dezembro.\n\nNo respeitante aos artigos 25.º e 26.º, o problema é mais complexo e tem uma dificuldade adicional. 15to é, em relação aos mapas plurianuais - refiro-me ao artigo 25.º -, o Governo tem a clara e firme intenção que fique na lei do enquadramento do orçamento esta responsabilidade, mas não é possível neste momento assegurar o cumprimento desse desejo, que fica, desde já, expresso através da introdução deste artigo 25.º como norma transitória. Analogamente, no que respeita ao artigo 26.º, há aqui um esforço pela parte do Governo de assegurar a informação à Assembleia da República e, por isso, o seu n.º 2 parece-nos ser exequível - o Ministério das Finanças e do Plano está empenhado em assegurar essa exequibilidade - no apresentar o orçamento cambial do sector público até 31 de Março do ano a que diz respeito.\nSr. Deputado, não vou fazer comparações em matéria de prazos, acho que não vale a pena, mas julgo que é útil que a Assembleia fique esclarecida e consciente que o Governo, através do Ministério das Finanças e do Plano, se esforçará para dar cumprimento efectivo 1 disposição transitória que está integrada no n.º 2 do artigo 26.º, isto é, apresentar o orçamento cambial até 31 de Março do ano económico a que diz respeito."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 1619,
+      "speaker": {
+        "id": 736,
+        "name": "José Manuel Santos De Magalhães",
+        "party": "PCP",
+        "string": "O Sr. José Magalhães (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Ministro, dá-me licença?"
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 1619,
+      "speaker": {
+        "id": 2781,
+        "name": "Ernâni Lopes",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 1619,
+      "speaker": {
+        "id": 736,
+        "name": "José Manuel Santos De Magalhães",
+        "party": "PCP",
+        "string": "O Sr. José Magalhães (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Ministro, a avaliar pela sua resposta, creio que não consegui exprimir-me bem em relação à questão que coloquei.\n\nO que nos inquietava e o que nos preocupa é isto: há indicações constitucionais que têm carácter imperativo. O Governo podia chegar aqui e dizer: meus senhores, tenham paciência, a norma constitucional transitória da Lei n.º 1/82, que previu a aplicação deste novo regime de elaboração orçamental, não é exequível em 1984, o legislador enganou-se, sobrestimou as forças do Governo e a capacidade de elaboração e por isso não é possível este ano cumprir. Agora o que é difícil é sustentar que vai haver um incumprimento por bocadinhos, que não se cumpre transitoriamente as indicações quanto à obrigação de justificação este ano, mas sim para o próximo."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 1619,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 1620,
+      "speaker": {
+        "id": 736,
+        "name": "José Manuel Santos De Magalhães",
+        "party": "PCP",
+        "string": "O Sr. José Magalhães (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "isto é admitir implicitamente que há uma inconstitucionalidade transitória e um cumprimento a prestações de uma imperativa disposição constitucional que tem de ser cumprida,\ne se assim é tem de se fazer uma revisão constitucional extraordinária.\nOra, bem, em relação à primeira questão que lhe\n\ncoloquei, de haver aqui uma norma através da qual\n\no Governo quer obter poderes para alterar por seu inteiro critério as classificações das despesas, o Sr Ministro sabe o que isto significa: é o poder de determinar os conteúdos e, portanto, definir o que nos\n\nchega, ou seja, pode-nos chegar 20, 30 ou 2, consoante\n\naquilo que o Governo classique. O Governo também\nreivindica o poder de ser ele a classificar aquilo que\n\nnos vai mandar, facto que nos parece abusivo."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 1620,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 1620,
+      "speaker": {
+        "id": 736,
+        "name": "José Manuel Santos De Magalhães",
+        "party": "PCP",
+        "string": "O Sr. José Magalhães (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Coloquei-lhe,\n\nSr. Ministro, uma questão relativa ao artigo 8.º, n.º 3,\n\nà qual respondeu, em primeiro lugar, dizendo que estava preocupado com o equilíbrio. Sóque a questão\n\nnão era essa, mas sim que o Governo não pode pedir\n\nque o autorizemos a mexer nas classificações como\n\nmuito bem entender, visto que deve vir cá propor em\n\nconcreto quais os termos pertinentes.\n\nO Governo, por outro lado, não pode vir dizer: meus\n\nsenhores, não vamos agora cumprir a Constituição em\n\nrelação aos artigos tal e tal e em relação aos relatórios tal e tal, isso fica para o ano - para já vamos cumprir isto e isto. \nO Sr. Ministro sabe que nós provámos, creio, que é possível mandar cá os elementos que instruíram tradicionalmente - ou que são publicados\n\nanualmente - o orçamento desenvolvido, é possível\n\nobtê-los e mandá-los cá, ainda que provisórios. Mandem os provisórios, se não podem mandar os definitivos."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 1620,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 1620,
+      "speaker": {
+        "id": 736,
+        "name": "José Manuel Santos De Magalhães",
+        "party": "PCP",
+        "string": "O Sr. José Magalhães (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não há nada que\n\njustifique a não apresentação desses elementos, ainda\n\nque provisoriamente. Não é assim, Sr. Ministro?"
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 1620,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É, é assim, é!"
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 1620,
+      "speaker": {
+        "id": 2781,
+        "name": "Ernâni Lopes",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, a resposta que lhe dei\n\ncorresponde à pergunta que formulou: o Governo não\n\ntem possibilidade de ir além daquilo que propõe nesta\n\nproposta de lei. Assim, há um princípio que o Governo\n\naceita e chama a si na própria proposta, concretizando-o\n\nda forma como aí está determinado.\n\nNão creio que seja útil fazer um exercício de carácter geral com obrigações. Eventualmente poderão não\n\nser cumpridas ou que terão de ser cumpridas de forma\n\ntransitória. Por isso pareceu ao Governo que era mais\n\ncorrecta a solução que consta da própria proposta de\n\nlei nesta matéria.\n\nDiz ainda V. Ex.ª que o Governo perdeu poderes\n\norçamentais. Na minha opinião o Governo e a Assembleia da República, em conjunto, em nome dos Portugueses, têm poderes reforçados para definir e gerir bem o Orçamento, havendo, naturalmente, uma repartição\n\nde poderes.\n\nO Sr. Deputado Octávio Teixeira referiu vários\n\npontos, designadamente no que respeita ao artigo 17.º\nO artigo 17.º contém, na proposta que foi apresentada, o efeito do orçamento das despesas e das alterações que constam ...\nCreio que houve aqui uma diferença de referência do artigo. \nO Sr. Deputado queria referir-se ao artigo 21.º, em matéria de fixação de percentagens máximas de variação, em articulação com o artigo 17.º"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 1620,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Octávio Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não, referi os dois artigos."
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 1620,
+      "speaker": {
+        "id": 2781,
+        "name": "Ernâni Lopes",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A matéria do artigo 21.º, que é uma matéria de alguma delicadeza, tal como, de um modo geral, as matérias constantes de uma lei de enquadramento do Orçamento, tem um objectivo que nos parece ser útil, isto é, a Assembleia da República poderá efectuar alterações e, ao fazê-las, pode definir limites e critérios que o Governo terá de cumprir.\n15to não retira poder à Assembleia. Em boa verdade facilita o seu trabalho e dá-lhe a possibilidade de trabalhar no futuro com uma certa flexibilidade, fixando, além de alterações, regras e limites para essas alterações. O Governo, aqui, não vem impor, vem pedir e vem suscitar, através desta proposta, uma possibilidade à Assembleia de melhor gerir o seu próprio trabalho. É esta a lógica do n .I 2 do artigo 21.º\n\nQuanto ao ponto que foi suscitado pelo artigo 17.º, pensamos que esta proposta tem condições para ser trabalhada e enriquecida. Possivelmente pode haver um enriquecimento do seu articulado, ganhando maior precisão em relação à matéria que o Sr. Deputado suscitou na discussão.\n\nAinda em relação às perguntas postas pelo Sr. Deputado Octávio Teixeira e no que respeita às contas de ordem, devo salientar que as contas de ordem estão contidas nesta lei do enquadramento do Orçamento. Pareceu-nos que a solução que foi apresentada é a que está melhor adequada à situação actual. Em todo o caso podemos apresentar alguns desenvolvimentos posteriores.\n\nNo respeitante à classificação económica das despesas, pensamos que não há um empobrecimento do Orçamento, na medida em que, não estando propriamente prevista, está normalmente contida no relatório que será apresentado. Portanto, o problema relativo à classificação económica das despesas está contemplado no próprio relatório que normalmente deve acompanhar a proposta de lei do Orçamento.\n\nO Sr. Deputado António Vitorino, para além de algumas considerações, fez-me uma pergunta concreta, no sentido de saber se o Governo está ou não disponível para apreciar o quadro de repartição das competências entre o Parlamento e o Governo, sublinhando bem que essa pergunta era formulada num quadro bem claro, em que o desiderato final é u de uma lei de enquadramento que dignifique não só a Assembleia da República e o Governo mas também o conjunto das instituições democráticas. A minha resposta à questão colocada é só uma: sim, estamos dispostos a apreciar este quadro que V. Ex.ª suscitou.\n\nFalou-me também em matéria de propostas de alteração na especialidade. Quanto a isso, o Governo entende que o papel do debate das propostas de lei"
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 1621,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Octávio Teixeira, creio que para um protesto."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 1621,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Octávio Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Ministro, V. Ex.ª proeurou dar-me algumas explicações sobre a matéria que lhe coloquei. A esse propósito referiu, concretamente, o problema da classificação económica. Todavia, o que eu referi - e isso é que me parece substancial - foi que, em termos de articulado da proposta de lei de enquadramento apresentada pelo Governo, essa obrigação desaparece.\n\nPor outro lado, para sabermos, em termos concretos e práticos, qual é o entendimento perfeito do Governo em relação à sua proposta de lei, temos de computá-la - porque nos é possível fazer isso neste momento- com a proposta de lei de orçamento que concretamente nos apresenta. E aí é que está a questão, porque esta proposta fica muito aquém do que era normal em anos anteriores.\n\nAgora o Governo apresenta, em lermos de relatório, uma classificação económica global, quando anteriormente essa classificação era apresentada ministério por ministério. 15to quer dizer que diminui a informação prestada a esta Assembleia, apesar de agora a Assembleia não votar uma lei de orçamento, mas sim o Orçamento. Repito: é esta, de facto, a questão.\n\nPor outro lado, e em relação à questão dos fundos autónomos, verifica-se uma situação perfeitamente idêntica. Com efeito, estão em causa valores e áreas importantes da actividade financeira do Estado em que é reduzida a informação prestada a esta Assembleia comparativamente com anos anteriores, quando o sentido da alteração constitucional é, indubitavelmente, o inverso. É esta a questão, Sr. Ministro."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 1621,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Ministro das Finanças e do Plano."
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 1621,
+      "speaker": {
+        "id": 2781,
+        "name": "Ernâni Lopes",
+        "party": "N/A",
+        "string": "O Sr. Ministro das Finanças e do Plano",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, em primeiro lugar, não vou fazer nenhum contraprotesto, porque não tenho ..."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 1621,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Morais Leitão (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Tem de fazer!"
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 1621,
+      "speaker": {
+        "id": 2781,
+        "name": "Ernâni Lopes",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nesse caso, é melhor não responder, uma vez que não tenho nenhum contraprotesto a fazer."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 1621,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço desculpa, Sr. Ministro, mas o riso da figura do contraprotesto é a única forma que V. Ex.ª tem para poder usar da palavra."
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 1621,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Eu quero respeitar as normas de funcionamento da Assembleia e, uma vez que não tenho contraprotesto a fazer e a lei de enquadramento dos protestos não prevê que os protestos constituam intervenções, julgo que não devo responder."
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 1621,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado António Vitorino, para uma intervenção."
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 1621,
+      "speaker": {
+        "id": 610,
+        "name": "António Manuel De Carvalho Ferreira Vitorino",
+        "party": "UEDS",
+        "string": "O Sr. António Vitorino (UEDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, Srs. Membros do Governo: O debate que decorre hoje nesta Câmara acerca das iniciativas legislativas de enquadramento do Orçamento do Estado reveste-se de um significado muito especial. Trata-se de completar a revisão constitucional em matéria orçamental, trata-se de elaborar legislação ordinária que concretize o normativo constitucional que se traduziu no cabal alargamento da esfera de competência do Parlamento e na definição das traves mestras da política orçamental do Estado. Trata-se, em suma, de definir os instrumentos jurídicos que asseguram o reforço dos poderes do Parlamento no conjunto do sistema político, nomeadamente face ao Governo.\n\nAliás, bem se pode dizer que a revisão constitucional, neste domínio, apenas se limitou a marcar o reencontro da instituição parlamentar com as raízes históricas do seu próprio aparecimento e primitivas funções. Remontam à Magna Carta os mais longínquos laços esboçáveis entre a existência e o papel do Parlamento e as responsabilidade dos poderes públicos no domínio da fiscalidade e da organização orçamental da vida do Estado. E nas mesmas relações entre o processo de tributação enquanto magna fonte das receitas e a administração das despesas no quadro de um exercício orçamental que poderemos encontrar a génese de uma das mais importantes nações do mundo ocidental, os Estados Unidos da América, já que a revolta dos colonos de Boston se desencadeou com o slogan «taxation without representation is tyranny».\n\nModernamente, a problemática do Orçamento encontra-se no cerne do debate da evolução dos sistemas políticos democráticos: a tendência no sentido ou da sua maior governamentalização ou da sua mais acentuada parlamentarização está intimamente ligada, entre outros aspectos, ao maior ou menor grau de participação do Parlamento na elaboração do Orçamento do Estado.\n\nNo período posterior à 2 º Guerra Mundial assistiu-se ao aparecimento de importantes correntes tecnocráticas que, a pretexto da complexidade técnica destas matérias, levaram a um certo esvaziamento das competências orçamentais do Parlamento em benefício do Governo. Contudo, hoje em dia, sobretudo após o primeiro choque petrolífero, o agravamento da «crise fiscal» do Estado, a subida radical dos défices orçamentais, os riscos de indigência financeira de o «Estado-providência» apreciar as opções orçamentais, tornou-se cada vez mais um instrumento que responsabiliza a comunidade no seu todo e não apenas uma só fracção da sociedade, ainda que momentaneamente constituída em maioria parlamentar.\n\nO melindre das decisões orçamentais afirma-se concomitantemente com a consciência de que é do interesse geral alargar à participação de todas as correntes políticas a elaboração do estatuto fundamental da administração financeira e fiscal do Estado, porque a pluralidade de opiniões políticas na definição do Orçamento é, neste contexto, um elemento fundamental de responsabilização de todas as correntes partidárias num debate de um instrumento tão relevante que exige uma análise exaustiva das reais alternativas que se colocam em cada momento.\n\nAlargar a esfera de matérias a apreciar em sede de debate parlamentar conduz, assim, a uma exigência reforçada de responsabilização de todos os partidos, por forma a que o debate orçamental não seja um mero debate de filosofia geral a propósito do Orçamento, mas sim uma autêntica apreciação em detalhe"
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 1623,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, não há mais inscrições na Mesa e estamos a chegar à hora regimental do fecho desta sessão.\n\nVou anunciar a ordem de trabalhos para a próxima sessão, que será na segunda-feira, dia 24, pelas 15 horas. Haverá período de antes da ordem do dia e a ordem do dia é a continuação da agenda de hoje.\n\nNão havendo mais nada a tratar, está encerrada a sessão."
+    }
+  ]
+}

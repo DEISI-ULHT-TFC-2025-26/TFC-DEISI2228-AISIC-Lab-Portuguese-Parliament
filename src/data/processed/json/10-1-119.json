@@ -1,0 +1,1972 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "10",
+    "legislative_session": "1",
+    "number": "119",
+    "date": "2006-04-28"
+  },
+  "debate_id": "r3_10_1_119_2006-04-28",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 5501,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.\nEram 10 horas e 10 minutos.\nSrs. Deputados presentes à sessão:\nPartido Socialista (PS):\n\nAgostinho Moreira Gonçalves\n\nAlberto Marques Antunes\n\nAldemira Maria Cabanita do Nascimento Bispo Pinho\n\nAna Catarina Veiga Santos Mendonça Mendes\n\nAntónio Alves Marques Júnior\n\nAntónio Bento da Silva Galamba\n\nAntónio José Martins Seguro\n\nAntónio Manuel de Carvalho Ferreira Vitorino\n\nAntónio Ramos Preto\n\nAntónio Ribeiro Gameiro\n\nArmando França Rodrigues Alves\n\nArtur Miguel Claro da Fonseca Mora Coelho\n\nCarlos Alberto David dos Santos Lopes\n\nDavid Martins\n\nDeolinda Isabel da Costa Coutinho\n\nElísio da Costa Amorim\n\nFernanda Maria Pereira Asseiceira\n\nFernando Manuel de Jesus\n\nFernando dos Santos Cabral\n\nGlória Maria da Silva Araújo\n\nHorácio André Antunes\n\nHugo Miguel Guerreiro Nunes\n\nIsabel Maria Batalha Vigia Polaco de Almeida\n\nJoana Fernanda Ferreira Lima\n\nJoaquim Augusto Nunes Pina Moura\n\nJoaquim Ventura Leite\n\nJorge Manuel Gouveia Strecht Ribeiro\n\nJorge Manuel Monteiro de Almeida\n\nJosé Adelmo Gouveia Bordalo Junqueiro\n\nJosé Alberto Rebelo dos Reis Lamego\n\nJosé Augusto Clemente de Carvalho\n\nJosé Carlos Bravo Nico\n\nJosé Eduardo Vera Cruz Jardim\n\nJosé Manuel Lello Ribeiro de Almeida\n\nJovita de Fátima Romano Ladeira\n\nJoão Barroso Soares\n\nJoão Cardona Gomes Cravinho\n\nJoão Cândido da Rocha Bernardo\n\nJoão Miguel de Melo Santos Taborda Serrano\n\nJoão Raul Henriques Sousa Moura Portugal\n\nJúlio Francisco Miranda Calha\n\nLuís Afonso Cerqueira Natividade Candal\n\nLuís António Pita Ameixa\n\nLuís Miguel Morgado Laranjeiro\n\nManuel Alegre de Melo Duarte\n\nManuel Francisco Pizarro de Sampaio e Castro\n\nManuel Maria Ferreira Carrilho\n\nMarcos Sá Rodrigues\n\nMarcos da Cunha e Lorena Perestrello de Vasconcellos\n\nMaria Antónia Moreno Areias de Almeida Santos\n\nMaria Celeste Lopes da Silva Correia\n\nMaria Cidália Bastos Faustino\n\nMaria Custódia Barbosa Fernandes Costa\n\nMaria Helena Terra de Oliveira Ferreira Dinis\n\nMaria Helena da Silva Ferreira Rodrigues"
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 5502,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.\nEram 10 horas e 10 minutos.\nSrs. Deputados presentes à sessão:\nPartido Socialista (PS):\n\nAgostinho Moreira Gonçalves\n\nAlberto Marques Antunes\n\nAldemira Maria Cabanita do Nascimento Bispo Pinho\n\nAna Catarina Veiga Santos Mendonça Mendes\n\nAntónio Alves Marques Júnior\n\nAntónio Bento da Silva Galamba\n\nAntónio José Martins Seguro\n\nAntónio Manuel de Carvalho Ferreira Vitorino\n\nAntónio Ramos Preto\n\nAntónio Ribeiro Gameiro\n\nArmando França Rodrigues Alves\n\nArtur Miguel Claro da Fonseca Mora Coelho\n\nCarlos Alberto David dos Santos Lopes\n\nDavid Martins\n\nDeolinda Isabel da Costa Coutinho\n\nElísio da Costa Amorim\n\nFernanda Maria Pereira Asseiceira\n\nFernando Manuel de Jesus\n\nFernando dos Santos Cabral\n\nGlória Maria da Silva Araújo\n\nHorácio André Antunes\n\nHugo Miguel Guerreiro Nunes\n\nIsabel Maria Batalha Vigia Polaco de Almeida\n\nJoana Fernanda Ferreira Lima\n\nJoaquim Augusto Nunes Pina Moura\n\nJoaquim Ventura Leite\n\nJorge Manuel Gouveia Strecht Ribeiro\n\nJorge Manuel Monteiro de Almeida\n\nJosé Adelmo Gouveia Bordalo Junqueiro\n\nJosé Alberto Rebelo dos Reis Lamego\n\nJosé Augusto Clemente de Carvalho\n\nJosé Carlos Bravo Nico\n\nJosé Eduardo Vera Cruz Jardim\n\nJosé Manuel Lello Ribeiro de Almeida\n\nJovita de Fátima Romano Ladeira\n\nJoão Barroso Soares\n\nJoão Cardona Gomes Cravinho\n\nJoão Cândido da Rocha Bernardo\n\nJoão Miguel de Melo Santos Taborda Serrano\n\nJoão Raul Henriques Sousa Moura Portugal\n\nJúlio Francisco Miranda Calha\n\nLuís Afonso Cerqueira Natividade Candal\n\nLuís António Pita Ameixa\n\nLuís Miguel Morgado Laranjeiro\n\nManuel Alegre de Melo Duarte\n\nManuel Francisco Pizarro de Sampaio e Castro\n\nManuel Maria Ferreira Carrilho\n\nMarcos Sá Rodrigues\n\nMarcos da Cunha e Lorena Perestrello de Vasconcellos\n\nMaria Antónia Moreno Areias de Almeida Santos\n\nMaria Celeste Lopes da Silva Correia\n\nMaria Cidália Bastos Faustino\n\nMaria Custódia Barbosa Fernandes Costa\n\nMaria Helena Terra de Oliveira Ferreira Dinis\n\nMaria Helena da Silva Ferreira Rodrigues"
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 5504,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a Sr.ª Secretária vai proceder à leitura do expediente."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 5504,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, deram entrada na Mesa, e foram admitidas, as seguintes iniciativas legislativas: proposta de lei n.º 65/X - Transpõe, parcialmente, para a ordem jurídica nacional, a Directiva n.º 2004/23/CE, do Parlamento Europeu e do Conselho, de 31 de Março de 2004, alterando a Lei n.º 12/93, de 22 de Abril, relativa à colheita e transplante de órgãos, tecidos e células de origem humana, que baixa à 10.ª Comissão, e projecto de lei n.º 252/X - Estabelece a inversão do ónus da prova no âmbito da prestação de serviço público (PCP), que baixa à 1.ª Comissão.\n\nEm termos de expediente é tudo, Sr. Presidente."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 5504,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, estão em aprovação os n.os 96 a 107 do Diário, respeitantes às reuniões plenárias dos dias 1, 2, 3, 8, 9, 10, 15, 16, 22, 29, 30 e 31 de Março.\n\nNão havendo objecções, consideram-se aprovados.\n\nSrs. Deputados, vamos passar, seguidamente, à discussão conjunta de cinco iniciativas legislativas: o projecto de lei n.º 8/X - Altera o Decreto-Lei n.º 369/90, de 26 de Novembro, com vista a promover a igualdade entre homens e mulheres nos manuais escolares (PEV); o projecto de lei n.º 181/X - Regula o regime jurídico dos manuais escolares e de outros recursos didácticos (BE); o projecto de lei n.º 217/X - Regime Jurídico dos manuais escolares e de outros recursos didácticos (PPD/PSD); o projecto de lei n.º 220/X - Define o regime de certificação e adopção dos manuais escolares garantindo a sua gratuitidade (PCP), e a proposta de lei n.º 63/X - Define o regime de adopção, avaliação e certificação dos manuais escolares do ensino básico e do ensino secundário, bem como os princípios e objectivos a que deve obedecer o apoio sócio-educativo relativamente à aquisição e empréstimos de manuais escolares.\n\nPara apresentar o projecto de lei do Partido Ecologista \"Os Verdes\", tem a palavra o Sr. Deputado Francisco Madeira Lopes."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 5504,
+      "speaker": {
+        "id": 1238,
+        "name": "Francisco Miguel Baudoin Madeira Lopes",
+        "party": "PEV",
+        "string": "O Sr. Francisco Madeira Lopes (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados, o Partido Ecologista \"Os Verdes\" assumiu como prioridade, no início desta Sessão Legislativa, a entrega de um conjunto de diplomas visando combater as desigualdades que ainda hoje persistem na nossa sociedade entre homens e mulheres.\n\nInfelizmente, apesar de a Constituição da República Portuguesa consagrar essa igualdade e apesar de inúmeros documentos e recomendações internacionais - de que destaco a Convenção das Nações Unidas sobre a Eliminação de Todas as Formas de Discriminação contra as Mulheres - preverem o fim necessário desta discriminação que afecta as mulheres a todos os níveis, ela continua a subsistir. E estas formas de discriminação afectam a mulher no que respeita à desigualdade de oportunidades no acesso ao emprego, ao tratamento discriminatório veiculado nos media, ao défice de participação na vida pública e no acesso a cargos políticos e à desequilibrada partilha da responsabilidade dentro da família, designadamente no tratamento dos filhos ou dos idosos, situações que deveremos eliminar o mais rapidamente possível porque envergonham uma sociedade desenvolvida como a nossa.\n\nReconhecendo a importância fundamental dos manuais escolares e da educação no combate à desigualdade entre homens e mulheres, o Partido Ecologista \"Os Verdes\" apresentou este projecto de lei, agora n.º 8/X, que consiste na reapresentação de um outro projecto de lei que já tínhamos elaborado na anterior Legislatura, o projecto de lei n.º 378/IX. Esse projecto foi apresentado, discutido e votado na generalidade e mereceu uma aprovação por unanimidade, ou seja, a aprovação de todas as bancadas, reconhecendo-se a vantagem na sua aprovação para combater as desigualdades e a discriminação entre homens e mulheres.\n\nÉ reconhecida a permanência de estereótipos nos manuais escolares que vão perpetuando esta diferença entre homens e mulheres, permanentemente apontando à mulher uma função subalterna na nossa sociedade e atribuindo-lhe funções tipicamente domésticas, enquanto o homem é quase sempre apontado como o trabalhador ou o elemento da família que sai de casa para trabalhar e para a sustentar. Esta é uma concepção absolutamente retrógrada da nossa sociedade e que urge expurgar dos nossos manuais escolares, objectivo que norteia este projecto de lei que hoje reapresentamos."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 5504,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes de Os Verdes e do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 5504,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para apresentar o projecto de lei do Bloco de Esquerda, tem a palavra a Sr.ª Deputada Alda Macedo."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 5504,
+      "speaker": {
+        "id": 2445,
+        "name": "Alda Maria Gonçalves Pereira Macedo",
+        "party": "BE",
+        "string": "A Sr.ª Alda Macedo (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: Somos ciclicamente perturbados pelos problemas constituídos pelos manuais escolares em muitas das suas facetas. Há duas que, com alguma regularidade, constituem uma área de problema muito significativa. Uma"
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 5505,
+      "speaker": {
+        "id": 1320,
+        "name": "Luís Emídio Lopes Mateus Fazenda",
+        "party": "BE",
+        "string": "O Sr. Luís Fazenda (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 5505,
+      "speaker": {
+        "id": 2445,
+        "name": "Alda Maria Gonçalves Pereira Macedo",
+        "party": "BE",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso mesmo, somos tentados a resolver dois problemas, fazendo o seguinte: em primeiro lugar, procurando que a escola seja um espaço educativo para o consumo, ou seja, um espaço educativo da forma como se equaciona o manual. Neste aspecto, há que defender a ideia de que o manual não é, portanto, um bem descartável de curta duração mas, sim, um bem precioso que deve ser guardado e partilhado. Esta ideia de partilha deve ser, do ponto de vista do Bloco de Esquerda, profundamente acarinhada no que respeita à educação dos jovens nas nossas escolas.\n\nEm segundo lugar, para resolver o problema do custo ou do dispêndio que os manuais representam para as famílias, não defendemos, obviamente, a ideia de que deve ser o Estado a subsidiar as editoras e os livreiros, que, tendo o seu espaço comercial, não devem ter o Estado como fonte de subsídio. Como tal, a partir desta ideia da partilha do livro e promovendo uma ideia de reutilização desse mesmo livro, procuramos encontrar um sistema que possa garantir a gratuitidade dos manuais escolares, sem, com isso, acarretar a perversão que passaria pelo facto de o Estado, anualmente, ter de comprar volumes significativos destes manuais. Esta é a ideia que defendemos através do dispositivo de constituição de uma bolsa de troca de livros dentro dos espaços das escolas. Esta ideia deve ser bem discutida e analisada, visto que o Bloco de Esquerda defende ainda que esta bolsa seja universal, obrigatória para as escolas e voluntária para os jovens e as crianças.\n\nDeixem-me dizer-vos que todo o sistema de apoio social que se destina apenas aos mais pobres é um pobre sistema."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 5505,
+      "speaker": {
+        "id": 1320,
+        "name": "Luís Emídio Lopes Mateus Fazenda",
+        "party": "BE",
+        "string": "O Sr. Luís Fazenda (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 5505,
+      "speaker": {
+        "id": 2445,
+        "name": "Alda Maria Gonçalves Pereira Macedo",
+        "party": "BE",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é isso que queremos! O que queremos é um sistema que garanta igualdade de direitos para todos os jovens e todas as crianças. Ora, dentro dessa ideia, este mecanismo da bolsa de troca de livros tem de ser, necessariamente, universal, aberto a todos os jovens e crianças. Por outro lado, deve basear-se na ideia de que a partilha do livro, como a da reutilização do livro, é um valor importante, pois só desta forma evitaremos que uma bolsa de troca de livros se possa transformar num mecanismo de estigmatização"
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 5506,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Não havendo pedidos de esclarecimento, para apresentar o projecto de lei do PSD, tem a palavra o Sr. Deputado Emídio Guerreiro."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 5506,
+      "speaker": {
+        "id": 1990,
+        "name": "Emídio Guerreiro",
+        "party": "PSD",
+        "string": "O Sr. Emídio Guerreiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: O manual escolar é um recurso didáctico e pedagógico de valia reconhecida. Contribui de sobremaneira para os processos de ensino e de aprendizagem que acontecem nas e a partir das nossas escolas. Não sendo recurso único, pois a evolução dos tempos tem vindo, e virá ainda mais, a acrescentar novos recursos didácticos e pedagógicos à disposição de professores e de alunos, continua a ser um recurso importante e, por isso, merecedor de atenção no que respeita a um mais adequado enquadramento legal da respectiva elaboração, produção, distribuição, conformidade e qualidade, avaliação e adopção, promoção, e políticas de determinação de preço, definição de apoio à aquisição e de incentivo ao empréstimo por parte dos alunos e respectivas famílias.\n\nNo dia 8 de Junho de 2005, tivemos oportunidade de discutir, aqui, nesta Assembleia, aquela que seria a primeira iniciativa nesta legislatura sobre a temática dos manuais escolares.\n\nNesse debate, ocorrido há cerca de 11 meses, o Governo solicitou à Assembleia da República um prazo pois pretendia aqui trazer uma proposta de lei para regulamentar esta matéria.\n\nVale a pena recordar que, ao longo deste tempo, muitas coisas se passaram. Desde logo, a tentativa do Governo de impor regras perfeitamente absurdas na sua anteproposta de lei. Felizmente para o sector da educação, para a salvaguarda dos projectos educativos das escolas, de cada escola, e do interesse dos alunos, o Conselho Nacional de Educação elaborou um parecer tão crítico que o Governo teve de recuar. Deste modo, desapareceu a intenção de introduzir a recomendação da adopção de determinado manual escolar que mais não era que um encapotado regresso ao livro único.\n\nMas, infelizmente, o Governo, e apesar das recomendações do Conselho Nacional de Educação, não foi capaz de perceber o erro da certificação prévia dos manuais. Na proposta de lei, embora se tenha retirado expressamente a expressão pré-certificação ou certificação prévia, afirma-se claramente que apenas poderá ser adoptado o manual que esteja certificado. Ou seja, as alterações introduzidas ao documento inicial mais não são do que jogos de palavras.\n\nO Governo, na sua proposta de lei, fala muito de autonomia, de liberdade de escolha de manuais escolares por parte de escolas e agrupamentos, mas expressamente restringe-lhes a autonomia e a liberdade de escolha dos manuais, que serão previamente certificados. Ou seja, diz uma coisa, mas faz o seu inverso quando reduz o universo da escolha apenas a alguns manuais em vez de possibilitar a escolha entre todos os manuais disponíveis no mercado de forma a que cada escola, cada agrupamento possa escolher o manual que melhor se adapta, que melhor se adequa e que melhor se identifica com o seu projecto educativo."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 5506,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 5506,
+      "speaker": {
+        "id": 1990,
+        "name": "Emídio Guerreiro",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E esta questão não é de somenos importância. À diversidade dos projectos educativos pode corresponder uma diversidade de recursos didácticos e pedagógicos entre os quais os manuais continuam a ter uma importância grande.\n\nE claro está que também aqui, e para assegurar o objectivo, propõe o Governo mais umas comissões e mais uns conselhos. São comissões para certificar ou, como agora o Governo diz, para avaliar, são conselhos de acompanhamento, enfim, o Partido Socialista \"no seu melhor\"…!"
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 5506,
+      "speaker": {
+        "id": 1255,
+        "name": "Hermínio José Sobral Loureiro Gonçalves",
+        "party": "PSD",
+        "string": "O Sr. Hermínio Loureiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Já é habitual!"
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 5506,
+      "speaker": {
+        "id": 1990,
+        "name": "Emídio Guerreiro",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pede sacrifícios a todos, mas depois não é capaz de governar, de fazer seja o que for, sem gastar mais e mais… Estará o Governo em condições de dizer hoje, aqui, perante todos nós, quanto vai custar ao erário público a implantação deste modelo? E quanto vão custar estas comissões e estes conselhos? É que, se forem pagos pelas editoras, acreditam as Sr.as e os Srs. Deputados que os custos não se repercutirão no preço final a pagar pelas famílias? E serão mesmo necessários?\n\nSr. Presidente, Sr.as e Srs. Deputados: E que dizer da maior contradição desta proposta de lei? Um Governo que apregoa um Choque e um Plano Tecnológico…, um Governo que diz ter um Programa Simplex para a desburocratização da Administração…, que se propõe um investimento enorme em meios"
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 5507,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 5507,
+      "speaker": {
+        "id": 1990,
+        "name": "Emídio Guerreiro",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O manual escolar é um recurso didáctico e pedagógico importante. Contudo, e quando se pretende legislar numa matéria cujo enquadramento remonta a 1990, em pleno século XXI, em 2006, não faz qualquer sentido ignorar a imensidão de possibilidades que as novas tecnologias podem proporcionar.\n\nTorna-se assim indispensável criar incentivos e mecanismos que possibilitem às escolas a utilização de outros recursos que não apenas o papel.\n\nÉ nas escolas que se formarão atitudes e se desenvolverão competências que tornarão as novas gerações mais capazes, e para isso é importante que as escolas e os recursos didácticos e pedagógicos a utilizar incluam todas as vertentes e tendam a privilegiar as que as novas tecnologias possibilitam."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 5507,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Não havendo pedidos de palavra, para apresentar o projecto de lei do PCP, tem a palavra o Sr. Deputado Miguel Tiago."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 5507,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Sr. Miguel Tiago (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Hoje discute-se uma matéria que reputamos da maior importância na garantia de um ensino de qualidade.\n\nMas é, ao contrário do discurso dominante, uma matéria também de especial importância no que toca à gratuitidade do ensino, tal como é assegurado no artigo 74.º da Constituição da República Portuguesa, onde se inscreve que \"todos têm direito ao ensino como garantia do direito à igualdade de oportunidades e êxito escolar\".\n\nNeste enquadramento em que o Partido Comunista Português situa a importância social e educativa da política dos manuais escolares e no seu cruzamento inevitável com o papel do Estado, a quem incumbe \"assegurar o ensino básico universal, obrigatório e gratuito\", o PCP propõe um conjunto de medidas que vão ao encontro de dois planos essenciais de necessidade."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 5508,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 5508,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Neste sentido, reconhecendo o manual escolar como um dos mais importantes meios capazes de responder aos objectivos e finalidades programáticas de cada disciplina ou área curricular, exige-se que se garantam as condições necessárias e suficientes à sua qualidade. Por isso, propomos que os estabelecimentos de ensino básico e secundário só possam adoptar manuais escolares previamente certificados."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 5508,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 5508,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O PCP entende, no entanto, que a certificação de manuais escolares deve contemplar a participação das escolas ao longo de todo o processo de avaliação, certificação e posterior acompanhamento. Assim, a certificação dos manuais escolares seria realizada por uma comissão nacional de avaliação e certificação, nomeada pelo Ministério da Educação e presidida por uma personalidade de reconhecido mérito científico e pedagógico, designada de entre os seus membros.\n\nEssa comissão integraria representantes das comunidades educativa e científica e das organizações profissionais e científicas dos docentes. Claro que, dada a diversidade das matérias em causa e a exigência de requisitos de qualidade científica e pedagógica, propõe-se que essa comissão possa funcionar através de subcomissões especializadas por áreas disciplinares.\n\nDe novo, relevamos esta característica própria do projecto de lei do PCP: o procedimento final de certificação conta com aprovação prévia das escolas, formulada pelos docentes em documento específico que, posteriormente, é enviado à comissão. Tem este projecto de lei também em conta a necessidade de adequação e evolução atenta à dinâmica técnica e científica, estabelecendo um prazo de quatro anos para a certificação e adopção pelas escolas.\n\nO projecto de lei que o PCP apresenta garante, pois, a participação das escolas durante a certificação e na avaliação posterior, durante o próprio período de adopção do manual em causa, garantindo a possibilidade de serem efectuados ajustes manifestamente necessários. O projecto de lei garante também, como é óbvio, que da decisão de não certificação de um manual caiba recurso para o Ministério da Educação.\n\nPerante a possibilidade da ausência de iniciativa editorial, o PCP propõe que caiba ao Estado assegurar a elaboração, produção e distribuição de manuais escolares ou de outros recursos pedagógicos.\n\nAinda no que toca à garantia da qualidade do ensino, duas áreas merecem particular tratamento no nosso projecto de lei: a da iniciação à escrita e a das necessidades educativas especiais.\n\nO segundo e não menos importante plano de intervenção deste projecto de lei é o da gratuitidade do ensino. A gratuitidade do ensino pressupõe uma gratuitidade integral, a que inclui os transportes, as refeições e o material escolar. É neste sentido que o PCP entende que é importante garantir a gratuitidade dos manuais escolares, sem necessário recurso a um sistema de empréstimos opcional, que possa evidenciar assimetrias numa espécie de caridade envergonhada."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 5508,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 5508,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Entende o PCP que a gratuitidade dos manuais se enquadra plenamente nos instrumentos legislativos que ordenam o nosso sistema educativo. Negar a gratuitidade dos manuais é negar parte do direito ao acesso ao ensino em igualdade.\n\nGratuitidade ou não, dependerá exclusivamente da vontade política do Partido Socialista, que está representado em maioria nesta Assembleia e que sustenta um Governo por si apoiado.\n\nNo entanto, a julgar pela intervenção do Governo nesta matéria, que prevê somente a certificação, o Partido Socialista contrariará novamente aquilo que o próprio já defendeu, mas que já teve também oportunidade de dizer e desdizer.\n\nO esforço financeiro que é exigido às famílias portuguesas no início de cada ano lectivo, por cada criança ou jovem nestes sistemas de ensino, é, no entanto, de tal forma escandaloso que fala por si e que politicamente denuncia o próprio facto de o Governo não garantir a gratuitidade dos manuais escolares.\n\nO investimento adicional que o Estado fará com a dispensa gratuita dos materiais escolares será um grande contributo para o aumento da qualificação dos portugueses que o próprio Governo tantas vezes agita como bandeira e repercutir-se-á nos diferentes níveis da sua intervenção social. Considerando os dados oficiais disponíveis, calculamos que o investimento necessário para garantir a gratuitidade dos manuais a todos os estudantes da escolaridade obrigatória regular se cifraria em 62 milhões de euros, ou seja, 2,1% do orçamento de funcionamento do Ministério da Educação para 2006 no que se refere à escolaridade obrigatória."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 5509,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para fazer a apresentação da proposta de lei, tem a palavra o Sr. Secretário de Estado Adjunto e da Educação."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 5509,
+      "speaker": {
+        "id": 1413,
+        "name": "Valter Victorino Lemos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e da Educação (Jorge Pedreira)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: É com satisfação que venho, perante a Assembleia da República, apresentar, em nome do Governo, a proposta de lei que estabelece o regime de adopção, avaliação e certificação dos manuais escolares dos ensinos básico e secundário, bem como os princípios e objectivos a que deve obedecer o apoio socioeducativo relativamente à sua aquisição e empréstimo.\n\nAo apresentar esta proposta de lei, o Governo cumpre o compromisso inscrito no seu Programa de lançar um sistema de avaliação e certificação de manuais escolares, no sentido de assegurar que cumprem de forma adequada a sua função e de proporcionar novas formas de utilização que sejam mais racionais e menos dispendiosas para as famílias.\n\nNão se tratando de matéria da competência reservada da Assembleia da República, entendeu o Governo submeter esta proposta ao Parlamento, não só pela sua própria relevância, mas por respeito à iniciativa legislativa que sobre o assunto apresentara o Grupo Parlamentar do CDS-PP, a que se seguiram iniciativas semelhantes dos Grupos Parlamentares do Bloco de Esquerda, do PSD e do PCP.\n\nAssim, em coerência com essa orientação, é desejo do Governo que, na base dos princípios que defendemos, possa aqui ser encontrado um amplo consenso.\n\nE, desde logo, há um consenso adquirido. Como demonstra a apresentação de projectos pela generalidade dos grupos parlamentares, partilhamos todos a ideia de que é necessário dotar o Estado de um instrumento que lhe permita retomar o seu poder - diria mesmo o seu dever - de regulação. Um poder que, mais por inércia do que por vontade política seja de quem for, o Estado foi abandonando.\nSr. Presidente, Srs. Deputados: Com a justificação falaciosa de uma aparente liberdade de mercado e da autonomia pedagógica dos professores, instalou-se a mais perfeita desregulação no sector, ao abrigo da qual têm imperado os interesses comerciais, que são sem dúvida legítimos, mas aos quais não pode ser deixado o controlo de uma actividade que é altamente relevante para os interesses das famílias com crianças e jovens em idade escolar e para o interesse público, isto é, para o interesse da qualidade das aprendizagens e da educação.\n\nO sistema de adopção de manuais escolares, que encontra fundamento na necessidade de garantir a todos os alunos, em condições de equidade, o acesso a um recurso didáctico-pedagógico adequado ao desenvolvimento das competências e aprendizagens definidas no currículo nacional, não tem manifestamente cumprido a sua função.\n\nNão existe na sociedade portuguesa confiança no rigor científico e na qualidade pedagógica dos manuais escolares. Por outro lado, a sua proliferação e a pressão exercida sobre os professores por estratégias agressivas de comercialização têm-nos impedido de exercer, em condições minimamente aceitáveis, o trabalho de selecção dos manuais de que estão incumbidos. Por omissão, o Estado permitiu que essas mesmas estratégias criassem um sistema de rápida rotação dos manuais escolares, tornando realmente impossível a sua reutilização e fazendo da sua aquisição um encargo significativo, em particular para as famílias de menores recursos.\n\nÉ justamente aos interesses das famílias que o Governo procura responder em primeiro lugar. E, perante a desregulação em que o sector caiu, não basta uma intervenção cosmética que, alterando superficialmente a lei em vigor, deixa afinal tudo na mesma. É necessária uma intervenção de fundo. Foi essa a opção que o Governo tomou para corresponder aos interesses das famílias e ao interesse público.\n\nEm primeiro lugar, o regime que propomos, ao alargar o período normal de vigência das adopções para seis anos, permitirá não só uma maior estabilidade destes recursos pedagógicos como criará reais condições para a sua reutilização, reduzindo o desperdício e os encargos para as famílias."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 5510,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para fazer a apresentação da proposta de lei, tem a palavra o Sr. Secretário de Estado Adjunto e da Educação."
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 5510,
+      "speaker": {
+        "id": 1413,
+        "name": "Valter Victorino Lemos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e da Educação (Jorge Pedreira)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: É com satisfação que venho, perante a Assembleia da República, apresentar, em nome do Governo, a proposta de lei que estabelece o regime de adopção, avaliação e certificação dos manuais escolares dos ensinos básico e secundário, bem como os princípios e objectivos a que deve obedecer o apoio socioeducativo relativamente à sua aquisição e empréstimo.\n\nAo apresentar esta proposta de lei, o Governo cumpre o compromisso inscrito no seu Programa de lançar um sistema de avaliação e certificação de manuais escolares, no sentido de assegurar que cumprem de forma adequada a sua função e de proporcionar novas formas de utilização que sejam mais racionais e menos dispendiosas para as famílias.\n\nNão se tratando de matéria da competência reservada da Assembleia da República, entendeu o Governo submeter esta proposta ao Parlamento, não só pela sua própria relevância, mas por respeito à iniciativa legislativa que sobre o assunto apresentara o Grupo Parlamentar do CDS-PP, a que se seguiram iniciativas semelhantes dos Grupos Parlamentares do Bloco de Esquerda, do PSD e do PCP.\n\nAssim, em coerência com essa orientação, é desejo do Governo que, na base dos princípios que defendemos, possa aqui ser encontrado um amplo consenso.\n\nE, desde logo, há um consenso adquirido. Como demonstra a apresentação de projectos pela generalidade dos grupos parlamentares, partilhamos todos a ideia de que é necessário dotar o Estado de um instrumento que lhe permita retomar o seu poder - diria mesmo o seu dever - de regulação. Um poder que, mais por inércia do que por vontade política seja de quem for, o Estado foi abandonando.\nSr. Presidente, Srs. Deputados: Com a justificação falaciosa de uma aparente liberdade de mercado e da autonomia pedagógica dos professores, instalou-se a mais perfeita desregulação no sector, ao abrigo da qual têm imperado os interesses comerciais, que são sem dúvida legítimos, mas aos quais não pode ser deixado o controlo de uma actividade que é altamente relevante para os interesses das famílias com crianças e jovens em idade escolar e para o interesse público, isto é, para o interesse da qualidade das aprendizagens e da educação.\n\nO sistema de adopção de manuais escolares, que encontra fundamento na necessidade de garantir a todos os alunos, em condições de equidade, o acesso a um recurso didáctico-pedagógico adequado ao desenvolvimento das competências e aprendizagens definidas no currículo nacional, não tem manifestamente cumprido a sua função.\n\nNão existe na sociedade portuguesa confiança no rigor científico e na qualidade pedagógica dos manuais escolares. Por outro lado, a sua proliferação e a pressão exercida sobre os professores por estratégias agressivas de comercialização têm-nos impedido de exercer, em condições minimamente aceitáveis, o trabalho de selecção dos manuais de que estão incumbidos. Por omissão, o Estado permitiu que essas mesmas estratégias criassem um sistema de rápida rotação dos manuais escolares, tornando realmente impossível a sua reutilização e fazendo da sua aquisição um encargo significativo, em particular para as famílias de menores recursos.\n\nÉ justamente aos interesses das famílias que o Governo procura responder em primeiro lugar. E, perante a desregulação em que o sector caiu, não basta uma intervenção cosmética que, alterando superficialmente a lei em vigor, deixa afinal tudo na mesma. É necessária uma intervenção de fundo. Foi essa a opção que o Governo tomou para corresponder aos interesses das famílias e ao interesse público.\n\nEm primeiro lugar, o regime que propomos, ao alargar o período normal de vigência das adopções para seis anos, permitirá não só uma maior estabilidade destes recursos pedagógicos como criará reais condições para a sua reutilização, reduzindo o desperdício e os encargos para as famílias."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 5511,
+      "speaker": {
+        "id": 1320,
+        "name": "Luís Emídio Lopes Mateus Fazenda",
+        "party": "BE",
+        "string": "O Sr. Luís Fazenda (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 5511,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Secretário de Estado Adjunto e da Educação."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 5511,
+      "speaker": {
+        "id": 1413,
+        "name": "Valter Victorino Lemos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e da Educação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Alda Macedo, registo, em primeiro lugar, a concordância do Bloco de Esquerda sobre aspectos fundamentais da proposta de lei.\n\nRelativamente à questão que coloca, devo dizer que o Governo reconhece que há um problema e que os apoios que têm vindo a ser dados pela acção social escolar são insuficientes.\n\nPor isso mesmo, no artigo 37.º da proposta de lei, o Governo assume o compromisso de, até ao final da Legislatura, elevar o plafond de que falou, os 87,90 €, para a totalidade do custo dos manuais escolares. Isto é, que às famílias efectivamente carenciadas, àquelas que efectivamente precisam, que, no conjunto dos escalões A e B, representam quase 30% dos alunos da escolaridade obrigatória, seja garantida a gratuitidade, no caso do escalão A, e um apoio substancial, no caso do escalão B.\n\nA questão do empréstimo é subsidiária, porque sabemos também que há circunstâncias em que o efeito da capitação leva a que determinadas famílias não sejam cobertas, mas em que as escolas têm conhecimento da sua efectiva necessidade e, nesse caso, as escolas terão, na base desse conhecimento e, portanto, na base da sua autonomia, capacidade para usar o mecanismo do empréstimo complementarmente para apoiar essas famílias.\n\nPortanto, a proposta de lei vai no sentido da equidade social, da igualdade de oportunidades e de garantir o apoio, através do subsídio à aquisição, às famílias que, efectivamente, necessitam."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 5511,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Abel Baptista."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 5511,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O sistema de manuais escolares que perdura em Portugal é irracional para os alunos, dispendioso para as famílias e injusto para a sociedade.\n\nO CDS está a favor da existência e aplicação prática de um sistema de avaliação dos manuais escolares que defenda as famílias portuguesas daquele que, em muitos casos, era conhecido como o \"imposto de Setembro\"."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 5511,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 5511,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É bom que se diga que neste momento, a nível da Europa comunitária, poucos países - e Portugal é um deles - ainda permanecem neste modelo já ultrapassado pelas novas tecnologias, com as famílias a terem de continuar a despender parte substancial dos seus orçamentos em livros que se gastam com o próprio uso e que raramente se transmitem entre familiares.\n\nNa Alemanha, por exemplo, os livros pertencem à própria instituição escolar e são reutilizáveis, ano após ano. Já na Inglaterra há muito que se adoptou o sistema de papéis que são distribuídos com a matéria a ser dada desta forma expedita, ultrapassando-se por esta via o problema da necessidade de reutilização dos manuais escolares. Em Portugal, o sistema continua a penalizar as famílias.\n\nTemos, sobre essa matéria, um conjunto de tomadas de posição que não deixam qualquer espécie de dúvidas.\n\nApresentámos o projecto de lei n.º 103/X, que, como facilmente se demonstra, foi copiado, no seu melhor, pelo Governo na elaboração da sua proposta de lei."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 5511,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 5511,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sejam bem-vindos à causa!\n\nSomos, nesta matéria, verdadeiramente pioneiros. Nunca escondemos a necessidade de reformar o sistema de avaliação, defendendo sempre a necessária síntese entre a livre iniciativa económica e a defesa dos alunos e das suas famílias. Somos favoráveis à adopção dos manuais escolares por períodos de seis anos, porque assim aliviam, em muito, o já apertado orçamento das famílias.\n\nO anterior governo deixou pronto, e em discussão pública, um projecto de decreto-lei relativo à avaliação e certificação dos manuais escolares, a que este Governo não quis dar continuidade só por manifesto interesse politico quanto à oportunidade da iniciativa."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 5511,
+      "speaker": {
+        "id": 1946,
+        "name": "António Carlos Bivar Branco De Penha Monteiro",
+        "party": "CDS-PP",
+        "string": "O Sr. António Carlos Monteiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 5512,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O CDS, nesta matéria dos manuais escolares, tem contribuído para a justiça social das famílias que têm filhos em idade escolar, promovendo e apresentando as suas propostas.\n\nO presente regime de manuais escolares apresenta vários defeitos. Por exemplo: o sistema de avaliação dos manuais tarda em funcionar; os manuais não são reutilizáveis; o restante material didáctico e outros manuais auxiliares não estão abrangidos pelo actual regime; os encargos anuais para as nossas famílias podem ser facilmente aliviados, bastando para isso um incentivo efectivo à conservação e reutilização dos manuais que tenham a certificação do grupo de avaliação criado para o efeito.\n\nSr. Presidente, Sr.as e Srs. Deputados: Para que não restem dúvidas, concordamos - e já o tínhamos proposto - com a adopção dos manuais por períodos de seis anos; concordamos - e já o tínhamos proposto - com a criação de comissões de natureza científica que avaliem os manuais;…"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 5512,
+      "speaker": {
+        "id": 1946,
+        "name": "António Carlos Bivar Branco De Penha Monteiro",
+        "party": "CDS-PP",
+        "string": "O Sr. António Carlos Monteiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 5512,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e concordamos - e já o tínhamos proposto - com o alargamento do regime da convenção de preços aos manuais auxiliares e aos manuais do ensino secundário.\n\nDiscordamos de uma avaliação que é feita antes dos manuais entrarem no mercado, quando a mesma devia, antes, ser feita com os manuais no mercado, admitindo-se até a sua retirada. Se não, onde está a liberdade de escolha e a autonomia dos agentes educativos na escolha do respectivos manuais escolares?!"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 5512,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 5512,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Avaliar e regular tem de respeitar regras próprias, sem que haja qualquer dúvida que ninguém está a censurar.\n\nSobre esta e outras matérias, estamos abertos ao debate. Esperamos que outros e, em particular, o Grupo Parlamentar do PS nos possam dar, desde já, sinais positivos. Acreditamos que assim será.\n\nMas, para a realização destes princípios, tem de existir alguns pressupostos para a vigência a longo prazo dos manuais escolares. É necessário, neste recurso fundamental - a aprendizagem -, criar estabilidade na adopção dos mesmos.\n\nPrimeiro: a estabilidade dos programas por parte do Ministério da Educação, de modo a que não seja necessário rever os manuais todos os anos.\n\nSegundo: a idoneidade da comissão que avaliará os manuais escolares, de modo a que estes sejam verdadeiramente avaliados e nunca censurados e, para tanto, é primordial que a avaliação seja feita depois do manual ser posto no mercado, havendo uma comissão com elementos que conheçam de perto a realidade escolar e não apenas académicos alheados da realidade.\n\nTerceiro: que os manuais possuam uma grande componente de auto-aprendizagem de modo a dotá-los de uma capacidade de desenvolvimento, de competências e métodos de trabalho, preparando-os, assim, para todo o percurso escolar, e que os manuais tenham, uma linguagem objectiva e bastante clara, sendo o seu preço acessível.\n\nContudo o CDS continua a defender que o Estado deve, quanto à oferta de manuais escolares, remeter-se a um papel supletivo, intervindo somente em situações de ausência ou de insuficiência de meios disponíveis.\n\nA condição económica, para nós, nunca deve ser motivo para o não acesso aos recursos pedagógicos didácticos e conhecimentos, tendo aqui o Estado que actuar como seu garante."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 5512,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Paula Barros."
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 5512,
+      "speaker": {
+        "id": 2261,
+        "name": "Paula Cristina Barros Teixeira Santos",
+        "party": "PS",
+        "string": "A Sr.ª Paula Barros (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Ministro dos Assuntos Parlamentares, Sr. Secretário de Estado Adjunto e da Educação, Sr.as e Srs. Deputados: Há uns meses atrás fomos aqui chamados a debater o tema dos manuais escolares pelo CDS-PP. Desde logo, manifestámos todo o interesse nesse debate, porque uma das grandes preocupações do Partido Socialista é a educação. E, sem dúvida, temos revelado que a educação é uma das grandes apostas desta maioria. Não é difícil fazermos um exercício de reflexão e percebermos que esta é uma das áreas em que se tem centrado a actuação do Grupo Parlamentar do Partido Socialista, bem assim, como a do Governo.\n\nNão podemos ignorar que a educação deve ser olhada à luz de diversas vertentes e em pleno respeito por todos os recursos humanos que lhe estão associados - professores e todos os agentes educativos, família, organizações escolares, organizações extra-escolares, sociedade em geral e, porque os últimos são sempre os primeiros, os nossos jovens alunos."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 5512,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Manuela Melo (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 5513,
+      "speaker": {
+        "id": 2261,
+        "name": "Paula Cristina Barros Teixeira Santos",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nesta área, a grande prioridade do Partido Socialista é, claramente, a aposta na qualidade da educação e, por assumir inteiramente a causa da justiça e equidade sociais, a valorização da escola pública, em Portugal.\n\nÉ nesse sentido que se têm orientado todos os esforços, apelando à colaboração de todos os agentes, por acreditarmos que essa é a vontade suprema de quem abraça a causa de contribuir para um futuro de sucesso para as actuais e novas gerações, sempre com o objectivo centrado na construção de um Portugal melhor, onde todos encontrem o seu espaço de actuação e o seu espaço de participação crítica e construtiva.\n\nÉ neste contexto que assumimos que os manuais escolares devem ser objecto de um tratamento digno e dignificante da função que todos sabemos que assumem no actual contexto educativo.\n\nO manual escolar é, para uma grande maioria dos portugueses, o mais importante livro da sua vida. Para alguns será, eventualmente, o único!\n\nÉ consciente desta realidade que o Partido Socialista tem procurado contribuir para a credibilização deste importante livro, que é, concomitantemente, o mais importante e generalizado recurso didáctico.\n\nNuma era em que muitos outros recursos se colocam à disposição de alguns, não podemos assumir a hipocrisia de considerar que estão à disposição de todos.\n\nDefendemos, sim, a generalização do acesso às mais actualizadas formas de construção das aprendizagens; lutaremos por essa causa, mas temos consciência de que o futuro não é já, não é agora! Deve ser preparado de forma segura, usando todos os mecanismos, ao momento à nossa disposição, no sentido de criarmos condições para que esse futuro, que, estamos seguros, todos ambicionarmos, possa acontecer de uma forma sustentada e possa reflectir uma verdadeira coesão social.\n\nÉ, pois, conscientes desta realidade que reafirmamos a defesa de um manual escolar que se caracterize pelo rigor e actualidade científica, pela correcção na aplicação da língua portuguesa, pela defesa da multiculturalidade e igualdade de género; um manual escolar que apresente, de forma clara e pedagogicamente correcta, os conteúdos correspondentes ao currículo nacional, capaz de estimular o exercício de uma verdadeira autonomia dos docentes na sua selecção; um manual escolar que estimule, ele próprio, uma utilização correcta por parte de quem o manuseia, que seja garante de estabilidade e potencie a possibilidade de reutilização; um manual escolar que não contribua para desequilíbrios orçamentais das famílias, nomeadamente as mais carenciadas; em suma, um manual escolar de qualidade ao qual todos, mas todos, dignamente, possam ter acesso.\nÉ pelo tão importante papel que o manual escolar ainda assume no contexto educativo português; é por estarmos conscientes de que a vigência dos manuais escolares deve ser assumida com o fundamento e objectivo de favorecer os mais desfavorecidos, que consideramos dever ser objecto do maior rigor na sua execução, divulgação, selecção e utilização.\n\nE é porque o actual Governo produziu uma proposta de lei que salvaguarda os princípios que aqui, hoje como anteriormente, defendemos que o Grupo Parlamentar do Partido Socialista a aplaude e nela se revê.\n\nNão obstante, e fiéis a uma conduta longe do autismo que alguns, injustamente, receavam, é com satisfação que reconhecemos o empenhamento de todos os grupos parlamentares no contributo que têm prestado sobre esta matéria.\n\nAliás, Assembleia da República e Governo têm promovido uma ampla discussão pública sobre a temática dos manuais escolares, revelando uma capacidade de abertura e diálogo característica de quem, responsavelmente, acima de qualquer clivagem ideológica, natural e saudável numa vivência democrática, coloca as causas da educação.\n\nÉ com este espírito que o Partido Socialista se manifesta disponível para encontrar uma solução final relativa à legislação sobre manuais escolares que represente um amplo consenso; uma solução final capaz de ultrapassar fronteiras de diferentes legislaturas; uma solução final que sirva Portugal, por servir aqueles que merecem o melhor tratamento, agora, para que bem tratem o futuro. Refiro-me, naturalmente, àqueles para quem todos os esforços de quem abraça a causa da educação se devem orientar: os nossos jovens, os nossos alunos."
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 5513,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 5513,
+      "speaker": {
+        "id": 2261,
+        "name": "Paula Cristina Barros Teixeira Santos",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Continuaremos a lutar para evoluirmos no sentido de que, cada vez mais, o manual escolar seja uma peça de um vasto conjunto de soluções didácticas ao serviço de alunos e professores. Admitimos, até, que nalguns locais esta nossa causa já seja uma realidade, e com isso nos congratulamos; sabemos também que, felizmente, existem situações em que as condições dos agregados familiares permitem o acesso a fontes diversificadas de conhecimento. Não podemos é deixar de abraçar a responsabilidade de contribuir para que estas realidades, ainda particulares, se generalizem. É esta função reguladora que exigimos ao Estado. E, na proposta de lei hoje aqui apresentada pelo Governo, sentimos o eco desta nossa"
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 5514,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 5514,
+      "speaker": {
+        "id": 2261,
+        "name": "Paula Cristina Barros Teixeira Santos",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Continuaremos a lutar para que a educação continue a crescer como uma causa de todos para todos e, porque hoje, especificamente, tratamos da vertente associada aos manuais escolares, por tudo o que eles ainda representam nesta causa, assumimos que o manual escolar pode não ser, muitas vezes, o único livro, no entanto, deverá ser sempre um muito bom livro."
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 5514,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Secretário de Estado Secretário de Estado Adjunto e da Educação."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 5514,
+      "speaker": {
+        "id": 1413,
+        "name": "Valter Victorino Lemos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e da Educação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente e Srs. Deputados: A minha intervenção destina-se a esclarecer um equívoco, que tem aparecido por várias vezes na discussão desta questão e que resultou, mais uma vez, na intervenção do CDS-PP. Refiro-me à questão do momento da certificação.\n\nComo é óbvio, a certificação, para fazer sentido e para ter consequências, tem de ser feita como condição da adopção. De nada serve certificar manuais, depois de eles estarem adoptados. Isso, de resto, induziria em erro as famílias. As famílias seriam obrigadas a comprar manuais para verificarem, a posteriori, que esses manuais ou não cumpriam os programas, ou tinham estratégias pedagógicas desadequadas, ou tinham erros graves. Isto não faz sentido. Um sistema de certificação que funcione depois da adopção tem todos os custos e nenhum dos benefícios do sistema que o Governo propõe. É isto que considero importante esclarecer."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 5514,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveu-se, entretanto, para uma segunda intervenção, o Sr. Deputado Francisco Madeira Lopes."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 5514,
+      "speaker": {
+        "id": 1238,
+        "name": "Francisco Miguel Baudoin Madeira Lopes",
+        "party": "PEV",
+        "string": "O Sr. Francisco Madeira Lopes (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: No processo ensino/aprendizagem muitos factores concorrem para o seu sucesso, eficácia e enriquecimento, de entre os quais muitos são externos. Em primeiro lugar, as condições sócio-económicas das famílias de onde são oriundos os alunos, mas também as condições materiais, humanas e pedagógicas à disposição das escolas para uso no processo interactivo entre aluno, turma e professor.\n\nNesta matéria, o Estado tem claras obrigações, desde logo, obrigações constitucionais, de criar e manter um sistema público de educação universal, de qualidade e gratuito. Por isso, o Partido Ecologista \"Os Verdes\" tem defendido ao longo dos tempos a escola inclusiva, que promova a igualdade e a tolerância, que cultive a partilha e a entreajuda, a solidariedade, a paz e a cidadania.\n\nNesta matéria, Os Verdes acompanham aqueles que defendem que a gratuitidade do ensino só pode ser compreendida como incluindo a gratuitidade dos manuais escolares. Temos a perfeita noção de que os manuais escolares não são, felizmente, a única ferramenta teoricamente disponível nas escolas para operar o processo de aprendizagem, mas também temos a noção de que no panorama em que a maior parte das escolas vive, em que a regra é a clara e manifesta insuficiência de material didáctico e pedagógico, quantas vezes suprida, em substituição do Estado, por encarregados de educação e por associações de pais, num País onde as famílias são já as que mais pagam pela educação, ou pelas autarquias,…"
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 5514,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 5514,
+      "speaker": {
+        "id": 1413,
+        "name": "Valter Victorino Lemos",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "…. os manuais assumem claramente um papel mais importante do que pode à partida pensar-se.\n\nCom efeito, o manual constitui um repositório de conhecimentos por toda a vida, um livro ao qual os alunos podem recorrer não só durante o ano em que estão a leccionar aquela matéria mas nos anos seguintes, não só para consolidar conhecimentos mas muitas vezes para dar matérias que não foram dadas no ano em que o deviam ter sido.\n\nMas, mais do isso, e como já tivemos ocasião de dizer durante o debate do projecto de lei do CDS-PP, o manual escolar é muitas vezes o único livro, em absoluto, que entra dentro da casa de muitos portugueses."
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 5514,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 5514,
+      "speaker": {
+        "id": 1413,
+        "name": "Valter Victorino Lemos",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso, tem uma dimensão sociológica e educacional que vai muito além do universo"
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 5515,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 5515,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Pedro Duarte."
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 5515,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: Peço a palavra para tentar enfatizar um ou dois pontos que me parecem relevantes neste debate.\n\nEm primeiro lugar, quero deixar um alerta generalizado à Câmara e, se me permitem, em especial ao Governo e à bancada da maioria, dizendo que, por vezes, uma boa ideia original pode transformar-se numa má solução final.\n\nDe facto, aquilo que eventualmente será uma boa ideia original - que, aliás, foi corroborada pelas diferentes bancadas e pelo Governo -, no sentido de tentarmos regular melhor o mercado dos manuais escolares no nosso país, procurando assim ter manuais com mais qualidade e, preferencialmente, mais acessíveis a todos os portugueses, pode ter algumas perversões que eventualmente venham a tornar mais complexa, para não dizer manifestamente pior, a nossa realidade educativa. E digo-o porque, de facto, há algumas divergências que eu gostaria de assinalar entre o projecto de lei do PSD e a visão que temos nesta matéria e os princípios enunciados na proposta de lei."
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 5515,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 5515,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Digo-o tendo em conta, evidentemente, e este pressuposto é essencial, que há muitas matérias em que convergimos - aliás, basta ler os enunciados para o percebermos -, desde logo, este caminho para a gratuitidade para famílias mais carenciadas, que me parece extraordinariamente importante.\n\nContudo, há duas divergências que eu gostaria de deixar claras. A primeira, que é fundamental, diria, é de ordem ideológica, de ordem conceptual, eventualmente, e tem a ver com uma visão estatista, centralista, dirigista, conforme a proposta do Governo.\n\nDe facto, não nos podemos rever nas comissões de avaliação que são criadas, que, em nossa opinião, correm o risco de se poder tornar em comissões de dirigismo educativo, manifestamente, comissões até de censura, como aqui já foi dito, que, através de uma certificação prévia obrigatória, como está enunciado, podem condicionar a liberdade de escolha das escolas, dos docentes,…"
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 5515,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 5515,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… dos pais, dos encarregados de educação e dos próprios alunos. Isso pode ser condicionador e é um perigo, de facto, para o nosso sistema, que eu gostaria de deixar aqui bem claro. Não é esta a nossa visão.\n\nNa verdade, acreditamos genuinamente na liberdade de opção e na liberdade de escolha das escolas e dos diferentes agentes educativos e estas comissões, de facto, passam a ter competência para, se assim o entenderem, poderem condicionar manifestamente a opção das escolas.\n\nImagine-se o que será se as tais comissões formadas por três \"iluminados\" escolhidos pelo Ministério da Educação, pela Sr.ª Ministra, neste caso, decidem que apenas um manual é certificado! Ora, não há qualquer liberdade de opção por parte das escolas! \nO Sr. Secretário de Estado concordará comigo.\n\nPortanto, esta visão tem de ser manifestamente melhorada, espero eu, em sede de especialidade. E julgo, perdoem-me a imodéstia, que a solução proposta pelo PSD é um pouco mais equilibrada e mais razoável a este respeito.\n\nSegunda divergência: não acreditamos no livro nem no manual escolar nesta \"lógica de eucalipto\", em que se pretende secar qualquer outro recurso didáctico que possa ser utilizado na escola. Neste aspecto, o Governo cai também nesse erro, se me permitem também esta observação.\n\nAliás, o Governo esquece aquilo que foram as grandes medidas, anunciadas com pompa e circunstância,"
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 5516,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, já ultrapassou o seu tempo. Tem de concluir."
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 5516,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, vou concluir com uma última afirmação.\n\nComo eu estava a dizer, até se cria um artigo especificamente para os programas escolares, confundindo um regime jurídico de manuais com os próprios programas escolares, enunciando o período de vigência dos programas escolares, estabelecendo seis anos para todos. Não faz sentido!\n\nO Sr. Secretário de Estado dir-me-á que a seguir há um número, no mesmo artigo, que diz que haverá excepções, eventualmente, que pode ser que não sejam seis ano. Ora, esta é a chamada regra de soma nula - um menos um dá zero - e, portanto, mais vale não haver artigo algum, como compreenderá, Sr. Secretário de Estado.\n\nPor estas divergências que assinalei é evidente que, enquanto estas nuances não forem alteradas - e elas são de ordem fundamental, como disse há pouco - não poderemos, evidentemente, subscrever a proposta de lei, e continuamos a acreditar que a nossa é, de facto, a melhor visão para o regime jurídico dos manuais escolares no nosso país."
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 5516,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Há um pedido de esclarecimento, apresentado pelo Sr. Ministro dos Assuntos Parlamentares, mas o Sr. Deputado Pedro Duarte já não dispõe de tempo para responder.\n\nEm todo o caso, tenho a indicação de que o PS concede tempo, pelo que tem a palavra o Sr. Ministro dos Assuntos Parlamentares."
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 5516,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares (Augusto Santos Silva)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, Sr. Deputado Pedro Duarte, ouvi com toda a atenção a sua intervenção.\n\nO propósito do Governo, como afirmou o Sr. Secretário de Estado Adjunto e da Educação na intervenção inicial, é o de que a lei sobre manuais escolares colha o maior consenso possível nesta Câmara.\n\nAs questões que quero colocar-lhe são muito simples. A primeira é esta: qual é o interesse principal, do ponto de vista do PSD, a que deve procurar responder essa lei? A nossa resposta é muito simples: é o interesse das famílias e dos alunos. É este o interesse principal.\n\nOs manuais escolares existem não para servir as editoras de manuais escolares, não para facilitar ou substituir o trabalho dos professores, mas para serem auxiliares, auxiliares indispensáveis, diria, na aprendizagem dos alunos, tendo em conta os interesses legítimos das famílias que são obrigadas a comprar os manuais escolares adoptados pelas escolas.\n\nA segunda questão é saber se deve, ou não, haver uma instância qualquer de garantia de qualidade, isto é, uma instância de certificação dos manuais que são colocados pelas editoras à disposição das escolas, para que estas possam escolher e adoptar aqueles que preferirem, sendo certo que a consequência lógica, necessária e inevitável dessa decisão das escolas é a compra dos manuais adoptados por parte das famílias.\n\nA nossa resposta é simples: sim, deve haver, e é isso que é a certificação, que, como o Sr. Secretário de Estado explicou há pouco, só pode ser prévia à adopção, sob pena de enganarmos as pessoas.\n\nEssa certificação não belisca em nada a liberdade de escolha, a liberdade de adopção por parte das escolas, não belisca em nada a autonomia das escolas. E por que é que não belisca? Porque essa certificação só certifica! Quer dizer, considera que dos manuais disponíveis os a, b, c, d, e, f, g cumprem os requisitos mínimos a que estão obrigados os manuais escolares em termos de qualidade, em termos de rigor científico, em termos de rigor técnico. É essa a garantia que a certificação dá!\n\nSe não houver certificação prévia à adopção, a avaliação futura não tem nenhuma consequência, a não ser a consequência perversa de dizer às famílias que foram enganadas porque foram obrigadas a comprar manuais que, entretanto, comissões autorizadas do Ministério da Educação declararam de nenhuma ou de fraca qualidade, porque se viram obrigadas a comprar coisas que não têm qualidade científica ou pedagógica.\n\nPortanto, o esclarecimento que o PSD deve a esta Câmara é se quer uma avaliação a fingir ou uma"
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 5517,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Ministro, tem de concluir."
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 5517,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, já concluo.\n\nHá uma outra divergência sobre a qual também queria ouvir o PSD.\n\nDo nosso ponto de vista, ouvindo o Sr. Deputado, parece que graça uma confusão enorme na bancada do PSD entre o que são manuais escolares e os outros instrumentos de aprendizagem. Regular os manuais escolares em nada perturba a utilização de outros auxiliares, como a Internet ou outros materiais, com suporte em papel ou com outros suportes, que as escolas devem usar, e cada vez mais usam, no seu processo de aprendizagem. Não estamos a falar disto, estamos a falar do processo de certificação e de avaliação dos manuais escolares.\n\nPortanto, as divergências que o Sr. Deputado encontrou relativamente à proposta de lei, do nosso ponto de vista, resultam apenas do que, sem ofensa, nos parecer uma má interpretação por parte do PSD. Gostaria de ouvi-lo sobre isso."
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 5517,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Pedro Duarte, tem a palavra, para responder.\n\nDispõe de 2 minutos e 30 segundos cedidos pelo Partido Socialista."
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 5517,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, começo por agradecer ao Partido Socialista esta cedência de tempo e, particularmente, ao Sr. Ministro dos Assuntos Parlamentares as questões que me colocou. Vou tentar responder de forma muito directa àquilo que aqui foi afirmado.\n\nEm primeiro lugar, queria dizer que corroboro as suas primeiras palavras no que diz respeito à vontade de haver um consenso, que gostaria de enaltecer e que me parece importante, porque julgo que uma matéria como esta merece consenso político e social.\n\nEm segundo lugar, pretendia dizer também que, evidentemente, o interesse que aqui está em causa é o das famílias e, particularmente, o dos alunos. Portanto, estamos de acordo quanto a esta matéria.\n\nPasso agora à parte respeitante às divergências.\n\nSr. Ministro, a certificação prevista na proposta do Governo é, na nossa óptica, perigosa e vou explicar porquê.\n\nO artigo 12.º, n.º 1, alínea d), diz claramente que há uma comissão formada por três a cinco pessoas nomeadas pelo Ministério da Educação que avalia a qualidade pedagógica e didáctica, designadamente no que se refere ao método, à organização, à informação e à comunicação. Isto é de uma subjectividade que leva a que, na nossa óptica, possa haver um dirigismo quase pró-estalinista, diria, em minha opinião.\nNão quero ser ofensivo, digo-o apenas para deixar bem claro qual é o perigo associado a este tipo de controlo por três ou quatro iluminados escolhidos pelo Ministério da Educação. Repare que não estou duvidar do Sr. Secretário de Estado, não estou a dizer tenha essa intenção, nem sequer a Sr.ª Ministra da Educação. Mas nós não estamos a legislar em concreto, estamos a legislar em abstracto, e a lei, se assim for aprovada, permitirá esta mesma visão, e isto, evidentemente, não podemos corroborar.\n\nO Sr. Ministro disse-nos que estas comissões certificarão os manuais a, b, c e d para as escolas poderem escolher. Sr. Ministro, e se estas comissões certificarem apenas o manual a?! É um manual único, um livro único que está a ser imposto, portanto, não podemos, evidentemente, corroborar.\n\nEspero, Sr. Ministro, que agora tenha ficado mais clara a nossa divergência. Como lhe digo, ela não tem que ver com as vertentes mais genéricas da proposta de lei mas, naturalmente, é, para nós, uma divergência fundamental, porque temos uma visão diferente. Ou seja, acreditamos, de facto, na liberdade de ensino, de educação, de criação e de escolha das escolas para poderem seleccionar melhor os manuais, de acordo com o seu projecto educativo e com as realidades concretas de cada uma, e não no controlo pelo Estado, pelo Governo, ou seja por quem for, algures na Av. 5 de Outubro."
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 5517,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 5517,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, concluímos a discussão conjunta, na generalidade, das primeiras iniciativas legislativas da nossa ordem de trabalhos, que serão submetidas a votação na próxima sessão regimental de votações.\n\nVamos passar à apreciação, na generalidade, da proposta de lei n.º 59/X - Regula a instalação e utilização de sistemas de vigilância electrónica rodoviária e a criação e utilização de sistemas de informação de acidentes e incidentes pela EP - Estradas de Portugal, EPE, e pelas concessionárias rodoviárias.\n\nPara apresentar a proposta de lei, tem a palavra o Sr. Subsecretário de Estado da Administração Interna."
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 5518,
+      "speaker": {
+        "id": 2000,
+        "name": "Fernando António Portela Rocha De Andrade",
+        "party": "N/A",
+        "string": "O Sr. Subsecretário de Estado da Administração Interna (Fernando Rocha Andrade)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: A proposta de lei que o Governo ora apresenta à Assembleia da República visa regular a instalação e utilização de sistemas de vigilância, nomeadamente dos conhecidos sistemas de videovigilância, por concessionários de auto-estradas e pela entidade gestora das estradas nacionais. Vem esta proposta de lei na sequência do Decreto-Lei n.º 207/2005, de Novembro passado, que possibilitou às forças de segurança o acesso e a utilização dos dados recolhidos por estes mesmos sistemas de vigilância electrónica.\n\nFoi, aliás, no âmbito desse processo legislativo que a Comissão Nacional de Protecção de Dados chamou a atenção para o facto de haver necessidade de regular e de dar habilitação legal à criação e à utilização dos sistemas de videovigilância por parte desses concessionários de auto-estradas e dessa entidade gestora, para que esses sistemas tivessem o necessário enquadramento legal e, nomeadamente, para que pudesse haver gravação e tratamento dos dados assim obtidos. O normativo hoje em discussão visa, portanto, colmatar a lacuna legal em causa e regular a existência e o funcionamento destes sistemas.\n\nSrs. Deputados, qualquer sistema deste género é sempre um compromisso entre direitos individuais, nomeadamente os direitos à imagem e à reserva da vida privada, e outros direitos e interesses que neste caso podemos enquadrar no interesse geral e colectivo de segurança rodoviária.\n\nTodavia, tal como é consagrada na proposta do Governo, a eventual compressão de direito individuais é mínima, na medida em que as finalidades dos sistemas bem tornam claro que do que se trata é de captar dados e imagens relativos a veículos e não a pessoas dentro dos veículos.\n\nPortanto, por um lado, é mínima a compressão de direitos individuais e, por outro, este regime legal é estabelecido essencialmente no interesse dos próprios utentes das vias de comunicação nas quais são registadas os dados, porque é a segurança rodoviária a finalidade essencial da captação destes dados. É a segurança daqueles utentes que se pretende salvaguardar utilizando estes dados quer na prevenção quer na resolução de acidentes rodoviários e de outros incidentes que perturbem o regular funcionamento destas vias de comunicação.\n\nO sistema proposto pelo Governo cumpre todos os princípios constantes na Lei da Protecção de Dados Pessoais, que passo a exemplificar.\n\nÉ limitada a finalidade com que são recolhidos os dados, é limitado o tempo pelo qual os dados podem ser conservados, é limitado o universo de pessoas que podem aceder a estes dados pessoais e a essas pessoas é estabelecido um conjunto de obrigações, garantindo a adesão às finalidades do sistema.\n\nÉ garantido aos utentes das vias de comunicação o direito de informação, o direito a serem informados de que podem estar a ser sujeitos, naquele momento, a um sistema de vigilância electrónica, e, exactamente nos mesmos termos em que existe na Lei da Protecção de Dados Pessoais, é garantido a cada cidadão o acesso aos seus dados pessoais e o direito de eliminação de dados pessoais. Finalmente, é garantida a intervenção reguladora e fiscalizadora da Comissão Nacional de Protecção de Dados (CNPD).\n\nIsto significa, Srs. Deputados, que, entre a adequação ao fim, as diversas garantias específicas e a fiscalização da CNPD, se garante que todo e qualquer meio tecnológico que possa ser introduzido pelas concessionárias de auto-estradas está sempre limitado pelos princípios da necessidade em relação ao fim, da adequação e da proporcionalidade.\n\nSr. Presidente, Sr.as e Srs. Deputados: A segurança rodoviária é uma prioridade do Governo e, estou certo, também uma questão que merece toda a importância nesta Câmara. Para garanti-la, precisamos de ir lançando mão dos meios que as novas tecnologias põem à nossa disposição. Lançámos mão do recurso a estes meios por parte de forças de segurança e, neste momento, regulamos também a utilização destes meios por parte de entidades privadas e de entidades públicas empresariais.\n\nPortanto, é segurança rodoviária que inicialmente nos move, mas apresentamos uma proposta que é rodeada dos cuidados e das garantias que são necessárias quando estamos a falar da captação, da gravação e do tratamento de dados relativos aos cidadãos."
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 5518,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Subsecretário de Estado da Administração Interna, tem dois pedidos de esclarecimento.\n\nPara um primeiro pedido de esclarecimento, tem a palavra o Sr. Deputado Luís Montenegro."
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 5518,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Subsecretário de Estado da Administração Interna, a regulação da instalação e utilização de sistemas de vigilância electrónica e a criação de sistemas de informação de acidentes e incidentes estradais constitui uma matéria muito relevante para a prossecução de uma política séria e eficaz de prevenção e segurança rodoviárias, mas é também matéria muito sensível porquanto se relaciona com direitos e interesses fundamentais, como a reserva à intimidade da vida privada e a liberdade de movimento dos cidadãos.\n\nEsta proposta de lei, em concreto, surge no seguimento de um processo legislativo atribulado e algo"
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 5519,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Helena Pinto."
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 5519,
+      "speaker": {
+        "id": 2204,
+        "name": "Helena Maria Moura Pinto",
+        "party": "BE",
+        "string": "A Sr.ª Helena Pinto (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Subsecretário de Estado da Administração Interna, a proposta de lei que hoje debatemos envolve uma matéria muito sensível, como, aliás, penso que todas bancadas reconhecem, pelo que, quando se trata esta matéria, devemos ter todos os cuidados.\n\nNesse sentido, Sr. Subsecretário de Estado, e ouvindo atentamente a sua intervenção, também posso concluir que concordamos que uma das questões que atravessa todo o diploma é aquilo a que o senhor chamou o \"compromisso entre os direitos\" e a que eu também chamaria a proporcionalidade dos direitos em causa.\n\nAssim e pese embora outras opiniões que terei, com certeza, oportunidade de expressar na intervenção que farei em seguida, gostaria que esclarecesse dois aspectos que, para nós, são fundamentais, o primeiro dos quais prende-se com aquilo que é referido, nomeadamente, nos artigos 3.º e 12.º em relação à notificação da Comissão Nacional de Protecção de Dados. Era importante que a lei fosse muito clara sobre o que significa esta notificação. Implica esta notificação uma autorização, por parte desta entidade, quer em relação ao sistema a instalar, quer em relação ao seu funcionamento, ou é simplesmente uma notificação da Comissão Nacional de Protecção de Dados? Este é um dos aspectos sobre os quais gostaríamos de ouvir, desde já, a sua opinião, porque, do nosso ponto de vista, não está devidamente clarificado na lei.\n\nOutra questão, que também já foi suscitada pelo Sr. Deputado Luís Montenegro mas que gostaria de reforçar, tem a ver com o n.º 3 do artigo 16.º, que diz respeito à cedência de informação, designadamente a operadores de televisão. Em nossa opinião, aqui, a lei deveria ser muito mais afirmativa relativamente às condições desse processo. Tem de se explicitar aquilo que é cedido e em que suporte é cedido. Por exemplo, penso que é evidente que nunca se poderá ceder material relativamente ao qual seja possível a utilização de um zoom, que, como é sabido, vai até ao interior da própria viatura. Sei que o Sr. Subsecretário de Estado já clarificou que estamos a recolher informação sobre veículos e não sobre pessoas mas, no entanto, devido à especialidade desta matéria, as leis têm de ser absolutamente claras.\n\nNesse sentido, não entendemos aquilo que está na letra da lei, quando se refere que toda a informação que é cedida não pode afectar, de forma directa e imediata, os direitos à intimidade da vida privada das pessoas e a sua imagem. O que é que se entende por \"forma directa e imediata\"?\n\nGostaríamos, pois, de obter desde já alguns esclarecimentos por parte do Governo no que diz respeito aos dois aspectos que referi."
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 5519,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 5519,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Subsecretário de Estado da Administração Interna."
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 5519,
+      "speaker": {
+        "id": 2000,
+        "name": "Fernando António Portela Rocha De Andrade",
+        "party": "N/A",
+        "string": "O Sr. Subsecretário de Estado da Administração Interna",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: São essencialmente três as questões que foram colocadas pelos Srs. Deputados, uma relativa ao prazo de conservação"
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 5520,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Fernando Santos Pereira."
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 5520,
+      "speaker": {
+        "id": 1232,
+        "name": "Fernando Santos Pereira",
+        "party": "PSD",
+        "string": "O Sr. Fernando Santos Pereira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as Deputadas, Srs. Deputados, Sr. Ministro dos Assuntos Parlamentares, Sr. Subsecretário de Estado da Administração Interna: Genericamente, pode dizer-se que todo o sistema de vigilância electrónica das estradas portuguesas se encontra em situação de ilegalidade.\n\nPor exemplo, os sistemas que funcionam com vídeo nas viaturas da GNR, que são os radares Provida, não foram notificados à Comissão Nacional de Protecção de Dados. A infracção é medida com vídeo, com captação de imagens do condutor, que são dados pessoais e que não estão salvaguardados. Não restam dúvidas de que a situação é irregular.\n\nA proposta de lei n.º 59/X, que visa regular a instalação e utilização de sistemas de vigilância electrónica rodoviária e a criação e utilização de sistemas de informação de acidentes e incidentes pela EP - Estradas de Portugal, EPE e pelas concessionárias rodoviárias, pretende dar cobertura legal a uma situação irregular, que viola direitos, liberdades e garantias sem que traga ganhos para a segurança rodoviária, fim último a que a vigilância electrónica se deve destinar.\n\nÉ, assim, necessário que se estabeleçam regras claras na instalação de sistemas de vigilância electrónica"
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 5521,
+      "speaker": {
+        "id": 2413,
+        "name": "Jorge Fernando Magalhães Da Costa",
+        "party": "PSD",
+        "string": "O Sr. Jorge Costa (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 5521,
+      "speaker": {
+        "id": 1232,
+        "name": "Fernando Santos Pereira",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso, a oportunidade desta iniciativa legislativa e o seu enquadramento só são compreensíveis no âmbito das políticas de prevenção e de segurança rodoviárias, procurando inverter-se as estatísticas relativamente ao número de acidentes com vítimas, que, entre nós, têm índices superiores à média europeia.\n\nOra, a videovigilância, tal como se encontra consagrada nesta proposta, coloca-nos dúvidas quanto à intenção respeitante à prevenção, sensibilização e educação para a circulação rodoviária. Pode, aliás, ter imanentes outros objectivos.\n\nJá se sabia que o Governo queria transformar a prevenção em repressão, conforme temos vindo a denunciar pelo desvio ilegal de verbas (2,8 milhões de euros) que retirou do Fundo de Garantia Automóvel para fins diversos da prevenção."
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 5521,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 5521,
+      "speaker": {
+        "id": 1328,
+        "name": "Luís Filipe Alexandre Rodrigues",
+        "party": "PSD",
+        "string": "O Sr. Luís Rodrigues (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 5521,
+      "speaker": {
+        "id": 1232,
+        "name": "Fernando Santos Pereira",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ora, com este diploma, e os artigos 15.º e 16.º são claros quanto a isto, pode vir a substituir-se a vigilância dissuasora das patrulhas nas estradas pelo comodismo confortável da tecnologia, praticando uma espécie de \"caça à multa\" de gabinete.\nCom o actual texto, não se aposta na prevenção, não se aposta na educação, não se aposta na dissuasão, antes potencia-se o surgimento da vigilância por trás do \"biombo\", utilizando-se o \"choque tecnológico\" para fazer pura repressão."
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 5521,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Osvaldo Castro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Afinal, sempre há choque tecnológico!"
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 5521,
+      "speaker": {
+        "id": 1232,
+        "name": "Fernando Santos Pereira",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quem nos garante, Sr. Presidente, Sr.as e Srs. Deputados, que isto não será assim? Quem nos garante que um destes dias não aparecerá um programa informático que emitirá as contra-ordenações instantaneamente, com o controlo de vídeo, dispensando-se a Brigada de Trânsito das estradas?!\n\nÉ preciso evitar excessos e determinados meios só devem ser utilizados quando a finalidade não puder ser alcançada por outro meio igualmente eficaz mas menos intrusivo para o cidadão.\n\nEm termos sintéticos, vamos analisar alguns aspectos do diploma, que não rejeitamos, mas que, além do já referido, nos merece mais algumas interrogações que gostaríamos de ver aprofundadas na especialidade.\n\nFala a proposta de lei, logo no seu artigo 1.º, em \"sistemas de localização\". Qual a natureza desses sistemas de localização? Que tipos de sistemas poderão ser utilizados pelas concessionárias rodoviárias?\n\nA finalidade do diploma é a \"melhoria das condições de prevenção e de segurança rodoviárias\" (artigo 2.º). Que fazer, então, com a alínea e) do n.º 2 desse artigo que, ao arrepio desse objectivo, assenta, antes, no interesse exclusivo das concessionárias, ao dar cobertura legal a situações relacionadas com o pagamento de portagens?! Será que foi distracção?\n\nAborda-se a problemática do direito de informação ao estipular-se que \"Nas zonas objecto de vigilância (…) é obrigatória a afixação de informação clara e perceptível indicativa da utilização (…)\" dos sistemas de videovigilância (artigo 18.º). De que forma é que isto será feito? Em todos os locais em que se encontre um equipamento de vigilância electrónica, existirá a obrigatória sinalização? Ou será apenas ao entrar numa determinada via que a indicação surgirá, podendo percorrer-se centenas de quilómetros sem sermos informados de que estamos a ser filmados e vigiados? E o regime sancionatório para a falta de informação? Onde está previsto no diploma? Quem e como o vai aplicar? E a regulamentação sobre os sinais de trânsito que irão assegurar o direito à informação será salvaguardada atempadamente? E a informação colhida"
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 5522,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Igualmente para uma intervenção, tem a palavra a Sr.ª Deputada Teresa Diniz."
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 5522,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Teresa Diniz (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr. Ministro dos Assuntos Parlamentares, Sr. Subsecretário de Estado da Administração Interna, Sr.as e Srs. Deputados: O Governo entregou, na Assembleia da República, a proposta de lei n.º 59/X, que visa regular a instalação e utilização de sistemas de vigilância electrónica rodoviária e a criação e utilização de sistemas de informação de incidentes pela EP - Estradas de Portugal, EPE e pelas concessionárias rodoviárias.\n\nEsta iniciativa do Governo visa pôr fim a uma situação de \"quase vazio legislativo\" em matéria tão sensível como a vigilância das \"pessoas\" por meios electrónicos e o tratamento de dados pessoais - dados pessoais, sim, porque, em última instância, é de pessoas que se trata. Entenda-se, porém, pelo \"quase vazio legislativo\", que existe um regime jurídico que regula a utilização dos sistemas de videovigilância pelas forças de segurança, para prevenção e repressão das infracções estradais. E entenda-se também que, relativamente a propostas de lei em discussão, como disse o Sr. Subsecretário de Estado, regulam matéria perfeitamente compartimentada.\n\nO articulado da proposta em apreciação tem bem presente o contributo de alguma doutrina sobre esta matéria, muito embora escassa, e as insistentes recomendações da Comissão Nacional de Protecção de Dados (CNPD), uma vez que se trata de \"vigiar\" sem perder de vista a compatibilização, sempre difícil, entre a liberdade e o controlo dessa mesma liberdade, ou seja, a muitas vezes difícil ponderação, em termos de proporcionalidade, entre as exigências de segurança e a protecção da vida privada, já que a utilização de qualquer sistema de videovigilância por razões específicas, como é o caso da presente proposta de lei, visa a melhoria das condições de prevenção e de segurança rodoviárias e a garantia do cumprimento dos deveres dos condutores e, mais especificamente, a protecção e segurança das pessoas e bens, públicos ou privados, no que respeita à circulação rodoviária, o controlo e monitorização do tráfego rodoviário, a detecção e prevenção de acidentes e a apreciação e detecção de situações relacionadas com o pagamento e falta de pagamento de taxas de portagem, designadamente para efeitos de aplicação de coimas, resolução e resposta a reclamações ou pedidos de esclarecimento formulados pelas concessionárias e utentes. Todas estas medidas devem sobretudo garantir a protecção de pessoas e bens.\n\nFoi, pois, o Governo sensível à problemática desta matéria, a da informação obtida através da gravação de imagem e sons, ou seja, quer em relação à informação (dados obtidos pela gravação), quer em relação ao seu armazenamento, quer mesmo em relação a quem tem acesso. Neste particular, o Governo foi muito cauteloso, até porque Portugal ainda não se encontra num estádio de desenvolvimento mental que permita falar-se de uma cultura de cidadania, de cultura cívica, que em matérias tão sensíveis é particularmente"
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 5523,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para uma intervenção, tem a palavra o Sr. Deputado Nuno Magalhães."
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 5523,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: Discutimos hoje a proposta de lei n.º 59/X, que regula a instalação e utilização de sistemas de vigilância electrónica rodoviária e a criação e utilização de sistemas de informação de acidentes e incidentes pela Estradas de Portugal e demais concessionárias rodoviárias. Trata-se, a nosso ver, de uma matéria tão importante quão sensível, que exige um especial cuidado no uso, tratamento e utilização dos dados recolhidos.\n\nRefira-se que, segundo a Lei da Protecção de Dados Pessoais, qualquer sistema de videovigilância susceptível de aceder a dados pessoais tem de obter por parte da Comissão Nacional de Protecção de Dados uma autorização prévia. Ora, a verdade é que sobre esta matéria, de um quase vazio legal existente até Janeiro de 2005, com a aprovação da Lei n.º 1/2005, de 10 de Janeiro, passámos para uma situação de verdadeira profusão legislativa.\n\nE não foi por falta de alertas da Comissão Nacional de Protecção de Dados, justamente porque esta Casa alertou para a necessidade de regulamentação desta matéria, mantendo o entendimento desde sempre tido de que os dados captados pela videovigilância só podem ser tratados com o consentimento dos próprios ou com base em disposição legal de origem parlamentar. Tese essa, aliás, reforçada em 2002 pelo Tribunal Constitucional a propósito do diploma que regulava então a actividade de segurança privada e suprido pelo anterior Governo.\n\nRefira-se também que esta matéria foi objecto, no ano passado, de uma norma inédita para suprir o vazio legal, no âmbito do Orçamento rectificativo, que alterou o artigo 2.° e o Capítulo V da Lei n.º 1/2005, de 10 de Janeiro, a qual mereceu do mesmo modo parecer desfavorável da Comissão Nacional de Protecção de Dados por considerar que aquele diploma não tinha dignidade formal para regulamentar matéria tão sensível quanto esta, entendimento que partilhámos então e partilhamos hoje."
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 5523,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 5523,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: A verdade é que num período de um ano passou-se, como diz o ditado popular, \"do 8 para o 80\", numa profusão legislativa que faz antever algumas dificuldades na compaginação das várias disposições legais aplicáveis.\n\nA Lei n.º 1/2005, resultante, recorde-se, de um projecto de lei do CDS-PP, destina-se sobretudo às forças de segurança, pelo que não aborda a matéria da utilização das imagens captadas por câmaras de vídeo implantadas nas vias de circulação rodoviária da rede viária nacional e nas auto-estradas concessionadas. Por tal motivo, o Governo, na Lei n.º 39-A/2005, de 29 de Julho, alterou o artigo 2.º do Capítulo V desse diploma com vista à melhoria das condições de prevenção e segurança rodoviárias, introduzindo neste diploma um novo artigo 13.º, que consagra um regime especial para a utilização daquele método de vigilância, nomeadamente definindo os seguintes aspectos: procedimentos na instalação de sistemas de vigilância electrónica rodoviária; formas e condições de utilização dos mesmos; ou até a forma de tratamento"
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 5524,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 5524,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E algumas entidades, como, por exemplo, as autarquias locais, que dispõem precisamente de câmaras licenciadas e sendo elas próprias entidades licenciadoras, ainda não estão abrangidas na lei, se tivermos uma visão rigorosa da mesma, o que, quer parecer-me, irá ainda aumentar essa profusão legal.\n\nSr. Presidente, é sabido que a utilização de meios de vigilância electrónica é causa de restrição de alguns direitos fundamentais com o intuito de salvaguardar outros também constitucionalmente protegidos, restrições essas susceptíveis de causar problemas de colisão de direitos quando, para assegurar o direito à segurança (segurança rodoviária, neste caso), se comprimem outros. O problema não poderá deixar de ser encarado sob uma perspectiva de harmonização de direitos, no caso de ser necessária a prevalência de um sobre o outro.\n\nCom efeito, a nosso ver, a segurança rodoviária, a circulação rodoviária em condições seguras, é um bem jurídico valioso que merece protecção jurídica. Aliás, trata-se de proteger, em última análise, infelizmente, o direito à vida, direito fundamental para nós."
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 5524,
+      "speaker": {
+        "id": 1520,
+        "name": "Maria Antónia Moreno Areias De Almeida Santos",
+        "party": "PS",
+        "string": "A Sr.ª Maria Antónia Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para todos!"
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 5524,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso, a nosso ver, trata-se de um bem jurídico susceptível de restringir o exercício de outros bens jurídicos individuais, como o direito à imagem e o direito à reserva da intimidade da vida privada, respeitando, obviamente, o princípio constitucional da proporcionalidade."
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 5524,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 5524,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E é por isso, e só por isso, que essa restrição é admissível; e é por isso, e só por isso, que gostaria de deixar aqui algumas preocupações, que, contudo, creio serem ultrapassáveis na discussão na especialidade. Nomeadamente, a nosso ver, nada parece justificar a recolha de dados pessoais para fins de monitorização e controlo de tráfego, como parece permitir a alínea c) do n.º 2 do artigo 2.° em particular, quando não esteja em causa a ocorrência de nenhum acidente ou incidente. Não vislumbramos esta necessidade quanto a esta matéria.\n\nEstranhamos igualmente, como já aqui foi dito, a possibilidade de conservação de dados até cinco anos mesmo que não haja lugar a qualquer diligência subsequente à recolha dos mesmos.\n\nPor último, em fase de especialidade, seria preferível, numa matéria tão sensível, densificar de forma clara alguns conceitos que nos parecem vagos para a regulamentação da uma matéria que faz a ponderação de colisão de direitos fundamentais, facto com o qual, na substância - reafirmo -, concordamos.\n\nPor isso mesmo, Sr. Presidente, Sr.as e Srs. Deputados, o CDS-PP estará sempre disponível para discutir esta questão sem preconceitos nem \"pré-conceitos\" e com a consciência tranquila de quem sempre, nesta Casa, por muitas vezes, contra o politicamente correcto e até contra a bancada que hoje sustenta o Governo que apresenta esta proposta de lei, defendeu o recurso às novas tecnologias em nome da segurança de todos nós. No entanto, também diremos que esta consciência é proporcional à convicção de que é necessária uma legislação equilibrada, proporcional e, sobretudo, clara na ponderação dos direitos definidos.\n\nPara tal, e ao contrário de outros, estamos onde sempre estivemos, da mesma forma, com a mesma convicção e com a mesma disponibilidade."
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 5524,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Ainda para uma intervenção, tem a palavra o Sr. Deputado Jorge Machado."
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 5525,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Com a proposta de lei n.º 59/X o Governo pretende obter a legitimação legal devida para a instalação de sistemas de vigilância electrónica, rodoviária e tratamento da respectiva informação por parte da empresa Estradas de Portugal e de empresas concessionárias de auto-estradas.\n\nImporta dizer, em primeiro lugar, que este problema da videovigilância, e designadamente da sua utilização rodoviária, seja para efeitos de prevenção de acidentes seja para outros efeitos, como o da aplicação de sanções aos utentes que não pagam as portagens devidas, tem vindo a dar lugar a um já longo folhetim com vários capítulos e com fio condutor que começa a ser difícil de descortinar.\n\nComo bem refere o relatório elaborado pelo Sr. Deputado Nuno Magalhães para a 1.ª Comissão, já vamos a caminho do sexto diploma a regular esta matéria da vigilância electrónica nas auto-estradas concessionadas. Em nome da coerência, da clareza e da segurança da ordem jurídica, melhor faria o Governo se elaborasse uma proposta de regulamentação desta matéria num único diploma uniformizador ou que, pelo menos, manifestasse a sua disponibilidade, o que equivale dizer a disponibilidade da maioria que o apoia, para que fosse a Assembleia da República a fazê-lo, aproveitando este processo legislativo."
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 5525,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 5525,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pela nossa parte, damos por assente que esta matéria carece ser regulada, desde logo porque está em causa um valor muito importante, que é o da segurança rodoviária, a prevenção de acidentes e o procedimento contra infractores que ponham em causa a segurança da circulação rodoviária, embora se deva ter em conta que esses sistemas visam também interesses exclusivos, embora legítimos, das concessionárias relativamente à cobrança de portagens e aplicação de sanções a quem cometa infracção neste domínio.\n\nEssa regulação, no entanto, deve ser muito cautelosa, porque no outro prato da balança estão direitos fundamentais dos cidadãos relativos à sua imagem e privacidade que não podem pura e simplesmente ser sacrificados, permitindo-se a uma empresa concessionária da auto-estrada obter dados pessoais dos automobilistas, ficar com eles na sua posse, proceder ao seu tratamento e dar-lhes a utilização que bem entender.\n\nAcontece, porém, que, como refere o relatório da 1.ª Comissão, valendo-se, aliás, da valiosa reflexão que a Comissão Nacional de Protecção de Dados tem vindo a reproduzir sobre esta matéria, a proposta de lei não regula de uma forma equilibrada os direitos e os valores em presença. Nesta proposta de lei há uma desproporção flagrante entre o que é permitido às concessionárias em matéria de recolha, tratamento e utilização dos dados pessoais e a falta de garantias dadas aos titulares desses dados contra eventual utilização abusiva.\n\nE o pior é que não estamos a falar de um perigo potencialmente criado pela legislação que o Governo propõe que se aprove mas, sim, de um perigo actual, dado que os sistemas de vigilância rodoviária de que estamos a falar já existem, funcionam e são utilizados pelas empresas concessionárias mesmo que não exista a regulação legal indispensável para isso. Ou seja, esta proposta de lei tem o sentido de proceder a uma espécie de \"regularização extraordinária\" da situação ilegal em que se encontram as concessionárias…"
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 5525,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente! Bem lembrado!"
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 5525,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… quanto à recolha e tratamento de dados pessoais dos cidadãos.\n\nEsta situação de impunidade perante as ilegalidades cometidas poderia ser parcialmente colmatada se agora se aprovasse uma legislação equilibrada, só que não é este o caso. A proposta do Governo está muito longe de ser equilibrada.\n\nComo se sabe, desde há muito, os sistemas de vigilância electrónica rodoviária já instalados pelas empresas concessionárias de auto-estradas estão em situação ilegal por falta de autorização da Comissão Nacional de Protecção de Dados, legalmente obrigatória. Esta ilegalidade é particularmente grave porque viola e deixa sem protecção direitos fundamentais dos cidadãos.\n\nO que o Governo agora propõe é que estas empresas mantenham estes sistemas ou que os instalem, caso ainda não os tenham, sem dependência de qualquer autorização, mas apenas tendo de notificar a Comissão Nacional de Protecção de Dados. E, assim, tudo fica como antes: o funcionamento dos sistemas à margem da lei, sem qualquer autorização, vão passar a funcionar nos termos da lei sem ter necessidade de a obter.\n\nMas há outros aspectos que merecem sérios reparos. A proposta de lei é muito precisa quanto ao que as concessionárias podem fazer com os dados pessoais dos utentes, mas é muito imprecisa quanto àquilo que não podem fazer.\n\nAs empresas podem tratar uma variedade enorme de dados pessoais, tais como imagens, dados de localização, velocidade, datas e horas de registos, tipos e descrições de ocorrências, dados de identificação e contacto das pessoas, dados de identificação dos veículos, locais, datas e horas de acidentes ou incidentes e ainda outros elementos não especificados desde que relevem para as finalidades previstas na lei. E,"
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 5526,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Claro!"
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 5526,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… limitado e com restrições, como se pode ver pelo artigo 19.º da proposta de lei. Mais ainda: a empresa concessionária pode manter os dados na sua posse por cinco anos quando, em geral, a lei só permite a conservação de dados por 30 dias, estando em causa a protecção de pessoas e bens. Não se entende, assim, esta opção, uma vez que estamos a falar de dados sensíveis relativamente à vida dos cidadãos.\n\nPela nossa parte, acompanhamos no essencial as preocupações manifestadas no relatório da 1.ª Comissão e no parecer emitido pela Comissão Nacional de Protecção de Dados, e respectivas declarações de voto, quanto ao carácter desproporcionado e desnecessário da autorização que a proposta de lei se propõe conferir para a captação e gravação de imagens com identificação dos utentes das estradas e auto-estradas. Acompanhamos a estranheza pelo facto de a proposta de lei permitir a conservação de dados pessoais por um período que pode ir para além de cinco anos quando, mesmo nos casos em que está em causa a protecção de pessoas e bens, a lei permite apenas a conservação por um período até 30 dias. Acompanhamos a estranheza quanto à latitude com que se permite a recolha de dados pessoais para fins de monitorização e controlo de tráfego, mesmo que não esteja em causa a ocorrência de qualquer acidente ou incidente. E, finalmente, acompanhamos a perplexidade quanto à autorização para serem facultados aos operadores de televisão e telecomunicações as imagens de monitorização do tráfego sem que haja o mínimo cuidado na preservação do direito à imagem e à intimidade da vida privada dos visados.\n\nEm síntese, também nesta matéria o Governo pretende seguir a inquietante moda, muito em voga, segundo a qual a proclamação de direitos dos cidadãos é muito importante em teoria, mas, na prática, eles cedem perante valores mais altos que se levantam. E o grande problema é que entre os valores mais altos que se levantam há, de certo, alguns que merecem uma forte protecção - a prevenção da segurança é, com certeza, um deles. Só que, no pretexto destes valores, acabam por ser protegidos muitos outros menos legítimos, sacrificando direitos fundamentais que, passo a passo, começam a ser pouco mais que \"letra morta\"."
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 5526,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Helena Pinto."
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 5526,
+      "speaker": {
+        "id": 2204,
+        "name": "Helena Maria Moura Pinto",
+        "party": "BE",
+        "string": "A Sr.ª Helena Pinto (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Subsecretário de Estado da Administração Interna, Sr.as e Srs. Deputados: A vigilância electrónica é uma matéria muito sensível e deve ser rodeada de todos os cuidados. Ou, melhor dizendo, todos os cuidados são poucos nesta matéria. Trata-se, como sabemos, de uma matéria com ligação directa aos direitos e às garantias dos cidadãos e das cidadãs.\n\nSabemos também que o problema da sinistralidade nas nossas estradas é um problema gravíssimo, que até já foi considerado como equivalente a uma guerra civil. Não é esta a questão fundamental hoje, aqui, em debate, mas não podemos deixar de lhe fazer referência, porque, do nosso ponto de vista, a questão fundamental - a questão dos direitos e da proporcionalidade entre os direitos que devem atravessar esta proposta de lei - não pode deixar de ser medida também em função do objectivo destes sistemas de vigilância electrónica. Pretende-se tornar as nossas estradas mais seguras e dispor de sistemas que permitam prevenir acidentes e melhor informar quem circula nas estradas.\n\nNo que respeita às questões substanciais do diploma, queremos registar, em primeiro lugar, como positivo o enquadramento legal dos sistemas, porque, de facto, até hoje temos vivido no vazio de legislação e numa perfeita ilegalidade, e, em segundo lugar, alguma disponibilidade demonstrada pelo Sr. Subsecretário de Estado para fazer alterações em sede de especialidade. Como sabemos, toda esta questão da ausência do enquadramento legal tem sido também objecto de vários avisos e pareceres da Comissão Nacional de Protecção de Dados (CNPD).\n\nPartindo do princípio fundamental da proporcionalidade dos direitos, é preciso saber se os fins a atingir justificam, ou não, o afastamento de direitos fundamentais, que, neste caso, são a reserva da vida privada e o direito à imagem - princípio este, repito, que, do nosso ponto de vista, deve atravessar toda a regulação quer"
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 5527,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma segunda intervenção, tem a palavra o Sr. Subsecretário de Estado da Administração Interna."
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 5527,
+      "speaker": {
+        "id": 2000,
+        "name": "Fernando António Portela Rocha De Andrade",
+        "party": "N/A",
+        "string": "O Sr. Subsecretário de Estado da Administração Interna",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Começo por me congratular com o facto de todas as bancadas, sem excepção, terem reconhecido a necessidade da intervenção legislativa nesta matéria.\n\nCuriosamente, também várias bancadas afirmaram haver uma certa profusão legislativa nesta matéria - e não posso deixar de me interrogar que há uma certa incompatibilidade entre os dois argumentos, pois não se pode dizer ao mesmo tempo que há leis a mais mas que é necessária mais esta lei, pelo menos.\n\nApesar da minha aparente distracção, não pude deixar de ficar surpreendido com a utilização por esta Câmara da expressão \"caça à multa\", para designar a actividade fiscalizadora das forças de segurança. Estou certo de que foi um mero lapso e que não se pretendeu, desta maneira, ofender as actuais forças de segurança que efectuam esta actividade."
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 5527,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Às vezes é!"
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 5527,
+      "speaker": {
+        "id": 2000,
+        "name": "Fernando António Portela Rocha De Andrade",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Também fiquei surpreendido - sobretudo vindo de um grupo parlamentar que, enquanto apoiava um governo, criou um código da estrada em que, e muito bem, se prevê a aplicação e o pagamento das contra-ordenações na hora, sempre que a verificação seja directa - com alguma resistência à utilização de meios informáticos para a celeridade do processo, dizendo-se que isto de haver contra-ordenações notificadas logo na hora seria uma coisa muito perigosa. Não sei se é uma defesa desse belíssimo processo da prescrição sistemática das contra-ordenações…! E estou mesmo a pensar se não será de reintroduzir a máquina de escrever como forma de tornar ainda um pouco mais lento o processo de contra-ordenação…!\n\nTambém registei a este propósito, sobretudo por parte da bancada do PSD, uma certa preocupação para com a falta de regulamentação. De facto, esta é uma lei da Assembleia da República. Mas quando me dizem que não se sabe a que distância distam entre si os cartazes que avisam a existência de vigilância rodoviária, que não se sabe exactamente como é que eles são, e, já agora, de que cor serão, também não me parece que tudo isto seja matéria para uma lei da Assembleia da República. É clarissimamente matéria regulamentar, que não tem de estar agora aqui a ser discutida."
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 5527,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Convém saber as intenções!"
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 5527,
+      "speaker": {
+        "id": 2000,
+        "name": "Fernando António Portela Rocha De Andrade",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Também me parece que resulta de má leitura da lei dizer-se que este diploma se refere a auto-estradas, porque a lei é claríssima ao dizer que estamos a falar de sistemas de fiscalização para estradas nacionais e auto-estradas. Estão as duas em paralelo na lei."
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 5527,
+      "speaker": {
+        "id": 1232,
+        "name": "Fernando Santos Pereira",
+        "party": "PSD",
+        "string": "O Sr. Fernando Santos Pereira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Então, diga as estradas nacionais!"
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 5527,
+      "speaker": {
+        "id": 2000,
+        "name": "Fernando António Portela Rocha De Andrade",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sem querer antecipar o Orçamento do Estado para 2007, que, salvo o erro, não está aqui em"
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 5528,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ah!…"
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 5528,
+      "speaker": {
+        "id": 2000,
+        "name": "Fernando António Portela Rocha De Andrade",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O PSD também levantou a questão da definição dos sistemas de localização, que era uma questão levantada no parecer inicial da CNPD e que está consagrada agora na lei. Precisamente porque houve objecção da CNPD, consagrou-se a definição do que é um sistema de localização. Não se consagra, no entanto, qual é a tecnologia, nem a lei o deve fazer, porque a tecnologia é mutável. Ou seja, se amanhã existir uma tecnologia que não existe hoje, essa tecnologia, ainda que mais adequada do que as actuais, fica automaticamente fora da lei, o que não me parece prudente. Define-se o que a tecnologia faz e o que não faz. Se há coisa em que, na minha opinião, a lei é clara é ao dizer que os sistemas de localização servem para registar viaturas, nem sequer dados pessoais serão propriamente captados pelos sistemas de localização.\n\nPor vários Srs. Deputados foi levantada a questão de este sistema servir para fiscalizar o incumprimento da obrigação de pagar portagens. Quero chamar a atenção para o facto de, já no actual sistema jurídico, o pagamento de portagens não ser uma mera relação privada contratual entre o utilizador e o concessionário da auto-estrada, uma vez que hoje em dia já existe legislação que pune o não pagamento de portagens, nomeadamente a passagem pela Via Verde sem pagamento, e as contra-ordenações. O que revela que actualmente o ordenamento jurídico já considera estas questões como de ordem pública e não como meras questões privadas entre o concessionário e o utilizador da auto-estrada."
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 5528,
+      "speaker": {
+        "id": 2204,
+        "name": "Helena Maria Moura Pinto",
+        "party": "BE",
+        "string": "A Sr.ª Helena Pinto (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O concessionário que resolva!"
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 5528,
+      "speaker": {
+        "id": 2000,
+        "name": "Fernando António Portela Rocha De Andrade",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Finalmente, não quero deixar de me referir à interpretação um pouco terrorista feita pelo Sr. Deputado Jorge Machado desta lei, porque com essa interpretação, em que basicamente aboliu a CNPD, aboliu a lei de protecção…"
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 5528,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Subsecretário de Estado, permita-me que o interrompa para lhe chamar a atenção de que o termo \"terrorista\" talvez seja um pouco desproporcionado, já que estamos a falar do princípio da proporcionalidade.\nQueira concluir."
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 5528,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD e do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 5528,
+      "speaker": {
+        "id": 2000,
+        "name": "Fernando António Portela Rocha De Andrade",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, quero que fique claro que apenas quis dizer que o Sr. Deputado Jorge Machado procedeu à destruição do sentido da lei, tal como o entendo, e a nada mais."
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 5528,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas não foi uma destruição em massa!"
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 5528,
+      "speaker": {
+        "id": 2000,
+        "name": "Fernando António Portela Rocha De Andrade",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas foi maciça, no sentido em que foram muitos os artigos atingidos por essa destruição.\n\nSr. Deputado, o direito de acesso aos dados que estão conservados é garantido nos mesmos termos exactos e por remissão para a Lei da Protecção de Dados Pessoais. Estão inscritas as limitações. Portanto, se existe um processo criminal em curso e determinado dado é necessário, o cidadão objecto de processo criminal não pode requerer a sua destruição à entidade que o guarda. Isto parece-me de manifesto bom senso.\n\nTambém se diz o que os concessionários de auto-estradas e o IEP podem fazer, não se diz o que não podem fazer. Srs. Deputados, a técnica legislativa pela positiva é muito mais limitativa do que a pela negativa. Quando se diz o que podem fazer, significa que só podem fazer aquilo; quando se diz o que não podem fazer, corremos sempre o risco de o legislador se ter esquecido de uma coisa que até deveriam não poder fazer mas que não está prevista. A previsão pela positiva diz \"só podem fazer isto e não podem fazer mais nada do que isto\", é a melhor técnica legislativa para limitar os poderes presentes.\n\nJá não tenho tempo para responder ao vasto conjunto de outras questões, pois apenas disponho de mais 1 minuto para encerrar.\n\nProcurou-se um equilíbrio no essencial, em que a Comissão Nacional de Protecção de Dados, além de ter sido ouvida previamente e de terem sido consagradas as suas preocupações, está aqui como entidade garante de que as finalidades, a proporcionalidade, a necessidade e a adequação destes sistemas é cumprida. É para isto que existe a Comissão Nacional de Protecção de Dados e é por isto que, no meu entendimento, a lei não deve ir à regulação ínfima de todo o pormenor, precisamente porque deve confiar o papel regulador da CNDP.\n\nA lei estabelece, quanto a mim claramente - mas, como eu já disse, reconheço que, quanto a algumas"
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 5529,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está concluída a discussão desta proposta de lei, que será também votada no momento oportuno.\n\nA Sr.ª Secretária vai dar conta de alguns anúncios de carácter regimental."
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 5529,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, na sequência do ofício do Sr. Presidente da Comissão de Educação, Ciência e Cultura, informa-se o Plenário que o processo relativo à apreciação parlamentar n.º 16/X, do PCP, relativa ao Decreto-Lei n.º 20/2006, de 31 de Janeiro, que revê o regime jurídico do concurso para selecção e recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário, revogando o Decreto-Lei n.º 35/2003, de 27 de Fevereiro, deverá considerar-se caduco em virtude de todas as propostas de alteração apresentadas terem sido rejeitadas.\n\nÉ tudo, Sr. Presidente."
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 5529,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António Filipe)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a nossa próxima reunião plenária realizar-se-á no dia 3 de Maio, às 15 horas, e terá, além do período de antes da ordem do dia, no período da ordem do dia, um debate de urgência, requerido pelo Grupo Parlamentar do BE, ao abrigo do n.º 4 do artigo 78.º do Regimento, sobre a tensão internacional suscitada pelo programa nuclear do Irão, e a apreciação da proposta de lei n.º 62/X - Altera o Código do IVA, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro, estabelecendo regras especiais em matéria de tributação de desperdícios, resíduos e sucatas recicláveis e de certas prestações de serviços relacionadas. No final do debate haverá votações.\n\nEstá encerrada a sessão."
+    }
+  ]
+}

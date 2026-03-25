@@ -1,0 +1,3848 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "13",
+    "legislative_session": "1",
+    "number": "20",
+    "date": "2015-12-23"
+  },
+  "debate_id": "r3_13_1_20_2015-12-23",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. e Srs. Deputados, Sr. e Srs. Funcionários, Sr. e Srs. Jornalistas, temos \nquórum, pelo que declaro aberta a sessão. \nEram 10 horas e 5 minutos. \nSolicito aos Srs. Agentes de Autoridade que abram as galerias. \nVamos iniciar os nossos trabalhos com a leitura do expediente, pelo que dou a palavra, para o efeito, ao Sr. \nSecretário, Deputado Pedro Alves. \nas"
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Pedro Alves)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr. e Srs. Deputados, deram entrada na Mesa, e foram os\nadmitidas, as seguintes iniciativas legislativas: propostas de lei n. 7/XIII (1.ª) — Altera o Código do Imposto \nsobre o Rendimento das Pessoas Coletivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro, \ntranspondo a Diretiva (UE) n.º 2015/121, do Conselho, de 27 de janeiro de 2015, que altera a Diretiva n.º \n2011/96/UE do Conselho, de 30 de novembro de 2011, relativa ao regime fiscal comum aplicável às \nsociedades-mães e sociedades afiliadas de Estados-membros diferentes, e 8/XIII (1.ª) — Procede à primeira \nalteração à Lei n.º 82-B/2014, de 31 de dezembro, que aprova o Orçamento do Estado para 2015; projetos de os\nlei n. 77/XIII (1.ª) — Cria o Estatuto do Bailarino Profissional da Companhia Nacional de Bailado e a Escola \nde Dança da Companhia Nacional de Bailado (PCP), que baixa à 10.ª Comissão, 78/XIII (1.ª) — Reversão do \nHospital Distrital de São João da Madeira para o Ministério da Saúde (PCP), que baixa à 9.ª Comissão, 79/XIII \n(1.ª) — Manutenção do Hospital do Fundão sob gestão pública (PCP), que baixa à 9.ª Comissão, 80/XIII (1.ª) \n— Revoga o Decreto-lei n.º 138/2013, de 9 de outubro, que define as formas de articulação do Ministério da \nSaúde e os estabelecimentos e serviços do Serviço Nacional de Saúde (SNS) com as instituições particulares \nde solidariedade social, bem como estabelece o regime de devolução às Misericórdias dos hospitais objeto os\ndas medidas previstas nos Decretos-Leis n. 704/74, de 7 de dezembro, e 618/75, de 11 de novembro, \natualmente geridos por estabelecimentos ou serviços do SNS (PCP), que baixa à 9.ª Comissão, 81/XIII (1.ª) — \nReversão do Hospital José Luciano de Castro, Anadia, para o Ministério da Saúde (PCP), que baixa à 9.ª \nComissão, 82/XIII (1.ª) — Reversão do Hospital de S. José de Fafe para o Ministério da Saúde (PCP), que \nbaixa à 9.ª Comissão; e projeto de resolução n.º 53/XIII (1.ª) — Recomenda a adoção de medidas urgentes \npara a criação de vagas adicionais ao concurso de internato médico 2015 (PCP). \nÉ tudo, Sr. Presidente."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Muito obrigado, Sr. Secretário. Cumprimento o Sr. Primeiro-Ministro e os Membros do \nGoverno aqui presentes. \nSegundo o que foi acordado entre as diversas bancadas e a Mesa, a metodologia para a nossa ordem de \ntrabalhos vai ser a seguinte: procederemos à discussão na generalidade da proposta de lei n.º 8/XIII (1.ª) — \nProcede à primeira alteração à Lei n.º 82-B/2014, de 31 de dezembro (Aprova o Orçamento do Estado para \n2015). Antes de procedermos à votação na generalidade, iremos interromper os trabalhos por meia hora, a \npedido do Grupo Parlamentar do PSD para fazer uma reunião, e durante este período aceitam-se propostas \nde alteração para a discussão na especialidade, que ficarão, evidentemente, dependentes da aprovação da \nproposta de lei na generalidade. Após a interrupção de meia hora, far-se-á o debate na especialidade, assim \ncomo todas as votações — na generalidade, na especialidade e em votação final global. \nAssim, para dar início ao debate na generalidade, tem a palavra, em nome do Governo, o Sr. Ministro das \nFinanças, Mário Centeno. \nas"
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro das Finanças (Mário Centeno)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr. Primeiro-Ministro, Srs. Ministros, Sr. \ne Srs. Deputados: É uma questão antiga, mas, até agora, nunca resolvida, que hoje nos traz aqui com carácter \nde urgência. \nNas últimas semanas, o Governo recém-empossado foi confrontado com um problema chamado «Banif». A \nreestruturação do Banco, que permitiria concluir o processo de investigação aprofundada que a Direção-Geral \nda Concorrência tinha encetado no verão de 2015, era uma prioridade que não podia esperar mais. Esta \nurgência era acrescida pela pressão regulatória que resultava dos problemas estruturais do Banif, que"
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Ministro das Finanças, inscreveram-se cinco Srs. Deputados para pedir \nesclarecimentos. \nPergunto-lhe, Sr. Ministro: como é que quer responder?"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro das Finanças",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Por duas vezes, a um conjunto de três pedidos e a outro conjunto de dois \npedidos."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sendo assim, tem a palavra o Sr. Deputado Duarte Pacheco."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 3,
+      "speaker": {
+        "id": 1210,
+        "name": "Duarte Rogério Matos Ventura Pacheco",
+        "party": "PSD",
+        "string": "O Sr. Duarte Pacheco (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Ministro das Finanças, sobre tudo o que aconteceu \ncom o «caso Banif», há hoje aqui um grande consenso na realização de uma comissão de inquérito, onde tudo"
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 4,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Já estão a querer seguros de vida!"
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 4,
+      "speaker": {
+        "id": 1210,
+        "name": "Duarte Rogério Matos Ventura Pacheco",
+        "party": "PSD",
+        "string": "O Sr. Duarte Pacheco (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isto porque, existindo uma maioria absoluta, o Partido Socialista viabilizou \nesses dois relatórios, tal era a seriedade dos mesmos, e espero que o mesmo venha a acontecer com esta \ncomissão de inquérito. \nMas hoje estamos aqui, Sr. Ministro, não para fazer essa avaliação global mas para fazer a avaliação da \nsua decisão, da decisão do Governo, porque é uma proposta do Governo que está, aqui, em cima da mesa. \nSabemos que a decisão da resolução coube ao Banco de Portugal. É bom que isso tenha sido reconhecido \npelo Governo, porque, no passado, nem sempre reconheceram, enquanto eram membros do Partido Socialista \nsomente."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem! Bem lembrado!"
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 4,
+      "speaker": {
+        "id": 1210,
+        "name": "Duarte Rogério Matos Ventura Pacheco",
+        "party": "PSD",
+        "string": "O Sr. Duarte Pacheco (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas o modelo da decisão é sua. E no modelo desta decisão há \nesclarecimentos que devem ser prestados, Sr. Ministro. \nPrimeiro, existiram várias propostas em cima da mesa, fala-se em seis. Quem são? E por que é que \nescolheu esta em detrimento de outras? Porquê o Santander em detrimento de outras? Esta explicação tem \nde ser dada. \nSegundo, o Santander foi a opção escolhida, mas estão salvaguardados os postos de trabalho? Sabemos \nque são salvaguardados os direitos legais,…"
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Oh!"
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 4,
+      "speaker": {
+        "id": 1210,
+        "name": "Duarte Rogério Matos Ventura Pacheco",
+        "party": "PSD",
+        "string": "O Sr. Duarte Pacheco (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… mal seria, porque estamos num Estado de direito, mas na resolução \nanterior, por exemplo, na privatização do BPN, ficou assegurado quantos postos de trabalho a entidade \ncompradora iria assumir."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 4,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Que belo exemplo!"
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 4,
+      "speaker": {
+        "id": 1210,
+        "name": "Duarte Rogério Matos Ventura Pacheco",
+        "party": "PSD",
+        "string": "O Sr. Duarte Pacheco (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E agora? Há esse compromisso firme? E quanto às exigências, Sr. \nMinistro? Está firme, também, que o Santander vai permanecer com as agências, quer nas ilhas, quer na \ndiáspora? São decisões que não estão esclarecidas e que o Sr. Ministro nos deve explicar. \nMas há aqui ainda uma outra decisão que, ontem, depois de algumas horas, o Sr. Ministro não nos \nconseguiu esclarecer. O Fundo de Resolução é reforçado, mas é reforçado exclusivamente com capitais \npúblicos; há um ano, o sistema financeiro foi chamado a reforçar os capitais do Fundo de Resolução, mas, \nagora, isso não aconteceu. \nSabemos que o sistema financeiro não fez esse reforço a seu bel-prazer, fê-lo porque houve pressão para \nque isso assim acontecesse, para que não fosse só o erário público a suportar esse reforço."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 4,
+      "speaker": {
+        "id": 1965,
+        "name": "Carlos Eduardo Almeida De Abreu Amorim",
+        "party": "PSD",
+        "string": "O Sr. Carlos Abreu Amorim (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente! Agora fez-se ao contrário!"
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 4,
+      "speaker": {
+        "id": 1210,
+        "name": "Duarte Rogério Matos Ventura Pacheco",
+        "party": "PSD",
+        "string": "O Sr. Duarte Pacheco (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Agora, esse reforço é zero, é um reforço exclusivamente à custa dos \ncontribuintes. E esta repartição de custos, Sr. Ministro, é algo que é uma decisão vossa e que deve ser \nexplicada a todos os portugueses."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "A exemplo do que se tem passado noutros debates muito importantes, a Mesa \nmantém uma flexibilidade em relação aos 2 minutos para cada pedido de esclarecimento, visto que o tempo \nestá a ser descontado no tempo global de cada partido, mas não manterá qualquer flexibilidade quanto à \nultrapassagem do tempo global. \nTem a palavra o Sr. Deputado Miguel Tiago, do PCP, para pedir esclarecimentos."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 5,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Sr. Miguel Tiago (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Ministro, o PSD e o CDS têm tentado tudo para nos fazer \ncrer que este é um problema que foi gerado nas últimas semanas, apesar de o PCP, desde finais de 2012, \ninícios de 2013, ter trazido este problema à Assembleia da República e de o PSD e CDS, na altura no \ngoverno, tudo terem feito para ocultar a real dimensão do problema. E nessa altura entregaram 1100 milhões \nde euros, como já foi descrito, ao Banif, a um banco falido, dos quais apenas foram recuperados 825 milhões \nde euros, porque o Governo, pura e simplesmente, se demitiu de acompanhar o Banco para o qual atirou 1100 \nmilhões de euros, sabendo que não era mais do que um sorvedouro de capital. \nPor isso, Sr. Ministro, as primeiras questões que coloco são sobre isto mesmo. Que acompanhamento terá \nfeito o anterior Governo desta situação desde o momento, ou, aliás, até mesmo antes, em que colocou à \ndisposição daquele Banco 1100 milhões de euros? Que orientações foram dadas ao administrador não \nexecutivo? Como é que o Governo acompanhou a elaboração dos planos de reestruturação e as \nrecomendações da DGCom sobre esses planos de reestruturação? Que articulação foi feita entre o Governo e \no Banco? Que garantias exigiu o Governo e o que fez para que elas pudessem ser utilizadas, no sentido de \nreaver os 1100 milhões de euros que foram colocados no Banco? O Governo tinha, ou não, à data, elementos \nque lhe permitissem saber que o Banif era considerado inviável e que deveria ter uma solução? \nEstas questões podem provar que o problema não é de agora e que, de facto, existem profundas \nresponsabilidades do PSD e do CDS. \nMas há mais responsabilidades. O PSD e o CDS recusaram-se, tanto quanto sabemos, em todos os \nmomentos, por obsessão ideológica e compromissos com o grande capital em Portugal, a incluir ou a ponderar \nincluir o Banif na esfera pública, nomeadamente no sistema público bancário, com ou sem a participação \ndireta da Caixa Geral de Depósitos. Essa opção, pura e simplesmente, não foi tida em conta e, na altura, \ntalvez pudesse ter poupado o Estado ao rombo de 2255 milhões de euros, que, agora, acrescem à dívida \npública, e aos quais se juntam ainda 750 milhões de euros de garantias para ativos tóxicos que o Santander \nexigiu."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 5,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 5,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Sr. Miguel Tiago (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Impuseram aos portugueses duríssimas condições de vida durante o pacto \nde agressão assinado com o FMI, o Banco Central Europeu e a União Europeia; impuseram cortes nos \nsalários, roubos nas pensões; encerraram serviços públicos; destruíram direitos; tudo a pretexto de sanar os \nproblemas da banca e eis que deixaram o lixo escondido para justificar a propaganda da «saída limpa» e, com \nisso, enganar os portugueses, eventualmente, para obterem melhores resultados eleitorais. \nEssa fatura, também pela mentira e propaganda, tem este custo, e este custo pode ainda vir a ser maior, \nporque, afinal, o lixo e as prendas no sapatinho que agora nos calharam são muito maiores do que se \npensava, e ainda resta saber se a banca não terá outros problemas escondidos a que o Estado ainda terá de \nresponder."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Mariana Mortágua."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 6,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Ministro das Finanças, a proposta que nos traz aqui é \ninaceitável. Ela não garante os postos de trabalho e é inaceitável porque entrega demasiado dinheiro dos \ncontribuintes ao Santander. No fundo, é disto que se trata, de limpar um banco com o dinheiro dos \ncontribuintes para o entregar ao Santander. \nA alternativa que melhor defende os interesses do País é a manutenção do Banco na esfera pública. \nEstamos conscientes e certos de que essa seria a melhor alternativa, mesmo que essa alternativa implicasse \ndeterminação perante as pressões de Bruxelas. O que não se compreende neste debate é a posição da \ndireita. O Governo do PSD e CDS entregou 1100 milhões de euros ao Banif quando já se sabia que o Banif \ntinha problemas na sua viabilidade futura, facto que a direita escondeu do País. Pôs 1100 milhões de euros no \nBanif e disse-lhe: «Vai à tua vida! Faz o que bem entenderes durante três anos!». \nDurante três anos, a anterior Ministra das Finanças teve o dossier Banif fechado em cima da mesa do \nMinistério. Durante três anos, o único plano da direita era reestruturar o Banco e vendê-lo, e durante três anos \nfalhou o único plano que tinha para o Banif. Oito planos de reestruturação falhados e nada foi feito."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 6,
+      "speaker": {
+        "id": 1965,
+        "name": "Carlos Eduardo Almeida De Abreu Amorim",
+        "party": "PSD",
+        "string": "O Sr. Carlos Abreu Amorim (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é verdade!"
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 6,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Banif entrou em incumprimento em dezembro de 2014, não conseguiu \ndevolver o dinheiro que o Estado lhe emprestou e nada foi feito. O último prazo da Comissão Europeia para \nreestruturar o Banif, março de 2015, foi ultrapassado e nada foi feito."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 6,
+      "speaker": {
+        "id": 1965,
+        "name": "Carlos Eduardo Almeida De Abreu Amorim",
+        "party": "PSD",
+        "string": "O Sr. Carlos Abreu Amorim (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é verdade!"
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 6,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O auditor do Banif comunica ao Banco de Portugal, que comunica ao \nGoverno, que há problemas na capitalização do Banif, em outubro de 2015, e nada foi feito. \nNada foi feito porque PSD e CDS sabiam que era preciso sorrir e fazer cara de «saída limpa». E toda a \ngente sabe que ninguém pode sorrir e, ao mesmo tempo, anunciar problemas na banca. Por isso, nada foi \nfeito, para manter cara de «saída limpa»; nada foi feito porque o plano era exatamente esse, o plano era olhar \npara o lado, assobiar e esperar que, a partir de janeiro, Bruxelas entrasse, mais uma vez, pelas portas do País \ne viesse resolver o problema que o PSD e CDS não conseguiram resolver. E depois seria simples, ficaria para \nBruxelas os custos de ir aos depósitos do Banif. \nBruxelas seria a culpada de ficar com as remessas dos emigrantes. Bruxelas seria a culpada dos \ndespedimentos. Que solução tão simples que o PSD e CDS tinham para o Banif! \nEnquanto isto, o Banco foi perdendo valor. E, agora, vem aqui a direita levantar a bandeira do Novo Banco, \ncomo se os custos do Novo Banco não fossem recair nos contribuintes e o Novo Banco não estivesse a \nprecisar de capital!"
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 6,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não!"
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 6,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vem a direita apontar os problemas à supervisão, como se o \nGovernador do Banco de Portugal não tivesse sido reconduzido pelo Governo PSD/CDS-PP, depois de tudo o \nque se passou no BES. \nAgora, podem vir levantar o argumento da supervisão?! Só há problemas na supervisão porque os Srs. \nDeputados perderam o Governo e agora não podem ter a solução alternativa. \nPortanto, Sr. Ministro, penso que é necessário fazer esta avaliação e não há comissão de inquérito aceite \npela direita, nem intenção aceite pela direita, que apague as responsabilidades que tiveram neste processo."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 7,
+      "speaker": {
+        "id": 1974,
+        "name": "Cecília Felgueiras De Meireles Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Cecília Meireles (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nem as suas!"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder a este primeiro bloco de questões, tem a palavra o Sr. Ministro das \nFinanças."
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro das Finanças",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr. Deputado Duarte Pacheco, as propostas que estavam \nem cima da mesa eram, segundo o comunicado da administração do Banif, exatamente quatro. Dessas quatro \npropostas, uma era não vinculativa e apenas duas cumpriam os critérios de venda que estavam estipulados."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 7,
+      "speaker": {
+        "id": 2018,
+        "name": "Hugo Alexandre Lopes Soares",
+        "party": "PSD",
+        "string": "O Sr. Hugo Lopes Soares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quais?"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro das Finanças",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "A do Banco Santander e a do Banco Popular. \nA negociação foi conduzida pela autoridade de resolução e a proposta do Santander foi considerada a \nmelhor proposta entre as duas, melhor no sentido daqueles critérios que aqui já tínhamos estabelecido e que \ntinham a ver com a salvaguarda da estabilidade do sistema financeiro e a proteção do dinheiro dos \ncontribuintes. \nA decisão que aqui trazemos hoje é uma decisão difícil, difícil pelo resultado, pelo impacto financeiro e \npelas condições em que teve de ser tomada. Vender um banco, em contexto de resolução, em 24 horas, Sr. \nDeputado, não é uma tarefa fácil. Não é uma tarefa fácil que o Fundo de Resolução, neste momento, esteja \ncom stress financeiro elevadíssimo, decorrente da forma como foi utilizado nos processos anteriores. Como \nsabe, a legislação mudou, desde 2014 até hoje, e as condições de utilização do Fundo de Resolução são \nmuito distintas desde essa altura. \nSr. Deputado Miguel Tiago, felizmente vai haver uma comissão parlamentar de inquérito à gestão do «caso \nBanif». Posso garantir-lhe que o Governo colaborará com essa comissão em tudo o que for solicitado, mas \nneste momento temos de concentrar-nos nesta decisão. \nO senhor sabe, porque foi ontem discutido na comissão parlamentar, que a solução da Caixa Geral de \nDepósitos era a preferida deste Governo, mas no tempo que tivemos para a negociar não foi possível \nimplementá-la. \nSr.ª Deputada Mariana Mortágua, em relação à referência que faz e, respondendo também à questão sobre \nos postos de trabalho, devo dizer que 1000 trabalhadores transitam para a órbita do Santander, e, portanto, \nficarão no Santander, e que os restantes trabalhadores do Banif, à data da resolução, estão colocados no \nveículo. Neste sentido, a manutenção dos postos de trabalho é garantida nesta transição. \nA perda de valor do Banif começou há muito tempo e teve uma trajetória muito forte ao longo dos últimos \nanos. A capitalização bolsista do Banif caiu 97%, desde o momento da injeção do capital pelo Estado até à \ndata da tomada de posse deste Governo."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Carlos César."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 7,
+      "speaker": {
+        "id": 1853,
+        "name": "Carlos Manuel Martins Do Vale César",
+        "party": "PS",
+        "string": "O Sr. Carlos César (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Ministro das Finanças, estamos aqui para decidir sobre a \nalteração ao Orçamento do Estado que o Governo é obrigado a fazer de modo a retificar a inação do Governo \nanterior e a acomodar a operação sobre o Banif, alternativa à liquidação total do Banco e a outras soluções \nque não teriam cobertura legal ou no quadro da União Europeia."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 8,
+      "speaker": {
+        "id": 1853,
+        "name": "Carlos Manuel Martins Do Vale César",
+        "party": "PS",
+        "string": "O Sr. Carlos César (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para solucionar este assunto, o anterior Governo e a supervisão tiveram muito \ntempo. O dossier do Banif surgiu, porém, perante o atual Governo, com urgência inusitada, com um banco sob \ninvestigação da União Europeia, num quadro de fragilidade e no limite temporal. \nTorna-se pouco compreensível que problemas como o do Banif sobrevivam à execução do programa da \ntroica, que tinha como um dos eixos principais a estabilização do sector financeiro, comprometendo, nesse \nsentido, o Governo anterior, o Banco de Portugal e a própria Comissão Europeia. Como podem, todos eles, \nnão serem os culpados? \nO País folgado e o Orçamento assegurado que parlapateavam está à vista. A realidade mostra-nos que \nsubmergiu o que inevitavelmente viria à superfície, mas, como o PSD e o CDS queriam, só depois das \neleições. \nNunca faltaram o conhecimento e os avisos para este caso, pelo menos desde a operação de \nrecapitalização, e, daí para cá, o Ministério das Finanças e o Banco de Portugal conviveram continuadamente \ncom insucessos e impasses, designadamente com planos sucessivos de reestruturação falhados e rejeitados. \nImporta, por isso, por via de uma comissão parlamentar de inquérito, como, em simultâneo, por outras vias, \nsaber, nesse período de tempo em que o Estado assumiu responsabilidades especiais por via da ajuda \nconcedida, o que foi feito e não deveria ter sido feito e o que não foi feito e deveria ter sido. \nDepois das eleições, o Governo anterior retirou-se mesmo, de facto, da negociação, causando \nperplexidade nos negociadores europeus, ficando a interlocução com o Banco e a Comissão Europeia no \nBanco de Portugal. \nChegou-nos, por incúria, um problema velho, em contínua deterioração e no prazo limite, estreitando-se a \nmargem de solução e a capacidade negocial do Estado. \nPor causa disso, a dívida pública volta a subir e confrontamo-nos com um encargo financeiro vultuoso. É \nmais um imposto sobre a incompetência do PSD e do CDS que os portugueses pagarão."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 8,
+      "speaker": {
+        "id": 1853,
+        "name": "Carlos Manuel Martins Do Vale César",
+        "party": "PS",
+        "string": "O Sr. Carlos César (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os custos submersos e ocultados são agora inevitavelmente assumidos, \nrestando-nos o esforço de os tentar reduzir. \nA alternativa que restava, inviabilizada a recapitalização e a integração na Caixa Geral de Depósitos, que \ndeveria ter sido ensaiada em 2012/2013, havendo, então, boas probabilidades de ter sido aceite,… \n… era a da resolução acompanhada da venda imediata ou a liquidação total, gorada que também tinha sido \na venda voluntária. Optou-se, e bem, pela primeira. \nA liquidação total que acontecerá, se esta alteração orçamental não for aprovada, sairia, entre outros \naspetos, mais cara para o Estado e para os contribuintes, resultaria na perda integral dos milhares de postos \nde trabalho diretos e indiretos, numa agressão recessiva às economias empresariais dos Açores e da Madeira, \nnuma quebra reflexa das remessas dos emigrantes ou, por exemplo, na redução a zero do Fundo de Garantia \nde Depósitos, que geraria quase pânico em depositantes em todos os bancos."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 9,
+      "speaker": {
+        "id": 2039,
+        "name": "João Saldanha De Azevedo Galamba",
+        "party": "PS",
+        "string": "O Sr. João Galamba (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 9,
+      "speaker": {
+        "id": 1853,
+        "name": "Carlos Manuel Martins Do Vale César",
+        "party": "PS",
+        "string": "O Sr. Carlos César (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "No modelo adotado acautelam-se, no imediato, cerca de 1500 empregos; \nacautelam-se os direitos dos depositantes, protegendo, ao contrário do que o CDS queria, poupanças de \nmilhares de pequenas e médias empresas,…"
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Falso! Falso!"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 9,
+      "speaker": {
+        "id": 1853,
+        "name": "Carlos Manuel Martins Do Vale César",
+        "party": "PS",
+        "string": "O Sr. Carlos César (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… de famílias e de emigrantes, que as confiaram nessa modalidade; \nassegura-se o papel ativo no financiamento da economia dos Açores e da Madeira; e dá-se, no limite do \npossível, um sinal de confiança no sistema, o que releva para casos futuros. \nApoiamos, assim, a opção tomada. Em síntese, fizemos o que de melhor nos restava fazer, já que o \nGoverno anterior não fez o que devia, no modo e no tempo devidos. \nAssumam, agora, todos as vossas responsabilidades. \nA questão, Sr. Ministro, é esta: como poderemos evitar melhor situações destas no futuro? No entender do \nPS, assim não pode ser, assim não pode continuar."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Paulino Ascenção."
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 9,
+      "speaker": {
+        "id": 2125,
+        "name": "José Paulino Carvalho De Ascenção",
+        "party": "BE",
+        "string": "O Sr. Paulino Ascenção (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Ministro das Finanças, foi anunciado na declaração \ndo Sr. Primeiro-Ministro que haveria uma garantia da manutenção dos empregos no Banif, sobretudo no \nâmbito das regiões autónomas, e do nível de atividade do Banco. \nOra, após os esclarecimentos ontem prestados pelo Sr. Ministro em sede de Comissão, chegámos à \nconclusão de que não existe garantia alguma."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Oh!…"
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 9,
+      "speaker": {
+        "id": 2125,
+        "name": "José Paulino Carvalho De Ascenção",
+        "party": "BE",
+        "string": "O Sr. Paulino Ascenção (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Ministro remeteu tão-só para as garantias que estão presentes na \nlegislação do trabalho — e também era o que faltava que essa legislação fosse derrogada e que se criasse \naqui um offshore, no âmbito da legislação do trabalho, a favor do Santander! \nOra, é elevado o desemprego na Madeira; são frágeis as economias das Regiões; a Madeira, em particular, \nfoi afetada pelo programa de ajustamento de âmbito nacional e regional, numa dupla austeridade; e os \nempregos no sector da banca são empregos de qualidade, pelo que têm aí uma importância ainda acrescida \npara estas regiões. \nEssa garantia só poderia ser dada, ou se o Estado tivesse uma participação do Santander, o que não é o \ncaso, ou se o Banif permanecesse na esfera pública. E foi manifestado que esta última era a preferência do \nGoverno. \nAssim sendo, pergunto: até onde é que levou essa sua preferência, sabendo que noutras matérias as \nregras europeias têm sido derrogadas a favor de alguns Estados? Com que insistência é que defendeu o \ninteresse público, o interesse nacional, perante as instituições europeias? \nGostaria também de perguntar se foi colocada às autoridades europeias a possibilidade de se manter a \natividade do Banif apenas como banco público, uma atividade circunscrita às Regiões Autónomas. Esta \nhipótese foi colocada? E com que ênfase foi colocada, na defesa do interesse público e do interesse \nespecífico das duas Regiões Autónomas que têm estas economias frágeis?"
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder a estes dois pedidos de esclarecimento, tem a palavra o Sr. Ministro \ndas Finanças."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro das Finanças",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr. Deputado Carlos César, a leitura do Governo face à \ninação, ao final do programa de ajustamento e à intervenção no sector financeiro, está muito em linha com a \nque o Sr. Deputado aqui apresentou. Este Governo já anunciou nesta Assembleia que, em breve, irá \napresentar uma proposta de alteração da arquitetura de supervisão e de resolução bancária. \nDe qualquer maneira, posso afirmar que é propósito deste Governo não utilizar mais dinheiro público na \nsolução de problemas da banca, em Portugal. \nEm relação à questão do emprego, referida pelo Sr. Deputado do Bloco de Esquerda, as garantias que \ntemos quanto aos postos de trabalho são as mesmas que o Santander, o Banco envolvido na compra, também \njá deu e que já terá transmitido às autoridades dos Açores e da Madeira. Ficarão 1000 trabalhadores na órbita \ndo Santander e os outros 600 trabalhadores do Banif ficarão no veículo de gestão de ativos que está na órbita \ndo Fundo de Resolução. \nA negociação com a Europa foi a negociação que decorreu…"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Ministro, já ultrapassou o seu tempo."
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro das Finanças",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Vou terminar já, Sr. Presidente. \nComo eu dizia, a negociação com a Europa foi a negociação que decorreu neste curtíssimo espaço de \ntempo que todos conhecemos. Foram esgotados todos os prazos para a negociação com as autoridades \neuropeias. \nA proposta que refere e a proposta de circunscrever o Banif às ilhas era parte da proposta da Comissão \nEuropeia, da Direção-Geral da Concorrência, que foi rejeitada pelo XIX Governo Constitucional. Havia já \nderrogações da legislação em vigor, derrogações essas que não foram devidamente aproveitadas pelo \nanterior Governo."
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Pinho de Almeida."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 10,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Primeiro-Ministro, Srs. Membros do as\nGoverno, Sr. e Srs. Deputados: Este é o primeiro Orçamento retificativo do Governo do Partido Socialista. as\nDiscutimos a proposta de VV. Ex. , de solução para este problema. No CDS somos oposição, cabe-nos \nescrutinar esta proposta e não estamos convencidos com as soluções que constam da mesma. \nMas, antes da questão concreta, coloquemos uma questão política. Ao primeiro problema, desapareceu a \nmaioria. E era suposto esta ser estável e coerente, e não se coloca, neste caso, a questão de dever ser \ndurável, porque não há tempo suficiente para poder avaliar essa premissa."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 10,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esse era o discurso da semana passada!"
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 10,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Primeiro-Ministro fica a saber que os seus «sócios» \nestarão em todas as fotografias das boas notícias, ainda que exijam que sejam fotografias diferentes, mas \nnunca estarão disponíveis para resolver os problemas graves do País."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 11,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por que será?!"
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 11,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E foi por ter perdido mais de 1000 milhões de euros em \ndepósitos que perdeu o estatuto de contraparte. E foi por isso que teve de se resolver agora uma situação que, \nse não fosse essa fuga de informação, não tinha de ser resolvida agora."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 11,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para que precisou da recapitalização? Era porque estava cheio de \ndinheiro?!"
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 12,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E sobre isso, o que fez o atual Governo? Se a fuga de \ninformação tem tal gravidade, se a fuga de informação aconteceu já este Governo estava em funções, então o \nque fez o Governo? \nDizia-nos, ontem, o Sr. Ministro das Finanças, na Comissão de Orçamento, Finanças e Modernização \nAdministrativa, que correrão processos, ou não, dependendo de decisões futuras. Sr. Ministro das Finanças, \nisso é inaceitável! Isso é inaceitável! Não pode, numa situação como esta, com a responsabilidade que tem \num Ministro das Finanças, dizer que correrão ou não processos, consoante decisões futuras. Têm de correr \nprocessos, tem de haver responsáveis e tem de haver consequências! \nO que aconteceu, nos últimos 15 dias, fez com que se precipitasse uma decisão, fez com que se \nembaratecesse o preço de um banco. É bom que se tenha esta noção: o que vale o Banif hoje, é muito menos \ndo que aquilo que valia o Banif antes da fuga de informação. \nAlguém ganhou com isso — e isso também é relevante numa economia de mercado. É também importante \nque se apure essa responsabilidade. \nE há algo ainda mais importante: os contribuintes portugueses ficaram certamente a perder. Com tanta \nresponsabilidade sobre aqueles que precipitaram a decisão, aqueles que embarateceram o preço do Banco e \naqueles que ganharam com esse embaratecimento, e com os contribuintes que ficaram a perder, onde é que \nestá o Governo para exigir responsabilidades e tirar consequências de tantas questões com esta gravidade? \nVamos também à comparação de opções políticas. Quer os governos do PSD e CDS quer os governos do \nPartido Socialista já foram chamados a resolver situações destas com bancos, com um traço comum: o Partido \nSocialista, quer no passado com o BPN quer agora com o Banif, usou a mesma solução; o PSD e o CDS, \nquando estiveram no governo, usaram uma solução diferente."
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 12,
+      "speaker": {
+        "id": 2018,
+        "name": "Hugo Alexandre Lopes Soares",
+        "party": "PSD",
+        "string": "O Sr. Hugo Lopes Soares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 12,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O PS, quer no BPN quer no Banif, chamou a responder, em \nprimeiro lugar, os contribuintes; o PSD e o CDS, quando tiveram de resolver a situação do BES, chamaram a \nresponder, em primeiro lugar, o sistema financeiro. \nEsta é uma diferença de opção política que traça uma linha que distingue em muito aquela que é a solução \nsocialista daquela que foi a solução do PSD e do CDS. \nAssim sendo, cabe-nos tirar conclusões. \nEm primeiro lugar, esta decisão não tinha de ser tomada agora, a não ser que existisse, como existiu, a \nfuga de informação."
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 12,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É preciso ter lata!"
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 12,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em segundo lugar, a liquidação não era — que fique muito \nclaro —, de certeza, solução melhor do que a resolução, como dizia ontem um Sr. Deputado do Partido"
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 13,
+      "speaker": {
+        "id": 2039,
+        "name": "João Saldanha De Azevedo Galamba",
+        "party": "PS",
+        "string": "O Sr. João Galamba (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para entrar em liquidação agora?! \nas"
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 13,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. e Srs. Deputados:…"
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Já ultrapassou o seu tempo, Sr. Deputado."
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 13,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou terminar, Sr. Presidente. \nPassado o BPN, passado o BPP, passado o BES e agora a passar o Banif, sem que a supervisão tivesse \nmelhorado o suficiente para evitar estas situações, sem que a justiça tivesse sido tão célere que permitisse às \npessoas perceber que os crimes têm efetivamente consequências,…"
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem de terminar, Sr. Deputado. Peço-lhe que conclua."
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 13,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… sem que o Partido Socialista tenha mudado a sua solução \npolítica para o problema, podemos pedir outra vez aos contribuintes para pagarem, em primeiro lugar, um \nprejuízo destes? Não é aceitável que se peça isto aos contribuintes."
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem de concluir, Sr. Deputado. \n\nO Sr. João Pinho de Almeida (CDS-PP) — Por isso, esta proposta, que não está bem explicada, nem está \nbem feita, não pode ter senão o nosso voto contra."
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado João Galamba inscreveu-se para pedir esclarecimentos, mas o Sr. \nDeputado João Pinho de Almeida não tem tempo para responder. Se mesmo assim o Sr. Deputado João \nGalamba quiser pedir esclarecimentos, tem a palavra."
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 13,
+      "speaker": {
+        "id": 2039,
+        "name": "João Saldanha De Azevedo Galamba",
+        "party": "PS",
+        "string": "O Sr. João Galamba (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado João Pinho de Almeida, a sua intervenção é \numa ode ao despudor, como poucas vezes ouvi neste Parlamento. \nMas ficámos a saber uma coisa: voltou finalmente o CDS lúdico e sem um pingo de respeito pelos \nportugueses! Porquê este seu discurso, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 14,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dói, dói!"
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 14,
+      "speaker": {
+        "id": 2039,
+        "name": "João Saldanha De Azevedo Galamba",
+        "party": "PS",
+        "string": "O Sr. João Galamba (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado veio, aqui, dizer que este é o Orçamento do Partido \nSocialista. Não, Sr. Deputado! Este não é o Orçamento do Partido Socialista, este é o Orçamento que retifica a \ninação da direita portuguesa e, num certo sentido, infelizmente, é o último Orçamento retificativo do vosso \nGoverno. \n\nO Sr. Deputado veio, aqui, dizer que foi um rodapé, na TVI, que causou o problema!?"
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 14,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Rodapé 1000 milhões de euros?!"
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 14,
+      "speaker": {
+        "id": 2039,
+        "name": "João Saldanha De Azevedo Galamba",
+        "party": "PS",
+        "string": "O Sr. João Galamba (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado não ouviu o Sr. Ministro das Finanças dizer aqui que desde \no momento em que os senhores injetaram dinheiro num banco falido, ocultando essa informação dos \nportugueses e do Parlamento português, até à tomada de posse deste Governo, o Banif desvalorizou 97%?! \nRepito: 97%! \n\nO Sr. Deputado também veio aqui tentar dizer que, no fundo, todos os governos portugueses enfrentaram \ninstituições europeias intransigentes que sempre quiseram a liquidação do Banco. Ora, isso não é verdade, Sr. \nDeputado, porque, como aqui foi dito pelo Sr. Ministro das Finanças e como consta de uma carta, de que \nespero que o CDS tenha conhecimento — tê-lo-á certamente —, a Sr.ª Comissária europeia, em 2014, não \nfalava de liquidação do Banco mas, sim, de que o Banco deveria estar circunscrito à Região Autónoma da \nMadeira e à Região Autónoma dos Açores. Ora, Sr. Deputado, as Regiões Autónomas dos Açores e da \nMadeira ainda são Portugal e um banco que funcione lá não está liquidado, está em pleno funcionamento! \n\nO Sr. Deputado também disse uma frase maravilhosa: «Não era para resolver agora». Era para fazer o que \nos senhores fizeram durante três anos e não resolver hoje. E, já agora, suspeito que era para nunca resolver e \nver se a coisa se resolvia sozinha. Não, Sr. Deputado! Nós não podíamos esperar pelo dia 1 de janeiro."
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 14,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Podíamos, podíamos!"
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 14,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se não fosse a nota de rodapé!"
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 14,
+      "speaker": {
+        "id": 2039,
+        "name": "João Saldanha De Azevedo Galamba",
+        "party": "PS",
+        "string": "O Sr. João Galamba (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não podíamos, não, Sr. Deputado. Como foi amplamente explicado pelo Sr. \nMinistro das Finanças ontem na Comissão e hoje outra vez, o Banco tinha ordens de liquidação para esta \nsegunda-feira. Repito: liquidação, Sr. Deputado!"
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 15,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exato!"
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 15,
+      "speaker": {
+        "id": 2039,
+        "name": "João Saldanha De Azevedo Galamba",
+        "party": "PS",
+        "string": "O Sr. João Galamba (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "«Pergunto à Comissão: como encara a quebra de confiança não só entre os \nbancos mas também entre os cidadãos?»"
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 15,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exato!"
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 15,
+      "speaker": {
+        "id": 2039,
+        "name": "João Saldanha De Azevedo Galamba",
+        "party": "PS",
+        "string": "O Sr. João Galamba (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "«Não teme que, caso os cidadãos considerem que já não têm os seus \ndepósitos garantidos e recorram aos levantamentos em massa, se assista a uma falência generalizada de \nbancos?»."
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 15,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Claro!"
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor de concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 15,
+      "speaker": {
+        "id": 2039,
+        "name": "João Saldanha De Azevedo Galamba",
+        "party": "PS",
+        "string": "O Sr. João Galamba (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado está preocupado com milionários russos num paraíso \nfiscal?! Então, os Açores e a Madeira?! E os emigrantes portugueses já não interessam ao CDS-PP?! \nA sua intervenção e esta duplicidade, de facto, diz tudo do partido ex-defensor do contribuinte, do partido \nex-defensor do pescador e, agora, sabemos, do partido defensor do milionário russo, mas que não pensa \nmuito nos Açores e na Madeira!"
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Luís Ferreira. \n\nO Sr. José Luís Ferreira (Os Verdes). — Sr. Presidente, Sr. Primeiro-Ministro, Srs. Membros do Governo, as\nSr. e Srs. Deputados: Esta reunião plenária não estava prevista e, portanto, importa saber por que é que \nestamos aqui hoje a discutir um Orçamento retificativo. A resposta é só uma: estamos aqui hoje porque o \nanterior Governo PSD/CDS andou meses, se não anos, a esconder e a adiar um problema, porque o mau \nestado em que se encontra o Banif já há muito era do conhecimento do Governo anterior, do Governo \nPSD/CDS. Isto é confirmado pela troca de correspondência ocorrida há mais de um ano, em dezembro de \n2014, entre a União Europeia e o Governo português, onde, aliás, se chamava a atenção não só para a"
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 16,
+      "speaker": {
+        "id": 2018,
+        "name": "Hugo Alexandre Lopes Soares",
+        "party": "PSD",
+        "string": "O Sr. Hugo Lopes Soares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É de ir às lágrimas! \n\nO Sr. José Luís Ferreira (Os Verdes). — Para terminar, quero dizer o seguinte: o Sr. Deputado Pedro \nPassos Coelho admitiu ontem que não teria uma solução muito diferente da solução encontrada pelo atual \nGoverno. \nOra, esta afirmação vem mostrar que, de facto, do ponto de vista formal, este Orçamento retificativo é \napresentado pelo Partido Socialista, mas, na sua substância, é um Orçamento retificativo do anterior Governo. \nPortanto, Sr. Deputado João Almeida, este Orçamento retificativo é mais o último Orçamento retificativo do \nanterior Governo PSD/CDS do que o primeiro Orçamento retificativo do atual Governo. São factos!"
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 16,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não, não!"
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, como não há inscrições por parte do PSD e do PCP, pergunto ao Sr. \nDeputado André Silva, que pediu à Mesa, e foi autorizado, para intervir em último lugar, visto que dispõe \napenas de 1 minuto, se pretende usar da palavra agora."
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 16,
+      "speaker": {
+        "id": 1941,
+        "name": "André Lourenço E Silva",
+        "party": "PAN",
+        "string": "O Sr. André Silva (PAN)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sim, Sr. Presidente."
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Assim, tem a palavra, Sr. Deputado André Silva."
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 16,
+      "speaker": {
+        "id": 1941,
+        "name": "André Lourenço E Silva",
+        "party": "PAN",
+        "string": "O Sr. André Silva (PAN)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bom dia, Sr. Presidente, Sr. Primeiro-Ministro, Srs. Membros do Governo e as\nSr. e Srs. Deputados."
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Muito obrigado, Sr. Deputado André Silva, pela precisão do seu tempo. \nTem agora palavra, para uma intervenção, o Sr. Deputado António Leitão Amaro."
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 17,
+      "speaker": {
+        "id": 1950,
+        "name": "António Egrejas Leitão Amaro",
+        "party": "PSD",
+        "string": "O Sr. António Leitão Amaro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: O \nGoverno em funções apresenta-nos hoje uma proposta de Orçamento retificativo para aplicar até 3000 milhões \nde euros dos contribuintes no Banif e no Santander. \nPara o PSD, note-se, este debate não pode transformar-se num passa-culpas. Não queremos utilizar este \ndebate e este caso, como disse o Sr. Primeiro-Ministro em tempos, como uma arma de arremesso político. \nEstamos profundamente empenhados no apuramento de todas as responsabilidades de todos os agentes e \nautoridades, incluindo as administrações do Banif, do Banco de Portugal e governos, todos os governos. Esse \napuramento de responsabilidade, a identificação do que correu mal é muito importante, porque os portugueses \nestão, mais uma vez, a ser chamados a pagar uma fatura muito elevada, que, creio, ninguém desejava, e têm \ndireito de saber o que aconteceu, como aconteceu, como cada um cumpriu as suas responsabilidades, o que \ncorreu mal nas regras, nos sistemas de controlo e de supervisão, na gestão e nas escolhas que cada um fez. \nPor isso, queremos que esse apuramento de responsabilidades seja feito numa comissão de inquérito, que, \nesperamos, possa, como no passado, ser criada e funcionar com as suas regras e com um objeto definido em \nconsenso pelos grupos parlamentares. \nQueremos que este inquérito parlamentar possa ser, como o anterior, o do «caso BES», um exemplo de \nque o Parlamento funciona bem, que funciona acima das diferenças partidárias e que traga respostas para a, \nmais do que legítima, grande inquietação que os portugueses hoje vivem e sentem. \nA discussão de hoje, que, obviamente, não substitui esse apuramento de responsabilidades, é sobre a \nproposta do Governo de aplicar 3000 milhões de euros de dinheiro dos portugueses no Banif e no Santander. \nE é por isso que temos de discutir hoje, perante esta proposta do Governo, o porquê desta solução. Era \npossível uma alternativa? Porquê este enorme valor e não menos? Porquê esta venda ao Santander nestas \ncondições? Porquê este grande benefício para o Banco e um tamanho sacrifício para os contribuintes? \nSrs. Membros do Governo, sei bem que, ontem e hoje, procuraram evitar responder a várias perguntas \nsobre as opções e as escolhas que fizeram e que conduziram à elaboração desta proposta de aplicação até \n3000 milhões de euros. Mas não é por isso que vamos deixar de as colocar e era importante que, nem que \nseja no debate na especialidade, pudessem responder. \nEm primeiro lugar, havia alternativa, real e possível, à resolução? \nConfirmam ou não que, apesar de vários planos apresentados, apesar de durante este ano terem sido \nrealizadas reestruturações operacionais, mudança do sistema de informação, a Comissão Europeia recusava \nqualquer reestruturação por considerar o Banco inviável? \nConfirmam ou não que a venda voluntária do Banco, tentada há dois anos, com um processo formal \nlançado no verão, estava condenada a não ser realizada sem ajuda pública? \nConfirmam ou não que ninguém quis comprar sem ajuda pública e, por isso, o processo de venda as\nvoluntária, concluído por VV. Ex. , não teve resposta favorável e aceitável, porque a Comissão Europeia não \naceitava que não fosse através de uma venda a um grande banco e sem fundos públicos? \n\nO Sr. Ministro veio, ontem, falar de uma outra alternativa possível, e o PS voltou a falar dela: a integração \nna Caixa. Porém, deixe-me dizer-vos que essa é uma não hipótese, deixe-me chamá-la de «hipótese \nespantalho», que é utilizada apenas para distrair."
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 18,
+      "speaker": {
+        "id": 2107,
+        "name": "Miguel Ferreira Morgado",
+        "party": "PSD",
+        "string": "O Sr. Miguel Morgado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso mesmo!"
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 18,
+      "speaker": {
+        "id": 1950,
+        "name": "António Egrejas Leitão Amaro",
+        "party": "PSD",
+        "string": "O Sr. António Leitão Amaro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E eu explico porquê. As regras europeias — e o Sr. Ministro \nconfirmou-o — não o permitem. A Comissão Europeia sempre disse que isso não era possível. \n\nO Sr. Secretário de Estado disse mais: que o custo dessa solução era igual ao custo agora aplicado. \n\nO Sr. Ministro disse depois, às tantas, perante isso, que tal devia ter sido feito com o Programa de \nAssistência. \nSr. Ministro, por alguma razão o Partido Socialista, nessa altura, não o disse. Em primeiro lugar, porque era \njuntar um buraco a outro buraco e esperar um milagre que não desse num buraco maior. Mas tão importante \nquanto isso, Sr. Ministro, foi o Governo do Partido Socialista, ao despedir-se, ter assinado um papel que \nimpedia essa operação. O ponto 2.5. do Memorando de Entendimento dizia que a Caixa tinha de reduzir de \ntamanho, tinha de ser racionalizada, tinha de vender as operações non-core. Ou seja, a Caixa tinha de \ndiminuir, a Caixa não podia aumentar com a integração do Banif."
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 18,
+      "speaker": {
+        "id": 2018,
+        "name": "Hugo Alexandre Lopes Soares",
+        "party": "PSD",
+        "string": "O Sr. Hugo Lopes Soares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E quem é que assinou esse Memorando?"
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 18,
+      "speaker": {
+        "id": 1950,
+        "name": "António Egrejas Leitão Amaro",
+        "party": "PSD",
+        "string": "O Sr. António Leitão Amaro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso, isso nunca foi proposto, nem agora nem antes, e os \nsenhores sabem isso. \nSr. Ministro e Sr. Primeiro-Ministro, queria também perguntar-lhes pela forma como escolheram fazer esta \noperação, porque a liquidação não era — para nós, não era — uma alternativa. \nPergunta: pode um Governo escolher o momento, o timing da resolução ou é o Banco de Portugal que \nescolhe, é o único que decide, e só o pode fazer quando o banco está em insolvência? E isso só ocorreu na \nsemana passada e por causa — palavras do Sr. Ministro — da enorme e preocupante corrida aos depósitos \nque aconteceu na semana passada."
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 18,
+      "speaker": {
+        "id": 2018,
+        "name": "Hugo Alexandre Lopes Soares",
+        "party": "PSD",
+        "string": "O Sr. Hugo Lopes Soares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É a nota de rodapé!"
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 18,
+      "speaker": {
+        "id": 1950,
+        "name": "António Egrejas Leitão Amaro",
+        "party": "PSD",
+        "string": "O Sr. António Leitão Amaro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Srs. Membros do Governo, é verdade ou não que só neste fim de \nsemana estiveram verificados estes pressupostos? É verdade ou não que a Comissão Europeia, além de \nrejeitar a reestruturação do Banif, recusava nova ajuda pública que não fosse com resolução? \nA questão que fica agora é esta: porquê estes valores e os termos que este Governo e o Banco de Portugal \ndecidiram metendo 3000 milhões de euros dos contribuintes e venderem, assim, ao Santander?"
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Já ultrapassou o seu tempo, Sr. Deputado."
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 18,
+      "speaker": {
+        "id": 1950,
+        "name": "António Egrejas Leitão Amaro",
+        "party": "PSD",
+        "string": "O Sr. António Leitão Amaro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Ministro, o senhor não soube responder nem informar se cada \num dos limites que esta proposta de Orçamento aumenta está ou não esgotado, mas, sobretudo, ninguém \npercebeu por que é que um banco com ativos de 12 000 milhões de euros impõe perdas aos contribuintes de \n3800 milhões. No BES, com uma injeção parecida, os ativos eram cinco ou seis vezes superiores."
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe que conclua, Sr. Deputado."
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 18,
+      "speaker": {
+        "id": 1950,
+        "name": "António Egrejas Leitão Amaro",
+        "party": "PSD",
+        "string": "O Sr. António Leitão Amaro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, vou já concluir, se não se importar."
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Se concluir, eu não me importo. \nFaça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 19,
+      "speaker": {
+        "id": 1950,
+        "name": "António Egrejas Leitão Amaro",
+        "party": "PSD",
+        "string": "O Sr. António Leitão Amaro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É também preocupante perceber como é que o seu Governo \nacorda e aceita com a Comissão Europeia perdas de dois terços dos ativos, quando o mercado apenas dava \num desconto que nem seria de um terço."
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 19,
+      "speaker": {
+        "id": 2018,
+        "name": "Hugo Alexandre Lopes Soares",
+        "party": "PSD",
+        "string": "O Sr. Hugo Lopes Soares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 19,
+      "speaker": {
+        "id": 1950,
+        "name": "António Egrejas Leitão Amaro",
+        "party": "PSD",
+        "string": "O Sr. António Leitão Amaro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Que negociação foi esta de um Governo, de um Primeiro-Ministro \nque dizia que batia o pé à Europa e aceita uma perda…"
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, tem mesmo de terminar. Aliás, foi dito desde o princípio que haveria \numa enorme rigidez nesta fase."
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 19,
+      "speaker": {
+        "id": 1950,
+        "name": "António Egrejas Leitão Amaro",
+        "party": "PSD",
+        "string": "O Sr. António Leitão Amaro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou terminar, Sr. Presidente. \nPermita-me mais dois pontos. \nEsta negociação correu mal, mas também correu mal a negociação com o Santander, que não garante \ntrabalhadores, não garante balcões, paga apenas 150 milhões de euros por ativos."
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem de concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 19,
+      "speaker": {
+        "id": 1950,
+        "name": "António Egrejas Leitão Amaro",
+        "party": "PSD",
+        "string": "O Sr. António Leitão Amaro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou terminar, Sr. Presidente. \nPor último, Sr. Ministro, não estamos satisfeitos com as respostas que deu sobre a distribuição do esforço e \nsobre o facto de a banca e de os credores não terem sido chamados,…"
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Muito obrigado, Sr. Deputado. Tem de concluir."
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 19,
+      "speaker": {
+        "id": 1950,
+        "name": "António Egrejas Leitão Amaro",
+        "party": "PSD",
+        "string": "O Sr. António Leitão Amaro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… ficando tudo para o contribuinte, quando nós decidimos que o \nesforço ficava na banca e não nos contribuintes."
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Desde o princípio, foi dito que a flexibilidade que haveria para a ultrapassagem dos 2 \nminutos para cada pedido de esclarecimento não seria a mesma, no final da discussão. Lamento que alguns \nSrs. Deputados não tenham entendido essa mensagem. \nTem a palavra a Sr.ª Deputada Mariana Mortágua para uma intervenção."
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 19,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Dissemos que era um crime, e \nrepetimos. O que se passou no Banif foi desleixo consciente, foi incumprimento deliberado dos deveres do \nEstado e foi especulação com o dinheiro dos contribuintes para pagar a «saída limpa» de PSD e de CDS. \nEstamos conscientes de que a integração na Caixa Geral de Depósitos era difícil, mas também estamos \ncertos de que era legal, realizável e o melhor caminho. \nHaveria outras soluções, com certeza, e mostrámos disponibilidade para as trabalhar. A solução agora \nproposta perde dinheiro demais, condena a despedimentos, reforça a concentração, desperdiça recursos \npúblicos e beneficia o infrator. \nApresentámos ao Governo duas garantias fundamentais. Em primeiro lugar, uma lei-quadro de intervenção \nbancária que coloque na esfera do Governo decisões que contam para proteger os interesses do País e dos \ncontribuintes. Em segundo lugar, uma forma de evitar novas crises, a começar já pelo Novo Banco: não \nqueremos a venda do Novo Banco. \nNão tivemos, nem temos, essas garantias; vamos, no entanto, insistir e reafirmamos a urgência dessas \nmedidas. Sem elas teremos mais riscos em 2016. Sabemos todos que a banca é um castelo de cartas de más"
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Oliveira. \nas"
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 20,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr. e Srs. Deputados: Este \ndebate confirma aquela que é a tática do PSD e do CDS para abordar esta questão, procurando fazer do \nproblema tudo aquilo que aconteceu nas últimas semanas e não aquilo que durante três anos conduziu a esta \nsituação. \nO problema são os 1000 milhões de euros de fuga de depósitos, não são os 1100 milhões de euros com \nque o Governo anterior comprometeu o Estado e os dinheiros públicos num processo de recapitalização. O \nproblema é a fuga de depósitos, não é a necessidade de recapitalização do Banif em 2013, que os senhores \nnão questionaram, enterrando o Estado e enterrando os dinheiros públicos. \nDizem o PSD e o CDS que o problema é a decisão agora tomada e não a decisão de comprometer o \nEstado que leva a que agora, nesta situação, as limitações sejam impostas da forma como são. \nDizem o PSD e o CDS que o problema é a decisão tomada em três semanas e não os três anos de \ncompleta incúria, de desresponsabilização e de assobiar para o lado, apesar de todas as exigências de \nesclarecimento que foram feitas na Assembleia da República ao anterior Governo PSD/CDS. \nas\nSr. e Srs. Deputados, hoje temos o PSD e o CDS a regressarem à tática dos submarinos. Tomam as \ndecisões em nome dos portugueses, fazem as negociatas com o dinheiro dos contribuintes e quem vier atrás \nque pague a fatura e se entretenha a investigar os rabos-de-palha que ficam por detrás das decisões tomadas. \nas\nSr. e Srs. Deputados do PSD e do CDS, da parte do PCP não contem com nenhuma clemência na \nexigência das responsabilidades que terão de assumir e que terão de vos ser assacadas, com todas as \nconsequências que daí têm de ser retiradas. \nDesde o dia 4 de janeiro de 2013 até ao debate que encerrou definitivamente a coligação PSD/CDS, o PCP \ntrouxe a esta Assembleia da República quase uma dezena de vezes o problema do Banif, questionando os \npartidos que apoiavam o Governo e questionando o próprio Governo relativamente a esta questão."
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 20,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Sr. Miguel Tiago (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 20,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em debates quinzenais, em declarações políticas e noutras formas de \nintervenção, trouxemos esta questão quase 10 vezes, desde o dia 4 de janeiro de 2013. \nE no dia 4 de janeiro de 2013, o Sr. Deputado Paulo Sá, numa declaração política, dizia o seguinte, e cito: \n«(…) o Governo injeta 1100 milhões de euros no Banif, tonando-se o Estado no maior acionista, mas os \nacionistas privados continuam a ter o controlo do banco. Acresce ainda que as garantias apresentadas pelo \nbanco são ativos de elevado risco, pelo que corremos o risco de estar perante um novo BPN!» \nNuma outra declaração política feita no dia 7 de junho de 2013, dizia-se: «Obviamente, já estamos a ver o \nfinal desse ‘filme’: será mais um banco nacionalizado com os prejuízos a serem assumidos pe lo Orçamento do"
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe que conclua, Sr. Deputado."
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 21,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou concluir, Sr. Presidente. \nHoje, estamos aqui confrontados com uma outra circunstância: é que se confirma que a nomeação do \nGovernador do Banco de Portugal foi feita pelo Governo PSD/CDS com a esperança de que, até ao final do \nseu mandato e escudado na sua inamovibilidade, pudesse dar cobertura a tudo aquilo que os senhores \nfizeram durante três anos e às vossas responsabilidades naquele processo."
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem de concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 21,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para concluir, Sr. Presidente, quero apenas dizer o seguinte: o PCP não \npode acompanhar a solução que aqui está colocada, e já ontem dissemos porquê."
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD e do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ahh!"
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem de concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 21,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não podemos acompanhar esta solução porque, ao contrário do PSD e do \nCDS, nós nunca acompanhámos soluções que sacrifiquem os contribuintes para tapar buracos de bancos, \nnunca acompanhámos soluções que sacrifiquem os trabalhadores para tapar as falências dos bancos."
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem de concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 21,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Continuamos a dizer que a solução deve ser tentada integrando o Banif no \nsistema público bancário, salvaguardando, assim, os interesses dos depositantes, dos trabalhadores e do \nPaís, colocando a banca ao serviço do País, com o seu controlo público."
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Concluímos, assim, a fase do debate propriamente dito. \nDurante meia hora, até às 11 horas e 45 minutos, faremos um intervalo, que será utilizado pelos grupos \nparlamentares como entenderem. O Grupo Parlamentar do PSD requereu este intervalo para poder fazer uma \nreunião do Grupo."
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Pedro Alves)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados, deram entrada na Mesa as seguintes os\niniciativas legislativas: projetos de lei n. 83/XIII (1.ª) — Assegura a gratuitidade da conta base (BE), 84/XIII \n(1.ª) — Reversão do Hospital de S. Paulo, em Serpa, para o Ministério da Saúde (PCP) e 85/XIII (1.ª) — \nReversão do Hospital Conde S. Bento, em Santo Tirso, para o Ministério da Saúde (PCP); e projetos de s\nresolução n.º 54/XIII (1.ª) — Estatuto da Guarda Nacional Republicana (BE), 55/XIII (1.ª) — Restabelecimento \ndos feriados suprimidos (BE), 56/XIII (1.ª) — Racionalização dos contratos de associação com o ensino \nprivado, garantindo a proteção da escola pública (BE) e 57/XIII (1.ª) — Recomenda a adoção de iniciativas \nurgentes para a defesa e sustentabilidade do setor leiteiro nacional, na sequência do fim do regime de quotas \nleiteiras na União Europeia (BE). \nÉ tudo, Sr. Presidente. \nas"
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço às Sr. e aos Srs. Deputados o favor de se registarem. Como sabem, utiliza-se \no ecrã tátil, mas se este não funcionar têm, como alternativa, o rato que se encontra no teclado. \nPausa. \nPergunto se todos os Srs. Deputados conseguiram registar-se. \nPausa. \nSe ninguém pede a palavra é porque todos conseguiram registar-se. É a primeira vez que o sistema \nfunciona a 100%. Deve ser por ser Natal! \nSrs. Deputados, o quadro eletrónico regista 225 presenças, pelo que temos quórum para proceder às \nvotações regimentais. \nVamos proceder à votação, na generalidade, da proposta de lei n.º 8/XIII (1.ª) — Procede à primeira \nalteração à Lei n.º 82-B/2014, de 31 de dezembro (Orçamento do Estado para 2015). \nSubmetida à votação, foi aprovada, com votos a favor do PS e dos Deputados do PSD Paulo Neves, \nRubina Berardo e Sara Madruga da Costa, votos contra do BE, do CDS-PP, do PCP, de Os Verdes e do PAN \ne a abstenção do PSD."
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr.ª Deputada. \n\nA Sr.ª Sara Madruga da Costa (PSD) — Sr. Presidente, é para anunciar que os Deputados eleitos pelo \ncírculo eleitoral da Madeira vão apresentar uma declaração de voto."
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Fica registado, Sr.ª Deputada. \nSrs. Deputados, passamos à discussão, na especialidade, da proposta de lei n.º 8/XIII (1.ª), dispondo cada \npartido de 5 minutos. \nPara uma intervenção, tem a palavra o Sr. Deputado Luís Montenegro."
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 23,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Primeiro-Ministro e restantes Membros do Governo, as\nSr. e Srs. Deputados: Em 2011, depois de seis anos e meio de governação do Partido Socialista, o nosso \nsistema financeiro estava especialmente vulnerável. Foi, aliás, por essa razão que o Governo do Partido \nSocialista negociou e assinou com a troica empréstimos no valor de 78 000 milhões de euros, dos quais 12 \n000 milhões se destinavam precisamente à capitalização do sistema financeiro. \nPor outro lado, nessa altura, o Governo de então tinha também em mãos o processo de venda do BPN, \ncoisa que sucedeu em mais ou menos um mês. as\nSr. e Srs. Deputados, os governos podem queixar-se de ter problemas, mas a sua função é resolver \nproblemas."
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 23,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esse é um ato de contrição!"
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 23,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em 2011 e nos anos seguintes, o Governo do PSD e do CDS-PP \nresolveu vários problemas no sistema financeiro: contribuiu para a sua estabilização, para a sua capitalização \ne para o seu financiamento."
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 23,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Viu-se!"
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 23,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O espetáculo de passa-culpas e o queixume infundado e injustificado do \nMinistro das Finanças ontem e hoje aqui, no Parlamento, e também a postura dos partidos que suportam o \nParlamento, a que se junta uma inaudita fuga de informação de consequências gravíssimas, denotam a má-fé, \na impreparação e a falta de sentido de Estado desta nova maioria parlamentar. \nQuando este Governo esbarra com a realidade, dispara para todos os lados e não tem coragem de assumir \nas suas responsabilidades. \nEste Orçamento retificativo é do Partido Socialista e é deste Governo, incorpora as decisões deste \nGoverno. Se o Governo acredita na sua decisão, isso significa, de resto, que o Partido Socialista teria \nconcordado com uma solução idêntica se tivesse sido tomada pelo Governo anterior,…"
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 23,
+      "speaker": {
+        "id": 2018,
+        "name": "Hugo Alexandre Lopes Soares",
+        "party": "PSD",
+        "string": "O Sr. Hugo Lopes Soares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ora bem!"
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 23,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… mas, porventura, isso teria significado, se a tivéssemos tomado nós, \nnão termos explorado soluções mais favoráveis. Porém, há uma coisa que tem de ficar clara: para nós, PSD, \nessa solução nunca, nunca, poderia ser a integração «à BPN» do Banif na Caixa Geral de Depósitos,…"
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 24,
+      "speaker": {
+        "id": 1692,
+        "name": "Pedro Manuel Mamede Passos Coelho",
+        "party": "PSD",
+        "string": "O Sr. Pedro Passos Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 24,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… porque, para nós, a Caixa Geral de Depósitos não pode ser o caixote \ndo lixo do sistema financeiro português. \nOs que aqui criticaram, e criticam, a capitalização do Banif em 2013, esses, têm também de dizer ao País \nque, se essa capitalização não tivesse existido, o que tinha ocorrido era a liquidação do Banco, com todas as \nconsequências que precisamente agora querem evitar. \nas\nSr. e Srs. Deputados, o que está aqui em causa hoje é, efetivamente, uma decisão tomada por este \nGoverno. Nós colocámos muitas dúvidas ao Governo, dúvidas essas que não foram dissipadas. As respostas \nforam muito vagas e muitas vezes ambíguas. \nMas este Governo é suportado no Parlamento pelos partidos que derrubaram o Governo anterior. O PCP e \no Bloco de Esquerda, desde as eleições, falam como se as tivessem ganho, mas a máscara cai-lhes a cada \ndificuldade e nestes dias retomam o seu lugar de perdedores e dizem que nada têm a ver com o Governo."
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 24,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ao PS e ao Primeiro-Ministro tem de se perguntar: onde está a \nestabilidade governativa prometida? Onde está a durabilidade e a consistência da solução do Governo? Onde \nestá o compromisso que assumiu junto do Presidente da República de que os partidos que apoiam este \nGoverno asseguravam a estabilidade do sistema financeiro? Menos de um mês depois já perdeu o apoio \nparlamentar que deu vida a este Governo, Sr. Primeiro-Ministro? \nQue consequências tiram o Partido Socialista e o Primeiro-Ministro da falta de apoio parlamentar dos \npartidos que suportam este Governo? Assumem que foi uma fraude e que, afinal, não têm esse apoio? Estão \njá a pré-anunciar uma crise política que virá a seguir? O que é que significa esta falta de apoio dos partidos \nque deviam suportar o Governo, Sr. Primeiro-Ministro?"
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 24,
+      "speaker": {
+        "id": 2018,
+        "name": "Hugo Alexandre Lopes Soares",
+        "party": "PSD",
+        "string": "O Sr. Hugo Lopes Soares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Claro!"
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Já ultrapassou o seu tempo, Sr. Deputado. Faça favor de concluir. \nas"
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 24,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. e Srs. Deputados, é deprimente obrigar Portugal e os portugueses \na assistir e a engolir tanto oportunismo político. \nNós, no PSD, fazemos aqui esta denúncia clara, mas não abandonamos o País. Temos muitas dúvidas \nsobre a decisão do Governo, mas reconhecemos que as consequências da não aprovação deste Orçamento \nretificativo podiam implicar um grave prejuízo ao interesse nacional, à economia e ao sistema financeiro."
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe que conclua, Sr. Deputado."
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 24,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou terminar, Sr. Presidente. \nÉ a pensar exclusivamente no interesse maior das famílias e das empresas portuguesas…"
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 24,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Que vergonha!"
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 25,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e na estabilidade financeira do País que vamos abster-nos em todas \nas votações deste Orçamento retificativo."
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, tem de concluir."
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 25,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, finalmente, quero dizer o seguinte: nós, no PSD, \nusaremos todos os instrumentos parlamentares para escrutinar esta decisão, mas queremos também exigir ao \nGoverno, de uma forma clara e frontal, que lance mão, de imediato, de uma auditoria externa e independente \npara apurar todas as responsabilidades de todos os envolvidos neste caso."
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Miguel Tiago."
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 25,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Sr. Miguel Tiago (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Desde 2012 que \no PCP alerta para a situação do Banif, para os 1100 milhões de euros de capitais públicos envolvidos na sua \nrecapitalização e para a opção do Governo PSD/CDS de não assumir o necessário controlo público do Banco \nque a posição claramente maioritária do Estado então permitia e aconselhava. \nO Governo PSD/CDS não serviu, nem protegeu os interesses dos clientes do Banif, os seus trabalhadores, \nnem as economias das Regiões Autónomas da Madeira e dos Açores, nem os milhares de emigrantes cujas \npoupanças estão depositadas no Banco. O anterior Governo comprometeu o Estado e dinheiros públicos no \nBanif sem sequer pedir responsabilidades àqueles que andaram a lucrar à conta da má gestão. \nAs responsabilidades políticas do Governo PSD/CDS são agravadas pelas afirmações de Passos Coelho e \ndos responsáveis das Finanças, que insistiam num alegado bom negócio para os cofres do Estado. Na \nrealidade, estavam a apoiar, a fundo perdido, um banco privado e falido, ocultando a realidade com a ativa \ncumplicidade do Banco de Portugal. Talvez por isso tenham feito tanta força para a recondução do mesmo \nGovernador que dizia que o empréstimo ao Banif renderia 10% em juros a favor do Estado. Certo é que \nnenhum outro foi nomeado porque poderia descobrir o buraco! \nA par das operações do Governo PSD/CDS, este processo veio expor a incompatibilidade insanável entre a \ndefesa do interesse nacional e as regras e imposições da União Europeia ao impedir a integração do Banif no \nsistema público bancário e ao forçar a concentração capitalista, impedimentos que o Governo acata, mas o \nPCP não. \nEstamos perante um verdadeiro crime económico, cujo autor moral é o Governo PSD/CDS; resta saber, \nainda, com que cobertura por parte do Presidente da República, Cavaco Silva. Crime económico contra o País \nque remete agora para o uso de recursos públicos para salvar depósitos que foram delapidados num contexto \nem que essa delapidação poderia ter sido impedida se o Governo de então tivesse assumido a sua posição \ndominante no capital do Banif. À velha maneira do que fazia o fascismo, PSD e CDS colocam o dinheiro \npúblico numa empresa privada, não para controlar a empresa mas para que a empresa privada controle o \ndinheiro público."
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 25,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 25,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Sr. Miguel Tiago (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, é cada vez mais claro que a regulação e a \nsupervisão bancárias apenas servem para alimentar ilusões de uma intervenção pública aparentemente \nindependente e disciplinadora das ambições e da especulação financeira do grande capital e do capital \nmonopolista. \nO Banco de Portugal é apenas o certificado de qualidade num produto há muito apodrecido e a supervisão \né uma má encenação, cujo bilhete já vai em 20 000 milhões de euros desde 2008. \nO PCP não aceita salvar bancos privados com o dinheiro dos portugueses e este desfecho é ainda mais \ninaceitável quando os milhares de milhões de euros servirão, no essencial, para assegurar a transferência dos \nmelhores ativos e a carteira de negócios do Banco para um grupo financeiro privado e estrangeiro, o Grupo"
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe que conclua, Sr. Deputado."
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 26,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Sr. Miguel Tiago (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para isso, as pessoas têm de controlar o sistema financeiro. Só a banca nas \nmãos do povo não rouba o País."
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Mariana Mortágua."
+    },
+    {
+      "utterance_id": 166,
+      "order": 166,
+      "page_start": 26,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Penso que todos percebemos que este \nduplo mortal encarpado, com meia pirueta e saída airosa, que o CDS aqui nos apresentou faz parte de um \nritual fúnebre da coligação de direita."
+    },
+    {
+      "utterance_id": 167,
+      "order": 167,
+      "page_start": 26,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vocês são tão engraçados!"
+    },
+    {
+      "utterance_id": 168,
+      "order": 168,
+      "page_start": 26,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está obcecada!"
+    },
+    {
+      "utterance_id": 169,
+      "order": 169,
+      "page_start": 26,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E nem ficaríamos admirados com este jogo do vale tudo, se o Sr. \nDeputado João Pinho de Almeida nos viesse aqui dizer: «Mas nós estivemos no Governo?! Quem era o Vice-\nPrimeiro-Ministro?! Não conhecíamos o Vice-Primeiro-Ministro!». Não nos admiraríamos se isso viesse a \nacontecer no curto prazo. \nNós compreendemos a situação difícil: o PSD quer voltar a ser um partido de centro-direita, quer recuperar \no seu eleitorado, que perdeu com a radicalização liberal nos últimos anos, e, se possível, quer que ninguém se \nlembre de que a administração do Banif foi uma espécie de colónia de férias bancária para dirigentes do PSD-\nMadeira, ao longo de todo o período, até à necessidade de injeção de capital público."
+    },
+    {
+      "utterance_id": 170,
+      "order": 170,
+      "page_start": 27,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E o que isso incomoda o Bloco de Esquerda!"
+    },
+    {
+      "utterance_id": 171,
+      "order": 171,
+      "page_start": 27,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Srs. Deputados, não se deixem convencer, não se deixem toldar nem \nenganar pelos vossos desejos. É que o CDS não pode passar a vida a encostar-se ao PSD para fazer parte do \nGoverno e duas semanas depois fingir que nunca lá esteve. Já vimos este filme, Srs. Deputados! Já vimos \neste filme do CDS!"
+    },
+    {
+      "utterance_id": 172,
+      "order": 172,
+      "page_start": 27,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não se preocupe. \nA Sr.ª Deputada está muito preocupada!"
+    },
+    {
+      "utterance_id": 173,
+      "order": 173,
+      "page_start": 27,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas comecemos pelos argumentos que aqui foram apresentados, \ndesignadamente pelo argumento da supervisão. \nA tal comissão de inquérito sobre a qual os Srs. Deputados vieram aqui dizer que foi muito elogiada, \nimparcial, com conclusões importantíssimas para o País, essa comissão de inquérito chegou à conclusão de \nque o Banco de Portugal cometeu falhas muito graves no «caso BES». E, Srs. Deputados, se a culpa do Banif \ntambém é do Banco de Portugal, então, vão ter de explicar ao País por que é que mantiveram Carlos Costa à \nfrente do Banco de Portugal e não mudaram nenhuma regra do sistema bancário. \nÉ vossa responsabilidade! A supervisão falhou, porque podiam ter mudado e não mudaram! \nMas passemos à tal preocupação com os contribuintes. \nAparece agora o CDS, numa posição também bastante surpreendente, a dizer que o melhor, melhor, teria \nsido imputar perdas a todos os credores,…"
+    },
+    {
+      "utterance_id": 174,
+      "order": 174,
+      "page_start": 27,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está obcecada!"
+    },
+    {
+      "utterance_id": 175,
+      "order": 175,
+      "page_start": 27,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… incluindo depositantes acima de 100 000 €, pequenas empresas e \nemigrantes."
+    },
+    {
+      "utterance_id": 176,
+      "order": 176,
+      "page_start": 27,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é verdade!"
+    },
+    {
+      "utterance_id": 177,
+      "order": 177,
+      "page_start": 27,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Todos percebemos que só o dizem, porque não o podem fazer, porque, \nse o pudessem fazer, não o faziam. Ou deixavam Bruxelas tomar conta do caso, enquanto se faziam de \nvítimas na posição de Governo — «foi Bruxelas que mandou, não pudemos fazer nada» —, ou, então, não o \nfaziam. É que, quando olhamos para o «caso BES» e para a resolução que foi tomada no «caso BES», o PSD \ne o CDS no Governo não só mantiveram os depósitos acima de 100 000 €, como pouparam os credores \nséniores e passaram um cheque de 3900 milhões do dinheiro dos contribuintes para salvar o BES. Não \nfizeram no BES aquilo que agora defendem para o Banif!"
+    },
+    {
+      "utterance_id": 178,
+      "order": 178,
+      "page_start": 27,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é verdade!"
+    },
+    {
+      "utterance_id": 179,
+      "order": 179,
+      "page_start": 27,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isto, Srs. Deputados, leva-nos ao argumento seguinte, que é o \nargumento de que o PSD e o CDS, no «caso BES», imputaram as perdas ao sistema financeiro e, agora, este \nGoverno está a fazer os contribuintes pagarem. \nSrs. Deputados, os senhores estão conscientes de que os 1100 milhões que foram injetados no Banif, pelo \nGoverno PSD/CDS, eram dinheiro dos contribuintes?! Sabem disso?! Sabem também, com certeza, que os"
+    },
+    {
+      "utterance_id": 180,
+      "order": 180,
+      "page_start": 28,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E o Bloco de Esquerda tem uma moral que é qualquer \ncoisa!…"
+    },
+    {
+      "utterance_id": 181,
+      "order": 181,
+      "page_start": 28,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Finalmente, Srs. Deputados, sobre as responsabilidades de três anos, \npor comparação com as responsabilidades de três semanas. \nSrs. Deputados, todos sabemos que ainda não havia a notícia da TVI e já toda gente brincava a dizer que \numa ação do Banif não pagava uma bica! E não pagava uma bica, porque o Banif se desvalorizou brutalmente \nao longo dos últimos três anos em que o dossier esteve lá, quietinho, na mesa da Ministra das Finanças. Só \nexistiu uma notícia na TVI, porque existia um problema!"
+    },
+    {
+      "utterance_id": 182,
+      "order": 182,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ah!…"
+    },
+    {
+      "utterance_id": 183,
+      "order": 183,
+      "page_start": 28,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E o problema foi criado por PSD e por CDS! O problema foi criado por \num Governo que não fez nada, ao longo de três anos, deixou o prazo correr e, quando o prazo chegou ao fim, \nveio dizer: «Ah, houve uma notícia da TVI!». Não haveria notícia da TVI, se o problema estivesse resolvido \nantes, coisa que nem o PSD nem o CDS fizeram!"
+    },
+    {
+      "utterance_id": 184,
+      "order": 184,
+      "page_start": 28,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se o Bloco e Esquerda estivesse na oposição o que diria do \nSantander!…"
+    },
+    {
+      "utterance_id": 185,
+      "order": 185,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada, já ultrapassou o tempo de que dispunha."
+    },
+    {
+      "utterance_id": 186,
+      "order": 186,
+      "page_start": 28,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou terminar, Sr. Presidente, para dizer o seguinte: a banca tem um \nproblema sistémico, a banca tem um problema estrutural e de fundo na forma como, hoje em dia, se organiza. \nA direita ignorou esse problema e, ao ignorar, criou instabilidade financeira no País. É responsabilidade de \nquem não fez nada! Pela nossa parte, não podemos fazer o mesmo e, por isso, mais uma vez, quero \nmanifestar a disponibilidade do Bloco de Esquerda para trabalhar em soluções estruturais para a banca,…"
+    },
+    {
+      "utterance_id": 187,
+      "order": 187,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe que conclua, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 188,
+      "order": 188,
+      "page_start": 28,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… que passem por poderes renovados ao Governo para intervir no \nsistema bancário, que passem por manter a banca em esfera pública, para que nunca mais tenhamos de pôr \ndinheiro dos contribuintes para salvar um banco,…"
+    },
+    {
+      "utterance_id": 189,
+      "order": 189,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem de concluir, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 190,
+      "order": 190,
+      "page_start": 28,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… que é o modelo do PSD e do CDS."
+    },
+    {
+      "utterance_id": 191,
+      "order": 191,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Galamba. \nas"
+    },
+    {
+      "utterance_id": 192,
+      "order": 192,
+      "page_start": 29,
+      "speaker": {
+        "id": 2039,
+        "name": "João Saldanha De Azevedo Galamba",
+        "party": "PS",
+        "string": "O Sr. João Galamba (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Primeiro-Ministro, Srs. Membros do Governo, Sr. e Srs. \nDeputados: Uma intervenção muito rápida só para dizer ao Sr. Deputado Luís Montenegro que o que ficou \naqui claro, hoje, não foi que o PS não tem o apoio da sua esquerda para aprovar este Orçamento. Não! \nO que ficou aqui claro foi que, se os senhores estivessem no Governo e tivessem de resolver este \nproblema, também não teriam o apoio do CDS e, portanto, precisariam do apoio de outros partidos. \nPortanto, Srs. Deputados do PSD, nisto, estamos num «barco» parecido! \nO segundo ponto é o seguinte: Sr. Deputado Luís Montenegro, o Governo do Partido Socialista queria \nintegrar o Banif na Caixa, depois de limpo dos ativos tóxicos, ou seja, queria fazer o que fez com o Santander, \nmas de modo a que ficasse na Caixa. Portanto, não, a Caixa não era caixote do lixo! \nMas há uma coisa que também não sucederá com este Governo: nós não privatizaremos a Caixa, como o \nseu Governo e o seu partido queriam fazer. Isto não acontecerá com o PS, Sr. Deputado!"
+    },
+    {
+      "utterance_id": 193,
+      "order": 193,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para uma intervenção, tem a palavra a Sr.ª Deputada Cecília Meireles."
+    },
+    {
+      "utterance_id": 194,
+      "order": 194,
+      "page_start": 29,
+      "speaker": {
+        "id": 1974,
+        "name": "Cecília Felgueiras De Meireles Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Cecília Meireles (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros, do Governo, Srs. Deputados: Neste \nmomento do debate na especialidade, é bom lembrar as perguntas que ficam sem resposta, e são muitas. \nA primeira pergunta é sobre a fuga de informação que aqui foi desvalorizada, como a nota de rodapé."
+    },
+    {
+      "utterance_id": 195,
+      "order": 195,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ah!"
+    },
+    {
+      "utterance_id": 196,
+      "order": 196,
+      "page_start": 29,
+      "speaker": {
+        "id": 1974,
+        "name": "Cecília Felgueiras De Meireles Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Cecília Meireles (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ó Srs. Deputados, uma nota de rodapé será, mas é uma nota de \nrodapé que fica para a história, porque significou uma corrida aos depósitos como poucas vezes se viu em \nPortugal,…"
+    },
+    {
+      "utterance_id": 197,
+      "order": 197,
+      "page_start": 29,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 198,
+      "order": 198,
+      "page_start": 29,
+      "speaker": {
+        "id": 1974,
+        "name": "Cecília Felgueiras De Meireles Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Cecília Meireles (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… uma perda de quase 1000 milhões de euros, que voaram do \nBanco numa semana, uma resolução e uma venda precipitada do Banco, com a respetiva fatura para os \ncontribuintes. \nSrs. Deputados, seria, porventura, exagero dizer que é a nota de rodapé mais importante na História de \nPortugal, mas vai ser, com certeza, a mais cara na História de Portugal."
+    },
+    {
+      "utterance_id": 199,
+      "order": 199,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 200,
+      "order": 200,
+      "page_start": 30,
+      "speaker": {
+        "id": 1974,
+        "name": "Cecília Felgueiras De Meireles Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Cecília Meireles (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não deixa de ser extraordinário que, hoje, o Bloco de Esquerda, \nnormalmente tão preocupado com estas questões, pareça não querer saber quem é que embarateceu aquele \nBanco para alguém o comprar e quem é que está, neste momento, a defender que uma conta maior seja paga \npelos contribuintes para proteger investidores maiores. \nÉ muito curioso, Srs. Deputados! São os novos especialistas no CDS, mas parecem ter esquecido \nassuntos que lhes eram muito caros. É muito, mas mesmo muito curioso!…"
+    },
+    {
+      "utterance_id": 201,
+      "order": 201,
+      "page_start": 30,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem! O Bloco morreu e o PCP fugiu!"
+    },
+    {
+      "utterance_id": 202,
+      "order": 202,
+      "page_start": 30,
+      "speaker": {
+        "id": 1974,
+        "name": "Cecília Felgueiras De Meireles Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Cecília Meireles (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A segunda pergunta que fica sem resposta é esta: fica por explicar \nquanto é que esta conta custaria no dia 2 de janeiro. É que, Srs. Deputados, isto não é uma questão de se \ngostar ou não das regras que entram em vigor, porque estas regras vão, de facto, entrar em vigor, é uma \nquestão de se perceber quanto é que isto custou agora e quanto é que custaria aos contribuintes no dia 2 de \njaneiro e quem pagaria a respetiva conta. \nE, se as regras vos desagradam tanto, também importa saber o que é que vão fazer para as alterar, \nporque, se calhar, também valia a pena meditarem nesse tema, já que a verdade é que elas passarão a \nvigorar daqui a poucos dias. \nFica ainda por esclarecer ao abrigo de que disposição se faz a repartição de encargos de 1766 milhões \npara o erário público e 489 para o sistema financeiro e qual o âmbito temporal de aquisição dessa norma. Tal \ncomo também fica por esclarecer por que é que foi adotado este modelo de maior custo para o contribuinte, ao \ncontrário de outros modelos, designadamente o do BES, de menor custo para o contribuinte. \nPor último, fica ainda por esclarecer quem é que selecionou os compradores, quem é que definiu os perfis, \nquem é que ordenou as seis propostas que o Estado recebeu, porque quem quer vir aqui dizer «tinha de ser \nassim, não havia alternativa», então, convém que explique as outras alternativas que foram descartadas. \nMas também fica por esclarecer para onde foi o Governo que dizia que era preciso ter uma nova relação \ncom a Europa, ser mais interventivo, bater o pé. Pois bem, esse Governo transformou-se, afinal de contas, \nnum Governo bem dócil e bem disciplinado, à primeira decisão a sério que teve de enfrentar. \nTerminaria dizendo o seguinte: Sr. Primeiro-Ministro, não se queixe da oposição, à oposição cabe \nescrutinar. \nO Sr. Primeiro-Ministro pode é queixar-se de quem prometeu que seria maioria, tal como o Sr."
+    },
+    {
+      "utterance_id": 203,
+      "order": 203,
+      "page_start": 31,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Parece que o CDS vota de forma diferente!"
+    },
+    {
+      "utterance_id": 204,
+      "order": 204,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Luís Ferreira. \nas"
+    },
+    {
+      "utterance_id": 205,
+      "order": 205,
+      "page_start": 31,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr. e Srs. \nDeputados: Primeiro foi o BPN, depois foi o BES, agora foi o Banif, e não sabemos se ficamos por aqui,…"
+    },
+    {
+      "utterance_id": 206,
+      "order": 206,
+      "page_start": 31,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Com o atual Governo nunca se sabe!"
+    },
+    {
+      "utterance_id": 207,
+      "order": 207,
+      "page_start": 31,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… mas os casos que se conhecem são suficientes e, por isso \nmesmo, deviam levar-nos a equacionar a necessidade de controlo público da banca, porque o Estado não \npode continuar a injetar na banca milhões e milhões de euros dos contribuintes e, depois, meter a cabeça na \nareia e nem sequer acompanhar a atividade comercial das entidades que beneficiam dos dinheiros públicos, \nregiste-se, dinheiros públicos aos milhões. \nÉ também por isso que, a nosso ver, podemos discutir e até alterar o quadro legislativo da supervisão, mas \npor mais poderes que sejam atribuídos à supervisão não serão, certamente, suficientes para evitar situações \ncomo as do BPN, do BES e, agora, do Banif. Não há supervisão que evite estes desastres, porque o problema \ncentral não reside tanto na supervisão mas, sim, onde o sistema bancário se move. \nÉ, portanto, por isso que consideramos que é tempo de equacionar a necessidade do controlo público da \nbanca, porque isso representaria um excelente contributo para evitar os sucessivos desastres a que temos \nassistido e que, invariavelmente, sobram para os contribuintes. \nNo caso do Banif, vejamos quanto está em causa: são 2105 milhões de euros, se retirarmos os 150 \nmilhões que o Santander pagou. Mas há ainda 746 milhões em garantias que foram dadas pelo Governo ao \nSantander e ao veículo que vai ficar com os ativos imobiliários e, para além disso, é ainda preciso somar os \n825 milhões de euros de ajudas do Estado que vão ficar por pagar. Portanto, são os 1100 milhões de euros \nque o Governo PSD/CDS injetou no Banif em 2013, dos quais só regressaram aos cofres do Estado 275 \nmilhões de euros. \nComo balanço desta intervenção, os contribuintes portugueses preparam-se para pagar mais de 3500 \nmilhões de euros. Feitas as contas, são 368 € que cada português vai ter de pagar para tapar o buraco do \nBanif. Um custo que seria, certamente, menor se o problema tivesse sido encarado, se o problema tivesse \nsido assumido mais cedo. Se o problema do Banif não foi assumido mais cedo, a responsabilidade só tem \numa paternidade: o Governo anterior, do PSD e do CDS."
+    },
+    {
+      "utterance_id": 208,
+      "order": 208,
+      "page_start": 31,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Sr. Miguel Tiago (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 209,
+      "order": 209,
+      "page_start": 31,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Da parte de Os Verdes, percebendo as circunstâncias e a \nurgência com que o atual Governo teve de enfrentar um problema que o anterior Governo PSD/CDS foi \nadiando irresponsavelmente, como quem varre os problemas para debaixo do tapete com o propósito claro de \ncriar a ilusão de uma «saída limpa»… Porque foi exatamente isso que o Governo PSD/CDS fez: adiou o \nproblema do Banif para não perturbar a «saída limpa» do Programa de Assistência. E não adianta dizer que \nnão, porque isto está expresso na troca de correspondência entre a Comissão Europeia e o Governo"
+    },
+    {
+      "utterance_id": 210,
+      "order": 210,
+      "page_start": 32,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Sr. Miguel Tiago (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 211,
+      "order": 211,
+      "page_start": 32,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estando muito por esclarecer e faltando ainda apurar \nresponsabilidades, Os Verdes acompanham a necessidade da criação de uma comissão parlamentar de \ninquérito ao «caso Banif» que, sobretudo, nos permita apurar as responsabilidades e que contribua também \npara evitar que a culpa volte a morrer solteira. \nAcompanhamos, portanto, essa intenção, mas recusamos voltar a chamar os contribuintes a pagar a \nirresponsabilidade dos banqueiros, recusamo-nos a chamar os contribuintes a pagar o fracasso da supervisão, \nrecusamo-nos a chamar os contribuintes a pagar a passividade da Comissão Europeia e, sobretudo, \nrecusamo-nos a chamar os contribuintes a pagar a irresponsabilidade do Governo PSD/CDS."
+    },
+    {
+      "utterance_id": 212,
+      "order": 212,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Paulo Correia."
+    },
+    {
+      "utterance_id": 213,
+      "order": 213,
+      "page_start": 32,
+      "speaker": {
+        "id": 2043,
+        "name": "João Paulo Moreira Correia",
+        "party": "PS",
+        "string": "O Sr. João Paulo Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Primeiro-Ministro e restantes Membros do Governo, as\nSr. e Srs. Deputados: A intervenção do Sr. Deputado João Almeida decretou a hibernação do CDS e a \nressurreição do Partido Popular. Aliás, a intervenção do Sr. Deputado João Almeida deu-nos a saber que, a \npartir de agora, o CDS vai pedir para sair das fotografias das coisas más do anterior Governo! \nO CDS bem tenta fingir que não fez parte da anterior governação, mas PSD e CDS foram Governo desde \njunho de 2011 até há dias. \nO «caso Banif» desenrola-se nos últimos três anos, isto é, desde o final de 2012 até há dias. Ora, o «caso \nBanif» é da inteira responsabilidade do anterior Governo PSD/CDS."
+    },
+    {
+      "utterance_id": 214,
+      "order": 214,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 215,
+      "order": 215,
+      "page_start": 32,
+      "speaker": {
+        "id": 2043,
+        "name": "João Paulo Moreira Correia",
+        "party": "PS",
+        "string": "O Sr. João Paulo Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nesse período, o Governo teve toda a informação para intervir \natempadamente no Banif e preferiu não fazê-lo. É que o Banif foi um banco do Estado durante três anos! O \nGoverno tinha toda a informação para agir e impedir uma derrocada tão pesada para os contribuintes \nportugueses. \nO vosso Governo, o Governo anterior, apresentou oito planos de reestruturação à Direção-Geral da \nConcorrência. Esses oito planos de reestruturação foram todos chumbados e é estranho o facto de o Governo \nPSD/CDS, o anterior Governo, não ter ficado alarmado para o chumbo desses oito planos de reestruturação. \nMesmo assim, os senhores não estavam despertos para a situação dramática que se passava no Banif. E \nnão despertaram quando a Sr.ª Comissária Europeia escreveu à ex-Ministra das Finanças dizendo que o Banif"
+    },
+    {
+      "utterance_id": 216,
+      "order": 216,
+      "page_start": 33,
+      "speaker": {
+        "id": 2018,
+        "name": "Hugo Alexandre Lopes Soares",
+        "party": "PSD",
+        "string": "O Sr. Hugo Lopes Soares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é verdade!"
+    },
+    {
+      "utterance_id": 217,
+      "order": 217,
+      "page_start": 33,
+      "speaker": {
+        "id": 2043,
+        "name": "João Paulo Moreira Correia",
+        "party": "PS",
+        "string": "O Sr. João Paulo Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os senhores não apresentaram nenhum plano de reestruturação até \nmarço de 2015! \nEm dezembro de 2014, o Banif não conseguiu pagar o empréstimo de 125 milhões de euros ao Estado. Os \nsenhores também continuaram a não estranhar essa situação e não despertaram para a situação difícil, \ndramática, em que se encontrava o Banif. \nOs senhores não estranharam a desvalorização bolsista de cerca de 98% ou 99% do Banif? Isso não dizia \n— aliás, disse! — à opinião pública que a situação em que o banco se encontrava era extremamente difícil? \nMas os senhores continuaram indiferentes e insensíveis à situação. \nO Governo PSD/CDS tinha ou não toda a informação para intervir no Banif e, com isso, evitar esta conta de \n2255 milhões de euros? Tinha toda a informação e devia ter agido, mas não o fez. \nE por que razão não o fez? Por razões de gestão do calendário eleitoral, e isso está à vista de todos! \nPor que razão não foi possível adiar esta decisão para mais tarde? Por três razões: primeiro, porque a \nvenda voluntária do Banif falhou no dia 18 de dezembro; segundo, porque, na passada segunda-feira, o Banif \nficou impedido de se financiar junto do Banco Central Europeu; terceiro, porque o Mecanismo Europeu não \natribuiu a licença a um banco de transição. \nPortanto, só havia aqui duas saídas legais: ou a resolução com venda, que foi a solução adotada, ou a \nliquidação do Banco."
+    },
+    {
+      "utterance_id": 218,
+      "order": 218,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 219,
+      "order": 219,
+      "page_start": 33,
+      "speaker": {
+        "id": 2043,
+        "name": "João Paulo Moreira Correia",
+        "party": "PS",
+        "string": "O Sr. João Paulo Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E a liquidação do Banco tinha um custo muito superior ao dobro da \nresolução com venda. \nO CDS aqui, no Parlamento nacional, votou contra, na generalidade, este Orçamento retificativo, embora \nna Madeira e nos Açores tenha votado a favor. O certo é que aqui, ao votar contra, está a dizer que preferia \noutra opção, ou seja, o despedimento de 1600 trabalhadores,…"
+    },
+    {
+      "utterance_id": 220,
+      "order": 220,
+      "page_start": 33,
+      "speaker": {
+        "id": 1853,
+        "name": "Carlos Manuel Martins Do Vale César",
+        "party": "PS",
+        "string": "O Sr. Carlos César (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 221,
+      "order": 221,
+      "page_start": 33,
+      "speaker": {
+        "id": 2043,
+        "name": "João Paulo Moreira Correia",
+        "party": "PS",
+        "string": "O Sr. João Paulo Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… o impacto negativo na economia dos Açores e da Madeira, o \nesvaziamento do Fundo de Garantia de Depósitos e, também, uma crise de contágio ao setor bancário. \nEsta, para nós, Sr. Primeiro-Ministro, Srs. Membros do Governo, foi a solução mais acertada, a que \ndefende melhor os interesses dos contribuintes e o interesse nacional."
+    },
+    {
+      "utterance_id": 222,
+      "order": 222,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para uma intervenção, o Sr. Deputado João Almeida."
+    },
+    {
+      "utterance_id": 223,
+      "order": 223,
+      "page_start": 33,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, em primeiro lugar, queria agradecer ao Sr. \nDeputado João Paulo Correia por ter dedicado ao CDS toda a sua intervenção. Percebo que não a dedique \naos companheiros de coligação de Governo, porque tinha pouco para lhes dizer neste momento, a não ser \nperguntar-lhes por que é que não apoiam a proposta que aqui trazem."
+    },
+    {
+      "utterance_id": 224,
+      "order": 224,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe que conclua, Sr. Deputado."
+    },
+    {
+      "utterance_id": 225,
+      "order": 225,
+      "page_start": 34,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou concluir, Sr. Presidente. \nÉ, por isso, com muita honra, Sr. Deputado, que defendemos coerentemente o facto de, com o PSD, \ntermos evitado a liquidação durante os últimos três anos e de, como CDS, neste momento, não concordarmos \ncom a proposta que os senhores apresentam, porque é uma má proposta e porque prejudica os contribuintes."
+    },
+    {
+      "utterance_id": 226,
+      "order": 226,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Ministro das Finanças para uma intervenção. \nas"
+    },
+    {
+      "utterance_id": 227,
+      "order": 227,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro das Finanças",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados, Sr. Deputadas: A decisão que hoje aqui \ntomámos foi uma decisão difícil, tomada em tempo absolutamente comprimido. Foi uma decisão resultante de \ntrês anos de não tomadas de decisão. \nÉ verdade que, no âmbito do Programa de Ajustamento, existia uma verba para acudir aos problemas do \nsetor financeiro. \nTambém é verdade que essa verba não foi esgotada. Se havia problemas no setor financeiro, parece que o \nXIX Governo Constitucional encontrou soluções para esses problemas gastando menos dinheiro. \nMas também é verdade, e aqui está o paradoxo, que, no caso do Banif, foram utilizados quase 10% dessa \nverba num banco que tinha uma quota de mercado de 3% nos depósitos e de 3,1% nos créditos. Foram \nusados 10% para acudir a um banco que pesava 3% no sistema e não foi encontrada uma solução. \nHavia alternativas, porque há sempre alternativas em política,…"
+    },
+    {
+      "utterance_id": 228,
+      "order": 228,
+      "page_start": 35,
+      "speaker": {
+        "id": 2004,
+        "name": "Carlos Filipe De Andrade Neto Brandão",
+        "party": "PS",
+        "string": "O Sr. Filipe Neto Brandão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 229,
+      "order": 229,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro das Finanças",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "… e essas alternativas, no dia 18 de dezembro, eram a resolução do \nBanco, nos moldes em que ela foi concretizada, ou a sua liquidação. \nA liquidação tinha um custo que pode ser avaliado de duas formas muito simplistas: ou olhamos para o \nativo e constatamos que são 10 000 milhões o ativo do Banif e essa era a perda económica que estaria \nassociada à liquidação, ou olhamos para aquilo que era perdido no momento da liquidação e víamos 5000 \nmilhões de euros de depósitos, 1100 milhões de euros investidos no Banco, mais 1200 milhões de euros dos \ncredores, mais os 1600 postos de trabalho, mais os efeitos dinâmicos sobre a economia regional dos Açores e \nda Madeira e do sistema bancário português. \nNão havia, nesta situação, outra forma de atuar. Aquilo que o Governo fez ao longo do tempo, na sua \nrelação com as autoridades europeias, vai ser seguramente avaliado na comissão parlamentar que vai inquirir \no «caso Banif». \nO Estado, após a carta que entretanto foi conhecida da Sr.ª Comissária, de dezembro de 2014, o que fez \nnão foi encontrar uma solução estrutural para o Banif, foi reconduzir a administração nomeada pelos acionistas \nminoritários e em que o Estado apenas tinha um administrador não executivo. \nSrs. Deputados, aquilo com que o Governo foi confrontado não era aquilo que o Governo esperava \nencontrar no caso do Banif."
+    },
+    {
+      "utterance_id": 230,
+      "order": 230,
+      "page_start": 35,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pois não! A causa foi a nota de rodapé!"
+    },
+    {
+      "utterance_id": 231,
+      "order": 231,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro das Finanças",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "A pressão extraordinária sobre a decisão do Governo levou a que a \ndecisão tomada fosse aquela que minorasse os custos para o sistema e os custos para os contribuintes."
+    },
+    {
+      "utterance_id": 232,
+      "order": 232,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Está ainda inscrito, para uma brevíssima intervenção, o Sr. Deputado Carlos Pereira. \nTem a palavra, Sr. Deputado. \nas"
+    },
+    {
+      "utterance_id": 233,
+      "order": 233,
+      "page_start": 35,
+      "speaker": {
+        "id": 1970,
+        "name": "Carlos João Pereira",
+        "party": "PS",
+        "string": "O Sr. Carlos Pereira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. e Srs. Deputados, Srs. Membros do Governo, Sr. \nPrimeiro-Ministro, permita-me dirigir-me a V. Ex.ª para dizer que o PSD e o CDS passaram longos dias a dizer \nao Partido Socialista e ao Governo para não estragar. Afinal, Sr. Primeiro-Ministro, já estava tudo estragado. \nA verdade é que este Orçamento serve para resolver o que o PSD e o CDS estragaram. São até 3000 \nmilhões de estragos do PSD e do CDS!"
+    },
+    {
+      "utterance_id": 234,
+      "order": 234,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 235,
+      "order": 235,
+      "page_start": 35,
+      "speaker": {
+        "id": 1970,
+        "name": "Carlos João Pereira",
+        "party": "PS",
+        "string": "O Sr. Carlos Pereira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A segunda nota é para dizer aos Srs. Deputados das Regiões Autónomas \nque, em vez de uma declaração de voto, deviam apresentar um pedido de desculpas aos seus concidadãos."
+    },
+    {
+      "utterance_id": 236,
+      "order": 236,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Já ultrapassou o seu tempo, Sr. Deputado."
+    },
+    {
+      "utterance_id": 237,
+      "order": 237,
+      "page_start": 35,
+      "speaker": {
+        "id": 1970,
+        "name": "Carlos João Pereira",
+        "party": "PS",
+        "string": "O Sr. Carlos Pereira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Termino, já, Sr. Presidente. \nIsto porque, se o PSD lavar as mãos e o CDS-PP votar contra, seria contribuir para o colapso das \neconomias regionais da Madeira e dos Açores."
+    },
+    {
+      "utterance_id": 238,
+      "order": 238,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos dar início à votação, na especialidade, da proposta de lei n.º 8/XIII (1.ª). \nSrs. Deputados, segundo o entendimento havido entre as bancadas, vamos começar pela votação da \nproposta, apresentada pelo PS, de aditamento de um artigo 2.º-A à proposta de lei, que, por sua vez, adita o \nartigo 259.º-A à Lei n.º 82-B/2014, de 31 de dezembro. \nPergunto se algum Sr. Deputado do PS pretende esclarecer o significado desta alteração, dispondo para o \nefeito de 10 segundos."
+    },
+    {
+      "utterance_id": 239,
+      "order": 239,
+      "page_start": 36,
+      "speaker": {
+        "id": 2018,
+        "name": "Hugo Alexandre Lopes Soares",
+        "party": "PSD",
+        "string": "O Sr. Hugo Lopes Soares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é possível esclarecer!"
+    },
+    {
+      "utterance_id": 240,
+      "order": 240,
+      "page_start": 36,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente, para uma interpelação à Mesa sobre a \ncondução dos trabalhos."
+    },
+    {
+      "utterance_id": 241,
+      "order": 241,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 242,
+      "order": 242,
+      "page_start": 36,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, creio que é absolutamente extemporânea essa \nafirmação do Sr. Presidente, na medida em que o Partido Socialista teve todo o tempo disponível para \napresentar as questões durante o debate na especialidade. No entanto, em vez disso, o PS entendeu fazer \nintervenções de outro teor, o que é legítimo. Agora, não podemos reabrir a discussão."
+    },
+    {
+      "utterance_id": 243,
+      "order": 243,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, não é extemporâneo porque o que a Mesa queria era que ficasse claro \nque qualquer dúvida que algum dos Srs. Deputados ainda tivesse e que também não tenha tempo para a \ncolocar pudesse ser esclarecida. \nAgora, se os Srs. Deputados dispensam o esclarecimento de dúvidas, a Mesa aceita esse entendimento \nsem qualquer problema."
+    },
+    {
+      "utterance_id": 244,
+      "order": 244,
+      "page_start": 36,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, permita-me, de novo, o uso da palavra."
+    },
+    {
+      "utterance_id": 245,
+      "order": 245,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Luís Montenegro, faça favor."
+    },
+    {
+      "utterance_id": 246,
+      "order": 246,
+      "page_start": 36,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, com o devido respeito, reafirmo que a sua afirmação é \nmesmo extemporânea e que a sua explicação não colhe, porque não está aqui em causa nenhuma \nnecessidade de esclarecimento dos grupos parlamentares. \nO que está em causa é o seguinte: há um partido proponente, esse partido proponente dispunha de tempo \npara intervir, tempo esse que se destinava à apresentação da proposta. Esse partido decidiu utilizar o referido \ntempo de uma outra maneira, e, portanto, o Sr. Presidente não tem como resolver e, desculpe mesmo, não \ntem que se intrometer na gestão do tempo do Grupo Parlamentar do Partido Socialista."
+    },
+    {
+      "utterance_id": 247,
+      "order": 247,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, a última palavra da Mesa é no seguinte sentido: o Sr. Deputado e o \nGrupo Parlamentar que representa ultrapassaram o tempo disponível em 1 minuto e 31 segundos; o Partido \nSocialista ultrapassou-o em 47 segundos. Não tem autoridade moral para levantar essa questão nesses \ntermos. \nOs Srs. Deputados poderão continuar este incidente como quiserem, eu responderei também como \nentender."
+    },
+    {
+      "utterance_id": 248,
+      "order": 248,
+      "page_start": 37,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, não posso deixar passar em claro a sua afirmação. \nQueria repudiá-la e dizer que não está em causa nenhum princípio de igualdade entre os grupos \nparlamentares, que o Sr. Presidente se excedeu e que continua a dar nota, tal como lhe disse no dia em que \ntomou posse, de ainda não ter adquirido as condições de isenção e de imparcialidade para o exercício do \ncargo."
+    },
+    {
+      "utterance_id": 249,
+      "order": 249,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, não lhe admito nenhuma nota dessa natureza! \n\nO Sr. Deputado sabe perfeitamente que isso não é verdade, ainda hoje teve ocasião, por várias vezes, de \nver o seu grupo parlamentar beneficiar da tolerância da Mesa, especialmente em matéria de Regimento. Por \nexemplo, o tempo de 30 minutos previsto para a interrupção dos trabalhos foi excedido em cerca de 20 \nminutos pelo Grupo Parlamentar do PSD e a Mesa não fez qualquer observação por causa disso. \nSrs. Deputados, vamos, então, passar à votação da proposta, apresentada pelo PS, de aditamento de um \nartigo 2.º-A…"
+    },
+    {
+      "utterance_id": 250,
+      "order": 250,
+      "page_start": 37,
+      "speaker": {
+        "id": 1853,
+        "name": "Carlos Manuel Martins Do Vale César",
+        "party": "PS",
+        "string": "O Sr. Carlos César (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para uma interpelação à Mesa."
+    },
+    {
+      "utterance_id": 251,
+      "order": 251,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 252,
+      "order": 252,
+      "page_start": 37,
+      "speaker": {
+        "id": 1853,
+        "name": "Carlos Manuel Martins Do Vale César",
+        "party": "PS",
+        "string": "O Sr. Carlos César (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente e Srs. Deputados, em nome do Grupo Parlamentar do Partido \nSocialista, quero dizer que, no nosso entendimento, a legitimidade de quem é eleito neste Parlamento, seja \npara que cargo for, é inquestionável… \n… e que o exercício da presidência do Parlamento por V. Ex.ª tem correspondido ao exercício das suas \nobrigações, à boa condução do Parlamento e merece, da nossa parte, esse testemunho e esse apoio. \nTambém quero transmitir a V. Ex.ª que não é através de manobras de diversão como aquela que o PSD \nestá a fazer que se esconde a vergonha da gestão deste dossier do Banif, ao longo dos últimos anos."
+    },
+    {
+      "utterance_id": 253,
+      "order": 253,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Muito obrigado, Sr. Deputado. \nSrs. Deputados, vamos votar, na especialidade, a proposta, apresentada pelo PS, de aditamento de um \nartigo 2.º-A à proposta de lei n.º 8/XIII (1.ª), que, por sua vez, adita o artigo 259.º-A à Lei n.º 82-B/2014, de 31 \nde dezembro \nSubmetida à votação, foi aprovada, com votos a favor do PS e dos Deputados do PSD Paulo Neves, \nRubina Berardo e Sara Madruga da Costa, votos contra do BE, do PCP, de Os Verdes e do PAN e abstenções \ndo PSD e do CDS-PP."
+    },
+    {
+      "utterance_id": 254,
+      "order": 254,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Foi-me comunicado que existe um entendimento no sentido de serem votados \nconjuntamente, na especialidade, os artigos 1.º, 2.º e 4.º da proposta de lei n.º 8/XIII (1.ª). \nSendo assim, vamos votá-los. \nSubmetidos à votação, foram aprovados, com votos a favor do PS e dos Deputados do PSD Paulo Neves, \nRubina Berardo e Sara Madruga da Costa, votos contra do BE, do CDS-PP, do PCP, de Os Verdes e do PAN \ne a abstenção do PSD. \nUma vez que há consenso, vamos votar o artigo 3.º da proposta de lei, que altera os mapas I a IX e XV e \nXVI. \nSubmetido à votação, foi aprovado, com votos a favor do PS e dos Deputados do PSD Paulo Neves, \nRubina Berardo e Sara Madruga da Costa, votos contra do BE, do CDS-PP, do PCP, de Os Verdes e do PAN \ne a abstenção do PSD. \nPor fim, vamos proceder à votação final global da proposta de lei n.º 8/XIII (1.ª), com a alteração entretanto \naprovada. \nSubmetida à votação, foi aprovada, com votos a favor do PS e dos Deputados do PSD Paulo Neves, \nRubina Berardo e Sara Madruga da Costa, votos contra do BE, do CDS-PP, do PCP, de Os Verdes e do PAN \ne a abstenção do PSD."
+    },
+    {
+      "utterance_id": 255,
+      "order": 255,
+      "page_start": 38,
+      "speaker": {
+        "id": 2134,
+        "name": "Pedro Filipe Gomes Soares",
+        "party": "BE",
+        "string": "O Sr. Pedro Filipe Soares (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 256,
+      "order": 256,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 257,
+      "order": 257,
+      "page_start": 38,
+      "speaker": {
+        "id": 2134,
+        "name": "Pedro Filipe Gomes Soares",
+        "party": "BE",
+        "string": "O Sr. Pedro Filipe Soares (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é para anunciar que o Grupo Parlamentar do Bloco de \nEsquerda apresentará uma declaração de voto, por escrito, em relação à votação que fizemos."
+    },
+    {
+      "utterance_id": 258,
+      "order": 258,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Fica registado, Sr. Deputado."
+    },
+    {
+      "utterance_id": 259,
+      "order": 259,
+      "page_start": 39,
+      "speaker": {
+        "id": 2043,
+        "name": "João Paulo Moreira Correia",
+        "party": "PS",
+        "string": "O Sr. João Paulo Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 260,
+      "order": 260,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra."
+    },
+    {
+      "utterance_id": 261,
+      "order": 261,
+      "page_start": 39,
+      "speaker": {
+        "id": 2043,
+        "name": "João Paulo Moreira Correia",
+        "party": "PS",
+        "string": "O Sr. João Paulo Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, o Grupo Parlamentar do PS vem requerer a dispensa de \nredação final desta proposta de lei, bem como a redução para um dia do prazo de reclamação, após a \npublicação no Diário da Assembleia da República."
+    },
+    {
+      "utterance_id": 262,
+      "order": 262,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Dos contactos que a Mesa teve com a Presidência da República, penso que é mesmo \nnecessário que este diploma seja entregue ainda hoje em Belém. Portanto, Srs. Deputados, a redução do \nprazo de reclamação não é para um dia, é mesmo para zero dias. \nAssim, se ninguém se opuser, não haverá redação final desta proposta de lei, nem prazo de reclamação. \nPausa. \nSr. Deputado Duarte Pacheco, tem a palavra."
+    },
+    {
+      "utterance_id": 263,
+      "order": 263,
+      "page_start": 39,
+      "speaker": {
+        "id": 1210,
+        "name": "Duarte Rogério Matos Ventura Pacheco",
+        "party": "PSD",
+        "string": "O Sr. Duarte Pacheco (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, não é uma questão de má vontade, mas penso que, \nregimentalmente, não é possível haver dispensa do prazo de reclamação mas, sim, a sua redução para um \ndia. No entanto, poderá haver a disponibilidade informal de fazer chegar, desde já, o documento à Presidência \nda República para análise pelo Sr. Presidente, naturalmente."
+    },
+    {
+      "utterance_id": 264,
+      "order": 264,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, agradeço-lhe, mas a Mesa verificou que há um precedente proposto \npelo Grupo Parlamentar do PSD e aceite por todos os outros aquando da votação das últimas leis eleitorais, \nem que não houve, sequer, o prazo de um dia para reclamação. \nPortanto, penso que é possível fazer como a Mesa propôs."
+    },
+    {
+      "utterance_id": 265,
+      "order": 265,
+      "page_start": 39,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 266,
+      "order": 266,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 267,
+      "order": 267,
+      "page_start": 39,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é só para anunciar que apresentaremos uma declaração de \nvoto, relativamente à votação final global."
+    },
+    {
+      "utterance_id": 268,
+      "order": 268,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Fica registado, Sr. Deputado."
+    },
+    {
+      "utterance_id": 269,
+      "order": 269,
+      "page_start": 39,
+      "speaker": {
+        "id": 2153,
+        "name": "Sara Martins Marques Dos Santos Madruga Da Costa",
+        "party": "PSD",
+        "string": "A Sr.ª Sara Madruga da Costa (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 270,
+      "order": 270,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "É para o mesmo efeito, Sr.ª Deputada?"
+    },
+    {
+      "utterance_id": 271,
+      "order": 271,
+      "page_start": 39,
+      "speaker": {
+        "id": 2153,
+        "name": "Sara Martins Marques Dos Santos Madruga Da Costa",
+        "party": "PSD",
+        "string": "A Sr.ª Sara Madruga da Costa (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é também para anunciar que os Deputados \neleitos pela Região Autónoma da Madeira apresentarão uma declaração de voto. \na"
+    },
+    {
+      "utterance_id": 272,
+      "order": 272,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Fica registado, Sr. Deputada. a\n\nA Sr. Deputada Cecília Meireles, pediu a palavra para o mesmo efeito?"
+    },
+    {
+      "utterance_id": 273,
+      "order": 273,
+      "page_start": 39,
+      "speaker": {
+        "id": 1974,
+        "name": "Cecília Felgueiras De Meireles Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Cecília Meireles (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, também para anunciar que o CDS apresentará uma \ndeclaração de voto escrita sobre esta votação."
+    },
+    {
+      "utterance_id": 274,
+      "order": 274,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Fica registado, Sr.ª Deputada."
+    }
+  ]
+}

@@ -1,0 +1,3470 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "12",
+    "legislative_session": "3",
+    "number": "60",
+    "date": "2014-03-13"
+  },
+  "debate_id": "r3_12_3_60_2014-03-13",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, Sr. Ministro da Solidariedade, Emprego e Segurança Social, Sr.ª Secretária de Estado dos Assuntos Parlamentares e da Igualdade, Sr. Secretário de Estado do Emprego, Secretário de Estado Adjunto do Ministro da Saúde, a quem a Mesa cumprimenta, Srs. Jornalistas, está aberta a sessão.\nEram 15 horas e 11 minutos.\nPodem ser abertas as galerias.\nAntes de darmos início à ordem do dia, que hoje consiste no debate de uma interpelação ao Governo, o Sr.\nSecretário, Deputado Duarte Pacheco, vai proceder à leitura do expediente."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Duarte Pacheco)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Presidente, Sr.as e Srs. Deputados, deu entrada na Mesa, e foi admitida pela Sr.ª Presidente, a apreciação parlamentar n.º 78/XII (3.ª) — Relativa ao Decreto-Lei n.º 22/2014, de 11 de fevereiro, que estabelece o regime jurídico da formação contínua de professores e define o respetivo sistema de coordenação, administração e apoio (PCP).\nEm termos de expediente, é tudo, Sr.ª Presidente."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos, então, dar início à ordem do dia de hoje, que será preenchida com o debate da interpelação n.º 14/XII (3.ª) — Sobre a grave situação económica e social do País e a política alternativa necessária para solução dos problemas nacionais (PCP).\nDe acordo com o modelo definido para este debate, haverá lugar a duas intervenções iniciais, uma da parte do autor da iniciativa, neste caso o PCP, e outra da parte do Governo.\nAntes de dar a palavra, peço aos Srs. Deputados que mantenham silêncio, de forma a serem criadas condições na Sala para o debate.\nPara uma intervenção, tem a palavra o Sr. Deputado Francisco Lopes."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 2,
+      "speaker": {
+        "id": 2007,
+        "name": "Francisco José De Almeida Lopes",
+        "party": "PCP",
+        "string": "O Sr. Francisco Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Srs. Membros do Governo, Srs. Deputados: A situação económica e social do País é de uma enorme gravidade. A política de direita, da responsabilidade do PSD e do CDS-PP mas também do PS, aprofundada nos últimos anos pelos programas de estabilidade e crescimento (PEC) e pelo pacto de agressão, provoca um rasto de retrocesso e injustiça e gera sérias preocupações quanto ao futuro.\nA destruição das estruturas produtivas, uma década de crescimento praticamente nulo seguida, nos últimos três anos, da maior recessão alguma vez registada, a alienação e a liquidação de sectores estratégicos e o brutal aumento da dívida pública são a expressão de um enorme salto atrás.\nA degradação do poder de compra, incluindo do salário mínimo, os cortes nos salários e nas pensões, o aumento e a desregulação dos horários de trabalho, a prepotência em muitos locais de trabalho e as centenas de milhares de trabalhadores com salários penhorados são realidades chocantes. Como chocante é o desemprego de mais de 1,4 milhões de trabalhadores, na sua maioria sem apoios sociais, tantos deles conduzidos à miséria e à fome, ou a situação dos jovens, cada vez mais empurrados para a precariedade, o desemprego e a emigração.\nAs insolvências familiares, os apoios sociais cortados, os subsídios que chegam ao fim, as poupanças consumidas, as rendas ou as prestações ao banco que não são pagas, o risco ou a dura realidade de deixar de ter casa são dimensões de dramas sociais que se multiplicam.\nO número de estudantes que abandonam o ensino superior, as situações de crianças que vão para a escola sem qualquer refeição e os testemunhos sobre crianças que, em vez de leite, bebem um copo de água com açúcar, de pacotes que os familiares arranjam em cafés da zona onde vivem, mostram o ponto de degradação social a que o País chegou."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 2,
+      "speaker": {
+        "id": 2144,
+        "name": "Rita Rato Araújo Fonseca",
+        "party": "PCP",
+        "string": "A Sr.ª Rita Rato (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 3,
+      "speaker": {
+        "id": 2007,
+        "name": "Francisco José De Almeida Lopes",
+        "party": "PCP",
+        "string": "O Sr. Francisco Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A carência de médicos de família, a falta de meios e de profissionais, os meses ou anos de espera por uma consulta, um exame ou uma intervenção inserem-se na negação do direito à saúde e na transformação da saúde num enorme negócio que condena muitos portugueses a uma morte antecipada.\nO continuado ataque à ciência, à cultura e à escola pública e a descaracterização da segurança social são gritantes expressões de retrocesso.\nO aumento brutal dos impostos para os trabalhadores e as benesses para o capital, como mostram a opção pela redução do IRC e os critérios dos benefícios fiscais, dão a dimensão de uma profunda injustiça fiscal.\nÉ toda uma política de subversão do regime democrático, de confronto com a Constituição da República Portuguesa, que empurra o País para o desastre e compromete a sua soberania e independência."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 3,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 3,
+      "speaker": {
+        "id": 2007,
+        "name": "Francisco José De Almeida Lopes",
+        "party": "PCP",
+        "string": "O Sr. Francisco Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Governo e a troica, perante esta situação, proclamam sucesso, mas a realidade sentida pelo povo português fala por si. Enquanto o povo empobrece e as 25 famílias mais ricas veem as suas fortunas aumentar, com insultuosa arrogância, Belmiro de Azevedo proclama a degradação dos salários e Soares dos Santos declara a disposição de não pagar os impostos devidos.\nNa semana passada, questionavam os profissionais das forças de segurança: onde estão os cifrões das nossas profissões? Os roubos nos seus salários, bem como nos dos restantes trabalhadores, nas pensões e no financiamento dos serviços públicos estão a ir direitinhos para os milhares de milhões de euros de lucros e dividendos do grande capital, para o saque dos 7000 milhões de euros que anualmente saem em juros de uma dívida em grande parte ilegítima, para os swaps e as parcerias público-privadas (PPP), para os escândalos do BPN, do BPP ou do BCP, cujo ex-presidente acaba de ser absolvido de uma multa por prescrição."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 3,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É uma vergonha!"
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 3,
+      "speaker": {
+        "id": 2007,
+        "name": "Francisco José De Almeida Lopes",
+        "party": "PCP",
+        "string": "O Sr. Francisco Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os responsáveis pela situação do País querem prosseguir este caminho.\nO Governo aí está, a tentar que os cortes nos salários, nas pensões e nos apoios sociais que apresentou como temporários passem a definitivos; a procurar fazer mais alterações para pior ao Código do Trabalho, procurando facilitar os despedimentos sem justa causa, designadamente com o anunciado propósito de baixar o valor das indemnizações e de fragilizar ainda mais a contratação coletiva; a agravar a legislação de trabalho da Administração Pública; a atacar os reformados e os pensionistas e o direito à reforma; a promover ainda mais a precariedade; a prosseguir a destruição dos serviços públicos e das funções sociais do Estado. O Governo aí está, a estabelecer mais privatizações, a preparar o corte de milhares de milhões de euros nos salários, nas pensões, nos apoios sociais, nos serviços públicos.\nPassos Coelho diz que os rendimentos dos trabalhadores não podem voltar aos valores que tinham antes.\nCavaco Silva diz mais, que Portugal está sujeito, até 2035, à ingerência externa, portanto, pelo menos mais 20 anos. No fundo, quem tanto fala de pós-troica vem dizer o que todos sabíamos: com esta política, com este Governo ou outro idêntico, não há propriamente pós-troica. À irlandesa, com ou sem programa cautelar, com o garrote do tratado orçamental ou de outros instrumentos de domínio da União Europeia e do euro, a política das troicas, a política de exploração e de empobrecimento, na opinião deles, é para continuar.\nNão há demagogia e encenação do Governo, de Passos Coelho e Paulo Portas, que possa esconder a realidade. Quanto mais tempo durar este Governo e esta política pior para o País. A situação a que se chegou e o propósito de insistir neste caminho de injustiça e desastre reforça ainda mais a necessidade que o PCP coloca da demissão do Governo, da realização de eleições antecipadas, da rutura com a política de direita, de uma alternativa patriótica e de esquerda.\nUma alternativa em rutura com a política de direita em Portugal e com os eixos fundamentais do processo de integração capitalista europeu."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 4,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 4,
+      "speaker": {
+        "id": 2007,
+        "name": "Francisco José De Almeida Lopes",
+        "party": "PCP",
+        "string": "O Sr. Francisco Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Uma política de defesa e de recuperação dos serviços públicos, em particular no que concerne às funções sociais do Estado na promoção da saúde, da educação e da segurança social; a assunção de uma política soberana e de afirmação do primado dos interesses nacionais.\nSão estes os eixos essenciais da política de que o País precisa, que se expressam em necessidades e medidas concretas.\nPor isso, o PCP vai avançar com propostas sobre o Fundo de Garantia Salarial e de reforço do subsídio de desemprego e do subsídio social de desemprego para responder a centenas de milhares de desempregados que não têm apoio social."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 4,
+      "speaker": {
+        "id": 2007,
+        "name": "Francisco José De Almeida Lopes",
+        "party": "PCP",
+        "string": "O Sr. Francisco Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O PCP vai avançar com propostas para a reposição do horário de trabalho da Administração Pública e a redução progressiva do horário de trabalho para as 35 horas semanais para todos os trabalhadores, tendo em conta o desenvolvimento científico e tecnológico e como contributo para a redução do desemprego estrutural."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 4,
+      "speaker": {
+        "id": 2007,
+        "name": "Francisco José De Almeida Lopes",
+        "party": "PCP",
+        "string": "O Sr. Francisco Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O PCP vai avançar com propostas de combate à precariedade para que a um posto de trabalho permanente corresponda um contrato de trabalho efetivo.\nO PCP vai avançar com um conjunto de propostas de proteção da maternidade e da paternidade e de incentivo à natalidade, envolvendo, designadamente, o abono de família e o apoio no plano das creches e do pré-escolar.\nO PCP vai avançar, no quadro do apoio aos reformados e pensionistas e da valorização das pensões, com propostas de reforço do complemento solidário para idosos.\nO PCP vai avançar com propostas para anular os aumentos dos preços dos transportes, para controlar os preços dos combustíveis e para alargar o acesso à tarifa social da eletricidade e do gás.\nO PCP irá prosseguir a intervenção contra a corrupção e as injustiças fiscais, designadamente para que se concretize a auditoria do Tribunal de Contas aos benefícios fiscais centrada nas SGPS (sociedades gestoras de participações sociais).\nSrs. Deputados, o Governo desdobra-se em propaganda enganosa, procurando, com este ou aquele elemento estatístico, com esta ou aquela ação demagógica, esconder o desastre para onde conduziu, e está a conduzir, o País. Nada disso altera a realidade nacional, a situação dos trabalhadores e do povo, o profundo descontentamento existente, o desejo de penalizar os responsáveis políticos por este rumo de retrocesso e a vontade de concretizar a necessária e inapelável derrota do Governo."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "A Mesa regista a inscrição da Sr.ª Deputada Maria das Mercês Soares, do PSD, para fazer perguntas, mas, como os Srs. Deputados sabem, de acordo com o modelo deste debate, só após as intervenções iniciais se entra numa fase de perguntas.\nPassando, assim, à intervenção da parte do Governo, tem a palavra o Sr. Ministro da Solidariedade, Emprego e Segurança Social."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 5,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social (Pedro Mota Soares)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: Aproxima-se a conclusão do Programa de Assistência Económica e Financeira. Serão três duros anos concluídos, três duros anos resultantes de décadas de défices descontrolados, de dívida contraída e de escalada de descontrolo financeiro, algo a que este Governo era alheio mas a que tinha, e teve, de responder.\nAs causas que aqui nos trouxeram não foram da responsabilidade deste Governo, mas foi pedido a este Governo que gerisse a sua resolução. Hoje, é um dado adquirido que Portugal vai fechar o duro Programa de Assistência Económica e Financeira.\nQuem passou os últimos meses a dizer que Portugal estava a caminho do segundo resgate falhou. Até há seis meses, essa era uma inevitabilidade e, hoje, esse é um assunto do passado.\nMas, durante este tempo, não nos admirámos com o carácter meramente retórico das propostas do PCP, porque dizer ou sugerir que o que havia a fazer era rasgar o acordo com os credores é ignorar as necessidades de financiar a ação do Estado português, nomeadamente a ação social que o Estado tem.\nEsta receita teria como consequência óbvia perder o crédito que nos foi concedido, lançar Portugal num absoluto isolamento, sair do euro e condenar a sociedade portuguesa a um empobrecimento estrutural, em que os mais prejudicados seriam sempre os mais fracos e os mais vulneráveis. O caminho que fizemos foi o contrário: de preservação das funções do Estado, especialmente das suas funções sociais.\nSr.as e Srs. Deputados, as consequências sociais e económicas de quem esteve à beira da bancarrota foram sentidas de forma muito dura pelos portugueses, como, de resto, tínhamos alertado.\nPor isso mesmo, criámos uma resposta de emergência que se revelou indispensável, uma resposta criada em estreita articulação com os parceiros da economia social com o propósito transitório de responder aos fenómenos da crise, mitigando o impacto sobre aqueles que a ela podiam estar mais expostos. Chamámos-lhe Programa de Emergência Social e, junto com a verba da ação social, totalizaram, em 2014, 1939 milhões de euros, totalmente dedicados à resposta de ação social do Estado português.\nNesse sentido, garantimos que o Estado social está onde é mais preciso e que hoje é expresso por um número significativo.\nNa área da ação social, significa cerca de mais 400 milhões de euros do que em 2011, através do Programa de Emergência Social. São verbas como esta que nos permitiram e que nos permitem executar múltiplas medidas que beneficiam ou protegem aqueles que mais carências têm. Desde logo, um acréscimo, no triénio, de 5,3% nas pensões mínimas sociais e rurais, o que se traduz num gasto médio acima da inflação de 160 € anuais para mais de 1,1 milhões de pensionistas portugueses.\nOu outra importante medida criada por este Governo, como seja a majoração em 10% do subsídio de desemprego para casais com filhos a cargo,»"
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 6,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 6,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» ou medidas como os programas de trabalho ativo e solidário, programas de formação para a inclusão, a revisão do apoio domiciliário, o Programa de Emergência Alimentar, que hoje tem uma rede de cerca de 808 cantinas sociais, com refeições servidas por instituições sociais comparticipadas pelo Estado, quando há dois anos e meio eram, apenas, 62."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 6,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E as pessoas não têm o que comer em casa!"
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 6,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "No entanto, contestaram e, por vezes, ainda acusam esta nossa prioridade de construir um novo paradigma de proposta social, apoiando-se numa franca parceria com as instituições sociais.\nPara isso, o investimento em economia social e nas instituições, nestes últimos anos, tem sido tão expressivo: reforçámos a contratualização e atualizámos as verbas em acordos de cooperação em mais de 2,6%; avançámos com a contratualização de mais 211 novos acordos de cooperação, que representam a comparticipação de mais 3400 vagas nas instituições sociais; criámos duas linhas de crédito para reequilíbrio financeiro das instituições sociais»"
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 6,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não pagas!"
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 6,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» e o apoio ao investimento em obras, no valor total de 187 milhões de euros; reprogramámos as verbas comunitárias para a inclusão social para um total de 193 milhões de euros; assegurámos o reforço financeiro do Programa Operacional Potencial Humano para a construção de equipamentos em que a taxa de comparticipação privada baixou nos projetos de idosos, de 40 para 25%, ou nos projetos para pessoas com deficiência, de 25 para 10%.\nMas, Sr.as e Srs. Deputados, sabemos que nenhum esforço terá sido suficiente enquanto tivermos estes níveis de desemprego. Os indicadores de melhoria têm de chegar ao bolso dos portugueses, têm de se fazer sentir na vida de cada um, e até lá ninguém pode descansar."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 6,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Hoje, os indicadores económicos trazem-nos maior esperança: tivemos um forte crescimento das exportações em 2013, que alcançaram 41,1% do nosso PIB; tivemos a taxa de crescimento das exportações mais elevada da União a 15 países entre o terceiro trimestre de 2011 e o terceiro trimestre de 2013, superando países como a Alemanha, a França ou a Itália — em janeiro de 2014, as exportações de bens voltaram a aumentar 2,3% — ; os indicadores de confiança melhoraram e os indicadores do clima económico seguem em crescendo; e, como não podia deixar de ser, toda esta realidade repercute-se numa melhoria dos níveis de desemprego."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 6,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muitas vezes, esses dados estão errados!"
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 6,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso, refutar os dados da descida do desemprego é desacreditar esta tendência que se vem fazendo sentir na economia, é desvalorizar não o trabalho do Governo, mas o trabalho das empresas e o esforço dos portugueses em conseguir direcionar a sua atividade para superar a crise.\nSegundo os dados do Eurostat, Portugal consolidou a tendência que tem apresentado nestes últimos meses: a taxa de desemprego diminuiu 2,2 pontos percentuais face a fevereiro de 2013, ou seja, de 17,6 para 15,4% e, face a igual período de 2012, houve uma descida de 2 pontos percentuais, o que representa a maior descida do desemprego desde janeiro de 1984. Aliás, segundo dados de hoje da OCDE, Portugal, a par com a"
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS e do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ah!"
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 7,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» e, por isso mesmo, temos de continuar a reforçar o nosso trabalho na área do emprego e da formação profissional.\nNo total das áreas de intervenção do Instituto de Emprego e Formação Profissional (IEFP), há, hoje, mais 140 000 abrangidos do que em 2011, num total de 596 000 portugueses. Mesmo com o desemprego a diminuir nestes últimos trimestres, estes níveis de apoio de resposta e de cobertura têm vindo a aumentar."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 7,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Essas estatísticas não valem nada!"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 7,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Há, hoje, mais de 70 000 pessoas abrangidas por medidas como a Estímulo 2013, por apoios à contratação via reembolso da TSU, por Impulso Jovem ou por apoios à criação de emprego e de empresas, num aumento superior ao ritmo do crescimento do desemprego e que tem vindo a beneficiar muitas famílias portuguesas.\nEm 2013, houve um aumento de 49% das ofertas de trabalho, traduzindo um cenário de procura mais favorável para todos e um aumento de 44% das colocações, dando nota de que a procura se tem conseguido ajustar mais à oferta.\nEm termos financeiros, tem-se assistido a execuções record no Instituto do Emprego e Formação Profissional, com níveis de 96%, o que expressam mais de 700 milhões de euros investidos ao longo de todo o ano de 2013. É um investimento que, como disse, vai paulatinamente colhendo frutos e que queremos que seja mais expressivo, agora que avançamos também com a Garantia Jovem. As ações de esclarecimento, pelo País, sobre a Garantia Jovem já tiveram lugar e, hoje, já temos muitos jovens abrangidos. Neste momento, cerca de 63 000 jovens já estão inseridos na Garantia Jovem, só na área específica do emprego e da formação profissional.\nPretendemos, já em 2014 e em 2015, desenvolver cerca de 378 000 respostas na educação, na formação, na inserção e emprego para os jovens portugueses, num investimento global de 1300 milhões de euros.\nNesse sentido, até ao final do mês de março, lançaremos novas iniciativas no âmbito da Garantia Jovem.\nUma delas, que gostava de aqui falar hoje, é uma nova medida de apoio ao empreendedorismo, que se chamará Invest Jovem e será, de facto, um investimento para os jovens que queiram empreender, que queiram criar o seu próprio posto de trabalho, que tenham uma ideia e a possam, assim, concretizar.\nOutra medida tratará de capacitar social e pessoalmente, durante um período até 12 meses, jovens que tenham baixas qualificações.\nAssim, adquirindo competências e experiência profissional com um conjunto de atividades e formação transversal, vão poder reunir condições muito mais competitivas para ingressarem no mercado de trabalho. A área da formação e da capacitação, nomeadamente para jovens com baixas qualificações e que, por isso mesmo, estão afastados do mercado de trabalho, tem de ser uma prioridade.\nEm paralelo, queremos utilizar fundos comunitários para apoiar aqueles que têm, conjuntamente com o Governo, estas preocupações e que, conjuntamente com o Estado, podem ter medidas que nos ajudem a combater o flagelo do desemprego. Foi o que fizemos ao apoiar, através de fundos comunitários, o projeto da Caritas de Portugal no sentido de fazer um franchising social, um projeto que irá apoiar desempregados de longa duração e também desempregados mais jovens a criarem micronegócios e atividades por conta própria.\nMas não esquecemos aqueles que estão hoje no mercado de trabalho, nomeadamente aqueles que trabalham por si próprios, os trabalhadores independentes.\nPermitam-me que anuncie que, hoje, foi aprovado em Conselho de Ministros a medida que permite que qualquer trabalhador independente que seja devedor à segurança social possa alargar os acordos prestacionais de 120 para 150 meses, tal como já acontece no caso das empresas, e permitir também que"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 8,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Acreditamos que estas medidas vão possibilitar o desafogo necessário a quem quer cumprir com as suas obrigações, ao mesmo tempo que mantém aberta a sua atividade. Estamos, assim, a preservar postos de trabalho que, como já referi, são vitais, neste momento, em Portugal.\nSr.ª Presidente, Sr.as e Srs. Deputados, a terminar, direi o seguinte: cumprindo, conseguiremos evitar um segundo resgate; cumprindo, conseguimos recuperar a nossa autonomia e soberania mais cedo do que muitos diziam há um ano ou há seis meses.\nHoje, discutimos a descida do desemprego e, embora não sejam dados que nos satisfaçam, há uma tendência que efetivamente não existia há meses.\nPortugal tem um caminho longo pela frente, mas tem provado que conseguimos cumprir com as nossas responsabilidades. Acho que é isso que, hoje, os portugueses, mais uma vez, exigem de nós."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "A Mesa registou inscrições de Deputados para fazer perguntas aos oradores que abriram o debate.\nComo eu disse anteriormente, para fazer perguntas ao Sr. Deputado Francisco Lopes, está inscrita a Sr.ª Deputada Maria das Mercês Soares.\nTem a palavra, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 8,
+      "speaker": {
+        "id": 2094,
+        "name": "Maria Das Mercês Gomes Borges Da Silva Soares",
+        "party": "PSD",
+        "string": "A Sr.ª Maria das Mercês Soares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Srs. Ministros e Srs. Secretários de Estado, a quem cumprimento, Sr.as e Srs. Deputados, gostava de saudar o Sr. Deputado Francisco Lopes pelo tema que trouxe a esta Câmara, um tema sempre importante e ao qual não nos furtamos nem viramos a cara à sua abordagem.\nMas, Sr. Deputado Francisco Lopes, deixe-me dizer que trouxe aqui o discurso tremendista, o discurso pessimista, o discurso do «tanto pior, melhor«»"
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 8,
+      "speaker": {
+        "id": 1145,
+        "name": "Adão José Fonseca Silva",
+        "party": "PSD",
+        "string": "O Sr. Adão Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 8,
+      "speaker": {
+        "id": 2094,
+        "name": "Maria Das Mercês Gomes Borges Da Silva Soares",
+        "party": "PSD",
+        "string": "A Sr.ª Maria das Mercês Soares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» e ignorou por completo o esforço, a resiliência, a vontade, o querer e a determinação do povo português. Ignorou por completo!"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 8,
+      "speaker": {
+        "id": 2094,
+        "name": "Maria Das Mercês Gomes Borges Da Silva Soares",
+        "party": "PSD",
+        "string": "A Sr.ª Maria das Mercês Soares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Este povo, ao qual também pertencemos e fazemos tanto gosto nisso, teve determinação e capacidade de lutar. Lutaram as empresas, quando se reestruturaram e conquistaram novos mercados gerando oportunidades de emprego; lutaram os trabalhadores que, ficando numa situação de desemprego, beneficiaram de oportunidades de novas medidas ativas que o Governo criou e que implementou no ano passado de uma forma relevante e significativa criando oportunidades de emprego.\n\nO Sr. Deputado ignorou isso tudo.\nÉ verdade que o desemprego é muito elevado, extremamente elevado, mas também é verdade que o desemprego caiu significativamente, caiu para valores muito relevantes num contexto de uma crise tão forte, tão forte, volto a referir, e o Sr. Deputado ignorou essa baixa do número do desemprego."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 9,
+      "speaker": {
+        "id": 2178,
+        "name": "Artur José Gomes Rêgo",
+        "party": "CDS-PP",
+        "string": "O Sr. Artur Rêgo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 9,
+      "speaker": {
+        "id": 2094,
+        "name": "Maria Das Mercês Gomes Borges Da Silva Soares",
+        "party": "PSD",
+        "string": "A Sr.ª Maria das Mercês Soares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade. Não conseguiram nunca ter essa capacidade de diálogo.\nÉ por isso, Sr. Deputado, que se impõe questioná-lo: perante um ponto de partida tão negativo, para o qual não fomos nós que o desejámos nem construímos, mas que herdámos»"
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 9,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nem assinaram?!"
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 9,
+      "speaker": {
+        "id": 2094,
+        "name": "Maria Das Mercês Gomes Borges Da Silva Soares",
+        "party": "PSD",
+        "string": "A Sr.ª Maria das Mercês Soares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Assinámos, sim, Sr. Deputado. Assinámos um acordo para salvar o País e estamos a trabalhar para salvar o País!"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 9,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está à vista!"
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queira terminar, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 9,
+      "speaker": {
+        "id": 2094,
+        "name": "Maria Das Mercês Gomes Borges Da Silva Soares",
+        "party": "PSD",
+        "string": "A Sr.ª Maria das Mercês Soares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Concluo já, Sr.ª Presidente.\nTanto que estamos a trabalhar para salvar o País que as taxas de juro, hoje, estão ao nível das de 2010. E também o Sr. Deputado se esqueceu disso.\nGostaria apenas de lhe perguntar se o esforço dos portugueses não merece para o Partido Comunista uma referência."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Francisco Lopes."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 9,
+      "speaker": {
+        "id": 2007,
+        "name": "Francisco José De Almeida Lopes",
+        "party": "PCP",
+        "string": "O Sr. Francisco Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr.ª Deputada Mercês Borges, agradeço a questão que colocou.\nOs problemas que aqui trouxemos e que traduzem a realidade vivida pelos trabalhadores e pelo povo português, como é natural, incomodam, exatamente no momento em que o Governo procura criar uma ideia encenada da realidade do País. Mas a verdade dos factos é sentida pelos trabalhadores e pelo povo por esse País fora. Desminta um aspeto, um só que seja, de tudo o que foi dito da tribuna relativamente à realidade económica e social."
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 9,
+      "speaker": {
+        "id": 2007,
+        "name": "Francisco José De Almeida Lopes",
+        "party": "PCP",
+        "string": "O Sr. Francisco Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Cada uma das questões referidas pode ser desmultiplicada em centenas e em milhares de exemplos que são dramas sociais. E chamam a isto o sucesso do Programa de Ajustamento?"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 10,
+      "speaker": {
+        "id": 2144,
+        "name": "Rita Rato Araújo Fonseca",
+        "party": "PCP",
+        "string": "A Sr.ª Rita Rato (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 10,
+      "speaker": {
+        "id": 2007,
+        "name": "Francisco José De Almeida Lopes",
+        "party": "PCP",
+        "string": "O Sr. Francisco Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Chamam a isto o grande êxito?\nSem dúvida que é um grande êxito: diziam combater a dívida e ela aumentou extraordinariamente; diziam preocupar-se com os portugueses e os grupos económicos e financeiros não têm parado de ganhar ao longo dos últimos anos. Para esses é o sucesso do sacrifício, do esforço de milhões de portugueses que veem os seus salários cortados, as suas pensões postas em causa, os serviços põblicos deteriorados» É isso tudo que está em causa.\nEsta realidade tem de ser dita, porque este rumo é suicidário para o País. Já não somos só nós quem o diz: ao contrário do que disse o Sr. Ministro Mota Soares, que se iria recuperar a soberania em maio, é o próprio Presidente da República que diz que a ingerência vai continuar até 2035."
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 10,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 10,
+      "speaker": {
+        "id": 2007,
+        "name": "Francisco José De Almeida Lopes",
+        "party": "PCP",
+        "string": "O Sr. Francisco Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Podemos aceitar um povo e um País condenados a estas amarras, ao empobrecimento e à exploração? Não! Não podemos aceitar.\nEntão, é em função desta realidade concreta que se constrói a alternativa, um caminho novo. Temos confiança nos trabalhadores e no povo português, temos confiança no nosso País e é por isso que aqui colocamos as questões que colocamos e apresentamos uma alternativa."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para fazer perguntas ao Governo, inscreveram-se nove Srs. Deputados. Há também a informação de que o Sr. Ministro, mantendo-se este número de nove perguntas, irá responder a um primeiro grupo de cinco perguntas e depois a outro grupo de quatro perguntas.\nVou indicar os Srs. Deputados que formularão as perguntas. No primeiro grupo, Jorge Machado, pelo PCP, Catarina Marcelino, pelo PS, José Manuel Canavarro, pelo PSD, Mariana Aiveca, pelo Bloco de Esquerda, e José Luís Ferreira, por Os Verdes. No segundo grupo, os Srs. Deputados Artur Rêgo, pelo CDS-PP, Rita Rato, pelo PCP, Mariana Mortágua, pelo Bloco de Esquerda, e David Costa, pelo PCP.\nPelo PCP, e para formular a primeira pergunta, tem a palavra o Sr. Deputado Jorge Machado."
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 10,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr. Ministro, foi hoje mesmo conhecido o veto do Presidente da República ao diploma sobre o aumento da ADSE para os trabalhadores do Estado.\nA primeira pergunta que queríamos aqui deixar é esta: o que é que o Governo vai fazer relativamente a esta matéria? Vai ou não insistir no ataque aos trabalhadores da Administração Pública? Sr. Ministro, ao contrário do que sistematicamente afirma, o País não está melhor: não estão melhor os desempregados; não estão melhor os reformados; não estão melhor os trabalhadores. A grande maioria dos portugueses vive, hoje, muito pior e este Governo e a troica apenas representaram retrocesso nos salários, nos direitos e na qualidade de vida.\n\nO Sr. Ministro pode torcer, contornar e até deturpar as estatísticas do desemprego, mas a verdade é que existem no nosso País 1,4 milhões de trabalhadores desempregados. Só no ano de 2013 foram destruídos 121 000 postos de trabalho e nos últimos dois anos emigraram 250 000 portugueses.\nComo é que o Sr. Ministro pode afirmar que o País está melhor se, por opção deste Governo e depois de várias alterações à lei, apenas 376 000, num universo de 1,4 milhões de trabalhadores desempregados, recebem subsídio de desemprego ou subsídio social de desemprego? Como é que pode dizer que o País está melhor, se o valor médio do subsídio de desemprego, que em maio de 2013 era de 510 €, baixou para os inaceitáveis 478 €, devido aos cortes promovidos por este Governo PSD/CDS-PP?"
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Pelo PS, para formular uma pergunta, tem a palavra a Sr.ª Deputada Catarina Marcelino."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 11,
+      "speaker": {
+        "id": 1972,
+        "name": "Catarina Marcelino Rosa Da Silva",
+        "party": "PS",
+        "string": "A Sr.ª Catarina Marcelino (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr. Ministro, ouvi-o com imensa atenção. Ouvi-o falar de emergência social, ouvi-o falar de cantinas sociais, ouvi-o falar até de um novo paradigma, mas não o ouvi falar das prestações sociais, não o ouvi responder aos portugueses mais pobres, não o ouvi falar de direitos e de cidadania.\nSr. Ministro, tendo o senhor capacidade de tornear sempre as questões, de fugir a elas, mas também de atirar todas as responsabilidades para o passado, queria fazer-lhe uma pergunta concreta sobre prestações sociais, de resposta aos portugueses mais pobres, num período temporal da sua total e inteira responsabilidade.\nDe dezembro de 2013 para janeiro de 2014, 50 000 crianças e jovens, o que corresponde a 35 000 famílias, ficaram sem abono de família; desde junho de 2012, 109 000 beneficiários saíram do rendimento social de inserção e, entre novembro e dezembro de 2013, 15 000 idosos deixaram de receber complemento social para idosos.\nNeste período temporal, da sua total e inteira responsabilidade, sem alterações legislativas significativas nestas prestações, com o País a atravessar a situação de crise em que se encontra, com um decréscimo significativo dos rendimentos das famílias portuguesas — e este decréscimo significativo é por via do desemprego e por via dos baixos salários que, neste momento, as pessoas recebem — , gostaria de saber, Sr.\nMinistro, se acredita que estes números que aqui lhe trago correspondem ao desaparecimento da pobreza extrema no País. É isso que o Sr. Ministro acha? Qual é a sua justificação para estes números? Os senhores dizem que o País está melhor mas que os portugueses estão pior. Eu não percebo como é que estes números surgem nas prestações que correspondem exatamente aos portugueses mais pobres, aqueles que têm mais dificuldades, não consigo compreender e gostava muito que o Sr. Ministro, hoje, perante esta Câmara e perante os portugueses e as portuguesas, nos pudesse explicar."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "A próxima pergunta é do PSD.\nSr. Deputado José Manuel Canavarro, faça favor."
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 11,
+      "speaker": {
+        "id": 2229,
+        "name": "José Manuel De Albuquerque Portocarrero Canavarro",
+        "party": "PSD",
+        "string": "O Sr. José Manuel Canavarro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, cumprimento-a em primeiro lugar, cumprimento também os senhores governantes aqui presentes, as Sr.as e os Srs. Deputados.\nAproveito uma parte da intervenção da Sr.ª Deputada Catarina Marcelino para dizer que realmente Portugal está melhor e está a recuperar. Porém, nunca negámos que continuamos num caminho difícil. Nunca tal se negou, não se negou no passado, não se nega hoje e não se nega que o futuro é difícil. Uma coisa é dizer isso, outra coisa é olhar para a realidade da forma como o Sr. Deputado Francisco Lopes a descreveu e ver nela um mar imenso de dificuldades. Existem dificuldades, mas existem oportunidades; existem sinais positivos que importa destacar, e são esses que eu agora irei destacar."
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 12,
+      "speaker": {
+        "id": 2229,
+        "name": "José Manuel De Albuquerque Portocarrero Canavarro",
+        "party": "PSD",
+        "string": "O Sr. José Manuel Canavarro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Já são muitos os sinais positivos — ténues alguns, outros nem tanto.\nSão eles: os juros mais baixos no mercado secundário; o investimento a crescer e as expectativas de maior crescimento de investimento estrangeiro em Portugal; o desemprego a baixar; as exportações a bom ritmo; a confiança a aumentar — veja-se que as importações aumentaram também e esse é um sinal de confiança por parte dos consumidores e das empresas."
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 12,
+      "speaker": {
+        "id": 2094,
+        "name": "Maria Das Mercês Gomes Borges Da Silva Soares",
+        "party": "PSD",
+        "string": "A Sr.ª Maria das Mercês Soares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 12,
+      "speaker": {
+        "id": 2229,
+        "name": "José Manuel De Albuquerque Portocarrero Canavarro",
+        "party": "PSD",
+        "string": "O Sr. José Manuel Canavarro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mais: a queda do desemprego em Portugal acompanhou a da Irlanda e foram as maiores no espaço da OCDE (não poderemos fazer analogia para outros pontos mas, eu próprio, numa intervenção feita há algum tempo nesta Câmara, quando destacava o começo da recuperação na criação de emprego e diminuição de desemprego na Irlanda, pretendi com isso dizer que também Portugal iria acompanhar esse mesmo progresso).\nPortugal apostou, e bem — e o Sr. Ministro poderá confirmá-lo — , na revitalização do setor primário, na reindustrialização do País, em reformas laborais adequadas, em incentivos ao setor social e a um combate muito forte ao desemprego jovem, com iniciativas desenvolvidas autonomamente e com outras desenvolvidas no quadro europeu, que têm ajudado, e têm que ajudar ainda mais, à melhoria da situação dos jovens desempregados neste País.\nPortanto, o caminho trilhado por Portugal é um caminho positivo. A nossa conjuntura socioeconómica tem melhorado. E este caminho e estes sinais são persistentes; não são sinais ténues, são já uma constelação positiva que importa sublinhar.\nAs visões sobre a realidade são sempre múltiplas, mas a nossa visão sobre a realidade é positiva, é uma visão de que Portugal, estando ainda num caminho difícil, está a melhorar e está a recuperar.\nA pergunta ao Sr. Ministro é muito direta e é sobre um problema que, evidentemente, nos preocupa a todos. Embora o Sr. Ministro tenha adiantado respostas positivas, como ainda agora o fez com o Invest Jovem, com a capacitação de jovens menos qualificados, com a intervenção do setor social nesta realidade, que é a realidade do desemprego jovem, pergunto: no reforço do quadro europeu, o que é que mais poderemos esperar para colmatar, para impedir que o desemprego jovem seja uma realidade que assola ainda tantos portugueses? Este é um aspeto importante e fundamental e, com este aspeto e com a melhoria neste setor, daremos mais um sinal de que as coisas estão a melhorar, porque realmente Portugal está a recuperar, Portugal está a melhorar."
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "A próxima pergunta é do Bloco de Esquerda.\nSr.ª Deputada Mariana Aiveca, faça favor."
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 12,
+      "speaker": {
+        "id": 2247,
+        "name": "Mariana Rosa Aiveca",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Aiveca (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr. Ministro, há um retrato do País, desde que o senhor é governante: 500 000 postos de trabalho destruídos, desde que este Governo tomou posse; um quinto dos trabalhadores mais qualificados emigrou, ou seja, 100 000 por ano, desde que o Governo tomou posse.\nHá, portanto, um descalabro no emprego jovem e há um descalabro no desemprego de longa duração, ambos completamente votados ao abandono. O senhor cortou no subsídio de desemprego e, exatamente por isso, quem recebe subsídio de desemprego é uma ínfima parte daqueles que estão no desemprego e, pior do que isso, alterou regras de apoios sociais que não permitem que estes desempregados tenham qualquer apoio. E vem-nos falar, Sr. Ministro, com pompa e circunstância, que daqui a dois meses o Programa de Ajustamento está completo, ou seja, daqui a dois meses vamos estar libertos deste garrote que o Governo (de que o senhor também faz parte) soube aplicar no País."
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Os Srs. Deputados têm estado a respeitar mais ou menos o tempo regimental, mas, mesmo assim, peço-lhes que respeitem ainda mais.\nA próxima pergunta é de Os Verdes.\nSr. Deputado José Luís Ferreira, faça favor."
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 13,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr. Ministro da Solidariedade, Emprego e Segurança Social, o Sr. Ministro fez uma intervenção na linha do discurso oficial do Governo e da maioria que o suporta, começando logo por dizer: «Não fomos nós que criámos o problema». Ó Sr. Ministro, o mundo não começou em 2011! Os senhores têm muitas responsabilidades governativas antes de 2011."
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 13,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 13,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para além de terem também assinado o tal Memorando com a troica, que o Sr. Ministro diz que está a acabar, mas do qual o Sr. Presidente da República diz que nem em 2035 estaremos livres.\nAliás, Sr. Ministro, o discurso oficial do Governo assenta nos tais sinais positivos que ninguém sente tem por base uma putativa recuperação que ninguém vive, assenta nos tais milagres económicos que ninguém vê, nos tais indicadores económicos, enfim, na ideia de que o País está melhor, quando ninguém, de facto, dá por isso.\nEntretanto, descendo à terra, o que vemos? Os portugueses continuam a empobrecer desesperadamente.\nAssistem à continuação dos cortes nos seus salários, pensões e direitos, à degradação dos serviços públicos, a uma carga fiscal nunca vista, a números do desemprego verdadeiramente intoleráveis, a uma vaga de emigração a fazer lembrar os tempos do fascismo e com os estudantes a abandonarem os estudos por motivos económicos e com os doentes a deixarem de ir ao hospital porque não têm dinheiro sequer para o transporte, cortando até na medicação porque a verba não dá para semelhantes «luxos».\nDescendo à terra, só o Governo parece não querer ver que, apesar dos sacrifícios, o País está mais pobre, mais dependente e mais endividado. O PIB continua a cair, a dívida pública a crescer e a economia não há meio de arrancar.\nO Governo, apesar de tudo, continua a falar de sinais positivos, enquanto as famílias continuam a fazer contas à vida para fazer face aos aumentos dos preços dos bens essenciais, nomeadamente da eletricidade e do gás.\nOs idosos são remetidos à pobreza e à exclusão social e muitas crianças estão até a conhecer a fome, no nosso País. Isto é uma vergonha! Mas, Sr. Ministro, se a situação é realmente como o Governo a pinta, se as coisas estão tão bem como o Sr. Ministro disse hoje aqui, há uma pergunta que se impõe: «Mas os portugueses Senhor, por que lhes dais tanta dor?! Por que padecem assim?!». Esta é a pergunta que tem de ser feita. É que se está tudo muito bem, por que é que continuam os sacrifícios? Por que é que continuam os cortes e a carga fiscal? E por que é que o"
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder a este conjunto de cinco Srs. Deputados, tem a palavra o Sr. Ministro da Solidariedade, Emprego e Segurança Social."
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 14,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, se me permite vou separar as respostas em dois grupos, de forma a permitir que o Governo tenha mais intervenções neste debate.\nAssim sendo, começo por responder ao Sr. Deputado Jorge Machado e, nesse sentido, também à Sr.ª Deputada Mariana Aiveca e ao Sr. Deputado José Luís Ferreira. Parece-me que estes três grupos parlamentares não perceberam o ponto de partida no qual Portugal foi colocado no ano de 2011."
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD e do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 14,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ah, nós ç que não percebemos!»"
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 14,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portugal foi obrigado a pedir assistência externa, em abril de 2011, pela gravíssima razão de que estava a poucas semanas de não poder pagar os seus compromissos mais básicos e essenciais,»"
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 14,
+      "speaker": {
+        "id": 1405,
+        "name": "Sónia Ermelinda Matos Da Silva Fertuzinhos",
+        "party": "PS",
+        "string": "A Sr.ª Sónia Fertuzinhos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso é falso!"
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 14,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» como, por exemplo, o pagamento de salários e de prestações sociais, o que originaria uma rutura financeira do Estado português, com consequências que seriam sempre muito gravosas e mais gravosas para aqueles que são os mais fracos e os mais carenciados."
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 14,
+      "speaker": {
+        "id": 1405,
+        "name": "Sónia Ermelinda Matos Da Silva Fertuzinhos",
+        "party": "PS",
+        "string": "A Sr.ª Sónia Fertuzinhos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso é falso!"
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 14,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Penso que estes três grupos parlamentares nunca reconheceram essa evidência. E é exatamente por isso que continuam a falar como se Portugal não tivesse um dçfice para corrigir, não tivesse uma dívida para pagar»"
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 14,
+      "speaker": {
+        "id": 2134,
+        "name": "Pedro Filipe Gomes Soares",
+        "party": "BE",
+        "string": "O Sr. Pedro Filipe Soares (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como se Portugal não tivesse pobreza»!"
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 14,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» e não soubesse que sempre que haja mais défice, isso, como é óbvio, origina mais dívida."
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 14,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 14,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ora, gostaria de ser muito claro com as Sr.as e os Srs. Deputados: enquanto Portugal viver debaixo desta assistência externa, se não fosse o dinheiro que recebemos dos empréstimos, Portugal não teria forma de pagar as suas prestações sociais, os seus compromissos mais básicos."
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 14,
+      "speaker": {
+        "id": 2134,
+        "name": "Pedro Filipe Gomes Soares",
+        "party": "BE",
+        "string": "O Sr. Pedro Filipe Soares (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E o BPN?! E as PPP?!"
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 15,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ora, perante isto, o que é que esses três grupos parlamentares dizem? Dizem: «Rasgue-se o Memorando de Entendimento, saiam de cá os credores!»."
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 15,
+      "speaker": {
+        "id": 1405,
+        "name": "Sónia Ermelinda Matos Da Silva Fertuzinhos",
+        "party": "PS",
+        "string": "A Sr.ª Sónia Fertuzinhos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tanta demagogia!"
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 15,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Acho que é fundamental percebermos que, enquanto Portugal não se conseguir financiar por si próprio nos mercados — e, se Deus quiser, será a muito breve trecho que recuperaremos essa mesma capacidade — , não poderemos dispensar a ajuda externa e a ajuda da União Europeia.\nNesse sentido, sermos parte da União Europeia, sermos parte de uma zona tão importante como a zona euro, dá-nos um conjunto de responsabilidades, nomeadamente aquelas que têm a ver com o cumprimento das regras do tratado orçamental, que foram, aliás, aprovadas por uma larga maioria de Deputados nesta Câmara.\nQual seria a consequência das políticas, das propostas destes três grupos parlamentares? Que Portugal saísse do euro, o que me parece não ser claramente a opção de todos os portugueses."
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 15,
+      "speaker": {
+        "id": 2247,
+        "name": "Mariana Rosa Aiveca",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Aiveca (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E o salário mínimo?!"
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 15,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Permitam-me também que responda a algumas questões concretas aqui colocadas."
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 15,
+      "speaker": {
+        "id": 2134,
+        "name": "Pedro Filipe Gomes Soares",
+        "party": "BE",
+        "string": "O Sr. Pedro Filipe Soares (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O salário mínimo!"
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 15,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Primeiro, sobre a questão do desemprego, acho que importa realçarmos, mais uma vez, que, por exemplo, a OCDE reconheceu, hoje, que Portugal e a Irlanda foram os países onde o desemprego mais desceu nos últimos cinco meses. Digo isto numa lógica em que, como é óbvio, estes dados têm de dar confiança e esperança aos portugueses, mas efetivamente não podem fazer qualquer um de nós baixar os braços,»"
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 15,
+      "speaker": {
+        "id": 2178,
+        "name": "Artur José Gomes Rêgo",
+        "party": "CDS-PP",
+        "string": "O Sr. Artur Rêgo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Claro!"
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 15,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» pois o desemprego continua a ser a maior preocupação social e económica das famílias, em Portugal.\nMas, nesse sentido, queria também dizer a estas bancadas da oposição que retirar o mérito destes indicadores não ç retirar o mçrito ao Governo,»"
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 15,
+      "speaker": {
+        "id": 2136,
+        "name": "Pedro Nuno De Oliveira Santos",
+        "party": "PS",
+        "string": "O Sr. Pedro Nuno Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É mérito dos portugueses, não vosso!"
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 15,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» porque, como ç óbvio, quem gere postos de trabalho é a economia, são as empresas. Esse mérito, nesse sentido, é o mérito dos portugueses, é o mérito dos empresários e dos trabalhadores. E tentar, de alguma forma, desvalorizar esse mérito é pôr em causa esta enorme capacidade de resiliência e de trabalho que a sociedade portuguesa demonstrou nos últimos três anos."
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 15,
+      "speaker": {
+        "id": 1405,
+        "name": "Sónia Ermelinda Matos Da Silva Fertuzinhos",
+        "party": "PS",
+        "string": "A Sr.ª Sónia Fertuzinhos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tanta demagogia!"
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 15,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso mesmo, do ponto de vista do Governo, sabemos que não podemos descansar e que temos de continuar a ajudar, nomeadamente, através da promoção de medidas ativas de emprego e do estímulo à contratação. Ora, é exatamente isso que o Instituto do Emprego e Formação Profissional tem vindo a fazer, importando referir que, só no ano de 2013, houve uma subida de 44% de colocações por parte do IEFP,»"
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 16,
+      "speaker": {
+        "id": 2247,
+        "name": "Mariana Rosa Aiveca",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Aiveca (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Trabalho a tempo parcial!"
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 16,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» o que certamente será muito importante para todos os portugueses, nomeadamente para os mais jovens, que conseguiram essa mesma colocação.\nRelativamente às questões, que agradeço, colocadas pela Sr.ª Deputada Catarina Marcelino, gostaria de lhe lembrar, Sr.ª Deputada, que uma das matérias que tive o cuidado de frisar na minha intervenção foi exatamente a do aumento das pensões mínimas, sociais e rurais.\nÉ um direito de 1,1 milhões de pensionistas em Portugal, pensionistas com uma idade muito avançada, pensionistas que trabalharam muito e que não descontaram para sistemas sociais, pois estes nem sequer existiam quando eles estavam a trabalhar, pensionistas que tiveram, nestes últimos três anos, um aumento de 5,2% nas suas pensões,»"
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 16,
+      "speaker": {
+        "id": 2247,
+        "name": "Mariana Rosa Aiveca",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Aiveca (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E o salário mínimo?!"
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 16,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» o que representa uma mçdia de cerca de 160 €/ano para cada um destes pensionistas, os quais, no ano de 2011, viram as suas pensões ser congeladas. O Governo de então, Sr.ª Deputada, entendeu que, do ponto de vista social, era justo pedir a estes portugueses que fizessem um sacrifício adicional, em matçria de consolidação orçamental,»"
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 16,
+      "speaker": {
+        "id": 1972,
+        "name": "Catarina Marcelino Rosa Da Silva",
+        "party": "PS",
+        "string": "A Sr.ª Catarina Marcelino (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Responda à questão!"
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 16,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» mas nós dissemos muito claramente que isso não seria possível.\nGostaria ainda, Sr.ª Deputada, de lhe responder a duas questões muito importantes e se, eventualmente, não conseguir responder a todas as questões, fá-lo-ei na ronda seguinte.\nA primeira questão diz respeito ao abono de família. Como sabe, o abono de família é uma prestação social sujeita a condição de recursos e sujeita a prova de rendimentos. Acontece este ano, como todos os anos, que quem não entrega a sua prova de rendimentos vê a sua prestação ser suspensa, mas essa prestação é retomada. É por isso, Sr.ª Deputada, que, em janeiro de 2014, tal como em janeiro de 2013, tal como em janeiro de 2012, tal como em janeiro de 2011, tal como em todos os meses de janeiro, há uma diminuição do número de beneficiários, que, depois, é reposto.\nMas, para a contrariar, gostaria de lhe dizer, Sr.ª Deputada, que houve uma mudança efetiva nas regras do abono de família. Essa mudança, feita por este Governo, permitiu a reavaliação, passados três meses, dos rendimentos das famílias,»"
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 16,
+      "speaker": {
+        "id": 2178,
+        "name": "Artur José Gomes Rêgo",
+        "party": "CDS-PP",
+        "string": "O Sr. Artur Rêgo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem lembrado!"
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 16,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» e conseguiu incluir no abono de família cerca de mais 40 000 famílias, o que é certamente muito relevante para quem tem filhos a cargo e vê nesta prestação um apoio muito importante."
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Seguem-se as perguntas de mais quatro Srs. Deputados, o primeiro dos quais é o Sr. Deputado Artur Rêgo, do CDS-PP.\nTem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 17,
+      "speaker": {
+        "id": 2178,
+        "name": "Artur José Gomes Rêgo",
+        "party": "CDS-PP",
+        "string": "O Sr. Artur Rêgo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr. Ministro, o Deputado Francisco Lopes disse uma grande verdade na sua intervenção, a de que nós tivemos praticamente uma década de estagnação, seguida de uma recessão profunda e violenta, que foi a maior registada desde sempre. \nO Sr. Deputado Francisco Lopes afirmou isso na sua intervenção e eu não posso deixar de concordar.\nO problema, depois, foi não ter tirado as devidas conclusões. É que, quando este Governo tomou posse, essa década já vinha de trás e essa recessão já vinha a galope em cima da governação socialista. Ora, o Memorando de Entendimento foi pedido precisamente para Portugal não chegar ao ponto de o Estado português passar pela vergonha de não ter sequer dinheiro para pagar e assumir os seus compromissos, nomeadamente, com os reformados e com as prestações sociais."
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 17,
+      "speaker": {
+        "id": 2251,
+        "name": "Michael Lothar Mendes Seufert",
+        "party": "CDS-PP",
+        "string": "O Sr. Michael Seufert (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 17,
+      "speaker": {
+        "id": 2178,
+        "name": "Artur José Gomes Rêgo",
+        "party": "CDS-PP",
+        "string": "O Sr. Artur Rêgo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Foi essa a conclusão que o Sr. Deputado Francisco Lopes não tirou.\nE, a partir daí, há outra coisa que a oposição aqui esquece, obnubila, relativamente à qual lhe dá um lapso de memória, que é esta: se o ponto de partida foi este, como o próprio Sr. Deputado aqui admitiu, o ponto em que estamos agora é — e ainda bem — substancialmente diferente,»"
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 17,
+      "speaker": {
+        "id": 2007,
+        "name": "Francisco José De Almeida Lopes",
+        "party": "PCP",
+        "string": "O Sr. Francisco Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É pior!"
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 17,
+      "speaker": {
+        "id": 2178,
+        "name": "Artur José Gomes Rêgo",
+        "party": "CDS-PP",
+        "string": "O Sr. Artur Rêgo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» fruto de dois anos e meio de governação deste Governo."
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 17,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 17,
+      "speaker": {
+        "id": 2178,
+        "name": "Artur José Gomes Rêgo",
+        "party": "CDS-PP",
+        "string": "O Sr. Artur Rêgo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Assim: o desemprego desceu;»"
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 17,
+      "speaker": {
+        "id": 2007,
+        "name": "Francisco José De Almeida Lopes",
+        "party": "PCP",
+        "string": "O Sr. Francisco Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não, não! Aumentou!"
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 17,
+      "speaker": {
+        "id": 2178,
+        "name": "Artur José Gomes Rêgo",
+        "party": "CDS-PP",
+        "string": "O Sr. Artur Rêgo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» aumentou o nõmero de empregos; a produção industrial, este ano, foi a maior da União Europeia."
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 17,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 17,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É falso!"
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 17,
+      "speaker": {
+        "id": 2178,
+        "name": "Artur José Gomes Rêgo",
+        "party": "CDS-PP",
+        "string": "O Sr. Artur Rêgo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Eu escusava de estar aqui a repetir tudo isto que já foi aqui dito.\nSr.ª Presidente, gostaria de ter alguma possibilidade de continuar."
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor de prosseguir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 17,
+      "speaker": {
+        "id": 2178,
+        "name": "Artur José Gomes Rêgo",
+        "party": "CDS-PP",
+        "string": "O Sr. Artur Rêgo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como dizia, eu escusava de estar aqui a repetir, até à exaustão, todos esses fatores.\nTermino este aspeto, dizendo apenas o seguinte: no ano passado, em 2013, foram criadas, em Portugal, mais de 13 000 novas empresas. Mas empresas que não são balcões virtuais, que não se criaram sem trabalhadores, têm pessoas a atender.\nPortanto, a tese de que não se criou novo emprego e não se diminuiu o desemprego cresce, pela própria natureza das coisas, como água em terreno desértico, isto é, não dá nada. Os senhores não conseguem sequer fundamentar aquilo que estão a dizer, porque a realidade desmente-vos."
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Rita Rato."
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 18,
+      "speaker": {
+        "id": 2144,
+        "name": "Rita Rato Araújo Fonseca",
+        "party": "PCP",
+        "string": "A Sr.ª Rita Rato (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr. Ministro da Solidariedade, Emprego e Segurança Social, três anos depois da assinatura do pacto da troica pelo PS, PSD e CDS e da aplicação de cada uma das suas medidas pelo seu Governo, não há retórica de sinais positivos que possa esconder a realidade concreta de uma política de empobrecimento e de miséria.\nSenão vejamos: 54,5% das crianças vive em famílias com rendimentos agregados de menos de 628 €.\nMais de 13 000 crianças estão sinalizadas nas escolas como tendo carências alimentares graves. Só em janeiro, mais de 50 000 crianças perderam o abono de família. \nO Sr. Ministro pode vir dizer que é pela prova escolar, mas a verdade é que estas famílias ficaram mais pobres e a responsabilidade é do seu Governo.\nMilhares de crianças com necessidades especiais não têm apoios e muitas centenas aguardam, desde outubro, a atribuição do subsídio de educação especial para pagar terapias. Diga aqui às milhares de famílias que estão hoje desesperadas se vai devolver o subsídio da educação especial ou não. Assuma aqui, se tiver coragem, esse compromisso, Sr. Ministro! O Governo PSD e CDS é responsável pela negação de direitos fundamentais a milhares de crianças e jovens. O Governo PSD e CDS é responsável direto pelo agravamento da exploração e da exclusão social.\nSr. Ministro, diga-nos se nas viagens que tem feito pela nossa terra já contabilizou quantos pobres são precisos para fazer um rico. Quantos abonos de família cortou para alimentar os lucros dos grupos económicos? Quantos subsídios de educação especial cortou para pagar os juros agiotas da dívida? Quantas terapias e apoios especiais cortou para pagar as PPP? Quantas bonificações por deficiência reduziu para pagar swaps? Quantos técnicos da segurança social, que fazem falta nas comissões de proteção de crianças e jovens, deixou de colocar para pagar os lucros dos grupos económicos e financeiros? Sobre o embuste da natalidade, diga-nos lá, Sr. Ministro, se manter 500 000 trabalhadores a receber o salário mínimo nacional, abaixo do limiar da pobreza, é uma medida de incentivo à natalidade? Se impor 12 horas de trabalho diário é um estímulo à natalidade? Se impor trabalho ao sábado, ao domingo e aos feriados permite a articulação da vida familiar e profissional? Se a emigração de 250 000 portugueses é compatível com a necessidade de aumento da natalidade? Não é, Sr. Ministro, e o seu Governo sabe bem disso."
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Mariana Mortágua, do Bloco de Esquerda."
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 19,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr. Ministro da Solidariedade, Emprego e Segurança Social, ficamos a pensar em que país é que o Sr. Ministro vive. Vem aqui tentar ensaiar uma suposta discussão de apoio ao emprego jovem, de combate ao desemprego jovem e perde-se nas suas contradições e do seu Governo.\nPrimeiro mandaram todos os jovens emigrar. E hoje a geração mais qualificada deste País já não está em Portugal.\nDepois, cortaram o financiamento à escola, o financiamento à investigação, e agora vêm dizer que vão dar apoio à formação, para combater o desemprego.\nAntes e durante destruíram toda a economia, destruíram centenas de milhares de postos de emprego e agora vêm dizer aos jovens: «Desenrasquem-se! Vão vender pipocas para a rua! E, se não conseguirem vender pipocas, a culpa é vossa. Não foram empreendedores o suficiente. Não foram criativos o suficiente.\nNão foram eficientes o suficiente. A culpa é vossa!» É esta a estratégia do Governo! Sr. Ministro, tenho a dizer-lhe que não há nenhuma falta de estágios e de formação para a geração mais qualificada do País. Há é falta de emprego. Não há falta de empreendedorismo. Há é falta de emprego. Não há mais emprego. Há é mais emigração. Não há mais emprego. Há é mais subemprego, há é mais precariedade no País. Trabalho parcial, é esse o emprego que está ou diz estar a criar.\nOs frutos da estratégia do Governo são o aumento de 40% do trabalho temporário. A maior parte destas pessoas não recebe sequer o salário mínimo, recebe salários abaixo dos 500€ por mês. Os frutos da estratégia do Governo são milhares de pessoas que trabalham no Continente, no Pingo Doce, nos supermercados deste País, turnos de quatro horas. Quatro horas por dia, em turnos rotativos, para não poderem encontrar um outro trabalho, por 300 € por mês! É este o trabalho criado. Os frutos da estratçgia do Governo são contratos a prazo em que os jovens trabalham por 500 € ou 600 €, seis meses após seis meses, com medo de dizer ao patrão o que pensam porque vão ser despedidos nos próximos seis meses, porque não têm qualquer estabilidade.\nSr. Ministro, que País é este? Acha que este é um País melhor do que tínhamos há três anos? Acha que este é um País onde algum jovem queira viver, queira constituir família, queira levar a sua vida para a frente, queira ter um futuro? Sr. Ministro, tenha a coragem de vir dizer aos jovens que enfrentam toda esta precariedade que o País e o seu futuro em Portugal está melhor e que podem constituir aqui alguma perspetiva e fazer alguns planos de ter um futuro melhor do que os seus pais tiveram."
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado David Costa, do PCP."
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 19,
+      "speaker": {
+        "id": 2189,
+        "name": "David Jorge Ribas Da Costa",
+        "party": "PCP",
+        "string": "O Sr. David Costa (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: O Governo pode continuar a fazer propaganda mas, em concreto, o que realmente subsiste é uma tremenda realidade para os portugueses.\nO desemprego atinge níveis incomportáveis e ainda assim continuam a ser despedidos todos os dias dezenas e dezenas de trabalhadores. São os casos dos 127 trabalhadores da Kemet que, num processo de despedimento coletivo, veem os seus postos de trabalho deslocalizados para o México; dos trabalhadores da Moviflor, empresa envolvida num plano especial de revitalização que atira para o despedimento mais de 200 trabalhadores; da Trecar, em São João da Madeira, ou das empresas do sector têxtil e mobiliário em Barcelos, Famalicão e Fafe."
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Ministro da Solidariedade, Emprego e Segurança Social."
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 20,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr.as e Srs. Deputados, se me permitirem, irei responder a uma questão colocada pelo Bloco de Esquerda ainda no primeiro bloco de perguntas, para a qual há pouco, infelizmente, não tive tempo, que é a questão do salário mínimo nacional.\nSr.ª Deputada, gostaria de dizer-lhe que o Governo considera que a questão do salário mínimo nacional deve ser discutida, em primeira instância, na sede própria, com os parceiros sociais em concertação social."
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Já foi!"
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 20,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Do ponto de vista da economia, do ponto de vista das empresas, pois é aí que são efetivamente pagos estes salários, não é o Estado que os paga."
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 20,
+      "speaker": {
+        "id": 2247,
+        "name": "Mariana Rosa Aiveca",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Aiveca (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Também paga!"
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 20,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sucede que no Memorando de Entendimento original, assinado pelo anterior Governo, como a Sr.ª Deputada sabe, estava uma cláusula que dizia que esta matéria tinha de ser sujeita a consulta prévia da troica.\nTalvez a Sr.ª Deputada agora perceba melhor a diferença entre Portugal estar ou não sob assistência financeira. Para quem diz que a partir de maio as coisas continuam exatamente iguais, talvez aqui tenha um bom exemplo, Sr.ª Deputada, do que é recuperar a nossa autonomia e a nossa soberania como ela deve ser lida num país europeu no século XXI.\nMas quero dizer-lhe mais, Sr.ª Deputada. Este Governo não acredita num modelo de desenvolvimento da nossa economia assente em salários baixos, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 20,
+      "speaker": {
+        "id": 2247,
+        "name": "Mariana Rosa Aiveca",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Aiveca (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Então, vai subi-los!"
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 20,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Solidariedade, Emprego e Segurança Social",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso mesmo, esta é uma das matérias que queremos discutir, em sede de concertação social, com os parceiros sociais, mas também, já gora, Sr.ª Deputada, dizendo que não há qualquer obrigação por parte das empresas de pagarem o salário mínimo. Hoje, qualquer empresário que queira pagar acima do salário mínimo pode fazê-lo. Efetivamente, não há qualquer proibição nesse sentido.\nMas, para nós, é fundamental discutirmos esta matéria em primeira instância com os parceiros sociais e é isso que queremos fazer."
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Passamos agora às intervenções.\nEstão já inscritos, pelo PS, o Sr. Deputado Vieira da Silva, pelo PSD, o Sr. Deputado Nuno Reis e, pelo PCP, o Sr. Deputado Bruno Dias.\nPara a primeira intervenção, tem a palavra o Sr. Deputado Vieira da Silva."
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Vieira da Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Presidente, Sr.ª e Srs. Membros do Governo, Sr.as e Srs. Deputados: Nas vésperas de terminar o período de assistência financeira a Portugal, vale a pena procedermos a um balanço da situação do País, da sua economia e da situação social.\nO balanço objetivo e sério situação da economia portuguesa permite-nos salientar algumas verdades baseadas nos factos e apenas nos factos: os objetivos de redução do défice das contas públicas estão longe do que foi acordado; a dívida pública está bem acima do referido no Memorando; o crescimento económico é bem inferior ao projetado; o desemprego é claramente mais elevado."
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Vieira da Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Enfrentar o futuro com o emprego ao nível do século passado é o sinal do fracasso de uma política e de um Governo."
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Vieira da Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Enfrentar o futuro com o investimento ao nível dos anos 80 do século XX é o sinal do fracasso de uma política e de um Governo."
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Vieira da Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Diz, desde há algum tempo, o Governo que a culpa é do Programa, que estava mal desenhado. Longe vão os tempos e as vozes que o glorificavam como obra maior da inspiração da direita.\nMas cabe perguntar: então e as múltiplas e sucessivas mudanças no Memorando serviram para quê? A estratégia de ir para além da troica serviu para quê? A duplicação da austeridade serviu para quê? A resposta é clara: a estratégia da austeridade expansionista que em tempos que já lá vão alimentava os discursos do Governo deu nisto: uma recessão mais forte, um desemprego mais alto, um empobrecimento da maioria da população portuguesa e as metas por cumprir.\nCom mais ou menos propaganda, não há maneira de dar a volta: este é o resultado de opções de política que têm nome e rosto, os de Passos Coelho e de Paulo Portas, acompanhados, talvez com incómodo, pela sombra de Vítor Gaspar.\nSr.ª Presidente, Sr.as e Srs. Deputados: A verdade sobre o futuro tem de ser debatida em Portugal e na Europa, para além dos cálculos eleitorais, nacionais ou europeus.\nNão é possível recuperar a economia e devolver a esperança amarrados a uma estratégia de divergência prolongada com a Europa. Não são os subscritores do manifesto dos 70 que o afirmam, é o próprio Fundo Monetário Internacional que o ameaça: a dimensão da nossa divida não é gerível com uma estratégia de mais do mesmo."
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 23,
+      "speaker": {
+        "id": 2136,
+        "name": "Pedro Nuno De Oliveira Santos",
+        "party": "PS",
+        "string": "O Sr. Pedro Nuno Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Vieira da Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Condenar Portugal a um longo período de desinvestimento nos fatores criadores de competitividade e crescimento, recuar na educação e na ciência, fragilizar a coesão social, não é nem pode ser o único caminho. Manter uma penalização do investimento na economia portuguesa e nas nossas empresas significa prolongar o afastamento da média europeia.\nHá hoje um coro pré-eleitoral, por essa Europa fora, que afirma que a crise do euro está ultrapassada.\nUltrapassada como? Quando há uma Europa que cresce e outra que se afasta, quando há um euro que serve o centro da Europa e um erro no euro que empurra o sul e a periferia para a divergência, no desemprego, no rendimento das famílias, nas desigualdades, como é que está ultrapassada a crise do euro?! Não, não é esta a Europa pela qual tantos lutaram, pela qual tantos ambicionaram.\nTem de haver outro caminho, um caminho que exija responsabilidade mas que garanta solidariedade, que imponha rigor mas que assegure resultados."
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Vieira da Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Há hoje um verdadeiro imperativo nacional: dar voz a um consenso que se faz não com a imposição de caminhos únicos e obrigatórios mas com escolhas que os cidadãos compreendam."
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 23,
+      "speaker": {
+        "id": 1152,
+        "name": "Alberto De Sousa Martins",
+        "party": "PS",
+        "string": "O Sr. Alberto Martins (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Vieira da Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "E esse caminho, esse consenso de que agora alguns tanto falam quando dele se esqueceram num passado bem próximo, não se faz insistindo na política de divisão e culpabilização: mais cortes nas pensões, mais cortes nos salários, menor proteção laboral, menos educação e saúde mais longe dos mais frágeis. Esse caminho não pode gerar nenhum consenso em Portugal.\nEste é o Governo que chega a propor medidas que nem os supostos beneficiários afirmam desejar. Quem optou por duplicar a austeridade com a arrogância de quem possui a verdade científica, quem o fez sem procurar nenhum consenso, não tem hoje legitimidade para apelar a consensos que mais não são do que um apelo à subscrição de uma política e da sua ortodoxia.\nForam estas, foram vossas as opções que romperam com qualquer hipótese de consenso.\nPrecisamos de compromissos e a sociedade portuguesa deu e dá mostras de que está disponível para o construir. Quem está fora desse espírito de compromisso — e desde ontem ainda mais — é este Governo, não é o Partido Socialista, não são os parceiros sociais, não é a maioria da sociedade portuguesa.\nA austeridade reforçada para este ano, mais para 2015, como é a proposta do Governo, significa aprofundar o empobrecimento, mas significa também afastar ainda mais os cidadãos da Europa e das políticas feitas em seu nome.\nPara quem, como nós, fez da Europa um dos pilares da nossa vida democrática, insistir nessa via significa também empobrecer a democracia."
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 23,
+      "speaker": {
+        "id": 2039,
+        "name": "João Saldanha De Azevedo Galamba",
+        "party": "PS",
+        "string": "O Sr. João Galamba (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Vieira da Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Estou certo de que há uma grande maioria que recusa esse caminho, uma maioria que quer outro compromisso, outra esperança. É com essa maioria que o Partido Socialista quer estar, como sempre esteve, especialmente nos momentos difíceis, nos momentos em que até aparenta ser mais fácil não questionar as forças que parecem, e tantas vezes o fazem, comandar as nossas vidas, mas é para tal que aqui estamos, certos que não estamos sós."
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Não se registam perguntas na Mesa, pelo que, para uma intervenção, tem a palavra o Sr. Deputado Nuno Reis."
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 24,
+      "speaker": {
+        "id": 2258,
+        "name": "Fernando Nuno Fernandes Ribeiro Dos Reis",
+        "party": "PSD",
+        "string": "O Sr. Nuno Reis (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: Há quem, partindo da realidade, a enfrente em todas as suas dimensões e procure as melhores soluções possíveis para os problemas; há quem prefira esconder-se ou esconder a realidade, adotando uma postura desresponsabilizante e contemplativa face aos problemas; há ainda quem, pura e simplesmente, perante uma realidade que contradiz as suas convicções mais profundas, prefira torcer e retorcer os dados de modo a conformá-los não à realidade mas à sua ideologia, evitando, assim, pôr em causa os seus dogmas mais profundos.\nPor isso, não deixa de ser irónico que o PCP, talvez o partido que mais acusa o Governo de tomar opções não em função da realidade mas da ideologia, a desvalorizar uma realidade que, essa sim, põe em causa a sua ideologia.\nEsta semana, por proposta do PSD, uma delegação da Assembleia visitou unidades de saúde em Trás-osMontes: o Hospital de Chaves, o Hospital de Vila Real, o Hospital de Bragança, o Centro de Saúde de Vila Real e o Centro de Saúde de Mirandela.\nDeparámo-nos com desafios como a falta de médicos em algumas especialidades hospitalares, em particular no caso do Hospital de Chaves. Registámos os desejos naturais de maior investimento em equipamentos, como, por exemplo, num segundo acelerador linear ou num angiógrafo para Vila Real. Desejos de mais financiamento, apesar de ser reconhecido que, só nos últimos dois anos, por exemplo, a Unidade Local de Saúde (ULS) do Nordeste foi beneficiada com mais de 40 milhões de euros de dotação extraordinária, os quais serviram em parte para pagamento de dívida.\nSão preocupações compreensíveis, que alguns lutarão por ver efetivamente concretizadas e que outros se limitarão a usar como arma de arremesso.\nConstatamos igualmente a existência de administrações conscientes das responsabilidades e, acima de tudo, profissionais motivados e dedicados à causa pública. Trata-se de unidades de cuidados de saúde primários dignas e funcionais e de um novo investimento de substituição em andamento, no caso de Vila Real.\nMas, sobretudo, são cuidados de saúde primários que em termos de qualidade e de acesso estão ao nível do que de melhor há no País. A taxa de cobertura de utentes do Serviço Nacional de Saúde por médico de família está acima dos 97%.\nÉ por essas e por outras que existe um desfasamento entre a pretensa realidade que alguns se afadigam em transmitir, recorrendo, à exaustão, a situações pontuais que estão, felizmente, longe de retratar todo um Serviço Nacional de Saúde.\nBem sabemos que há um calendário de manifestações. Bem sabemos que há outras formas de contestação a serem preparadas. Bem sabemos que haverá uma escalada de iniciativas políticas da oposição, até pela proximidade das eleições europeias, mas não nos desviemos do essencial.\nNesta interpelação é preciso que se diga, com todas as letras, que, da mesma forma que «uma árvore não faz uma floresta», também a realidade do SNS não se faz de um ou outro caso pontuais, graves com certeza, que devem ser investigados até às últimas consequências quanto à eventual responsabilidade dos envolvidos, mas que de forma alguma são o retrato de todo um universo.\nSr.ª Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: É verdade — e devemos dizê-lo — que 70% do esforço de austeridade pedido a Portugal na área da saúde ficou a cargo dos fornecedores, como a indústria farmacêutica, a distribuição ou os prestadores convencionados."
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 25,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "V. Ex.a é um ignorante!"
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 25,
+      "speaker": {
+        "id": 2258,
+        "name": "Fernando Nuno Fernandes Ribeiro Dos Reis",
+        "party": "PSD",
+        "string": "O Sr. Nuno Reis (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É que esconder-se atrás da realidade ou dela dar uma imagem parcelar, ao mesmo tempo que se fala em alternativas miríficas, faz-nos pensar que o que alguns verdadeiramente desejariam era um País em que 20% dos hospitais não tivessem água canalizada quente, 3% nem sequer água canalizada fria e que, devido à falta de investimento e manutenção, 23% dos hospitais estivessem numa tal situação que necessitassem de ser reconstruídos.\nSim, Sr.as e Srs. Deputados do Partido Comunista Português, era precisamente este o quadro dos serviços de saúde na União Soviética em 1989, como bem retrata a Organização Mundial de Saúde num dos seus relatórios sobre sistemas de saúde. Realidades como essa, Sr.as e Srs. Deputados, nós não queremos como modelo."
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 26,
+      "speaker": {
+        "id": 2178,
+        "name": "Artur José Gomes Rêgo",
+        "party": "CDS-PP",
+        "string": "O Sr. Artur Rêgo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Teresa Caeiro."
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 26,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr. Deputado Nuno Reis, gostaria de começar por saudá-lo por ter trazido a esta Câmara uma discussão tão importante como é a da visão distorcida que os partidos da oposição têm sobre a política de saúde e a situação do Serviço Nacional de Saúde."
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 26,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "De facto, não há pior do que preconceitos políticos e ideológicos toldarem uma visão da realidade.\nHoje em dia, temos um Serviço Nacional de Saúde com menos desperdício, com menos chefia, com menos fraude, com mais transparência, com mais médicos, com maior acesso a cuidados de saúde, com maior acesso a medicamentos.\nSr.as e Srs. Deputados, para que oiçam um pouco, em vez de estarem sempre a gritar e não tendo resposta objetiva para nos dar, vou dar apenas alguns exemplos que gostaria que comentassem.\nAproveitando a presença do Sr. Secretário de Estado Adjunto do Ministro da Saúde, saúdo a tutela pelo facto de ter feito um despacho que permite que todas as colonoscopias feitas no Serviço Nacional de Saúde passem a ser feitas com recurso a sedação."
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 26,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isto será, certamente, um estímulo para que não haja aquele fator dissuasor que leva tantas pessoas a não fazerem este rastreio tão importante.\nMas dou apenas alguns exemplos, Sr. Deputado Nuno Reis, que demonstram a boa vontade e o empenho deste Governo em garantir a continuidade do Serviço Nacional de Saúde e a sua sustentabilidade: o pagamento, que já aqui foi tantas vezes referido, de dívidas que foram contraídas do passado e que ascendiam a mais de 3000 milhões de euros;»"
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 26,
+      "speaker": {
+        "id": 2178,
+        "name": "Artur José Gomes Rêgo",
+        "party": "CDS-PP",
+        "string": "O Sr. Artur Rêgo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 26,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» o investimento de 600 milhões de euros em maior capacidade instalada, e quando digo isto falo em unidades de saúde familiares, investimentos em infraestruturas, no sentido de haver maior acesso, por parte da população, aos cuidados de saúde; o aumento do capital social dos hospitais EPE (Entidades Públicas Empresariais) em 426 milhões de euros, para saírem do sufoco em que encontravam, e o perdão de juros na ordem dos 25 milhões de euros a esses mesmos hospitais; e o acordo com a indústria farmacêutica, que permitiu, em 2012, uma redução dos encargos para os hospitais de 300 milhões de euros e, em 2014, de 122 milhões de euros.\nSr.as e Srs. Deputados, os investimentos em medicamentos inovadores nunca foram tão grandes como até agora. Vou dar-vos um exemplo: em 2011, foram investidos 55,9 milhões de euros; em 2012, 74 milhões de euros; e estima-se que até ao fim de 2013 se tenha investido em medicamentos inovadores cerca de 100 milhões de euros."
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 26,
+      "speaker": {
+        "id": 2178,
+        "name": "Artur José Gomes Rêgo",
+        "party": "CDS-PP",
+        "string": "O Sr. Artur Rêgo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 166,
+      "order": 166,
+      "page_start": 27,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.as e Srs. Deputados, isto é uma política de saúde à séria: reformar, ser mais equitativo, encontrar onde há desperdício, permitindo proporcionar aos cidadãos os cuidados de que necessitam.\nSó para acabar, Sr.ª Presidente, relembro que nunca o acesso aos medicamentos em geral foi tão fácil e tão acessível como agora para os utentes. É evidente que o Estado poupa, mas o utente também poupa."
+    },
+    {
+      "utterance_id": 167,
+      "order": 167,
+      "page_start": 27,
+      "speaker": {
+        "id": 2178,
+        "name": "Artur José Gomes Rêgo",
+        "party": "CDS-PP",
+        "string": "O Sr. Artur Rêgo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E muito!"
+    },
+    {
+      "utterance_id": 168,
+      "order": 168,
+      "page_start": 27,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sabem que os utentes pouparam, nos últimos dois anos, 210 milhões? Foram menos 210 milhões que os utentes deixaram de gastar na compra de medicamentos. Já não há aquele dilema a que assistimos anteriormente em que as pessoas tinham de escolher entre a alimentação e a medicação."
+    },
+    {
+      "utterance_id": 169,
+      "order": 169,
+      "page_start": 27,
+      "speaker": {
+        "id": 2007,
+        "name": "Francisco José De Almeida Lopes",
+        "party": "PCP",
+        "string": "O Sr. Francisco Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Agora é que é!"
+    },
+    {
+      "utterance_id": 170,
+      "order": 170,
+      "page_start": 27,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sabem que mais, Sr.as e Srs. Deputados? Apesar desta redução dos encargos para o bolso dos utentes, foram consumidas cerca de 9 milhões de embalagens de medicamentos, o que também não é necessariamente um bom sinal. Mas o facto é que puderam ter acesso à medicação."
+    },
+    {
+      "utterance_id": 171,
+      "order": 171,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 172,
+      "order": 172,
+      "page_start": 27,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.as e Srs. Deputados, Sr. Deputado Nuno Reis, estes são apenas alguns exemplos que a oposição não quer ver, não quer encarar."
+    },
+    {
+      "utterance_id": 173,
+      "order": 173,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Nuno Reis."
+    },
+    {
+      "utterance_id": 174,
+      "order": 174,
+      "page_start": 27,
+      "speaker": {
+        "id": 2258,
+        "name": "Fernando Nuno Fernandes Ribeiro Dos Reis",
+        "party": "PSD",
+        "string": "O Sr. Nuno Reis (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr.ª Deputada Teresa Caeiro, trouxe mais alguns dados do que aqueles que há pouco tinha adiantado, mas o que é essencial, por vezes, é colocar os números em perspetiva para percebemos de que estamos a falar.\n\nA Sr.ª Deputada Teresa Caeiro trouxe o exemplo da poupança direta que os utentes do Serviço Nacional de Saúde tiveram com os medicamentos, no caso, acima dos 200 milhões de euros. Só esse valor, Sr.ª Deputada, é mais do que aquilo que o Estado, nos últimos dois anos, cobrou em taxas moderadoras aos utentes que não estão isentos, que foi de 150 milhões de euros.\nEsse valor que a Sr.ª Deputada adiantou também é, se quiser, um valor da mesma ordem de grandeza daquele que o Estado poupará com a política de combate à fraude que nos últimos dois anos tem vindo a ser seguida pelo atual Governo, e é também superior, em ordem de grandeza, àquilo que o Estado cobrou aos utentes que não estão isentos de taxas moderadoras.\nMas, Sr.ª Deputada Teresa Caeiro, mais do que falar de números, é importante percebermos o que é a preocupação das pessoas. E a preocupação das pessoas é que os serviços de saúde consigam dar, efetivamente, uma resposta.\nDesta visita que fizemos a Trás-os-Montes muitos teriam sido os exemplos que poderíamos trazer, mas gostava de lhe dar um: dos 147 000 utentes servidos pela unidade local de saúde do nordeste, 142 000 têm médico de família. Apesar de todos os constrangimentos e de ainda haver carência de recursos humanos, a verdade é que só nos últimos dois anos foram contratados mais 13 médicos especialistas; a verdade é que, apesar de todas as carências, só nesta unidade de saúde foram contratados dois pediatras e ainda foram feitas obras que eram necessárias, naturalmente não aquelas que todos gostaríamos que fossem viabilizadas mas aquelas que foi possível fazer.\nApesar de tudo, apesar dos constrangimentos que existem e que não negamos, o sistema conseguiu dar resposta. Só nesta unidade de saúde, Sr.ª Deputada Teresa Caeiro, há mais 8,6% de cirurgias, mais 10,5% de"
+    },
+    {
+      "utterance_id": 175,
+      "order": 175,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Bruno Dias."
+    },
+    {
+      "utterance_id": 176,
+      "order": 176,
+      "page_start": 28,
+      "speaker": {
+        "id": 1187,
+        "name": "Bruno Ramos Dias",
+        "party": "PCP",
+        "string": "O Sr. Bruno Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: Os senhores vão repetindo à exaustão essa verdade oficial da direita que diz que o País está muito melhor.\nOs senhores falam e governam, de facto, a pensar nos mais ricos e poderosos, que continuam a ganhar com o empobrecimento do povo português. Para esses, talvez seja verdade que o País esteja melhor, talvez até eles digam que isto nunca esteve tão bom, mas vão perguntar aos trabalhadores, aos reformados, aos micro e pequenos empresários, aos agricultores, aos pescadores deste País! Perguntem aos reformados se estão melhor com estes cortes nas pensões ou aos trabalhadores do sector público, confrontados com um esbulho nos salários ainda maior do que antes e a pagarem, cada vez mais, por bens e serviços essenciais.\nDesde 2011, quando os senhores tomaram posse, aumentaram cinco vezes os preços dos transportes. Já vai em 26% de aumento em três anos, fora o efeito da extinção dos passes para estudantes 14_18 e sub23 ou dos passes para reformados.\nAs tarifas da eletricidade, pelo sétimo ano consecutivo, voltaram a aumentar acima da inflação. Para muitas famílias e para pequenas empresas, os aumentos não foram os 2,9% anunciados, foram antes de 8, ou 9%, ou mais! O aumento acumulado é de 14% em sete anos, mas com o aumento do IVA, que os senhores aprovaram — passou de 5 para 23% — , então, o agravamento do preço final foi muito maior.\nNos bancos, a situação é infame, com as pessoas e as pequenas empresas a serem esmagadas. A comissão média para uma conta de 250 euros terá aumentado mais de 40% em seis anos. Para as MPME, (micro, pequenas e médias empresas), há uma quebra continuada do financiamento. A banca vai espremendo a nossa economia, apesar dos milhões que encaixou do Orçamento do Estado, como voltou a acontecer, recentemente, com mais 510 milhões de euros que o Governo deu para cobrir as operações de lixo tóxico do BPN.\nQuando os Srs. Membros do Governo e os Srs. Deputados fazem esse discurso é certamente a pensar nestes banqueiros ou nos patrões da grande distribuição, que sobem no campeonato dos milionários com os milhões que «amassaram» dos seus trabalhadores, dos pequenos e médios produtores, dos contribuintes.\nPara esses milionários, o País está certamente muito melhor.\nEstará melhor o País de quem enriquece na Bolsa de Valores, onde as ações dos CTT, privatizados em dezembro, já valorizaram mais de 31% e onde os lucros aumentaram 70%, para 61 milhões de euros, sendo que desses 60 são distribuídos em dividendos.\nEntretanto, no Vale da Amoreira, esta terça-feira, quem fosse levantar a sua pensão, a sua reforma, saía dos correios com «as mãos a abanar» porque não havia dinheiro. De facto, para o Deutsche Bank e para o Goldman Sachs, Portugal estará muito melhor, mas para os utentes dos CTT, para os trabalhadores e para o povo a realidade é outra.\nPor isso, reafirmamos que o País são as pessoas que aqui vivem, mais as pessoas que daqui saem, porque os senhores as expulsam, porque o País é feito por quem trabalha, por quem trabalhou uma vida inteira, por quem quer trabalhar mas não tem emprego, por quem estuda e vê o futuro adiado.\nOs senhores dizem que o País está melhor porque pensam que o País se habitua à pobreza, à emigração, ao abandono. Estão enganados! O País há de ficar muito melhor, sim, porque os senhores e a vossa política serão derrotados pela luta de quem se recusa «a comer e a calar»."
+    },
+    {
+      "utterance_id": 177,
+      "order": 177,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Guilherme Silva)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Luís Ferreira."
+    },
+    {
+      "utterance_id": 178,
+      "order": 178,
+      "page_start": 29,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Apesar da conversa do Governo, dos sinais positivos, do milagre da recuperação, da luz ao fundo do túnel, da ideia de que «o pior já passou», a verdade é que mesmo perante o brutal universo de sacrifícios que este Governo impôs à generalidade dos portugueses, com cortes nos salários e nas pensões, com um aumento brutal dos impostos sobre quem trabalha e com cortes nas prestações sociais, o PIB continua a cair, a dívida pública continua a crescer, a economia continua em «banho-maria» e o Governo continua a semear desemprego.\nMais de 300 000 postos de trabalho já foram destruídos desde que este Governo tomou posse. É obra! De facto, é muita obra! Mas, mais grave: um em cada dois desempregados não tem hoje acesso a qualquer prestação de desemprego; são multidões, são muitas as pessoas que este Governo força para a emigração; mais de 400 000 trabalhadores assalariados vivem com um salário mínimo que continua sem ser atualizado desde 2011; as pessoas mais pobres ficaram mais pobres com a aumento do universo de pessoas a quem este Governo retirou os magros apoios sociais — o abono de família foi retirado a 650 000 crianças e jovens e 200 000 beneficiários ficaram sem o rendimento social de inserção.\nNa saúde, assistimos, só este ano, a cortes de 300 milhões de euros, que, certamente, vão agravar a situação que já era má. Há unidades de saúde que estão a cortar despesas essenciais por falta de verbas. O acesso aos cuidados de saúde é dificultado através do aumento do valor das taxas moderadoras, dos custos com as deslocações por motivos médicos, dos custos dos meios complementares de diagnóstico e da redução da comparticipação no preço dos medicamentos.\nTudo isto numa altura de elevado nível de desemprego, de precariedade laboral e de diminuição do nível de vida médio.\nEste Governo recusa-se a aprender com os erros, porque, de facto, errar é mau, mas pior do que errar é não aprender com os erros, porque já há muito se percebeu que estas políticas, assentes na austeridade e nos sacrifícios impostos aos portugueses, estão a agravar os motivos que lhes deram suporte e estão a contribuir para aumentar a dívida pública.\nDe facto, a dívida pública que, em 2009, era de 89% acabou por disparar para os 129% do PIB no final de 2013. Nos últimos 3 anos, a dívida pública aumentou 36,3%. Isto devia ser suficiente para se perceber que este não é o caminho.\nÉ preciso pôr o País a produzir. É preciso apostar na nossa produção e dinamizar a procura interna, seja através da reposição e do aumento dos salários, seja através do aumento do investimento.\nE se não há dinheiro para o investimento, porque o que há é para pagar os juros da dívida, então, renegocie-se a dívida para ser possível canalizar recursos para a nossa produção e, assim, criar riqueza, que é a única forma, aliás, de um povo pagar o que deve.\nSem renegociação da dívida, a resposta aos problemas do défice orçamental e da dívida pública vai continuar a ser procurada exclusivamente na austeridade e, como se viu até aqui, em vez de resolver os problemas, a austeridade agrava-os, ao mesmo tempo que continua a degradação dos serviços públicos, o alastrar do desemprego, a emigração em massa, a permanência dos cortes salariais e das pensões e a manutenção da brutal carga fiscal sobre os rendimentos do trabalho.\nPortugal termina o período da troica com uma dívida que não é sustentável nem possível de ser paga e que continua a ser um autêntico entrave a uma política de desenvolvimento.\nCom estas políticas e com este Governo, não vamos lá, nem sequer em 2035."
+    },
+    {
+      "utterance_id": 179,
+      "order": 179,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Guilherme Silva)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Secretário de Estado Adjunto e da Saúde."
+    },
+    {
+      "utterance_id": 180,
+      "order": 180,
+      "page_start": 30,
+      "speaker": {
+        "id": 3130,
+        "name": "Paulo Macedo",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto do Ministro da Saúde (Fernando Leal da Costa)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Com esta interpelação, o PCP dá-nos oportunidade de vir esclarecer a Assembleia sobre alguns aspetos que persistem em serem esquecidos por quem tem insistido em denegrir o Serviço Nacional de Saúde.\nOra, o Serviço Nacional de Saúde, ao contrário do que a oposição persiste em dizer, tem respondido às solicitações e tem indicadores que demonstram a sua vitalidade e a garantia da sua sustentabilidade.\nÉ verdade que encontrámos um sistema financeiramente moribundo, padecendo de males diversos que, num contexto de dificuldades, comprometiam a sua sobrevivência.\nNum ambiente de restrição orçamental obrigatória, com dificuldades em encontrar os meios humanos com as especializações necessárias e ainda com défices de organização e de praxis, que tivemos de abordar e tratar, o Governo tem continuado a assegurar o direito à proteção na saúde através de um serviço público de elevada qualidade.\nO êxito do Serviço Nacional de Saúde é o êxito de políticas públicas que a democracia tem sabido seguir e que, agora, adquiriram uma dimensão de maior qualidade, podendo ser avaliadas, como nunca antes o tinham sido, através de instrumentos de monitorização desenhados para esse efeito.\nAntes de persistirem em críticas injustas e mal dirigidas ao SNS que, em primeiro lugar, atingem quem todos os dias trabalha para os outros, deveriam publicamente agradecer a quem esforçadamente dá o melhor de si a todos nós.\nSejamos honestos: é prematuro falar já em impactos mensuráveis da crise económica no estado de saúde das populações, como será prematuro afirmar que os bons indicadores que vos vou lembrar, desde já, confirmam que as nossas políticas impediram todos os efeitos potenciais de uma crise de cariz económico e social complexo na saúde da nossa população.\nNo entanto, os dados que vos vou fornecer demonstram, isso sim, que o desmantelamento do Serviço Nacional de Saúde, por que VV. Ex.as da oposição tanto pugnaram, não aconteceu e não vai acontecer.\nSr. Presidente e Srs. Deputados: Desde junho de 2011, entraram em funcionamento mais 105 USF A (Unidade de Saúde Familiar), 50 passaram a B, abrimos 86 UCC (Unidade de Cuidados na Comunidade), 24 UCSP (Unidade de Cuidados de Saúde Personalizados), 35 URAP (Unidade de Recursos Assistenciais Partilhados) e 1 USP (Unidade de Saúde Pública). Foram mais 251 unidades, Srs. Deputados — 251 unidades! De janeiro de 2013 a janeiro deste ano, diminuímos o número de utentes sem médico de família para 11% do total de utentes, o que corresponde a ter menos 412 000 pessoas sem médico de família. Nunca antes isto tinha sido conseguido.\nInaugurámos 14 centros de saúde e 9 extensões de saúde. Desde 2011, houve a abertura de uma unidade hospitalar em cada seis meses e completámos com a abertura do Centro de Reabilitação do Norte, há tantos anos prometido, a rede de reabilitação.\nO número de cirurgias efetuadas no SNS em 2013 foi o maior de sempre, com uma taxa crescente de cirurgia ambulatória. Os dados do SIGIC (Sistema de Gestão de Inscritos para Cirurgia) referentes ao primeiro semestre de 2013 mostram que o número de cirurgias efetuadas foi o maior registado no semestre, incluindo o tratamento de neoplasias, e com o mais baixo tempo de sempre de espera para uma cirurgia, excetuando-se a cirurgia oncológica, onde a procura continua a crescer mais do que o número de procedimentos efetuados.\nEm 2013 houve uma forte recuperação da atividade de transplantação, com mais 116 órgãos colhidos e mais 109 transplantações do que em 2012."
+    },
+    {
+      "utterance_id": 181,
+      "order": 181,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Guilherme Silva)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveram-se cinco Deputados para pedirem esclarecimentos. \nO Sr. Secretário de Estado informará a Mesa acerca de como pretende responder.\nPara pedir esclarecimentos, tem a palavra a Sr.ª Deputada Paula Santos."
+    },
+    {
+      "utterance_id": 182,
+      "order": 182,
+      "page_start": 31,
+      "speaker": {
+        "id": 2123,
+        "name": "Paula Alexandra Sobral Guerreiro Santos Barbosa",
+        "party": "PCP",
+        "string": "A Sr.ª Paula Santos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo e Srs. Deputados: Não adianta o Governo apregoar que está a salvaguardar o Serviço Nacional de Saúde quando a realidade mostra exatamente o contrário: os factos evidenciam o desinvestimento do Governo na saúde.\nÉ inaceitável que o Governo fale em discriminação positiva na saúde quando encerra serviços e valências nas unidades hospitalares, como o desmantelamento do Hospital Pulido Valente; quando se verifica a sobrelotação de serviços hospitalares, nomeadamente no Hospital Amadora-Sintra; quando faltam metade das camas de cuidados intensivos para o tratamento de doentes críticos; quando os hospitais recusam tratar doentes que não são da sua área de residência.\nPor exemplo, o Centro Hospitalar Lisboa Central decidiu, a 5 de fevereiro, e passo a citar: «proibir a inscrição para primeiras consultas a doentes que não pertençam à área de influência direta dos hospitais desta instituição». E, pasme-se, Sr. Secretário de Estado, nesse mesmo dia «um doente enviado de um hospital do Alentejo, em cadeira de rodas, foi recambiado para a sua área de origem à espera de autorização do Conselho de Administração»."
+    },
+    {
+      "utterance_id": 183,
+      "order": 183,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Guilherme Silva)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Como o Sr. Secretário de Estado pretende responder em conjunto, dou a palavra à Sr.ª Deputada Catarina Marcelino, para pedir esclarecimentos."
+    },
+    {
+      "utterance_id": 184,
+      "order": 184,
+      "page_start": 32,
+      "speaker": {
+        "id": 1972,
+        "name": "Catarina Marcelino Rosa Da Silva",
+        "party": "PS",
+        "string": "A Sr.ª Catarina Marcelino (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, não consigo compreender para quem é que os senhores estão a falar e de que é que estão a falar, porque os senhores falam de uma realidade e quando vamos aos locais verificamos outra realidade! A realidade do Serviço Nacional de Saúde em Portugal é, neste momento, preocupante. É uma situação que preocupa os portugueses e as portuguesas que vão ao Serviço Nacional de Saúde e não encontram resposta: unidades de cuidados continuados que não abrem, extensões de saúde que estão fechadas, pessoas que não têm médico de família. Estamos a regredir à década de 80! Ora, regredir à década de 80 não é aceitável num país do século XXI.\nSr. Secretário de Estado, gostava de lhe fazer algumas perguntas concretas.\nDisse que abriram 14 centros de saúde e nove extensões de saúde. E eu pergunto: quantas fecharam? Dou-lhe o exemplo da extensão de saúde da Trafaria, que fechou, e da extensão de saúde da Costa da Caparica, que está a rebentar pelas costuras, sem resposta para as pessoas, e ainda o do Hospital Garcia da Horta, que tem gente à espera nas urgências, com fitas azuis e verdes horas a fio. Gostava, pois, Sr.\nSecretário de Estado, que me dissesse, concretamente, quantas extensões de saúde fecharam. Diga-me, concretamente, quantos hospitais estão sem reforço nas equipas das urgências e em que os profissionais de saúde estão todos os dias a dar o seu melhor e a trabalhar com dificuldades.\nSr. Secretário de Estado, relativamente às unidades de cuidados continuados, gostava de lhe perguntar quando é que abrem as 17 unidades que estão prontas e fechadas, financiadas também com dinheiro público.\nO próprio Presidente da União das Misericórdias Portuguesas veio alertar para esta questão. As unidades estão fechadas e não abrem. No ano passado abriram 10, estão 17 por abrir, pelo que lhe pergunto, Sr.\nSecretário de Estado, quando vão abrir.\nEssas unidades são fundamentais para libertar camas nas enfermarias dos hospitais e permitem que pessoas que estão nas urgências, muitas vezes em macas, tempo a fio à espera, possam ter camas condignas nas enfermarias dos hospitais.\nSr. Secretário de Estado, os senhores podem vir aqui pintar de cor de rosa o filme que entenderem relativamente ao Serviço Nacional de Saúde. Tendo em conta a pergunta feita pela Sr.ª Deputada do CDS ao Sr. Deputado do PSD, até gostava de perguntar ao Governo e à maioria se os senhores fazem reuniões de autoconvencimento. Os senhores pensam que é assim que convencem um País, cujos serviços de saúde não dão resposta e em que pessoas idosas que estão em casa não têm transportes para ir aos serviços de saúde"
+    },
+    {
+      "utterance_id": 185,
+      "order": 185,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Guilherme Silva)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Helena Pinto."
+    },
+    {
+      "utterance_id": 186,
+      "order": 186,
+      "page_start": 33,
+      "speaker": {
+        "id": 2204,
+        "name": "Helena Maria Moura Pinto",
+        "party": "BE",
+        "string": "A Sr.ª Helena Pinto (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado Adjunto do Ministro da Saúde, o senhor seguiu o mesmo caminho da maioria PSD/CDS-PP, que, sempre que se fala sobre o Serviço Nacional de Saúde e sobre os problemas de saúde dos portugueses e das portuguesas, responde com aquilo a que já se chama «a chuva de números». Os senhores referem números, números, números, percentagens, percentagens, percentagens, como que criando uma barreira para tentar iludir a realidade que está por detrás desses números. E essa realidade são pessoas — homens, mulheres, novos, velhos, crianças! Ora, é sobre esses e sobre as suas dificuldades de acesso aos serviços de saúde que temos de falar.\nSr. Secretário de Estado, pode dizer os números que entender, mas há uma realidade indesmentível: há muita gente sem médico de família, há muita dificuldade em comprar medicamentos, aumentou o tempo de espera para a realização de exames, aumentou o número de doentes oncológicos operados fora do prazo clinicamente recomendado. Aliás, o Sr. Secretário de Estado acabou de reconhecer esse facto nas estatísticas, facto que é extremamente importante.\nSr. Secretário de Estado, os senhores dizem que existem menos de 412 000 pessoas sem médico de família, mas o senhor não falou da operação administrativa dos ficheiros nos diversos centros de saúde, que originou que muitos utentes fossem excluídos. Aquilo a que o Sr. Secretário de Estado tem de responder é ao facto de o saldo entre os médicos que entram e os médicos que saem do Serviço Nacional de Saúde continuar negativo."
+    },
+    {
+      "utterance_id": 187,
+      "order": 187,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Guilherme Silva)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada, queira terminar."
+    },
+    {
+      "utterance_id": 188,
+      "order": 188,
+      "page_start": 33,
+      "speaker": {
+        "id": 2204,
+        "name": "Helena Maria Moura Pinto",
+        "party": "BE",
+        "string": "A Sr.ª Helena Pinto (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Termino já, Sr. Presidente.\nQuando o seu Governo tomou posse o que é que disse? Disse que até ao final da Legislatura iria resolver o problema dos utentes sem médico de família. Ora, estamos a um ano do final da Legislatura, pelo que tem de responder a essa questão. O que é que o Governo vai fazer? Eu sei que o Governo falhou, mas agora é o Sr. Secretário de Estado que tem de dizê-lo."
+    },
+    {
+      "utterance_id": 189,
+      "order": 189,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Guilherme Silva)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Carla Cruz."
+    },
+    {
+      "utterance_id": 190,
+      "order": 190,
+      "page_start": 33,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr. Secretário de Estado Adjunto do Ministro da Saúde, a realidade é a degradação da prestação de cuidados de saúde: a diminuição de apoios ao transporte de doentes não urgentes; dificuldades no acesso a tratamentos e a exames complementares de diagnóstico; aumento brutal das taxas moderadoras; redução do número de profissionais no SNS.\nReconhecemos o empenho dos profissionais do SNS; são eles que salvaguardam o SNS e não a política do Governo."
+    },
+    {
+      "utterance_id": 191,
+      "order": 191,
+      "page_start": 33,
+      "speaker": {
+        "id": 2144,
+        "name": "Rita Rato Araújo Fonseca",
+        "party": "PCP",
+        "string": "A Sr.ª Rita Rato (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 192,
+      "order": 192,
+      "page_start": 33,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Há muitas carências de assistentes técnicos e de assistentes operacionais nos cuidados de saúde primários, como é o caso do ACES Cávado III-Barcelos/Esposende."
+    },
+    {
+      "utterance_id": 193,
+      "order": 193,
+      "page_start": 34,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É uma vergonha!"
+    },
+    {
+      "utterance_id": 194,
+      "order": 194,
+      "page_start": 34,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Secretário de Estado, por causa desta situação ficaram por realizar exames e cuidados básicos, como vigiar estados de consciência, sinais de dificuldade respiratória, sinais vitais e de dor.\nSão vários os doentes com VIH/SIDA a quem não é dispensada a totalidade da medicação em vários hospitais do País.\nSr. Secretário de Estado, com os exemplos que acabamos de dar, diga lá se a prestação de cuidados de saúde está a ser garantida e se se está a salvaguardar o Serviço Nacional de Saúde."
+    },
+    {
+      "utterance_id": 195,
+      "order": 195,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Guilherme Silva)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Teresa Caeiro."
+    },
+    {
+      "utterance_id": 196,
+      "order": 196,
+      "page_start": 34,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado Adjunto do Ministro da Saúde, gostaria de, em primeiro lugar, dizer aos Srs. Deputados da oposição que fizeram aqui intervenções tão inflamadas que não é por se apregoar e insistir tantas vezes em mentiras que elas se tornam realidade."
+    },
+    {
+      "utterance_id": 197,
+      "order": 197,
+      "page_start": 34,
+      "speaker": {
+        "id": 2204,
+        "name": "Helena Maria Moura Pinto",
+        "party": "BE",
+        "string": "A Sr.ª Helena Pinto (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Apoiado! Isso é verdade para o Governo!"
+    },
+    {
+      "utterance_id": 198,
+      "order": 198,
+      "page_start": 34,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E não vale a pena os senhores virem apregoar que o Serviço Nacional de Saúde está moribundo quando os indicadores e a realidade mostram exatamente o contrário.\nQueria também dizer-vos, com toda a franqueza, Srs. Deputados da oposição, que se julgam donos do SNS, dando até a entender que os só os senhores é que se preocupam com o Serviço Nacional de Saúde.\nNão sei com que legitimidade é que os senhores dizem isso! Já agora, aproveito para perguntar à Sr.ª Deputada Catarina Marcelino onde é que foi buscar os indicadores de retrocesso aos anos 80 de que falou. É capaz de nos fornecer alguma indicação nesse sentido? A bem da transparência destes debates, e para não serem só frases inflamadas, gostaria que me desse alguns elementos, que partilharemos com todas as bancadas, que demonstrem que em 2014 houve um retrocesso aos anos 80 em todos os indicadores que aqui foram referidos.\n\nA Sr.ª Deputada Helena Pinto acusa-nos de referirmos números, mas o problema é que, durante muitos anos, não havia números, não havia a transparência que nos mostrasse qual era o tempo de espera médio, qual era o número de pessoas com ou sem médico de família.\nNeste momento, posso dizer-lhe que há, exatamente, 9 106 865 utentes com mçdico de família»"
+    },
+    {
+      "utterance_id": 199,
+      "order": 199,
+      "page_start": 34,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 200,
+      "order": 200,
+      "page_start": 34,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» e no fim do governo anterior havia 1 milhão de portugueses sem médico de família, como a Sr.ª Deputada bem se lembrará."
+    },
+    {
+      "utterance_id": 201,
+      "order": 201,
+      "page_start": 35,
+      "speaker": {
+        "id": 2204,
+        "name": "Helena Maria Moura Pinto",
+        "party": "BE",
+        "string": "A Sr.ª Helena Pinto (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E agora quantos são? Faça lá as contas!"
+    },
+    {
+      "utterance_id": 202,
+      "order": 202,
+      "page_start": 35,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, os números refletem realidades. E digo-vos mais: não vale a pena estar a repetir todos os avanços que a política de saúde deste Governo promoveu, porque já foram referidos."
+    },
+    {
+      "utterance_id": 203,
+      "order": 203,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Guilherme Silva)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queira terminar, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 204,
+      "order": 204,
+      "page_start": 35,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, vou concluir com uma frase: foram realizadas algumas reformas históricas que estavam para ser feitas há dezenas de anos. E sabem porquê, Sr.as e Srs. Deputados? Porque o governo socialista não teve coragem para as fazer."
+    },
+    {
+      "utterance_id": 205,
+      "order": 205,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ora bem!"
+    },
+    {
+      "utterance_id": 206,
+      "order": 206,
+      "page_start": 35,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Cortou-se nos interesses, fizeram-se reformas que eram necessárias, combateu-se o desperdício e a fraude.\nOs senhores nunca foram capazes de ver que havia médicos que trabalhavam em três sítios ao mesmo tempo e à mesma hora!"
+    },
+    {
+      "utterance_id": 207,
+      "order": 207,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "E agora não?!"
+    },
+    {
+      "utterance_id": 208,
+      "order": 208,
+      "page_start": 35,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso foi uma coisa em que os senhores nunca quiseram intervir.\nOs senhores nunca tiveram coragem para instituir uma política do medicamento, que é a prescrição pelo princípio ativo. E porquê? Porque não interessava aos mais poderosos. Mas isso permitiu que tantos e tantos portugueses tivessem mais acesso aos medicamentos de que necessitam."
+    },
+    {
+      "utterance_id": 209,
+      "order": 209,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Guilherme Silva)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Secretário de Estado Adjunto do Ministro da Saúde."
+    },
+    {
+      "utterance_id": 210,
+      "order": 210,
+      "page_start": 35,
+      "speaker": {
+        "id": 3130,
+        "name": "Paulo Macedo",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto do Ministro da Saúde",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, começo por agradecer as perguntas que me colocaram, pois vão dar-me a oportunidade de, mais uma vez, esclarecer alguns dados que, pelos vistos, terão sido dificilmente compreendidos por várias pessoas da oposição.\nSr.ª Deputada Catarina Marcelino, de facto, de epidemiologia não deve saber muito, porque se soubesse verificaria que nenhum dos dados que referiu são comparáveis aos dos anos 80. É que não há qualquer possibilidade de comparação. E sobre essa matéria podemos falar a seguir.\nHá uma matéria que é relevante e sistemática nas intervenções da oposição: repetem as mesmas mentiras que nós acabámos de rebater."
+    },
+    {
+      "utterance_id": 211,
+      "order": 211,
+      "page_start": 35,
+      "speaker": {
+        "id": 2204,
+        "name": "Helena Maria Moura Pinto",
+        "party": "BE",
+        "string": "A Sr.ª Helena Pinto (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É exatamente como o Governo!"
+    },
+    {
+      "utterance_id": 212,
+      "order": 212,
+      "page_start": 35,
+      "speaker": {
+        "id": 3130,
+        "name": "Paulo Macedo",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto do Ministro da Saúde",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Srs. Deputados, é absolutamente extraordinário que, depois de apresentarmos números, de nos esforçarmos por tornar transparente a realidade, de sermos objetivos, de termos acabado com a política do mais ou menos — anteriormente era tudo mais ou menos, agora sabemos exatamente do que estamos a tratar, sabemos o que estamos a fazer, sabemos quais são os progressos — , os senhores continuem na mesma, pelo que vou esforçar-me por explicar de novo.\nSrs. Deputados, em matéria de encerramento de extensões, encerrámos aquelas em que, manifestamente, em termos de eficiência, não se justificava o prejuízo que causava aos utentes manterem-se abertas. Sr.ª Deputada Helena Pinto, essa é a verdade factual. Da mesma maneira, em termos de cuidados continuados, a"
+    },
+    {
+      "utterance_id": 213,
+      "order": 213,
+      "page_start": 36,
+      "speaker": {
+        "id": 2204,
+        "name": "Helena Maria Moura Pinto",
+        "party": "BE",
+        "string": "A Sr.ª Helena Pinto (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ai é?"
+    },
+    {
+      "utterance_id": 214,
+      "order": 214,
+      "page_start": 36,
+      "speaker": {
+        "id": 3130,
+        "name": "Paulo Macedo",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto do Ministro da Saúde",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nós fomos capazes de contratar profissionais a um nível como mais ninguém fez na Administração Pública pois, além de absorver todos os médicos licenciados para o internato, fomos ainda capazes de contratar, só no ano passado, 980 profissionais de saúde, mais 480 enfermeiros e 504 médicos.\nNão saiu ninguém por nossa vontade, Sr.ª Deputada! Quanto à questão do enfermeiro de família, não perderão pela demora, porque rapidamente estará pronto.\nE, já agora, para que saibam, na questão do VIH/SIDA, se é verdade que eu próprio tenho reconhecido que a situação não é a ideal em alguns hospitais, posso dizer-vos que, neste momento, como brevemente divulgaremos, é melhor do que no ano passado. E, acima de tudo, ainda não vos ouvi, nem mais ou menos, Srs. Deputados,»"
+    },
+    {
+      "utterance_id": 215,
+      "order": 215,
+      "page_start": 36,
+      "speaker": {
+        "id": 2204,
+        "name": "Helena Maria Moura Pinto",
+        "party": "BE",
+        "string": "A Sr.ª Helena Pinto (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ah! Mais ou menos!"
+    },
+    {
+      "utterance_id": 216,
+      "order": 216,
+      "page_start": 36,
+      "speaker": {
+        "id": 3130,
+        "name": "Paulo Macedo",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto do Ministro da Saúde",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» pedir aos jovens para que usem mais frequentemente os preservativos. Custa-vos muito falar disso?! Custa-vos muito falar, por exemplo, nas rendas excessivas que combatemos?! Custa-vos muito falar dos lucros imorais que combatemos?! Ó Sr.ª Deputada, francamente!"
+    },
+    {
+      "utterance_id": 217,
+      "order": 217,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Guilherme Silva)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, deixem ouvir o orador."
+    },
+    {
+      "utterance_id": 218,
+      "order": 218,
+      "page_start": 36,
+      "speaker": {
+        "id": 3130,
+        "name": "Paulo Macedo",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto do Ministro da Saúde",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A terminar, queria só sublinhar alguns dados que há pouco não referi.\nAgradeço muito à Sr.ª Deputada ter falado na chamada «operação administrativa» que fizemos, para adequar listas de utentes à realidade. É que quando chegámos ao Serviço Nacional de Saúde havia mais utentes do que habitantes em Portugal e, pelos vistos, ninguém tinha reparado. Fomos nós que corrigimos isso.\nSr.ª Deputada, como o tempo de que disponho está a chegar ao fim, se quiser que continue a explanar várias coisas que fizemos no entretanto, terei muito gosto em voltar a esta Casa, quando a Sr.ª Deputada entender."
+    },
+    {
+      "utterance_id": 219,
+      "order": 219,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Guilherme Silva)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Ramos."
+    },
+    {
+      "utterance_id": 220,
+      "order": 220,
+      "page_start": 36,
+      "speaker": {
+        "id": 2046,
+        "name": "João Augusto Espadeiro Ramos",
+        "party": "PCP",
+        "string": "O Sr. João Ramos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, Srs. Membros do Governo: O Governo tem vindo a intensificar a sua campanha de branqueamento da realidade, exaltando os resultados das exportações, mas em setores como os da agricultura ou do turismo existe uma dura realidade para além da propaganda."
+    },
+    {
+      "utterance_id": 221,
+      "order": 221,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Guilherme Silva)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, chegámos ao fim do período de debate, pelo vamos passar à fase de encerramento.\nPara uma intervenção, em nome do partido interpelante, tem a palavra o Sr. Deputado João Oliveira."
+    },
+    {
+      "utterance_id": 222,
+      "order": 222,
+      "page_start": 37,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, Srs. Membros do Governo: Para fazerem a sua propaganda eleitoral e o discurso dos sucessos, Governo e maioria respondem aos problemas de milhares de portugueses com indiferença e desvalorizando as gravíssimas dificuldades que atingem as vidas concretas de quem trabalha.\nHá trabalhadores com salários em atraso ou a serem despedidos, há empresas a deslocalizarem-se, há declarações de insolvência de portugueses a quem o Governo roubou salários e rendimentos.\nHá crianças com deficiência, à espera, há mais de seis meses, pelo pagamento do subsídio de educação especial a que têm direito e há crianças com fome nas escolas.\nHá idosos abandonados, sem rendimentos e sem cuidados.\nA resposta que o Governo e a maioria deram a estes problemas vividos pelos portugueses foi a do costume: empurrar a responsabilidade pelos problemas para outros e reclamar para si os méritos do trabalho alheio.\nGoverno e maioria utilizam aquilo que os portugueses mais prezam, os seus anseios e desejos mais profundos, para manipular quem está em dificuldades."
+    },
+    {
+      "utterance_id": 223,
+      "order": 223,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 224,
+      "order": 224,
+      "page_start": 38,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Diziam querer resolver o endividamento do País que comprometia o futuro das novas gerações. Hoje, não querem assumir responsabilidade por terem aumentado a dívida em 51 000 milhões.\nDiziam não haver dinheiro para manter salários, pensões e prestações sociais, mas sabemos hoje que continuaram a entregar milhares de milhões, em benefícios fiscais e juros, aos agiotas e especuladores.\nRoubaram salários, pensões e direitos, dizendo que tudo era temporário. Hoje, é evidente que se preparam para manter o roubo perpetuamente."
+    },
+    {
+      "utterance_id": 225,
+      "order": 225,
+      "page_start": 38,
+      "speaker": {
+        "id": 2018,
+        "name": "Hugo Alexandre Lopes Soares",
+        "party": "PSD",
+        "string": "O Sr. Hugo Lopes Soares (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Qual roubo?!"
+    },
+    {
+      "utterance_id": 226,
+      "order": 226,
+      "page_start": 38,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ontem mesmo, o Primeiro-Ministro dizia que Portugal poderá pagar a dívida e respeitar o limite de 60% do PIB, imposto pela União Europeia, desde que o saldo primário seja de 1,8%, a inflação não seja superior a 1% e haja um crescimento real do PIB entre 1,5% e 2%, sem nunca se referir à taxa de juro."
+    },
+    {
+      "utterance_id": 227,
+      "order": 227,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 228,
+      "order": 228,
+      "page_start": 39,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que é certo é que a perspetiva que Passos Coelho, este Governo e a maioria têm para dar ao País é a mesma do Presidente da República e dos representantes da troica: a perpetuação dos sacrifícios e dos roubos que foram impostos nos últimos três anos.\nSr. Presidente, Sr.as e Srs. Deputados: Não há solução dos problemas nacionais sem a demissão deste Governo e a derrota destas políticas.\nNão há solução dos problemas nacionais sem uma política alternativa, patriótica e de esquerda.\nO que o PCP trouxe a esta interpelação foi, por isso, também a afirmação da alternativa que é cada vez mais necessário e urgente construir no nosso País.\nAfirmámos a política alternativa que defendemos e demos-lhe expressão concreta nas muitas iniciativas que aqui referenciámos e que iremos trazer à discussão desta Assembleia da República em breve.\nUma política alternativa que assuma como objetivo imediato a rutura com a política de direita que dura há mais de 37 anos neste País, mas que nos últimos três anos sofreu um agravamento e aceleração consideráveis.\nUma política que assuma como eixos fundamentais a defesa e o aumento da produção nacional, recuperando para o Estado o controlo sobre o setor financeiro e sobre outras empresas e setores estratégicos; que assuma a necessidade de valorização efetiva dos salários e pensões, devolvendo salários, pensões e direitos roubados pelo Governo nos últimos três anos; que assuma opções de política orçamental e fiscal que desagravem os impostos sobre os trabalhadores e tributem com justiça os lucros e os dividendos das grandes empresas e do setor financeiro.\nUma política de defesa e recuperação dos serviços públicos.\nUma política que assuma a soberania nacional e afirme o primado dos interesses nacionais, ao contrário do que fizeram este Governo e a troica nacional, quando abriram portas à troica estrangeira e aceitaram as imposições externas que hoje procuram perpetuar.\nSão eixos centrais de uma política alternativa que não pode passar sem uma medida imediata, assumida como desiderato nacional: a renegociação da dívida!"
+    },
+    {
+      "utterance_id": 229,
+      "order": 229,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Guilherme Silva)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor de terminar, Sr. Deputado."
+    },
+    {
+      "utterance_id": 230,
+      "order": 230,
+      "page_start": 39,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Termino, Sr. Presidente.\nA renegociação da dívida, recusando o pagamento pelo Estado da sua componente ilegítima, negociando com os credores juros, prazos e montantes que permitam ao País pagar os seus compromissos, sem pôr em causa objetivos de crescimento económico, justiça social e criação de emprego. Esta é a proposta que, há três anos — em 5 de abril de 2011 — , apresentámos ao País e que continuamos a defender como uma medida indispensável para que o País encontre um outro rumo.\nSr.as e Srs. Deputados da maioria e Srs. Membros do Governo, podem continuar a contar que, na Assembleia da República, o PCP não deixará de fazer este combate. Mas podem contar também que, fora destas quatro paredes, será cada vez maior e mais determinado o número daqueles que connosco lutam por esta alternativa de progresso, desenvolvimento e justiça social no nosso País."
+    },
+    {
+      "utterance_id": 231,
+      "order": 231,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Guilherme Silva)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para a intervenção de encerramento, em representação do Governo, tem a palavra o Sr. Ministro da Presidência e dos Assuntos Parlamentares."
+    },
+    {
+      "utterance_id": 232,
+      "order": 232,
+      "page_start": 40,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Presidência e dos Assuntos Parlamentares (Luís Marques Guedes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.\nPresidente, Sr.as e Srs. Deputados: Ao agendar esta interpelação ao Governo sobre o agravamento da situação económica e social, o Partido Comunista apostou na insustentabilidade da trajetória de melhoria dos indicadores económicos e sociais, iniciada na segunda metade do ano passado. Enganou-se! Confirma-se a subida do emprego, a primeira, de resto, desde 2008; confirma-se a subida do consumo das famílias, a primeira, desde 2010; confirma-se a queda da taxa de desemprego; confirma-se o crescimento económico, ainda mais robusto do que aquilo que era esperado;»"
+    },
+    {
+      "utterance_id": 233,
+      "order": 233,
+      "page_start": 40,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Sr. Jerónimo de Sousa (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É o paraíso!»"
+    },
+    {
+      "utterance_id": 234,
+      "order": 234,
+      "page_start": 40,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Presidência e dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» confirma-se a diminuição do défice público; confirma-se a baixa das taxas de juro da dívida portuguesa, que se situaram já abaixo do valor médio registado desde a adesão ao euro, em 1999. Tudo isto, mau grado as posições fantasiosas e os sinais perversos para o interesse nacional que alguns teimam em formular com evidente despropósito.\nNada disto, seguramente, se enquadra no conceito de agravamento, mas também nada disto o Partido Comunista está disponível para reconhecer. E não está, porque tudo isto está em contramão com o posicionamento político do Partido Comunista. O Partido Comunista nunca foi adepto da adesão de Portugal à integração europeia e muito menos da nossa entrada no euro."
+    },
+    {
+      "utterance_id": 235,
+      "order": 235,
+      "page_start": 40,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Sr. Jerónimo de Sousa (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E tínhamos razão!"
+    },
+    {
+      "utterance_id": 236,
+      "order": 236,
+      "page_start": 40,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Presidência e dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não espanta, por isso, que, em coerência — e coerência, de facto, é algo que nunca faltou ao Partido Comunista Português, mesmo quando a história se encarrega de mostrar à evidência a falência das suas teses — ,»"
+    },
+    {
+      "utterance_id": 237,
+      "order": 237,
+      "page_start": 40,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Sr. Jerónimo de Sousa (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Veremos!"
+    },
+    {
+      "utterance_id": 238,
+      "order": 238,
+      "page_start": 40,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Presidência e dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» defenda o não cumprimento dos nossos compromissos e das nossas obrigações para sermos parte da União Europeia.\nSejamos claros: o Partido Comunista Português, pelo incumprimento do Memorando de Entendimento, a expulsão da troica e o não pagamento da dívida, advoga que Portugal abandone o euro."
+    },
+    {
+      "utterance_id": 239,
+      "order": 239,
+      "page_start": 40,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Renegociação?!"
+    },
+    {
+      "utterance_id": 240,
+      "order": 240,
+      "page_start": 40,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Presidência e dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Honra lhe seja feita, assume-o no discurso e na comunicação política que profusamente espalha pelas ruas e cidades do nosso País, só que omite, convenientemente, as consequências brutais que essa escolha teria para Portugal e para os portugueses, particularmente para o funcionamento do Estado, quer nas áreas de soberania quer nas obrigações e nas prestações sociais, com um impacto terrível sobretudo sobre os mais vulneráveis da nossa sociedade. Conveniente para o seu discurso político, mas trágico para o País e para a realidade dos portugueses."
+    },
+    {
+      "utterance_id": 241,
+      "order": 241,
+      "page_start": 40,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que é que está a acontecer agora?"
+    },
+    {
+      "utterance_id": 242,
+      "order": 242,
+      "page_start": 40,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Presidência e dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é essa, Sr.as e Srs. Deputados, a postura que melhor defende o interesse nacional.\nÉ verdade que os sacrifícios que nos têm sido impostos são muito pesados,»"
+    },
+    {
+      "utterance_id": 243,
+      "order": 243,
+      "page_start": 40,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Sr. Jerónimo de Sousa (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ah!»"
+    },
+    {
+      "utterance_id": 244,
+      "order": 244,
+      "page_start": 41,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Presidência e dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» têm o peso de quase 15 anos de irresponsabilidade nas políticas económicas e financeiras que vergaram o País, à beira da bancarrota, à dependência da ajuda internacional para sustento das suas necessidades essenciais.\nNos últimos dois anos e meio, temos percorrido um caminho e criado as condições que nos permitem «levantar a cabeça» e olhar com outra confiança para o futuro. Um futuro não isento de dificuldades, em que, definitivamente, a transparência, o rigor e a exigência têm de substituir a ilusão, o facilitismo e o despesismo que marcaram as políticas públicas que nos trouxeram até ao colapso da nossa autonomia financeira. Não é pela via preconizada pelo Partido Comunista Português que os portugueses querem construir esse futuro, é pela via europeia de um Estado democrático e social fundado na liberdade individual, na igualdade de oportunidades, no respeito pela iniciativa privada e na responsabilidade social do Estado e das empresas.\nEsmagadoramente, em sucessivos atos eleitorais, os portugueses sufragaram estas escolhas, e é nas forças políticas em que esses sufrágios foram depositados que repousa a maior responsabilidade no seu cumprimento. Um passo de gigante reside num compromisso alargado que sejamos capazes, entre essas forças políticas, de construir. É que, quanto mais cedo conseguirmos pôr-nos de acordo em torno de objetivos estratégicos essenciais, maior será a confiança e menores serão os obstáculos a ultrapassar.\nNunca vamos estar de acordo em tudo, nem talvez na maioria das coisas, mas é evidente que são vários os objetivos de políticas públicas em que fatalmente teremos de saber coincidir. É urgente que o principal partido da oposição entenda que esse compromisso não ensombra a necessária e desejável diversidade ideológica que deve enformar a escolha das políticas públicas, apenas coloca essa diversidade num patamar mais nobre e menos lesivo do superior interesse nacional.\nReafirmo o empenho e a disponibilidade do Governo para construir esse compromisso, porque ele é necessário, porque ele é benéfico, porque ele insufla um fogo de confiança de evidentes repercussões positivas para Portugal e para os portugueses e porque o preço de não o fazer tem um custo que Portugal e os portugueses não merecem suportar."
+    },
+    {
+      "utterance_id": 245,
+      "order": 245,
+      "page_start": 41,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Guilherme Silva)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, chegámos ao fim da ordem do dia de hoje.\nAntes de anunciar a ordem do dia de amanhã, dou a palavra à Sr.ª Secretária para proceder à leitura de expediente."
+    },
+    {
+      "utterance_id": 246,
+      "order": 246,
+      "page_start": 41,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr. Secretária (Maria Paula Cardoso)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Presidente e Srs. Deputados, deu entrada na Mesa, e foi admitida, a proposta de lei n.º 211/XII (3.ª) — Modifica o valor dos descontos a efetuar para os subsistemas de proteção social no âmbito dos cuidados de saúde, concretamente da Direção-Geral de Proteção Social aos Trabalhadores em Funções Públicas (ADSE), dos Serviços de Assistência na Doença (SAD) e da Assistência na Doença aos Militares das Forças Armadas (ADM)."
+    },
+    {
+      "utterance_id": 247,
+      "order": 247,
+      "page_start": 41,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Guilherme Silva)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, reuniremos amanhã, sexta-feira, pelas 10 horas.\nDo primeiro ponto da ordem do dia consta a apreciação, na generalidade, da proposta de lei n.º 207/XII (3.ª) — Procede à sexta alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro.\nSegundo ponto: apreciação, na generalidade, da proposta de lei n.º 205/XII (3.ª) — Procede a alterações ao Decreto-Lei n.º 189/2000, de 12 de agosto, ao Decreto-Lei n.º 134/2005, de 16 de agosto, ao Decreto-Lei n.º 176/2006, de 30 de agosto, ao Decreto-Lei n.º 307/2007, de 31 de agosto, ao Decreto-Lei n.º 189/2008, de 24 de setembro, ao Decreto-Lei n.º 145/2009, de 17 de junho, e ao regime geral das comparticipações do Estado no preço dos medicamentos, aprovado em anexo ao Decreto-Lei n.º 48-A/2010, de 13 de maio.\nTerceiro ponto: discussão, na generalidade, dos projetos de lei n.os 507/XII (3.ª) — Aprova medidas tendentes a assegurar a participação dos cidadãos nos atos eleitorais e o pluralismo do debate público (PS), 519/XII (3.ª) — Procede à 20.ª alteração da Lei Eleitoral do Presidente da República, constante do Decreto-Lei n.º 319-A/76, de 3 de maio, à 15.ª alteração da Lei Eleitoral da Assembleia da República, constante da Lei n.º"
+    }
+  ]
+}

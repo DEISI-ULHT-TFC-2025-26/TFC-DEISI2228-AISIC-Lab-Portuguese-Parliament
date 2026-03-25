@@ -1,0 +1,992 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "5",
+    "legislative_session": "1",
+    "number": "91",
+    "date": "1988-05-20"
+  },
+  "debate_id": "r3_5_1_91_1988-05-20",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 3688,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quorum, pelo que declaro aberta a sessão.\nEram 10 horas e 20 minutos. \nEstavam presentes os seguintes Srs. Deputados: \nPartido Social-Democrata (PPD/PSD):\nAbílio de Mesquita Araújo Guedes.\n\nAdão José Fonseca Silva.\n\nAdérito Manuel Soares Campos.\n\nAdriano Silva Pinto.\n\nAlberto Cerqueira de Oliveira.\n\nAlberto Monteiro de Araújo.\n\nAlexandre Azevedo Monteiro.\n\nAmândio Santa Cruz D. Basto Oliveira.\n\nAntónio Abílio Costa.\n\nAntónio de Carvalho Martins.\n\nAntónio Costa de A. Sousa Lara.\n\nAntónio Fernandes Ribeiro.\n\nAntónio Joaquim Correia Vairinhos.\n\nAntónio José Caeiro da Mota Veiga.\n\nAntónio José de Carvalho.\n\nAntónio Manuel Lopes Tavares.\n\nAntónio Maria Oliveira de Matos.\n\nAntónio Paulo Martins Pereira Coelho.\n\nAntónio Roleira Marinho.\n\nAntónio Sérgio Barbosa de Azevedo.\n\nAntónio da Silva Bacelar.\n\nAristides Alves do Nascimento Teixeira.\n\nArlindo da Silva André Moreira.\n\nArmando Carvalho Guerreiro Cunha.\n\nArmando Manuel Pedroso Militão.\n\nArménio dos Santos.\n\nArnaldo Angelo Brito Lhamas.\n\nBelarmino Henriques Correia.\n\nCarla Tato Diogo.\n\nCarlos Manuel Duarte Oliveira.\n\nCarlos Manuel Sousa Encarnação.\n\nCarlos Sacramento Esmeraldo.\n\nCasimiro Gomes Pereira.\n\nCésar da Costa Santos.\n\nCristóvão Guerreiro Norte.\n\nDaniel Abílio Ferreira Bastos.\n\nDinah Serrão Alhandra.\n\nDomingos da Silva e Sousa.\n\nEduardo Alfredo de Carvalho P. da Silva.\n\nErcília Domingos M. P. Ribeiro da Silva.\n\nEvaristo de Almeida Guerra de Oliveira.\n\nFernando Barata Rocha.\n\nFernando Dias de Carvalho Conceição.\n\nFernando José Alves Figueiredo.\n\nFernando José Antunes Gomes Pereira.\n\nFernando Monteiro do Amaral.\n\nFilipe Manuel Silva Abreu.\n\nFrancisco João Bernardino da Silva.\n\nGuido Orlando de Freitas Rodrigues.\n\nHilário Torres Azevedo Marques.\n\nJaime Gomes Milhomens.\n\nJoão Domingos F. de Abreu Salgado.\n\nJoão Granja Rodrigues da Fonseca.\n\nJoão Manuel Ascensão Belém.\n\nJoão Maria Ferreira Teixeira.\n\nJoão Soares Pinto Montenegro.\n\nJoaquim Eduardo Gomes.\n\nJoaquim Fernandes Marques.\n\nJoaquim Vilela de Araújo.\n\nJosé Alberto Puig dos Santos Costa.\n\nJosé de Almeida Cesário.\n\nJosé Álvaro Machado Pacheco Pereira.\n\nJosé Assunção Marques.\n\nJosé Augusto Ferreira de Campos.\n\nJosé Francisco Amaral.\n\nJosé Júlio Vieira Mesquita.\n\nJosé Leite Machado.\n\nJosé Luís Bonifácio Ramos.\n\nJosé Luís Campos Vieira de Castro.\n\nJosé Luís de Carvalho Lalanda Ribeiro.\n\nJosé Manuel Rodrigues Casqueiro.\n\nJosé Manuel da Silva Torres.\n\nJosé Mário Lemos Damião.\n\nJosé Pereira Lopes.\n\nLicinio Moreira da Silva.\n\nLuís António Damásio Capoulas.\n\nLuís Filipe Garrido Pais de Sousa.\n\nLuís Filipe Meneses Lopes.\n\nLuís Manuel Costa Geraldes.\n\nLuís Manuel Neves Rodrigues.\n\nLuís da Silva Carvalho.\n\nManuel António Sá Fernandes.\n\nManuel Coelho dos Santos.\n\nManuel Ferreira Martins.\n\nManuel João Vaz Freixo.\n\nManuel Joaquim Batista Cardoso.\n\nManuel Joaquim Dias Loureiro.\n\nManuel José Dias Soares Costa.\n\nManuel Maria Moreira.\n\nMargarida Borges de Carvalho.\n\nMaria Antónia Pinho e Melo.\n\nMaria da Conceição U. de Castro Pereira.\n\nMaria Luísa Lourenço Ferreira.\n\nMaria Manuela Aguiar Moreira.\n\nMaria Natalina Pessoa Milhano Pintão.\n\nMary Patrícia Pinheiro Correia e Lança.\n\nMário Ferreira Bastos Raposo.\n\nMário de Oliveira Mendes dos Santos.\n\nMateus Manuel Lopes de Brito.\n\nMiguel Bento M. da C. Macedo e Silva.\n\nMiguel Fernando C. de Miranda Relvas.\n\nNuno Francisco F. Delerue Alvim de Matos.\n\nNuno Miguel S. Ferreira Silvestre.\n\nRosa Maria Ferreira Tomé e Costa.\n\nRui Manuel P. Chancerelle de Macheie.\n\nValdemar Cardoso Alves.\n\nVasco Francisco Aguiar Miguel.\nPartido Socialista (PS):\nAfonso Sequeira Abrantes. \n\nAlberto Marques de Oliveira e Silva. \n\nAlberto de Sousa Martins. \n\nAntónio Fernandes Silva Braga. \n\nAntónio José Sanches Esteves. \n\nAntónio Magalhães da Silva. \n\nAntónio Manuel C. Ferreira Vitorino. \n\nAntónio Poppe Lopes Cardoso. \n\nArmando António Martins Vara. \n\nEdmundo Pedro. \n\nEduardo Ribeiro Pereira. \n\nElisa Maria Ramos Damião Vieira. \n\nFernando Ribeiro Moniz. \n\nFrancisco Fernando Osório Gomes. \n\nGuilherme Manuel Lopes Pinto. \n\nHelena de Melo Torres Marques. \n\nJaime José Matos da Gama."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 3689,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o Sr. Secretário vai dar conta de um diploma que deu entrada na Mesa."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 3689,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Reinaldo Gomes)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Deu entrada na Mesa o projecto de lei n.º 249/V - Alterações ao artigo 1094.º do Código Civil, apresentado pelo Sr. Deputado Coelho dos Santos e outros, do PSD, que foi admitido e baixa à 1.\" Comissão."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 3689,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, informo que na próxima terça-feira terão lugar as votações na generalidade e na especialidade, assim como a votação final global da proposta de lei n.º 34/V - Autoriza o Governo a legislar sobre alteração à Lei do Serviço Militar.\n\nVamos passar à discussão na generalidade da proposta de resolução n.º 4/V - Aprova a adesão de Portugal à Convenção Que Cria a Agência Multilateral de Garantia dos Investimentos (MIGA).\n\nInformo que tanto o Governo como os grupos e agrupamentos parlamentares dispõem de dez minutos cada um.\n\nEntretanto, vou suspender a sessão até às 10 horas e 30 minutos para que se criem as condições necessárias a fim de podermos prosseguir os trabalhos.\n\nEstá, pois, suspensa a sessão.\nEram 10 horas e 25 minutos.\nSrs. Deputados, está reaberta a sessão. Eram 10 horas e 45 minutos.\n\nVamos então entrar na discussão da proposta de resolução n.º 4/V.\n\nPara uma intervenção, tem a palavra o Sr. Secretário de Estado do Tesouro."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 3689,
+      "speaker": {
+        "id": 2819,
+        "name": "Manuel Carvalho Fernandes",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro (Manuel Carvalho Fernandes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: O Governo apresenta hoje uma proposta de resolução que aprova a adesão de Portugal à Convenção Que Cria a Agência Multilateral de Garantia dos Investimentos (MIGA).\n\nTratando-se de um organismo multilateral de garantia dos investimentos que visa esclarecer e garantir os investimentos estrangeiros aos membros que aderiram à organização, podendo ser um instrumento muito útil para o fomento do investimento estrangeiro em Portugal e também para o seguro do investimento estrangeiro em Portugal.\n\nTrata-se, pois, de um organismo multilateral de garantia dos investimentos que poderá ser de grande utilidade para o seguro do investimento estrangeiro em Portugal, sendo, portanto, muito interessante à captação desse investimento para o nosso país. Além disso, poderá ainda segurar os investimentos dos Portugueses feitos no estrangeiro, nomeadamente nos países africanos de expressão portuguesa, quando estes aderirem à organização.\n\nSão elegíveis para a cobertura de risco nesta agência os novos investimentos, ou seja, os investimentos efectuados após a entrada em vigor da Convenção.\n\nA Convenção entrou em vigor no dia 12 de Abril do ano corrente, com a entrega, pelos Estados Unidos, do seu instrumento de ratificação e, segundo nos foi comunicado ontem pelo nosso administrador no Banco Mundial, Portugal desfrutará da qualidade de membro fundador da Agência se a entrega do instrumento de ratificação for efectuada até ao dia 7 de Junho, visto"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 3690,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Rui Silva."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 3690,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Rui Silva (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados, Sr. Secretário de Estado do Tesouro: O investimento directo estrangeiro é hoje em dia considerado como um dos melhores meios de incremento das trocas comerciais e do aprofundamento de políticas de cooperação económica entre Estados, conduzindo ao estabelecimento de relações económicas duradouras, de que é expressão mais concreta a constituição de empresas em vários países, nomeadamente os que se encontram em vias de desenvolvimento.\n\nO investimento directo estrangeiro resulta de um processo de decisão complexo e é sempre uma decisão estratégica que se realiza, quer pela aquisição, quer pela criação de uma empresa.\n\nAs motivações estratégicas são de vária ordem, como sejam o crescimento ou a competitividade empresarial.\n\nCom a integração de Portugal nas Comunidades Europeias, a internacionalização da nossa economia será cada vez maior e o mesmo acontecerá com as empresas portuguesas.\n\nQualquer das motivações enunciadas está hoje presente na envolvente de actuação das empresas portuguesas depois da adesão do nosso país às Comunidades, com a criação do mercado único europeu em 1992.\n\nNoutra vertente, a situação financeira externa de muitos países em vias de desenvolvimento aconselha ao estabelecimento de novas relações de cooperação mais estáveis e duradouras que permitam o reforço das trocas comerciais sem agravamento de endividamento externo.\n\nÉ pela conjugação de todas estas razões que se torna actual o incremento do investimento directo, nomeadamente o português, no estrangeiro, sobretudo nos países africanos de expressão oficial portuguesa.\n\nO desenvolvimento do investimento directo estrangeiro encontra-se muitas vezes condicionado por razões não tanto ligadas à rentabilidade dos negócios, mas sim, na opinião dos investidores, aos riscos não comerciais relacionados com a realização do investimento estrangeiro, sobretudo nos países em vias de desenvolvimento.\n\nA redução que se tem verificado nos valores do investimento directo estrangeiro a nível mundial nos países em vias de desenvolvimento, a diminuição das trocas comerciais nessas zonas geográficas e o acumular de dívidas externas nesses países, com as consequentes restrições aos financiamentos realizados pela banca internacional, levaram o Banco Mundial a criar em Outubro de 1985 a Agência Multilateral de Garantia\n\ndos Investimentos (MIGA), cuja Convenção Portugal assinou a 1 de Outubro de 1987 e que agora o Governo apresenta à Assembleia da República para ratificação\n\nA Convenção da MIGA já se encontra actualmente assinada por mais de 62 países, representando mais 67% do capital da Agência, e já foi ratificada por país que representam mais de um terço do capital autorizado da Agência, pelo que a Convenção se encontra actualmente em vigor.\n\nA Convenção é de indesmentível interesse para nosso país, pena é que a quota de Portugal seja tão baixa que lhe possa vir a limitar as possibilidades de vir a pertencer ao conselho de administração da Agência.\n\nA MIGA, como nova agência do Banco Mundial que tem por finalidade encorajar os fluxos do invés mento dos países industrializados para fins produtivo em especial para os países membros que se encontra em vias de desenvolvimento, ao complementar as actividades do Banco Internacional para a Reconstruo: e Desenvolvimento, no campo do financiamento e a sociedade financeira internacional, na promoção t investimento privado a nível internacional com uma filosofia de capital risco, deverá fazê-lo também e complementaridade, e não em concorrência com nosso sistema nacional de seguro de investimento, que já se encontra em funcionamento.\n\nA participação de Portugal na MIGA, para além d benefícios provenientes da cooperação técnica e divulgação de oportunidades de investimento, é positiva, pois permite ao nosso país a repartição dos ri cos da cobertura de investimentos portugueses r estrangeiro com aquela Agência Multilateral do Bani Mundial, aliviando, desta forma, as responsabilidade a inscrever no Orçamento do Estado, potenciando dês forma o alcance do nosso sistema de seguro de investimento no estrangeiro e, consequentemente, o invés mento directo português nos países em vias de desenvolvimento, nomeadamente nos de expresse portuguesa.\n\nPor todas estas razões, o Partido Renovador Democrático vai votar favoravelmente a ratificação da Convenção."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 3690,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 3690,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem palavra a Sr.ª Deputada Ilda Figueiredo."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 3690,
+      "speaker": {
+        "id": 455,
+        "name": "Maria Ilda Da Costa Figueiredo",
+        "party": "PCP",
+        "string": "A Sr.ª Ilda Figueiredo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente Srs. Deputados, Srs. Membros do Governo: A Age cia Multilateral de Garantia dos Investimentos é uma entidade nova, cuja acção ainda não podemos avalia pois está agora em plena formação e, pesem embora as escassas informações dadas pelo Sr. Secretário i Estado do Tesouro, para nós não é claro o tipo de participação que Portugal irá ter nesta Agência, nomeadamente dada a quota mínima que nos é atribuída. A falta de informação, por um lado, a novidade e entidade e a acção desconhecida, nomeadamente quanto à participação de Portugal, por outro, levam-nos abster-nos."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 3690,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem palavra o Sr. Deputado Guido Rodrigues."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 3691,
+      "speaker": {
+        "id": 672,
+        "name": "Guido Orlando De Freitas Rodrigues",
+        "party": "PSD",
+        "string": "O Sr. Guido Rodrigues (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Nos últimos anos tem vindo a ser universalmente aceite a necessidade imperiosa de estabelecimento de um novo tipo de relacionamento entre os países industrializados e os países em vias de desenvolvimento, por forma a poder dar-se início à resolução dos problemas estruturais que afectam as relações entre uns e outros e o próprio equilíbrio sócio-político mundial.\n\nO problema das dívidas externas de muitos países em vias de desenvolvimento, impossibilitados de as satisfazer sem submeter os respectivos povos a sacrifícios incomensuráveis, e a reflexão que a dimensão do problema provocou a nível mundial foram a causa próxima das acções que estão a ser efectivamente tomadas pelos países industrializados para apoiarem o desenvolvimento sócio-económico dos países em vias de desenvolvimento. Aliás, como é óbvio, também no seu próprio interesse.\n\nÉ neste quadro, considerando a necessidade de reforçar a cooperação internacional para o desenvolvimento económico, que importa promover a contribuição do investimento estrangeiro, nomeadamente o privado, nos países em vias de desenvolvimento.\n\nE uma maneira de encorajar os investimentos privados nestes países será, sem dúvida, garantir aos mesmos uma determinada segurança no que toca aos riscos não comerciais, a qual, como se sabe, pode ter influência preponderante nas decisões de investimento, mesmo quando, em termos comerciais, os investimentos são atractivos. Trata-se da melhoria do chamado risco-país.\n\nA criação da Agência Multilateral de Garantia dos Investimentos aparece como parte integrante desta estratégia lógica de apoio ao investimento estrangeiro em países em vias de desenvolvimento.\n\nA Agência prestará garantias, incluindo resseguro e resseguro, contra riscos não comerciais, relativos a investimentos noutro país membro, bem como realizará actividades diversas de promoção do investimento. O risco destes investimentos fica, assim, diluído por todos os Estados membros.\n\nOs riscos seguros serão, nomeadamente, os da transferência de moeda por acções imputáveis ao país de acolhimento, de expropriação, de incumprimento do contrato e de guerra ou distúrbios civis. Nunca, portanto, quaisquer riscos comerciais normais.\n\nNão se trata, assim, de estabelecer benesses especiais, mas, simplesmente, de garantir aos detentores do investimento em terceiros países as mesmas sãs regras de jogo comerciais que se deseja possam vir a pautar sempre, no futuro, o comércio mundial.\n\nPortugal tem todo o interesse em participar na Agência Multilateral de Garantia dos Investimentos. Na realidade, abrem-se-nos imensas possibilidades de cooperação, nomeadamente com os PALOPs, os países africanos de língua oficial portuguesa.\n\nTodos conhecemos as dificuldades que alguns desses países atravessam, mas igualmente sabemos de quão fundamental é para os mesmos, para o seu futuro, o desenvolvimento económico em termos pragmáticos.\n\nSabemos como cada vez mais estes países estão conscientes deste princípio e desejosos de recuperar o tempo perdido, implementando a passos largos o seu desenvolvimento económico.\n\nO nosso país está numa situação privilegiada para cooperar nestas tarefas de reconstrução e desenvolvimento, por razões sobejamente conhecidas.\n\nMuitos dos nossos investidores privados estão desejosos de o fazer. Estão desejosos de reatar ou de iniciar uma cooperação que será do interesse de ambos os países. Mas recordam igualmente tempos recentes, em que até exportações de produtos comerciais não tiveram a conveniente cobertura do seguro à exportação. Dificuldades de pagamento dos países clientes, subitamente ocorridas, acarretaram aos exportadores incómodos e prejuízos significativos, cujas sequelas ainda muito recentemente se mantinham.\n\nA Agência Multilateral, com a sua actuação, permitirá apoiar e diluir os riscos do seguro do investimento directo de Portugal no estrangeiro, o que muito especialmente nos interessa, tendo em vista os PALOPs.\n\nO Decreto-Lei n.º 273/86, de 4 de Setembro, regulamenta o seguro do investimento directo português no estrangeiro, cuja gestão está confiada à COSEC - Companhia de Seguro de Créditos, E. P. Anteriormente, pelo Decreto-Lei n.º 169/81, de 20 de Junho, tinha sido aprovado o regime jurídico do seguro de créditos, cauções e actividade da COSEC, o qual não incluía o seguro do investimento.\n\nCom o Decreto-Lei n.º 273/86 passava a dispor-se do instrumento legal para o seguro do investimento. Com a participação de Portugal na Agência Multilateral de Garantia dos Investimentos complementa-se o sistema nacional de apoio ao investimento, passando a poder diluir-se por um conjunto numeroso de países da comunidade internacional os riscos das garantias dadas ao investimento directo português no estrangeiro, o que é, obviamente, do interesse do nosso país.\n\nEntendemos, pois, que a proposta de resolução que ratifica a Convenção que cria a Agência Multilateral de Garantia dos Investimentos deve ser aprovada por esta Assembleia."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 3691,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, acompanhados dos respectivos professores, encontram-se entre nós alunos da Escola Secundária de Santo André, do Barreiro, do Externato de Fernando Pessoa, de Lisboa, e da Escola Preparatória do Padre Bartolomeu de Gusmão, de Lisboa.\n\nPara uma intervenção, tem a palavra o Sr. Deputado Mota Torres."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 3691,
+      "speaker": {
+        "id": 810,
+        "name": "José Carlos Pinto Basto Mota Torres",
+        "party": "PS",
+        "string": "O Sr. Mota Torres (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Só para dizer, muito brevemente, que o Partido Socialista dá o seu acordo, indo votar favoravelmente, à proposta de resolução n.º 4/V.\n\nEntendemos que se trata de um instrumento importante no quadro das nossas relações internacionais e também com vista à possibilidade de investimento nomeadamente nos países africanos de língua oficial portuguesa.\n\nGostaria de acrescentar, singelamente, que a criação deste organismo surge no momento em que na Europa se trava um debate profundo sobre o diálogo Norte--Sul. Assim, manifestando Portugal nesta altura a sua vontade de aderir a este diálogo, contribui para que consideremos esta iniciativa oportuna, além de inevitável, neste momento."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 3692,
+      "speaker": {
+        "id": 610,
+        "name": "António Manuel De Carvalho Ferreira Vitorino",
+        "party": "PS",
+        "string": "O Sr. António Vitorino (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 3692,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Narana Coissoró, para uma intervenção."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 3692,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: É apenas para dizer que também iremos votar favoravelmente esta proposta de resolução, na medida em que nos convencem as razões aduzidas na memória justificativa apresentada pelo Governo.\n\nA ratificação da Convenção, tal como o Governo afirma, irá revestir-se de grande interesse para Portugal quanto ao investimento directo português no estrangeiro e, em particular, nos países Lusófonos de África. Além disso, também constituirá uma forma de potenciar o seguro de investimento directo de Portugal no estrangeiro, através do resseguro cedido, acordos de resseguro, garantias conjuntas, cooperação técnica, etc.\n\nJá aqui foram ditas as principais razões pelas quais o nosso país deve ratificar a Convenção e o CDS não tem motivos para votar contra nem para se abster. Por isso mesmo, votaremos favoravelmente esta proposta de resolução n.º 4/V."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 3692,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a Mesa só tem mais uma inscrição para intervenção.\n\nAssim, tendo ouvido o que ficou dito pelas diferentes bancadas, a Mesa sugere que, logo que terminadas as intervenções, passemos à votação desta proposta de resolução n.º 4/V.\n\nPara uma intervenção, tem a palavra o Sr. Deputado Raul Castro."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 3692,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Raul Castro (ID)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados, Srs. Membros do Governo: Não se pode dizer que a intervenção do Sr. Secretário de Estado do Tesouro tenha sido muito esclarecedora em relação ao texto deste diploma. De facto, fez uma intervenção breve, tendo deixado algumas duvidas em relação a um texto que é tão longo e complexo. Nomeadamente, deixou dúvidas sobre o que decorre do número de acções subscritas por Portugal relativamente a outros países, o qual é bastante diminuto, e o que deixa também a dúvida quanto à própria importância que o Governo atribui a esta iniciativa, dado que nela participa de uma forma tão reduzida.\n\nPor estas razões, a Intervenção Democrática irá, portanto, abster-se na votação desta proposta de resolução n.º 4/V."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 3692,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, não havendo mais inscrições, está encerrado o debate.\n\nPassamos então à votação na generalidade da proposta de resolução n.º 4/V - Aprova a adesão de Portugal à Convenção Que Cria a Agência Multilateral de Garantia dos Investimentos (MIGA).\nSubmetida a votação, foi aprovada» com votos a favor do PSD, do PS, do PRD, do CDS e de Os Verdes e as abstenções do PCP e da ID."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 3692,
+      "speaker": {
+        "id": 455,
+        "name": "Maria Ilda Da Costa Figueiredo",
+        "party": "PCP",
+        "string": "A Sr.ª Ilda Figueiredo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 3692,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada lida Figueiredo, pediu a palavra para que efeito?"
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 3692,
+      "speaker": {
+        "id": 455,
+        "name": "Maria Ilda Da Costa Figueiredo",
+        "party": "PCP",
+        "string": "A Sr.ª Ilda Figueiredo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, já que vamos passar à votação na especialidade, considero que é necessário fazer uma rectificação no articulado do artigo único quando na última linha está escrito «[...] segue, em anexo, à presente proposta de resolução [...]».\n\nAgora que vai ser aprovada, naturalmente que tem de ser eliminado o termo «proposta»."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 3692,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 3692,
+      "speaker": {
+        "id": 525,
+        "name": "Manuel Maria Moreira",
+        "party": "PSD",
+        "string": "O Sr. Manuel Moreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quando as sugestões são positivas, aceitamo-las."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 3692,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Pêlos comentários ouvidos, entendo que foi aceite a sugestão da Sr.ª Deputada.\n\nSrs. Deputados, passamos então à votação na especialidade da proposta de resolução n.º 4/V, cujo artigo único é o seguinte:\nÉ aprovada, para ratificação, a Convenção Que Cria a Agência Multilateral de Garantia dos Investimentos (MIGA), cujo texto original em inglês e a respectiva tradução para português seguem em anexo à presente resolução.\n\nSubmetida à votação, foi aprovada, com votos a favor do PSD, do PS, do PRD, do CDS e de Os Verdes e as abstenções do PCP e da ID.\n\nSrs. Deputados, vamos passar à votação final global.\n\nSubmetida à votação, foi aprovada, com votos a favor do PSD, do PS, do PRD, do CDS e de Os Verdes e as abstenções do PCP e da ID.\n\nSrs. Deputados, vamos agora discutir, na generalidade, os projectos de lei n.º* 86/V (CDS), 200/V (PSD) e 231/V (PS), sobre consultas directas aos cidadãos eleitores.\n\nPara uma intervenção, tem a palavra o Sr. Deputado Narana Coissoró."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 3692,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A iniciativa de legislar sobre as consultas directas pertenceu ao CDS já no longínquo ano parlamentar de 1984.\n\nO debate sobre os vários projectos de lei relativos às consultas directas aos cidadãos eleitores foi já feita neste Plenário da última vez em Abril de 1986. Nada de substancial aconteceu neste domínio desde essa data e o presente, a não ser a maioria conjuntural do PSD que lhe confere o poder de consentir se as iniciativas legislativas dos outros partidos devem ou não prosseguir com vista à elaboração das leis da República.\n\nSabemos de experiência própria como o partido maioritário tem utilizado esta prerrogativa. Veremos se abre hoje uma excepção não impondo apenas o seu projecto, com o prejuízo dos demais.\n\nSr. Presidente, Srs. Deputados, o n. º 3 do artigo 241.º da Constituição da República Portuguesa prevê que «os órgãos das autarquias locais podem efectuar consultas directas aos cidadãos eleitores recenseados nas respectivas áreas, por voto secreto, sobre matérias incluídas na sua competência exclusiva, nos casos, nos termos e com a eficácia que a lei estabelece»."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 3693,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Roleirm Marinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 3693,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Roleira Marinho."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 3693,
+      "speaker": {
+        "id": 841,
+        "name": "António Roleira Marinho",
+        "party": "PSD",
+        "string": "O Sr. Roleira Marinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Reeditamos hoje a discussão já aqui havida sobre as «consultas directas aos cidadãos eleitores» e saudamos o facto por verificar que nestes dois anos passados alguns «tabus» ficaram enterrados, assumindo os diversos partidos a terminologia clara de «referendo local», em contraponto às teses anteriores, que alguns teimavam em impor de «meras consultas», como que tentando desvalorizar ou desvirtuar a questão.\n\nComo referi no debate anterior, o Partido Social-Democrata, já aquando da elaboração da Constituição de 1976 se bateu pela norma constitucional do «referendo», que não mereceu acolhimento.\n\nPosteriormente, a revisão de 1982 veio a introduzir a norma das «consultas directas aos cidadãos eleitores», que, mesmo antes de ter sido regulamentada por lei - o que agora, com certeza, iremos conseguir -, não deixou de pesar na opção que os diferentes projectos da revisão constitucional fazem para que, finalmente, o referendo nacional venha a ser uma próxima realidade.\n\nSr. Presidente, Srs. Deputados, reputamos o «referendo local» instrumento da maior importância ao serviço das autarquias e dos cidadãos, co-responsabilizante de governantes e governados nas grandes decisões que houver a tomar e, por outro lado, concretizador do estatuído no n.º 3 do artigo 241.º da Constituição.\n\nO referendo local aproximará os órgãos autárquicos dos cidadãos; dinamizará a participação das populações na vida colectiva; tornará os processos de administração mais claros e as decisões melhor aceites; permitirá uma sintonia entre o que se faz e o que se pretende seja feito.\n\nNunca estarão em causa os órgãos envolvidos na decisão referendaria, dado o que é, exactamente, cada um deles, dentro do âmbito da sua competência, podendo decidir, portanto, que delibera colocar nas mãos dos cidadãos o juízo supremo, dentro do maior espírito democrático, servindo-se do «primado» da vontade geral.\n\nNuma apreciação breve sobre os diferentes diplomas, anotamos que no projecto de lei do PS (231/V) se aponta para a maioria qualificada quanto às deliberações a tomar pelos órgãos que decidem promover a"
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 3694,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para um pedido de esclarecimento, tem a palavra o Sr. Deputado Herculano Pombo."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 3694,
+      "speaker": {
+        "id": 1871,
+        "name": "Herculano Da Silva Pombo Marques Sequeira",
+        "party": "PEV",
+        "string": "O Sr. Herculano Pombo (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Roleira Marinho, creio ter entendido que, na opinião do PSD e à luz da interpretação do artigo da Constituição que é feita por V. Ex.ª, a iniciativa da promoção de consultas directas aos eleitores deverá caber aos órgãos autárquicos indistintamente, quer sejam deliberativos, quer executivos.\n\nPor outro lado, creio que o Sr. Deputado afirmou existir o risco real da banalização deste instituto, risco que é acumulável com o de se vir a pôr em causa, por uso e abuso do instituto, a legitimidade dos órgãos eleitos.\n\nNesta ordem de ideias, pergunto, em primeiro lugar: quais os limites que o PSD define para a realização de consultas directas aos eleitores?\n\nA segunda questão diz respeito aos 50% que o Sr. Deputado sugeriu. Quer o Sr. Deputado dizer que, no caso de terem respondido ao apelo referendado\n\n- passe o termo - menos de 50% dos eleitores, esse referendo é automaticamente invalidado, ou melhor, não tem qualquer efeito?"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 3695,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Roleira Marinho."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 3695,
+      "speaker": {
+        "id": 841,
+        "name": "António Roleira Marinho",
+        "party": "PSD",
+        "string": "O Sr. Roleira Marinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Herculano Pombo, muito rapidamente: quanto ao poder de iniciativa, apontamos para qualquer dos órgãos, quer sejam deliberantes, quer executivos; quanto aos limites, nós entendemos que ambos os órgãos decidirão sobre assuntos da sua exclusiva competência e colocamos como reserva (assunto não referendado) as questões financeiras. Mas, como diz o Partido Socialista, poderá haver outras. O que entendemos é que em processo de discussão na especialidade deverão elencar-se, tanto quanto possível de uma forma exaustiva, os assuntos não referendáveis para que tal matéria não dependa do puro arbítrio.\n\nQuanto à participação dos eleitores, nomeadamente sobre o efeito que houver quando a consulta for considerada, à partida, como deliberativa e tiver percentagem inferior aos 50% avançados, poderá servir, simplesmente, para que depois o órgão decida sobre como há-de interpretar esses resultados. Poderá, na mesma, atribuir à consulta uma eficácia deliberativa ou apenas consultiva, e, posteriormente, o órgão deliberará sobre a sequência do processo."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 3695,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado António Vitorino."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 3695,
+      "speaker": {
+        "id": 610,
+        "name": "António Manuel De Carvalho Ferreira Vitorino",
+        "party": "PS",
+        "string": "O Sr. António Vitorino (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: De novo a Assembleia da República debate em plenário diversos projectos de lei tendentes a regulamentar o artigo constitucional que consagra os referendos locais, ou as consultas populares aos cidadãos eleitores, ou ainda as consultas directas aos cidadãos eleitores a nível local. A terminologia é fungível hoje, como já o era no nosso projecto que tivemos ocasião de defender na legislatura passada.\n\nCriados pela revisão constitucional de 1982, os referendos locais foram sempre adiados em sede de consagração legal pela dissolução da Assembleia da República.\n\nEspero, por isso, que o facto de estarmos hoje a discutir não seja prenúncio de uma próxima dissolução!"
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 3695,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Esteja descansado!"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 3695,
+      "speaker": {
+        "id": 610,
+        "name": "António Manuel De Carvalho Ferreira Vitorino",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Espero apenas! A não ser que os Srs. Deputados tenham expectativas diferentes!\n\nÀ partida, parece-nos de reafirmar que a complexidade da matéria em causa, decerto virá a exigir um trabalho cuidado em sede de comissão na especialidade.\n\nOs projectos de lei, mesmo que todos «somados», deixam ainda algumas zonas escuras no tratamento legislativo desta matéria, por incompletude dos normativos adoptados, deixando em aberto questões que merecem ponderação e que só poderão encontrar um adequado preenchimento no quadro da elaboração de um verdadeiro e próprio código eleitoral, reivindicação há muito sentida por quem trata destas questões eleitorais e que, infelizmente, tem sido constantemente adiada.\n\nO Grupo Parlamentar do Partido Socialista contribui para este debate com um projecto de lei, que, em grande parte, corresponde àquele que na legislatura passada tínhamos apresentado, e pensamos que estamos\n\na tratar de uma matéria que é profundamente inovadora no nosso ordenamento jurídico e no nosso sistema político, o que aconselha aturada reflexão e cuidada ponderação.\n\nReflexão e ponderação que estão, aliás, na base de algumas alterações que o Partido Socialista introduziu ao projecto que havia apresentado na anterior legislatura, pelas razões que adiante referirei.\n\nNa realidade, trata-se de instituir um mecanismo que contribua para o reforço da participação directa e activa dos cidadãos na vida política da comunidade, como postula o próprio artigo 112.º da Constituição. Por isso, o n. º 3 do artigo 241.º da Constituição deve ser entendido como um afloramento desse mesmo princípio geral da organização do poder político. Mas a consagração das consultas populares locais, se corresponde à preocupação de reforçar a participação directa e activa dos cidadãos na vida política, não pode, de forma directa nem indirecta, pôr em causa a legitimidade dos órgãos autárquicos emergentes da representação popular determinada pelo sufrágio universal.\n\nSabemos por experiência própria que nem sempre é fácil encontrar esse justo ponto de equilíbrio que permita o harmonioso entrosamento de manifestações de democracia directa ou participativa e de democracia representativa. O fim último que se prossegue com esta iniciativa legislativa é o da complementaridade de ambas as vertentes no sentido de um mais profundo enraizamento da democracia na vida quotidiana dos cidadãos. E que melhor instância para esse efeito do que o nível local? É por isso que pela nossa parte estamos dispostos a colaborar na aprovação de todas as iniciativas legislativas que permitam que, ponderamente, em sede de comissão, sejam sopesadas as diferentes soluções que se encontram em apreciação.\n\nÉ óbvio que, através dos referendos locais, não se trata de substituir os órgãos autárquicos pelo mecanismo da consulta directa. Para nós, a regra continuará a ser a de que a decisão compete aos órgãos autárquicos.\n\nSem prejuízo deste princípio, optamos por reapreciar, desde logo, a eficácia dos próprios referendos locais.\n\nConsagramos no nosso projecto, desta feita a eficácia deliberativa de todos os referendos locais, e fazemo-lo em correspondência com o modelo de referendo nacional constante do nosso projecto de revisão constitucional, também ele sempre deliberativo, e porque alteramos neste projecto o regime de convocação dos referendos locais nos termos a que adiante farei referência.\n\nDiferentemente, mantivemos a solução adoptada quanto ao objecto dos referendos locais.\n\nA Constituição consagra uma regra aberta:\n\nPodem ser objecto de consultas populares locais todas as matérias da competência dos órgãos autárquicos.\n\nO projecto de lei apresentado pelo CDS não admite que existam restrições a esta regra absoluta, pois, segundo ele, todas as competências dos órgãos autárquicos podem ser submetidas a referendo.\n\nContudo, todos os outros projectos de lei admitem excepções, limites, restrições as matérias que possam ser submetidas a referendo local. O projecto de lei apresentado pelo PSD admite que não possam ser submetidas a referendos locais matérias atinentes a questões"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 3697,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Manuel Mendes."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 3697,
+      "speaker": {
+        "id": 737,
+        "name": "José Manuel De Melo Antunes Mendes",
+        "party": "PCP",
+        "string": "O Sr. José Manuel Mendes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: O quadro do presente debate não é exactamente aquele em que na sessão legislativa anterior considerámos os projectos de lei das diferentes forças políticas sobre a matéria em análise. Hoje há o sinal das variadas sugestões avançadas em sede de revisão constitucional quanto a um referendo que não é o local, é o nacional, mas com características que não podem deixar de aplicar-se, mutatis mutandis, à exegese que agora devemos empreender.\n\nTivemos oportunidade, no passado, de sinalizar os perigos decorrentes da adopção de um mecanismo que pudesse ser manipulado contra as populações, por ausência de elementares cautelas, que devem viabilizá-lo e potenciá-lo como um expediente ao serviço da democracia.\n\nEm si mesmos considerados, os referendos locais, ou, na terminologia da Constituição, as consultas directas aos cidadãos eleitores, são, sem dúvida, uma arma que deve ser utilizada positivamente, no quadro estabelecido pela lei fundamental e no interior dos órgãos autárquicos envolvidos, pelo que olhamos os três projectos de lei com o sentido de neles procurar encontrar as pontes e os pontos de partida para um bom travejamento que, ensejando o resultado final, se afigure favorável ao objectivo que prosseguimos."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 3699,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Barbosa da Costa."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 3699,
+      "speaker": {
+        "id": 81,
+        "name": "Francisco Barbosa Da Costa",
+        "party": "PRD",
+        "string": "O Sr. Barbosa da Costa (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Na última legislatura houve a oportunidade de aprovar na generalidade quatro projectos de lei que, no decurso do n.º 3 do artigo 241.º da Constituição, previam consultas directas aos cidadãos eleitores.\n\nA necessária votação final não se verificou e de novo vamos debruçar-nos sobre esta matéria, que recebeu um consenso alargado no passado e que se pensa que possa repetir-se hoje.\n\nNum sistema político que se reclama de princípios da democracia representativa cabe perfeitamente a possibilidade do exercício formal do sistema de democracia directa.\n\nAliás, esta questão não é um facto menor na vida democrática portuguesa. Não se julgue, porém, que este será o caminho para a institucionalização de um qualquer poder paralelo.\n\nBem longe de o referendo poder ser um meio para o enfraquecimento da democracia representativa, poder-se-á transformar num seu elemento complementar.\n\nImporta, antes de mais, reflectir sobre a própria natureza do papel dos eleitores e dos eleitos.\n\nComo decorre da própria Constituição, não são os partidos que são eleitos para estar no parlamento, mas um conjunto de cidadãos a quem, por essa simples condição, se faculta o agrupamento de acordo com as suas afinidades partidárias ou ideológicas.\n\nÉ também certo que há uma impossibilidade real de os eleitores se pronunciarem hoje em acto eleitoral sobre questões que vão ser alvo de discussão e votação dois ou três anos mais tarde.\n\nPor outro lado, é também verdade que os deputados não representam os seus eleitores, nem muito menos os militantes dos seus partidos, mas todo o País.\n\nTodos os apelos ao referendo são também uma forma indirecta de sublinhar que os deputados devem ser independentes.\n\nSe é certo que a escolha dos representantes continua a ser o único meio de exprimir opções globais, não é menos verdade que as consultas locais constituem um passo importante na participação directa e activa dos cidadãos na vida política.\n\nE não há qualquer contradição nem confronto entre estas duas realidades, pois o princípio da democracia directa não questiona a deliberação e acção das instituições resultantes da democracia representativa.\n\nÉ, pois, saudável e democraticamente exemplar que um órgão cuja origem reside na democracia representativa exprima, sem tibiezas, a vontade política de abrir mão à democracia directa, possibilitadora de uma mais ampla e eficaz participação dos cidadãos na vida política e da possibilidade de tomarem nas suas mãos o seu destino.\n\nDe facto, quando as pessoas se sentem verdadeiramente comparticipantes nas decisões colectivas, não só vivem mais intensamente a concretização das medidas em cuja génese participaram directamente, como nelas participam empenhadamente.\n\nPor outro lado, se as opções partidárias podem dividir as populações, projectos há que poderão ser um eficaz meio de aglutinação da vontade colectiva. Igual carácter revela o facto de se dever iniciar o processo referendário a nível autárquico."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 3700,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para formular pedidos de esclarecimento, tem a palavra o Sr. Deputado Roleira Marinho."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 3700,
+      "speaker": {
+        "id": 841,
+        "name": "António Roleira Marinho",
+        "party": "PSD",
+        "string": "O Sr. Roleira Marinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Barbosa da Costa, foi com muito agrado que ouvi o seu discurso, que, aliás, vem na sequência de um outro aqui proferido em 18 de Abril de 1986, uma vez que veiculou o mesmo pensamento e a mesma fé, pois acreditou do mesmo modo no instituto do referendo local.\n\nNo entanto, estou um pouco perplexo, não com a manutenção da mesma postura perante o problema das consultas locais, mas porque o PRD, na sua proposta de revisão constitucional, aponta para a eliminação do artigo em que tal está previsto. O que me espanta é esse duplo critério de, por um lado, apostar nas consultas locais em prol das autarquias e dos cidadãos e, por outro, fazer a retirada do princípio constitucional que o permite.\n\nGostava, pois, de lhe perguntar como é que concilia estas duas posições."
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 3700,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o desejar, tem a palavra o Sr. Deputado Barbosa da Costa."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 3700,
+      "speaker": {
+        "id": 81,
+        "name": "Francisco Barbosa Da Costa",
+        "party": "PRD",
+        "string": "O Sr. Barbosa da Costa (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado Roleira Marinho referiu que perpassa no meu discurso o mesmo pensamento e a mesma fé havida numa intervenção produzida na última legislatura. Reafirmo estes princípios, que me são caros por uma questão de conhecimento da vida colectiva dos povos ao longo dos séculos. Creio que esta questão, aparentemente, poderá ser contraditória em relação ao que se afirma no nosso projecto de revisão constitucional. No entanto, isso não me inibe de manter as mesmas posições, porque entendo que é um caminho seguro para o País caminhar em sentido paralelo ao que acontece com a democracia representativa."
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 3700,
+      "speaker": {
+        "id": 841,
+        "name": "António Roleira Marinho",
+        "party": "PSD",
+        "string": "O Sr. Roleira Marinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Posso interrompê-lo, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 3700,
+      "speaker": {
+        "id": 81,
+        "name": "Francisco Barbosa Da Costa",
+        "party": "PRD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Faça favor."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 3700,
+      "speaker": {
+        "id": 841,
+        "name": "António Roleira Marinho",
+        "party": "PSD",
+        "string": "O Sr. Roleira Marinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, sublinho essa sua posição pessoal, mas gostaria de saber qual a posição do seu partido."
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 3700,
+      "speaker": {
+        "id": 81,
+        "name": "Francisco Barbosa Da Costa",
+        "party": "PRD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não se trata de uma posição pessoal, e, se me recordo bem, para além da intervenção que produzi, houve uma outra, que foi a do então líder do PRD, deputado Magalhães Mota, que ia exactamente no mesmo sentido. Portanto, como vê, esta posição não é pessoal."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 3700,
+      "speaker": {
+        "id": 841,
+        "name": "António Roleira Marinho",
+        "party": "PSD",
+        "string": "O Sr. Roleira Marinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A do partido é que é diferente!"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 3700,
+      "speaker": {
+        "id": 50,
+        "name": "António Manuel De Oliveira Guterres",
+        "party": "PS",
+        "string": "O Sr. António Guterres",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não seja mauzinho!..."
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 3700,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Manuel Moreira."
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 3701,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Manoel Moreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: A Assembleia da República, com poderes constituintes em 1982, decidiu introduzir na nossa lei fundamental as consultas directas aos cidadãos eleitores a nível local, mais vulgarmente conhecidas por referendo local.\n\nO PSD, que sempre defendeu e continua a defender o instituto do referendo a nível nacional e a nível local, considerou-o um dos instrumentos mais democráticos, uma vez que permite auscultar directamente os cidadãos portugueses sobre assuntos de grande relevância para a vida colectiva.\n\nO referendo é um dos instrumentos da democracia directa que, quando for necessário, se devem utilizar sem pôr em causa a democracia representativa institucionalizada no nosso país.\n\nNo entanto, há mais de cinco anos que as consultas directas aos cidadãos eleitores a nível local existem na nossa Constituição e ainda não foram desencadeadas por falta de regulamentação própria.\n\nÉ isso que hoje, neste hemiciclo, estamos a fazer, na terceira tentativa, dado que nas duas anteriores legislaturas em que o procurámos fazer não passámos da apreciação e votação dos projectos de lei na generalidade.\n\nO PSD considera fundamental que a Assembleia da República, desta vez, consiga levar até ao fim este processo legislativo, a fim de que possamos contar num futuro próximo com este mecanismo legal, que, estamos certos, aprofundará ainda mais a nossa democracia.\n\nSr. Presidente, Srs. Deputados, foi nesse sentido que apresentámos de novo o nosso projecto de lei das consultas directas aos cidadãos eleitores a nível local previstas no n.º 3 do artigo 241.º da Constituição, tendo o PS e o CDS feito o mesmo. Discutimos hoje nesta Câmara os três projectos com este objecto.\n\nConsideramos que existe uma evidente similitude entre os projectos de lei do PSD e do PS. No plano sistemático é notória a sua semelhança em termos de número de artigos, capítulos e títulos, bem como as respectivas epígrafes.\n\nPor outro lado, o projecto do CDS é muito mais reduzido (apenas nove artigos), remetendo, em larga medida, para a Lei Eleitoral e legislação complementar.\n\nJulgamos que a matéria deverá merecer regulamentação adequada, por se tratar de questão nova, e não devem surgir dúvidas na sua implementação.\n\nSr. Presidente, Srs. Deputados, a principal diferença entre os projectos de lei do PSD, do PS e do CDS radica na eficácia das consultas. Ó PSD propõe que as consultas possam ter eficácia consultiva ou deliberativa, enquanto o PS e o CDS atribuem sempre eficácia deliberativa às consultas.\n\nJulgamos que num sistema de democracia representativa, como o nosso, deve competir aos órgãos autárquicos a avaliação do peso político do resultado das consultas. A eles compete definir as linhas e opções de política local e, nesta medida, as consultas têm, em regra, um efeito de auscultação do sentir das populações.\n\nSem prejuízo de as consultas terem eficácia deliberativa, nos casos em que se justificar e em que mais de metade dos eleitores se pronunciarem num certo sentido. Deste modo se conjugará o princípio da representativa dos órgãos com o primado da vontade maioritária dos eleitores.\n\nO PSD, em face do preceito constitucional, que prevê que os órgãos autárquicos podem efectuar consultas directas aos cidadãos eleitores recenseados na respectiva área sobre matérias da sua exclusiva competência, defende que todos os órgãos locais, deliberativos ou executivos, as podem desencadear.\n\nO projecto de lei n.º 200/V, do PSD, pela sua formulação, é o mais aberto, flexível, pragmático e o mais completo na matéria da regulamentação do referendo local. No entanto, consideramos que os três projectos são convergentes em muitos aspectos e por isso os vamos vota favoravelmente, a fim de que baixem à respectiva comissão especializada, de forma a serem apreciados na especialidade.\n\nSr. Presidente, Srs. Deputados, com a aprovação da lei das consultas directas aos cidadãos eleitores a nível local preenchemos mais uma lacuna no nosso ordenamento jurídico, que vai permitir, estamos certos disso, o funcionamento mais eficaz da nossa democracia e uma acção mais responsável e sintonizada dos autarcas com a vontade das populações locais."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 3701,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado António Guterres."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 3701,
+      "speaker": {
+        "id": 50,
+        "name": "António Manuel De Oliveira Guterres",
+        "party": "PS",
+        "string": "O Sr. António Guterres (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Manuel Moreira, ouvi com muita atenção as suas palavras e registo apenas um ponto dissonante nas posições por si apresentadas, no que diz respeito aos nossos partidos.\n\nEsse ponto tem a ver com a possibilidade, de acordo com os desejos do PSD, de o referendo ser consultivo.\n\nPergunto: crê o Sr. Deputado que, numa situação concreta em que um referendo consultivo produza um determinado resultado e o executivo ou a assembleia municipal decidam posteriormente em sentido contrário, não se geraria uma insustentável situação de conflito e de divisão junto dos cidadãos do respectivo concelho, que seria extremamente negativa para o prestígio do poder local? Já que se consultam as populações, não valerá então a pena tornar deliberativo o seu parecer, sob pena de deixarmos ficar a situação num grau de indeterminação e num risco de conflitualidade que nos parece ser extremamente perigoso para o prestígio da respectiva câmara ou assembleia municipal?"
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 3701,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Manuel Moreira."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 3701,
+      "speaker": {
+        "id": 525,
+        "name": "Manuel Maria Moreira",
+        "party": "PSD",
+        "string": "O Sr. Manuel Moreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado António Guterres, considerámos no nosso projecto de lei as duas hipóteses, a eficácia deliberativa e a consultiva, porque julgamos que ambas devem ser consideradas na regulamentação das consultas locais, na medida em que fazemos confiança nos órgãos autárquicos, de um modo geral, na sua capacidade de apreciação e, naturalmente, na sua capacidade de saber interpretar bem o sentir e o querer das populações locais.\n\nEstou certo de que dependerá muito das questões que forem postas a referendo local e, mesmo quando o referendo for desencadeado apenas com o objectivo consultivo, a respectiva autarquia terá em consideração a vontade da população. Naturalmente que não irá, a não ser que haja razões muito fortes para tal - mas suponho que isso nunca acontecerá -, decidir em"
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 3702,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 3702,
+      "speaker": {
+        "id": 112,
+        "name": "Casimiro Gomes Pereira",
+        "party": "PSD",
+        "string": "O Sr. Casimira Pereira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esta forma está equilibradíssima!"
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 3702,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, antes de dar a palavra ao Sr. Deputado Raul Castro para uma intervenção, vai ser lido um relatório e parecer da Comissão de \n\nRegimento e Mandatos.\nFoi lido. É o seguinte:\nDe acordo com o solicitado no ofício n.º 2585, processo n.º 39/88-N, do Tribunal de Instrução Criminal de Portimão, de 5 de Maio corrente, enviado ao Sr. Presidente da Assembleia da República, acerca do Sr. Deputado Filipe Manuel da Silva Abreu, tenho a honra de comunicar a V. Ex.ª que esta Comissão Parlamentar decidiu emitir parecer no sentido de autorizar o referido Sr. Deputado a depor como testemunha no processo em referência.\n\nPelo Presidente da Comissão, (Assinatura ilegível.)\nEstá em discussão. \nPausa.\nEm virtude de não haver inscrições, vamos passar à sua votação.\n\nSubmetido à votação, foi aprovado por unanimidade, registando-se a ausência de Os Verdes.\nPara uma intervenção, tem a palavra o Sr. Deputado Raul Castro."
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 3702,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Raul Castro (ID)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: O debate que agora se realiza representa a reedição de um debate que aqui teve lugar em 1986. Devo dizer que, em relação a esse debate, pela nossa parte, mantemos a posição que então assumimos, no sentido de, muito embora concordando com a existência do referendo, pensarmos que ele deveria ter apenas eficácia consultiva, e não deliberativa, e nessa altura outros nos acompanharam nessa posição.\n\nParece que o panorama de agora é diferente, porquanto, embora no projecto de lei do PSD se admitam as duas formas de eficácia, deliberativa ou consultiva, a verdade é que todos os outros projectos de lei se inclinam para a solução da eficácia deliberativa.\n\nNão temos razões para afastar a posição que então tomámos, e, naturalmente, dispensamo-nos de aqui as referir mais extensamente.\n\nQueremos apenas acrescentar que, já então foi aqui recordado, a própria letra do n.º 3 do artigo 241.º da Constituição, ao usar o termo «consultas», pode constituir um argumento no sentido de o referendo dever ter um carácter consultivo, e não deliberativo. Foi esse o alcance que a revisão constitucional imprimiu a este n.º 3 do artigo 241.º De qualquer forma, não vamos insistir nesta questão.\n\nOs projectos de lei levantam esta e muitas outras questões, mas, para nós, levantam fundamentalmente duas questões muito importantes: a da eficácia - a que já me referi - e a do âmbito. Nesta matéria, funcionando de algum modo como forma mitigada em relação à eficácia deliberativa, como se prevê agora no projecto de lei do PS, temos de reconhecer que não basta estabelecer como limite, tal como faz o PSD, apenas as questões financeiras.\n\nEm nossa opinião, parece ser muito mais de acolher a proposta constante do artigo 2.º do projecto de lei do PS, que estabelece limites não só sobre questões financeiras, como também sobre quaisquer outras que, pela sua natureza, sejam insusceptíveis de tal consulta, do que aquelas que, nos termos da lei, devam ser resolvidas vinculadamente pelos órgãos autárquicos ou que já tenham sido objecto de decisão irrevogável.\n\nVemos, efectivamente, nesta fórmula - que de algum modo responde à repetição da posição já assumida em 1986 pelo PS - uma maneira mais correcta de limitar o carácter deliberativo do referendo. Isto porque, à partida, se coloca uma série de fronteiras que torna inviável a realização de referendos, o que para nós tem a maior importância, visto que um dos pressupostos que fazemos da defesa do carácter consultivo do referendo é, precisamente, a autonomia do poder local e, de algum modo, a posição do projecto de lei do PS vai ao encontro desta razão de fundo.\n\nNaturalmente que os projectos de lei colocam muitas outras questões, mas para nós as duas questões mais importantes são a da eficácia e a do âmbito.\n\nNão podendo concordar com as soluções apresentadas nestas e noutras matérias, mas tendo a esperança de que em sede de especialidade seja possível obter alguns consensos quanto às questões agora suscitadas pelos diversos projectos de lei, a ID irá abster-se."
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 3702,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 3702,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Roleira Marinho."
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 3702,
+      "speaker": {
+        "id": 841,
+        "name": "António Roleira Marinho",
+        "party": "PSD",
+        "string": "O Sr. Roleira Marinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado Raul Castro acentuou, com bastante ênfase, a questão do âmbito das consultas e dos seus limites, referindo, nomeadamente, as questões financeiras, com que está de acordo, e com o projecto de lei do PS, quando refere «quaisquer outras questões».\n\nPerguntamos, na nossa intervenção já o fizemos, quais eram as «outras questões», porque deixar isto assim na lei parece-nos muito vago.\n\nPergunto-lhe, Sr. Deputado: não será de fazer, em termos de discussão na especialidade, um enunciado exaustivo das questões em relação às quais não poderão desencadear-se referendos locais? De outra maneira, poder-se-ão gerar conflitos não só entre os órgãos, como também entre os cidadãos e os respectivos órgãos que decidem sobre as mesmas consultas."
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 3703,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Raul Castro."
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 3703,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Raul Castro (ID)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Roleira Marinho, tal como referi na intervenção que produzi, e creio ser esse também o pressuposto da própria proposta constante do projecto de lei do PS, o que aqui está em causa é a defesa da autonomia do poder local. Quer dizer, há questões sobre as quais o poder local não se pode demitir de tomar decisões.\n\nPortanto, se fôssemos estabelecer, de uma forma generalizada e sem limites, um referendo para todas as matérias, estávamos, tal como o PS justificava na altura o carácter consultivo, a diluir a responsabilidade dos órgãos das autarquias. É isto que fundamentalmente está em causa. Julgo que o poder local é considerado por todos nós como um poder democrático autónomo e descentralizado e a sua autonomia tem de ser ressalvada, muito mais quando se admite que o referendo tem carácter vinculativo. Porque então aí há uma certa espécie de invasão do referendo em relação às decisões dos órgãos autárquicos e, se não houvesse limites e fronteiras, naturalmente que se punha gravemente em causa a autonomia do poder local."
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 3703,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Herculano Pombo."
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 3703,
+      "speaker": {
+        "id": 1871,
+        "name": "Herculano Da Silva Pombo Marques Sequeira",
+        "party": "PEV",
+        "string": "O Sr. Herculano Pombo (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ªs Deputadas, Srs. Deputados: São sobejamente conhecidas as simpatias que nós, os ecologistas, temos por todas as formas do exercício da democracia directa. De facto, há já alguns anos que em toda a Europa nos vimos batendo pela dignificação do referendo e também pelo encontrar de novas formas de exercício da democracia directa por parte de todos os cidadãos.\n\nPor outro lado, é para nós bastante penoso verificar como em Portugal e em alguns países se vem acentuando um fenómeno de afastamento do cidadão comum em relação à participação na coisa pública, deixando aos políticos profissionais a capacidade de decidir sobre matérias que depois têm repercussões muito directas no quotidiano de todos. Pensamos, pois, que a criação deste novo instituto pode e deve ser uma primeira resposta a esta premente questão.\n\nMas a previsão de possíveis e prováveis abusos de natureza populista ou demagógica deve levar-nos a legislar de uma forma clara, mas cautelar. Nesta medida, estamos dispostos a votar favoravelmente os três projectos de lei, no sentido de baixarem à comissão, para que nesse terreno privilegiado do diálogo se possa encontrar a solução mais consensual, mais digna e mais expedita."
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 3703,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, visto não haver mais oradores inscritos, dou por encerrada a discussão destes diplomas.\n\nSe não houver oposição por parte da Câmara, vamos passar à votação na generalidade dos projectos de lei n.ºs 86/V, 200/V e 23l/V, relativos a consultas directas aos cidadãos eleitores a nível local.\n\nComo não há, vamos votar.\nSubmetidos à votação, foram aprovados» com votos a favor do PSD, do PS, do PRD, do CDS e de Os Verdes e abstenções do PCP e da ID.\nSrs. Deputados, deu entrada na Mesa um requerimento, subscrito por todos os grupos e agrupamentos parlamentares, solicitando a baixa à Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias dos projectos de lei n.º 86/V, 200/V e 231/V, para apreciação na especialidade pelo prazo de 45 dias.\n\nVamos votar este requerimento.\nSubmetido à votação, foi aprovado por unanimidade.\n\nSrs. Deputados, a próxima reunião plenária terá lugar às 10 horas de terça-feira, cuja ordem do dia será a interpelação ao Governo sobre política de saúde, requerida pelo PCP.\n\nÀs 19 horas e 30 minutos proceder-se-á às votações na generalidade, na especialidade e final global do projecto de lei n.º 34/V, que diz respeito às alterações à Lei do Serviço Militar.\n\nEstá encerrada a sessão."
+    }
+  ]
+}

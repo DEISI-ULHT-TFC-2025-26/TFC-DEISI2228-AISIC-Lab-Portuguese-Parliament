@@ -1,0 +1,460 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "7",
+    "legislative_session": "2",
+    "number": "52",
+    "date": "1997-03-14"
+  },
+  "debate_id": "r3_7_2_52_1997-03-14",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 1816,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quorum, pelo que declaro aberta a sessão.\nEram 10 horas e 40 minutos.\n\nEstavam presentes os seguintes Srs. Deputados:\nPartido Socialista (PS):\nAcácio Manuel de Frias Barreiros.\n\nAgostinho Marques Moleiro.\n\nAlberto de Sousa Martins.\n\nAlbino Gonçalves da Costa.\n\nAníbal Marcelino Gouveia.\n\nAntónio Alves Marques Júnior.\n\nAntónio Alves Martinho.\n\nAntónio de Almeida Santos.\n\nAntónio Fernandes da Silva Braga.\n\nAntónio Fernando Marques Ribeiro Reis.\n\nAntónio José Gavino Paixão.\n\nAntónio José Guimarães Fernandes Dias.\n\nArlindo Cipriano Oliveira.\n\nArnaldo Augusto Homem Rebelo.\n\nArtur Clemente Gomes de Sousa Lopes.\n\nArtur Miguel Claro da Fonseca Mora Coelho.\n\nArtur Rodrigues Pereira dos Penedos.\n\nCarlos Alberto Cardoso Rodrigues Beja.\n\nCarlos Alberto Dias dos Santos.\n\nCarlos Justino Luís Cordeiro.\n\nCarlos Manuel Amândio.\n\nCláudio Ramos Monteiro.\n\nDomingos Fernandes Cordeiro.\n\nEduardo Ribeiro Pereira.\n\nElisa Maria Ramos Damião.\n\nEurico José Palheiros de Carvalho Figueiredo.\n\nFernando Alberto Pereira de Sousa.\n\nFernando Alberto Pereira Marques.\n\nFernando Antão de Oliveira Ramos.\n\nFernando Garcia dos Santos.\n\nFernando Manuel de Jesus.\n\nFernando Pereira Serrasqueiro.\n\nFrancisco Fernando Osório Gomes.\n\nFrancisco José Pereira de Assis Miranda.\n\nFrancisco José Pinto Camilo.\n\nFrancisco Manuel Pepino Fonenga.\n\nGonçalo Matos Correia de Almeida Velho.\n\nHenrique José de Sousa Neto.\n\nJoão Carlos da Costa Ferreira da Silva.\n\nJoão Rui Gaspar de Almeida.\n\nJoaquim Moreira Raposo.\n\nJoaquim Sebastião Sarmento da Fonseca Almeida.\n\nJoel Eduardo Neves Hasse Ferreira.\n\nJorge Lacão Costa.\n\nJorge Manuel Damas Martins Rato.\n\nJorge Manuel Fernandes Valente.\n\nJorge Manuel Gouveia Strecht Ribeiro.\n\nJosé Adelmo Gouveia Bordalo Junqueiro.\n\nJosé Afonso Teixeira de Magalhães Lobão.\n\nJosé Alberto Cardoso Marques.\n\nJosé António Ribeiro Mendes.\n\nJosé Carlos da Cruz Lavrador.\n\nJosé Carlos das Dores Zorrinho.\n\nJosé Carlos Lourenço Tavares Pereira.\n\nJosé da Conceição Saraiva.\n\nJosé de Matos Leitão.\n\nJosé Ernesto Figueira dos Reis.\n\nJosé Fernando Rabaça Barradas e Silva.\n\nJosé Manuel de Medeiros Ferreira.\n\nJosé Manuel Niza Antunes Mendes.\n\nJosé Manuel Rosa do Egipto.\n\nJosé Manuel Santos de Magalhães.\n\nJosé Maria Teixeira Dias.\n\nJosé Pinto Simões.\n\nJovita de Fátima Romano Ladeira Matias.\n\nJúlio Manuel de Castro Lopes Faria.\n\nLaurentino José Monteiro Castro Dias.\n\nLuís Afonso Cerqueira Natividade Caudal.\n\nLuís Filipe Nascimento Madeira.\n\nLuís Pedro de Carvalho Martins.\n\nManuel Alberto Barbosa de Oliveira.\n\nManuel Alegre de Melo Duarte.\n\nManuel António dos Santos.\n\nManuel Francisco dos Santos Valente.\n\nManuel Jorge Pedrosa Forte de Goes.\n\nManuel Porfírio Varges.\n\nMaria Amélia Macedo Antunes.\n\nMaria Celeste Lopes da Silva Correia.\n\nMaria da Luz Gameiro Beja Ferreira Rosinha.\n\nMaria do Carmo de Jesus Amaro Sequeira.\n\nMaria Fernanda dos Santos Martins Catarino Costa.\n\nMaria Helena do Rego da Costa Salema Roseta.\n\nMaria Isabel Ferreira Coelho de Sena Lino.\n\nMaria Jesuína Carrilho Bernardo.\n\nMário Manuel Videira Lopes.\n\nMartim Afonso Pacheco Gradas.\n\nMiguel Bernardo Ginestal Machado Monteiro Albuquerque.\n\nNatalina Nunes Esteves Pires Tavares de Moura.\n\nNuno Manuel Pereira Baltazar Mendes.\n\nOsvaldo Alberto Rosário Sarmento e Castro.\n\nPedro Luís da Rocha Baptista.\n\nPedro Ricardo Cavaco Castanheira Jorge.\n\nRaimundo Pedro Narciso.\n\nRui do Nascimento Rabaça Vieira.\n\nRui Manuel dos Santos Namorado.\n\nSérgio Carlos Branco Barros e Silva.\n\nSónia Ermelinda Matos da Silva Fertuzinhos.\n\nVictor Brito de Moura.\nPartido Social Democrata (PSD):\nAdalberto Paulo da Fonseca Mendo.\n\nAdriano de Lima Gouveia Azevedo.\n\nÁlvaro dos Santos Amaro.\n\nAmândio Santa Cruz Domingues Basto Oliveira.\n\nAntónio da Silva Antunes.\n\nAntónio Costa Rodrigues.\n\nAntónio de Carvalho Martins.\n\nAntónio dos Santos Aguiar Gouveia.\n\nAntónio Fernando da Cruz Oliveira.\n\nAntónio Joaquim Correia Vairinhos.\n\nAntónio José Barradas Leitão.\n\nAntónio Moreira Barbosa de Melo.\n\nAntónio Paulo Martins Pereira Coelho.\n\nAntónio Roleira Marinho.\n\nArménio dos Santos.\n\nArtur Ryder Torres Pereira.\n\nCarlos Manuel de Sousa Encarnação.\n\nCarlos Manuel Duarte de Oliveira.\n\nCarlos Manuel Marta Gonçalves.\n\nCaries Miguel Maximiano de Almeida Coelho.\n\nDuarte Rogério Matos Ventura Pacheco.\n\nEduardo Eugénio Castro de Azevedo Soares."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 1817,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, visto hoje não haver expediente para ser lido, vamos iniciar os nossos trabalhos com a discussão conjunta das propostas de resolução n.º 9/VII - Aprova, para ratificação, o\nAcordo - Quadro Inter-Regional de Cooperação entre a Comunidade Europeia e os seus Estados Membros, por um lado, e o Mercado Comum do Sul e os seus Estados Partes, por outro - e\n37/VII - Aprova, para ratificação, a Convenção para a Cooperação no âmbito da Conferência Ibero-Americana, assinada em S. Carlos de Bariloche, Argentina, em 15 de Outubro de 1995.\n\nTem a palavra o Sr. Deputado João Corregedor da Fonseca, na qualidade de relator, podendo, se assim o entender e como é habitual, fazer também uma intervenção, em nome do seu grupo parlamentar."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 1817,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "PCP",
+        "string": "O Sr. João Corregedor da Fonseca (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, vou fazer um resumo do relatório sobre a proposta de resolução n.º 37/VII, e não da proposta de resolução n.º 9/VII, que diz respeito à ratificação da Convenção para a Cooperação no âmbito da Conferência Ibero-Americana, assinada em S. Carlos de Bariloche, Argentina, em 15 de Outubro de 1995.\n\nMas, Sr. Presidente, uma vez que, pelo agendamento, está em primeiro lugar a discussão da proposta de resolução n.º 9/VII, não sei se V. Ex.ª quer iniciar por aí o debate. Não sei como é que o Sr. Presidente prefere."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 1817,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado João Corregedor da Fonseca, sendo assim, tem a palavra o Sr. Deputado Pedro Baptista, para, na qualidade de relator, apresentar o relatório sobre a proposta de resolução n.º 9/VII, que, tal como disse ao Sr. Deputado João Corregedor, também poderá, se assim o entender, fazer de seguida uma intervenção em nome do seu grupo parlamentar."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 1817,
+      "speaker": {
+        "id": 1690,
+        "name": "Pedro Luis Da Rocha Baptista",
+        "party": "PS",
+        "string": "O Sr. Pedro Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: O acordo Inter-Regional de Cooperação entre a Comunidade Europeia e os seus Estados membros e o Mercado Comum do Sul e os seus Estados Partes, assinado em Dezembro de 1994, em Madrid, sobre cuja proposta de ratificação ora nos debruçamos é da maior importância.\n\nO Acordo coroa um longo processo de integração regional tanto na Europa como na América Latina desde a década de 60, e um longo processo de desenvolvimento das relações bilaterais entre as duas regiões a partir da década de 70."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 1818,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para uma intervenção. o Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 1818,
+      "speaker": {
+        "id": 1498,
+        "name": "José Alberto Rebelo Dos Reis Lamego",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação (José Lamego)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Já tive oportunidade de me exprimir quanto a esta metodologia, de às sextas-feiras de manhã e em «ambiente trepidante» das sextas-feiras de manhã, vermos discutir «matérias trepidantes» que são as resoluções de aprovação de convenções internacionais.\n\nDe todo o modo, queria atribuir uma especial importância a este Acordo-Quadro de Cooperação Inter-Regional entre a Comunidade Europeia e o Mercosul até porque faz parte de toda a dinamização do sistema de relações internacionais uma relação acrescida de Portugal com o Mercosul. E naturalmente que elevarão o nosso perfil no quadro da União Europeia o reforço dessa cooperação e o apontar para uma zona de comércio livre entre a União Europeia e o Mercosul. Por outro lado, foi assumido como traço específico da política externa do actual Governo o reforço da relação bilateral entre Portugal e o Brasil e também no quadro da CPLP, mas, em primeiro lugar, o reforço da relação bilateral. Portanto, o Brasil, como país motor de toda esta zona do Mercosul, será, de facto, o factor privilegiado não só na relação diplomática como em toda a estratégia de internacionalização da economia portuguesa.\n\nPortanto, o que eu pedia, naturalmente, como é, aliás, intenção e consenso dos Srs. Deputados, é que fosse ratificada esta proposta de resolução e que nos congratulássemos com o estabelecimento deste Acordo-Quadro de Cooperação entre a Comunidade Europeia e o Mercosul."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 1818,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 1818,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Nuno Abecasis."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 1818,
+      "speaker": {
+        "id": 336,
+        "name": "Nuno Krus Abecasis",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Abecasis (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: De facto, estas sextas-feiras vão-se tornando uma rotina que nos ocupemos com a apreciação de vários acordos internacionais relacionando a Comunidade Europeia com outras partes do Mundo ou então de adesão de novos Estados à Comunidade Europeia.\n\nSucede que estes dois que temos presentes têm um particular significado para nós, porque de facto a América Latina, na qual se enquadra o Mercosul, tem tudo a ver com a Península Ibérica, com Portugal e com Espanha, se bem que a história destes acordos tenha começado quando nem Portugal nem a Espanha faziam parte da Comunidade Europeia. Durante esses anos foi-se acentuando a busca que a Comunidade Europeia, particularmente os países do Norte, fazia procurando retirar proveito destes acordos que se estavam a construir. E é evidente que para países altamente industrializados é apropriada, e não comporta grandes riscos, a troca dos produtos industriais com os produtos agrícolas fundamentalmente originários da América do Sul. Não é bem esse o nosso caso, e eu diria que estamos aqui perante o um paradoxo, porque politicamente nos interessa mais do que aos países do Norte este Acordo, mas, ao mesmo tempo, comporta para nós riscos que devem ser acautelados desde já.\n\nE eu diria, Sr. Secretário de Estado, que estou certo de que o Governo terá neste momento equipas a estudar o impacto que poderá ter sobre a economia portuguesa a entrada livre de produtos tão importantes como aqueles que podem vir para Portugal de origem da América Latina, do Mercosul, como sejam, por exemplo, as carnes provenientes da Argentina, e outros produtos da mesma natureza.\n\nNão estou a dizer, Sr. Secretário de Estado, que inevitavelmente estejamos perante uma catástrofe, mas estou a dizer que a prudência manda que de facto, quando pode estar em risco a produção de carnes, de citrinos, de frutos, de couros e, no caso da Madeira, também de bananas provenientes da América do Sul, não era disparatado que desde já estudássemos atentamente quais as contrapartidas, qual a parte de vantagens que é legítimo, lícito e urgente que nós também recolhamos destes acordos. Pelo menos,"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 1819,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Reis Leite."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 1819,
+      "speaker": {
+        "id": 1696,
+        "name": "Jose Guilherme Reis Leite",
+        "party": "PSD",
+        "string": "O Sr. Reis Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Já aqui foi lembrado que às sextas-feiras de manhã - umas sextas-feiras «morrinhentas», como se fosse a «primeira sexta-feira do mês»..., não é bem o caso mas é todas as sextas-feiras -, vimos aqui tratar de assuntos que, regra geral, merecem o consenso de todos os partidos representados na Câmara, o que faz com que o debate não\nseja muito vivo, mas não deixam, muitos deles, de ter a maior importância, e o de\nhoj manifestamente sobressai nessa importância para a União Europeia e para Portugal.\n\nO problema que aqui se coloca, de ratificação de um Acordo-Quadro Inter-Regional de Cooperação entre a Comunidade Europeia e os seus Estados Membros, por um\nlado, e o Mercado Comum do Sul e os seus Estados Partes, por outro, tem, sem dúvida, para o caso específico de Portugal, um significado muito especial: primeiro, como o Sr. Secretário de Estado, aliás, já lembrou, ele não pretende certamente fazer desaparecer as relações bilaterais entre Portugal e um dos países mais significativos deste Mercosul, que é o Brasil, com quem temos relações evidentemente histórias e culturais e de identidade que têm de ser ressalvadas, outra coisa é se, depois, no concreto, essa vontade das relações bilaterais com o Brasil se concretizam e dão frutos palpáveis. Basta lembrar que bem recentemente vimos o Sr. Primeiro-Ministro deslocar-se ao Brasil com um alusivo séquito, fazer declarações de que agora é que as coisas iam mudar, de que vamos passar das palavras aos actos, mas daí para cá nem palavras, nem\nactos. De forma que é também bom atendermos a estas questões...\n\nVoltando ao assunto concreto que aqui nos traz, direi que esta organização do Mercosul se inscreve na tendência moderna da criação de blocos regionais. Este interessa-nos especificamente pelas razões de que já aqui falámos. Assim, virá a animar certamente o mercado e a vida económica do Atlântico da qual Portugal, sendo um país atlanticista, não pode nem deve estar afastado e poderá mesmo implicar uma intervenção significativa de Portugal na Comunidade reforçando essa vertente de interesses económicos, culturais e políticos com as outras margens\ndo Atlântico, nomeadamente com uma zona, como também já foi aqui ressalvado, tão dinâmica e importante e com perspectivas de futuro tão brilhantes como é a América do Sul, onde se inscreve o Brasil.\n\nÉ igualmente bom dizer-se que a celebração deste acordo, para além deste imediatismo dos interesses comerciais e económicos, abrange âmbitos que os ultrapassam ainda que também estejam relacionados com interesses políticos,\n\nde cooperação cultural, de desenvolvimento da democracia e dos direitos humanos, podendo efectivamente criar-se um mundo mais justo de forma a que estas relações\ncomerciais sejam o caminho da integração de todos os povos num ideal de liberdade e de cooperação entre o mundo, o que implicará o corte das velhas questões de tensões, guerras e domínio de uma das partes em que as relações comerciais se faziam.\n\nEstes idealismos devem ser ressalvados - não serão certamente postos em prática de imediato mas, numa Câmara política como a nossa, acho que é essencialmente por este caminho que devemos ir e que devemos afirmar estas questões, que são as mais significativas, no campo político destes acordos.\n\nPor tudo isto, o Partido Social-Democrata irá votar favoravelmente a ratificação deste acordo."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 1819,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 1819,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Octávio Teixeira."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 1819,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Octávio Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Secretários de Estado, Srs. Deputados: Sendo claramente favoráveis à cooperação entre os Estados e os povos, analisamos esta proposta de resolução relativa à ratificação do acordo de cooperação com o Mercosul com alguma prudência, pois não gostaríamos de entrar - nem entraremos - no foguetório do elogio puro e simples.\n\nA cooperação tem virtualidades e, como disse há pouco, somos-lhe favoráveis, mas há dois aspectos centrais deste acordo que não podemos esquecer, designadamente\nno âmbito da cooperação: a cooperação política, por um lado, e a cooperação social, por outro.\n\nEm relação à cooperação política, bem se compreende quais são os objectivos essenciais que aqui estão inseridos. No âmbito e na perspectiva da criação de blocos regionais, destaca-se o estreitamento da cooperação política,\nfundamentalmente, entre a Alemanha e o Mercosul para ver se este país consegue, do ponto de vista político, contrabalançar de alguma forma a intervenção política dos Estados Unidos da América na região.\n\nSobre a cooperação comercial, estão fundamentalmente em presença dois interesses: o fluxo União Europeia - Mercosul de bens de alta tecnologia, da tecnologia e de conhecimentos tecnológicos e o fluxo no sentido inverso,\nconstituído por questões mais comezinhas, ou seja, pelos produtos objecto de comércio. E aí é evidente que os interesses da União Europeia, enquanto tal, não são exactamente os de todos os países. Por conseguinte, pode haver neste domínio riscos para o caso português que é preciso ter em atenção no âmbito da aplicação concreta do acordo de cooperação.\n\nEm acordos recentes que têm sido estabelecidos entre a União Europeia, outras regiões e países, temos verificado que os interesses económicos - logo, sociais, porque se repercutem em termos de emprego - de Portugal não têm sido salvaguardados. É uma situação para que chamamos, mais uma vez, a atenção do Governo por forma a que, neste âmbito, no que diz respeito a Portugal, os seus"
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 1820,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 1820,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Paulo Pereira Coelho."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 1820,
+      "speaker": {
+        "id": 1118,
+        "name": "António Paulo Martins Pereira Coelho",
+        "party": "PSD",
+        "string": "O Sr. Paulo Pereira Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: É hoje presente ao Plenário da Assembleia da República, para ratificação, a Convenção para a Cooperação no âmbito da Conferência Ibero-Americana, assinada em S. Carlos de Bariloche, Argentina, em 15 de Outubro de 1995.\n\nA política externa portuguesa tem procurado, ampliar os seus programas de cooperação não os circunscrevendo ao espaço lusófono mas penetrando noutros espaços geográficos mais consentâneos com a nossa vocação universalista e optimizando os recursos disponíveis, seguindo, aliás, exemplos de outros países.\n\nA Convenção em apreço resulta da Cimeira de Bariloche, onde se deu um grande espaço à discussão de problemas relacionados com a educação, entendida como factor de desenvolvimento económico e social.\n\nNeste contexto, o seu conteúdo resulta de detalhada análise e discussão que ocorreu na Cimeira e define, de forma ampla, o espaço de intervenção e as áreas de objecto de incidência das acções de cooperação.\n\nDo texto ressaltam aspectos como o acautelamento claro dos mecanismos bilaterais e ou multilaterais de cooperação já existentes; a institucionalização de um responsável para os assuntos de cooperação que trabalhará em sintonia com o coordenador nacional do país; a definição do âmbito de interesses (bases programáticas) visando optimizar os recursos dos signatários do texto; a definição dos requisitos exigidos a cada programa (técnicos e financeiros); a vinculação aos compromissos de, pelo menos, três parceiros; a adopção de um «manual operativo»; a exigência da formalização de qualquer programa através de acordos específicos, que se submeterão sempre às normas legislativas internas de cada país.\n\nAcresce informar que países como a Argentina, o Chile, El Salvador, a Espanha, o México, o Paraguai, o Peru e a Venezuela já ratificaram a presente convenção.\n\nPor essa razão, Sr. Presidente e Srs. Deputados, o PSD vai votar favoravelmente a ratificação desta Convenção, certo de que estará a contribuir para a ratificação de um instrumento que servirá os interesses de Portugal."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 1820,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 1820,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Corregedor da Fonseca."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 1820,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "PCP",
+        "string": "O Sr. João Corregedor da Fonseca (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, vou apresentar um resumo do relatório da Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação e também, se me permite, a posição do Grupo Parlamentar do Partido Comunista Português, que integro.\n\nSr. Presidente, Srs. Membros do Governo e Srs. Deputados: Os Chefes de Estado e de Governo dos 21 países ibero-americanos - Argentina, Bolívia, Brasil, Colômbia, Costa Rica, Cuba, Chile, Equador, El Salvador, Espanha, Guatemala, Honduras, México, Nicarágua, Panamá, Paraguai, Peru, Portugal, República Dominicana, Uruguai e Venezuela - reuniram-se, pela quinta vez, na cidade argentina de San Carlos de Bariloche, em 16 e 17 de Outubro de 1995.\n\nA primeira cimeira desta natureza decorreu no ano de 1991, no México, na cidade de Guadalajara, com o intuito de se proceder ao exame dos grandes desafios com que os Estados se defrontavam. Propunham-se, então, concertar a vontade política dos governos para propiciar as soluções que tais desafios reclamam e converter o conjunto de afinidades históricas e culturais num instrumento de unidade e desenvolvimento baseado no diálogo, na cooperação, na solidariedade e manifestavam também, entre outras intenções, a vontade de, unidos, contribuírem para um futuro comum de paz, de bem-estar e de igualdade social.\n\nNessa primeira cimeira de tantos países que compartilham algumas raízes comuns e um rico património cultural decidiu-se projectar para o terceiro milénio a força\ndaquela comunidade, reafirmando os princípios de soberania e de não intervenção e reconhecendo o direito de cada povo a construir livremente a paz com estabilidade e justiça, o seu sistema político e as suas instituições.\n\nPode dizer-se que as grandes questões que preocupam as nações ibero-americanas foram analisadas, como pode comprovar-se pela leitura das conclusões aprovadas na altura, com um reconhecimento de que as aspirações comuns de desenvolvimento educacional, económico, social, tecnológico e cultural requerem um decidido impulso à educação e à cultura que sirva para assegurar a adequada inserção dos diversos países num contexto internacional caracterizado pela inovação científica e tecnológica. Aspectos relacionados com o Direito internacional também fazem parte das principais preocupações expressas.\n\nNa ocasião, foi decidido constituir a Conferência Ibero-Americana de Chefes de Estado e de Governo, tendo sido logo resolvido reunir nos anos seguintes. Assim, as reuniões seguintes tiveram lugar em Madrid, Espanha, no"
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 1821,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Não há mais inscrições sobre a matéria em discussão, pelo que está encerrado o debate.\n\nVamos passar à discussão da proposta de resolução n.º 35/VII — Aprova, para ratificação, o Acordo entre a República Portuguesa e a República da Croácia sobre a Promoção e a Protecção Recíproca de Investimentos e respectivo Protocolo, assinado em 10 de Maio de 1996.\nTem a palavra o Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 1821,
+      "speaker": {
+        "id": 1498,
+        "name": "José Alberto Rebelo Dos Reis Lamego",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Reiterando o que anteriormente disse, aproveito para dizer que, de facto, será necessário rever os termos regimentais em que são discutidas estas propostas de resolução.\n\nComo disse o Sr. Deputado João Corregedor da Fonseca, há aqui um déficit de informação em matéria de negociação internacional e, a meu ver, isso seria facilmente superável se o membro do Governo em causa, em vez de vir a esta Assembleia, nas sessões de sexta-feira de manhã, oferecer o merecimento dos autos para aprovação dos tratados internacionais, prestasse esclarecimentos em sede da comissão respectiva. Mas, naturalmente, compete aos Srs. Deputados apresentarem as propostas de alteração do Regimento para que este tipo de discussão tenha o mérito de\npermitir um melhor escrutínio por parte do Parlamento das iniciativas do Governo em matéria de política externa.\n\nAliás, relativamente a todo este conjunto de problemas, tenho manifestado, quer como Membro do Governo quer a título pessoal, a maior das disponibilidades e, para além desta sugestão de alteração do Regimento, deixaria aqui"
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 1822,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Francisco Valente."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 1822,
+      "speaker": {
+        "id": 1477,
+        "name": "Manuel Francisco Dos Santos Valente",
+        "party": "PS",
+        "string": "O Sr. Francisco Valente (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Os acordos sobre a promoção de investimentos celebrados pelo Estado português são destinados a intensificar a cooperação económica entre Estados. Estes acordos não só são desejáveis como necessários no actual contexto de abertura da economia, das trocas internacionais e da acentuada globalização, nomeadamente pela livre circulação de capitais.\n\nA prosperidade económica das nações passará, certamente, pela necessidade de promoção e protecção dos investimentos realizados pelos agentes económicos. A internacionalização é hoje um dos principais objectivos das economias modernas, sendo, pois, absolutamente necessária e desejável a cooperação entre Estados para a criação de instrumentos e mecanismos que salvaguardem os investimentos contra factores alheios à gestão e à livre concorrência entre economias.\n\nO estabelecimento de um quadro estável de confiança e colaboração internacional exige que aqueles investimentos não possam ser nacionalizados ou apropriados pelo Estado e mesmo que, em casos muito excepcionais, exista interesse público nessa apropriação, logicamente, o investidor deve ser correcta e atempadamente indemnizado.\n\nEstes acordos facilitam a existência de relações internacionais privilegiadas, incentivando o investimento português no estrangeiro e fomentando o investimento dos agentes económicos estrangeiros em Portugal, de que resultarão certamente vantagens mútuas e um crescimento mais acentuado das economias em contacto.\n\nTambém através deste Acordo se clarifica o posicionamento de Portugal como economia moderna no contexto da economia mundial onde, cada vez mais, se torna\nnecessário que os mercados se abram ao exterior.\n\nSr. Presidente, Srs. Deputados: O Acordo entre a República Portuguesa e a República da Croácia sobre a promoção e a protecção recíproca de investimentos e respectivo protocolo, assinado em Lisboa, em 10 de Maio de 1996, é, assim, um passo importante no desenvolvimento de trocas comerciais e da estratégia de internacionalização que Portugal vem desenvolvendo com outros Estados."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 1822,
+      "speaker": {
+        "id": 712,
+        "name": "Joel Eduardo Neves Hasse Ferreira",
+        "party": "PS",
+        "string": "O Sr. Joel Hasse Ferreira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 1822,
+      "speaker": {
+        "id": 1477,
+        "name": "Manuel Francisco Dos Santos Valente",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A República da Croácia, agora seguramente no caminho da paz, com uma oferta de mão-de-obra especializada e academicamente habilitada, será certamente\num destino preferencial de muitos dos nossos investidores, pelo que em tudo se justifica que Portugal disponha de um instrumento desta natureza que permita potenciar as relações económicas com aquele Estado.\n\nSr. Presidente, Srs. Deputados: Este Acordo com a República da Croácia, sendo aprovado pelos dois Estados, entrará em vigor 30 dias após a data em que ambas as Partes contratantes tiverem notificado uma e outra, no cumprimento dos respectivos procedimentos internos, e durará por 10 anos, sendo prorrogado automaticamente por períodos sucessivos de cinco anos.\n\nO presente Acordo é composto por três artigos em que as Partes se comprometem a promover e a proteger os investimentos. Em caso de contencioso, o diferendo será submetido a um tribunal arbitral. Se o diferendo for entre as Partes contratantes ou, sendo para resolução de diferendos relativos a investimentos, se o diferendo for entre uma Parte contratante e um investidor da outra Parte contratante.\n\nFica ainda garantida aos investidores a livre transferência das importâncias relacionadas com os investimentos.\n\nEstá deste modo perfeitamente salvaguardada a colaboração institucional no domínio económico entre os dois Estados e estão criadas, por consequência, condições excelentes para um adequado potenciamento das relações\n\ncomerciais de investimento.\n\nSr. Presidente, Srs. Deputados: A filosofia e os objectivos do presente Acordo contribuirão, certamente, para o desenvolvimento do nosso tecido económico, na perspectiva de internacionalização, e ainda para o fomento das trocas comerciais entre os dois Estados.\n\nPor isso, em nosso entender, devemos aprovar a proposta de resolução n.º 35/VII, que se encontra em discussão."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 1822,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, Srs. Membros do Governo, anuncio que está prevista, para hoje, a visita à Assembleia da República de um número elevadíssimo de estudantes das nossas escolas, cerca de 500 estudantes.\n\nNeste momento, encontram-se já entre nós, a assistir à reunião plenária, 45 alunos da Escola Básica Integrada do Carregado e 130 alunos da Escola E. B. 2.3 Dr. João das Regras, da Lourinhã. Como receio que tenham de começar a regressar às suas escolas, e porque há uma dificuldade terrível de entrada em Lisboa, nesta manhã, por razões de concentração de tráfego, peço a todos, desde já, para os estudantes que estão connosco, e sem prejuízo dos que ainda possam vir a estar, uma calorosa salva de palmas.\nPara uma intervenção, tem a palavra o Sr. Deputado Nuno Abecasis."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 1822,
+      "speaker": {
+        "id": 336,
+        "name": "Nuno Krus Abecasis",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Abecasis (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, Sr. Secretário de Estado dos Negócios\nEstran-"
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 1823,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Jorge Roque Cunha."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 1823,
+      "speaker": {
+        "id": 1638,
+        "name": "Jorge Paulo De Seabra Roque Da Cunha",
+        "party": "PSD",
+        "string": "O Sr. Jorge Roque Cunha (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação, Sr.ªs e Srs. Deputados: É evidente que a segurança do investimento externo é condição essencial para que os investidores privados possam acreditar e contribuir para o desenvolvimento do comércio internacional.\n\nO presente Acordo para a promoção e protecção dos investimentos na Croácia está enquadrado num conjunto de acordos com novos países que pretendem ser um sinal de ajuda à consolidação de um processo de reformas económicas e políticas empreendidas por países sujeitos a décadas de regime ditatorial, e a Croácia, em particular, após um período de guerra e de recente acesso à independência. Apesar de não poder ser considerado como modelo exemplar de democracia nos dias de hoje, a Croácia, uma vez afastados os mais imediatos perigos da guerra, tem desenvolvido um conjunto de reformas que, decerto, permitirão uma maior liberdade de expressão e um fortalecimento da sociedade civil.\n\nFica, assim, também aberto um conjunto de oportunidades para Portugal, e seria bom que fossem aproveitadas.\n\nO PSD vai votar favoravelmente esta proposta de resolução."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 1823,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, Srs. Membros do Governo, não havendo mais pedidos de palavra, dou por encerrado o debate.\n\nA próxima reunião plenária realizar-se-á na quarta-feira, dia 19, pelas 15 horas, e tem por objecto a interpelação n.º 7/VII - Sobre política geral, centrada na natureza e nas consequências económicas e sociais da moeda única (PCP)."
+    }
+  ]
+}

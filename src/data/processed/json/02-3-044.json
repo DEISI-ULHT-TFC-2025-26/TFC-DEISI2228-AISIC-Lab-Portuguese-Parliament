@@ -1,0 +1,978 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "2",
+    "legislative_session": "3",
+    "number": "44",
+    "date": "1983-02-04"
+  },
+  "debate_id": "r3_2_3_44_1983-02-04",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 1479,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quorum, pelo que declaro aberta a sessão.\nEram 12 horas e 10 minutos.\nEstavam presentes os seguintes Srs. Deputados:\nPartido Social-Democrata (PSD):\nAdérito Manuel Soares Campos. \n\nAfonso de Sousa Freire Moura Guedes. \n\nÁlvaro Barros Marques Figueiredo. \n\nAmélia Cavaleiro M. Andrade Azevedo. \n\nAnacleto Silva Baptista. \n\nAntónio Duarte e Duarte Chagas. \n\nAntónio Manuel Lemos de Menezes. \n\nAntónio Maria de O. Ourique Mendes. \n\nAntónio Roleira Marinho.\n\nArménio Jerónimo Martins Matias.\n\nArménio dos Santos.\n\nBernardino da Costa Pereira.\n\nCarlos Dias Ribas.\n\nCecília Pita Catarino.\n\nCipriano Rodrigues Martins.\n\nCristóvão Guerreiro Norte.\n\nDaniel Abílio Ferreira Bastos.\n\nDaniel Cunha Dias.\n\nDinah Serrão Alhandra.\n\nEleutério Manuel Alves.\n\nFernando Manuel Cardote B. Mesquita.\n\nFernando Manuel Cardoso Ferreira.\n\nFernando dos Reis Condesso.\n\nJaime Adalberto Simões Ramos.\n\nJoão Afonso Gonçalves.\n\nJoão Evangelista Rocha Almeida.\n\nJoão Manuel Coutinho de Sá Fernandes.\n\nJoaquim Manuel Cabrita Neto.\n\nJoaquim Pinto.\n\nJosé Augusto Santos Silva Marques.\n\nJosé Luís Figueiredo Lopes.\n\nJosé Manuel Pinheiro Barradas.\n\nJosé Mário de Lemos Damião.\n\nLeonardo Eugênio R. Ribeiro de Almeida.\n\nLeonel Santa Rita Pires.\n\nLuís António Martins.\n\nManuel António Araújo dos Santos.\n\nManuel António Lopes Ribeiro.\n\nManuel da Costa Andrade.\n\nManuel Ferreira Martins.\n\nManuel Maria Moreira. \n\nManuel Maria Portugal da Fonseca."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 1481,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, como é do conhecimento de todos, hoje não há período de antes da ordem do dia, razão por que vamos de imediato passar à apreciação e votação, na especialidade, do projecto de lei n.° 171/II, da ASDI, sobre o controle público da riqueza dos titulares de cargos políticos.\n\nEstá em discussão.\nPausa.\nTem a palavra o Sr. Deputado Américo de Sá."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 1481,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Américo de Sá (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, é apenas para, em nome do meu grupo parlamentar, requerer que a votação na especialidade se faça, pelo menos, excluindo o artigo 5.°, em relação ao qual a nossa posição é diferente, podendo os restantes artigos ser votados conjuntamente."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 1481,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Almeida Santos."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 1481,
+      "speaker": {
+        "id": 389,
+        "name": "António De Almeida Santos",
+        "party": "PS",
+        "string": "O Sr. Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é só para referir, a título de esclarecimento, que no artigo 3.° foi eliminado, por consenso de todos os partidos — e ele consta do texto apenas por engano —, o n.° 3."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 1481,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, então, se não houver oposição e como não existem pedidos de palavra para debate, passaremos à votação conjunta dos 7 artigos do projecto de lei, consignando-se excluído, para votação em separado, o artigo 5.°\nSubmetidos à votação, foram aprovados por unanimidade, registando-se a ausência da UDP.\n\nSão os seguintes:\nARTIGO 1.°\nOs titulares de cargos políticos devem apresentar, antes do início do exercício das correspondentes funções, ou, em caso de urgência, no prazo máximo de 30 dias contados do dia desse mesmo início, uma declaração do seu património e dos seus rendimentos, do qual conste:\n\na) A descrição dos elementos do seu activo patrimonial, ordenados por grandes rubricas, designadamente do património imobiliário de quotas, acções ou outras partes sociais do capital de sociedades civis ou comerciais, de direitos sobre barcos, aeronaves ou veículos automóveis, de carteiras de títulos, de contas bancárias a prazo de direitos de crédito de valor superior a 100 salários mínimos, no País ou no estrangeiro;\n\nb) A descrição do respectivo passivo, designadamente em relação ao Estado, a instituições de crédito e a quaisquer empresas, públicas ou privadas, no País ou no estrangeiro;\n\nc) A menção de cargos sociais que exerçam, ou tenham exercido nos 2 anos que precederam a declaração, em empresas públicas ou privadas, no País ou no estrangeiro;\n\nd) A indicação do rendimento colectável bruto, para efeitos de imposto complementar, bem como dos demais rendimentos, isentos ou não, sujeitos ao mesmo imposto, sem inclusão dos rendimentos do cônjuge.\nARTIGO 2.°\n1 — Idêntica declaração, actualizada, deve ser apresentada dentro do prazo de 60 dias a contar da cessação das funções que tiverem determinado a apresentação da primeira.\n\n2 — No caso de não haver lugar a qualquer actualização, a declaração prevista no número antecedente pode ser substituída pela simples declaração desse facto.\nARTIGO 3.°\n1 — A não apresentação culposa das declarações previstas nos artigos anteriores, ou a sua inexactidão indesculpável, determinam a pena de demissão de cargo político que o titular exerça e a medida de inibição para o exercício de qualquer outro cargo da mesma natureza pelo período de l a 5 anos.\n\n2 — Se o infractor exercer profissionalmente funções públicas de natureza não política, a infracção prevista no n.° l será considerada falta grave para efeitos disciplinares.\nARTIGO 4.º\nl — São cargos políticos para os efeitos da presente lei:\n\na) O de Presidente da República;\n\nb) O de deputado à Assembleia da República;\n\nc) O de membro do Governo;\n\nd) O de Ministro da República para as regiões autónomas;\n\ne) O de membro de órgãos de governo próprio das regiões autónomas;\n\nf) O de membro do Conselho de Estado;"
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 1482,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Passamos agora à votação do artigo 5.°.\nSubmetido à votação, foi aprovado, com votos a favor do PSD, do PS, do PCP, do PPM, da ASDI, da UEDS, do MDP/CDE e dos deputados independentes Natália Correia e Sanches Osório e votos contra do CDS.\n\nÉ o seguinte:\nARTIGO 5.º\n1 — As declarações previstas nos artigos 1.° e 2.°, bem como certidão ou fotocópia autenticada das decisões proferidas no caso da sua falta ou inexactidão, nos termos do artigo 3.°, são entregues ou enviadas ao Tribunal Constitucional, cuja secretaria procederá ao seu registo e ao seu arquivo.\n\n2 — Têm acesso às declarações e decisões previstas no n.° l quaisquer cidadãos que justifiquem, perante aquele Tribunal, interesse relevante no respectivo conhecimento, podendo ser dada publi-\n\ncidade, por decisão do mesmo Tribunal, a um extracto das mesmas, nos termos do seu Regimento.\n\nO Sr. Presidente; — Para uma declaração de voto, tem a palavra o Sr. Deputado Américo de Sá."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 1482,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Américo de Sá (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: Quero em primeiro lugar esclarecer que o nosso voto contra o artigo 5.° não diz respeito, evidentemente, ao seu n.° l, em relação ao qual não temos, como é óbvio, nenhuma objecção. Talvez devêssemos ter pedido — só por lapso o não fizemos — a sua votação número a número, e nesse caso votaríamos a favor.\n\nO nosso voto negativo em relação ao n.° 2 está perfeitamente de acordo com as declarações que sobre este diploma fizemos em sede de discussão na generalidade.\n\nNós julgamos saudável a filosofia que enforma o diploma, julgamos que todos nós, titulares de cargos políticos, temos vantagem na maior transparência da nossa vida, que tem também algo de público, mas entendemos que a privacidade que a Constituição reconhece à vida de qualquer cidadão só pode descer até determinada medida, para além da qual cremos que estamos a sacrificar um valor extremamente importante que ê essa privacidade.\n\nJulgamos que mesmo com as cautelas e as melhorias que neste artigo foram introduzidas na Comissão, mesmo com a criação de uma pena de certa forma grave para as infracções que forem eventualmente cometidas, mesmo assim, esta declaração fica demasiado aberta à inspecção de qualquer cidadão.\n\nJulgámos que haveria que ser-se mais rigoroso nesta possibilidade de consulta, de controle dos elementos fornecidos pêlos titulares de cargos políticos antes da sua posse. E porque, em nosso entender, o diploma o não é suficientemente — e só por isso — , o nosso voto contra."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 1482,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos proceder agora à votação final global do projecto de lei n.º 171/II.\n\nSubmetido à votação, foi aprovado por unanimidade, registando-se a ausência da UDP."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 1482,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma declaração de voto, tem a palavra o Sr. Deputado Magalhães Mota."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 1482,
+      "speaker": {
+        "id": 283,
+        "name": "Joaquim Jorge De Magalhães Saraiva Da Mota",
+        "party": "ASDI",
+        "string": "O Sr. Magalhães Mota (ASDI)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Congratulamo-nos com a unanimidade com que a Câmara acolheu este projecto de lei e pensamos que não somos apenas nós a fazê-lo, mas sim todos os partidos e todos os cidadãos.\n\nA Assembleia da República encerrou a sua actividade, neste período em que se anuncia a sua dissolução, com algo que a dignifica."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 1482,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes da ASDI e do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 1482,
+      "speaker": {
+        "id": 283,
+        "name": "Joaquim Jorge De Magalhães Saraiva Da Mota",
+        "party": "ASDI",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Seria triste ver uma classe política — para usar uma expressão consagrada — estranhamente solidária, a exigir em regra uma lei do silêncio, que é uma lei própria de outros meios. A democracia é uma casa de vidro; a democracia não é, nem pode ser, um muro de silêncio; a democracia não se dá bem com a"
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 1483,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes da ASDI",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 1483,
+      "speaker": {
+        "id": 283,
+        "name": "Joaquim Jorge De Magalhães Saraiva Da Mota",
+        "party": "ASDI",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O medo da verdade è sempre sinal de uma grave crise moral e, por isso, quando a Assembleia da República enfrenta tudo isto e com unanimidade aprova um projecto destes, algumas razões de esperança temos para acreditar no futuro da democracia em Portugal.\n\nEste facto, de uma câmara política se ter unido numa decisão, que representa essa manifestação de confiança no futuro da democracia, merece ser sublinhado neste momento."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 1483,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos passar ao ponto seguinte do período da ordem do dia, que diz respeito à leitura de uma informação da Comissão Eventual de Inquérito sobre o acidente de Camarate.\n\nTem a palavra, para proceder à leitura da informação, o Sr. Deputado Armando Lopes."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 1483,
+      "speaker": {
+        "id": 75,
+        "name": "Armando Dos Santos Lopes",
+        "party": "PS",
+        "string": "O Sr. Armando Lopes (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A informação da Comissão Eventual de Inquérito sobre o Acidente de Camarate é do seguinte teor:\nI - A Comissão Eventual de Inquérito sobre o Acidente de Camarate considera oportuno trazer ao Plenário uma informação sobre o trabalho até à data desenvolvido.\n\nA Comissão foi empossado em 14 de Dezembro de 1982. Em 17 de Dezembro de 1982 solicitou ao Sr. Ministro dos Negócios Estrangeiros o envio de toda a documentação relacionada com o acidente. Na mesma data foi feita idêntica solicitação ao Sr. Ministro da Habitação, Obras Públicas e Transportes e ao Sr. Ministro da Justiça foi solicitado que envidasse diligências junto da Procuradoria-Geral da República no sentido do envio de fotocópias autenticadas de todos os elementos do processo de inquérito pendente na Policia Judiciária.\n\nQuer o Sr. Ministro dos Negócios Estrangeiros, quer o Sr. Ministro da Habitação, Obras Públicas e Transportes, deram de imediato satisfação ao solicitado.\n\nNo tocante ao envio de fotocópias do processo pendente na Polícia Judiciária, foram invocadas algumas objecções à satisfação do solicitado.\n\nApós diligências do Sr. Procurador-Geral da República, que recebeu da Comissão a garantia da manutenção em regime de segredo de justiça de todos os elementos de prova que à Comissão fossem remetidos pela Polícia Judiciária, veio o processo a ser enviado a esta Assembleia unicamente em 24 de Janeiro, pelo que, em bom rigor, só a partir desta\n\ndata pôde a Comissão dispor de elementos de trabalho para análise que lhe permitam extrair conclusões.\n\nII - De entre as diligências investigatórias desenvolvidas, cumpre informar as seguintes:\na) Foram tomadas declarações a algumas pessoas, encontrando-se outras notificadas para o mesmo efeito;\n\nb) Foi solicitado ao Sindicato dos Pilotos da Aviação Civil o envio de um relatório elaborado por esta entidade, instância de imediato satisfeita;\n\nc) Foi solicitado ao conselho de gerência da ANA o envio de diversa documentação complementar ao relatório inicial da Direcção-Geral da Aviação Civil, designadamente a folha modelo n.º 198-ALMS, referente à coordenação de transportes do Aeroporto de Lisboa no dia 4 de Dezembro de 1980, instância esta já satisfeita, e o original de um relatório do serviço contra incêndios, junto do relatório da Direcção-Geral da Aviação Civil cuja fotocópia não se acha completa;\n\nd) Foi solicitado ao Comando da Guarda Fiscal o processo administrativo que determinou a apreensão e selagem de aviões de transporte de passageiros pertença de aeroclubes ou particulares entre Novembro e Dezembro de 1980, instância esta já satisfeita;\n\ne) O deputado engenheiro aeronáutico Luís Coimbra apresentou à Comissão uma exposição detalhada sobre os aspectos técnicos relacionados com os dossiers de «investigação operacional», bem como dos «factores materiais e humanos» do relatório técnico da Direcção-Geral de Aviação Civil;\n\nf) Paralelamente a este trabalho, foi efectuada uma análise detalhada de todo o processo remetido pela Polícia Judiciária, julgando a Comissão necessário proceder à audição dos responsáveis daquela Directoria da Polícia, tendo em vista o esclarecimento cabal da actividade investigatória policial a partir da data de 4 de Dezembro de 1980.\n\nIII - A Comissão visionou material filmado existente na Rádio Televisão Portuguesa. No entanto, cumpre esclarecer que não foi facultado à Comissão o visionamento do filme tal como foi projectado no programa Grande Reportagem por, segundo foi dito, não estar então concluído.\n\nA RTP facultou igualmente à Comissão maquetes do local do desastre.\n\nIV - A Comissão reuniu em 13 reuniões plenárias e pela subcomissão executiva foi tramitada e processada toda a documentação, que reúne já cerca de 2 dezenas de volumes. Todos os trabalhos da Comissão têm sido gravados, procedendo os serviços de apoio, igualmente sujeitos ao regime do segredo de justiça, à sua descodificação, encontrando-se já descodificadas 6 bobinas."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 1484,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para formular pedidos de esclarecimento, tem a palavra o Sr. Deputado Silva Marques."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 1484,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se bem entendi, a Comissão chegou à conclusão de que os processos relativos ao acidente em causa tinham sido cedidos a pessoas sem legitimidade para isso. Pretendia saber quais foram os elementos e as averiguações que permitiram à Comissão chegar a essa conclusão."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 1484,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Armando Lopes."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 1484,
+      "speaker": {
+        "id": 75,
+        "name": "Armando Dos Santos Lopes",
+        "party": "PS",
+        "string": "O Sr. Armando Lopes (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O próprio relatório esclarece. Há, pelo menos, 2 entidades que tiveram acesso a elementos que estavam em segredo de justiça, segundo a Polícia Judiciária, que foram a RTP e o Diário de Notícias."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 1484,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Creio que não me fiz entender. Ou não entendi bem o texto que V. Ex.ª leu, ou a Comissão utilizou a expressão «foram cedidos». Portanto, pergunto se VV. Ex.ªs puderam averiguar que a entidade que possuía os documentos os cedeu porque o facto de um órgão da comunicação social ter divulgado ou ter referido a documentação na posse de uma entidade não é prova de que essa entidade tenha cedido os documentos, no sentido decisório. Assim, pergunto como conseguiu a Comissão chegar à conclusão que lhe permitiu essa expressão."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 1484,
+      "speaker": {
+        "id": 75,
+        "name": "Armando Dos Santos Lopes",
+        "party": "PS",
+        "string": "O Sr. Armando Lopes (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não sei como é que o Sr. Deputado conseguiu ouvir uma coisa que não está cá.\n\nO que está dito neste relatório é que foi consentida a utilização em meios de comunicação social dos elementos existentes, que eram segredo de justiça."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 1484,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dá-me licença, Sr. Presidente?"
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 1484,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Silva Marques, V. Ex.ª pediu um esclarecimento e ele foi-lhe dado."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 1484,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Então, quero protestar, Sr. Presidente."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 1484,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 1484,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Efectivamente, eu disse «cedeu» e V. Ex.ª disse «foi consentida a utilização». De qualquer modo, gostaria de saber quais foram os elementos que permitiram à Comissão chegar à conclusão que a entidade que possuía os documentos os concedeu aos órgãos de comunicação social."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 1484,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para contraprotestar, tem a palavra o Sr. Deputado Armando Lopes."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 1484,
+      "speaker": {
+        "id": 75,
+        "name": "Armando Dos Santos Lopes",
+        "party": "PS",
+        "string": "O Sr. Armando Lopes (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Posso esclarecer o Sr. Deputado dizendo que na RTP passou a Grande Reportagem que se referiu a elementos que estavam nitidamente em segredo de justiça, o que, aliás, foi até referido na própria reportagem. E o acesso a esses elementos foi facultado, até, aos próprios peritos que vieram de Inglaterra, quando na Comissão sabemos que aos peritos portugueses como, por exemplo, os que fizeram as autópsias a pedido das famílias foi-lhes exigido que mantivessem segredo de justiça, portanto, que não revelassem os elementos a que tinham acesso. Isso, quando afinal os elementos que vieram de Inglaterra tiveram acesso aos factos. Aliás, e isso foi posteriormente revelado na própria televisão. O Diário de Notícias referiu também esses mesmos factos.\n\nPara já, é o que posso informar."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 1484,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dá-me licença, Sr. Presidente?"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 1484,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Que figura regimental invoca o Sr. Deputado para pedir a palavra?"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 1484,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para fazer uma intervenção, Sr. Presidente."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 1484,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, vou dar-lhe a palavra, mas pela última vez, senão o diálogo eterniza-se."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 1484,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Agradeço, Sr. Presidente. Mas para que fosse possível não me conceder a palavra, então, esta matéria não poderia ser incluída na ordem do dia. E das duas uma, ou ela é séria ou não é série. E se é séria..."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 1484,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Desculpe Sr. Deputado, mas tem que me ouvir.\n\nA Mesa tem usado da melhor boa vontade para que o Sr. Deputado faça as perguntas que, repetidamente, tem"
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 1485,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Agradeço a tolerância, Sr. Presidente, mas pretendia apenas lembrar aos meus ilustres colegas da Comissão que não apresentaram aqui fundamento suficiente para a conclusão do texto que nos propuseram. E bastaria lembrar que o facto, por exemplo, de um Estado estrangeiro conhecer elementos secretos de um outro Estado, inclusivamente de natureza militar, não é prova que alguma entidade que os possuísse legalmente os tenha cedido, mas sim de que há serviços de espionagem.\nNão vejo porque é que os colegas se perturbam.\n\nE se a Comissão chegou à conclusão que a entidade que os possuía os cedeu aos órgãos de comunicação social, não os tendo cedido a quem legitimamente os pretendia, deveria designar a entidade e, inclusivamente, as diligências que efectuou para efeito de apurar a entidade, bem como o acto praticado. Ora, como isso está omisso no relatório, penso que a conclusão que ali se expressa não tem fundamento suficiente ou então ele deveria ser aduzido."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 1485,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "UEDS",
+        "string": "O Sr. Lopes Cardoso (UEDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dá-me licença, Sr. Presidente?"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 1485,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito?"
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 1485,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "UEDS",
+        "string": "O Sr. Lopes Cardoso (UEDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para formular pedidos de esclarecimento ao Sr. Deputado Armando Lopes."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 1485,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 1485,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "UEDS",
+        "string": "O Sr. Lopes Cardoso (UEDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se bem entendi, a informação que o Sr. Deputado leu foi aprovada por unanimidade na Comissão. \nO Sr. Deputado confirmar-me-á se o PSD está ou não representado nessa Comissão e se deu ou não o acordo a essa informação. E já agora diga-me, se eu não estarei esquecido, se è, de facto, verdade que foi o PSD que solicitou o inquérito sobre o incidente de Camarate."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 1485,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para interpelar a Mesa, tem a palavra o Sr. Deputado Borges de Carvalho."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 1485,
+      "speaker": {
+        "id": 416,
+        "name": "António José Borges Gonçalves De Carvalho",
+        "party": "PPM",
+        "string": "O Sr. Borges de Carvalho (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente. É para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 1485,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 1485,
+      "speaker": {
+        "id": 416,
+        "name": "António José Borges Gonçalves De Carvalho",
+        "party": "PPM",
+        "string": "O Sr. Borges de Carvalho (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, de facto, da ordem do dia consta a informação da Comissão Eventual de Inquérito sobre o incidente de Camarate. Acho muito bem que sobre este assunto se faça um debate e a minha bancada dará o seu assentimento a que esse debate se realize.\n\nAgora, o sistema em que entrámos é que não me parece ser o mais correcto. Evidentemente que a Mesa é generosa, mas acho que não deveria ser. Se houver consenso das bancadas no sentido de se permitir um pequeno debate sobre esse assunto, estamos de acordo. Quem quiser intervir no debate, inscrever-se-á e fará as intervenções e as perguntas que tiver por bem.\n\nMas entrarmos neste regime de concessões da Mesa a este ou àquele e de pequenas tiradas mais ou menos oportunas ou mais ou menos oportunistas dos Srs. Deputados é que me choca um pouco!\n\nPor isso,, solicito à Mesa que ponha à consideração da Câmara o fazermos ou não, até ao termo da hora regimental, o debate que se achar por bem sobre esta matéria, mas dentro de um mínimo de regras."
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 1485,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Luís Coimbra."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 1485,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Luís Coimbra (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, eu gostaria de prestar um esclarecimento ao Sr. Deputado Silva Marques sobre as questões que ele levantou. No entanto, dado que o deputado Borges de Carvalho apontou para uma situação que não sei se a Câmara aceitará ou não, digo desde já que, pela minha parte, parece-me que se poderia eventualmente proceder a um período de esclarecimento desta questão - se é que ela é premente e, sendo assim, não usarei da palavra neste momento."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 1485,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Armando Lopes."
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 1485,
+      "speaker": {
+        "id": 75,
+        "name": "Armando Dos Santos Lopes",
+        "party": "PS",
+        "string": "O Sr. Armando Lopes (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é para responder às perguntas que me foram postas.\n\nQuero dizer, particularmente ao Sr. Deputado Lopes Cardoso, que, efectivamente e em primeiro lugar, não se trata aqui de um relatório, mas de uma informação à Câmara que foi redigida a nível da Comissão..."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 1485,
+      "speaker": {
+        "id": 416,
+        "name": "António José Borges Gonçalves De Carvalho",
+        "party": "PPM",
+        "string": "O Sr. Borges de Carvalho (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas, afinal, o Sr. Presidente não me respondeu!"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 1485,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Desculpe-me a interrupção, Sr. Deputado Armando Lopes.\n\nSr. Deputado Borges de Carvalho, peco-lhe o favor de aguardar um pouco e tomar o seu lugar. Eu já respondo à sua interpelação. Mas, uma vez que há pedidos de esclarecimento, devemos terminar primevo as respostas aos mesmos.\n\nFaça favor de continuar, Sr. Deputado Armando Lopes."
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 1485,
+      "speaker": {
+        "id": 75,
+        "name": "Armando Dos Santos Lopes",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como dizia, trata-se de uma informação que foi redigida na Comissão e que antes de ser transmitida ao Plenário obteve a aprovação unânime de todos os seus membros. Ora, como se sabe, dela fazem parte 2 elementos do PSD, vindo a própria informação subscrita pelo Sr. Deputado Mário Montalvão Machado, que só a não leu por ter tido que se ausentar, tendo-me pedido que, como vice-presidente da Comissão, fosse eu a fazê-lo.\n\nPortanto, repito, verificou-se a aprovação unânime da informação por todos os elementos da Comissão, incluindo os 2 deputados do PSD que dela fazem parte. Não sei, portanto, quais são as dúvidas."
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 1485,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "As dúvidas são as que eu já lhe apresentei, Sr. Deputado!"
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 1486,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 1486,
+      "speaker": {
+        "id": 75,
+        "name": "Armando Dos Santos Lopes",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É apenas esta a informação que queria dar, Srs. Deputados."
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 1486,
+      "speaker": {
+        "id": 610,
+        "name": "António Manuel De Carvalho Ferreira Vitorino",
+        "party": "UEDS",
+        "string": "O Sr. António Vitorino (UEDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 1486,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado António Vitorino, eu vou conceder-lhe a palavra, mas antes quero dizer que estamos perante uma situação que se afigura à Mesa..."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 1486,
+      "speaker": {
+        "id": 613,
+        "name": "Armando Domingos Lima Ribeiro De Oliveira",
+        "party": "CDS",
+        "string": "O Sr. Armando Oliveira (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente. É para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 1486,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Então faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 1486,
+      "speaker": {
+        "id": 613,
+        "name": "Armando Domingos Lima Ribeiro De Oliveira",
+        "party": "CDS",
+        "string": "O Sr. Armando Oliveira (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é para interpelar a Mesa no mesmo sentido do Sr. Deputado Borges de Carvalho, embora julgue que a Mesa gostaria de responder primeiro a esse Sr. Deputado.\n\nContudo, se me dá licença, quero desde já dizer que há que decidir se, até ao termo da hora regimental, vamos entrar num debate de esclarecimentos sobre a questão que se levantou. É que o Grupo Parlamentar do CDS está aberto a essa opção, mas gostava de a ver clarificada."
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 1486,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, peço-lhes que aguardem um momento.\nPausa.\nSrs. Deputados, como é do conhecimento de VV. Ex.ªs, estamos numa situação que poderemos classificar de anómala e sem precedente, porque, criada uma Comissão de Inquérito, o que regimentalmente está previsto é que ela apresente o seu relatório no final do prazo estabelecido para a realização do mesmo.\n\nOs artigos 223.º e 224.º do Regimento estabelecem que o relatório é apresentado ao Presidente, que promove a sua publicação no Diário, e nos 30 dias subsequentes a essa publicação o relatório entra na ordem do dia para apreciação em debate generalizado.\n\nOra o que a Comissão entendeu ser seu dever, ou pelo menos considerou acto conveniente, foi apresentar neste momento à Câmara, não o seu relatório definitivo, mas uma informação que julgou dever dar. Essa informação não tem a natureza de relatório; pode ser debatida, é evidente, se a Assembleia assim o deliberar. Agora, estando neste momento o inquérito ainda em curso, pese a circunstância da própria dissolução da Assembleia e a sua eventual repercussão ou não na manutenção em funções das comissões de inquérito, uma coisa é segura: é que à Mesa se afigura como prematuro e eventualmente inconveniente um debate acerca de uma informação prestada sobre um inquérito que, ao fim e ao cabo, ainda está em curso.\n\nNestas circunstâncias, afigura-se à Mesa que não pode abrir debate sobre esta informação, a não ser que a tome como relatório e a trate com a formalidade que os próprios artigos 223.º e 224.º já citados estabelecem.\nPausa."
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 1486,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, estão a chamar-me a atenção para uma disposição do Regimento, que eu não tinha presente, e que é a alínea e) do artigo 73.º - comunicação das comissões -, que mesmo para efeito de debate teria de ser agendada na primeira parte do período da ordem do dia. Portanto, não tem cabimento a sua discussão na fase em que nos encontramos."
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 1486,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "UEDS",
+        "string": "O Sr. Lopes Cardoso (UEDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dá-me licença, Sr. Presidente?"
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 1486,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Está a pedir a palavra para que efeito, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 1486,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "UEDS",
+        "string": "O Sr. Lopes Cardoso (UEDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, era para dizer que, pela nossa parte, não teríamos objecções a fazer quanto ao debate desta questão. Mas, obviamente, que aceitamos a decisão da Mesa."
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 1486,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Muito obrigado, Sr. Deputado. \n\nSrs. Deputados, estamos assim, chegados ao fim da nossa sessão de hoje.\n\nEm todo o caso, e ainda antes do encerramento dos trabalhos, vou dar conhecimento a VV. Ex.ªs de que deu entrada na Mesa o pedido de ratificação, o n.º 240/II ao Decreto-Lei n.º 49/83, de 31 de Janeiro, que aprova a Lei Orgânica do Ministério da Qualidade de Vida e que é subscrito por deputados do Partido Socialista, da ASDI e da UEDS.\n\nVai ainda ser lido um relatório e parecer da Comissão de Regimento e Mandatos.\n\nFoi lido. É o seguinte:\nDe acordo com o solicitado no ofício n.º 79 (processo n.º 10985), de 19 de Janeiro de 1983, do 8.º Juízo Correccional da Comarca de Lisboa, comunico a V. Ex.ª que esta Comissão Parlamentar deliberou emitir parecer no sentido de autorizar o Sr. Deputado Octávio Augusto Teixeira a depor como testemunha no processo em referência."
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 1486,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos votar este relatório.\n\nSubmetido à votação, foi aprovado por unanimidade, encontrando-se ausente a UDP."
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 1486,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, posso ainda dizer a V. Ex.ª que comuniquei esta manhã a Belém, ao Presidente da República, que o texto da proposta de lei, cuja discussão se iniciou ontem - estando previsto que ocupasse os trabalhos parlamentares de ontem e de hoje -, ficou ontem mesmo integralmente pronta e a referida proposta de lei foi também ontem votada.\n\nRecolhi a informação da Casa Civil de S. Ex.ª o Sr. Presidente da República de que, uma vez que se tinha esgotado o período da ordem do dia de hoje e terminados os nossos trabalhos na parte da manhã, com toda a probabilidade será publicado ainda hoje, em suplemento ao Diário da República, o diploma de dissolução da Assembleia.\n\nPenso, pois, que nesta sessão legislativa foi este o último dia em que nos encontrámos. Cumpre â Mesa agradecer a todas VV. Ex.ªs, sem distinção, todas as gentilezas, todas as atenções e toda a colaboração que sempre prestaram. Quero, ainda, desejar a todos as maiores felicidades."
+    }
+  ]
+}

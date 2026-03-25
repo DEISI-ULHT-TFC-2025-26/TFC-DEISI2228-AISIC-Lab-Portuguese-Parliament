@@ -1,0 +1,3106 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "13",
+    "legislative_session": "2",
+    "number": "84",
+    "date": "2017-05-05"
+  },
+  "debate_id": "r3_13_2_84_2017-05-05",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as e Srs. Deputados, Sr.as e Srs. Funcionários, Sr.as e Srs. Jornalistas, vamos dar \ninício à nossa sessão. \nEram 10 horas e 3 minutos. \nPeço aos Srs. Agentes da autoridade o favor de abrirem as galerias. \nAntes de entrarmos na ordem do dia, o Sr. Secretário Duarte Pacheco vai proceder à leitura do expediente."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Duarte Pacheco)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, deram entrada na Mesa, e foram \nadmitidas as seguintes iniciativas legislativas: propostas de lei n.os 75/XIII (2.ª) — Estabelece o direito à \nautodeterminação da identidade de género e expressão de género e o direito à proteção das caraterísticas \nsexuais de cada pessoa, que baixa à 1.ª Comissão, e 76/XIII (2.ª) — Altera a Lei de Bases da Política Pública \nde Solos, de Ordenamento do Território e de Urbanismo, que baixa à 11.ª Comissão; e projeto de resolução n.º \n830/XIII (2.ª) — Reverte a concessão das pousadas da juventude a privados (BE), que baixa à 12.ª Comissão. \nDeu ainda entrada na Mesa um parecer da Subcomissão de Ética da Comissão de Assuntos Constitucionais, \nDireitos, Liberdades e Garantias referente à renúncia ao mandato, nos termos dos artigos 3.º e 7.º do Estatuto \ndos Deputados, do Deputado Domingos Pereira (PS), eleito pelo círculo eleitoral de Braga, sendo substituído \npelo Deputado Nuno Sá, com efeitos a partir de 5 de maio de 2017, inclusive. \nO parecer é no sentido de a renúncia e a substituição do Deputado em causa serem de admitir, uma vez que \nse encontram verificados os requisitos legais."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está em apreciação o parecer. \nPausa. \nNão havendo pedidos de palavra, vamos votá-lo. \nSubmetido à votação, foi aprovado por unanimidade. \nSrs. Deputados, a ordem do dia de hoje consta da discussão, na generalidade, do projeto de lei n.º 511/XIII \n(2.ª) — Procede à terceira alteração do Decreto-Lei n.º 75/2008, de 22 de abril (Regime de Autonomia, \nAdministração e Gestão dos Estabelecimentos Públicos da Educação Pré-Escolar e dos Ensinos Básico e \nSecundário), alterado pelos Decretos-Leis n.os 224/2009, de 11 de setembro, e 137/2012, de 2 de julho (PSD). \nPara apresentar o projeto de lei, do PSD, tem a palavra o Sr. Deputado Amadeu Soares Albergaria."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 3,
+      "speaker": {
+        "id": 1932,
+        "name": "Amadeu Albertino Marques Soares Albergaria",
+        "party": "PSD",
+        "string": "O Sr. Amadeu Soares Albergaria (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: A educação não é uma \ntarefa de uns quantos, mas deve e tem de ser uma missão de todos. Todos somos escola. \nPara conseguirmos melhorar, para conseguirmos ultrapassar os défices de qualificação que ainda existem, \npara conseguirmos promover a qualidade, a eficácia e a eficiência na educação temos de dar mais poder às \nescolas. \nMais poder não pode ser sinónimo de isolamento mas, sim, de abertura à diferença, à inovação e à \ncolaboração. Uma escola que afaste a comunidade, que afaste os pais, que afaste as forças sociais e culturais, \nque se feche em si mesma, fica mais pobre. Mais pobre, porque não potencia sinergias, mais pobre porque não \né diversificada. E uma escola social e culturalmente pobre prejudica os alunos. \nUma boa escola não é apenas um espaço físico que se pretende com boas condições, é muito mais do que \nisso. Uma boa escola é um projeto educativo de qualidade, desenhado e colocado em prática num único \npropósito: garantir que todos adquirem conhecimentos sólidos, que desenvolvem capacidades críticas e \ncolaborativas e que aprofundam atributos como a curiosidade, a criatividade e o trabalho."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 3,
+      "speaker": {
+        "id": 1965,
+        "name": "Carlos Eduardo Almeida De Abreu Amorim",
+        "party": "PSD",
+        "string": "O Sr. Carlos Abreu Amorim (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 4,
+      "speaker": {
+        "id": 1932,
+        "name": "Amadeu Albertino Marques Soares Albergaria",
+        "party": "PSD",
+        "string": "O Sr. Amadeu Soares Albergaria (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Temos de garantir que todos, no final da escolaridade \nobrigatória, estão munidos de mais e melhores qualificações. Qualificações que potenciem não só a realização \ndos projetos pessoais, mas também o aumento da riqueza, da melhoria dos salários e da elevação dos níveis \nde vida. \nNão tenhamos dúvidas de que a qualidade do ensino é um forte indicador da riqueza que um país produzirá \na longo prazo. \nMelhorámos muito e temos de garantir que não há retrocessos. \nÉ incontestável que a sociedade se tornou mais atenta e envolvida na educação \nÉ incontestável que houve uma melhoria expressiva de todos os indicadores qualitativos da educação. \nÉ incontestável que diminuímos, em muito, a taxa de abandono escolar precoce, até 2015. Como é \nincontestável que esta aumentou, pela primeira vez em mais de 10 anos, por culpa do atual Governo. Este \nexemplo demonstra bem como é muito fácil haver retrocessos. \nPara esta melhoria dos resultados todos contribuíram: os alunos que estudaram e trabalharam; os \nprofessores e os técnicos que ensinaram; os diretores e as equipas de direção que promoveram; os funcionários \nque serviram e apoiaram; os pais, as empresas e os municípios que colaboraram. \nTodos fazem a escola. Todos são a escola. \nE a escola faz, de facto, a diferença. Quando se analisa quais as variáveis que mais contribuíram para a \nevolução positiva dos alunos portugueses nos estudos do PISA (Programme for International Student \nAssessment) de 2015, verifica-se que «o efeito escola foi dos mais determinantes na variação positiva dos \nresultados». Isto é, o processo de reorganização administrativa que se traduziu nas agregações verticais e no \naumento da coerência dos projetos educativos ao longo de todo o percurso educativo do aluno e a clara melhoria \nda administração das escolas foram elementos determinantes para essa evolução. \nSrs. Deputados, para continuarmos a melhorar, temos de dar mais poder às escolas, mais autonomia, e \nconfiar sempre nas pessoas que estão no terreno. \nDesde 2011, temos feito caminho na crescente autonomia das escolas, mas precisamos de ir muito mais \nlonge. \nEm 2012, foi reforçada a autonomia pedagógica e organizativa das escolas, através da oferta de disciplinas \nde escola e da possibilidade de criação de ofertas complementares, a par de uma flexibilização da gestão das \ncargas letivas. \nEste é um caminho que tem de continuar a ser percorrido. Temos de dar poder às escolas para \ndesenvolverem projetos pedagógicos diferenciados e adequados à população que cada escola serve e \nplenamente integrados na comunidade local."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 4,
+      "speaker": {
+        "id": 1932,
+        "name": "Amadeu Albertino Marques Soares Albergaria",
+        "party": "PSD",
+        "string": "O Sr. Amadeu Soares Albergaria (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Cada vez mais, temos de ter uma crescente liberdade e \nautonomia para que as escolas, em parceria com a comunidade onde se inserem, encontrem melhores e mais \neficazes soluções, para promover a qualidade do que se aprende e ensina. \nO PSD acredita nas escolas. O PSD recusa o regresso a modelos de gestão e administração do século \npassado, sob falsos pretextos de democraticidade. O PSD recusa que se afastem as comunidades das escolas. \nO PSD recusa o que alguns querem: tornar as escolas em pequenas células de ação sindical e partidária. \nO PSD afirma que o modelo em vigor, implementado por um Governo socialista e ajustado por um Governo \ndo PSD/CDS, é bom e tem dado bons resultados. Mas, como é evidente, podemos sempre melhorar. De resto, \nfoi isso que fizemos em 2012. Por isso, o projeto de lei hoje proposto e em discussão não é um novo regime, é \numa nova melhoria. \nO que propomos é melhorar o atual regime de gestão e administração das escolas, aprofundando os \ninstrumentos de autonomia, densificando o projeto educativo, reforçando as competências dos seus órgãos, \npromovendo o maior envolvimento da comunidade educativa e reforçando a transparência."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveram-se, para pedir esclarecimentos, os Srs. Deputados Porfírio Silva, do PS, \nJoana Mortágua, do BE, Ilda Araújo Novo, do CDS-PP, e Ana Virgínia Pereira, do PCP. \nEntretanto, o Sr. Deputado Amadeu Soares Albergaria informou a Mesa que responderá em conjunto aos \nSrs. Deputados. \nTem, pois, a palavra, para pedir esclarecimentos, o Sr. Deputado Porfírio Silva."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 5,
+      "speaker": {
+        "id": 2139,
+        "name": "Porfírio Simoes De Carvalho E Silva",
+        "party": "PS",
+        "string": "O Sr. Porfírio Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Amadeu Soares Albergaria, queria focar-me no \nprojeto de lei que o PSD nos apresenta, mas não posso deixar de fazer uma consideração inicial acerca do \nmétodo de interpretação ou reinterpretação histórica que o PSD adotou não só no campo da educação mas \ntambém noutros. \nQuando se fala de resultados do PISA, o PSD toma para o último Governo, de quatro anos, os resultados de \n20 anos do País, mesmo que a amostra do PISA 2015 só contenha uma pequena minoria de alunos abrangidos \npelas medidas mais polémicas do Ministério Crato. \nMas quando se fala de abandono escolar, o PSD já defende que os resultados de longo prazo se obtêm em \npoucos meses. Incoerência? Não, não é incoerência; é coerência com o novo método de reinterpretação \nhistórica do PSD. \nÉ a mesma coerência do Sr. Deputado Passos Coelho, quando, em maio de 2016, no ano passado, quando \nparecia que as coisas estavam a correr mal, dizia que a culpa da destruição de empregos era deste Governo, \nmas agora, em abril de 2017, quando se vê que está a ser criado muito emprego e a diminuir o desemprego, já \nmuda de interpretação e diz que a redução do desemprego é mérito do anterior Governo. \nPortanto, este método do PSD, que é o de que os dados servem para tudo, bastando pô-los «de pernas para \no ar» quando faz jeito ao PSD, é um método a que nos começa a habituar, mas que é um mau método, porque \né apenas uma versão nacional e nacionalizada do método da pós-verdade, que nós devemos recusar. \nMas, Sr. Deputado Amadeu Soares Albergaria, na realidade, devemos centrar-nos fundamentalmente no \nprojeto de lei que o PSD aqui nos traz. A nosso ver, o projeto de lei é um conjunto de ideias soltas, sem coerência \ne sem um rumo. No entanto, quero fazer-lhe algumas perguntas, porque pode ser que das suas respostas \nconsigamos visualizar um rumo que, daquilo que está escrito, não se depreende. \nSr. Deputado, o projeto de lei do PSD não tem uma única ideia sobre o papel do conselho pedagógico. É por \nacaso? É assunto que não vos interessa? \nJá sobre o conselho geral, o projeto de lei do PSD tem várias ideias, todas elas, infelizmente, a nosso ver, \nnada ponderadas. Por um lado, o PSD propõe que o conselho geral atropele as competências da direção, \nassumindo competências de gestão. Depois, propõe que o conselho geral invada o domínio das competências \npedagógicas, entrando em antagonismos com o conselho pedagógico. Propõe ainda o PSD que o conselho \ngeral assuma competências que, em certos casos, não pode assumir, como, por exemplo, no caso das escolas \nque têm contratos interadministrativos e em que, portanto, a formação do pessoal não docente não compete à \nescola mas ao município, o que resulta, aliás, de legislação implementada pelo PSD. Vão propor a revogação \ndessa legislação, ou é simplesmente uma incoerência da qual não deram conta quando apresentaram o projeto \nde lei?"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe que conclua, Sr. Deputado."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 6,
+      "speaker": {
+        "id": 2139,
+        "name": "Porfírio Simoes De Carvalho E Silva",
+        "party": "PS",
+        "string": "O Sr. Porfírio Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Concluirei, Sr. Presidente. \nSr. Deputado Amadeu Albergaria, estamos satisfeitos por ver que o PSD está preocupado com estas \nquestões e, por isso, saudamos-vos. Mas o projeto de lei parece-nos um pouco incoerente, um pouco \ndesgarrado. Talvez as respostas do Sr. Deputado nos ajudem a perceber que há mais qualquer coisa no projeto \nde lei do que aquilo que lá está escrito. \nFicaríamos muito satisfeitos se pudéssemos verificar isso."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Joana Mortágua."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 6,
+      "speaker": {
+        "id": 2035,
+        "name": "Joana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Joana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, Sr. Deputado Amadeu Albergaria, \npartilhamos algumas das perplexidades que aqui já foram demonstradas, mas acrescentamos também algumas \ncríticas ao projeto que o PSD agora apresenta. \nO PSD faz um projeto de alterações pontuais ao atual modelo de gestão das escolas, em cuja exposição de \nmotivos refere a palavra «autonomia» 10 vezes e a palavra «democracia» zero vezes, nenhuma vez! A palavra \n«democracia» é a grande ausência da exposição de motivos e de todo o texto do projeto que o PSD apresenta. \nAliás, a democracia é vista no projeto do PSD como um falso pretexto para submeter a escola ao centralismo e \nà burocracia. \nMas, apesar de falar muitas vezes em autonomia, não há nenhuma proposta do PSD para reforçar a \nautonomia das escolas nas alterações que agora apresenta ao modelo de gestão, porque não há nada nas \nalterações ao modelo de gestão propostas pelo PSD que diminuam a dimensão da burocracia centralista, \nadministrativa, muitas vezes implementada pelas plataformas informáticas, das quais as escolas se queixam \ntodos os dias, de que os diretores e os professores se queixam todos os dias. Mas, em relação a isso, o PSD \nnão tem nada a dizer. \nA centralização de poderes que é feita pelos mega-agrupamentos criam outra vez centralismo e burocracia \n— das quais os diretores e os professores se queixam — mas o PSD não tem nada a dizer sobre estas estruturas \nou superestruturas organizativas, sobre a centralização do poder dentro da escola e, sobretudo, sobre a \ncentralização do poder da figura do diretor. \nO PSD diz que tem um projeto que reforça a autonomia das escolas, mas foram as alterações do PSD, \nnomeadamente a visão do PSD sobre a municipalização das escolas, que, por exemplo, permitiram a um \nvereador ter um gabinete dentro da escola do seu concelho. Ora, se o PSD considera que a autonomia das \nescolas consiste em o vereador da educação ter um gabinete dentro da escola, então nós já ficámos a saber o \nque o PSD entende por autonomia. \nMas este projeto tem, em si, problemas vários. Este projeto baralha e volta a dar uma série de competências \nentre o conselho geral, atribuindo-lhe competências de cariz pedagógico e que, portanto, devem ser tomadas \npelo conselho pedagógico — sem resolver o problema do esvaziamento do conselho pedagógico —, criando e"
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Ilda Araújo Novo."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 7,
+      "speaker": {
+        "id": 2021,
+        "name": "Ilda Maria Menezes De Araújo Novo",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Ilda Araújo Novo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, Sr. Deputado Amadeu \nAlbergaria, falando da qualidade de ensino, de boas práticas e de resultados, permitimo-nos lembrar que já se \niniciaram as provas de aferição obrigatórias dos alunos do 2.º ano do ensino básico. \nA área das Expressões Físico-Motoras e Artísticas é, pela primeira vez, objeto de aferição nacional. \nA natureza performativa destas provas implicou aturada planificação dos processos de aplicação, de \nclassificação e de mobilização de recursos materiais e humanos. Todavia, a verdade é que não se auguram \nbons presságios quanto aos seus verdadeiros objetivos, seja quanto à sua pertinência, seja quanto à fiabilidade \ndos resultados. \nSão palavras do Sr. Secretário de Estado, que cito: «Temos recebido impressões, nas reuniões que temos \nfeito, incluindo com professores de Educação Física, que vão exatamente no sentido de que esta área específica \ndo currículo não tem sido muito trabalhada. Mas até agora têm sido impressões. A partir de agora vamos ter \ndados sistemáticos sobre o que existe.» Um facto e não uma impressão: as escolas não possuíam os recursos \nmateriais necessários para organizar as provas. \nNão importa agora esmiuçar como essa falha foi colmatada. Importa, sim, questionar como é possível \nsubmeter os alunos a provas de aferição nestas áreas quando consta que não lhes foi proporcionado ensino \nadequado e suficiente. \nOra, o CDS defende inequivocamente a avaliação dos alunos. Mas sendo a avaliação um incentivo a \nmelhores práticas e a melhores resultados, como todos pretendemos, não se nos afigura possível que estas \nprovas permitam verificar práticas ou mesmo o cumprimento ou não do currículo \nNão obstante, o Sr. Secretário de Estado afirma que as provas vão tirar uma fotografia ao sistema e permitir \nperceber se o aluno teve ou não condições para realizar as tarefas e treinar para elas. \nOra, as provas de aferição deveriam contribuir para a regulação da educação, dotando os responsáveis pelas \npolíticas educativas e a administração das escolas de informação pertinente que permita uma informação \nqualificada de apoio à tomada de decisão. Sucede que as provas de aferição tiveram guião pré-fornecido: os \nalunos conheceram o enunciado cinco dias antes da sua realização. Assim sendo, como será possível tirar \nconclusões sistematizadas? Daí que se pergunte qual é o verdadeiro objetivo subjacente a estas provas. \n\nO Sr. Secretário de Estado diz que os resultados podem sugerir a aprovação de novas medidas e orientações. \nMas dizia, igualmente, a 24 de julho de 2015: «É falacioso pensar que uma cultura de exames promove melhores \naprendizagens, porque os exames potenciam apenas um tipo muito preciso de resolução de problemas. Afinal, \nem que ficamos? Será que haverá reforço da componente da matriz curricular do ensino básico, baseada nas \nrecomendações deste simulacro de avaliação? Para resolver que problemas? Ou de quem?"
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para concluir esta ronda de pedidos de esclarecimentos, tem a palavra a Sr.ª Deputada \nAna Virgínia Pereira."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 8,
+      "speaker": {
+        "id": 1939,
+        "name": "Ana Virgínia Da Costa Pereira",
+        "party": "PCP",
+        "string": "A Sr.ª Ana Virgínia Pereira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, Sr. Deputado Amadeu \nAlbergaria, o Sr. Deputado acabou de nos trazer uma visão idílica da escola, que só existe na vossa cabeça e \nque não resiste a um confronto com a realidade, uma realidade que está cheia de problemas, que também vocês \ndeixaram e que até aprofundaram alguns já existentes."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 8,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 8,
+      "speaker": {
+        "id": 1939,
+        "name": "Ana Virgínia Da Costa Pereira",
+        "party": "PCP",
+        "string": "A Sr.ª Ana Virgínia Pereira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Queria igualmente dizer que gostei muito de ver a vossa posição \nantissindical, que também diz muito das vossas posições sobre o sindicalismo."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 8,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 8,
+      "speaker": {
+        "id": 1939,
+        "name": "Ana Virgínia Da Costa Pereira",
+        "party": "PCP",
+        "string": "A Sr.ª Ana Virgínia Pereira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Relativamente ao que está hoje em discussão, as questões \nrelacionadas com o modelo de gestão que nos trazem aqui, não alteram o que estava previsto no Decreto-Lei \nn.º 75/2008, da responsabilidade do PS, e que o Decreto-Lei n.º 137/2012, já da autoria do PSD e do CDS, \naprofundou e com o qual estão comprometidos. \nTrata-se de um modelo de gestão que reduziu a zero, que empobreceu a democracia que existia nas escolas \ndo pós-25 de Abril; um modelo de gestão que, longe de ser para todos, como o Sr. Deputado dizia, arreda os \nestudantes, afasta o pessoal não docente e de onde estão ausentes os pais, os encarregados de educação, e \nque limita a participação dos professores."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 8,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 8,
+      "speaker": {
+        "id": 1939,
+        "name": "Ana Virgínia Da Costa Pereira",
+        "party": "PCP",
+        "string": "A Sr.ª Ana Virgínia Pereira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É este o modelo que o PSD defende para promover a qualidade da \neducação e providenciar uma verdadeira igualdade de oportunidades? De que forma, Sr. Deputado? \nA gestão das escolas que o PSD defende está marcada pela falta de democracia, imposta por um regime de \ngestão concentrado num só indivíduo, o diretor, e que comporta inúmeras consequências nefastas na \ncomunidade educativa. Desde logo, para os estudantes, porque, por um lado, impede-lhes a participação na \nvida escolar e, por outro lado, nega-lhes o exemplo da democracia na gestão e na vida quotidiana da escola. \nComo poderá este modelo de escola ensinar a democracia aos estudantes, Sr. Deputado? \nNo que toca ao ambiente da escola, este regime de gestão tem mostrado ser gerador de conflitos e de \nconfrontos entre distintos agentes da comunidade educativa, ao incentivar a concorrência, em vez da \ncolaboração entre professores, provocando a insegurança, o medo, o desgaste e a deterioração das relações \nentre pares."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 9,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 9,
+      "speaker": {
+        "id": 1939,
+        "name": "Ana Virgínia Da Costa Pereira",
+        "party": "PCP",
+        "string": "A Sr.ª Ana Virgínia Pereira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E que dizer das funções meramente consultivas do conselho \npedagógico, subalternizado e cada vez mais esvaziado das suas competências, deixando de ter poder para \ndecidir, ao mesmo tempo que o diretor vê reforçados e concentrados os seus poderes, nomeadamente em áreas \ncomo a gestão das áreas pedagógica, cultural, administrativa, financeira e patrimonial. \nO PSD traz hoje a debate uma iniciativa sobre a gestão das escolas que não altera as questões de fundo, \ncomo o empobrecimento da vida democrática da escola, mostrando claramente que estão coniventes com o \nmodelo de gestão unipessoal e de concentração de poder contrários aos valores da participação e da \ndemocracia."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Amadeu Soares Albergaria."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 9,
+      "speaker": {
+        "id": 1932,
+        "name": "Amadeu Albertino Marques Soares Albergaria",
+        "party": "PSD",
+        "string": "O Sr. Amadeu Soares Albergaria (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, começo por agradecer ao Sr. \nDeputado Porfírio Silva e às Sr.as Deputadas Joana Mortágua, Ilda Araújo Novo e Ana Virgínia Pereira as \nquestões que me colocaram. \nAgradeço as questões colocadas, mas não posso senão discordar, em termos globais, do que acabaram de \nreferir. É que, na verdade, temos muitas diferenças: é a diferença entre quem acredita nas pessoas e nas suas \ninstituições e quem não acredita; é a diferença entre quem acredita na iniciativa privada e quem não acredita; é \na diferença entre quem acredita num serviço público de educação e quem fala num serviço nacional de educação \npensado, imposto e dirigido a partir da 5 de outubro, sede do Ministério da Educação. \nSrs. Deputados, tenho de insistir nesta questão: o atual modelo é democrático e alcançou resultados positivos \npara o sistema educativo português. Na verdade, os Srs. Deputados querem voltar ao modelo do século \npassado, um modelo que está, por isso, ultrapassado, datado e que não pode ter futuro. \nO que os Srs. Deputados querem, na realidade, resulta muito claro para quem lê, por exemplo, o projeto de \nlei apresentado pelo Partido Comunista Português: querem afastar os pais da vida da escola, querem afastar as \nassociações locais, querem afastar as empresas, querem afastar — como também ficou claro no debate — as \nautarquias."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 9,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 9,
+      "speaker": {
+        "id": 1932,
+        "name": "Amadeu Albertino Marques Soares Albergaria",
+        "party": "PSD",
+        "string": "O Sr. Amadeu Soares Albergaria (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E digo mais: os Srs. Deputados querem afastar os diretores, a \nquem acusam de serem lideranças napoleónicas. \nOs Srs. Deputados querem, uma vez mais, reverter o que tem dado bons resultados, Sr.ª Deputada Ana \nVirgínia Pereira. \nNa verdade, e sob a capa da tal democraticidade, para os senhores existe aqui um estorvo. É, na verdade, \num estorvo para quem quer transformar as escolas em células de ação sindical e partidária. Este modelo de dar \nmais poder às escolas é um verdadeiro estorvo."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Oh!…"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 10,
+      "speaker": {
+        "id": 1932,
+        "name": "Amadeu Albertino Marques Soares Albergaria",
+        "party": "PSD",
+        "string": "O Sr. Amadeu Soares Albergaria (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Srs. Deputados, reparem bem que, durante ano e meio, não \nconseguiram pôr-se de acordo neste Parlamento quanto ao número de alunos por turma. Pois bem, esta \nproposta tem a solução para o vosso problema: deixem os órgãos da escola decidir. \nSr. Deputado Porfírio Silva, convenhamos que este é um grande passo em frente na autonomia das escolas. \nMas qual é o vosso receio? Que os professores não queiram o sucesso dos seus alunos? Que os pais não \nzelem pelo sucesso educativo dos seus filhos? Que os órgãos da escola queiram maus resultados para a própria \nescola? Que os eleitos locais, Sr.ª Deputada Joana Mortágua, não lutem para que o seu município tenha o \nmelhor dos projetos educativos para a própria competitividade do seu território?"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 10,
+      "speaker": {
+        "id": 1932,
+        "name": "Amadeu Albertino Marques Soares Albergaria",
+        "party": "PSD",
+        "string": "O Sr. Amadeu Soares Albergaria (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se não acreditam, Srs. Deputados, se não confiam nas pessoas \ne na sua capacidade de construírem comunidade, como é que as podem querer representar bem neste \nParlamento?"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 10,
+      "speaker": {
+        "id": 1932,
+        "name": "Amadeu Albertino Marques Soares Albergaria",
+        "party": "PSD",
+        "string": "O Sr. Amadeu Soares Albergaria (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O atual regime foi criado pelo Partido Socialista e foi melhorado \npelo Partido Social Democrata e pelo CDS. O que aqui propomos é mais uma melhoria que visa um grande \nobjetivo: dar mais poder às escolas. \nO Partido Socialista acompanha-nos neste projeto, permite que baixe à especialidade, dá contributos para o \nmelhorar — esclarecemos o que tiver de ser esclarecido —, ou, pelo contrário, renega o seu passado recente, \ncontinua a submeter-se à agenda radical do Bloco de Esquerda e do PCP, que já fez o seu primeiro grande \nestrago ao aumentar o abandono escolar precoce ao fim de mais de 10 anos de descida contínua? Sim, trata-\nse de trabalho de todos já destruído pela agenda radical de esquerda. \nSr. Deputado Porfírio Silva, acredito que o Sr. Deputado e os seus colegas possam refletir bem durante este \ndebate, porque o primeiro resultado qualitativo já aí está: o da submissão ao Bloco de Esquerda e ao PCP, que \né muito negativo e deve fazê-los pensar. Reflitam e reflitam bem."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, em nome do Grupo Parlamentar do PS, tem a palavra o Sr. \nDeputado Porfírio Silva."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 10,
+      "speaker": {
+        "id": 2139,
+        "name": "Porfírio Simoes De Carvalho E Silva",
+        "party": "PS",
+        "string": "O Sr. Porfírio Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Debatemos hoje o regime de autonomia \ne gestão das escolas. \nÉ um debate que o Partido Socialista considera importante, no qual queremos destacar o projeto Autonomia \ne Flexibilidade, que está a ser desenvolvido pelo Ministério da Educação para que a autonomia se construa \nnaquele plano que é essencial à missão da escola, que é o plano curricular. \nAs 195 escolas públicas e privadas de todo o País que se deslocaram a Coimbra, na passada terça-feira, \npara começar um diálogo com o Ministério da Educação acerca do seu envolvimento como escolas no projeto \nAutonomia e Flexibilidade fizeram-no voluntariamente. Fizeram-no porque este projeto se desenvolve com uma \nestratégia de gradualismo e de mobilização, nunca numa estratégia de imposição. Fizeram-no voluntariamente \nporque este projeto se desenvolve num quadro de estabilidade, flexibilidade de gestão sem alterações nos \nprogramas e sem implicações na adoção de novos manuais. Porque este projeto visa enfrentar problemas \nidentificados pela comunidade educativa, como sejam a extensão dos programas, a escassa horizontalidade do \ncurrículo, a falta de liberdade das escolas para aplicarem respostas que sabem ser adequadas à sua realidade"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Porfírio Silva, a Mesa regista a inscrição de três Srs. Deputados para \npedirem esclarecimentos. \nUma vez que informou a Mesa de que pretende responder em conjunto, tem, desde já, a palavra, para pedir \nesclarecimentos, a Sr.ª Deputada Ana Rita Bessa."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 12,
+      "speaker": {
+        "id": 1937,
+        "name": "Ana Rita Barreira Duarte Bessa",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Ana Rita Bessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Porfírio Silva, fiquei sem perceber muito \nbem qual é o comboio que o PS vai querer apanhar, porque a FENPROF, através das bancadas que lhe dão \nvoz aqui na Assembleia, tem sido uma das principais forças para a reversão do atual modelo. \nGostaria de perceber se o PS de hoje vai manter a força com que uma antiga Ministra da Educação do PS \ndesmascarou a situação, dizendo: «O que importa é fazer prevalecer o interesse público. No caso dos sindicatos, \napesar de serem bastante diferentes entre si, procuraram criar uma certa ilusão de que os seus interesses são \nos interesses da escola pública e penso que quase nunca os interesses dos sindicatos são os interesses da \nescola pública». Isto foi dito pela Sr.ª Ministra Maria de Lurdes Rodrigues. Portanto, pergunto: em matéria de \nmodelo de gestão democrática das escolas, qual é o comboio que o PS vai apanhar? É o comboio de defender \na escola pública ou é o comboio de defender os sindicatos?"
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Pedro Alves."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 12,
+      "speaker": {
+        "id": 1379,
+        "name": "Pedro Filipe Dos Santos Alves",
+        "party": "PSD",
+        "string": "O Sr. Pedro Alves (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Cada vez que ocorre um debate sobre \neducação nesta Câmara, fico sempre na expetativa de ver o Partido Socialista descolar ideologicamente dos \nseus camaradas de coligação. \nAliás, julgo sempre que esta é a oportunidade para o Partido Socialista assumir efetivamente a liderança da \ncoligação e passar a ditar as regras do jogo arriscado em que colocou os portugueses. \nMas, não! Infelizmente, o tempo vai passando e ao que se assiste é sempre a mais do mesmo, isto é, a um \nPartido Socialista envergonhado sociologicamente, a um Partido Socialista acantonado politicamente e a um \nPartido Socialista amancebado ideologicamente com o Partido Comunista e com o Bloco de Esquerda."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 12,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O senhor não quer é falar de educação!"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 12,
+      "speaker": {
+        "id": 1379,
+        "name": "Pedro Filipe Dos Santos Alves",
+        "party": "PSD",
+        "string": "O Sr. Pedro Alves (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Na realidade, foi isto que se viu aqui hoje, mais uma vez. Nada de novo nos \ntrouxe o Partido Socialista em matéria de educação. Já sabemos que são contra o rigor da avaliação externa e \nque substituíram por um modelo alternativo e facilitista que não passa de mais um embuste deste Governo. Já \nsabemos que são contra o reforço do ensino de áreas estruturantes do raciocínio e da expressão, como são a \nMatemática e o Português, porque não encontram a palavra «exigência» no modelo de ensino que preconizam."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 13,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os senhores são uns trauliteiros!"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 13,
+      "speaker": {
+        "id": 1379,
+        "name": "Pedro Filipe Dos Santos Alves",
+        "party": "PSD",
+        "string": "O Sr. Pedro Alves (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ou, por outro lado, o Partido Socialista prefere fazer uma viagem de comboio \nconnosco no caminho do rigor, da exigência, da autonomia, da qualidade e dos bons resultados, rumo ao futuro, \nrumo ao sucesso escolar e rumo ao sucesso educativo? \nSr. Deputado, diga-nos o que quer o Partido Socialista."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Luís Monteiro."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 13,
+      "speaker": {
+        "id": 2076,
+        "name": "Luís Valentim Pereira Monteiro",
+        "party": "BE",
+        "string": "O Sr. Luís Monteiro (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Porfírio Silva, não há aprendizagem da \ndemocracia como um modelo de gestão em que se tira os alunos dessa mesma participação e não podemos \ntambém ter uma escola inclusiva quando esses mesmos alunos são excluídos dessa participação da própria \ndemocracia da escola. Portanto, não conseguimos ter hoje uma visão da escola pública de participação cidadã \nsem incluir os alunos que são o centro da sua existência e que devem, também, estar no centro do debate \ndemocrático da escola. \nDa parte do PSD, já conhecemos a sua posição, já sabemos que vem a este debate defender a imagem do \ndiretor e nada mais do que isso, fazendo propostas descabidas, as quais, pelos vistos, nem o CDS acompanha \nintegralmente. Portanto, isolam-se numa posição recuada, antiga — essa, sim, do século passado —, que é a \nimagem do diretor todo-poderoso. \nQuanto ao PS, ouvimos aqui algumas intenções, nomeadamente a intenção de incluir os alunos nesta mesma \ngestão e nesta mesma discussão democrática da escola, e é justamente sobre isso que gostaria de colocar \nalgumas perguntas ao Sr. Deputado Porfírio Silva. \nSr. Deputado, como é que conseguimos abranger os alunos nesta discussão? Como é que conseguimos \ntornar a escola mais democrática? Como é que conseguimos tornar o modelo de gestão mais inclusivo, onde \nninguém fique de fora e onde conseguimos garantir, de uma vez por todas, que os alunos, sendo o centro da \nexistência da escola, comecem também a ser um dos centros da discussão e da participação democrática?"
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Porfírio Silva."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 13,
+      "speaker": {
+        "id": 2139,
+        "name": "Porfírio Simoes De Carvalho E Silva",
+        "party": "PS",
+        "string": "O Sr. PorfírioSilva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Ana Rita Bessa e Srs. Deputados Pedro Alves e \nLuís Monteiro, agradeço as questões que colocaram. \nSr.ª Deputada Ana Rita Bessa, está enganada. Esta não é a bancada parlamentar da FENPROF (Federação \nNacional dos Professores), é a bancada parlamentar do Partido Socialista."
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 13,
+      "speaker": {
+        "id": 1379,
+        "name": "Pedro Filipe Dos Santos Alves",
+        "party": "PSD",
+        "string": "O Sr. PedroAlves (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas parece!"
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 13,
+      "speaker": {
+        "id": 2139,
+        "name": "Porfírio Simoes De Carvalho E Silva",
+        "party": "PS",
+        "string": "O Sr. PorfírioSilva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Deputada, como é sabido, o Partido Socialista nem sempre está de acordo \ncom os sindicatos, o que não é problema nenhum para nós, porque, contrariamente a alguns, não valorizamos"
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 14,
+      "speaker": {
+        "id": 1379,
+        "name": "Pedro Filipe Dos Santos Alves",
+        "party": "PSD",
+        "string": "O Sr. PedroAlves (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Qual é a posição do Partido Socialista?"
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 14,
+      "speaker": {
+        "id": 2139,
+        "name": "Porfírio Simoes De Carvalho E Silva",
+        "party": "PS",
+        "string": "O Sr. PorfírioSilva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Pedro Alves, se quiser ouvir a resposta, ouça, não faça barulho. \nSr. Deputado Pedro Alves, percebemos muito bem que queira falar sobre tudo menos sobre o projeto de lei \nque o PSD apresentou. O vosso projeto, realmente, não merece sequer considerações da própria bancada que \no propôs."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 14,
+      "speaker": {
+        "id": 1379,
+        "name": "Pedro Filipe Dos Santos Alves",
+        "party": "PSD",
+        "string": "O Sr. PedroAlves (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Diga qual é a posição do Partido Socialista!"
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 14,
+      "speaker": {
+        "id": 2139,
+        "name": "Porfírio Simoes De Carvalho E Silva",
+        "party": "PS",
+        "string": "O Sr. PorfírioSilva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Luís Monteiro, enunciámos hoje um conjunto de princípios que \nregerão as nossas propostas concretas, mas, como é sabido, e já o temos dito publicamente, estamos a \nauscultar, estamos falar com parceiros variados. \nNão temos nenhum preconceito, assumimos todo o nosso passado. O PS tem um passado de que se honra \nna construção da escola pública, da escola democrática, e assumimos essa responsabilidade. Portanto, é a \npartir dessa base que assumimos que queremos melhorar, porque queremos sempre melhorar. \nE não faremos certamente como o PSD, que veio aqui perguntar pelas propostas dos outros mas fez com \nque, no debate, não pudesse aparecer mais nenhuma proposta. O PSD está tão pouco confiante em relação à \nsua proposta que nem deixou que mais nenhum grupo parlamentar apresentasse propostas neste debate. É \nobra, Srs. Deputados!"
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Ana Rita Bessa."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª AnaRitaBessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: A nossa primeira palavra é \ndirigida ao PSD por trazer este tema ao Plenário. Trata-se de uma matéria central e estruturante da vida das \nescolas. \nAcompanhamos o PSD no reconhecimento do modelo de gestão como um dos fatores determinantes dos \nresultados escolares. Temos reservas sobre algumas propostas concretas, mas estamos totalmente disponíveis \npara as debater e aprofundar em comissão."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 14,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. JoãoOliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Lá se vai a PàF!"
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª AnaRitaBessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Como o modelo atual foi assumidamente disruptivo quando entrou em \nvigor, há quase 10 anos, justifica-se, antes de mais, revisitar as alterações trazidas e avaliar a sua execução, \ncomo, de resto, deveria acontecer com todas as políticas públicas de educação, por respeito ao trabalho das \nescolas, por ponderação pragmática do que se pode e deve melhorar e por contenção da urgência legislativa, \nmotivada mais vezes por preconceitos ideológicos e não por conceitos recolhidos no terreno."
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 15,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. NunoMagalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª AnaRitaBessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "O que nos trouxe então o modelo de 2008? \nPor um lado, trouxe a substituição do conselho executivo por um diretor. Ou seja, passou-se de um órgão de \ngestão colegial a uma pessoa concreta, que dá a cara por um projeto para a escola, que é eleita pela comunidade \npara o realizar e que dele deve prestar contas. \nPor outro lado, trouxe um aumento do poder de decisão para professores e funcionários e a concessão de \npoder efetivo a novos protagonistas — à autarquia, aos pais e aos representantes da comunidade local —, \nabrindo a escola a uma gestão e a um escrutínio participado por toda a comunidade. \nSr.as e Srs. Deputados, mesmo considerando algumas debilidades, este modelo é o mais democrático que \ntemos tido, porque envolve todos e não só os de dentro. \nClaro está que a qualidade da democracia que se vive nas escolas, tal como a que se vive no País, depende \nem muito da capacitação, da participação e da responsabilização de todos os elementos da comunidade \neducativa. Disto sou testemunha porque, durante os três primeiros anos deste modelo de gestão, acompanhei \n95 escolas de todo o País, num projeto de transformação de lideranças, onde aprendi que, mesmo com uma \nboa lei, a comunidade escolar — diretores, professores, funcionários, alunos e demais elementos — precisa de \ntempo, experiência e apoio para se sentirem os resultados. \nTempo e experiência investida que justifiquem que quaisquer propostas de melhoria devam resultar de uma \navaliação abrangente que pode ser feita pelo órgão a quem «compete emitir opiniões, pareceres e \nrecomendações sobre todas as questões relativas à educação», ou seja, o Conselho Nacional de Educação. \nTempo e experiência que as escolas investiram e que temos o dever de não desperdiçar, quer por exigências \nideológicas do PCP e do Bloco, quer por eventuais cedências negociais do Governo e do PS, por não terem \nnem orçamento nem a coragem para as decisões que realmente deveriam estar a tomar."
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 15,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. NunoMagalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª AnaRitaBessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "A primeira medida do atual Governo PS foi a de reverter a avaliação \nnacional das disciplinas de Português e de Matemática no final dos ciclos instituída pelo Governo PS, esse \nmesmo governo socialista que, em 2008, também instituiu o atual modelo de gestão das escolas. \nAguardamos, com expectativa — devo dizer que é baixa —, a decisão do Partido Socialista, ou seja, se \nacompanhará em tempo útil o PSD e o CDS no aprofundamento deste modelo ou se, mais uma vez, cederá ao \nBloco e ao PCP."
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada Ana Rita Bessa, a Mesa registou a inscrição, para pedir esclarecimentos, \nda Sr.ª Deputada Maria Augusta Santos, do PS. \nTem a palavra, Sr.ª Deputada Maria Augusta Santos."
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 15,
+      "speaker": {
+        "id": 2090,
+        "name": "Maria Augusta De Araújo Fontes Dos Santos",
+        "party": "PS",
+        "string": "A Sr.ª MariaAugustaSantos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Ana Rita Bessa, o que a escola pública \nespera de todos nós é tão-só que contribuamos para a sua permanente dignificação e lhe forneçamos os meios \nadequados para cumprirem escrupulosamente os seus desígnios, sem ambiguidades, sem contradições, sem \nsubterfúgios. É assim que devemos construir todas as iniciativas legislativas. \nAnalisando o projeto de lei apresentado pelo PSD, verificámos exatamente o que não deve acontecer. É \nambíguo, é contraditório e tem subterfúgios, senão vejamos o que nos propõe o PSD no que se refere à definição \ndos critérios de organização das turmas, matéria de relevante importância para o sucesso escolar e educativo."
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra a Sr.ª Deputada Ana Rita Bessa."
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª AnaRitaBessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.ª Deputada Maria Augusta Santos, diria que a \nconstituição de turmas é um assunto em relação ao qual aconselharia alguma cautela ao PS. Tem a sua ironia \nter sido o PS a trazê-lo aqui desta maneira. Não se esqueça que foi o Governo do PS que inscreveu, no seu \nPrograma do Governo, que iria fazer uma redução do número de alunos por turma e foi o Parlamento que \napresentou uma série de iniciativas exatamente sobre este tema, que resultaram em audições, que resultaram \nbasicamente em nada, porque nem sequer há conclusões desse grupo de trabalho."
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª AnaRitaBessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Depois de o Governo ter apresentado uma proposta que, em matéria \nda redução do número de alunos por turma, não concede nada aos diretores, mas faz uns floreados minimalistas \nque não vão alterar nada na vida concreta das escolas, não seria mais sério e mais corajoso que o PS definisse \na sua posição de princípio em relação à proposta do PSD? Concordam ou não que é aos órgãos de gestão da \nescola que deve ser concedida a liberdade para a constituição de turmas? \nSe estiverem de acordo, só têm mais uma razão para discutirmos este assunto em sede de especialidade e \nnão chumbarem esta iniciativa."
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 16,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. NunoMagalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª AnaRitaBessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Se é por aqui, se entendem que é este o caminho, embora passível de \nmelhoria, basta só votarem a favor e viabilizar a iniciativa do PSD, para, finalmente, acabarmos esta discussão \nneste Parlamento."
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, em nome do Grupo Parlamentar do \nPCP, tem a palavra a Sr.ª Deputada Ana Mesquita."
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 16,
+      "speaker": {
+        "id": 1933,
+        "name": "Ana Cristina Cardoso Dias Mesquita",
+        "party": "PCP",
+        "string": "A Sr.ª AnaMesquita (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: A educação é um direito que não \npode ser desligado da democracia nas suas múltiplas vertentes e dos avanços constitucionalmente consagrados"
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 17,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 17,
+      "speaker": {
+        "id": 1933,
+        "name": "Ana Cristina Cardoso Dias Mesquita",
+        "party": "PCP",
+        "string": "A Sr.ª Ana Mesquita (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Contamos já com a opinião e a sensibilidade de muitos: professores, \ntrabalhadores não docentes, pais e até diretores de escolas, que têm manifestado a importância de intervenção \nnesta matéria. \nO nosso projeto de lei contém algumas opções fundamentais e traços distintivos que passamos a destacar. \nPrevê a eleição de todos os membros dos órgãos de direção e gestão das escolas; concilia a necessária \nintervenção da comunidade, designadamente pais e autarquias, com a indispensável autonomia da escola;"
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveu-se, para pedir esclarecimentos, Sr.ª Deputada \nGermana Rocha, do Partido Social Democrata. \nFaça favor, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 18,
+      "speaker": {
+        "id": 2095,
+        "name": "Maria Germana De Sousa Rocha",
+        "party": "PSD",
+        "string": "A Sr.ª Maria Germana Rocha (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, fica bem patente neste \ndebate que o que de facto o PCP pretende, relativamente ao modelo de gestão das escolas, é, sem dúvida \nalguma, um claro e inadmissível retrocesso. \nÉ mais um retrocesso a que já nos habituaram e mais uma vez numa matéria fundamental e determinante \nna dinâmica dos projetos educativos de cada uma das nossas escolas. \nO que o Partido Comunista aqui hoje demonstrou foi uma clara falta de confiança nas escolas e nos principais \nagentes da comunidade educativa, como, aliás, acontece relativamente a outras matérias, o que, aliás, é o caso \nda descentralização de competências na área da educação. Também nesta matéria VV. Ex.as desconfiam da \ncompetência, da capacidade e da isenção dos nossos autarcas na colaboração que prestam no âmbito da \nrealização de vários processos na área da educação, com reconhecidos ganhos de eficiência e eficácia \nresultantes da proximidade que têm às escolas e às suas populações. \nPergunto, Sr.ª Deputada, o que motiva o Partido Comunista a manifestar esta enorme desconfiança em \nrelação ao processo de autonomia das escolas, nomeadamente no que diz respeito à criação dos seus próprios \nprojetos e ao envolvimento dos pais, das autarquias e das instituições locais?"
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra a Sr.ª Deputada Ana Mesquita, \ndo PCP."
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 18,
+      "speaker": {
+        "id": 1933,
+        "name": "Ana Cristina Cardoso Dias Mesquita",
+        "party": "PCP",
+        "string": "A Sr.ª Ana Mesquita (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Germana Rocha, começo por agradecer a \nquestão colocada que evidencia um aspeto curioso: o PSD considera que a gestão democrática é o retrocesso, \nou seja,…"
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 18,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 18,
+      "speaker": {
+        "id": 1933,
+        "name": "Ana Cristina Cardoso Dias Mesquita",
+        "party": "PCP",
+        "string": "A Sr.ª Ana Mesquita (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… o PSD vem aqui defender que o que é moderno, o que é atual, o que é \nsofisticado é a falta de verdadeira democracia nas escolas."
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 19,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 19,
+      "speaker": {
+        "id": 1933,
+        "name": "Ana Cristina Cardoso Dias Mesquita",
+        "party": "PCP",
+        "string": "A Sr.ª Ana Mesquita (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vem tentar insinuar que a gestão democrática é anacrónica, que a \ndemocracia é uma coisa do passado, mas enganam-se, Sr.as e Srs. Deputados. A democracia é uma questão \nde futuro e, é aqui, precisamente, que o PCP se integra, defendendo, precisamente, o direito de todos, de todos \nos corpos da escola, participarem na vida da escola e terem poder de decisão. Este é que é o grande problema \npara o PSD, porque o PSD está bem confortável com a opção de ter um diretor da escola que centraliza tudo \nnele, não havendo possibilidade de os outros corpos da escola terem uma palavra a dizer quanto ao que está a \nacontecer."
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 19,
+      "speaker": {
+        "id": 1990,
+        "name": "Emídio Guerreiro",
+        "party": "PSD",
+        "string": "O Sr. Emídio Guerreiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Todos participam! Leia a proposta!"
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 19,
+      "speaker": {
+        "id": 1933,
+        "name": "Ana Cristina Cardoso Dias Mesquita",
+        "party": "PCP",
+        "string": "A Sr.ª Ana Mesquita (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ora, esse não é o caminho que defendemos. O PCP defende que só o poder \nde participar e de decidir é que dá sentido às práticas de governo democrático das escolas. Só assim é possível \nromper com encenações participativas, com processos e métodos a que falta, efetivamente, substância \ndemocrática. Portanto, reafirmamos que o projeto do PCP vai, de facto, num outro sentido, no de promover a \nparticipação e a decisão, integrar os estudantes nesta decisão, integrar os trabalhadores não docentes, dar viva \nvoz também aos docentes e, de facto, não tem nada a ver com aquele projeto que o PSD hoje aqui trouxe, que \nmais não é do que afinar a gestão não democrática das escolas."
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para uma intervenção, a Sr.ª Deputada Joana \nMortágua, do Bloco de Esquerda."
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 19,
+      "speaker": {
+        "id": 2035,
+        "name": "Joana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Joana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: A democracia e a gestão democrática \ndas escolas são conceitos tão importantes que foram plasmados na Constituição da República Portuguesa como \num direito e também na Lei de Bases do Sistema Educativo como os preceitos da gestão das escolas. \nÉ lamentável que o PSD se tenha arrependido de ter votado a importância da gestão democrática das \nescolas, mas seria trágico se o Partido Socialista se tivesse esquecido que votou também a importância da \ngestão democrática das escolas. \nHoje, não podíamos estar mais longe desse conceito que inscrevemos na Constituição da República \nPortuguesa e na Lei de Bases do Sistema Educativo. A realidade é uma coisa muito diferente. A realidade é de \nmega-agrupamentos, onde o que interessa são lideranças, diretores a quem se pede que, mais do que \npedagogia, saibam, sobretudo, de gestão, como se as escolas fossem empresas, como se os diretores fossem \nCEO de uma grande empresa. \nEssa escola, que está hoje longe da escola democrática, é governada por um diretor onde se concentram \ntodos os poderes. Um diretor tem hoje mais poderes efetivos do que aqueles que estão legislados. Um diretor a \nquem se presta dependência hierárquica, avaliativa e disciplinar dos docentes e dos funcionários, que controla \ne determina todo o trabalho dos docentes e dos funcionários, com poder hierárquico, disciplinar e avaliativo. \nUm diretor que é por inerência o presidente do conselho administrativo, que é por inerência o presidente do \nconselho pedagógico, cuja composição o diretor controla, para além de determinar os coordenadores de \nestabelecimento e de determinar também os coordenadores de departamento, apesar do subterfugio da short\nlist. Este diretor tem poderes de nomeação dentro da escola como se de confiança política se tratasse, como se \na escola não fosse um sítio que deve ser gerido por critérios pedagógicos e científicos. \nEste diretor pode manter-se 16 anos no cargo entre eleições indiretas e reconduções ainda mais indiretas. \nQuando o Professor David Rodrigues disse — e, lembro-lhe pela última vez, o Sr. Deputado do PSD aplaudiu-\no de pé, aqui nesta Assembleia — que estas lideranças são napoleónicas (a frase não é minha, poderia ter sido, \nmas infelizmente não é) tem razão. Tem razão, porque este modelo de gestão gera e promove lideranças não \ndemocráticas. O problema não é das pessoas, não é dos diretores, que, com certeza, serão muito boas pessoas, \no problema é que o modelo de gestão promove lideranças não democráticas e isso tem de ser um problema \nhoje nas escolas."
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 20,
+      "speaker": {
+        "id": 1990,
+        "name": "Emídio Guerreiro",
+        "party": "PSD",
+        "string": "O Sr. Emídio Guerreiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Acabar?!"
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 20,
+      "speaker": {
+        "id": 2035,
+        "name": "Joana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Joana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quais são as funções que o PSD acha que deve ter o conselho pedagógico? \nA única autonomia que o PSD não reconhece às escolas é a autonomia pedagógica, e a autonomia pedagógica \nnasce, em primeiro lugar, da autonomia profissional dos professores a quem o PSD quer retirar poder de definir, \nde discutir e de decidir como é que a escola é gerida e, já agora, de eleger, entre os seus pares, a equipa que \ndirige a escola. \nNão defendemos este modelo de gestão. Defendemos um modelo de gestão em que a capacidade de \ndecisão dentro da escola tem critérios pedagógicos e é esse o modelo de gestão que serve uma escola que \nforma cidadãos participativos, cidadãos ativos, pessoas autónomas, aliás, como está descrito no perfil do aluno \nque todas e todos já elogiámos, de uma maneira ou de outra. \nEsse perfil do aluno tem de ter consequências e esse perfil do aluno, que queremos que seja o perfil do aluno \nà saída da escolaridade obrigatória, não é compatível com um modelo de gestão que não promove a participação \ne a democracia. No momento em que considerarmos que a democracia é uma irracionalidade democrática então \neste País corre um trágico risco de desprezar, precisamente, a importância da democracia em todos os espaços, \na começar pela escola. \nÉ por isso que o Bloco de Esquerda vai apresentar um projeto, é por isso que o Bloco de Esquerda acha que \nos órgãos da escola devem ser eleitos, devem ser democráticos, devem ser colegiais e é isso que esperamos \nque saia deste debate."
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada \nNilza de Sena, do PSD."
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Nilza de Sena (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, começo a minha intervenção por dizer \nque a bancada do PSD não aceita lições de democracia de um partido que promove a política do sobressalto e \nda instabilidade, sobressalto com as avaliações, com o currículo, com o perfil do aluno e agora também com o \nmodelo de gestão democrática das escolas que não sei exatamente o que é. O que sei exatamente é o que é a \nboa e a má gestão, Sr.ª Deputada. E sei que o atual modelo de gestão, que reforçamos com o nosso projeto, \ncorresponde, precisamente, ao reforço de uma liderança e de um projeto pedagógico que são ambos \nimportantes para o sucesso dos nossos alunos. Portanto, defendemos este modelo porque, de facto, produz \nresultados, aqueles que os senhores querem negar. \nSr.ª Deputada, não temos receio nenhum de alargar a escola à comunidade local, às autarquias locais, aos \npais, à associação de pais, às instituições, não temos medo nenhum disso. \nDeixe-me perguntar-lhe, Sr.ª Deputada, se tem coragem de dizer aqui que considera que os atuais diretores \nde escola têm um trabalho antidemocrático. É que, pelos vistos, enchendo a boca com tanta democracia, está \na dizer que desconfia e está a dizer que estes diretores de escola não trabalham e têm um exercício contra os \nresultados que vêm confirmar aquilo que nós dizemos e não aquilo que a Sr.ª Deputada diz."
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra a Sr.ª Deputada Joana \nMortágua, a quem peço alguma atenção ao tempo de que dispõe."
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 21,
+      "speaker": {
+        "id": 2035,
+        "name": "Joana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Joana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tentarei, Sr. Presidente. \n\nA Sr.ª Deputada Nilza de Sena começou por dizer que não entende o que é a gestão democrática das \nescolas. Na Constituição da República Portuguesa ela é definida do seguinte modo: «Os professores e alunos \ntêm o direito de participar na gestão democrática das escolas (…)». Na Lei de Bases refere-se que a \nadministração e gestão se orientam por «princípios de democraticidade e de participação de todos os implicados \nno processo educativo» em cada escola e que, na administração e gestão dos estabelecimentos, devem \n«prevalecer critérios de natureza pedagógica e científica sobre critérios de natureza administrativa». Estes \ndocumentos que o PSD votou explicam o que é a gestão democrática das escolas. \nO que é que não é a gestão democrática das escolas? É fazer mega, mega-agrupamentos e não conseguir \nexplicar o argumento pedagógico para a criação desses mega-agrupamentos e não conseguir explicar por que \né que isso não é senão um mero critério orçamental de cortes na educação e de concentração e centralização \nde poderes nesses mega-agrupamentos. \nA democracia, para o PSD, é vista como um empecilho dentro das escolas, mas a gestão democrática, a \npossibilidade…"
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada, queira terminar."
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 21,
+      "speaker": {
+        "id": 2035,
+        "name": "Joana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Joana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Termino, Sr. Presidente. \nComo estava a dizer, a gestão democrática, a possibilidade de participação na gestão das escolas não é um \nformalismo, não é uma flor na lapela, não é um biombo de sala, faz parte do processo educativo pedagógico \ndos alunos. Os alunos não aprendem a votar aos 18 anos, num estalar de dedos, participam na sua escola, \naprendem a democracia experienciando-a, vivenciando-a. E é isto que o PSD quer recusar, porque tem uma \nvisão da escola completamente diferente daquela que o Bloco de Esquerda defende, que é a de uma escola \npública que forma cidadãos e não apenas trabalhadores para o mercado de trabalho."
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Heloísa \nApolónia."
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 21,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Julgo que para \ncompreendermos este projeto que hoje o PSD traz à discussão na Assembleia da República é importante termos \nem conta aquela que é a conceção de educação do PSD, e também do CDS, e acrescento o CDS, porque o \ndemonstraram na passada Legislatura, quando tinham a maioria de Deputados na Assembleia da República e \nformaram Governo, com as políticas de educação que, na altura, desenvolveram."
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 21,
+      "speaker": {
+        "id": 1990,
+        "name": "Emídio Guerreiro",
+        "party": "PSD",
+        "string": "O Sr. Emídio Guerreiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nesta matéria não houve alteração!"
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 21,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Essa política de educação tinha muitas características, e vou \nsublinhar algumas, das quais Os Verdes se distanciam profundamente. Uma delas era justamente a fragilização \nda escola pública para dar lugar à escola privada. Vêm sempre com essa conversa de que os outros têm receio \nda escola privada, têm preconceitos em relação à escola privada, quando os senhores é que têm um profundo \npreconceito relativamente à escola pública. E fizeram muito, navegaram muito na Legislatura passada para \nfragilizar e descredibilizar a escola pública, justamente para a substituir pela oferta privada, o que é \nabsolutamente lamentável. \nPor outro lado, demonstraram um profundíssimo desrespeito pelos professores. Bastará, porventura, dizer \nque fizeram o maior despedimento de professores de que há memória numa única Legislatura."
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 21,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É um facto!"
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 21,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não demonstraram nenhum respeito pelos professores e, nessa \nlógica, aquilo que procuraram fazer, por exemplo, foi aumentar o número de alunos por turma, fragilizando as"
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 22,
+      "speaker": {
+        "id": 1990,
+        "name": "Emídio Guerreiro",
+        "party": "PSD",
+        "string": "O Sr. Emídio Guerreiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Grande parte? Era 30%!"
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 22,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esta era a oferta pedagógica que davam aos alunos e ficaram muito \nchateados quando os exames acabaram."
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 22,
+      "speaker": {
+        "id": 1932,
+        "name": "Amadeu Albertino Marques Soares Albergaria",
+        "party": "PSD",
+        "string": "O Sr. Amadeu Soares Albergaria (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E vai daí os resultados melhoraram?!"
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 22,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas acabaram bem, Srs. Deputados, porque, de facto, os senhores \nnão têm a noção do que a avaliação contínua pode fazer na formação de um estudante e na sua formação mais \nintegral. \nOra bem, é esta visão, de que dei alguns exemplos, profundamente retrógrada que o PSD nos traz e submete \nà apreciação no seu projeto de lei. E esta visão profundamente retrógrada acarreta o quê? A ideia de que esta \ncoisa de mandar nas escolas não é para todos, é para um diretor, o manda-chuva, o todo-poderoso da escola, \nque manda e os outros obedecem. É esta a lógica absolutamente retrógrada que o PSD quer fomentar."
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 22,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 22,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Órgãos colegiais, participados por todos, na comunidade escolar?! \nNão, isso é uma coisa que o PSD acha que não tem sentido absolutamente nenhum,…"
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 22,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 22,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… não tem eficácia absolutamente nenhuma, porque aquilo que \ninteressa é haver um manda-chuva, um diretor na escola, que tem e agrega todos os poderes. \nOra, Sr.as e Srs. Deputados, se isso é uma lógica democrática, desculpem mas os senhores não têm os pés \nbem assentes na terra. \nIsso é tudo aquilo que nega uma gestão democrática na escola e, evidentemente, Os Verdes contestam tudo \nisso, porque somos absolutamente a favor de órgãos colegiais. \n\nO Sr. Deputado Amadeu Soares Albergaria, no início do debate, e estive até com a devida atenção, foi \nquestionado por um conjunto de grupos parlamentares sobre algumas questões muito concretas. Curiosamente, \no Sr. Deputado respondeu com generalidades e não respondeu às questões concretas."
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 22,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É um facto!"
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 22,
+      "speaker": {
+        "id": 1932,
+        "name": "Amadeu Albertino Marques Soares Albergaria",
+        "party": "PSD",
+        "string": "O Sr. Amadeu Soares Albergaria (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso é que são generalidades!"
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 22,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas não se preocupe, porque esta bancada até tem alguma \ncompreensão em relação à estratégia que adotou na sua resposta, por uma razão muito simples: o senhor não \npodia defender o indefensável!"
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 22,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É um facto!"
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 23,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É que o senhor não ia chegar aqui e dizer assim: «Olhe, nós não \ntemos respeito absolutamente nenhum pelos professores e não queremos os alunos a participar». Não podia \nassumi-lo publicamente, mas, na verdade verdadinha, é isso que os senhores pensam e interiorizam."
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 23,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Defendem, mas não têm coragem de assumir!"
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 23,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por exemplo, por que carga de água é que os senhores, no vosso \nprojeto de lei, se lembraram de que os representantes dos pais não podem ser professores?! Se os pais \nconfiarem nesses pais, que, por acaso, são professores, por que é que são os senhores a dizer «Não, os \nsenhores, porque são professores, não podem representar os pais, pese embora sejam pais de crianças da \nescola»?! Isto tem alguma lógica, Sr. Deputado?! Isto não cabe na cabeça de ninguém!"
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 23,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Grande democracia a vossa!"
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 23,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que é que os senhores têm contra os professores? São pais! São \npais de alunos das escolas! Não tem lógica absolutamente nenhuma! São pais de alunos das escolas, não são \nmenos do que os outros! E se os pais confiarem nesses pais?! Não é o Sr. Deputado que vai decidir por quem \nos pais são representados no conselho geral, ou é?!"
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 23,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é, mas queria!"
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 23,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pelos vistos, quer ser! Lá está, a vossa lógica de democracia não \ntem lógica absolutamente nenhuma!"
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada, queira terminar."
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 23,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Já, Sr. Presidente?!"
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Já."
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 23,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou mesmo terminar, Sr. Presidente. \nRelativamente aos alunos, a pergunta que faço é esta: os alunos não fazem parte da comunidade escolar? \nÓ Sr. Deputado, fazem ou não fazem?! E qual é o receio de pôr os alunos numa lógica participativa, \ninterventiva, cívica, na escola?! Não! Assusta-vos profundamente!"
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 23,
+      "speaker": {
+        "id": 1990,
+        "name": "Emídio Guerreiro",
+        "party": "PSD",
+        "string": "O Sr. Emídio Guerreiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está no projeto de lei! Já leu?!"
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 23,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mesmo para terminar, Sr. Presidente, só espero uma coisa, Sr. \nDeputado Amadeu Soares Albergaria, que é a de que este projeto mereça hoje um rotundo chumbo por parte \nda Assembleia da República, a bem da democracia e da gestão democrática das escolas."
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem, agora, a palavra a Sr.ª Deputada \nOdete João."
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 23,
+      "speaker": {
+        "id": 2118,
+        "name": "Maria Odete Da Conceição João",
+        "party": "PS",
+        "string": "A Sr.ª Odete João (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O projeto do PSD aqui em discussão, de \nalteração ao Decreto-Lei n.º 75/2008, não traz nada de novo, não passa de um conjunto atabalhoado e \ndesconexo de alterações. As propostas, para além de serem pontuais, não acrescentam melhoria na"
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 24,
+      "speaker": {
+        "id": 2139,
+        "name": "Porfírio Simoes De Carvalho E Silva",
+        "party": "PS",
+        "string": "O Sr. Porfírio Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Essa é que é essa!"
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 24,
+      "speaker": {
+        "id": 2118,
+        "name": "Maria Odete Da Conceição João",
+        "party": "PS",
+        "string": "A Sr.ª Odete João (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas convém lembrar que este diploma sofreu alterações em 2012, pelo, então, \nGoverno PSD/CDS. Agora, sem diálogo com os diferentes parceiros institucionais, sem qualquer avaliação e de \numa forma inopinada, o PSD faz tábua rasa de tudo o que está em curso em termos de projetos para a autonomia \ndas escolas e para a afirmação da identidade das escolas. \nAs alterações propostas nesta iniciativa confundem as competências dos vários órgãos da escola e colocam \nem causa a capacidade e a eficácia da intervenção desses mesmos órgãos, como já ficou aqui amplamente \ndemonstrado. Um exemplo claro é o da constituição de turmas."
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 24,
+      "speaker": {
+        "id": 1932,
+        "name": "Amadeu Albertino Marques Soares Albergaria",
+        "party": "PSD",
+        "string": "O Sr. Amadeu Soares Albergaria (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A vossa ideia é melhor!…"
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 24,
+      "speaker": {
+        "id": 2118,
+        "name": "Maria Odete Da Conceição João",
+        "party": "PS",
+        "string": "A Sr.ª Odete João (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Confundir matérias pedagógicas com competências executivas e com as ações \nde missão da escola é contribuir para o caos da arquitetura jurídica do diploma, não acrescenta capacidade de \nintervenção a cada um dos órgãos de administração e gestão das escolas e muito menos reforça as lideranças. \nImporta, pois, aprofundar a construção da autonomia das escolas, e é esse o trabalho que está a ser feito \npelo Partido Socialista, traçando medidas políticas que contribuem para a promoção de melhores \naprendizagens, para a redução do insucesso e do abandono escolares, atribuindo às escolas a liberdade e a \nresponsabilidade de se organizarem, de modo a definirem planos de ação que possam responder melhor às \nnecessidades da sua comunidade educativa. Esta é a verdadeira autonomia das escolas: a liberdade de \ndecidirem! \nE este processo acontece depois de um longo período de auscultação dos vários parceiros sociais, dos \nfóruns internacionais de discussão e tendo por princípio um quadro de evolução estável. \nPor isso mesmo, o Governo, em 2016, lançou o Programa Nacional de Promoção do Sucesso Escolar. Este \nPrograma contribui para a afirmação da autonomia das escolas, porquanto é baseado no desenvolvimento de \nplanos de ação estratégicos, elaborados pela própria escola a partir da sua realidade e do impacto que as \ndecisões tomadas têm na qualidade das aprendizagens. Esta é a verdadeira autonomia pedagógica!"
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 24,
+      "speaker": {
+        "id": 2139,
+        "name": "Porfírio Simoes De Carvalho E Silva",
+        "party": "PS",
+        "string": "O Sr. Porfírio Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Faz toda a diferença!"
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 24,
+      "speaker": {
+        "id": 2118,
+        "name": "Maria Odete Da Conceição João",
+        "party": "PS",
+        "string": "A Sr.ª Odete João (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para o Partido Socialista, o foco da ação educativa foi e será sempre centrado \nno aluno. Através da autonomia e da flexibilidade curricular conferida às escolas para explorarem novas formas \nde se organizarem, novas formas de gerirem os tempos não letivos, novas formas de promoverem a \ndiferenciação pedagógica, nomeadamente aquela que resulta da natureza interdisciplinar, através de projetos \ninovadores, para além da possibilidade de as escolas gerirem 20% da carga horária semanal, estão a ser dados \npassos firmes na criação de ambientes de aprendizagem mais motivadores, mais cooperativos e de maior \naprofundamento do trabalho em rede. \nEste é o caminho de consolidação da escola e de afirmação da sua identidade. Este é o caminho de \nconstrução de uma sociedade melhor."
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a Mesa não regista nenhuma inscrição para \nformulação de pedidos de esclarecimento à Sr.ª Deputada Odete João, pelo que dava a palavra, para uma \nintervenção, ao orador seguinte, que é o Sr. Deputado Emídio Guerreiro. \nTem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 25,
+      "speaker": {
+        "id": 1990,
+        "name": "Emídio Guerreiro",
+        "party": "PSD",
+        "string": "O Sr. Emídio Guerreiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O PSD quer mais poder para as \nescolas, para os professores e para os seus órgãos. \nO PSD quer mais autonomia, mas autonomia não é isolamento, não é sectarismo, é abertura. É com o \nenvolvimento de todos — a direção, os professores e as famílias — que potenciamos a melhoria dos resultados \nescolares. \nQuem quer transformar as escolas em pequenas extensões da FENPROF ficará desiludido e não gosta da \nnossa proposta. Quem quer, sob falso pretexto de democraticidade, tornar as escolas ingovernáveis e fechadas \nsobre si mesmas, ficará desiludido. Quem quer transformar as escolas em pequenos feudos de poderes \nabsolutos não contará connosco. \nMas quem acredita que a transparência, a coresponsabilização, a partilha, a colaboração e o equilíbrio de \npoderes são elementos que reforçam a democracia e a liderança sabe que este é o caminho certo. \nMais e melhor autonomia para as nossas escolas reforçará o sucesso educativo. \nNós acreditamos que deve ser a escola, no seu projeto pedagógico, através dos seus órgãos, a estabelecer \nos critérios de constituição de turmas. \nNós acreditamos que quem está mais próximo dos alunos, a direção e os seus professores, saberá adotar \nos critérios mais ajustados e adequados à promoção do sucesso. Se a esquerda radical desconfia dos \nprofessores, dos diretores e dos órgãos escolares, o PSD não! \nNós confiamos nos professores e nos órgãos das nossas escolas! \nSr. Presidente, Sr.as e Srs. Deputados: A esquerda radical prefere acreditar nos erros cometidos pelo atual \nMinistro da Educação, desde logo o regresso ao facilitismo, pois, agora, promovem-se as passagens \nadministrativas e recusa-se a avaliação externa. \nOs senhores acabaram com os exames e inventaram provas de aferição em anos escolares sem paralelo \nnos países de referência. Em prol de uma reforma nominal, coloca-se em risco a comparabilidade dos resultados \nescolares com os restantes países. \nOs senhores reverteram as medidas introduzidas, medidas que nos colocaram em patamares nunca vistos \nem relatórios internacionais, como o PISA (Programme for International Student Assessment), bem como nos \nque comparam os resultados do ensino da matemática e das ciências. \nOs senhores rejeitam as medidas tomadas no combate ao abandono escolar precoce e, pasme-se, pela \nprimeira vez em mais de uma década, este — infelizmente para todos — voltou a aumentar em 2016. \nOs senhores anunciam o reforço da inclusão dos alunos com necessidades educativas especiais, mas, com \nas novas regras, verificamos que o número de alunos abrangidos diminuiu em 2016. \nOs senhores prometem o reforço no ensino profissionalizante, anúncio com direito a páginas de jornal, mas \nsem efeitos práticos, pois, como não mexem nos números mínimos de alunos por turma, a medida é \ninconsequente, nomeadamente nos territórios de baixa densidade no interior do País, onde existem menos \nalunos e que, sem esta alteração, não poderão aceder às ofertas educativas profissionalizantes. \nMais grave: escondido em supostos novos perfis de alunos e em supostas flexibilidades curriculares, \nassistimos a uma tentativa de dirigismo educativo, visando a criação de um pensamento único nas escolas \nportuguesas. Uma atitude que a todos os democratas deve envergonhar. \nA escola é um espaço plural que deve promover o conhecimento e a consciência crítica dos nossos jovens \ne não pode ser um espaço de condicionamento ideológico."
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 26,
+      "speaker": {
+        "id": 1990,
+        "name": "Emídio Guerreiro",
+        "party": "PSD",
+        "string": "O Sr. Emídio Guerreiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente e Sr.as e Srs. Deputados, estes exemplos ilustram o que \natualmente temos: um Ministro que governa para títulos de jornais; um Ministro campeão das não respostas e \nque, há oito meses, se recusa a responder ao PSD sobre o número de turmas mistas este ano letivo. \nMas educação, Sr.as e Srs. Deputados, é muito mais do que títulos de jornais. A educação é muito mais do que \npropaganda. A educação é muito mais do que esquemas e artimanhas políticas para manter equilíbrios de poder. \nO diploma que apresentamos não é o retrocesso saudosista a modelos do século passado. O diploma que \napresentamos é um passo em frente no caminho certo."
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 26,
+      "speaker": {
+        "id": 1939,
+        "name": "Ana Virgínia Da Costa Pereira",
+        "party": "PCP",
+        "string": "A Sr.ª Ana Virgínia Pereira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é nada, é mais do mesmo!"
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para pedir esclarecimentos, a Sr.ª Deputada \nLúcia Araújo."
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 26,
+      "speaker": {
+        "id": 2071,
+        "name": "Lúcia Fernanda Ferreira Araújo Silva",
+        "party": "PS",
+        "string": "A Sr.ª Lúcia Araújo Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Emídio Guerreiro, é com alguma \nperplexidade que hoje assistimos, nesta Câmara, a um debate sobre o projeto de lei que procura uma melhor \neducação para todos, que se diz providenciar uma verdadeira igualdade de oportunidades, sem que os seus \nproponentes tenham ouvido todos os intervenientes no processo educativo, nomeadamente professores e \naqueles que representam os pais e os encarregados de educação. \nFormalmente, não tinham de o fazer, é certo, mas concordará comigo, Sr. Deputado, se eu lhe disser que \neste projeto carece de um grau acentuado de democraticidade. \nAs perplexidades continuam, Sr. Deputado. Relembro os Decretos-Leis n.os 144/2008 e 30/2015, onde estão \nplasmadas as competências delegadas nos órgãos dos municípios, designadamente o plano de formação e os \ncritérios de organização das turmas, que há pouco o Sr. Deputado referia. \nNeste sentido, gostava de colocar uma questão. Será que o Sr. Deputado se esqueceu dos anteriores decretos-\nleis? Está distraído ou, quiçá, Sr. Deputado, será por falta de conhecimento de causa que propõe agora o reforço \ndas funções do conselho geral, esquecendo que também o seu Governo de coligação PSD/CDS legislou em 2015? \nSr. Deputado, lutar por um escola de qualidade, alcançar uma melhoria nas aprendizagens, é um processo \nlongo, de vários anos, que agrega vontades e trabalho de muitos, designadamente de professores, de pais, de \nencarregados de educação, para que todos, em conjunto, possam responder às especificidades de cada aluno \ne de cada escola. \nEntretanto, reassumiu a presidência o Presidente, Ferro Rodrigues."
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Emídio Guerreiro."
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 26,
+      "speaker": {
+        "id": 1990,
+        "name": "Emídio Guerreiro",
+        "party": "PSD",
+        "string": "O Sr. Emídio Guerreiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada, muito obrigado pelas questões que coloca. \nHá uma questão que fica por resolver, neste debate: o atual modelo de gestão das escolas é, na sua \nessência, um modelo vosso, um modelo lançado em 2008 por vós."
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 26,
+      "speaker": {
+        "id": 2035,
+        "name": "Joana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Joana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso é verdade, agora está a falar bem!"
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 26,
+      "speaker": {
+        "id": 2139,
+        "name": "Porfírio Simoes De Carvalho E Silva",
+        "party": "PS",
+        "string": "O Sr. Porfírio Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Responda à nossa questão!"
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 26,
+      "speaker": {
+        "id": 1990,
+        "name": "Emídio Guerreiro",
+        "party": "PSD",
+        "string": "O Sr. Emídio Guerreiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A nossa proposta visa, exatamente, densificar e melhorar esse modelo \nde gestão."
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 27,
+      "speaker": {
+        "id": 2139,
+        "name": "Porfírio Simoes De Carvalho E Silva",
+        "party": "PS",
+        "string": "O Sr. Porfírio Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Responda lá!"
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 27,
+      "speaker": {
+        "id": 1990,
+        "name": "Emídio Guerreiro",
+        "party": "PSD",
+        "string": "O Sr. Emídio Guerreiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… o que há de dizer aos portugueses, relativamente à gestão das escolas. \nPor isso, os senhores têm um problema para resolver, não somos nós! \nSe querem discutir as nossas propostas, votem-nas daqui a pouco e, para a semana, em sede de \nespecialidade, trabalharemos em conjunto."
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para uma intervenção, a Sr.ª Deputada Ana Rita Bessa."
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª AnaRitaBessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Tenho estado a ouvir com \natenção as intervenções, particularmente das bancadas da esquerda, e surge-me uma dúvida. \nA escola, como não é uma empresa, não pode ser dirigida por um diretor, que, automaticamente, será um \ntodo-poderoso, um manda-chuva. Então, o País, que, na minha opinião, também não é uma empresa, não \ndeveria também ser dirigido por um órgão colegial,…"
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 27,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 27,
+      "speaker": {
+        "id": 1937,
+        "name": "Ana Rita Barreira Duarte Bessa",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Ana Rita Bessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… em vez de ser dirigido por um primeiro-ministro todo-poderoso, um \nmanda-chuva?!"
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 27,
+      "speaker": {
+        "id": 2139,
+        "name": "Porfírio Simoes De Carvalho E Silva",
+        "party": "PS",
+        "string": "O Sr. Porfírio Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em que País é que a Sr.ª Deputada vive?!"
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 27,
+      "speaker": {
+        "id": 1937,
+        "name": "Ana Rita Barreira Duarte Bessa",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Ana Rita Bessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não sei do que estão à espera para fazerem essa proposta!"
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 27,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 27,
+      "speaker": {
+        "id": 1937,
+        "name": "Ana Rita Barreira Duarte Bessa",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Ana Rita Bessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Surge-me ainda uma outra questão. A gestão democrática das escolas, que \na esquerda defende, é mais ou menos como ter os de dentro da escola a decidir, colegialmente, para dentro da escola. \nOu seja, seria o mesmo, com as devidas adaptações, que ter só os funcionários públicos a elegerem o Governo. \nÉ isto que, para os senhores, é uma gestão democrática das escolas?!"
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para uma intervenção, a Sr.ª Deputada Susana Amador."
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 27,
+      "speaker": {
+        "id": 2157,
+        "name": "Susana De Fátima Carvalho Amador",
+        "party": "PS",
+        "string": "A Sr.ª Susana Amador (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Falámos, durante esta manhã, de \nautonomia e de gestão das escolas, um tema que é relevante, da máxima importância, numa escola que"
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 28,
+      "speaker": {
+        "id": 2139,
+        "name": "Porfírio Simoes De Carvalho E Silva",
+        "party": "PS",
+        "string": "O Sr. Porfírio Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Essa é que é essa!"
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 28,
+      "speaker": {
+        "id": 2157,
+        "name": "Susana De Fátima Carvalho Amador",
+        "party": "PS",
+        "string": "A Sr.ª Susana Amador (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E, caros Deputados do PSD, sem meios não há autonomia, ela é uma \naparência, é uma mera sombra. \nSem recursos humanos também não há autonomia e sem investimento contínuo também não há liberdade \nnessa própria escola. \nA verdade, Srs. Deputados, é que é muito mais fácil destruir do que reconstruir. E é isso que nós estamos a \nfazer, estamos a reconstruir a escola pública, a escola da igualdade de oportunidades em que acreditamos. \nPor isso, estamos a insistir na escola: 200 intervenções escolares para 2017, no nosso parque escolar, no \nbásico e secundário, contratualizadas. Estamos a insistir na ação social escolar: 370 000 alunos beneficiaram \nde manuais escolares, e já em setembro todos os alunos do 1.º ciclo. \nEstamos a valorizar professores e alunos, trazendo às escolas cidadania e orçamentos participativos nas \npróprias escolas."
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 28,
+      "speaker": {
+        "id": 2139,
+        "name": "Porfírio Simoes De Carvalho E Silva",
+        "party": "PS",
+        "string": "O Sr. Porfírio Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 28,
+      "speaker": {
+        "id": 2157,
+        "name": "Susana De Fátima Carvalho Amador",
+        "party": "PS",
+        "string": "A Sr.ª Susana Amador (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estamos a profundar a democracia, ouvindo tudo e todos, o que não \naconteceu com este projeto de lei, para o qual não se ouviram nem os conselhos de escolas, nem os municípios \nportugueses, nem as associações de pais. \nA verdade é que, para nós, Srs. Deputados, o nosso desígnio é, e será, sempre o sucesso escolar de todos \nos alunos, para que ninguém fique para trás,…"
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 28,
+      "speaker": {
+        "id": 2139,
+        "name": "Porfírio Simoes De Carvalho E Silva",
+        "party": "PS",
+        "string": "O Sr. Porfírio Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 166,
+      "order": 166,
+      "page_start": 28,
+      "speaker": {
+        "id": 2157,
+        "name": "Susana De Fátima Carvalho Amador",
+        "party": "PS",
+        "string": "A Sr.ª Susana Amador (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… o combate, sem tréguas, à retenção de alunos, de que não se falou aqui \ne a que não se refere o projeto de lei do PSD. \nQuero dizer que, acima de tudo, acreditamos em programas de ação estratégica ancorados,…"
+    },
+    {
+      "utterance_id": 167,
+      "order": 167,
+      "page_start": 28,
+      "speaker": {
+        "id": 1379,
+        "name": "Pedro Filipe Dos Santos Alves",
+        "party": "PSD",
+        "string": "O Sr. Pedro Alves (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Outra vez?!"
+    },
+    {
+      "utterance_id": 168,
+      "order": 168,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe para concluir, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 169,
+      "order": 169,
+      "page_start": 28,
+      "speaker": {
+        "id": 2157,
+        "name": "Susana De Fátima Carvalho Amador",
+        "party": "PS",
+        "string": "A Sr.ª Susana Amador (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… a partir de diagnósticos locais dos problemas."
+    },
+    {
+      "utterance_id": 170,
+      "order": 170,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem mesmo de concluir, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 171,
+      "order": 171,
+      "page_start": 29,
+      "speaker": {
+        "id": 2157,
+        "name": "Susana De Fátima Carvalho Amador",
+        "party": "PS",
+        "string": "A Sr.ª Susana Amador (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… o nosso comboio é um comboio que vai cheio, que vai repleto de ideias \ne de participação. \nO vosso está vazio e, mais grave do que isso, o vosso comboio não tem condutor, não tem rumo, não tem \num caminho certo."
+    },
+    {
+      "utterance_id": 172,
+      "order": 172,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para concluir o debate, tem a palavra, para uma intervenção, o Sr. Deputado Luís \nMontenegro."
+    },
+    {
+      "utterance_id": 173,
+      "order": 173,
+      "page_start": 29,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O atual modelo de gestão das \nescolas foi implementado em 2008, por um governo do Partido Socialista. Em 2012, esse modelo foi melhorado \ne foi aprofundado. Os resultados são conhecidos…"
+    },
+    {
+      "utterance_id": 174,
+      "order": 174,
+      "page_start": 29,
+      "speaker": {
+        "id": 1990,
+        "name": "Emídio Guerreiro",
+        "party": "PSD",
+        "string": "O Sr. Emídio Guerreiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso é verdade."
+    },
+    {
+      "utterance_id": 175,
+      "order": 175,
+      "page_start": 29,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e os resultados são bons. \nA avaliação que se faz deste modelo é, do ponto de vista quer nacional quer internacional, uma avaliação positiva."
+    },
+    {
+      "utterance_id": 176,
+      "order": 176,
+      "page_start": 29,
+      "speaker": {
+        "id": 1990,
+        "name": "Emídio Guerreiro",
+        "party": "PSD",
+        "string": "O Sr. Emídio Guerreiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 177,
+      "order": 177,
+      "page_start": 29,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A nossa proposta, hoje, visa aperfeiçoar ainda mais o modelo e, com isso, \nreforçar a autonomia,…"
+    },
+    {
+      "utterance_id": 178,
+      "order": 178,
+      "page_start": 29,
+      "speaker": {
+        "id": 2035,
+        "name": "Joana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Joana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas onde?!"
+    },
+    {
+      "utterance_id": 179,
+      "order": 179,
+      "page_start": 29,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… a transparência e a credibilidade da gestão escolar. \nO objetivo é dar mais poder às escolas e assegurar a participação da comunidade local — dos pais às \nautarquias, das empresas ao movimento associativo —, seja na definição e na constituição das turmas, seja na \ndiferenciação pedagógica, seja no assegurar da participação dos pais encarregados de educação, seja no \nreforço das competências dos órgãos diretivos. A questão que se deve colocar é a seguinte: por que é que o \nEstado há de ter medo de dar esse poder e essa autonomia a quem está perto da realidade dos alunos e a \nquem tem esse objetivo de cuidar da qualificação das pessoas?"
+    },
+    {
+      "utterance_id": 180,
+      "order": 180,
+      "page_start": 29,
+      "speaker": {
+        "id": 1990,
+        "name": "Emídio Guerreiro",
+        "party": "PSD",
+        "string": "O Sr. Emídio Guerreiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 181,
+      "order": 181,
+      "page_start": 30,
+      "speaker": {
+        "id": 2035,
+        "name": "Joana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Joana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas qual autonomia?!"
+    },
+    {
+      "utterance_id": 182,
+      "order": 182,
+      "page_start": 30,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O serviço público de educação não precisa de facilitismo,…"
+    },
+    {
+      "utterance_id": 183,
+      "order": 183,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 184,
+      "order": 184,
+      "page_start": 30,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… não precisa de passagens administrativas, de desconfiança e de \nexcessos corporativistas ou ideológicos. \nO serviço público de educação precisa, isso sim, de qualidade e de exigência, precisa de cultura de mérito, \nde garantir conhecimentos sólidos, de desenvolver capacidades críticas, de estimular e desenvolver, económica, \ncultural e socialmente, o País. \nA opção, Sr.as e Srs. Deputados, não pode ser a opção do PSD ou a opção do Partido Socialista."
+    },
+    {
+      "utterance_id": 185,
+      "order": 185,
+      "page_start": 30,
+      "speaker": {
+        "id": 1932,
+        "name": "Amadeu Albertino Marques Soares Albergaria",
+        "party": "PSD",
+        "string": "O Sr. Amadeu Soares Albergaria (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 186,
+      "order": 186,
+      "page_start": 30,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A opção, até olhando para este histórico dos últimos nove anos, tem de \nser uma opção verdadeiramente nacional…"
+    },
+    {
+      "utterance_id": 187,
+      "order": 187,
+      "page_start": 30,
+      "speaker": {
+        "id": 1990,
+        "name": "Emídio Guerreiro",
+        "party": "PSD",
+        "string": "O Sr. Emídio Guerreiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 188,
+      "order": 188,
+      "page_start": 30,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e, sendo uma opção nacional, não pode ser adulterada, não pode ter \navanços e recuos, não pode ficar refém de complexos ideológicos ou de interesses parcelares. \nA opção, Srs. Deputados, é uma opção estratégica, é uma opção estruturante, é uma opção estrutural, é, \nverdadeiramente, um desígnio nacional. Não precisamos de estar todos de acordo sobre tudo, Srs. Deputados, \nmas não podemos abalar as traves-mestras deste modelo. \nO Partido Socialista tem mesmo de se definir. \nTem de se definir! \nTem de dizer se rasga esta opção nacional e se cola à posição radical do Partido Comunista e do Bloco de \nEsquerda ou se, por outro lado, tem a coragem de assumir o seu património e o sentido de Estado de não ver \nsó aquilo que tem de passar hoje, no dia a dia, mas de projetar o País para as próximas décadas, não estragando \no trabalho positivo que tem vindo a ser feito. \nSe o PS desistir da opção nacional de construir uma escola pública qualificada, competitiva, com autonomia, \ncom exigência, com cultura de mérito, uma escola pública que possa promover a produtividade e a \ncompetitividade do País, se o Partido Socialista desistir desta opção, então, a conclusão é simples: este Partido \nSocialista quer governar a qualquer custo."
+    },
+    {
+      "utterance_id": 189,
+      "order": 189,
+      "page_start": 30,
+      "speaker": {
+        "id": 1990,
+        "name": "Emídio Guerreiro",
+        "party": "PSD",
+        "string": "O Sr. Emídio Guerreiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 190,
+      "order": 190,
+      "page_start": 30,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Este Partido Socialista não olha para o futuro do País, olha apenas para \no seu dia a dia."
+    },
+    {
+      "utterance_id": 191,
+      "order": 191,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 192,
+      "order": 192,
+      "page_start": 31,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso, quero terminar este debate…"
+    },
+    {
+      "utterance_id": 193,
+      "order": 193,
+      "page_start": 31,
+      "speaker": {
+        "id": 2139,
+        "name": "Porfírio Simoes De Carvalho E Silva",
+        "party": "PS",
+        "string": "O Sr. Porfírio Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É um brincalhão!"
+    },
+    {
+      "utterance_id": 194,
+      "order": 194,
+      "page_start": 31,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isto não é brincadeira, Sr. Deputado! Isto é mesmo o futuro do País. É \nmesmo o futuro do País! \nSr. Deputado, para terminar este debate lanço uma questão ao Partido Socialista…"
+    },
+    {
+      "utterance_id": 195,
+      "order": 195,
+      "page_start": 31,
+      "speaker": {
+        "id": 2139,
+        "name": "Porfírio Simoes De Carvalho E Silva",
+        "party": "PS",
+        "string": "O Sr. Porfírio Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Agora?!"
+    },
+    {
+      "utterance_id": 196,
+      "order": 196,
+      "page_start": 31,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e que tem a ver com a opção que também vão tomar daqui a minutos \nquando votarmos este projeto de lei."
+    },
+    {
+      "utterance_id": 197,
+      "order": 197,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe para concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 198,
+      "order": 198,
+      "page_start": 31,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "No final deste debate, a questão que coloco ao Partido Socialista é esta: \n44 anos depois da vossa fundação, o Partido Socialista vai aceitar ficar refém do comunismo…"
+    },
+    {
+      "utterance_id": 199,
+      "order": 199,
+      "page_start": 31,
+      "speaker": {
+        "id": 2139,
+        "name": "Porfírio Simoes De Carvalho E Silva",
+        "party": "PS",
+        "string": "O Sr. Porfírio Silva (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se tivesse assistido ao debate, saberia qual é o sentido de voto!"
+    },
+    {
+      "utterance_id": 200,
+      "order": 200,
+      "page_start": 31,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… ou vai ser fiel aos seus princípios,…"
+    },
+    {
+      "utterance_id": 201,
+      "order": 201,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Oh!…"
+    },
+    {
+      "utterance_id": 202,
+      "order": 202,
+      "page_start": 31,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… à sua cultura e à sua reforma e a este modelo?"
+    },
+    {
+      "utterance_id": 203,
+      "order": 203,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, tem mesmo de concluir."
+    },
+    {
+      "utterance_id": 204,
+      "order": 204,
+      "page_start": 31,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vai ter a coragem de assumir que este projeto de lei do PSD possa ser \ndiscutido convosco, para, assim, podermos continuar a melhorar o serviço público de educação?"
+    },
+    {
+      "utterance_id": 205,
+      "order": 205,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, concluída a discussão do projeto de lei n.º 511/XIII (2.ª) chegamos ao \nfim da nossa agenda de debates de hoje. \nAntes de darmos início ao período regimental de votações, o Sr. Secretário, Deputado Duarte Pacheco, vai \ndar conta do expediente."
+    },
+    {
+      "utterance_id": 206,
+      "order": 206,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Duarte Pacheco)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, deu entrada na Mesa, e foi \nadmitido, o projeto de lei n.º 512/XIII (2.ª) — Aprova o regime de avaliação de impacto de género dos atos \nnormativos (PS), que baixa à 1.ª Comissão. \nÉ tudo, Sr. Presidente."
+    },
+    {
+      "utterance_id": 207,
+      "order": 207,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, penso que estamos em condições de passar à verificação do quórum \nde deliberação, utilizando o sistema eletrónico para o efeito. \nOs Srs. Deputados que, por qualquer razão, não se puderam registar terão de o sinalizar à Mesa, para que \nseja considerada a respetiva presença na reunião. \nPausa. \nSrs. Deputados, o quadro eletrónico regista 197 presenças, às quais se acrescentam 8, dos Deputados do \nPSD António Ventura e Pedro Passos Coelho, do PS Helena Roseta, João Paulo Correia, Nuno Sá e Porfírio \nSilva e do CDS-PP Álvaro Castello-Branco e Ilda Araújo Novo, perfazendo 205 Deputados presentes, pelo que \ntemos quórum de deliberação. \nComeçamos pelo voto n.º 292/XIII (2.ª) — De pesar pelo falecimento de Agostinho Domingues (PS). \nPeço à Sr.ª Secretária, Deputada Sandra Pontedeira, para proceder à sua leitura."
+    },
+    {
+      "utterance_id": 208,
+      "order": 208,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Sandra Pontedeira)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, o voto é do seguinte teor: \n«Agostinho Domingues nasceu em 1940, em Santa Maria de Bouro, onde fez os seus primeiros estudos e \nfrequentou os cinco primeiros anos do ensino secundário nos seminários da Companhia de Jesus. Licenciou-se \nem Filologia Românica pela Universidade de Coimbra, doutorou-se em História Moderna na Faculdade de Letras \ndo Porto, concluindo o mestrado em Língua e Literatura Portuguesa na Universidade do Minho. \nFoi professor do ensino secundário no Liceu Sá de Miranda, em Braga, vice-reitor do antigo Liceu de Barcelos \ne inspetor regional para a educação nos distritos de Braga e de Viana do Castelo. \nNa sua atividade política, exerceu o cargo de Deputado à Assembleia Constituinte e à Assembleia da \nRepública, em vários mandatos, foi vereador da Câmara Municipal de Amares, tendo sido ainda membro da \nComissão Nacional do PS. \nFoi colaborador regular dos jornais Correio do Minho e Diário do Minho. No âmbito literário, destacou-se pelo \nestudo e investigação que fez das obras de vários escritores, em especial do seu conterrâneo Francisco Sá de \nMiranda. Para além da sua vasta intervenção política e literária, o Prof. Agostinho Domingues será também \nrecordado pelo seu extraordinário desempenho como Mestre e Professor de Português no «seu» Liceu Sá de \nMiranda, onde lecionou durante vários anos e a muitas gerações de jovens estudantes de todo o Minho, num \nespírito de abertura e participação ativa na aula, que ainda não era usual na época. \nA sua intervenção cívica e política sempre foi caracterizada, por um lado, pela exigência do respeito pelos \nvalores democráticos da seriedade e da integridade e, por outro, por uma tolerância e respeito pelos cidadãos, \nsempre na procura das decisões mais justas, mais equilibradas e mais participadas. A sua morte física provoca, \npois, em todos os cidadãos que prezam a democracia, um indisfarçável sentimento de perda, mas o seu exemplo \nnão será seguramente esquecido, competindo-nos honrar o seu importante legado. \nAssim, a Assembleia da República, reunida em Plenário, expressa sentidas e profundas condolências à \nfamília, amigos e a todos quantos o conheceram e estimaram, homenageando o Prof. Agostinho Domingues, \num homem da cultura que se preocupou com os valores da cidadania e que sempre lutou por um mundo mais \njusto e mais solidário, honrando a sua terra e o seu país.»"
+    },
+    {
+      "utterance_id": 209,
+      "order": 209,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Obrigado, Sr.ª Secretária. \nSrs. Deputados, vamos proceder à votação do voto n.º 292/XIII (2.ª). \nSubmetido à votação, foi aprovado por unanimidade. \nPassamos ao voto n.º 295/XIII (2.ª) — De pesar pelo falecimento de Nuno Brederode Santos (Presidente da \nAR, PSD, PS, CDS-PP, BE, Os Verdes, PAN e PCP), que vai ser lido pela Sr.ª Secretária, Deputada Idália \nSerrão."
+    },
+    {
+      "utterance_id": 210,
+      "order": 210,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Idália Salvador Serrão)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, o voto é do seguinte \nteor: \n«É com profundo pesar que a Assembleia da República assinala o falecimento de Nuno Brederode Santos."
+    },
+    {
+      "utterance_id": 211,
+      "order": 211,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Obrigado, Sr.ª Secretária. \nSrs. Deputados, vamos proceder à votação do voto n.º 295/XIII (2.ª). \nSubmetido à votação, foi aprovado por unanimidade. \nTemos agora o voto n.º 293/XIII (2.ª) — De pesar a respeito do dia 28 de abril, Dia Nacional de Prevenção e \nSegurança no Trabalho (PS), e peço à Sr.ª Secretária, Deputada Sandra Pontedeira, para o ler."
+    },
+    {
+      "utterance_id": 212,
+      "order": 212,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Sandra Pontedeira)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, o voto é do seguinte teor: \n«A primeira cerimónia que assinalou o dia 28 de abril, enquanto Dia Nacional de Prevenção e Segurança no \nTrabalho, teve lugar em Nova Iorque, na ONU, com um memorial que recordou os trabalhadores e as \ntrabalhadoras que perderam a vida enquanto trabalhavam ou que adquiriram doenças em virtude da respetiva \natividade profissional. Em 2001, esta comemoração foi não só reconhecida e apoiada pela Organização \nInternacional do Trabalho (OIT) como também, em Portugal, a Assembleia da República, através da Resolução \nn.º 44, instituiu o dia 28 de abril como o Dia Nacional de Prevenção e Segurança no Trabalho. \nQuedas, esmagamentos, choques e outros acidentes de trabalho continuam a provocar ferimentos ou a morte \nde trabalhadores. Portugal continua a apresentar uma elevada e inaceitável taxa de sinistralidade laboral \nreveladora da necessidade de continuar a intensificar a luta por melhores condições de vida e de trabalho, de \nafirmar a importância da prevenção dos riscos profissionais e de concretizar e cumprir a legislação do trabalho \nsobre esta matéria, promovendo locais de trabalho mais seguros e mais saudáveis e erradicando qualquer tipo \nde repressão sobre trabalhadores e trabalhadoras. \nNeste quadro é imprescindível prosseguir o reforço da ACT, de forma a que a Alta Autoridade para as \nCondições de Trabalho possa estar devidamente apetrechada para combater de modo eficaz as inúmeras \nsituações de incumprimento que se verificam por parte das entidades patronais. Com efeito, os acidentes \nprofissionais e as doenças profissionais não são inevitáveis, mas resultam, na maior parte das vezes, de \nsituações que violam grosseiramente a lei, de condições de trabalho pouco dignas e mesmo, por vezes, da falta \nde prevenção ou da ignorância de direitos e de deveres por parte de trabalhadores e entidades patronais. \nAssim, a Assembleia da República reunida em Plenário: \n1 — Delibera observar 1 minuto de silêncio em memória dos trabalhadores e trabalhadoras portugueses \nvítimas de acidentes mortais; \n2 — Faz votos de que o Governo, na senda do trabalho que está a realizar no combate à precaridade, \ncontinue a defender ambientes de trabalho saudáveis, seguros e dignos.»"
+    },
+    {
+      "utterance_id": 213,
+      "order": 213,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Obrigado, Sr.ª Secretária."
+    },
+    {
+      "utterance_id": 214,
+      "order": 214,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Idália Salvador Serrão)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, o voto é do seguinte teor: \n«Celebrou-se, na passada segunda-feira, o feriado nacional do 1.º de Maio. Nesse dia, o povo português não \nsó comemorou a memória dos 131 anos passados sobre os trágicos acontecimentos de Chicago como comemorou \na memória de muitos milhares de homens e de mulheres que, durante este período, abandonaram o conforto das \nsuas casas, a tranquilidade do seu quotidiano, a segurança da sua família e, não abdicando dos seus sonhos, \nlutaram por melhores condições de vida e de trabalho, sacrificando o seu dia a dia e muitas vezes a própria vida. \nPorque é esta marca que temos de lembrar e de preservar — fazer perdurar a memória dos mártires de \nChicago, encarcerados ou enforcados, vítimas inocentes de um combate por uma jornada de trabalho de 8 horas \n—, temos de aproveitar este dia e esta marca para lembrar ainda que, pese embora todos os avanços \nalcançados, o mundo tem de mudar, a globalização tem de se humanizar e o trabalho tem de ser valorizado. \nEm Portugal, o 1.º de Maio é um dia de feriado nacional, realçando a importância da data e o seu significado \nhistórico. Infelizmente, com o andar dos tempos, várias empresas e estabelecimentos, calcando tradições e \ndireitos, têm aberto as suas portas numa demonstração de força lamentável. \nPortugal vive uma fase de estabilidade política e social, disfrutando de uma assinalável normalidade \ndemocrática que permite aos trabalhadores e aos cidadãos em geral poderem pensar e projetar as suas vidas \nsem sobressaltos. Bem inestimável. Banida a imprevisibilidade, todas e todos dispõem das escolhas que a \ndemocracia lhes oferece, porque, finalmente, é disso que se trata, de escolhas que lhes permitam, \nresponsavelmente, construir, com o seu contributo, uma democracia cada vez mais perfeita. \nAssim, a Assembleia da República, reunida em Plenário, no dia 5 de maio de 2017: \n1 — Saúda o 1.º de Maio e o seu profundo significado na história dos avanços civilizacionais; \n2 — Saúda as trabalhadoras e os trabalhadores portugueses pelos sacrifícios e sentido de responsabilidade \nque têm sabido demonstrar ao longo dos anos; \n3 — Reafirma que a democracia não é um bem adquirido e para sempre seguro e que exige o nosso \npermanente rigor, a nossa entrega e o trabalho diário de cada um e de cada uma, para o bem de todos.»"
+    },
+    {
+      "utterance_id": 215,
+      "order": 215,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Obrigado, Sr.ª Secretária. \nVamos votar o voto n.º 294/XIII (2.ª). \nSubmetido à votação, foi aprovado por unanimidade. \nVamos agora votar o projeto de deliberação n.º 15/XIII (2.ª) — Procede à segunda alteração à Deliberação \nn.º 2-PL/2016, aprovada em 29 de janeiro, que fixa a composição, distribuição e elenco dos grupos \nparlamentares de amizade na XIII Legislatura (Presidente da AR). \nSubmetido à votação, foi aprovado, com votos a favor do PSD, do PS, do BE, do CDS-PP, do PCP e de Os \nVerdes e a abstenção do PAN."
+    },
+    {
+      "utterance_id": 216,
+      "order": 216,
+      "page_start": 35,
+      "speaker": {
+        "id": 1948,
+        "name": "António Paulo Jacinto Eusébio",
+        "party": "PS",
+        "string": "O Sr. António Eusébio (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 217,
+      "order": 217,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 218,
+      "order": 218,
+      "page_start": 36,
+      "speaker": {
+        "id": 1948,
+        "name": "António Paulo Jacinto Eusébio",
+        "party": "PS",
+        "string": "O Sr. António Eusébio (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é para anunciar que eu, a Sr.ª Deputada Jamila Madeira e \nos Srs. Deputados Luís Graça e Fernando Anastácio apresentaremos uma declaração de voto sobre esta última \nvotação."
+    },
+    {
+      "utterance_id": 219,
+      "order": 219,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Fica registado, Sr. Deputado. \nEstão em aprovação os n.os 57 a 71 do Diário, respeitantes às reuniões plenárias dos dias 1, 2, 3, 8, 9, 10, \n15, 16, 17, 22, 23, 24, 29, 30 e 31 de março de 2017. \nSe não houver objeções, vamos votá-los. \nPausa. \nSubmetidos à votação, foram aprovados por unanimidade. \nSrs. Deputados, temos, para votar, um parecer da Subcomissão de Ética da Comissão de Assuntos \nConstitucionais, Direitos, Liberdades e Garantias, que o Sr. Secretário, Deputado Duarte Pacheco, vai fazer o \nfavor de ler."
+    },
+    {
+      "utterance_id": 220,
+      "order": 220,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Duarte Pacheco)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, a solicitação do Juízo Local \nCível de Arcos de Valdevez (Juiz 2 — Juiz 15) do Tribunal Judicial da Comarca de Viana do Castelo — Processo \nn.º 603/15.9T8AVV-B —, a Subcomissão de Ética decidiu emitir parecer no sentido de autorizar a Deputada \nEmília Cerqueira (PSD) a intervir no processo, como testemunha, no âmbito dos referidos autos."
+    },
+    {
+      "utterance_id": 221,
+      "order": 221,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos votar o parecer que acaba de ser lido. \nSubmetido à votação, foi aprovado por unanimidade. \nSrs. Deputados, chegámos ao fim dos nossos trabalhos e a próxima reunião plenária terá lugar no dia 9 de \nmaio, terça-feira, às 15 horas, e terá como ordem do dia: a apreciação, na generalidade, do projeto de lei n.º \n497/XIII (2.ª) — Proíbe a realização de novas concessões para a exploração de hidrocarbonetos no território \nnacional (BE e PAN); a discussão conjunta dos projetos de resolução n.os 827/XIII (2.ª) — Recomenda ao \nGoverno medidas de cumprimento do Programa Nacional de Vacinação na comunidade escolar (CDS-PP) e \n828/XIII (2.ª) — Recomenda ao Governo medidas de cumprimento do Programa Nacional de Vacinação na \npopulação adulta e nos profissionais de saúde (CDS-PP); o debate, na generalidade, do projeto de lei n.º 340/XIII \n(2.ª) — Altera o Estatuto dos Militares das Forças Armadas (EMFAR) (PCP); a apreciação do projeto de \nresolução n.º 607/XIII (2.ª) — Recomenda ao Governo a urgente reposição de quatro carruagens na Linha Verde \nda Metropolitano de Lisboa (Os Verdes); a discussão conjunta dos projetos de lei n.os 498/XIII (2.ª) — Sanciona \na utilização de venenos no âmbito da atividade cinegética (PAN), 502/XIII (2.ª) — Estabelece a obrigatoriedade \nda presença de inspetor sanitário em determinados atos venatórios (PAN) e 503/XIII (2.ª) — Proíbe a utilização \nde matilhas como meio de caça (PAN e BE), na generalidade, e dos projetos de resolução n.os 809/XIII (2.ª) — \nRecomenda ao Governo que institua um regime de moratória de três anos para a caça da rola-comum e do \ncoelho-bravo (PAN) e 810/XIII (2.ª) — Recomenda ao Governo que institua um regime uniforme de dois dias de \ncaça para terrenos cinegéticos ordenados e não ordenados (PAN). \nSrs. Deputados, desejo a todos um bom fim de semana. \nDeclaro encerrada a sessão."
+    }
+  ]
+}

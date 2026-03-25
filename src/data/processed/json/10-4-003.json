@@ -1,0 +1,3680 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "10",
+    "legislative_session": "4",
+    "number": "3",
+    "date": "2008-09-19"
+  },
+  "debate_id": "r3_10_4_3_2008-09-19",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão. \nEram 10 horas e 10 minutos. \nSrs. Deputados presentes à sessão: \nPartido Socialista (PS): \nAgostinho Moreira Gonçalves \nAlberto Marques Antunes \nAlberto de Sousa Martins \nAldemira Maria Cabanita do Nascimento Bispo Pinho \nAna Catarina Veiga Santos Mendonça Mendes \nAna Maria Cardoso Duarte da Rocha \nAntónio Alves Marques Júnior \nAntónio Bento da Silva Galamba \nAntónio José Martins Seguro \nAntónio Ramos Preto \nAntónio Ribeiro Gameiro \nArtur Miguel Claro da Fonseca Mora Coelho \nCarlos Alberto David dos Santos Lopes \nDavid Martins \nDeolinda Isabel da Costa Coutinho \nElísio da Costa Amorim \nEsmeralda Fátima Quitério Salero Ramires \nFernanda Maria Pereira Asseiceira \nFernando Manuel de Jesus \nGlória Maria da Silva Araújo \nHorácio André Antunes \nHugo Miguel Guerreiro Nunes \nIsabel Maria Batalha Vigia Polaco de Almeida \nIsabel Maria Pinto Nunes Jorge \nJacinto Serrão de Freitas \nJaime José Matos da Gama \nJoana Fernanda Ferreira Lima \nJoaquim Ventura Leite \nJorge Filipe Teixeira Seguro Sanches \nJorge Manuel Capela Gonçalves Fão \nJorge Manuel Gouveia Strecht Ribeiro \nJorge Manuel Monteiro de Almeida \nJosé Alberto Rebelo dos Reis Lamego \nJosé Carlos Bravo Nico \nJosé Carlos Correia Mota de Andrade \nJosé Eduardo Vera Cruz Jardim \nJosé Manuel Lello Ribeiro de Almeida \nJovita de Fátima Romano Ladeira \nJoão Carlos Vieira Gaspar \nJoão Cândido da Rocha Bernardo \nJoão Miguel de Melo Santos Taborda Serrano \nJoão Raul Henriques Sousa Moura Portugal \nLeonor Coutinho Pereira dos Santos \nLuís Afonso Cerqueira Natividade Candal \nLuís António Pita Ameixa \nLuís Miguel Morgado Laranjeiro"
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a Sr.ª Secretária vai proceder à leitura do expediente."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, deram entrada na Mesa, e foram admitidas, as seguintes iniciativas legislativas: projectos de lei n.os 582/X (4.ª) — Criação das freguesias de Arroja e de Patameiras-Pombais por desanexação da freguesia de Odivelas, no concelho de Odivelas (PCP) e 583/X (4.ª) — Adopta um quadro de medidas de apoio à instalação de novas freguesias (PCP), que baixaram à 7.ª Comissão; apreciações parlamentares n.os 92/X (4.ª) — Relativa ao Decreto-Lei n.º 142/2008, de 24 de Julho, que estabelece o regime jurídico da conservação da natureza e da biodiversidade e revoga os Decretos-Leis n.os 264/79, de 1 de Agosto, e 19/93, de 23 de Janeiro (PCP) e 93/X (4.ª) — Relativa ao Decreto-Lei n.º 159/2008, de 8 de Agosto, que aprova a Lei Orgânica da Autoridade Florestal Nacional (PCP).\nEm termos de expediente é tudo, Sr. Presidente."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos dar início à apreciação do projecto de lei n.º 562/X (3.ª) — Alteração à Lei Eleitoral da Assembleia da República, apresentado pelo PS.\nPara uma intervenção, tem a palavra o Sr. Deputado José Lello."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 6,
+      "speaker": {
+        "id": 734,
+        "name": "José Manuel Lello Ribeiro De Almeida",
+        "party": "PS",
+        "string": "O Sr. José Lello (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Chegou o momento de dar coerência ao exercício do voto no exterior, optando por um método fiável, em que são assegurados os requisitos constitucionais da pessoalidade e do sigilo do exercício do direito de sufrágio, presencialidade já assegurada, aliás, nas eleições para o Presidente da República, para o Parlamento Europeu e para o Conselho das Comunidades Portuguesas. É porque ao voto por correspondência são-lhe apontadas muitas imperfeições e, indiscutivelmente, o facto de poder ser potencialmente permeável à fraude."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 7,
+      "speaker": {
+        "id": 734,
+        "name": "José Manuel Lello Ribeiro De Almeida",
+        "party": "PS",
+        "string": "O Sr. José Lello (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Aceitar um sistema em que o princípio do segredo de voto não é absolutamente garantido seria retirar importância ao voto dos portugueses que vivem fora de Portugal. Recordo aqui o que diz um relatório do Conselho da Europa sobre este tema: «Uma eleição que não respeita o princípio do segredo de voto não pode ser considerada uma eleição livre».\nPropomos esta substituição do voto por correspondência pelo voto presencial porque é fundamental dignificar a real participação dos portugueses nos actos eleitorais no estrangeiro. Acresce que a uniformização dos processos eleitorais trará a vantagem de proporcionar uma mais clara percepção da participação eleitoral.\nHá, assim, que procurar trazer cada vez mais portugueses e luso-descendentes à participação cívica na vida política, tanto em relação a Portugal como em relação aos respectivos países de acolhimento.\nPor outro lado, e como parece lógico, se o voto para o Presidente da República, para o Parlamento Europeu e para o Conselho das Comunidades é presencial, por que deveríamos manter o voto por correspondência nas legislativas quando todos lhe reconhecem falhas, mesmo aqueles que o defendem?"
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 7,
+      "speaker": {
+        "id": 1152,
+        "name": "Alberto De Sousa Martins",
+        "party": "PS",
+        "string": "O Sr. Alberto Martins (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 7,
+      "speaker": {
+        "id": 734,
+        "name": "José Manuel Lello Ribeiro De Almeida",
+        "party": "PS",
+        "string": "O Sr. José Lello (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Com efeito, o próprio PSD, no preâmbulo do seu projecto de lei n.º 152/VIII, sobre o voto dos emigrantes nas eleições presidenciais, não só admitia o voto presencial como regra como o considerava «a todos os títulos o instrumento ideal de expressão da vontade dos eleitores e o mais motivador para estes». Acresce que, ao contrário do que foi propalado pela líder do PSD, também o voto dos emigrantes para o Parlamento Europeu passou a ser um voto presencial, e não por correspondência, mercê duma alteração legislativa de 2004, da iniciativa do próprio PSD.\nPrivilegiamos, assim, um sistema de votação mais transparente e democrático, o mesmo que já permitiu a eleição dum presidente apoiado à esquerda e a de outro que recebeu o apoio eleitoral dos partidos à direita do espectro parlamentar.\nEntretanto, nas comunidades, e fora delas, muito se fala de que haverá sempre demasiados portadores dum número significativo de votos de familiares ou de amigos para as estações dos correios — chega até a especular-se em relações de maior promiscuidade — , tudo isso, já sem contar com outras situações anómalas e menos claras, tanto a montante como a jusante do acto de votar."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 7,
+      "speaker": {
+        "id": 727,
+        "name": "José De Almeida Cesário",
+        "party": "PSD",
+        "string": "O Sr. José Cesário (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso está bem orquestrado»!"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 7,
+      "speaker": {
+        "id": 734,
+        "name": "José Manuel Lello Ribeiro De Almeida",
+        "party": "PS",
+        "string": "O Sr. José Lello (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estas seriam, desde logo, razões que fazem do voto por correspondência um voto enfraquecido, sem a mesma densidade e valor simbólico que tem a deposição do voto numa urna, já que os preceitos constitucionais do sigilo, da verdade, da transparência, da pessoalidade e da intransmissibilidade do voto como dever cívico poderão ser passíveis de forte desvirtuação."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 7,
+      "speaker": {
+        "id": 1152,
+        "name": "Alberto De Sousa Martins",
+        "party": "PS",
+        "string": "O Sr. Alberto Martins (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 7,
+      "speaker": {
+        "id": 734,
+        "name": "José Manuel Lello Ribeiro De Almeida",
+        "party": "PS",
+        "string": "O Sr. José Lello (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Numa democracia forte e estabilizada como a nossa, estes aspectos fundamentais de garantia da verdade eleitoral não podem ser sacrificados a argumentações utilitaristas.\nAlguns factos bem estranhos falam por si.\nNas últimas eleições legislativas, a imprensa deu conta do desaparecimento inexplicável de várias centenas de boletins de voto destinados à emigração; perto de uma centena de votos oriundos do Brasil foram enviados — imagine-se!... — para Espanha, tendo acabado depois por chegar ao Secretariado Técnico dos Assuntos para o Processo Eleitoral (STAPE) já fora do tempo útil para serem contabilizados. Por outro lado, no"
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 8,
+      "speaker": {
+        "id": 1257,
+        "name": "Hugo José Teixeira Velosa",
+        "party": "PSD",
+        "string": "O Sr. Hugo Velosa (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como é que será no futuro?"
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 8,
+      "speaker": {
+        "id": 734,
+        "name": "José Manuel Lello Ribeiro De Almeida",
+        "party": "PS",
+        "string": "O Sr. José Lello (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E que dizer dos 10 dias que é necessário esperar, após o apuramento dos resultados em Portugal, para que cheguem todos os boletins de voto, atrasando a tomada de posse do novo governo? Mas há mais situações bizarras, como o caso dos milhares de votos que vão para destinatários que mudaram de endereço ou, ainda mais escandaloso, dos votos que chegam a domicílios de eleitores já falecidos e que, alegadamente, continuam a ser remetidos para Lisboa."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Rosa Maria Albernaz (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 8,
+      "speaker": {
+        "id": 734,
+        "name": "José Manuel Lello Ribeiro De Almeida",
+        "party": "PS",
+        "string": "O Sr. José Lello (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Defender o voto por correspondência é, pois, pactuar com pequenas ilicitudes, que podem ter grandes consequências na verdade eleitoral, e ignorar as situações que têm sido denunciadas em muitos países, dos Estados Unidos à Inglaterra ou ao México, da Itália à França, em que é usada a votação postal.\nEm Itália, a justiça abriu um inquérito sobre possíveis fraudes com o voto dos italianos no exterior relativo às últimas eleições legislativas.\nTambém em Julho do ano passado, a imprensa britânica denunciou um esquema de fraude eleitoral maciça no voto por correspondência em eleições locais, que levou o magistrado encarregado do caso a dizer: «Este sistema de voto é escancarado à fraude e qualquer aspirante a cometê-la sabe disso».\nNos Estados Unidos, foram reportadas anomalias no sistema de voto, tanto electrónico como por correspondência. No total, a imprensa afirma que terão sido alvo de irregularidades cerca de 87 000 votos.\nPor outro lado, quanto ao voto electrónico, o relatório da Comissão Nacional de Protecção de Dados, elaborado após a experiência feita nas últimas eleições legislativas, é bem elucidativo quanto à permeabilidade dos sistemas informáticos a intrusões abusivas e às imensas dificuldades que um tal sistema apresenta para garantir a fiabilidade de um acto eleitoral.\nPaíses como a Grã-Bretanha, a Bélgica, a França e a Irlanda abandonaram a intenção de introduzir os processos de votação electrónica devido à fragilidade dos sistemas informáticos, em que, inclusivamente, é possível alterar o resultado das votações sem que ninguém se aperceba. O voto electrónico pode até vir a ser uma possibilidade no futuro, mas não para já.\nPor tudo isto, só com muita complacência se poderá admitir que o voto por correspondência é integralmente pessoal, secreto e autêntico."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Rosa Maria Albernaz (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 9,
+      "speaker": {
+        "id": 734,
+        "name": "José Manuel Lello Ribeiro De Almeida",
+        "party": "PS",
+        "string": "O Sr. José Lello (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O voto tem todo o seu valor se for a expressão livre e espontânea de uma opção que tem consequências políticas concretas na escolha democrática dos parlamentares. Com esta proposta de alteração da lei eleitoral não pretendemos limitar o exercício do direito de voto, antes conferir-lhe credibilidade e, ao mesmo tempo, confrontar de forma honesta e transparente os portugueses que vivem no estrangeiro com o seu dever de participação cívica na escolha dos seus representantes.\nAlém disso, ninguém pode acusar o PS de querer limitar o exercício de voto aos portugueses no estrangeiro,»"
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Paulo Rangel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não!» Não!»"
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 9,
+      "speaker": {
+        "id": 734,
+        "name": "José Manuel Lello Ribeiro De Almeida",
+        "party": "PS",
+        "string": "O Sr. José Lello (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» porque foi precisamente durante governos do PS que o voto foi alargado para a escolha dos candidatos à Presidência da República e passou a ser consagrado o voto directo para eleger os conselheiros das comunidades.\nMas é óbvio que estamos preocupados com o problema da abstenção e, por isso mesmo, defendemos que se promovam campanhas de informação tão vastas quanto possível e que, aquando do acto eleitoral, haja um desdobramento de mesas de voto que permita chegar ao maior número possível de portugueses."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 9,
+      "speaker": {
+        "id": 1152,
+        "name": "Alberto De Sousa Martins",
+        "party": "PS",
+        "string": "O Sr. Alberto Martins (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 9,
+      "speaker": {
+        "id": 734,
+        "name": "José Manuel Lello Ribeiro De Almeida",
+        "party": "PS",
+        "string": "O Sr. José Lello (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Com a alteração da lei que regula o voto para a Assembleia da República pretendemos, sobretudo, contribuir para o reforço da cidadania e para a valorização do acto de votar como um dos pilares centrais da nossa democracia, o que pressupõe que a liberdade e a pessoalidade do voto sejam exercidas de forma irrepreensível.\nPretendemos que, cada vez mais, os portugueses residentes no exterior se assumam na plenitude dos seus direitos e deveres em relação a Portugal. A transparência, a pessoalidade e o sigilo do voto deverão ser encarados como estímulos maiores para uma mais ampla participação cívica, na certeza de que todos os votos têm o mesmo valor, sem dúvidas nem suspeições.\nCom a transparência do processo eleitoral são também os portugueses que reforçam a sua legitimidade reivindicativa e se criam as condições para que haja uma definição mais objectiva das políticas que lhes são dirigidas.\nAo reforçarmos as práticas democráticas e a verdade eleitoral estaremos, sobretudo, a privilegiar uma relação mais próxima das nossas comunidades com Portugal."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveram-se vários Srs. Deputados para pedir esclarecimentos, mas como o orador excedeu o tempo de que dispunha não tem tempo para responder. Assim, não haverá pedidos de esclarecimento."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Paulo Rangel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Olha que esta ç boa!»"
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 9,
+      "speaker": {
+        "id": 1257,
+        "name": "Hugo José Teixeira Velosa",
+        "party": "PSD",
+        "string": "O Sr. Hugo Velosa (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Assim é um monólogo!"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para uma intervenção, tem a palavra o Sr. Deputado José Cesário."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 9,
+      "speaker": {
+        "id": 727,
+        "name": "José De Almeida Cesário",
+        "party": "PSD",
+        "string": "O Sr. José Cesário (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Permitam-me que comece por dizer que percebo a táctica do Partido Socialista — esgotando o tempo não pode responder às questões que lhe podiam ser colocadas!"
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 10,
+      "speaker": {
+        "id": 1257,
+        "name": "Hugo José Teixeira Velosa",
+        "party": "PSD",
+        "string": "O Sr. Hugo Velosa (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 10,
+      "speaker": {
+        "id": 727,
+        "name": "José De Almeida Cesário",
+        "party": "PSD",
+        "string": "O Sr. José Cesário (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Que drama! Pelo contrário, tem sido perfeitamente esmagado nos mais diversos actos eleitorais realizados.\nOra, confrontado com esta situação, o PS não tem escrúpulos: usa uma das suas únicas iniciativas dirigidas aos portugueses da diáspora nesta Legislatura, a segunda exactamente, para tentar alterar administrativamente este estado de coisas."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 10,
+      "speaker": {
+        "id": 1257,
+        "name": "Hugo José Teixeira Velosa",
+        "party": "PSD",
+        "string": "O Sr. Hugo Velosa (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para «ganhar na secretaria»!"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 10,
+      "speaker": {
+        "id": 727,
+        "name": "José De Almeida Cesário",
+        "party": "PSD",
+        "string": "O Sr. José Cesário (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que importa para o PS não é o aumento da participação das nossas comunidades na vida pública. O PS ignora completamente o facto de nas eleições legislativas, com o voto por correspondência, votarem mais do dobro dos eleitores que votam nas eleições presidenciais, em que vigora um modelo idêntico ao que agora é proposto.\nO PS não quer que se vote mais nas nossas comunidades. Este PS, lamentavelmente, tem medo do voto dos emigrantes!! Para o PS, o que apenas está em causa é criar um novo regime de participação nas eleições legislativas, esperando que, assim, a sua pobre sorte mude e passe a ter melhores resultados. Mas que triste ilusão a vossa, Srs. Deputados socialistas! A questão essencial, que os senhores têm esquecido, tem a ver com a vossa prática relativamente aos nossos compatriotas que estão no exterior. A verdade é que eles não acreditam em vós! E como é que haviam de acreditar? Depois de terem acabado com as contas poupança emigrante, com os incentivos ao crédito emigrante, com o porte pago para o envio de jornais e publicações portuguesas para o estrangeiro e com quase duas dezenas de consulados retira-se agora a possibilidade prática de muitos milhares de portugueses exercerem o seu legítimo direito de voto.\nO PS, com esta proposta, mostra-se completamente insensível ao facto de milhões de portugueses viverem a centenas e milhares de quilómetros dos postos consulares, passando-lhes a ser, obviamente, impossível exercer o seu direito de voto.\nE, ainda por cima, usa uma argumentação curiosa, parecendo descobrir agora, ao fim de tantos actos eleitorais, que há riscos de sindicatos de voto ou de «chapeladas» nestas eleições.\nFrancamente, Srs. Deputados! Onde é que andaram durante todos estes anos? O que é que pensaram e disseram, por exemplo, quando ganharam as eleições? E, por outro lado, esquecem-se da quantidade de países em que este modelo eleitoral é utilizado? Será que na Alemanha, na Áustria, em Espanha, na Itália ou na Suíça também há essas práticas fraudulentas e deturpadoras da verdade democrática, utilizando, como utilizam em várias circunstâncias, o voto por correspondência? Mas, atenção!, os senhores não têm qualquer legitimidade moral para falar em ilegalidades, pois, até hoje, foram os únicos a ser censurados publicamente pela Comissão Nacional de Eleições num acto eleitoral desta natureza. Recordam-se do Brasil?...\nPor tudo isto, estamos hoje muito tristes, visto que este órgão de soberania pode estar prestes a dar, claramente, um passo atrás no fomento da participação das nossas comunidades na vida pública portuguesa."
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 11,
+      "speaker": {
+        "id": 727,
+        "name": "José De Almeida Cesário",
+        "party": "PSD",
+        "string": "O Sr. José Cesário (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso, repito, Srs. Deputados socialistas: tenham coragem, não tenham medo do voto dos nossos emigrantes!"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para uma intervenção, o Sr. Deputado Luís Fazenda."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 11,
+      "speaker": {
+        "id": 1320,
+        "name": "Luís Emídio Lopes Mateus Fazenda",
+        "party": "BE",
+        "string": "O Sr. Luís Fazenda (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: A pergunta que eu desejaria ter feito ao Partido Socialista era a de saber se, em especialidade, estava na disposição de acrescentar um mapa minimal das mesas eleitorais, porque, embora estando previsto na generalidade o desdobramento das mesas de voto de acordo com a rede básica consular, ficamos sem ter uma percepção nítida, o que era necessário neste momento para concretizar a seriedade da intenção deste projecto de lei de alteração da lei eleitoral neste particular. Qual a mesa possível para a acessibilidade do eleitor que é emigrante? Na verdade, aquilo que tememos e que tem vindo a ser acentuado por muitos emigrantes e suas associações é que muitos deles vão ficar a centenas ou mais quilómetros da mesa de voto e, portanto, aquilo que é uma lei virtuosa pode ter uma aplicação absolutamente perversa.\nEssa questão não está, neste momento, resolvida por parte dos proponentes, e era útil e necessário que fosse aqui resolvida.\nSr. Presidente, Sr.as e Srs. Deputados: Entendemos que a pessoalidade do voto é essencial, que deve haver verdade no processo eleitoral, mas também que não se pode trocar uma circunstância que vinha, com algumas debilidades e suspeições, funcionando de um modo mais próximo dos emigrantes e com uma maior participação para uma responsabilidade eleitoral que é menor do que na eleição do Presidente da República.\nPodemos, eventualmente, passar para uma circunstância em que o decréscimo de participação é muito significativo.\nPortanto, se acompanhamos as boas intenções da lei, os bons princípios deste projecto, fica-nos a enorme dúvida sobre a sua concretização.\nDamos, assim, Sr. Presidente, Srs. Deputados, Srs. Deputados do Partido Socialista, o benefício da dúvida, porque o Governo foi responsável pelo enfraquecimento notável da rede consular. A chamada «racionalização da rede consular» conseguiu diminuir a sua ligação à comunidade de portugueses no estrangeiro. E damos o benefício da dúvida porque não gostaríamos de votar contra bons princípios, mas estamos muito próximos da certeza do malefício. Como tal, não gostaríamos de deixar essa situação incólume e o Partido Socialista tem aqui e na especialidade uma enorme responsabilidade.\nNós, Sr. Presidente, iremos abster-nos e esperamos que, no processo da especialidade, sejam dadas garantias efectivas e totais de que há uma mesa eleitoral próxima de qualquer comunidade emigrante, para que esse voto pessoal e intransmissível absolutamente certificado seja uma realidade e não uma simples miragem, ou seja, que apesar do lote de virtudes apontadas seja uma espécie de «panteão» para os emigrantes Aplausos do BE."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveu-se para pedir esclarecimentos o Sr. Deputado Carlos Alberto Gonçalves."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 12,
+      "speaker": {
+        "id": 1190,
+        "name": "Carlos Alberto Silva Gonçalves",
+        "party": "PSD",
+        "string": "O Sr. Carlos Alberto Gonçalves (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Luís Fazenda, pensava que jamais, nesta Câmara, ouviria uma intervenção como ouvi hoje, aqui, do Deputado José Lello e sobre uma questão como esta.\nEsta Câmara habituou-nos, muito particularmente depois do 25 de Abril, sempre que estavam em causa a participação cívica ou os direitos eleitorais, ao debate de propostas de incentivo a essa participação e de alargamento de direitos eleitorais. O que está aqui a ser discutido hoje é precisamente o contrário! A proposta do Partido Socialista é apenas uma forma de limitar a participação dos portugueses no estrangeiro e impedir muitos portugueses que estão lá fora de exercerem o seu direito de voto. É disto que estamos a falar!\nTinha gostado de fazer uma pergunta ao Deputado José Lello, que teve responsabilidades nesta área e que, em 1999, quando o PS venceu as eleições, não se lembrou dos «sindicatos de voto«»! O que ç grave ç que há portugueses que residem a 50, a 100, a 500, a 1000, a 2000 km! Assim, a pergunta que gostava de fazer, e que também já foi referida pelo Deputado Luís Fazenda, é a seguinte: como é que estes portugueses vão votar? Acham que é humano obrigar os portugueses a fazerem milhares de quilómetros, quando em Portugal, para as mesmas eleições, as urnas de voto estão a 2, 3, 4, 5 km, no máximo? Isto é inaceitável!!"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 12,
+      "speaker": {
+        "id": 1190,
+        "name": "Carlos Alberto Silva Gonçalves",
+        "party": "PSD",
+        "string": "O Sr. Carlos Alberto Gonçalves (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Partido Socialista está, uma vez mais, contra os emigrantes, convive mal com eles, mas para a democracia portuguesa se considerar no seu todo as comunidades portuguesas têm de participar de igual modo!"
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Luís Fazenda."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 12,
+      "speaker": {
+        "id": 1320,
+        "name": "Luís Emídio Lopes Mateus Fazenda",
+        "party": "BE",
+        "string": "O Sr. Luís Fazenda (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Carlos Gonçalves, nem por infelicidade eu seria demiurgo do Deputado Josç Lello»!\nPortanto, não responderei por ele em qualquer dimensão.\nAcentuei na minha intervenção que corremos o risco de, sob bons princípios, alienarmos ainda mais os emigrantes da sua capacidade eleitoral real.\nPor isso, fiz aqui um desafio ao Partido Socialista: que durante a especialidade apresente um mapa onde pensa que irão ficar todas as mesas de voto e que daí se possa certificar se, sim ou não, há uma proximidade ao eleitor, se o Partido Socialista faz aqui o «bom casamento» entre o bom princípio republicano da pessoalidade do voto e a concretização do mesmo."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Nuno Magalhães."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 12,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Discutimos hoje a alteração à Lei Eleitoral da Assembleia da República proposta pelo Partido Socialista.\nE qual é o motivo para tal? Uma grave disfunção do processo eleitoral para este órgão?! A necessidade de melhorar fundamentos ou princípios legais da escolha pelos portugueses dos seus representantes?! A apresentação de um conjunto de"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 13,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ouvimos de tudo! Desde o Dr. Alberto Martins dizer que havia «sindicatos de voto nas comunidades emigrantes» até ao Deputado Vasco Franco insinuar que há «chapeladas» no voto das comunidades e, hoje mesmo, ao Deputado José Lello, penosamente, a tentar deixar passar o tempo para que não pudesse ser escrutinado pelos Deputados da oposição»"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 13,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 13,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Que lição de democracia, Srs. Deputados»! É caso para perguntar aos Srs. Deputados do Partido Socialista: por onde andaram nos últimos 34 anos? Como elegeram os seus Deputados nestes círculos, ao longo deste tempo, com as «disfunções» que ouvimos da parte do Sr. Deputado José Lello?...\nNós, no CDS, aprendemos muito com a intervenção do Deputado José Lello sobre como se podem eleger Deputados nos círculos da emigração. E aprendemos, de facto, por quem sabe do que está a falar, tendo em atenção até a responsabilidade que anteriormente tinha assumido.\nSe existem melhorias a fazer no sistema eleitoral — do processamento, do transporte, da fiscalização ou da contagem de votos nos círculos da emigração — , então, que se discuta e se faça! O CDS estará disponível para este debate e para proceder a alterações! No entanto, não contem connosco para, ao fazê-lo, lançar um labéu sobre os portugueses, que querem continuar a sê-lo e, não obstante viverem longe, a participar na vida do País através do acto cívico mais nobre, que é o voto.\nSe o voto presencial é o voto regra, a Constituição não deixa de prever excepções em situações justamente excepcionais. E, se essa situação já se verificava anteriormente, muito mais se justifica agora quando o Governo do PS procede a uma reformulação da rede consular que extingue delegações e encerra locais onde se poderiam realizar assembleias de voto.\nNa verdade, o mesmo Partido Socialista, que tanta propaganda faz a tudo «na hora», às novas tecnologias, aos computadores (atç com o meu nome»), ao SIMPLEX, ao e-government, não cuidou, sequer, de ponderar o desenvolvimento do voto electrónico para emigrantes, aproveitando a experiência que o anterior governo lhe deixou, em 2005."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 13,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 13,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não! Pura e simplesmente, afasta a possibilidade do voto por correspondência e, ao invés de promover o desejável alargamento do universo eleitoral, em toda a sua pluralidade, restringe a amplitude dessa participação. Não se trata de dignificar, Srs. Deputados, mas de restringir, e os senhores sabem! E é tanto mais contraditório quanto (e aí bem) propõe o alargamento da possibilidade de voto antecipado aos eleitores recenseados no território nacional, mas deslocados no estrangeiro, como militares, médicos ou estudantes.\nSr. Presidente, Sr.as e Srs. Deputados: O CDS-PP reafirma o que sempre disse: as leis eleitorais devem ser estáveis. As que temos e que regem a eleição dos diferentes representantes do povo são, salvo alterações de pormenor, adequadas e, em mais de três décadas, permitiram todo o tipo de soluções: maioria absoluta de um"
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveu-se para, pedir esclarecimentos, o Sr. Deputado Carlos Páscoa Gonçalves.\nTem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 14,
+      "speaker": {
+        "id": 1968,
+        "name": "Carlos António Páscoa Gonçalves",
+        "party": "PSD",
+        "string": "O Sr. Carlos Páscoa Gonçalves (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Nuno Magalhães, bem-vindo e parabéns pela sua intervenção, porque não há muita gente que consiga falar sobre emigração com esse esclarecimento e posicionamento.\nÉ curioso que o PS venha hoje, aqui, defender o voto presencial exactamente numa semana em que o seu Secretário de Estado comunica que o futuro das comunidades passa pelo consulado virtual."
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 14,
+      "speaker": {
+        "id": 1968,
+        "name": "Carlos António Páscoa Gonçalves",
+        "party": "PSD",
+        "string": "O Sr. Carlos Páscoa Gonçalves (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Gostaria de saber como é que o futuro do consulado virtual vai ser compatível com o voto presencial."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 14,
+      "speaker": {
+        "id": 1968,
+        "name": "Carlos António Páscoa Gonçalves",
+        "party": "PSD",
+        "string": "O Sr. Carlos Páscoa Gonçalves (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Essa é uma novidade que gostaríamos de ver esclarecida aqui, na Assembleia.\nFomos também, durante estas duas semanas, brindados com vários comentários sobre «sindicato de voto». Nos últimos 30 anos em que o voto por correspondência foi utilizado, não tivemos conhecimento de um facto que tenha envolvido irregularidades, a não ser um que ocorreu na última eleição de 2005, na cidade do Rio de Janeiro»"
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 14,
+      "speaker": {
+        "id": 1968,
+        "name": "Carlos António Páscoa Gonçalves",
+        "party": "PSD",
+        "string": "O Sr. Carlos Páscoa Gonçalves (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» e, segundo a Comissão Nacional de Eleições, o partido que foi censurado foi o Partido Socialista!\nE, mais do que isso, é também importante saber que, além do partido ter sido censurado, uma das pessoas que estava envolvida em todo o problema está presente hoje, neste Plenário, falando em termos de emigração.\nPor isso, Sr. Deputado Nuno Magalhães, gostaria que falasse sobre esse assunto."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Nuno Magalhães."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 15,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Carlos Páscoa pelas suas questões e pelas suas palavras.\nDe facto, V. Ex.ª trouxe aqui duas questões que são pertinentes e relativamente às quais nós, penosamente, iremos continuar a perceber o silêncio do Sr. Deputado José Lello, nomeadamente acerca das irregularidades de que falou...\nVejo pelo quadro electrónico que já tem mais dois minutinhos» Se calhar poderemos ouvi-lo a explicar essas irregularidades e onde estão os «sindicatos de voto», no fundo, clarificar o que aqui veio dizer na sua intervenção.\nDe facto, num Governo em que temos, por um lado, o Sr. Ministro das Finanças e o Sr. Ministro dos Negócios Estrangeiros, sobretudo quando visitam as comunidades portuguesas, a falar da importância dessas mesmas comunidades e, por outro, o Partido Socialista, que por acaso apoia o Governo a fechar consulados e a restringir o voto, eu percebo a confusão, que, aliás, é própria deste Governo. É uma «esquizofrenia política» que é já uma marca deste Partido Socialista!"
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 15,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso, evidentemente, o «consulado virtual» é igual ao «Governo virtual» que o Deputado José Lello não conseguiu explicar."
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado António Filipe."
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 15,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, queria dizer, desde já, que o PCP é favorável ao voto presencial dos cidadãos portugueses residentes no estrangeiro. Temos, hoje, já na nossa ordem jurídica duas formas de votação dos residentes no estrangeiro: a presencial, para a Presidência da República, e o voto por correspondência, que se mantém para a Assembleia da República — para o Parlamento Europeu, evidentemente, votam presencialmente.\nA questão que se coloca é a de saber, havendo dois regimes, se não há vantagem em que haja um regime unificado de votação. Do nosso ponto de vista há. Ora, resta saber qual destes dois sistemas é aquele que tem melhores virtualidades do ponto de vista democrático, do ponto de vista da veracidade da expressão do sentido de voto dos nossos concidadãos.\nHá alguns aspectos que do nosso ponto de vista importa salvaguardar nesta matéria, um dos quais é o princípio da participação — não o recusamos. Obviamente, é importante que os cidadãos portugueses residentes no estrangeiro, querendo, possam participar nos actos eleitorais, particularmente naqueles em que faz sentido que participem, que estão consagrados, ou seja, o da Presidência da República e o da Assembleia da República.\nAgora, vamos ver se o actual voto por correspondência garante efectivamente essa participação nos termos em que ela deve ser feita. Do nosso ponto de vista, esse sistema tem, claramente, insuficiências.\nTemos, desde logo, um universo de recenseados que é muito restrito relativamente ao universo de cidadãos portugueses residentes no estrangeiro.\nAssim, importaria, desde logo, que houvesse uma actuação de divulgação por parte do Estado português, pedagógica, se assim se lhe quiser chamar, junto dos emigrantes portugueses, acerca da possibilidade que têm de exercer o seu direito de voto para que pudesse — seria desejável — haver um universo superior de recenseados.\nMas, para além disso, há depois uma disparidade imensa entre o número de recenseados e aqueles que efectivamente exercem o seu direito de voto, mesmo por correspondência. Ora, temos vindo a verificar que, ao longo dos anos, o número de participantes nos actos eleitorais tem vindo a diminuir: enquanto em 1991 votaram 61 128 emigrantes portugueses, nas eleições de Fevereiro de 2005 votaram apenas 36 721, ou seja, pouco mais de metade — importa salientar que o número tem vindo a decrescer sistematicamente de eleição para eleição. Portanto, há algo aqui que não está bem em termos de participação."
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 16,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 16,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, do nosso ponto de vista, há vantagem em adoptar o voto presencial.\nAgora há um outro aspecto que deve ser assegurado, ou seja, o da acessibilidade e aí o Governo do Partido Socialista tem de ser criticado. Não é possível dizer-se que o voto deve ser restrito aos postos consulares e depois encerrar os postos consulares! Isto é uma contradição absoluta! Portanto, além de ser preciso assegurar uma rede consular adequada, é necessário assegurar também outros locais de funcionamento das assembleias de voto, obviamente desde que garantidas as condições de fiscalização adequadas por parte das várias forças políticas concorrentes, mas que permita que, em mais locais, os cidadãos portugueses possam exercer o seu direito de voto.\nAssim, este artigo 42.º-A do projecto de lei do Partido Socialista deveria ser alterado. É porque refere-se que «são constituídas assembleias de voto nos postos e secções consulares, nas delegações externas de ministérios e instituições públicas portuguesas e noutros locais se estritamente necessário». Ora, aqui temos um problema quanto à avaliação do que é «estritamente necessário». Do nosso ponto de vista era estritamente necessário que houvesse um número considerável, a mais, de assembleias de voto que garantisse a acessibilidade aos cidadãos que querem exercer o seu direito de voto, mas para isso é estritamente necessário que esta expressão seja eliminada ou alterada, porque estamos mesmo a ver que a interpretação por parte da Administração Pública relativamente à abertura de assembleias de votos seria a de considerar que, eventualmente, não seria estritamente necessário abrir outras para além dos consulados. Nós discordamos profundamente disso.\nNesse sentido, consideramos que importa alterar esta disposição de forma a estabelecer o contrário. Ou seja, é desejável que haja o maior número possível de assembleias de voto no estrangeiro desde que seja possível garantir a sua adequada fiscalização."
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 16,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 16,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É esta a posição que iremos defender na especialidade, sem prejuízo de considerarmos que o voto presencial deve ser considerado na ordem jurídica portuguesa."
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Lello."
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Finalmente!..."
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 17,
+      "speaker": {
+        "id": 734,
+        "name": "José Manuel Lello Ribeiro De Almeida",
+        "party": "PS",
+        "string": "O Sr. José Lello (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, antes de mais gostaria de me referir à intervenção do Sr. Deputado do Bloco de Esquerda e, em certa medida, também à do Sr. Deputado António Filipe dizendo-lhes que estamos receptivos a clarificar a situação do mapa mínimo para desdobramento de mesas eleitorais.\nNaturalmente, consideramos que é importante que em áreas consulares onde não haja uma instalação consular portuguesa se possa exercer o direito de voto em representações diplomáticas, nas delegações externas do Ministério, em instituições portuguesas, em associações portuguesa, quiçá, mesmo em instalações diplomáticas de países da União Europeia que se disponibilizem para tal desde que esteja assegurada a fiscalização do voto e das operações eleitorais por delegados de mais de uma das candidaturas em presença.\nPortanto, isso é algo que poderemos clarificar porque, de facto, o que importa é «levar à malha fina» mesas de votos com o preciso rigor que é usado aqui no território nacional.\nPortanto, Srs. Deputados Luís Fazenda e António Filipe, estamos receptivos a essa clarificação.\nAliás, queria dizer também ao Sr. Deputado António Filipe que estamos igualmente receptivos a que a inscrição nos cadernos eleitorais possa ser automática em relação a todos aqueles utentes que façam o acto consular num voto e imediatamente seja garantida a sua inserção no caderno eleitoral para alargar mais e mais a sua presença."
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 17,
+      "speaker": {
+        "id": 1257,
+        "name": "Hugo José Teixeira Velosa",
+        "party": "PSD",
+        "string": "O Sr. Hugo Velosa (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Explique «as chapeladas»!"
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 17,
+      "speaker": {
+        "id": 734,
+        "name": "José Manuel Lello Ribeiro De Almeida",
+        "party": "PS",
+        "string": "O Sr. José Lello (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado António Filipe já explicou por três vezes como é que se fazem «chapeladas«»! \nO Sr. Deputado José Cesário disse que fomos «esmagados» nas últimas eleições. Não percebi lá muito bem, porque os senhores venceram um Deputado por 300 votos e venceram outro, para o círculo europeu, por 20 votos. Não sei onde está o esmagamento»!\nNós defendemos o voto presencial porque o voto por correspondência é de duvidosa constitucionalidade, é menos rigoroso. Pergunto: por que razão o voto presencial para o Presidente da República é bom e para a Assembleia da República é mau? Por que razão o voto presencial para o Parlamento Europeu, que foi introduzido pelos senhores, é bom e o voto para as Legislativas é mau? Por que razão para o Conselho das Comunidades é bom e para as Legislativas é mau? Aliás, nessa matéria somos coerentes: introduzimos esse sistema para o Conselho das Comunidades, em 1996, e para o Presidente da República, em 2002. Os senhores atç eram contra esse alargamento, mas 100 Deputados do PSD votaram a favor»\nApresentámos legislação, em 2002, que já continha este meio de votação; os senhores apresentaram a votação para o Presidente da República — e a sua líder escamoteou essa questão — e agora, por coerência, vamos apresentar este sistema que dá uma dignidade diferente à votação dos portugueses no exterior."
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Cesário."
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 17,
+      "speaker": {
+        "id": 727,
+        "name": "José De Almeida Cesário",
+        "party": "PSD",
+        "string": "O Sr. José Cesário (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O PS termina como começou: nervoso, titubeante, sem convicção, fugindo às questões essenciais."
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 18,
+      "speaker": {
+        "id": 727,
+        "name": "José De Almeida Cesário",
+        "party": "PSD",
+        "string": "O Sr. José Cesário (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A verdade, Sr.as e Srs. Deputados, é que o Partido Socialista, pela voz e sob a direcção do Sr. Deputado José Lello limita hoje os direitos dos portugueses da diáspora em matéria de participação eleitoral."
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 18,
+      "speaker": {
+        "id": 727,
+        "name": "José De Almeida Cesário",
+        "party": "PSD",
+        "string": "O Sr. José Cesário (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É este o Partido Socialista que se quer afirmar em Portugal como um partido de Governo, desprezando as pessoas, os seus direitos e ignorando aqueles que se encontram mais fragilizados e mais distantes da sua Pátria."
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Está concluído o debate do projecto de lei n.º 562/X (3.ª).\nPassamos à apreciação do projecto de resolução n.º 354/X (3.ª) — Recomenda ao Governo que introduza no 3.º ciclo do ensino básico das escolas nacionais uma formação, de frequência obrigatória, em suporte básico de vida (CDS-PP).\nPara apresentar o diploma, tem a palavra a Sr.ª Deputada Teresa Caeiro."
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 18,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Basta um acidente rodoviário, um acidente doméstico, um acidente vascular cerebral, basta uma fracção de segundo para que essa extraordinária dádiva que é a vida seja abalada.\nOra, quando o incidente do destino pode ser corrigido pela acção humana não podemos desperdiçar a oportunidade."
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 18,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O suporte básico de vida, a que, vulgarmente, se chama primeiros socorros, consiste numa série de procedimentos que podem preservar vidas até à chegada de socorro profissional. Quanto mais pessoas tiverem estes conhecimentos, menos oportunidades de salvar vidas serão desperdiçadas."
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 18,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Relatório Anual de Segurança Interna de 2007 refere que, nas nossas estradas, houve 165 929 acidentes rodoviários, dos quais 889 tiveram vítimas mortais.\nTemos de pensar quantas vidas poderiam ter sido salvas ou, pelo menos, quantas vidas poderiam ter tido menos sequelas.\nJá o registo nacional de paragens cardio-respiratórias indica que 95% das mesmas ocorre sem suporte básico de vida.\nQuantas vidas poderiam ter sido salvas? Quantas paragens cardio-respiratórias poderiam ter tido um desfecho diferente? São estas as questões que temos de colocar-nos.\n\nO Sr. Pedro Mota Soares (CDS-PP). — Muito bem!"
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 19,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ora, as estatísticas internacionais revelam que, numa situação destas, cada minuto perdido corresponde, em média, a menos 7% a 10% de probabilidades de sobrevivência. Ao fim de 12 minutos, Sr.as e Srs. Deputados, o que é um razoável tempo de espera pela emergência médica, a taxa de sobrevivência será de apenas 2,5%. O socorro prestado nos primeiros 5 minutos após o incidente é de tal modo importante que lhe chamam «golden hour», pois é nestes primeiros 5 minutos que melhor se pode garantir uma redução ou mesmo a eliminação de sequelas que a vítima possa sofrer. Daí a importância em alargar a toda a população, tanto quanto possível, o conhecimento destas práticas."
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 19,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 19,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Assim, o CDS-PP vem propor à Assembleia da República que recomende ao Governo que introduza nas escolas nacionais, o mais brevemente possível, uma formação, de frequência obrigatória, em suporte básico de vida. Esta formação é dirigida aos jovens do 3.º ciclo do ensino básico, ou seja, o 9.º ano de escolaridade obrigatória.\n\nO Sr. Pedro Mota Soares (CDS-PP). — Muito bem!"
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 19,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esta formação será administrada através de parcerias institucionais a estabelecer com diferentes entidades na área da emergência médica, nomeadamente, INEM, Liga dos Bombeiros Portugueses, Cruz Vermelha Portuguesa, Associação Nacional de Bombeiros Profissionais ou Conselho Português de Ressuscitação.\nRefira-se que já muitos países integram estes cursos na formação extra-curricular de frequência obrigatória. Cito alguns exemplos: os EUA, desde 1963, o Canadá, desde 1965, a Irlanda e a Bélgica, desde 1971, o Reino Unido, desde 1973, Itália, desde os anos 90.\nRefira-se ainda que, por exemplo, nos EUA, no Canadá ou na Alemanha, o exame de condução só pode ser feito quando precedido de cursos de formação em suporte básico de vida.\nO Decreto-Lei n.º 6/2001, de 18 de Janeiro, estabelece os princípios orientadores da organização e gestão curricular do ensino básico, determinando, na alínea c) do artigo 5.º, a formação cívica como espaço privilegiado para o desenvolvimento da educação para a cidadania. É neste enquadramento que o CDS entende que se deve inserir esta formação obrigatória em suporte básico de vida.\n\nO Sr. Pedro Mota Soares (CDS-PP). — Muito bem!"
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 19,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Obviamente, alguns aspectos operacionais ainda terão de ser de equacionados — o número de horas de formação, o método de anualização dos formandos, os termos dos protocolos a celebrar e quem poderá ser formador. Mas nada disto deve deter-nos de procurar sempre oportunidades para salvar vidas."
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado André Almeida."
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 19,
+      "speaker": {
+        "id": 2450,
+        "name": "Abílio André Brandão De Almeida Teixeira",
+        "party": "PSD",
+        "string": "O Sr. André Almeida (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: A concepção de escola que actualmente vigora propõe uma formação integral do indivíduo, aliando o saber ao «saber fazer», valorizando os vários contextos em que o aluno se insere e valorizando a comunidade em que a escola se desenvolve.\nNão se trata, assim, de um mero espaço físico mas também das várias redes de relações sociais e de comunicação entre o aluno e a comunidade escolar e social em que se insere, seja em contexto curricular seja em contexto extra-curricular. Nesse sentido, as exigências que hoje são feitas às nossas escolas são cada vez maiores, bem como aos professores e também aos auxiliares.\nHoje, cada vez mais devemos consagrar autonomia às escolas para que empreendam o seu projecto educativo com liberdade. É por isso que, mais do que obrigarmos todas as escolas a leccionarem mais horas"
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra a Sr.ª Deputada Ana Drago, para uma intervenção."
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 20,
+      "speaker": {
+        "id": 1161,
+        "name": "Ana Isabel Drago Lobato",
+        "party": "BE",
+        "string": "A Sr.ª Ana Drago (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, o CDS costuma ter duas grandes propostas para a área da educação.\nA primeira é o «cheque-ensino» que, como todos sabemos, significa retirar parte do Orçamento do Estado, o dinheiro que todos contribuem, para pagar as escolas de alguns, para dar um «dinheirinho» aos colégios particulares e às escolas privadas.\nA segunda ideia é a de introduzir nos métodos pedagógicos da escola pública uma mistura de «novo autoritarismo» e «selectividade social».\nDe vez em quando, o CDS tem uma ou outra proposta para a área da educação que não se enquadra bem em qualquer das duas anteriores ideias mas que é uma forma de fazer política educativa um bocadinho «a retalho». De facto, o projecto de resolução que hoje é apresentado pelo CDS-PP é um caso destes.\nNão é que o Bloco de Esquerda tenha algo contra introduzir na escolaridade obrigatória, seja no 3.º ciclo seja mesmo na área curricular de formação cívica, uma formação específica em suporte básico de vida. Pode até ser uma ideia discutível, mas o que não nos parece aceitável é que possamos fazer estrutura curricular na escola pública «a retalho» — meter 10 horas de formação em socorrismo, mais 10 horas de formação ambiental» Creio que as palavras do Prof. António Nóvoa, que foram citadas pelo Sr. Deputado André Almeida, dizem das dificuldades que a escola tem hoje: um excesso de missões, todas elas desejáveis, mas olhamos para a estrutura curricular e, subitamente, percebemos que é excessiva e desarticulada.\nPortanto, o Bloco de Esquerda nada tem contra esta proposta mas tem, sim, contra o método que propõe, que é o de fazer estrutura curricular «a retalho», meter dentro da escola diferentes coisas que estão absolutamente desarticuladas."
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Bernardo."
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 21,
+      "speaker": {
+        "id": 2479,
+        "name": "João Cândido Da Rocha Bernardo",
+        "party": "PS",
+        "string": "O Sr. João Bernardo (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O projecto de resolução do CDS que torna obrigatória a frequência de formação em suporte básico de vida no 9.º ano de escolaridade obrigatória assenta numa matéria muito importante e de grande valor social e educativo.\nA formação e aprendizagem básica na área da emergência médica não é, em nosso entendimento, uma mera despesa mas, essencialmente, um investimento socialmente justificável.\nPreparar os jovens para esta questão e enquadrar os professores para esta temática, dando-lhes conhecimentos e preparando-os para situações inesperadas de acidente é fundamental para eliminar problemas muitas vezes irreparáveis. Nesta perspectiva, certamente todos estamos de acordo. No entanto, a solução, apontada pelo CDS, de acrescentar, de forma desgarrada, mais uma matéria ao currículo escolar é um erro.\nAliás, a perspectiva de que sempre que existe um problema na sociedade a solução é a escola passar a incorporar essa temática, muitas vezes substituindo as famílias e outras entidades públicas, tem levado a que, hoje, os currículos do ensino básico sejam excessivamente extensos e, muitas vezes, desarticulados."
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 21,
+      "speaker": {
+        "id": 2479,
+        "name": "João Cândido Da Rocha Bernardo",
+        "party": "PS",
+        "string": "O Sr. João Bernardo (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que se exige, e é premente no desenho curricular, é a articulação entre os diversos ciclos do ensino básico e centrar no essencial todas as aprendizagens.\nAlém disso, acrescentar mais horas à já excessiva carga horária dos nossos alunos, que, no 9.º ano de escolaridade, atinge 18 períodos de 90 minutos cada, é algo incompreensível e vai contra todas as recomendações actuais.\nAcresce que a matéria que aqui se recomenda já hoje pode ser enquadrada no projecto educativo das escolas. A educação para a saúde é, aí, uma área obrigatória. Além disso, está também previsto que as escolas trabalhem a educação rodoviária e o módulo «Cidadania e Segurança» que tem como subtemas, entre outros, «Comportamentos Específicos de Segurança» e «Viver com os Outros», sendo obrigatório o seu desenvolvimento em cinco blocos de 90 minutos.\nParece-nos correcto e imprescindível o estabelecimento de parcerias entre os agrupamentos escolares e instituições como o INEM, a Cruz Vermelha, os bombeiros, entre outros, mas a decisão sobre as parcerias a estabelecer e o respectivo formato deve ficar para a iniciativa local, no quadro da autonomia das escolas portuguesas que se quer cada vez mais aprofundado, e não uma formatação ditada através de uma lei ou de uma recomendação da Assembleia da República."
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 21,
+      "speaker": {
+        "id": 2479,
+        "name": "João Cândido Da Rocha Bernardo",
+        "party": "PS",
+        "string": "O Sr. João Bernardo (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em conclusão, consideramos o objectivo do CDS meritório ainda que mal formulado, com confusão de conceitos e com vários erros estatísticos.\nA solução apontada não melhora as aprendizagens nem corrige eventuais erros curriculares mas, pelo contrário, acentua alguns dos problemas que já hoje existem e daí a necessidade do que o Governo da República está a fazer, isto é, uma alteração profunda de todo o currículo do ensino básico e não pontuar essa alteração com medidas desconexas.\nPor isso, esperemos que, em nome de uma melhor qualidade da escola pública portuguesa, a Assembleia rejeite a solução apontada."
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Bernardino Soares, para uma intervenção."
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 22,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Este projecto de resolução que o CDS apresenta penso que tem um objectivo positivo e que os princípios que pretende defender são úteis para a sociedade e devem, portanto, ser acolhidos como tal.\nÉ evidente que a existência de competências em suporte básico de vida é essencial em situações mais críticas e podem fazer a diferença entre a vida e a morte e entre uma vida mais saudável ou menos saudável.\nJulgo até que é justo dizer que a formação neste tipo de competências seria útil e desejável não só no espaço escolar em relação aos estudantes que podem aceder a este tipo de formação, mas em muitas outras situações, conjunturas e circunstâncias, onde um elevado número de pessoas presentes em determinados espaços, a possibilidade acrescida da ocorrência deste tipo de situações, bem aconselham que haja uma disseminação muito grande deste tipo de formação para permitir que, em quase todas as circunstâncias, haja alguém por perto capaz de prestar estes cuidados.\nPortanto, dentro deste princípio, acolhemos com simpatia o objectivo da proposta do CDS-PP, embora tenhamos de reconhecer que a forma muito impositiva de inclusão de mais uma matéria no currículo como o pretende fazer merece alguma ponderação. Sempre temos de acautelar bem que não façamos uma inscrição casuística nos currículos de novas matérias sem cuidar de saber como é que isso, depois, se reflecte no restante currículo. Penso que outras soluções são possíveis dentro da mesma filosofia e, portanto, esta forma de inserção não nos leva a estar contra o projecto. Pensamos que isso não é o fundamental, o fundamental é o objectivo principal. Mas, de facto, a sua inserção na escola devia ter uma outra ponderação, incluindo que as escolas passem a ter uma verba própria disponível para poder contratar este tipo de formação, porque de outra maneira também não será possível.\nCom estas reservas, acolhemos o princípio, mas não toda a extensão da forma que é utilizada neste projecto de resolução."
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Como não há mais oradores inscritos, passamos ao ponto seguinte, que é a discussão do projecto de lei 557/X (3.ª) — Proíbe a discriminação dos portadores de VIH/SIDA (BE).\nPara apresentar o projecto, tem a palavra o Sr. Deputado João Semedo."
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 22,
+      "speaker": {
+        "id": 2219,
+        "name": "João Pedro Furtado Da Cunha Semedo",
+        "party": "BE",
+        "string": "O Sr. João Semedo (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, há cerca de pouco mais de dois anos, esta Assembleia da República aprovou por unanimidade, portanto, com o voto de todos os grupos parlamentares, um projecto de lei, agora lei, que visa combater a discriminação de portadores de deficiência e também de cidadãos com um risco acrescentado de saúde.\nPassado este tempo, todos conhecemos, porque lemos nas páginas dos jornais, vemos na televisão e ouvimos na rádio, diversos episódios de discriminação efectiva relativamente a doentes portadores de VIH/SIDA. Significa isto que continua a discriminação no trabalho para os doentes desta patologia, nas relações laborais, por via dos despedimentos ou da não admissão de funcionários. Continua também nas escolas, nalguns serviços de saúde que rejeitam estes doentes e também, como sabemos, no acesso ao crédito bancário com vista à aquisição de habitação própria e nas apólices de seguros.\nIsto é o que conhecemos e é apenas a ponta do iceberg, porque o problema é maior para os doentes de SIDA. E é bem maior porque, como todos sabemos, em matéria de discriminação, há sempre uma dupla perversidade. Não é só a atitude que marca a diferença de comportamento e de serviço prestado, o afastamento de que estes doentes são vítimas em virtude da discriminação, mas a própria discriminação condiciona o protesto, leva a sua vítima à resignação e muitas vezes os próprios não invocam aquilo que a lei lhes atribui como um direito.\nFoi por esta razão que decidimos apresentar este projecto de lei, que em apenas duas coisas se distingue da lei que tinha sido aprovada por esta Assembleia da República por unanimidade. Primeiro, porque situa o problema na área dos doentes portadores da infecção VIH/SIDA e, segundo, porque dá um passo em frente na efectividade da garantia do combate à discriminação, e estas duas diferenças são importantes e significativas.\nSegundo, porque estes doentes são, actualmente, as principais vítimas da discriminação, pois, ao contrário do que todos desejávamos, a epidemia não diminuiu, hoje há mais doentes com sida, e porque, e felizmente,"
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado André Almeida."
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 23,
+      "speaker": {
+        "id": 2450,
+        "name": "Abílio André Brandão De Almeida Teixeira",
+        "party": "PSD",
+        "string": "O Sr. André Almeida (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.as e Srs. Deputados, esta iniciativa versa sobre uma temática da maior importância, já que todos nos batemos sempre por uma sociedade sem discriminação de pessoas em razão da sua origem, condição social, sexo, deficiência ou estado de saúde.\nO PSD tem, de resto, uma longa história, no governo como na oposição, de luta pelo respeito do princípio da igualdade de tratamento de pessoas, princípio que é um dos fundamentos do respeito pelos direitos humanos e bem assim da própria existência das sociedades democráticas verdadeiramente dignas desse nome.\nFoi, de resto, com o PSD no governo que o Parlamento aprovou a Lei n.º 38/2004, que definiu as bases gerais do regime jurídico de prevenção, habilitação, reabilitação e participação da pessoa com deficiência.\nFoi ainda quando o PSD estava no governo que, em 1990, foi criada a Comissão Nacional de Luta contra a Sida.\nTambém na oposição apresentámos e participámos em múltiplas iniciativas, visando combater a discriminação de pessoas com deficiência ou que apresentassem riscos agravados de saúde. Fizemo-lo porque somos humanistas. Consideramos a pessoa como o centro, o eixo, a pedra angular de qualquer comunidade política ou organização social.\nSr.as e Srs. Deputados: Dito isto, quanto à história e aos princípios, importa agora abordar o projecto de lei em apreço. O que se propõe parece, mas não é novo. De facto, entre outros exemplos, alguns já referidos pelo Sr. Deputado João Semedo, o Código do Trabalho — aliás, aprovado também nos tempos do Partido Social-Democrata — já prevê normas que impõem a igualdade de tratamento e a não discriminação em razão de deficiência ou de doença crónica nas relações laborais, como sucede no caso da SIDA.\nTambém a legislação da saúde tem concretizado o princípio da igualdade, consagrado no artigo 13.º da Constituição, proibindo a discriminação dos portadores de SIDA no acesso aos cuidados e demais serviços de saúde.\nDe resto, como o Sr. Deputado João Semedo referiu, mais recentemente, a Lei n.º 46/2006, aprovada por unanimidade nesta Assembleia da República, proíbe também a discriminação de pessoas com risco agravado de saúde, como sucede indiscutivelmente no caso dos portadores de VIH/SIDA.\nEste diploma sanciona, designadamente, a adopção de práticas ou medidas por parte de quaisquer empresas ou entidades que condicionem ou limitem o exercício de direitos por parte dos destinatários da previsão normativa da iniciativa hoje em discussão.\nDe facto, esta iniciativa alega pretender concretizar objectivos de que todos comungamos, mas limita-se a criar uma ilusão jurídico-normativa que exclui, além do mais, uma multiplicidade de patologias que certamente também deveriam ser dignas de protecção.\nEm suma, o projecto do Bloco de Esquerda invoca bons princípios, mas consideramos que não alcança o seu desiderato, ficando por normas que nuns casos são desnecessárias, noutros redutoras e noutros ainda mesmo discriminatórias."
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Heloísa Apolónia."
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 24,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, quando a Assembleia da República trabalhou o processo legislativo relativo à proibição de discriminações no exercício de direitos, por motivos baseados na deficiência, Os Verdes participaram nele com o projecto de lei n.º 161/X (1.ª), que tinha uma diferença em relação aos projectos dos outros grupos parlamentares: é que, para além das questões da deficiência, acrescentava a não discriminação em razão da existência de risco agravado de saúde.\nEsta componente, que era única no projecto de lei de Os Verdes, ficou integrada na lei. Entre outras coisas, dela resultou também esta maior abrangência, o que consideramos ser um contributo importante por parte do Grupo Parlamentar do Partido Ecologista «Os Verdes».\nHouve um pormenor neste nosso projecto de lei que não foi contemplado, que foi o da criação de uma comissão que pudesse proceder a um conjunto de estudos, de relatórios, de averiguação de situações, de pareceres que pudessem daí resultar e que considerávamos importantes para um conhecimento aprofundado e regular relativamente à aplicação da própria lei. Mas esta comissão não integrou a lei final.\nOlhando agora para o projecto do Bloco de Esquerda, que agora está em discussão em se que proíbe a discriminação dos portadores de VIH/SIDA, percebemos que ele resulta também da componente que estava integrada no projecto de lei n.º 161/X (1.ª), de Os Verdes, e que propõe a criação da comissão que Os Verdes defenderam praticamente com a mesma composição e com as mesmas competências, sendo que também consideramos que o projecto de lei do Bloco de Esquerda não é totalmente inovador relativamente ao que já está contemplado na lei — e, repito, a comissão não ficou integrada e já estava prevista no projecto de lei Os Verdes.\nNesse sentido, consideramos que a inovação da criação da comissão, que Os Verdes também já tinham proposto, pode constituir um contributo importante para garantir esta não discriminação, para aferir continuamente deste processo de não discriminação. Assim, vamos apoiar este projecto de lei porque consideramos que a criação desta comissão é importante para complementar o nosso ordenamento jurídico no que respeita à não discriminação em resultado de riscos agravados de saúde."
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Bernardino Soares."
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 24,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Em primeiro lugar, quero dizer que nada nos opõe, antes pelo contrário, à intenção do projecto de lei do Bloco de Esquerda, de conferir uma maior protecção às pessoas portadoras do VIH em situações de discriminação e em todas as situações referidas no projecto de lei.\nNo entanto, julgo que a justificação para a apresentação de um novo projecto de lei sobre esta matéria não pode ser o de que a lei que está em vigor não teve suficientes efeitos práticos, o que é evidentemente verdade e altamente condenável e bem demonstrativo de como em situações de discriminação continua a haver um enorme laxismo na aplicação das leis que estão aprovadas, para além de tudo o que é injusto e ainda não está legalmente protegido.\nDito isto, penso que a forma como o Bloco de Esquerda nos apresenta este projecto podia até traduzir-se, em certa medida, e tirando uma questão que referirei mais à frente, num certo empobrecimento do que já hoje está legislado. É que o projecto de lei apresentado pelo Bloco de Esquerda retoma, com uma arrumação diferente, a maioria das disposições que estão presentes na Lei n.º 46/2006, cujo texto resultou de vários projectos de várias bancadas e foi aprovado por unanimidade nesta Assembleia; outras disposições há que não são repostas neste projecto de lei do Bloco de Esquerda, o qual, aliás, não faz referência à lei que está em vigor.\nEsta Lei, explicita e deliberadamente, quis incluir no seu âmbito não só os problemas relativos à discriminação das pessoas com deficiência mas também as discriminações relativas às pessoas com risco agravado de saúde ou com doenças crónicas ou graves no acesso a uma série de questões."
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Teresa Caeiro."
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 25,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Hoje de manhã, num canal noticioso, dizia-se que, no Parlamento, ia ser discutido o fim da discriminação dos portadores do VIH. Tomara que assim fosse! Afinal, o que estamos aqui a discutir é uma sucessão de redundâncias — louváveis, mas redundâncias."
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 25,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 25,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Todos nós sabemos que o preconceito e a discriminação de que são vítimas as pessoas portadoras do VIH/SIDA é uma realidade e que o preconceito e a discriminação corroem, de forma persistente e continuada, os princípios fundamentais da igualdade e da dignidade em que assenta a nossa sociedade."
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 25,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mais, os portadores do VIH/SIDA estão a ser vítimas do estigma, persistente também ele, que os impede muitas vezes de exercer os seus direitos e de levar uma vida condigna. E os dados estatísticos da discriminação, revelados no Programa Nacional de Prevenção e Controlo da Infecção VIH/SIDA, são bem esclarecedores. Portanto, todos os esforços serão poucos para evitar que o estigma e a discriminação prossigam.\nMas, quando lemos com alguma atenção (nem é preciso muita) o projecto de lei do Bloco de Esquerda, reconhecemos facilmente que ele assenta e se apropria de legislação já existente. E não é qualquer legislação! O Bloco de Esquerda toma como sua a própria Constituição da República Portuguesa. De facto, o artigo 1.º deste projecto de lei é a transposição exacta do artigo 13.º da Constituição.\nPor outro lado, vem referir a proibição e a punição da discriminação em razão desta doença, isto é, da infecção com o vírus da SIDA. Ora já temos uma lei da Assembleia da República, datada de 2006, que proíbe e pune exactamente este tipo de discriminação.\nEntão, o que é que os senhores pretendem? Nós sabemos! É afagar aquele nicho que os senhores entendem que é vosso, e vosso em exclusivo: as pessoas discriminadas, nomeadamente as pessoas portadoras do vírus da SIDA."
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 25,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 26,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas esse não é um nicho vosso, Srs. Deputados do Bloco de Esquerda! Os senhores têm, de uma vez por todas, de encarar com alguma seriedade os debates e as iniciativas apresentadas no Parlamento,»\n» sobretudo quando reproduzem legislação que remonta a 1976, ou seja, a Constituição da Repõblica Portuguesa."
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 26,
+      "speaker": {
+        "id": 1320,
+        "name": "Luís Emídio Lopes Mateus Fazenda",
+        "party": "BE",
+        "string": "O Sr. Luís Fazenda (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Olha quem fala!"
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 26,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É evidente que os vossos objectivos são louváveis. Mas também é evidente que a preocupação com a igualdade e a não discriminação não é uma coutada vossa, Srs. Deputados. Estas são preocupações — e temos de encará-lo, de uma forma ou de outra — de todo este Parlamento.\nE o que dizer de redundàncias?» Há, no entanto, aqui um aspecto que não ç totalmente redundante, ç atç inovador, que é o acesso aos seguros de vida com vista ao crédito à habitação."
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 26,
+      "speaker": {
+        "id": 1320,
+        "name": "Luís Emídio Lopes Mateus Fazenda",
+        "party": "BE",
+        "string": "O Sr. Luís Fazenda (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Veja lá!"
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 26,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas, então, pergunto: por que é que não apresentaram uma iniciativa idêntica para todos os portadores — e são muitos — de doenças crónicas? Porquê só para os portadores do vírus da SIDA? Qual é a discriminação que os senhores entendem que é válida para discriminar os portadores do vírus da SIDA em relação a todos os outros doentes crónicos?"
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 26,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Porquê estes e não os outros? É a isto que gostaria que respondessem."
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 26,
+      "speaker": {
+        "id": 1320,
+        "name": "Luís Emídio Lopes Mateus Fazenda",
+        "party": "BE",
+        "string": "O Sr. Luís Fazenda (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Já está na lei!"
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 26,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É que se disserem que estão disponíveis para alargar este regime a todos e não o aplicar só a este nicho que os senhores acham que é vosso, então, as coisas mudam de figura."
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Fátima Pimenta."
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 26,
+      "speaker": {
+        "id": 2468,
+        "name": "Maria De Fátima Oliveira Pimenta",
+        "party": "PS",
+        "string": "A Sr.ª Fátima Pimenta (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: De facto, em democracia, o combate a todas as formas de discriminação tem de ser sempre um imperativo e uma prioridade. É que este combate é de todos e com todos.\nSaudamos o Bloco de Esquerda por esta iniciativa, porque permite mais uma vez a discussão desta questão nesta Câmara, mas parece que estamos todos de acordo que este projecto de lei, apesar de bem intencionado — e sei que o autor do mesmo, o Sr. Deputado João Semedo, na sua profissão, tem dedicado muito do seu tempo a estas questões — , é redundante, não reforçando a protecção aos portadores desta doença.\nVou mais longe, Sr. Deputado: esta iniciativa pode mesmo ser passível de gerar mais discriminação, ao guetizar os portadores do vírus da SIDA.\nDepois, há um outro aspecto que, a meu ver, é importante e tem gerado muitas discussões, que é a questão da maternidade ou da paternidade. Porém, a este propósito, devo dizer que a Lei n.º 46/2006 consagrou também, por iniciativa do PS, a não discriminação em razão da existência de risco agravado de"
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queira concluir, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 27,
+      "speaker": {
+        "id": 2468,
+        "name": "Maria De Fátima Oliveira Pimenta",
+        "party": "PS",
+        "string": "A Sr.ª Fátima Pimenta (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou concluir, Sr. Presidente.\nImporta é transmitir a ideia de que esta doença não é um problema de grupos de risco mas de comportamentos de risco.\nAssim sendo, Sr. Deputado João Semedo, estamos convictos da bondade da vossa iniciativa, mas também esta comissão é redundante."
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputado João Semedo."
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 27,
+      "speaker": {
+        "id": 2219,
+        "name": "João Pedro Furtado Da Cunha Semedo",
+        "party": "BE",
+        "string": "O Sr. João Semedo (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, vou limitar-me a fazer três breves comentários.\nÉ tudo redundante! O projecto de lei, as propostas, a Comissão — tudo é redundante. Então, como é que se explica que a discriminação continue? Ou não continua?!"
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 27,
+      "speaker": {
+        "id": 2468,
+        "name": "Maria De Fátima Oliveira Pimenta",
+        "party": "PS",
+        "string": "A Sr.ª Fátima Pimenta (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é problema de lei mas de todos nós!"
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 27,
+      "speaker": {
+        "id": 2219,
+        "name": "João Pedro Furtado Da Cunha Semedo",
+        "party": "BE",
+        "string": "O Sr. João Semedo (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É esse problema que tem de ser resolvido.\nEm segundo lugar, os senhores consideram que os doentes vítimas de SIDA se reconhecem defendidos na actual legislação? Alguém acredita que um qualquer doente com SIDA se sinta defendido por uma coisa chamada «secretariado para a reabilitação da pessoa deficiente»? Por amor de Deus! Todos nós sabemos que não! O problema aqui em discussão é entre aqueles que ficam tranquilos, calmos, descansados com a sua consciência porque anunciam a boa intenção de combater a discriminação e aqueles que pretendem que a não discriminação seja efectiva, em Portugal."
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 28,
+      "speaker": {
+        "id": 2468,
+        "name": "Maria De Fátima Oliveira Pimenta",
+        "party": "PS",
+        "string": "A Sr.ª Fátima Pimenta (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tem dúvidas?!"
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 28,
+      "speaker": {
+        "id": 2219,
+        "name": "João Pedro Furtado Da Cunha Semedo",
+        "party": "BE",
+        "string": "O Sr. João Semedo (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» se querem combater esses propagandeados «nichos de influência«, ç muito simples: votem no projecto de lei. Ficará a ser, mais uma vez, um projecto aprovado por unanimidade."
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Não havendo mais inscritos, está concluída a discussão, na generalidade, do projecto de lei n.º 557/X (3.ª).\nPassamos, agora, ao debate, na generalidade, do projecto de lei n.º 495/X (3.ª) — Altera a Lei n.º 108/91, de 17 de Agosto, (Conselho Económico e Social), com as alterações feitas pelas Leis n.os 80/98, de 24 de Novembro, 128/99, de 20 de Agosto, 12/2003, de 20 de Maio, e 37/2004, de 13 de Agosto (Os Verdes).\nPara apresentar o diploma, tem a palavra a Sr.ª Deputada Heloísa Apolónia."
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 28,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A Constituição da República Portuguesa determina que o Conselho Económico e Social (CES) é o órgão de consulta e concertação no domínio das políticas económica e social, remetendo, depois, para a lei a sua composição, bem como a organização e funcionamento.\nO CES já sofreu várias alterações na sua composição ao longo dos anos, o que resultou nas diversas alterações à Lei n.º 108/91. O certo é que, por excesso de representação de alguns sectores, ou por défice ou omissão de representação de outros, o CES pode ficar, por via da sua composição, fragilizado no seu objectivo de tradução dos diferentes sectores da sociedade, o que tem reflexos inevitáveis até na análise de documentos a que se procede no seu seio.\nDo que Os Verdes tratam neste projecto de lei é de uma omissão gravosa, na composição do CES, que certamente enfraquece a sua representatividade social e, consequentemente, a abordagem conhecedora de um sector em concreto, que é o da imigração e de tudo o que com ela se possa relacionar.\nNão se justifica que as associações de imigrantes não estejam hoje representadas no CES, tendo em conta aquelas que são as competências deste órgão, no âmbito da política económica e social e tendo em conta o papel e o contributo dos imigrantes no nosso País para aspectos relevantes dessas políticas. Com efeito, os cerca de 500 000 imigrantes, em Portugal, bem têm contribuído para o aumento do rendimento disponível nacional e estima-se que actualmente já produzam 7% do PIB nacional. Para além disso, ao nível do processo de integração, ao nível da sua vivência concreta e diária no nosso País, os imigrantes são conhecedores de aspectos sociais relevantes que enriquecem a visão global dos documentos a produzir pelo CES.\nO CES produz pareceres sobre documentos estruturantes, onde a visão dos imigrantes, como dos demais representantes de sectores sociais, é profundamente relevante.\nMas o CES produz também pareceres mais específicos, tal como aconteceu em relação ao parecer sobre o Plano Nacional de Inclusão 2006-2008 ou no parecer sobre Imigração, Desenvolvimento e Coesão Social em Portugal, denotando-se aqui directamente a importância da integração desta franja social na composição do CES.\nConsideram, por isso, Os Verdes que, a par de um caminho de reconhecimento de uma verdadeira cidadania aos imigrantes — de processos de regularização, de avanços progressivos na lei da nacionalidade, na necessária discussão de participação de todos em processos eleitorais — , os representantes dos imigrantes não podem mais ficar arredados da composição do CES.\nAssim, Os Verdes, através deste projecto de lei, propõem que as associações de imigrantes fiquem representadas no Conselho Económico e Social."
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputada Maria Ofélia Moleiro."
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 29,
+      "speaker": {
+        "id": 1351,
+        "name": "Maria Ofélia Fernandes Dos Santos Moleiro",
+        "party": "PSD",
+        "string": "A Sr.ª Maria Ofélia Moleiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, Sr.as Deputadas: O projecto de lei que agora debatemos propõe uma 5.ª alteração à lei que decretou a organização, funcionamento e composição do Conselho Económico e Social.\nA composição deste Conselho tem vindo a ser alargada para responder à sua natureza, que foi estabelecida no artigo 95.º da Constituição.\nO CES é um órgão de consulta e concertação no domínio das políticas económica e social, participando na elaboração dos planos de desenvolvimento económico e social.\nNeste sentido, a sua composição deverá, a nosso ver, abarcar todos os sectores e representar todos os interesses da sociedade portuguesa de forma a reflecti-la como um espelho, conhecendo-a e expressando a sua opinião.\nPretende-se com este diploma uma nova ampliação da composição do Conselho Económico e Social com a representação dos imigrantes através das suas associações.\nExistem estudos que apontam que a imigração líquida implica 18% do crescimento português, entre 1996 e 2005.\nHoje, os imigrantes estão presentes em toda a actividade económica: na construção civil; no trabalho doméstico; nos serviços de limpeza; no comércio; na restauração; nos serviços em geral.\nEm 2006, o peso dos imigrantes na população portuguesa era já de 4,1%, sem considerar os ilegais. Com estes, eles ascenderão a 500 000.\nAlém disso, têm um impacto muito forte e benéfico na demografia portuguesa. Entre 1996 e 2006, a imigração líquida foi responsável por 95% do acréscimo da população portuguesa.\nPor outro lado, a quase totalidade dos estrangeiros em Portugal tem entre 15 e 64 anos. Dão, por isso, origem a muitos nascimentos e poucos óbitos, daqui resultando um saldo natural positivo. As estatísticas demográficas evidenciam um aumento contínuo do número de nascimentos na população imigrante, em contraste com a reduzida taxa de natalidade portuguesa.\nNa economia, o seu peso é considerável. A taxa de actividade dos estrangeiros é altíssima, tanto nos homens como nas mulheres.\nEm muitos casos, os imigrantes têm qualificação acima das funções que desempenham, dando contributos muito importantes e constituindo-se como uma mais-valia para as empresas.\nSe, em termos demográficos, a imigração pode ser um factor essencial e decisivo para contrariar o envelhecimento da população, em termos económicos o seu contributo é muito importante para o crescimento e Produto português. Representam 4,8% do volume total das contribuições para a segurança social, que com eles despende apenas 3,2% das despesas, apresentando um saldo positivo de 420 milhões de euros. Neste domínio, são, claramente, muito mais contributivos para o sistema do que recebedores.\nÉ, pois, um elementar acto de justiça incluir os imigrantes no Conselho Económico e Social.\nO PSD considera, porém, que outros merecem há muito a sua participação. Refiro-me aos portugueses emigrantes, que durante décadas equilibraram a balança de pagamentos com as suas transferências.\nOs emigrantes foram, e são, uma alavanca do desenvolvimento económico português, como empreendedores, criando milhares de pequenas e médias empresas em todo o País, sobretudo no norte e no centro interior. São também quase sempre os únicos dinamizadores económicos em muitos concelhos deprimidos no nosso País.\nPor isso, o PSD proporá a sua participação no Conselho Económico e Social, juntando a uma outra iniciativa de alteração pendente em sede de Comissão.\nÉ também da mais elementar justiça que os emigrantes portugueses participem no Conselho Económico e Social."
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Maximiano Martins."
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 29,
+      "speaker": {
+        "id": 1354,
+        "name": "Maximiano Alberto Rodrigues Martins",
+        "party": "PS",
+        "string": "O Sr. Maximiano Martins (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Atribuímos grande importância aos mecanismos de consulta e de concertação social."
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Paulo Carvalho."
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 30,
+      "speaker": {
+        "id": 2488,
+        "name": "José Paulo Ferreira Areia De Carvalho",
+        "party": "CDS-PP",
+        "string": "O Sr. José Paulo Carvalho (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O CDS manifesta, desde já, a sua posição favorável a este projecto de lei apresentado por Os Verdes para de alguma forma se institucionalizar a representatividade dos imigrantes no âmbito dos trabalhos do Conselho Económico e Social.\nNão deixa de ser irónico, contudo, que o Partido Socialista venha manifestar uma posição favorável à representatividade dos imigrantes no Conselho Económico e Social e, portanto, a conceder direitos de participação cívica aos imigrantes, no mesmíssimo dia em que propõe uma limitação manifesta do exercício dos direitos de participação cívica aos portugueses que são emigrantes."
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 30,
+      "speaker": {
+        "id": 2488,
+        "name": "José Paulo Ferreira Areia De Carvalho",
+        "party": "CDS-PP",
+        "string": "O Sr. José Paulo Carvalho (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É, de facto, notável! Diria que é, realmente, o cúmulo da contradição! Não é possível, do ponto de vista político, ser mais contraditório na mesma sessão de trabalhos e na mesma manhã.\nDe qualquer modo, assim como contrariamos o primeiro erro, saudamos o facto de, nesta matéria, estarem a ir por bom caminho.\nÉ óbvio que o grande desafio que temos face à grande quantidade de imigrantes que vêm trabalhar para Portugal é precisamente o desafio da integração, o desafio do acolhimento. Sempre foi uma preocupação do CDS dizer que é preciso haver rigor na entrada para haver humanismo e humanidade no acolhimento e na forma como aqui vivem.\nNeste sentido, parece-nos que este projecto de lei de Os Verdes vem precisamente facilitar e promover uma saudável integração e participação dos imigrantes na vida nacional e no exercício dos seus direitos cívicos. De facto, este é o desafio: respeitar as suas características culturais e, simultaneamente, conseguir que eles participem activamente na nossa vida do dia-a-dia.\nContudo, há um reparo que gostaria de fazer. Na «Exposição de motivos» deste projecto de lei, há uma visão excessivamente economicista dos imigrantes, ou seja, os imigrantes são aqui apresentados essencialmente como factor de produção. É verdade que a Sr.ª Deputada, na intervenção que aqui fez, foi um pouco mais longe, mas na «Exposição de motivos» do diploma há apenas uma consideração dos imigrantes como força de trabalho. Ora, nessa vertente eles até já estariam representados pelos sindicatos.\nPortanto, parece-nos que é positiva a ideia de Os Verdes, estamos de acordo com ela, mas parece-nos que se deve aproveitar esta ocasião para reforçar outros critérios e outras formas de participação de outras entidades e outros grupos que também devem ser representados no Conselho Económico e Social."
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Oliveira."
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 31,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O PCP saúda o Partido Ecologista «Os Verdes» por esta iniciativa apresentada e obviamente que se associa às propostas aqui apresentadas.\nAs intervenções anteriores já explanaram muito daquilo que são as considerações que neste debate se devem ter em conta. Ainda assim, importa reforçar algumas delas.\nDe facto, a importância da possibilidade de participação dos representantes das associações de imigrantes no Conselho Económico e Social verifica-se a diversos níveis. Um deles tem que ver com a perspectiva que hoje assumem os imigrantes na contribuição para o desenvolvimento e para o crescimento económico do nosso País como um importante espaço da nossa força de trabalho, devendo, por isso, ser considerados como parceiros que devem cooperar activamente no plano institucional, na definição das políticas económicas, nomeadamente através da participação no Conselho Económico e Social e das competências que aí estão reservadas no que diz respeito à política económica.\nMas há um outro nível que é fundamental. Que a participação das associações de imigrantes possa ser considerada, quer ao nível institucional, quer ao nível não institucional. Esta dimensão tem a ver com todas as outras políticas que, directa ou indirectamente, dizem respeito às comunidades imigrantes, no que se refere às políticas de imigração e no que se refere às medidas de inclusão social das comunidades imigrantes.\nPortanto, é fundamental que seja considerada esta dimensão social, que acaba por ter expressão através do Conselho Económico e Social, através da possibilidade de participação das associações de imigrantes.\nE se é verdade que, ao nível não institucional, no que diz respeito, por exemplo, à necessidade de ter em conta as opiniões e a participação das associações de imigrantes na definição de políticas concretas na ligação directa entre os órgãos políticos institucionais do nosso Estado de direito democrático com estas associações — nomeadamente, na participação da definição das políticas de imigração, área em que é fundamental que sejam ouvidas e tidas em consideração as opiniões das associações de imigrantes — , é verdade também que, no plano institucional, é necessário dar alguns passos.\nOra, a proposta do Partido Ecologista «Os Verdes» avança, de facto, nesse sentido. Avança na possibilidade da inclusão de um representante das associações de imigrantes no Conselho Económico e Social.\nTendo em conta as vastas competências deste Conselho Económico e Social, tendo em conta o amplo leque de políticas em que, hoje, este Conselho é chamado a dar o seu parecer, é, de facto, muito importante que haja a possibilidade de as associações de imigrantes terem os seus representantes para poderem também neste âmbito fazer valer as suas perspectivas, a sua avaliação da realidade e também as suas propostas concretas."
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 31,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Uma vez mais, saudamos a iniciativa do Partido Ecologista «Os Verdes», que subscrevemos."
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Heloísa Apolónia."
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 31,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Em relação ao Sr. Deputado do CDS, quero apenas deixar uma primeira nota curtíssima, para dizer que, se considerou que a minha intervenção não era demasiado economicista — e, por acaso, estamos de acordo — , ela restringiu-se, exclusivamente, ao que estava no preâmbulo do nosso projecto de lei. Portanto, Sr. Deputado, se calhar, a diferença está no tom com que lemos o preàmbulo, não ç verdade?» É só uma pequena nota."
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as e Srs. Deputados, concluímos a apreciação, na generalidade, do projecto de lei n.º 495/X (3.ª).\nAntes de procedermos à votação do Relatório e Conta de Gerência da Assembleia da República de 2007, vou dar a palavra ao Presidente do Conselho de Administração da Assembleia da República, Sr. Deputado José Lello, para o expor."
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 32,
+      "speaker": {
+        "id": 734,
+        "name": "José Manuel Lello Ribeiro De Almeida",
+        "party": "PS",
+        "string": "O Sr. José Lello (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: De facto, é da competência do Conselho de Administração elaborar o Relatório e a Conta da Assembleia da República que, após Parecer do Tribunal de Contas, é presente à aprovação desta Assembleia.\nE porque este Parecer sobre a Conta de Gerência é, por demais, elucidativo, permito-me salientar que o Tribunal de Contas considera que a Conta da Assembleia da República reflecte, de forma apropriada, em todos os aspectos materialmente relevantes, as receitas e as despesas da Assembleia da República e salienta, também, que a Assembleia da República adoptou um novo «Classificador Económico de Receita e da Despesa» que possibilita um maior ajustamento à óptica integrada de contabilidade patrimonial; que a consolidação da aplicação do Plano Oficial de Contabilidade Pública da Assembleia da República veio também traduzir-se num aperfeiçoamento substancial das bases de dados de inventário e gestão de stocks; que todas as demonstrações financeiras reflectem as receitas, os recebimentos e proveitos e as despesas, pagamentos e custos.\nPor outro lado, o Tribunal de Contas verificou também que, relativamente ao exame às operações de receita e despesa, foram cumpridas todas as formalidades legais, não tendo sido detectadas quaisquer irregularidades. Já a confirmação da comunicação entre os módulos informáticos da contabilidade e de recursos humanos reflecte e sustenta a integridade da informação contabilística.\nTambém o Tribunal de Contas sublinha o arranque dos trabalhos que visam a implementação do Sistema Integrado de Gestão da Assembleia da República, que vai permitir melhorar a racionalização e a automatização das tarefas associadas aos domínios orçamental, patrimonial, económico-financeiro, administrativo e de recursos humanos.\nFinalmente, sublinha-se a satisfação do Tribunal de Contas pelo total empenhamento e permanente disponibilidade da Assembleia da República em incrementar um contínuo aperfeiçoamento, racionalização e melhoria dos sistemas e instrumentos de gestão e controlo.\nE porque um tal Parecer é motivo de grande apreço para quem, na Assembleia da República, tem responsabilidades de gestão, gostaria de sublinhá-lo e de salientar o grau de excelência que aqui foi encontrado na gestão e o empenho e a qualidade dos recursos humanos existentes nesta Casa, que permitiram também atingir este grau de excelência."
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as e Srs. Deputados, vamos, agora, passar ao período de votações, para o que importa proceder, desde já, à verificação de quórum.\nPeço aos Srs. Deputados Secretários para apurarem o quórum de deliberação.\nPausa.\nOs Srs. Deputados Secretários da Mesa comunicam-me que há 171 Srs. Deputados presentes, havendo, por isso, quórum de deliberação.\nAssim, em primeiro lugar, passamos à apreciação do voto n.º 171/X (4.ª) — De pesar pelo falecimento de Alexander Soljenitsin (CDS-PP).\nPara apresentar o voto, vou dar a palavra ao Sr. Deputado Telmo Correia, que dispõe de 2 minutos."
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 33,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Entendeu o CDS que, no reinício dos nossos trabalhos parlamentares, devíamos prestar homenagem a esta grande figura, desaparecida no mês de Agosto.\nAo homenagearmos Soljenitsin, homenageamos, em primeiro lugar e obviamente, o génio literário, o autor de Um dia na vida de Ivan Denisovich e o autor também do imortal Arquipélago do Gulag."
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 33,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 33,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O génio literário é indiscutível e tem tradução, que mais não seja, na atribuição do prémio Nobel — ainda que, por vezes, nos fique a dúvida sobre se o prémio Nobel não é atribuído àqueles que não são os melhores da sua geração ou do seu país e que indiscutivelmente alguns dos melhores nunca o receberam."
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 33,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 33,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas o certo é que se trata de um prémio Nobel.\nMas mais do que o prémio Nobel, homenageia-se a coragem.\nTrata-se de um homem de uma ética irrepreensível e de uma coragem notável — a coragem de quem passou oito anos em campos de concentração, de quem terá sofrido as maiores sevícias ilustradas, designadamente no pavilhão dos cancerosos.\nTrata-se de um homem que sofreu a pior das repressões e que teve a coragem, baseado em depoimentos — 227, no Arquipélago de Gulag — , de a denunciar, de a expor e de a dar a conhecer, antes que o mundo tivesse conhecimento desse mesmo horror e do terror que foram os campos de concentração soviéticos."
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 33,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Este homem teve a coragem de denunciar o terror a que ele chamou uma fábrica de desumanização.\nMas é também um símbolo de liberdade — liberdade, de resto, que, devemos registar, ele sempre manteve ao longo da vida. Manteve essa liberdade quando não hesitou, Srs. Deputados, em denunciar, por exemplo, aquilo que ele via de errado no Ocidente. Ele nunca foi um homem do Ocidente e não hesitou em denunciar os males que ele via no Ocidente."
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 33,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 33,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Já vamos ver como!"
+    },
+    {
+      "utterance_id": 166,
+      "order": 166,
+      "page_start": 34,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como não hesitou em denunciar o poder dos oligarcas da nova Rússia, onde ele pôde, finalmente, regressar e onde foi justamente homenageado, na hora da sua morte."
+    },
+    {
+      "utterance_id": 167,
+      "order": 167,
+      "page_start": 34,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 168,
+      "order": 168,
+      "page_start": 34,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Soljenitsin é — e isso é, talvez, uma lição importante para o mundo de hoje — um símbolo da alma russa, um símbolo da grande literatura russa e dos grandes escritores russos e, ao mesmo tempo, um homem eticamente irrepreensível e um homem da liberdade."
+    },
+    {
+      "utterance_id": 169,
+      "order": 169,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queira concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 170,
+      "order": 170,
+      "page_start": 34,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso, a Assembleia, hoje, lhe presta — e devemos prestar, em nossa opinião, de forma unânime — esta homenagem merecida."
+    },
+    {
+      "utterance_id": 171,
+      "order": 171,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Paulo Rangel."
+    },
+    {
+      "utterance_id": 172,
+      "order": 172,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Paulo Rangel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, o Grupo Parlamentar do PSD associa-se, naturalmente, ao voto apresentado pelo CDS para assinalar a morte de um dos grandes nomes da literatura do século XX — Soljenitsin.\nMas quero fazê-lo não numa perspectiva puramente biográfica, porque a essa temos todos acesso a ela, mas numa perspectiva, diria, ideológica, marcando dois pontos que considero essenciais.\nO primeiro foi a denúncia do totalitarismo soviético, e isto foi um acquis fundamental para as democracias e para a queda do Muro de Berlim."
+    },
+    {
+      "utterance_id": 173,
+      "order": 173,
+      "page_start": 34,
+      "speaker": {
+        "id": 1257,
+        "name": "Hugo José Teixeira Velosa",
+        "party": "PSD",
+        "string": "O Sr. Hugo Velosa (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 174,
+      "order": 174,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Paulo Rangel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Neste sentido, ele foi um precursor da denúncia da perversão que foi o socialismo real soviético."
+    },
+    {
+      "utterance_id": 175,
+      "order": 175,
+      "page_start": 34,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 176,
+      "order": 176,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Paulo Rangel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Quero também assinalar, na hora em que vivemos, nesta precisa de 2008, o pensamento que ele desenvolveu depois do fim da ditadura comunista na União Soviética, justamente no sentido de colocar a Rússia num plano que não é exactamente o do Ocidente e de fazer até alguma crítica ao Ocidente.\nConsidero que esta posição nos interpela para percebermos que não há Europa sem Rússia. Esta é uma questão fundamental na geoestratégia actual e que, julgo, merece reflexão por parte de toda a civilização ocidental. Toda a cultura europeia, no seu apogeu — da música às artes performativas, à literatura — , tem sempre, como grandes nomes, nomes da cultura russa. A Rússia faz, portanto, parte da cultura europeia.\nJulgo que este protesto final deste grande laureado com um Nobel, esta sua visão final chamava a atenção para essa ideia que, no fundo, estava já de alguma maneira num projecto que era o projecto de, por exemplo, Carol Wojtyla, de que a Europa é uma Europa do Atlântico até aos Urais.\nPortanto, com a denúncia de todos os totalitarismos, em particular do totalitarismo soviético e da perversão comunista, e com o apelo a uma compreensão mais alargada do que é a Europa, julgo que podemos celebrar a obra de Soljenitsin."
+    },
+    {
+      "utterance_id": 177,
+      "order": 177,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Leonor Coutinho."
+    },
+    {
+      "utterance_id": 178,
+      "order": 178,
+      "page_start": 35,
+      "speaker": {
+        "id": 1314,
+        "name": "Leonor Coutinho Pereira Dos Santos",
+        "party": "PS",
+        "string": "A Sr.ª Leonor Coutinho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Alexander Soljenitsin é um dos mais notáveis seres humanos do século XX.\nVerdadeiro russo, nascido em Moscovo, esteve sempre ligado umbilicalmente ao seu país e à alma russa.\nViveu na pele a tragédia dos seus compatriotas, mas nunca quis deixar de testemunhar a realidade do seu país. Foi expulso, mas nunca fugiu.\nSoljenitsin é também um cidadão do mundo, que sempre exprimiu brilhantemente as suas denúncias, como aqui já foi referido.\nMas Soljenitsin é essencialmente um escritor maior. Não pôde, sequer, ir receber o prémio Nobel que lhe foi atribuído, mas sempre se exprimiu livremente e constitui uma referência de força moral e sensibilidade.\nO PS pretende, hoje, homenagear a sua memória como russo, como europeu, como cidadão do mundo e como escritor."
+    },
+    {
+      "utterance_id": 179,
+      "order": 179,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Bernardino Soares."
+    },
+    {
+      "utterance_id": 180,
+      "order": 180,
+      "page_start": 35,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Nós encaramos com naturalidade a apresentação deste voto pelo CDS.\nConsideramos, contudo, que não é possível a Assembleia da República aprovar tal voto."
+    },
+    {
+      "utterance_id": 181,
+      "order": 181,
+      "page_start": 35,
+      "speaker": {
+        "id": 1257,
+        "name": "Hugo José Teixeira Velosa",
+        "party": "PSD",
+        "string": "O Sr. Hugo Velosa (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é possível porquê?"
+    },
+    {
+      "utterance_id": 182,
+      "order": 182,
+      "page_start": 35,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O CDS, que não perdeu ainda a sua «costela» do saudosismo fascista, não quer votar o pesar de Soljenitsin, nem está concentrado na sua obra literária, que só interessa ao CDS na medida em que servir os seus propósitos anticomunistas."
+    },
+    {
+      "utterance_id": 183,
+      "order": 183,
+      "page_start": 35,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Sr. Jerónimo de Sousa (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É um facto!"
+    },
+    {
+      "utterance_id": 184,
+      "order": 184,
+      "page_start": 35,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Soljenitsin foi adversário da União Soviética — e isso basta para alguns, como ouvimos nos discursos aqui — , mas Soljenitsin não foi só isso. Soljenitsin foi o apoiante de Pinochet contra o governo legítimo de Salvador Allende, que os socialistas deviam recordar aqui hoje.\nSoljenitsin foi o apologista do regime franquista; foi o defensor da restrição dos direitos humanos; falou do excesso dos direitos individuais.\nNas tais críticas ao Ocidente, que aqui foram referidas há pouco, pode incluir-se uma famosa Conferência em Harvard, em 1978, onde Soljenitsin dizia, e cito: «Chegou a hora, no Ocidente, de defender menos os direitos humanos e mais as humanas obrigações». Dizia, ainda, defendendo um poder autoritário face ao Parlamento e à imprensa: «A mediocridade triunfa, sob as desculpas das restrições impostas pela democracia». É este homem que está a ser vangloriado e louvado no voto do CDS e nas posteriores intervenções! Foi Soljenitsin quem defendeu, em 1976, uma nova intervenção dos Estados Unidos da América no Vietname, dizendo «desta vez para vencer».\nE foi o mesmo Soljenitsin quem defendeu, em 1974, a intervenção dos Estados Unidos da América em Portugal, para abafar e contrariar a Revolução Democrática de Abril."
+    },
+    {
+      "utterance_id": 185,
+      "order": 185,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 186,
+      "order": 186,
+      "page_start": 35,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Este é o homem que o CDS e os restantes querem louvar nesta Assembleia! Um democrata, Sr. Presidente e Srs. Deputados, não pode aceitar que a Assembleia da República, legitimada pela Revolução dos Cravos, regida pela Constituição de Abril, aprovada em 1976, possa louvar alguém que quis esmagar a nossa democracia e a nossa liberdade, que quis confiscar a nossa soberania e apelou á intervenção estrangeira no nosso País,»"
+    },
+    {
+      "utterance_id": 187,
+      "order": 187,
+      "page_start": 36,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É uma vergonha!"
+    },
+    {
+      "utterance_id": 188,
+      "order": 188,
+      "page_start": 36,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» coisa que os comunistas, se bem se lembram, nunca fizeram, mesmo nos tempos mais duros do fascismo, e sempre defenderam que é o nosso povo que tem de resolver os seus próprios problemas.\nQue razões existem, então, para que alguns queiram votar e apoiar este voto?"
+    },
+    {
+      "utterance_id": 189,
+      "order": 189,
+      "page_start": 36,
+      "speaker": {
+        "id": 1257,
+        "name": "Hugo José Teixeira Velosa",
+        "party": "PSD",
+        "string": "O Sr. Hugo Velosa (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Alguns, não! A maioria!"
+    },
+    {
+      "utterance_id": 190,
+      "order": 190,
+      "page_start": 36,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Apenas as razões do anticomunismo! Tudo o que serve para o anticomunismo é admissível para alguns Srs. Deputados, mesmo que seja fascista, mesmo que seja antidemocrático, mesmo que seja contra a nossa democracia e a nossa soberania."
+    },
+    {
+      "utterance_id": 191,
+      "order": 191,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para defender a sua honra pessoal, tem a palavra o Sr. Deputado Telmo Correia."
+    },
+    {
+      "utterance_id": 192,
+      "order": 192,
+      "page_start": 36,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, serei muito breve, pois quero apenas dizer que nada desta lamentável intervenção do Sr. Deputado Bernardino Soares me surpreende."
+    },
+    {
+      "utterance_id": 193,
+      "order": 193,
+      "page_start": 36,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Lamentável!"
+    },
+    {
+      "utterance_id": 194,
+      "order": 194,
+      "page_start": 36,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pensei, de resto, que chegaria ao ponto de nos explicar as virtudes da democracia de Kim Il-Sung.\nAdmirei-me de não o ter ouvido, algures na sua intervenção, falar de George Bush e também pensei que iria lá chegar, como de costume.\nPortanto, tudo isso está dentro da normalidade de quem representa aqui um partido que, em 1968, estava, entusiasmado, ao lado da ocupação soviçtica de Praga,»"
+    },
+    {
+      "utterance_id": 195,
+      "order": 195,
+      "page_start": 36,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Defenda o Franco e o Pinochet!"
+    },
+    {
+      "utterance_id": 196,
+      "order": 196,
+      "page_start": 36,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» que nunca reconheceu o terror comunista, a perseguição, os campos de concentração e a miséria humana que foi o comunismo soviético. Anticomunista?! Contra isso, sou, sim, senhor! Sou contra esse comunismo que vitimou milhões e milhões de pessoas!"
+    },
+    {
+      "utterance_id": 197,
+      "order": 197,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 198,
+      "order": 198,
+      "page_start": 36,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas tudo isso está na normalidade, Sr. Deputado. Há uma única coisa que me leva a defender a honra e não tem sequer a ver com isso, porque nós já vos conhecemos: neste partido, nascemos com a liberdade,»"
+    },
+    {
+      "utterance_id": 199,
+      "order": 199,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 200,
+      "order": 200,
+      "page_start": 36,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» ás vezes, debaixo de tiro, contra aqueles que queriam, em Portugal, esse tipo de ditadura comunista."
+    },
+    {
+      "utterance_id": 201,
+      "order": 201,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 202,
+      "order": 202,
+      "page_start": 37,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, fascista, aqui, não há nenhum, nem admitimos, em nenhuma circunstância, que os Srs. Deputados nos chamem fascistas."
+    },
+    {
+      "utterance_id": 203,
+      "order": 203,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para dar explicações, tem a palavra o Sr. Deputado Bernardino Soares."
+    },
+    {
+      "utterance_id": 204,
+      "order": 204,
+      "page_start": 37,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Telmo Correia, já percebemos que o Sr. Deputado, nos dias que correm, tem nestes votos o momento alto da sua intervenção parlamentar. Mas também todos percebemos da sua dificuldade em relação a este tema. É que o Sr. Deputado não falou do tema do voto, falou de outros temas, porque o tema do voto não lhe convinha."
+    },
+    {
+      "utterance_id": 205,
+      "order": 205,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 206,
+      "order": 206,
+      "page_start": 37,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não lhe convém explicar por que é que pretende que a Assembleia da República louve um homem que quis que a nossa Revolução Democrática fosse abafada com uma intervenção militar estrangeira, não lhe convém explicar por que é que pretende que a Assembleia da República apoie um homem que defende restrições aos direitos humanos e à liberdade de imprensa, não lhe convém explicar como é que tanto fala de democracia e pretende que a Assembleia da República, democrática, eleita pelo povo, louve alguém que quis reprimir o direito do povo soberano à sua liberdade e a construir o seu próprio futuro. Bem compreendemos o incómodo, Sr. Deputado Telmo Correia! Mas, Sr. Deputado, de cada vez que quiser defender o anticomunismo, tem todo o direito de ter simpatias anticomunistas — nem esperávamos de si outra coisa! — , o que não tem é o direito de querer obrigar a Assembleia da República a contradizer os termos de base da sua legitimidade: a Revolução de Abril, a Constituição de 1976 e a soberania nacional!"
+    },
+    {
+      "utterance_id": 207,
+      "order": 207,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, concluídas as intervenções, vamos votar o voto n.º 171/X (4.ª) — De pesar pelo falecimento de Alexander Soljenitsin (CDS-PP).\nSubmetido à votação, foi aprovado, com votos a favor do PS, do PSD e do CDS-PP e votos contra do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita.\nÉ o seguinte:\nAlexander Soljenitsin faleceu no passado dia 3 de Agosto, em Moscovo, aos 89 anos de idade.\nNascido a 11 de Dezembro de 1918 em Kisiovodsk, no sul da Rússia, estudou Matemática, Física, História e Literatura, antes de servir o exército russo na Segunda Guerra Mundial. Acusado de conspirar contra Estaline, seria condenado a cumprir uma pena de oito anos no Cazaquistão. Era o início de um calvário nos campos de concentração soviéticos que o marcariam para sempre. Seria a partir dessa dramática experiência que iniciaria a sua obra literária, primeiro com Um dia na Vida de Ivan Denisovitch (1962), e depois com A Casa de Matríona (1963). Durante esta década as traduções dos seus livros na Europa Ocidental começam a abrir consciências para as arbitrariedades do regime soviético, em particular para o horror dos gulags.\nPublicaria, ainda, O Primeiro Círculo (1968) e O Pavilhão dos Cancerosos, este último retratando a sua experiência contra um cancro nos tempos do gulag.\nSoljenitsin foi um dos primeiros e um dos maiores denunciadores do regime que vingava para lá da «cortina de ferro», não apenas porque viu o que ele era capaz, mas sobretudo porque o viveu. A Primavera de Praga (1968) e a expulsão de Soljenitsin da União dos Escritores tornaram os seus trabalhos ainda mais procurados, tanto internamente como no Ocidente."
+    },
+    {
+      "utterance_id": 208,
+      "order": 208,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, aprovado este voto,»"
+    },
+    {
+      "utterance_id": 209,
+      "order": 209,
+      "page_start": 38,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vergonhoso!"
+    },
+    {
+      "utterance_id": 210,
+      "order": 210,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "» passamos á apreciação e posterior votação do voto n.ª 170/X (3.ª) — De congratulação pela detenção de Radovan Karadzic (PS).\nPara apresentar o referido voto, tem a palavra a Sr.ª Deputada Leonor Coutinho."
+    },
+    {
+      "utterance_id": 211,
+      "order": 211,
+      "page_start": 38,
+      "speaker": {
+        "id": 1314,
+        "name": "Leonor Coutinho Pereira Dos Santos",
+        "party": "PS",
+        "string": "A Sr.ª Leonor Coutinho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A violência que se abateu sobre os povos dos Balcãs depois da queda do Muro de Berlim foi uma tragédia imensa que deixou marcas terríveis nos povos que partilharam este território de fronteira da Europa durante séculos.\nA guerra da Bósnia e o rompimento do equilíbrio frágil que aí assegurava a convivência puseram também em evidência a fragilidade da União Europeia no que respeita à sua política externa.\nAs recentes eleições na Sérvia e a detenção, pelas autoridades sérvias, de Radovan Karadzic vêm abrir uma nova página de normalização das relações entre os povos dos Balcãs e a União Europeia. A sua detenção simboliza o fim de um período de incumprimento do mandato de captura do Tribunal Internacional de Haia e permite desbloquear um processo negocial com a União Europeia que viabiliza o acordo de estabilização e associação.\nA adesão à União Europeia constitui o maior cimento que une hoje os povos dos Balcãs. A dinâmica do processo de adesão é vital não só para o desenvolvimento desta zona como para a credibilidade da União Europeia e para a consolidação do nosso projecto de paz europeu.\nAssim, o PS propõe que a Assembleia da República exprima aqui a sua congratulação com a detenção de Radovan Karadzic e expresse a sua confiança na capacidade das autoridades sérvias para continuarem a sua política com vista, designadamente, ao acordo de estabilização e adesão."
+    },
+    {
+      "utterance_id": 212,
+      "order": 212,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Luís Fazenda."
+    },
+    {
+      "utterance_id": 213,
+      "order": 213,
+      "page_start": 38,
+      "speaker": {
+        "id": 1320,
+        "name": "Luís Emídio Lopes Mateus Fazenda",
+        "party": "BE",
+        "string": "O Sr. Luís Fazenda (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as Deputadas e Srs. Deputados: Acompanhamos este voto de congratulação pela detenção de Radovan Karadzic na exacta ideia de que entendemos que todos os fautores de guerra, todos aqueles que acalentam e desenvolvem projectos de genocídio, crimes contra a humanidade, são presentes à justiça, são presentes ao direito internacional. Há uma justiça de cidadania globalizada que deve imperar nos tempos de hoje.\nPortanto, não temos qualquer dificuldade em acompanhar este voto, embora tivéssemos preferido que ele estivesse dissociado do processo negocial de acordos de estabilização com a União Europeia. O facto revelase por si próprio e não por outras utilidades, do ponto de vista da política internacional."
+    },
+    {
+      "utterance_id": 214,
+      "order": 214,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 215,
+      "order": 215,
+      "page_start": 39,
+      "speaker": {
+        "id": 1320,
+        "name": "Luís Emídio Lopes Mateus Fazenda",
+        "party": "BE",
+        "string": "O Sr. Luís Fazenda (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isto não hipoteca apenas a consciência das potências, é um dedo apontado e acusatório, porque, em cada um desses outros, vemos também um Karadzic e era importante, Sr.as e Srs. Deputados, que apontássemos o dedo aos outros, aos que ainda não foram presentes a Haia nem a lado algum."
+    },
+    {
+      "utterance_id": 216,
+      "order": 216,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para uma intervenção, tem a palavra o Sr. Deputado Telmo Correia."
+    },
+    {
+      "utterance_id": 217,
+      "order": 217,
+      "page_start": 39,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Uso, novamente, da palavra a propósito deste voto, explicando até, inclusivamente, ao Sr. Deputado Bernardino Soares, que sou o coordenador»"
+    },
+    {
+      "utterance_id": 218,
+      "order": 218,
+      "page_start": 39,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Outra vez?! Quer mais?! Se quer mais, leva mais!"
+    },
+    {
+      "utterance_id": 219,
+      "order": 219,
+      "page_start": 39,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É só para saber, Sr. Deputado! Sou o coordenador do CDS para a área de negócios estrangeiros, aqui, neste Parlamento, e é por isso que falo destas matérias, o que faço, de resto, como V. Ex.ª compreenderá, com humildade operária e espírito de serviço.\nO CDS, obviamente, acompanha este voto do Partido Socialista, pois consideramos importante que uma figura sinistra como a de Radovan Karadzic seja presente à justiça internacional."
+    },
+    {
+      "utterance_id": 220,
+      "order": 220,
+      "page_start": 39,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 221,
+      "order": 221,
+      "page_start": 39,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Trata-se, de facto, de um personagem sinistro, com algo de rasputiniano, para pior, uma espécie de parapsicólogo naturalista e psicopata genocida. Por isso, consideramos positivo que ele seja julgado.\nTalvez acrescentasse apenas a este voto do Partido Socialista um parágrafo, lembrando que o genocídio, designadamente no Kosovo — depois da Bósnia, no Kosovo — , foi travado, na altura, por uma intervenção da NATO que muitos criticaram e, relativamente à qual, alguns, que não o Partido Socialista, se colocaram ao lado de Milosevic. Foi esta intervenção da NATO que permitiu o fim deste regime, que permitiu o julgamento de Milosevic e, agora, de Karadzic e que travou o genocídio de uma população que não era ocidental mas muçulmana, e que se viu, desse modo, protegida."
+    },
+    {
+      "utterance_id": 222,
+      "order": 222,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 223,
+      "order": 223,
+      "page_start": 39,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Termino, concordando com o voto do Partido Socialista, no sentido de que esta presença perante a justiça internacional é um passo importante para que a Sérvia estabeleça uma saudável relação com a União Europeia. A União Europeia deve pensar nisso, é desejável que a Sérvia se"
+    },
+    {
+      "utterance_id": 224,
+      "order": 224,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Ainda para uma intervenção, tem a palavra o Sr. Deputado Bernardino Soares."
+    },
+    {
+      "utterance_id": 225,
+      "order": 225,
+      "page_start": 40,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, antes de mais, quero dizer ao Sr. Deputado Telmo Correia que escusa de fazer graças, porque este assunto é muito sério."
+    },
+    {
+      "utterance_id": 226,
+      "order": 226,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ah!"
+    },
+    {
+      "utterance_id": 227,
+      "order": 227,
+      "page_start": 40,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que a Assembleia da República fez hoje, aprovando um voto, proposto pelo CDS, de louvor a uma pessoa que defendeu a invasão do nosso País, é uma coisa muito séria e não está para graças, Sr. Deputado. Não está para graças!"
+    },
+    {
+      "utterance_id": 228,
+      "order": 228,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Outra vez?!"
+    },
+    {
+      "utterance_id": 229,
+      "order": 229,
+      "page_start": 40,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quanto ao voto que estamos agora, aqui, a discutir, Karadzic é, de facto, um nacionalista de direita, anticomunista, conhecido colaborador dos regimes nazis e que não nos merece, evidentemente, qualquer simpatia política e ideológica.\nDefendemos também que todos os responsáveis por crimes de guerra, sejam eles quem forem, devem ser julgados, incluindo Radovan Karadzic.\nConsideramos, contudo, e todos conhecem esta nossa doutrina, desde a criação do TPI e deste TPI especial para a ex-Jugoslávia, que o TPI é um instrumento para impor a justiça, na óptica, neste caso, dos principais responsáveis e dos vencedores da guerra da ex-Jugoslávia. Não é, por isso, uma justiça imparcial e esta tem de ser encontrada nos próprios países.\nKaradzic terá, aliás, feito um acordo — veja-se a hipocrisia deste processo! — com Richard Holbrooke para garantir a sua protecção, desde que se afastasse da vida política, depois do fim da guerra da ex-Jugoslávia. A sua detenção foi uma moeda de troca no processo de adesão da Sérvia à União Europeia. A grande hipocrisia, novamente, a conduzir toda esta questão! É evidente para todos que o TPI — e o TPI especial para a ex-Jugoslávia — não julga com critérios iguais.\nAinda recentemente, absolveram ou atribuíram pequenas condenações a outros também responsáveis por graves crimes em toda aquela situação ao longo de vários anos: como são responsáveis kosovares e, em parte, hoje até fazem parte do governo do país, entretanto unilateralmente declarado independente, estão a ser absolvidos porque não são esses que o TPI quer perseguir.\nA justiça tem de ser para todos! Estes tribunais não têm aplicado a justiça igual para todos e nós contestamos, por isso, a sua legitimidade.\nPara terminar, Sr. Presidente, é preciso recordar a responsabilidade que houve na situação da exJugoslávia, é preciso lembrar os Acordos de Rambouillet, que numa primeira versão eram aceites pelo Estado jugoslavo, mas, como não o foram pela parte dos albaneses kosovares, foram alterados, depois não foram aceites pela Jugoslávia. A resposta foi, então, o bombardeamento, contra a opinião do Conselho de Segurança.\nIsto passou-se no tempo do governo do Partido Socialista, que, aliás, apoiou o bombardeamento, justificando, nesta Assembleia, a sua posição com base na seguinte razão: como o Conselho de Segurança não ia aprovar, fez-se a operação por via da NATO, sem as Nações Unidas e sem o Conselho de Segurança.\nFoi a inauguração da teoria de que já não é preciso direito internacional, que é a NATO que decide onde se pode intervir, como e quando se deve fazer a guerra e os bombardeamentos."
+    },
+    {
+      "utterance_id": 230,
+      "order": 230,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 231,
+      "order": 231,
+      "page_start": 41,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Daí resultou a conhecida destruição e desmantelamento do país, o sofrimento de milhões de pessoas que ainda hoje continuam, em muitas situações, em conflito.\nNão podemos, por isso, aprovar este voto, independentemente da enorme distância que temos em relação ao principal visado nesta captura."
+    },
+    {
+      "utterance_id": 232,
+      "order": 232,
+      "page_start": 41,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Luís Arnaut."
+    },
+    {
+      "utterance_id": 233,
+      "order": 233,
+      "page_start": 41,
+      "speaker": {
+        "id": 1298,
+        "name": "José Luís Fazenda Arnaut Duarte",
+        "party": "PSD",
+        "string": "O Sr. José Luís Arnaut (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A detenção de Radovan Karadzic é um factor de credibilização dos valores da liberdade e da justiça.\nRadovan Karadzic, como antigo líder dos sérvios na Bósnia, era o mais significativo responsável dos crimes e massacres étnicos cometidos contra a comunidade bósnia naquele território nos anos de 1993 a 1995 e era um dos mais significativos criminosos de guerra ainda não detidos na ex-Jugoslávia.\nA sua detenção, além de ser um acto de justiça, é também um sinal claro de que o novo poder sérvio, eleito em Maio último, dá à comunidade internacional, em particular à União Europeia, na medida em que esta detenção vem permitir o reatar das negociações com a União Europeia e a reaproximação da Sérvia ao contexto europeu.\nPor fim, esta detenção é também um sinal claro de que ninguém fica imune à justiça internacional, de que quem pratica crimes de guerra ou genocídio não escapa à justiça internacional.\nPor tudo isto, o PSD associa-se a este voto."
+    },
+    {
+      "utterance_id": 234,
+      "order": 234,
+      "page_start": 41,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos votar o voto n.º 170/X (3.ª) — De congratulação pela detenção de Radovan Karadzic (PS).\nSubmetido à votação, foi aprovado, com votos a favor do PS, do PSD, do CDS-PP, do BE e de 1 Deputada não inscrita, votos contra do PCP e a abstenção de Os Verdes.\nÉ o seguinte:\nA detenção pelas autoridades sérvias de Radovan Karadzic vem pôr fim a um longo período de incumprimento do mandado de captura emitido pelo Tribunal Internacional de Haia para a ex-Jugoslávia, por crimes cometidos sobre a comunidade bósnia, de que foi um dos principais responsáveis (juntamente com o ex-Presidente Milosevic e o General Mladic, este último ainda em fuga) nos anos 1993 a 1995.\nA guerra na Bósnia fez cerca de 200 000 vítimas e caracterizou-se por massacres e perseguições étnicas, deportações e pilhagens, abusos sexuais, tudo com a finalidade duma «limpeza étnica» da população muçulmana, ligada à criação da pretensa «república sérvia da bósnia».\nPossibilitada agora pelo novo poder sérvio pró-europeu que emergiu das últimas eleições de 12 de Maio, a detenção de Karadzic constitui um passo importante para levar a bom termo as negociações entre a Sérvia e a União Europeia, tendo já sido declarada pelos responsáveis sérvios a vontade de continuar a colaboração com o TPI para a ex-Jugoslávia, designadamente com o objectivo da detenção do ex-General Radko Mladic, principal executor da política de «limpeza étnica».\nNestes termos: A Assembleia da República congratula-se com a detenção de Radovan Karadzic e expressa a sua confiança na capacidade das autoridades sérvias continuarem a sua política de activa cooperação com o TPI para a ex-Jugoslávia, permitindo assim desbloquear o processo negocial com a União Europeia, com vista designadamente ao acordo de estabilização e associação."
+    },
+    {
+      "utterance_id": 235,
+      "order": 235,
+      "page_start": 42,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos passar à apreciação do voto n.º 172/X (4.ª) — De congratulação pela evocação da solidariedade norte-americana na resolução dos problemas açoreanos decorrentes do vulcão dos Capelinhos (PS, PSD, CDS-PP e PCP).\nEste é um texto subscrito pelos Srs. Deputados membros do Grupo Parlamentar de Amizade PortugalEstados Unidos da América, pelo que tem a palavra o respectivo Presidente, o Sr. Deputado Mota Amaral."
+    },
+    {
+      "utterance_id": 236,
+      "order": 236,
+      "page_start": 42,
+      "speaker": {
+        "id": 331,
+        "name": "João Bosco Soares Mota Amaral",
+        "party": "PSD",
+        "string": "O Sr. Mota Amaral (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as Deputadas e Srs. Deputados: Na sessão legislativa anterior, por esta altura, evoquei perante a Câmara a erupção vulcânica dos Capelinhos, na ilha do Faial, Região Autónoma dos Açores, iniciada havia então precisamente 50 anos, e os trágicos efeitos dela.\nAludi à onda de solidariedade em apoio das pessoas e famílias sinistradas, destacando a iniciativa legislativa dos Senadores norte-americanos John Kennedy, de Massachusetts, que viria depois a ser Presidente dos Estados Unidos, e John Pastore, de Rhode Island, que para essas famílias abriu uma quota especial de imigração para a América.\nHoje, em nome do Grupo Parlamentar de Amizade Portugal-Estados Unidos da América, apresento ao Parlamento uma proposta de voto de congratulação evocativo de tal diploma, cujo cinquentenário ocorre por estes dias, como testemunho e penhor de antiga amizade entre os dois países e seus povos.\nNo seguimento de diligências do Grupo Parlamentar de Amizade, em diálogo com o grupo homólogo existente na Câmara dos Representantes dos Estados Unidos, uma resolução de sentido convergente irá ser votada em Washington, no começo da próxima semana.\nSublinho que o voto hoje presente à Assembleia da República é subscrito por membros do Grupo Parlamentar de Amizade, representando todos os partidos parlamentares que nele participam.\nSimetricamente, o documento a ser votado no Congresso é subscrito por membros da maioria democrática e da minoria republicana.\nDestaco os nomes dos Congressistas Devin Nunes, Jim Costa e Dennis Cardoza, todos da Califórnia, de ascendência portuguesa, de famílias oriundas dos Açores; e ainda dos Congressistas Barney Frank, de Massachusetts, e Patrick Kennedy, de Rhode Island, este último sobrinho do malogrado Presidente, em cujos círculos eleitorais estão radicadas fortes comunidades açoreanas.\nAproveito a oportunidade para agradecer ao Presidente Jaime Gama o apoio institucional e pessoal prestado a esta iniciativa do Grupo Parlamentar de Amizade, o qual culminará com a deslocação a Washington, na próxima semana — aliás, em retribuição da visita da Speaker Nancy Pelosi à Assembleia da República, em Abril de 2007 — , para uma cerimónia de troca dos mencionados documentos e outros contactos de alto nível, em pública expressão de solidária amizade entre os órgãos legislativos soberanos dos Estados Unidos da América e de Portugal."
+    },
+    {
+      "utterance_id": 237,
+      "order": 237,
+      "page_start": 42,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos votar o referido voto.\nSubmetido à votação, foi aprovado por unanimidade.\nÉ o seguinte:\nVoto n.º 172/X (4.ª)\nDe congratulação pela evocação da solidariedade norte-americana na resolução dos problemas açoreanos decorrentes do vulcão dos Capelinhos\nA crise sísmico-vulcânica ocorrida na ilha do Faial, Açores, entre Setembro de 1957 e Outubro de 1958, para além de indizíveis sofrimentos pessoais, devastou uma área apreciável de terrenos agrícolas, destruiu centenas de habitações e deixou em situação aflitiva muitas famílias."
+    },
+    {
+      "utterance_id": 238,
+      "order": 238,
+      "page_start": 43,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos agora votar o Relatório e Conta de Gerência da Assembleia da República de 2007.\nSubmetido à votação, foi aprovado por unanimidade.\nSrs. Deputados, vamos proceder à votação, na generalidade, da proposta de lei n.º 217/X (3.ª) — Aprova medidas fiscais anticíclicas, alterando o Código do IRS, o Código do IMI e o Estatuto dos Benefícios Fiscais, tendo em vista minorar o impacto nas famílias dos custos crescentes com a habitação e cria uma taxa de tributação autónoma para empresas de fabricação e de distribuição de produtos petrolíferos refinados.\nSubmetida à votação, foi aprovada, com votos a favor do PS e abstenções do PSD, do CDS-PP, do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita.\nO diploma baixa à 5.ª Comissão.\nSrs. Deputados, se não houver oposição, vamos votar, conjuntamente, os projectos de resolução n.os 378/X (4.ª) (PCP) [apreciação parlamentar n.º 91/X (3.ª)], 379/X (4.ª) (BE) [apreciações parlamentares n.os 88/X (3.ª) (CDS-PP), 90/X (3.ª) (PSD) e 91/X (3.ª) (PCP)] e 380/X (4.ª) (CDS-PP) [apreciação parlamentar n.º 88/X (3.ª) (CDS-PP)].\nSubmetidos à votação, foram rejeitados, com votos contra do PS e votos a favor do PSD, do CDS-PP, do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita.\nSrs. Deputados, o resultado desta votação implica a caducidade das apreciações parlamentares requeridas.\nSegue-se a votação, na generalidade, da proposta de lei n.º 216/X (3.ª) — Aprova a Revisão do Código do Trabalho."
+    },
+    {
+      "utterance_id": 239,
+      "order": 239,
+      "page_start": 44,
+      "speaker": {
+        "id": 285,
+        "name": "Manuel Alegre De Melo Duarte",
+        "party": "PS",
+        "string": "O Sr. Manuel Alegre (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 240,
+      "order": 240,
+      "page_start": 44,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 241,
+      "order": 241,
+      "page_start": 44,
+      "speaker": {
+        "id": 285,
+        "name": "Manuel Alegre De Melo Duarte",
+        "party": "PS",
+        "string": "O Sr. Manuel Alegre (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é para informar que vou entregar na Mesa uma declaração de voto escrita."
+    },
+    {
+      "utterance_id": 242,
+      "order": 242,
+      "page_start": 44,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "A Sr.ª Deputada Maria Júlia Caré pediu a palavra para o mesmo efeito?"
+    },
+    {
+      "utterance_id": 243,
+      "order": 243,
+      "page_start": 44,
+      "speaker": {
+        "id": 2502,
+        "name": "Maria Júlia Gomes Henriques Caré",
+        "party": "PS",
+        "string": "A Sr.ª Maria Júlia Caré (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sim, Sr. Presidente, é também para informar que as Sr.as Deputadas Teresa Portugal, Eugénia Santana Alho e eu própria apresentaremos na Mesa uma declaração de voto por escrito."
+    },
+    {
+      "utterance_id": 244,
+      "order": 244,
+      "page_start": 44,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Fica registado, Sr.ª Deputada.\nVamos votar, na generalidade, o projecto de lei n.os 351/X (2.ª) — Altera a Lei n.º 99/2003, de 27 de Agosto (Código do Trabalho) com vista a eliminar um conjunto de disposições discriminatórias (Os Verdes).\nSubmetido à votação, foi rejeitado, com votos contra do PS, do PSD e do CDS-PP, votos a favor do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita e a abstenção de 1 Deputado do PS.\nVamos votar, na generalidade, o projecto de lei n.º 437/X (3.ª) — Alteração ao Código do Trabalho e ao seu Regulamento (CDS-PP).\nSubmetido à votação, foi rejeitado, com votos contra do PS, votos a favor do CDS-PP e abstenções do PSD, do PCP, do BE, de Os Verdes, de 1 Deputado do PS e de 1 Deputada não inscrita.\nSrs. Deputados, vamos votar, na generalidade, do projecto de lei n.º 547/X (3.ª) — Revoga o Código do Trabalho e aprova uma nova legislação laboral (PCP).\nSubmetido à votação, foi rejeitado, com votos contra do PS, do PSD e do CDS-PP, votos a favor do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita e a abstenção de 1 Deputado do PS.\nVamos proceder à votação, na generalidade, do projecto de lei n.º 550/X (3.ª) — Altera o Código do Trabalho e a respectiva regulamentação repondo justiça social e laboral (BE).\nSubmetido à votação, foi rejeitado, com votos contra do PS, do PSD e do CDS-PP, votos a favor do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita e a abstenção de 1 Deputado do PS.\nSrs. Deputados, vamos votar, na generalidade, o projecto de lei n.º 562/X (3.ª) — Alteração à Lei Eleitoral da Assembleia da República (PS).\nSubmetido à votação, foi aprovado, com votos a favor do PS e do PCP, votos contra do PSD, do CDS-PP e de Os Verdes e abstenções do BE e de 1 Deputada não inscrita.\nO projecto de lei baixa à 1.ª Comissão."
+    },
+    {
+      "utterance_id": 245,
+      "order": 245,
+      "page_start": 45,
+      "speaker": {
+        "id": 1160,
+        "name": "Ana Catarina Veiga Santos Mendonça Mendes",
+        "party": "PS",
+        "string": "A Sr.ª Ana Catarina Mendonça (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 246,
+      "order": 246,
+      "page_start": 45,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito, Sr.ª Deputada?"
+    },
+    {
+      "utterance_id": 247,
+      "order": 247,
+      "page_start": 45,
+      "speaker": {
+        "id": 1160,
+        "name": "Ana Catarina Veiga Santos Mendonça Mendes",
+        "party": "PS",
+        "string": "A Sr.ª Ana Catarina Mendonça (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é para informar que o Grupo Parlamentar do Partido Socialista apresentará na Mesa uma declaração de voto por escrito."
+    },
+    {
+      "utterance_id": 248,
+      "order": 248,
+      "page_start": 45,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "A Sr.ª Deputada Regina Ramos Bastos pediu a palavra para o mesmo efeito?"
+    },
+    {
+      "utterance_id": 249,
+      "order": 249,
+      "page_start": 45,
+      "speaker": {
+        "id": 2140,
+        "name": "Regina Maria Pinto Da Fonseca Ramos Bastos",
+        "party": "PSD",
+        "string": "A Sr.ª Regina Ramos Bastos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sim, Sr. Presidente, é também para informar que o Grupo Parlamentar do PSD apresentará na Mesa uma declaração de voto por escrito."
+    },
+    {
+      "utterance_id": 250,
+      "order": 250,
+      "page_start": 45,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Fica registado, Sr.ª Deputada.\nSrs. Deputados, em relação ao projecto de lei n.º 495/X (3.ª) — Altera a Lei n.º 108/91, de 17 de Agosto (Conselho Económico e Social), com as alterações feitas pelas Leis n.os 80/98, de 24 de Novembro, 128/99, de 20 de Agosto, 12/2003, de 20 de Maio, e 37/2004, de 13 de Agosto (Os Verdes), o respectivo Grupo Parlamentar apresentou um requerimento de baixa à 6.ª Comissão, sem votação, pelo prazo de 90 dias.\nVamos, então, votar o requerimento.\nSubmetido à votação, foi aprovado por unanimidade."
+    },
+    {
+      "utterance_id": 251,
+      "order": 251,
+      "page_start": 45,
+      "speaker": {
+        "id": 1160,
+        "name": "Ana Catarina Veiga Santos Mendonça Mendes",
+        "party": "PS",
+        "string": "A Sr.ª Ana Catarina Mendonça (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 252,
+      "order": 252,
+      "page_start": 45,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 253,
+      "order": 253,
+      "page_start": 45,
+      "speaker": {
+        "id": 1160,
+        "name": "Ana Catarina Veiga Santos Mendonça Mendes",
+        "party": "PS",
+        "string": "A Sr.ª Ana Catarina Mendonça (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço desculpa, Sr. Presidente, mas há pouco pedi à Mesa que corrigisse este lapso. É que o diploma que acabou de ser votado foi, de facto, para a 6.ª Comissão, ou seja, para a Comissão de Assuntos Económicos, Inovação e Desenvolvimento Regional. Acontece que há um outro diploma sobre o mesmo tema na Comissão de Trabalho, Segurança Social e Administração Pública, pelo que me parece mais lógico que o projecto de lei n.º 495/X baixe à Comissão de Trabalho."
+    },
+    {
+      "utterance_id": 254,
+      "order": 254,
+      "page_start": 45,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada, este diploma foi distribuído à Comissão de Trabalho, Segurança Social e Administração Pública e à Comissão de Assuntos Económicos, Inovação e Desenvolvimento Regional, mas esta última é a comissão competente. Independentemente de, depois, podermos fazer um acerto quanto aos dois diplomas, neste caso faz pleno sentido que baixe à comissão a que foi atribuída a categoria de comissão competente, embora tenha sido também discutido na Comissão de Trabalho, Segurança Social e Administração Pública. Portanto, o diploma baixará à 6.ª Comissão."
+    },
+    {
+      "utterance_id": 255,
+      "order": 255,
+      "page_start": 46,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, a solicitação dos Serviços do Ministério Público — Juízos Criminais de Sintra — 3.ª Secção, Processo n.º 1010/08.5TASNT, a Comissão de Ética, Sociedade e Cultura decidiu emitir parecer no sentido de autorizar o Sr. Deputado Nuno da Câmara Pereira (PSD) a prestar declarações, por escrito, na qualidade de arguido, no âmbito dos referidos autos."
+    },
+    {
+      "utterance_id": 256,
+      "order": 256,
+      "page_start": 46,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está em apreciação.\nPausa.\nNão havendo pedidos de palavra, vamos votá-lo.\nSubmetido à votação, foi aprovado, com votos a favor do PS, do PSD, do CDS-PP, do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita e a abstenção de 1 Deputado do PS."
+    },
+    {
+      "utterance_id": 257,
+      "order": 257,
+      "page_start": 46,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, a solicitação do Tribunal de Instrução Criminal de Lisboa — 2.º Juízo A, Processo n.º 3712/07.4TDLSB, a Comissão de Ética, Sociedade e Cultura decidiu emitir parecer no sentido de autorizar a Sr.ª Deputada Helena Lopes da Costa (PSD) a prestar declarações, por escrito, na qualidade de arguida, no âmbito dos referidos autos."
+    },
+    {
+      "utterance_id": 258,
+      "order": 258,
+      "page_start": 46,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está em apreciação o parecer.\nPausa.\nNão havendo pedidos de palavra, vamos votá-lo.\nSubmetido à votação, foi aprovado, com votos a favor do PS, do PSD, do CDS-PP, do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita e a abstenção de 1 Deputado do PS."
+    },
+    {
+      "utterance_id": 259,
+      "order": 259,
+      "page_start": 46,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, a solicitação do Tribunal de Instrução Criminal de Lisboa — 2.º Juízo A, Processo n.º 3712/07.4TDLSB, a Comissão de Ética, Sociedade e Cultura decidiu emitir parecer no sentido de autorizar o Sr. Deputado Miguel Almeida (PSD) a prestar declarações, por escrito, na qualidade de arguido, no âmbito dos referidos autos."
+    },
+    {
+      "utterance_id": 260,
+      "order": 260,
+      "page_start": 46,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está em apreciação o parecer.\nPausa.\nNão havendo pedidos de palavra, vamos votá-lo.\nSubmetido à votação, foi aprovado, com votos a favor do PS, do PSD, do CDS-PP, do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita e a abstenção de 1 Deputado do PS."
+    },
+    {
+      "utterance_id": 261,
+      "order": 261,
+      "page_start": 47,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, a solicitação do Tribunal Judicial de Nelas — Secção única, Processo n.º 226/07.6TANLS, a Comissão de Ética, Sociedade e Cultura decidiu emitir parecer no sentido de não autorizar o levantamento da imunidade parlamentar, para efeitos de interrogatório como declarante/arguido, ao Sr. Deputado José Junqueiro (PS), no âmbito dos referidos autos."
+    },
+    {
+      "utterance_id": 262,
+      "order": 262,
+      "page_start": 47,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está em apreciação o parecer.\nPausa.\nNão havendo pedidos de palavra, vamos votá-lo.\nSubmetido à votação, foi aprovado, com votos a favor do PS, do PSD, do CDS-PP, do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita e a abstenção de 1 Deputado do PS.\nSrs. Deputados, terminámos a nossa ordem de trabalho de hoje.\nA próxima sessão plenária realiza-se quarta-feira, dia 24, às 15 horas, e será totalmente preenchida com o debate quinzenal com o Primeiro-Ministro, nos termos da alínea b) do n.º 2 do artigo 224.º do Regimento da Assembleia da República.\nEstá encerrada a sessão."
+    }
+  ]
+}

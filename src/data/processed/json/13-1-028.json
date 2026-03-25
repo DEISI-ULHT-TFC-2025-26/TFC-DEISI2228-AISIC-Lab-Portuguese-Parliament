@@ -1,0 +1,4086 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "13",
+    "legislative_session": "1",
+    "number": "28",
+    "date": "2016-01-21"
+  },
+  "debate_id": "r3_13_1_28_2016-01-21",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. e Srs. Deputados, Sr. e Srs. Funcionários, Sr. e Srs. Jornalistas, temos \nquórum, pelo que declaro aberta a sessão. \nEram 15 horas e 6 minutos. \nPeço às autoridades que abram as galerias. \nDou a palavra ao Sr. Secretário da Mesa, Deputado Duarte Pacheco, para proceder à leitura do \nexpediente. \nas"
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Duarte Pacheco)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr. e Srs. Deputados, deram entrada na Mesa, e \nforam admitidos, o projeto de resolução n.º 96/XIII (1.ª) — Recomenda a construção do hospital de Lisboa \nOriental (BE), que baixa à 9.ª Comissão, e o projeto de lei n.º 107/XIII (1.ª) — Oitava alteração à Lei n.º 53-\nB/2006, de 29 de dezembro — atualização do valor da pensão mínima, pensão social e pensão rural ao nível \nda inflação (CDS-PP), que baixa à 10.ª Comissão. \nEntretanto, foi retirado, pelos proponentes, o projeto de resolução n.º 66/XIII (1.ª) — Revoga o «Processo \nCambridge» (BE). \nas"
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. e Srs. Deputados, vamos, então, dar início à ordem do dia de hoje, que, como \nsabem, consta apenas de declarações políticas. \nPela ordem de intervenção previamente definida, tem, pois, a palavra, em primeiro lugar, para uma \ndeclaração política, o Sr. Deputado Paulo Sá."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 3,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Em Portugal, os mais ricos entre os ricos não \npagam os impostos devidos e o prejuízo para o Estado estima-se na ordem dos 3000 milhões de euros! \nA denúncia foi feita por um ex-Diretor da Autoridade Tributária e Aduaneira, numa recente entrevista a um \nórgão de comunicação social, e confirmada num memorando enviado à Assembleia da República pela própria \nAutoridade Tributária. Não é nada que o PCP não venha afirmando há muito tempo, mas agora temos a \nconfirmação deste facto pelo próprio organismo público que procede à cobrança dos impostos. \nA Autoridade Tributária, recorrendo às suas bases de dados e a informação externa, procedeu ao \nlevantamento dos contribuintes que detêm um património superior a 25 milhões de euros e/ou têm \nrendimentos anuais superiores a 5 milhões de euros, ou seja, os mais ricos entre os ricos. Numa primeira \nabordagem, foram identificadas, nesta categoria, 240 pessoas, que, em 2014, pagaram em sede de IRS \napenas 48 milhões de euros. Um valor verdadeiramente insignificante, tendo em conta os elevadíssimos \nrendimentos e património destas pessoas. \nEsta é uma situação escandalosa! Não se pode aceitar que aqueles que mais têm fujam ao pagamento dos \nimpostos, sonegando ao Estado receitas fiscais essenciais para assegurar as suas funções, em particular as \nfunções sociais, e exigindo aos restantes contribuintes, em particular aos trabalhadores, um esforço fiscal \ndesmesurado. \nA Autoridade Tributária, com os seus escassos recursos, conseguiu até ao momento identificar 240 \ncontribuintes que se enquadram nesta categoria dos mais ricos. Mas são mais, muitos mais! Um estudo \ninternacional, que a Autoridade Tributária identifica como sendo um estudo de referência, estima que, em \nPortugal, são cerca de 930. Uma empresa que vende serviços de consultadoria fiscal a estes contribuintes, \nconsidera um universo de 1000 pessoas, um milhar de cidadãos que, tendo um património e/ou rendimento \nmuito elevado, foge ao pagamento dos impostos devidos."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 3,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Uma vergonha!"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 3,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Um simples cálculo permite estimar em cerca de 3000 milhões de euros a receita \nfiscal anual que resultaria da tributação adequada, em sede de IRS, deste grupo de 1000 milionários. Mas esta \nreceita potencial tem sido desperdiçada, por opções políticas que favorecem uma ínfima minoria de \nprivilegiados, à custa da esmagadora maioria que vive do seu trabalho."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 4,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 4,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estas opções são bem reveladoras da natureza da política de direita, tão \ndiligentemente aplicada pelo anterior Governo PSD/CDS, uma política que os portugueses rejeitaram, de \nforma tão expressiva, nas eleições legislativas do passado dia 4 de outubro. \nA falta de vontade política e de eficácia no combate ao incumprimento fiscal dos mais ricos entre os mais \nricos contrasta com a sanha persecutória do anterior Governo, do PSD e do CDS, dirigida contra os pequenos \ne médios contribuintes, sejam eles particulares ou empresas. \nSe os milionários pagam de impostos uma pequeníssima fração do que deveriam pagar, encolhe-se os \nombros e fala-se das dificuldades e dos obstáculos a uma tributação adequada. Se o pequeno contribuinte \ncomete uma infração, mesmo que involuntária, ou se atrasa no pagamento dos impostos, aplica-se uma coima \nexorbitante, penhora-se o salário, o carro e até a casa."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 4,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 4,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: No que diz respeito aos contribuintes de elevada \ncapacidade patrimonial, os tais com rendimento anual superior a 5 milhões de euros e património superior a 25 \nmilhões de euros, exigem-se medidas urgentes que dotem a Autoridade Tributária e Aduaneira de meios e \ninstrumentos que lhe permitam proceder à cobrança dos impostos devidos. \nPorque não nos conformamos com uma política fiscal injusta e iníqua, porque não nos conformamos com o \nesmagamento fiscal dos trabalhadores e das pequenas empresas para favorecer um ínfimo grupo de \ncontribuintes milionários, o Grupo Parlamentar do PCP irá apresentar, na Assembleia da República, uma \niniciativa com um conjunto de medidas decisivas no combate à fuga e evasão fiscais dos contribuintes mais \nricos. \nÉ necessário considerar medidas ao nível da legislação fiscal, mas também dos meios humanos e \ntecnológicos colocados à disposição da Autoridade Tributária e Aduaneira, da criação de parcerias com outras \norganizações e entidades que acedam ou estudem informação considerada sensível, em termos do \napuramento da realidade patrimonial e dos rendimentos dos contribuintes mais ricos, assim como de uma \nintervenção no seio das organizações internacionais, nomeadamente na União Europeia, FMI, ONU e \nOrganização Mundial do Comércio, de forma a combater a chamada competitividade fiscal cujo objetivo é a \ncaptura de receitasfiscais com origem em patrimónios e rendimentos obtidos em países terceiros."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe que conclua, Sr. Deputado."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 4,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Concluo, Sr. Presidente. \nO PCP reafirma aqui a necessidade de uma nova e alternativa política fiscal, mais justa e mais adequada \nàs necessidades do País. Uma política fiscal articulada com a dimensão orçamental, que tribute de forma \nadequada as grandes empresas, os grupos económicos e financeiros, os rendimentos e patrimónios mais \nelevados, ao mesmo tempo que desonera os trabalhadores, os reformados, as famílias, assim como as micro \ne pequenas empresas."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem de concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 5,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É com esse objetivo que nos iremos bater por estas propostas."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Paulo Sá, a Mesa regista a inscrição de quatro Srs. Deputados para \nformularem pedidos de esclarecimento. Não sei como pretende responder."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 5,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dois a dois, Sr. Presidente."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para um pedido de esclarecimento, a Sr.ª Deputada Rubina Berardo."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 5,
+      "speaker": {
+        "id": 2146,
+        "name": "Rubina Everlien Berardo",
+        "party": "PSD",
+        "string": "A Sr.ª Rubina Berardo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, quero apenas dirigir um pedido de esclarecimentos ao Sr. \nDeputado Paulo Sá, já que estivemos presentes na mesma audição, em sede de Comissão de Orçamento, \nFinanças e Modernização Administrativa, a qual foi muito importante para trazer clareza sobre as declarações \ndo antigo Diretor-Geral da Autoridade Tributária e Aduaneira. Essa audição serviu o propósito de clarificar esta \nmatéria, tendo ficado claríssimo que nunca houve nenhum desmantelamento de qualquer unidade de \nmonitorização dos contribuintes de altos rendimentos. \nFicou também claro tudo o que foi feito pelo anterior Executivo em termos de aumento dos mecanismos de \ncontrolo, de aumento de controlo dos acordos de dupla tributação, de aumento dos impostos sobre o luxo, de \naumento da tributação sobre os capitais e de aumento do IRS sobre estes contribuintes, com taxas, em média, \nna ordem dos 46%. \nMuito importante também foi ter sido clarificado nas duas audições de ontem que não houve qualquer \npendor político na atuação da Autoridade Tributária. \nPortanto, pedia a sua opinião sobre esta matéria."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem, agora, a palavra o Sr. Deputado João Pinho de \nAlmeida."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 5,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Paulo Sá, a questão que aqui \nlevantou é muito importante e foi abordada ontem, com seriedade, na Comissão de Orçamento, Finanças e \nModernização Administrativa. \nÉ importante reconhecermos, desde logo, que aquilo que motivou a existência das audições que ali \nrealizámos foi esclarecido em sentido negativo, ou seja, não houve, por parte do Governo anterior, nenhum \ndesmantelamento de nenhuma unidade que acompanhasse os contribuintes de elevado potencial, em termos \nde património. E isso é importante para esclarecermos que não houve qualquer opção política do Governo \nanterior no sentido de diminuir a proximidade a este tipo de contribuintes. \nFoi até esclarecido que não era essa unidade que, do ponto de vista inspetivo, acompanhava esses \ncontribuintes, mas, sim, os inspetores-gerais da Autoridade Tributária, inspetores esses que foram contratados \npelo Governo anterior em número como nunca haviam sido, por nenhum Governo, no passado, e com \ncondições remuneratórias altamente favoráveis, o que fez com que, naturalmente, esses concursos tivessem \numa enorme adesão dentro da Administração Pública. \nMas vamos à questão real: ontem, também analisámos números que nos dizem que os 1000 contribuintes, \nque, em sede de IRS, mais pagam, pagam, hoje em dia, uma taxa média muito próxima dos 50%. Quer o \nanterior Diretor-Geral, quer a atual Diretora-Geral disseram que não está na dependência da legislação \nnacional, muito menos do funcionamento da máquina fiscal, conseguir manter dentro do perímetro nacional \ncontribuintes com este tipo de taxas médias, se elas vierem a subir, porque este tipo de contribuintes pode \nfacilmente deslocalizar os seus capitais e até transformar os seus rendimentos do trabalho em rendimentos de \ncapital, transportando-os para outras jurisdições, através da mobilidade."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 6,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não ouviu?!"
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 6,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… para, não evitando que estes contribuintes abandonem a \njurisdição nacional e passem para outras jurisdições tributárias, o que faria com que a nossa receita \ndiminuísse e, portanto, seria uma medida exclusivamente demagógica, sem qualquer efeito orçamental, \npermitir que estes contribuintes se mantenham dentro da jurisdição nacional e paguem, efetivamente, um \nimposto e uma taxa média mais próximos daquilo que é devido e que foi tentado obter, pelo Governo anterior, \npor exemplo através do aumento das taxas? É que as taxas aumentaram para estes contribuintes mais do que \npara quaisquer outros e a receita não aumentou. Isso tem a ver com esses problemas, pelo que é a esses \nproblemas concretos que um partido que apoia o Governo tem de dar respostas sérias e não demagógicas."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Paulo Sá."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 6,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Rubina Berardo, Sr. Deputado João Pinho de \nAlmeida, ambas as intervenções referiram o desmantelamento da unidade. Ficou, ontem, claro que a equipa \nque acompanha esses contribuintes mais ricos tem apenas seis elementos, que trabalham em part-time nesta \ntarefa. E sabemos que estes contribuintes têm à sua disposição mecanismos, instrumentos, meios que lhes \npermitem uma gestão fiscal agressiva para não pagarem impostos. \nO anterior Governo do PSD/CDS sabia disso, mas não dotou a Autoridade Tributária e Aduaneira de meios \nadequados para que pudesse cumprir a sua função de por estes contribuintes a pagarem os impostos devidos. \nTambém ficámos a saber nas audições de ontem que a Autoridade Tributária e Aduaneira encaminhou \npara o anterior Governo, do PSD e do /CDS, propostas de alterações legislativas, visando eliminar os \n«alçapões» que são utilizados por estes contribuintes para não pagarem impostos,… \n… e que o Governo anterior nada fez relativamente a isso."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 6,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas essa é uma questão que teremos de esclarecer cabalmente, isto é, \nsabermos por que é que o anterior Governo, do PSD e do CDS, tendo na sua mão propostas concretas para \neliminar aqueles «alçapões»,… \n… preferiu fechar os olhos, encolher os ombros, olhar para o lado…"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 6,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e deixar que estes contribuintes pagassem apenas de IRS 50 milhões de \neuros. Aliás, na realidade, nem chega a 50 milhões de euros, são 48 milhões de euros, pagos num ano. E é \npreciso comparar este valor com a receita potencial que resultaria do cumprimento fiscal cabal, por parte"
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 7,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sabemos que é difícil concretizar esta receita potencial, mas não podemos \ndesistir. \nO discurso do CDS é sempre o mesmo: quando se fala de criar condições para tributar de forma adequada \nesses contribuintes é só dificuldades, é só obstáculos. \nE o que nós dizemos é que são necessárias medidas decisivas…"
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD e do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Quais?"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 7,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… que ponham estes contribuintes a pagar aquilo que devem. \nAnunciei, há pouco, da tribuna, que iremos apresentar uma proposta…"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD e do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ah!…"
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 7,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… contendo medidas concretas, que os Srs. Deputados terão oportunidade de \nanalisar, que vão incidir sobre alterações legislativas no sentido de dotar a Autoridade Tributária e Aduaneira \nde meios e instrumentos adequados para cumprir os seus objetivos e também com vista à necessidade de se \nencetarem diligências, a nível internacional, para se fecharem os alçapões e as vias de escape destes \ncontribuintes para o pagamento dos seus impostos."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem agora a palavra a Sr.ª Deputada Mariana Mortágua para pedir esclarecimentos."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 7,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Paulo Sá, queria agradecer-lhe e \ncumprimentá-lo por ter trazido este tema a debate, que partiu de uma audição, proposta pelo Bloco de \nEsquerda, ao antigo Diretor da Autoridade Tributária e à atual Diretora da Autoridade Tributária. \nA reunião foi importante, porque, pela primeira vez, tivemos os dados que permitem confirmar uma \nsensação que existe na sociedade portuguesa, que é a de que há pessoas mais ricas que conseguem fugir \naos impostos, o que é, de facto, impossível para a classe média, para a maior parte dos trabalhadores e para \nas pequenas empresas. \nHá duas fontes diferentes que estimam que existem, em Portugal, 1000 contribuintes com rendimentos \nanuais superiores a 5 milhões de euros ou património superior a 25 milhões de euros e que, desses 1000, só \n240 é que estão sequer identificados pela Autoridade Tributária. Mesmo os 240 que conseguiram ser \nidentificados pela Autoridade Tributária pagam uma pequeníssima parte do imposto que é devido e, portanto, \nproporcionalmente, pagam muito menos do que qualquer cidadão que trabalhe e tenha um salário médio em \nPortugal. \nIsto confirma a ideia de uma Autoridade Tributária e de um Estado que têm uma mão muito forte com quem \ntem pouco poder, mas nem sequer têm uma mão que chegue a tocar naqueles que têm mais dinheiro, que \ntêm mais possibilidades e que têm mais poder. \nO segundo ponto que foi suscitado na reunião é ainda mais importante: como é que resolvemos o \nproblema? E o anterior Diretor da Autoridade Tributária foi claro: é preciso tornar isto uma prioridade política, \npelo Governo e pela Assembleia da República. E este assunto não tem sido uma prioridade política, porque, \nse tivesse sido, haveria meios humanos e técnicos para a Autoridade Tributária; se tivesse sido, haveria"
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada, já ultrapassou o tempo de que dispunha. Faça favor de concluir."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 8,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Termino, Sr. Presidente, dizendo que gostava de saber se, na altura em \nque fizermos o debate que o Sr. Deputado Paulo Sá abriu, vamos ter, outra vez, o CDS e o PSD a votarem \ncontra o levantamento do sigilo bancário, a votarem contra o levantamento das transferências para os \noffshore, a votarem contra as leis que podem, de facto, fazer uma diferença. \nMuito obrigada pela tolerância, Sr. Presidente."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Ainda para pedir esclarecimentos, tem a palavra o Sr. Deputado Eurico Brilhante \nDias."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 8,
+      "speaker": {
+        "id": 1995,
+        "name": "Eurico Jorge Nogueira Leite Brilhante Dias",
+        "party": "PS",
+        "string": "O Sr. Eurico Brilhante Dias (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Paulo Sá, foi com gosto que vimos o \nPCP escolher este tema para discussão em Plenário. \nNós acompanhámos com grande interesse as audições de ontem e há factos que temos de sublinhar hoje, \naqui, neste Plenário. \nEm 2012, depois de falhar, de forma clamorosa, os objetivos orçamentais, o Governo PSD/CDS apresentou \num enorme aumento de impostos. Esse enorme aumento de impostos castigou a generalidade dos \nportugueses. \nOs dados que a Autoridade Tributária nos distribuiu dizem que, em termos médios, os contribuintes \nportugueses tiveram um incremento de 5 pontos percentuais na taxa média de IRS. Esse aumento de 5% \nsignifica um aumento de 33% da carga fiscal, em sede de IRS. \nMas, relativamente aos contribuintes de maior capacidade patrimonial, o crescimento da taxa média foi de \n0%. Tentam confundir-nos, dizendo que os maiores contribuintes pagam hoje muitos mais impostos, o que é \nverdade, mas, em termos médios, o aumento da taxa marginal foi muito inferior ao da taxa da generalidade \ndos portugueses: o aumento da taxa média de IRS para os 1000 maiores contribuintes foi de 1,4%, enquanto \nque a generalidade dos portugueses teve um aumento da taxa média de 5 pontos percentuais. \nSr. Deputado Paulo Sá, é preciso criar um sistema que aumente a eficiência fiscal. Não há justiça na nossa \ncomunidade nem há uma comunidade coesa sem justiça fiscal."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe que conclua, Sr. Deputado."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 9,
+      "speaker": {
+        "id": 1995,
+        "name": "Eurico Jorge Nogueira Leite Brilhante Dias",
+        "party": "PS",
+        "string": "O Sr. Eurico Brilhante Dias (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Concluirei, questionando o Sr. Deputado Paulo Sá sobre o seguinte: \no PCP apresentou hoje a ideia de um conjunto de iniciativas nesta área. Gostaria de lhe perguntar, de forma \nclara: que medidas procurará apresentar para diminuir a arbitragem fiscal? É que aquilo que acontece é que \nmuitos destes contribuintes utilizam instrumentos quer no País, quer fora do País, mas também utilizam outros \nimpostos para fugirem às contribuições em sede de IRS. \nDeixo-lhe, pois, esta questão, Sr. Deputado."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Paulo Sá."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 9,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Mariana Mortágua e Sr. Deputado Eurico Brilhante \nDias, agradeço as questões colocadas. Ambos incidiram sobre matéria muito relevante, que é a do valor de \nreceita fiscal que todos os anos se perde pelo facto de estes contribuintes mais ricos, de estes 1000 \ncontribuintes milionários, não cumprirem as suas obrigações fiscais. \nTemos de comparar estes 3000 milhões de receita fiscal potencial perdida todos os anos com aquela que \nfoi a dimensão do saque fiscal imposto pelo anterior Governo, do PSD e do CDS. \nComo todos muito bem sabemos, em 2013, o Governo PSD/CDS, por via de alterações legislativas, impôs \num brutal saque fiscal sobre os rendimentos do trabalho e, num só ano, de 2012 para 2013, a receita fiscal \ncresceu 35%, ou seja, foram arrecadados mais 3226 milhões de euros em sede de IRS, à custa do \nesmagamento fiscal dos trabalhadores, dos reformados, das famílias, dos micro e pequenos empresários. E o \nGoverno PSD/CDS tinha, na altura, duas opções: fazer o que fez, isto é, impor o saque fiscal dirigido aos \npequenos contribuintes, aos trabalhadores, às famílias, aos micro e pequenos empresários, ou, então, tomar \nmedidas decisivas para pôr estes 1000 contribuintes a pagar aquilo que deveriam pagar,…"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 9,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 9,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… fazendo-os cumprir as suas obrigações fiscais e gerando uma receita fiscal \npotencial, anual, de 3000 milhões de euros. O Governo PSD/CDS não hesitou, atacou os mesmos de sempre, \nimpôs o saque fiscal sobre os rendimentos dos trabalhadores, dos reformados, dos pensionistas, das famílias, \ndos micro e pequenos empresários e encolheu os ombros relativamente ao incumprimento fiscal reiterado dos \ngrandes contribuintes, que, se cumprissem as suas obrigações fiscais, dariam ao Estado uma receita \nsuplementar de 3000 milhões de euros. Foi uma opção clara do anterior Governo, do PSD e do CDS, que os \nportugueses rejeitaram nas urnas, nas eleições de 4 de outubro. \nPara terminar, Sr. Deputado Eurico Brilhante Dias, relativamente às propostas que o PCP anunciou hoje, \niremos, muito em breve, apresentar uma iniciativa com propostas concretas para resolver este problema, que \npassa, por um lado, por alterações legislativas em diversas dimensões — é preciso atuar nessa frente de \nforma decisiva —, mas, também, por dotar a Autoridade Tributária e Aduaneira de meios adequados para que \npossa realizar o seu trabalho e fazer estes contribuintes cumprirem as suas obrigações fiscais. \nMas é também necessário atuar a nível internacional, tal como referiu, porque um dos instrumentos de fuga \naos impostos por parte destes 1000 contribuintes é a utilização de offshore. Por isso, é preciso que, junto das"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma declaração política, tem a palavra o Sr. Deputado Duarte Filipe Marques. \nas"
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 10,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. e Srs. Deputados: Há 30 anos, Portugal \ntornava-se membro da Comunidade Económica Europeia. Um País acabado de sair da Revolução, com uma \ndemocracia ainda jovem e frágil, soube, com alargado consenso político, dar o passo estratégico e aderir ao \nprojeto europeu. \nNestes 30 anos, Portugal mudou muito. \nPortugal mudou graças aos portugueses, graças à democracia, mas também graças à inequívoca opção \npela Europa, opção essa que alguns partidos aqui representados ainda hoje enjeitam."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 10,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nem tudo foi perfeito, nem todas as oportunidades foram \naproveitadas, nem todas as consequências da adesão foram positivas, mas o saldo é claramente favorável a \nPortugal e, sobretudo, aos portugueses. \nHá cinco anos, o nosso País foi notícia na Europa pelas piores razões. A pré-bancarrota e o pedido de \nresgate colocaram Portugal, a par da Grécia, no centro de preocupações da Europa. \nMas, em quatro anos, entre 2011 e 2015, Portugal superou a bancarrota; cumpriu um duríssimo programa \nde ajustamento, negociado pelo Partido Socialista; despediu-se da troica; a economia portuguesa voltou a \ncrescer; o desemprego diminuiu; o investimento externo regressou e a confiança dos investidores e dos \nportugueses foi reconquistada. \nEm quatro anos, Portugal passou a ser um País diferente, mais sustentável, mais preparado para enfrentar \nos desafios do futuro. Não tenho dúvidas, não tenhamos dúvidas: o esforço valeu a pena. \nPorque mudámos, recuperámos a nossa credibilidade externa. Deixarmos de ser comparados à Grécia foi \numa vitória. Os portugueses voltaram a ter ambição. O País voltou a ter futuro. as\nIsto, sim, Sr. e Srs. Deputados foi um tempo novo! \nCom o Governo PSD/CDS-PP, voltámos a ser um ator europeu, respeitado pelos pares, com ideias, ouvido \nno projeto europeu, como o demonstram algumas iniciativas que têm a nossa assinatura: a criação da União \nBancária, para evitar que os contribuintes paguem pelos erros do sistema financeiro; a união energética, \nfundamental para reduzir a fatura da energia; ou, também, a negociação do Quadro Financeiro Plurianual até \n2020, com a criação da parceria dos países da coesão, que, liderados por Portugal e pela Polónia, foram \ndecisivos para o desfecho das negociações. \nPara além disso, Portugal preparou o Portugal 2020, apostando nas empresas, no emprego, na \nqualificação dos portugueses e, sobretudo, no combate às desigualdades. Esta estratégia mereceu o elogio de \noutros Estados membros e da própria Comissão Europeia. as\nSr. e Srs. Deputados, por mais que o atual Governo o tente negar, Portugal era, até dezembro último, o \nPaís mais avançado na aplicação do novo quadro comunitário. \nMas, afinal, podemos ou não falar de um tempo novo para Portugal e para os portugueses? \nO atual processo de contrarreforma em curso, uma versão light do triste PREC ou, então, o programa de \nretrocesso em curso não anuncia nada de bom para os portugueses. Do facilitismo e revanchismo na área da \neducação, ao populismo de medidas como a reposição das 35 horas de trabalho, à reversão da privatização"
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 11,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas não entregámos cartas irrevogáveis!"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 11,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ainda não temos orçamento, mas temos à vista de todos o \ndesnorte do Governo. As contas não estavam feitas e, mais uma vez, contamos com a confissão sincera do \nMinistro das Finanças do Partido Socialista, como aconteceu agora a propósito das 35 horas: dá-se primeiro, \nfazem-se contas depois e, no fim, tira-se tudo outra vez. A triste sina do Partido Socialista, a triste sina dos \nportugueses! Onde é que já vimos e ouvimos isto?"
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 11,
+      "speaker": {
+        "id": 1965,
+        "name": "Carlos Eduardo Almeida De Abreu Amorim",
+        "party": "PSD",
+        "string": "O Sr. Carlos Abreu Amorim (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 11,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Palavra dada não é mesmo palavra honrada! \nO Governo já confirmou que as contas de 2015 ficaram em ordem. Ainda hoje o Ministro dos Negócios \nEstrangeiros veio confirmar o défice abaixo de 3% sem medidas extraordinárias. Um défice de 2,8% para 2016 \nnão representa, por isso, qualquer consolidação nominal e corresponde, certamente, a um agravamento do \nsaldo estrutural, por escolha opção deste Governo. \nE escusa o PS de, com falta de pudor, invocar 2015 como um ano em que não houve consolidação \nestrutural, esquecendo ou omitindo propositadamente a grande conquista da nossa história democrática de \nconsolidar estruturalmente 9 pontos percentuais entre 2011 e 2014. Essa consolidação foi feita numa altura \nem que do Partido Socialista apenas ouvíamos dizer «precisamos de mais dinheiro e de mais tempo», o que, \nem português, quer dizer mais troica, mais dívida, mais custos para os portugueses."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe que conclua, Sr. Deputado."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 11,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em 2016, vira-se a página, mas não se vira a página para a frente. \nAnda-se para trás, volta-se à página anterior de um livro já conhecido de um tempo que os portugueses \npensavam que estava ultrapassado. as\nSr. Presidente, Sr. e Srs. Deputados: A troica regressa a Portugal dentro de dias, já na próxima semana, \nmas esperamos que seja apenas de passagem. \nO PSD deseja, a bem dos portugueses, que as discussões com os credores não agravem a desconfiança, \nnem instalem a incerteza. \nAo Governo de António Costa compete apresentar, finalmente, um orçamento de Estado que não \ncomprometa o futuro de Portugal e que não force o País a um novo resgate."
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe que conclua, Sr. Deputado."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 11,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Termino já, Sr. Presidente. \nOs portugueses não o merecem, até porque já viram este filme e não é justo que voltem a pagar bilhete \npara ver tudo novamente. \nAntónio Costa não tem esse direito. Tem, antes, um dever: honrar os compromissos de Portugal, honrar os \nsacrifícios dos portugueses e todo o esforço que fizemos para aqui chegar, e, sobretudo, para deixar de olhar \nde baixo para cima para o resto da Europa."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, a Mesa registou quatro pedidos de esclarecimento. Como pretender \nresponder?"
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 12,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Responderei em grupos de dois, Sr. Presidente."
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado João Galamba, \nas"
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 12,
+      "speaker": {
+        "id": 2039,
+        "name": "João Saldanha De Azevedo Galamba",
+        "party": "PS",
+        "string": "O Sr. João Galamba (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. e Srs. Deputados, Sr. Deputado Duarte Marques, \nacabou a sua intervenção a dizer que o Primeiro-Ministro tinha a obrigação de cumprir os compromissos de \nPortugal, e tem toda a razão. Só que os compromissos de Portugal são de vária ordem: há compromissos \ninternos e externos. \nE há uma coisa que lhe posso assegurar, Sr. Deputado: é que este Governo, ao contrário do anterior, \ncumprirá todos os seus compromissos, internos e externos, e não apenas os externos. \nSei que isto faz alguma confusão ao Sr. Deputado e que o considera um pouco bizarro, mas, sim, este é \num Governo que faz mesmo ponto de honra em cumprir os seus compromissos eleitorais, o seu programa de \nGoverno e o contrato que estabeleceu com os portugueses. Se o Sr. Deputado não percebe e acha isso \nestranho, nós estaremos aqui para lho lembrarmos sempre que for necessário. \n\nO Sr. Deputado também achou por bem fazer uma crítica ao Primeiro-Ministro, dizendo que ele tinha dito \nque as negociações estavam a ser difíceis. É natural, Sr. Deputado, porque este Governo, ao contrário do \nanterior, tenta mesmo negociar com os nossos credores, não faz nenhuma genuflexão, não desiste à primeira \ne, sobretudo, não trai os compromissos internos que são tão importantes como os externos. \nVeio também dizer que devemos ser um País europeu que honra os seus compromissos e que este \nGoverno promove o facilitismo na educação. \nO Sr. Deputado acabou de fazer uma enorme acusação a toda a \nEuropa, dado que se este Governo promove o facilitismo na educação, toda a Europa é facilitista na educação, \nporque a única coisa que fizemos foi retomar a normalidade e alinhar com as práticas europeias. \nNão há nenhum país europeu que tivesse exames na 4.ª classe e o que nós fizemos foi, exatamente, \nalinhar com a Europa com quem o Sr. Deputado fez aqui juras de amor. \nNós não fazemos juras de amor, nós preocupamo-nos em fazer, mais ou menos, aquilo que a generalidade \nda Europa nesta matéria faz e fazia, ao contrário do Governo anterior. \nPor outro lado, o Sr. Deputado também veio dizer que o investimento tinha regressado. Qual investimento, \nSr. Deputado? Regressou onde? Dê-me conta de um dado que mostre que o investimento tinha regressado. \nCaiu para valores de meados dos anos 80, estava estagnado no terceiro trimestre do ano passado e somos \nnós que o vamos tentar retomar."
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem de concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 13,
+      "speaker": {
+        "id": 2039,
+        "name": "João Saldanha De Azevedo Galamba",
+        "party": "PS",
+        "string": "O Sr. João Galamba (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou terminar, Sr. Presidente. \n\nO Sr. Deputado veio dizer que o Governo adiou reembolsos à troica. Não, Sr. Deputado, foram as contas \norçamentais que o anterior Governo tinha feito que estavam erradas. E houve duas matérias que fizeram \nalterar as necessidades de financiamento e, como tal, alteraram o reembolso à troica, como, por exemplo, a \nrelacionada com o Novo Banco: estava nas contas do anterior Governo como sendo vendido por 4,9 mil \nmilhões de euros no ano passado e não só não foi vendido, como rendeu zero. Portanto, isso teve implicações \nnas necessidades de financiamento. \nSr. Deputado, vai também renunciar a essa promessa do anterior Governo? É a pergunta que lhe deixo."
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Cecília Meireles. \nas"
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 13,
+      "speaker": {
+        "id": 1974,
+        "name": "Cecília Felgueiras De Meireles Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Cecília Meireles (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. e Srs. Deputados, Sr. Deputado Duarte Filipe \nMarques, há três perguntas que, creio, nestes tempos de um verdadeiro regoverno, não podem ficar sem \nresposta, porque a verdade é que nós conseguimos, e sobretudo os portugueses conseguiram, com muito \nesforço, recuperar uma coisa que é muito difícil de recuperar, mas que é muito fácil, infelizmente, de perder, \nque é a credibilidade."
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 13,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 13,
+      "speaker": {
+        "id": 1974,
+        "name": "Cecília Felgueiras De Meireles Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Cecília Meireles (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Queremos que as páginas e que o livro da instabilidade, do risco e do \nperigo estejam de uma vez para sempre fechados. E certamente que nenhum de nós nesta Câmara gosta de \nver todos os dias as notícias que temos visto nas últimas semanas, por isso mesmo, Srs. Deputados do PS e \nda coligação que apoia o Governo, está na altura de fazerem alguma coisa em relação a isto."
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 13,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ora!"
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 13,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "As notícias sobre a pobreza não a incomodam!"
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 13,
+      "speaker": {
+        "id": 1974,
+        "name": "Cecília Felgueiras De Meireles Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Cecília Meireles (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E podem começar respondendo a uma primeira pergunta \nfundamental. Ouvi dizer muitas vezes «o País não tem tempo a perder, nós estamos preparados para \napresentar o orçamento no fim de dezembro»; depois, quando se aproximava essa data, dizia-se «nós \nestamos preparados para apresentar o orçamento no fim de janeiro». Mas, afinal, parece que vai ser na \nprimeira semana de fevereiro. \nSr. Deputado, acha ou não que o Governo tem de responder a esta pergunta fundamental, clara e \ncristalina: quando é que apresenta o orçamento a este Parlamento? \nSrs. Deputados, não somos um órgão consultivo do Governo! Quem aprova o orçamento é este \nParlamento!"
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 13,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É Bruxelas!"
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 13,
+      "speaker": {
+        "id": 1974,
+        "name": "Cecília Felgueiras De Meireles Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Cecília Meireles (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "De uma vez para sempre, esclareçam, afinal, nem é qual é o \nconteúdo do orçamento, é quando é que ele é apresentado! \nÉ extraordinário que os Srs. Deputados do Bloco de Esquerda já não tenham curiosidade nenhuma nem \nem conhecer o orçamento, nem sequer em saber quando ele entra. Já não vos interessa!"
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 13,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Interessa o conteúdo, não a data!"
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 13,
+      "speaker": {
+        "id": 1974,
+        "name": "Cecília Felgueiras De Meireles Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Cecília Meireles (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É curioso, é bastante diferente da postura que tinham na oposição."
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe que conclua, Sr.ª Deputada!"
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 14,
+      "speaker": {
+        "id": 1974,
+        "name": "Cecília Felgueiras De Meireles Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Cecília Meireles (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Com certeza, Sr. Presidente. \nTerceira pergunta fundamental: quanto é que vai custar a nova estratégia orçamental? Porque a estratégia \nde, em vez de reembolsar 10 000 milhões de euros de empréstimos mais caros, reembolsar apenas 3000 \nmilhões de euros custa dinheiro, Srs. Deputados. Os senhores vão pagar mais juros! \nA estratégia de aumentar o défice custa dinheiro em juros. Não é o CDS-PP que o diz, Srs. Deputados, \nquem o diz é a UTAO. Concluo, com certeza, mas sugeria a leitura deste relatório da UTAO, que diz \nclaramente que o que custa dinheiro é adiar o défice e pré-financiar o País, precisamente para fugir ao risco \nque os senhores estão a criar. \nSublinho a terceira pergunta: quanto, Srs. Deputados?"
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para responder, o Sr. Deputado Duarte Filipe Marques."
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 14,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, a resposta ao Sr. Deputado João Galamba é uma \nresposta curiosa, porque aquilo que é bizarro, na nossa opinião, é o PS insistir no erro! É que já é a quarta vez \nque estamos em bancarrota, ou que vamos a bancarrota com o Partido Socialista. É este Governo que é \ncábula, que insiste no facilitismo na educação e que até muda aquilo que eram políticas do Partido Socialista! \nÉ aí que chegámos pela mão do Partido Socialista!"
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 14,
+      "speaker": {
+        "id": 2039,
+        "name": "João Saldanha De Azevedo Galamba",
+        "party": "PS",
+        "string": "O Sr. João Galamba (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Respeite o seu partido, Sr. Deputado!"
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 14,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É que até na educação o vosso regoverno vai contra toda a \ntradição do Partido Socialista, a achar que estão a fazer do Ministro Nuno Crato o grande refém desta nova \ntroica que está em Portugal, que é a troica de esquerda! Mas aquilo que o Partido Socialista não distingue, e \ntem de distinguir, é se quer optar pelo compromisso com os portugueses, com o seu futuro sustentável, ou \npelo compromisso com a nova troica que governa em Portugal. \nParece que o Partido Socialista, agora, é refém da troica de esquerda!"
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 14,
+      "speaker": {
+        "id": 2039,
+        "name": "João Saldanha De Azevedo Galamba",
+        "party": "PS",
+        "string": "O Sr. João Galamba (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Somos reféns dos nossos compromissos eleitorais!"
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 14,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É por ser refém da troica de esquerda que é obrigado a aumentar \nos limites da dívida! \nQuem confessa aqui que os números do cenário macroeconómico do Partido Socialista não estavam feitos, \nnão eram corretos é o próprio Partido Socialista! \nJá sei, Sr. Deputado, que a estratégia do Partido Socialista é usar o Banif como biombo da incompetência \ndo Governo."
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 14,
+      "speaker": {
+        "id": 2039,
+        "name": "João Saldanha De Azevedo Galamba",
+        "party": "PS",
+        "string": "O Sr. João Galamba (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Eu falei do BES!"
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 14,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas também já ouvimos o Sr. Primeiro-Ministro e ouvimos hoje o \nSr. Ministro dos Negócios Estrangeiros a dizer que quer o investimento que foi feito no BES, quer o \ninvestimento que foi feito no Banif não contam para o défice."
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 14,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Investimento no BES e no Banif?! Explique lá isso, Sr. Deputado."
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 15,
+      "speaker": {
+        "id": 2039,
+        "name": "João Saldanha De Azevedo Galamba",
+        "party": "PS",
+        "string": "O Sr. João Galamba (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Que grande confusão!"
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 15,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Então, Sr. Deputado, vou devolver-lhe a pergunta: não é o Banif \nque obriga o Governo a ir aos mercados contrair mais 11 000 milhões de dívida pública. Agora, responda: \nonde é que está o resto? É o resgate a pagar ao Bloco de Esquerda e ao PCP? É o resgate a pagar pelo \nacordo para ser Governo? \nÉ o resgate a pagar para poder ser Primeiro-Ministro? Responda-me, Sr. Deputado! É que essa é que é a \ngrande questão. Não é o Banif que lhe vai servir. A comissão de inquérito, pedida pelo PSD, vai dar-nos \noportunidade, nos próximos dias, de esclarecer tudo o que aconteceu neste País nos últimos anos relacionado \ncom o Banif. \nEmbora disponha de pouco tempo, quero dizer à Sr.ª Deputada Cecília Meireles que as perguntas que me \ncolocou também eu gostaria de as ver respondidas pelo Governo, Governo, este, que, graças a esta nova \ncoligação, ainda não tem Orçamento. E, pelos vistos, nem vamos ter proximamente, porque o que nos parece \né que eles nem sequer se entendem na sua estratégia orçamental e é preciso os outros parceiros de coligação \nvirem para a rua fazer ameaças na praça pública para que se cumpra o que acordaram. \nO que hoje fica claro é muito simples: o Governo não tinha as contas feitas, o Governo mentiu aos \nportugueses porque o tratado orçamental não estava acautelado no acordo de Governo e agora vamos ver o \nque vai acontecer."
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Paulo Sá, do PCP."
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 15,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, Sr. Deputado Duarte Marques, subiu à tribuna e \npassou metade da sua intervenção a falar da situação do País nos últimos quatro anos, mas, curiosamente, \nignorou todos os problemas existentes no País, criados pela vossa governação, pela governação PSD/CDS. \nNão disse uma palavra sobre o desemprego, como se não existisse desemprego, como se este não fosse \num flagelo que atormenta os portugueses."
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 15,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não disse uma palavra sobre a pobreza e sobre a pobreza extrema, que se \nalastra pelo País. Não disse uma palavra sobre o brutal aumento de impostos dirigido contra os rendimentos \ndo trabalho. \nIgnorou a questão do encerramento dos serviços públicos nas zonas do interior do País e por todo o País. \nIgnorou o ataque desferido às funções sociais do Estado na educação, na saúde, na segurança social, \nprivando portugueses de direitos consagrados na Constituição da República Portuguesa. \n\nO Sr. Deputado traçou um quadro que não corresponde ao País real, ignorou todos os problemas que o \nvosso Governo criou."
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 15,
+      "speaker": {
+        "id": 2107,
+        "name": "Miguel Ferreira Morgado",
+        "party": "PSD",
+        "string": "O Sr. Miguel Morgado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é verdade. Isso é uma cassete!"
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 16,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estamos à espera que o PSD e o CDS assumam a responsabilidade pela \nsituação em que deixaram o País. \n\nO Sr. Deputado também falou da união bancária. Estamos à espera que o PSD e o CDS assumam as suas \nresponsabilidades por aquilo que se passou no BES e no Banif."
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 16,
+      "speaker": {
+        "id": 2107,
+        "name": "Miguel Ferreira Morgado",
+        "party": "PSD",
+        "string": "O Sr. Miguel Morgado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "No BES?!"
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 16,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A situação orçamental atual que o País vive é o resultado das vossas políticas, \nda vossa ação governativa nos últimos quatro anos e meio."
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 16,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 16,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E àquilo a que o Sr. Deputado aqui chamou, com grande descaramento, de \nretrocesso na educação, nos direitos dos trabalhadores, etc.,…"
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 16,
+      "speaker": {
+        "id": 1965,
+        "name": "Carlos Eduardo Almeida De Abreu Amorim",
+        "party": "PSD",
+        "string": "O Sr. Carlos Abreu Amorim (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E é verdade!"
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 16,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… na verdade, corresponde à devolução do que os senhores, nos últimos anos, \nretiraram indevidamente aos portugueses, aos trabalhadores."
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 16,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 16,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado falou também em investimentos no BES e no Banif. Na \nrealidade, o que os senhores fizeram foi utilizar o dinheiro dos contribuintes, o dinheiro dos portugueses para \ntapar buracos na banca, buracos esses criados pelos desmandos dos banqueiros. Foi isso que se passou."
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 16,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Sr. Miguel Tiago (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 16,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se o Sr. Deputado quer falar em restrições orçamentais — e deu-me a \nimpressão de que queria abordar esse tema —,…"
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, peço-lhe que conclua."
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 16,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… então, tem de começar por explicar a borla fiscal que deram aos 1000 \ncontribuintes milionários, que tem uma dimensão de 3000 milhões de euros. Se não fosse essa borla fiscal, se \nos senhores tivessem tomado as medidas que se impunham, hoje teríamos uma situação orçamental bem \nmelhor do que a que temos. \nA terminar, Sr. Deputado Duarte Filipe Marques, gostaria de lhe dizer o seguinte: não se deixe enganar \npelas manchetes da comunicação social relativamente ao PCP. É porque quem fala pelo PCP é o PCP e a \ngarantia que nós damos aos portugueses, e que o PSD deve ter em conta, é que para tudo aquilo que seja \nsoluções para os problemas dos trabalhadores, do povo, do País, podem contar com o PCP."
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Isabel Pires, do Bloco de \nEsquerda."
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 16,
+      "speaker": {
+        "id": 2029,
+        "name": "Isabel Cristina Rua Pires",
+        "party": "BE",
+        "string": "A Sr.ª Isabel Pires (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Duarte Marques, fala-nos hoje dos 30 anos de \nintegração de Portugal na CEE e diz que o saldo — as palavras são suas — é favorável aos portugueses e \npara Portugal. \nNão deixa de ser curioso que o Sr. Deputado traga este tema à discussão e o que, de facto, verificamos é \nque o PSD continua a acreditar que está tudo melhor em Portugal por causa da Europa. Nada mais errado!"
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 17,
+      "speaker": {
+        "id": 1965,
+        "name": "Carlos Eduardo Almeida De Abreu Amorim",
+        "party": "PSD",
+        "string": "O Sr. Carlos Abreu Amorim (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nada mais errado?!"
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 17,
+      "speaker": {
+        "id": 2029,
+        "name": "Isabel Cristina Rua Pires",
+        "party": "BE",
+        "string": "A Sr.ª Isabel Pires (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Uma coisa pode concluir-se: o PSD continua a fazer a vénia à Europa e a \nobedecer cegamente, sem nunca pensar no compromisso maior, no compromisso que interessa, que é o \ncompromisso com Portugal e para com os portugueses, que foi sucessivamente quebrado nos últimos quatro \nanos. \nE, já agora, sobre a Europa, a austeridade e as suas consequências, Sr. Deputado Duarte Marques, há um \nestudo que poderá ser interessante, estudo esse não muito longínquo, é bastante recente, da Fundação \nFrancisco Manuel dos Santos (Fundação insuspeita, neste caso), que refere — e esse estudo foi feito \nexatamente por causa da comemoração dos 30 anos da entrada de Portugal na CEE — que atualmente o \nnível de vida médio em Portugal é 25% inferior à média europeia, o que significa que estamos a níveis de \n1990. Passaram-se 30 anos de integração e o que se avançou ao nível de vida médio foi apenas três anos."
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 17,
+      "speaker": {
+        "id": 2107,
+        "name": "Miguel Ferreira Morgado",
+        "party": "PSD",
+        "string": "O Sr. Miguel Morgado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso é mentira!"
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 17,
+      "speaker": {
+        "id": 2029,
+        "name": "Isabel Cristina Rua Pires",
+        "party": "BE",
+        "string": "A Sr.ª Isabel Pires (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, são falácias quando nos querem indicar que a Europa ajudou no \navançar do País, porque não avançou. Chega! Os portugueses estão fartos dessa postura de que a Europa \nnos faz avançar, quando todas as provas indicam que nos fez recuar no emprego, no trabalho, na saúde, na \neducação. Até agora, só vimos recuos, recuos, recuos. \nSr. Presidente, para terminar, queria dizer o seguinte: acho que, finalmente, os portugueses perceberam \npor que é que o PSD fala tanto em investimento e por que é que o investimento aumentou. Porque, pelos \nvistos, agora o investimento é salvar o buraco de bancos."
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 17,
+      "speaker": {
+        "id": 1965,
+        "name": "Carlos Eduardo Almeida De Abreu Amorim",
+        "party": "PSD",
+        "string": "O Sr. Carlos Abreu Amorim (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está muito enganada!"
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 17,
+      "speaker": {
+        "id": 2029,
+        "name": "Isabel Cristina Rua Pires",
+        "party": "BE",
+        "string": "A Sr.ª Isabel Pires (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Aí, de facto, o investimento aumentou bastante. No entanto, o investimento na \nsaúde, na educação, no compromisso que importa,…"
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe para concluir, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 17,
+      "speaker": {
+        "id": 2029,
+        "name": "Isabel Cristina Rua Pires",
+        "party": "BE",
+        "string": "A Sr.ª Isabel Pires (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… que não é, neste caso, com as instituições europeias que dizem para cortar \nmais mas com os portugueses, esse compromisso foi sempre quebrado e, finalmente, caiu a máscara e \npercebemos o que significou o investimento: salvar quatro bancos, até agora, e deixar a vida dos portugueses \nde parte."
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Duarte Marques."
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 17,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, eu estava a ouvir o Sr. Deputado \nPaulo Sá e fiquei com uma dúvida que penso ser pertinente. É que este discurso do Sr. Deputado Paulo Sá é \no mesmo de há quatro anos a esta parte e, aliás, não é muito diferente do discurso do Partido Socialista. \nAgora percebe-se por que é que estão todos juntos nesta coligação."
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 17,
+      "speaker": {
+        "id": 2103,
+        "name": "Mariana Rodrigues Mortágua",
+        "party": "BE",
+        "string": "A Sr.ª Mariana Mortágua (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Primeiro, estávamos separados e agora já estamos todos juntos?!"
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 18,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Gostava de perguntar ao Sr. Deputado Paulo Sá ou, melhor, ao \nPartido Socialista o seguinte: afinal que País miserável é este em que vivemos, que País de desgraça é este \nem que toda a gente vive mal e onde não há esperança?!"
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 18,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Devia ter mais respeito pelos mais desfavorecidos!"
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 18,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É o mesmo país do qual António Costa falava aos investidores \nchineses?! É o mesmo país que o IGCP apresenta aos investidores estrangeiros?! É que já com este Governo, \nem janeiro, o IGCP dizia que era um país em crescimento, um país que fez reformas estruturais, um país em \ngrande desenvolvimento, um país em que não vai haver retrocesso das políticas! \nSe assim é, Srs. Deputados do Partido Socialista, o que têm dito lá fora é mentira e estão a enganar os \ninvestidores estrangeiros — e a mentira tem perna curta — ou, então, andaram a mentir aos portugueses ao \nlongo destes quatro anos. Porque a pergunta é: o País está melhor ou não está melhor? Portanto, ou mentem \nlá fora ou, então, a realidade do País não dá conforto ao vosso discurso. \nFaz-me recordar aqueles candidatos presidenciais que andam por aí e que de manhã dizem que o País é \numa miséria e à tarde elogiam o grande trabalho das empresas, a grande qualidade dos portugueses. É sinal \nde que há esperança, de que o País está melhor,…"
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 18,
+      "speaker": {
+        "id": 2029,
+        "name": "Isabel Cristina Rua Pires",
+        "party": "BE",
+        "string": "A Sr.ª Isabel Pires (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não conheço esse país!"
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 18,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… não dá é jeito ao vosso discurso miserabilista."
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 18,
+      "speaker": {
+        "id": 1965,
+        "name": "Carlos Eduardo Almeida De Abreu Amorim",
+        "party": "PSD",
+        "string": "O Sr. Carlos Abreu Amorim (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 18,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Abandonem as bancadas do Parlamento e vão visitar os \nportugueses, conheçam o País real, conheçam essas empresas e vão ver que o País não é tão mau como os \nsenhores o pintam. \n\nA Sr.ª Deputada Isabel Pires veio aqui confirmar uma suspeita que nós tínhamos e que agora temos a \ncerteza. É que, de facto, parte desta coligação de Governo não gosta da União Europeia, não se sente bem na \nUnião Europeia,…"
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 18,
+      "speaker": {
+        "id": 2029,
+        "name": "Isabel Cristina Rua Pires",
+        "party": "BE",
+        "string": "A Sr.ª Isabel Pires (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pois não! Qual é a novidade?!"
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 18,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… nem sequer respeitam, como já sabíamos, o tratado orçamental \ne têm grandes dúvidas sobre a participação europeia."
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 18,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Querem ver que a seguir vão descobrir a pólvora?!"
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 18,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E cometem um erro, que é um erro de estudo, que, se calhar, \ntambém tem a ver com o tal facilitismo. É que a Sr.ª Deputada Isabel Pires confunde aquilo que é a \nconvergência com a média da União Europeia com aquilo que é a evolução da qualidade de vida dos \nportugueses. E isso não é a mesma coisa, Sr.ª Deputada! Só alguém que ande distraído ou que não queira ver \na realidade do País é que acha que Portugal só melhorou a sua condição de vida em 0,3% desde 1985 ou \ndesde 1986, Sr.ª Deputada. É não ter vivido com os olhos bem abertos,…"
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 19,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… é querer encarar uma realidade que não é a deste País, porque \neste País é bem melhor, os portugueses são bem melhores, as empresas são bem melhores, as instituições \nsociais são bem melhores do que como os senhores as querem pintar. \nSó faço um pedido a esta coligação: não estraguem tudo, não façam novamente de Portugal o problema \neuropeu, não deixem que chamem a Portugal «a nova criança problemática da Europa»."
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 19,
+      "speaker": {
+        "id": 2029,
+        "name": "Isabel Cristina Rua Pires",
+        "party": "BE",
+        "string": "A Sr.ª Isabel Pires (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Com isso podemos nós bem! O que não queremos é deixar as crianças \nportuguesas na pobreza!"
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 19,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nós já não estávamos habituados a isso e é onde estamos a \nvoltar."
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe que conclua, Sr. Deputado."
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 19,
+      "speaker": {
+        "id": 1988,
+        "name": "Duarte Filipe Batista De Matos Marques",
+        "party": "PSD",
+        "string": "O Sr. Duarte Filipe Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Termino já, Sr. Presidente. \nE, sobretudo, é o grande risco de deitar para o lixo o esforço dos portugueses. Porque Portugal voltou a ter \nfuturo, não ponham o futuro dos portugueses em causa."
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma declaração política, tem a palavra o Sr. Deputado Filipe Neto Brandão, do \nPS. \nas"
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 19,
+      "speaker": {
+        "id": 2004,
+        "name": "Carlos Filipe De Andrade Neto Brandão",
+        "party": "PS",
+        "string": "O Sr. Filipe Neto Brandão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. e Srs. Deputados: Esta semana, dando \ncumprimento ao seu Programa, o XXI Governo iniciou um périplo pelo País que designou por Volta Simplex. \nFeliz designação essa que, além de aludir à recolha em todo o território nacional, de contributos para a sua \nimplementação, pretende significar que o Simplex está de volta. \nNão se trata apenas — e já isso seria relevante — de repor uma marca inicialmente lançada em 2006, há \numa década, portanto, e cujo sucesso fora já impressivamente reconhecido por cidadãos e empresas (e que \nchegou inclusive, entre outros, a ser reconhecido pela Comissão Europeia como o melhor projeto europeu de \ninovação na Administração Pública), mas trata-se, sobretudo, de repor, reforçando-a, uma estratégia de \nmodernização administrativa transversal, capaz de envolver e de mobilizar todos os ministérios e serviços da \nadministração central, regional e local. \nPoder-se-ia, talvez, é certo, enfatizar agora a postergação, na pretérita Legislatura, das medidas de \nreforma e de simplificação administrativa para um secundaríssimo plano, bem como a circunstância do \nreconhecimento dos méritos do Simplex, ainda que feito de modo tímido e intermitente, não ter tido tradução \nprática (e quem não se recorda do anúncio, nunca concretizado, de um Simplex II?) ou até de se ter procurado \nescamotear a própria designação num anódino programa Simplificar que, já perto do final da Legislatura, se \nrecomendava ao Governo de então, embora também sem conhecida concretização de relevo. \nCremos, porém, que mais do que revisitarmos o passado, um tempo e lugar onde, como é consabido, aos \nmortais já muito pouco é permitido fazer, importa sublinhar os desafios do presente e, sobretudo, mobilizar \nvontades para o futuro. E aqui, nesta matéria e nesta Assembleia, valerá a pena, creio, evocar o exemplo do \nconsenso espelhado na aprovação da resolução n.º 31/2014, aprovada sem quaisquer votos contra, e no que \nela significou quanto ao reconhecimento da importância da simplificação e desburocratização administrativas. \nÉ justo reconhecer que a generalidade dos cidadãos e empresas associa o termo Simplex, pelos seus \nméritos, à redução de burocracias inúteis e à melhoria do atendimento, a ponto de amiúde escutarmos, vindo \nde um qualquer utente inconformado com o serviço que lhe foi prestado, o desabafo «isto precisava era de um \nSimplex.» \nAproveitemos, pois, o que de positivo foi feito e potenciemos a cultura Simplex, uma cultura de maior \nclareza na lei, uma cultura de qualidade no atendimento, de maior transparência e de rigor nos prazos, de \nparticipação dos utentes nos serviços, uma cultura, enfim, de mais confiança nos cidadãos e destes na \nAdministração."
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, inscreveram, para pedir esclarecimentos, três Srs. Deputados. \nComo pretende responder, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 20,
+      "speaker": {
+        "id": 2004,
+        "name": "Carlos Filipe De Andrade Neto Brandão",
+        "party": "PS",
+        "string": "O Sr. Filipe Neto Brandão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, respondo em conjunto."
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem, então, a palavra, para pedir esclarecimentos, o Sr. Deputado Jorge Paulo \nOliveira, do PSD. \nas"
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 20,
+      "speaker": {
+        "id": 2056,
+        "name": "Jorge Paulo Da Silva Oliveira",
+        "party": "PSD",
+        "string": "O Sr. Jorge Paulo Oliveira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. e Srs. Deputados, todas as medidas tendentes à \nsimplificação e à modernização da nossa Administração Pública são, naturalmente, bem-vindas."
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 21,
+      "speaker": {
+        "id": 2107,
+        "name": "Miguel Ferreira Morgado",
+        "party": "PSD",
+        "string": "O Sr. Miguel Morgado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 21,
+      "speaker": {
+        "id": 2056,
+        "name": "Jorge Paulo Da Silva Oliveira",
+        "party": "PSD",
+        "string": "O Sr. Jorge Paulo Oliveira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Fruto destas medidas tomadas pelo anterior Governo, nós hoje \npodemos dizer que temos uma Administração Pública mais participativa, mais próxima, mais simples, mais \ninclusiva, mais eficiente e mais transparente."
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço que conclua, Sr. Deputado."
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 21,
+      "speaker": {
+        "id": 2056,
+        "name": "Jorge Paulo Da Silva Oliveira",
+        "party": "PSD",
+        "string": "O Sr. Jorge Paulo Oliveira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E, Sr. Deputado Filipe Neto Brandão, V. Ex.ª desvalorizou todo este \ntrabalho, mas devo recordar que, em julho de 2015, Portugal liderava na prestação de serviços públicos online\naos cidadãos e às empresas, de acordo com a Comissão Europeia. as\nSr. Presidente, Sr. e Srs. Deputados, Sr. Deputado Filipe Neto Brandão, diz V. Ex.ª que o Governo \npretende retomar o programa Simplex. \nEntretanto, assumiu a presidência o Vice-Presidente Jorge Lacão."
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queira concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 21,
+      "speaker": {
+        "id": 2056,
+        "name": "Jorge Paulo Da Silva Oliveira",
+        "party": "PSD",
+        "string": "O Sr. Jorge Paulo Oliveira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Filipe Neto Brandão, não se trata de retomar o \nprograma Simplex. Trata-se, isso sim, de retomar o slogan do programa Simplex, porque a verdadeira \nsimplificação, a verdadeira modernização da Administração Pública, essa foi feita pelo anterior Governo."
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Paulo Sá, do \nPCP."
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 21,
+      "speaker": {
+        "id": 2129,
+        "name": "Paulo Miguel De Barros Pacheco Seara De Sá",
+        "party": "PCP",
+        "string": "O Sr. Paulo Sá (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, Sr. Deputado Filipe Neto Brandão, começo por \ndizer que o PCP entende que o Estado tem a responsabilidade e o dever de prestar serviços públicos de \nqualidade e de proximidade aos cidadãos e também de garantir funções sociais do Estado. \nPorém, nos últimos quatro anos, a que é que assistimos pela mão do Governo PSD/CDS? A pretexto da \nconsolidação orçamental, da redução do défice e da redução da dívida pública, o PSD, o CDS e o seu \nGoverno desferiram um ataque sem precedentes às funções sociais do Estado e aos serviços públicos."
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Paulino \nAscenção, do Bloco de Esquerda. \nas"
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 22,
+      "speaker": {
+        "id": 2125,
+        "name": "José Paulino Carvalho De Ascenção",
+        "party": "BE",
+        "string": "O Sr. Paulino Ascenção (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados e Sr. Deputadas, Sr. Deputado Filipe \nNeto Brandão, começo por cumprimentá-lo pela sua declaração política. \nNós, no Bloco de Esquerda, acompanhamos as preocupações relacionadas com a modernização \nadministrativa, subscrevemos os princípios, estaremos cá para apoiar todas as medidas que facilitem a vida \ndos cidadãos e das empresas, no sentido da desburocratização e da facilitação da vida dos cidadãos, em \ngeral. \nNo entanto, trago aqui uma preocupação. A modernização e a informatização não podem ser fator de \nexclusão social. É preciso ter em conta a realidade de tantos cidadãos e cidadãs com dificuldades ou, mesmo, \nlimitações no acesso às tecnologias, com baixos níveis de literacia, e que têm ficado excluídos ou com \ndificuldades graves no cumprimento das suas obrigações para com o Estado, nomeadamente de natureza \nfiscal. \nA modernização administrativa também não pode ser medida pelo número de medidas legislativas \naprovadas, pela quantidade de programas ou de portais criados, como parece ser a ideia transmitida aqui já \nem debates anteriores pelas bancadas que apoiaram o anterior Governo. \nOutro fator fundamental é o aspeto humano, a cultura organizacional da Administração Pública, que tem de \nperder o seu caráter autoritário, herdado dos longos anos da ditadura. Temos de fomentar uma cultura de \nserviço público, de serviço aos cidadãos, em que estes sejam tratados com igualdade e em que o servidor \npúblico encarne esse papel de servidor e não de autoridade, de alguém que está num patamar acima do \ncidadão. \nOra, para isso ser efetivo é necessário também valorizar esses agentes da Administração Pública para que \nse sintam dignificados e motivados e o que se passou durante a Legislatura do anterior Governo é que foram \nsistematicamente castigados, o que não abona a um melhor desempenho da parte dos funcionários públicos."
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder aos pedidos de esclarecimento, tem a palavra o Sr. \nDeputado Filipe Neto Brandão."
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 22,
+      "speaker": {
+        "id": 2004,
+        "name": "Carlos Filipe De Andrade Neto Brandão",
+        "party": "PS",
+        "string": "O Sr. Filipe Neto Brandão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, quero agradecer as perguntas que me foram dirigidas. \nMuito telegraficamente, e pela ordem inversa à das perguntas colocadas, começo por responder ao Sr. \nDeputado Paulino Ascenção, do Bloco de Esquerda, que referiu — ironicamente, digo eu — o receio de se \nverem multiplicados balcões, e justificadamente, porque a história do programa nos últimos anos inculcaria"
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 23,
+      "speaker": {
+        "id": 1950,
+        "name": "António Egrejas Leitão Amaro",
+        "party": "PSD",
+        "string": "O Sr. AntónioLeitão Amaro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O quê?! Anda distraído!"
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 23,
+      "speaker": {
+        "id": 2004,
+        "name": "Carlos Filipe De Andrade Neto Brandão",
+        "party": "PS",
+        "string": "O Sr. Filipe Neto Brandão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Leitão Amaro, peço desculpa por o seu aparte me fazer \nreferir que o próprio PSD, quando apresentou o projeto de resolução n.º 974/XII, no final da Legislatura, na sua \nexposição de motivos, referia, precisamente, que só nessa altura, em fevereiro de 2014, importava lançar os \nmeios e os instrumentos para a modernização administrativa. Ou seja, é a total confissão de que, durante \nquase toda a Legislatura, nem sequer esse problema se colocava!"
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Esgotou o seu tempo, Sr. Deputado."
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 23,
+      "speaker": {
+        "id": 2004,
+        "name": "Carlos Filipe De Andrade Neto Brandão",
+        "party": "PS",
+        "string": "O Sr. Filipe Neto Brandão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Concluo frisando aquilo que é importante, que é congregar as \nvontades para a modernização administrativa, porque só ela poderá cumprir o desiderato de construir um País \nmais moderno."
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 23,
+      "speaker": {
+        "id": 1950,
+        "name": "António Egrejas Leitão Amaro",
+        "party": "PSD",
+        "string": "O Sr. António Leitão Amaro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Entretanto, já passaram dois anos!"
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma declaração política, tem a palavra o Sr. Deputado Jorge \nCosta, do Bloco de Esquerda. \nas"
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 23,
+      "speaker": {
+        "id": 2052,
+        "name": "Jorge Duarte Gonçalves Da Costa",
+        "party": "BE",
+        "string": "O Sr. Jorge Duarte Costa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputadas e Srs. Deputados: A Lei n.º 52-A/2005 \nacabou com as subvenções vitalícias e com os subsídios de reintegração dos titulares de cargos políticos. O \nBloco de Esquerda, desde a sua entrada no Parlamento, em 2000, lutou para que acabassem. Acabaram em \n2005, e ainda bem."
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Heitor Sousa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 25,
+      "speaker": {
+        "id": 2052,
+        "name": "Jorge Duarte Gonçalves Da Costa",
+        "party": "BE",
+        "string": "O Sr. Jorge Duarte Costa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "No Bloco de Esquerda, achamos que o Estado tem de ser sempre \npessoa de bem e os direitos adquiridos são para respeitar. Submeter à crítica e à opinião democrática os atos \ndo Tribunal Constitucional é a única forma de respeitar verdadeiramente as suas decisões."
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 25,
+      "speaker": {
+        "id": 2052,
+        "name": "Jorge Duarte Gonçalves Da Costa",
+        "party": "BE",
+        "string": "O Sr. Jorge Duarte Costa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas algo mais tem de ser dito. O Parlamento fez o que pôde para \nacabar com as subvenções. Acabaram em 2005, e ainda bem. Os direitos adquiridos ficam com cada um e \ncom cada partido. Este já não é um problema da lei, porque a lei já não vigora, nem é um problema \nconstitucional, porque a decisão foi tomada. Agora, é uma questão política. \nO Bloco e os seus antigos Deputados e Deputadas, a começar pelos que tinham o direito a subsídio de \nreintegração, nunca o reclamaram. Rejeitamos privilégios. Votámos para que terminassem e recusamos \nbeneficiar dos que ainda permanecem. \nCada partido, cada um de nós decide sobre o que é de lei, mas também sobre a sua conduta, sobre a \ncoerência na política. A avaliação política de quem decidiu ir ao Tribunal Constitucional para defender o \nprivilégio, essa, cabe ao povo, a essa imensa maioria que não sabe o que é o privilégio, porque é de outra \ncondição."
+    },
+    {
+      "utterance_id": 166,
+      "order": 166,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveram-se cinco Srs. Deputados para pedir esclarecimentos. \n\nO Sr. Deputado Jorge Costa informa a Mesa que responderá, em conjunto, primeiro, a dois Srs. Deputados \ne, depois, a três Srs. Deputados. \nAssim sendo, tem a palavra, para pedir esclarecimentos, o Sr. Deputado José Luís Ferreira."
+    },
+    {
+      "utterance_id": 167,
+      "order": 167,
+      "page_start": 25,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Jorge Costa, em primeiro lugar, \nqueria dizer que Os Verdes foram sempre contra as subvenções vitalícias para titulares de cargos políticos. \nNão sendo novidade, acho que importa também referi-lo aqui novamente. \nE recordo, a este propósito, o que dissemos, em 2014, quando discutimos o Orçamento do Estado para \n2015. Começámos por registar a atitude do PSD e do PS por terem retirado a proposta que pretendia repor as \nsubvenções vitalícias, mas lamentámos que essa retirada só tenha ocorrido depois da avocação pelo Plenário \nda votação dessa mesma proposta. \nDe qualquer forma, dissemos, na altura, que parecia ter prevalecido o bom senso, ainda que tarde. Sucede \nque, pelos vistos, o bom senso só prevaleceu aqui, no Plenário. Mas não prevaleceu quando um grupo de \nDeputados, do PSD e do PS, decidiu, não diria à socapa mas, pelo menos, de forma não pública, solicitar a \napreciação pelo Tribunal Constitucional da constitucionalidade da norma que impunha a condição de recursos. \nE, como referimos, em 2014, esse pedido era, antes de mais, uma provocação. Era uma provocação aos \nreformados da Carris e do Metro, era uma provocação aos reformados e pensionistas em geral, era uma \nprovocação aos trabalhadores da Administração Pública que têm os seus salários congelados desde 2009 e \nera também uma provocação aos desempregados que não tinham qualquer acesso a qualquer apoio social. \nFoi isto que dissemos em 2014 e é isto que hoje aqui reafirmamos. \nSr. Deputado Jorge Costa, como sabe, nenhum dos Deputados de Os Verdes subscreveu o pedido de \nfiscalização da constitucionalidade dessa norma. Portanto, não «demos para esse peditório». Mas \nsubscrevemos outros pedidos de fiscalização. Subscrevemos o pedido de fiscalização dos cortes do subsídio \nde férias e do subsídio de Natal, que o anterior Governo, PSD/CDS, pretendia impor aos portugueses. \nSubscrevemos o pedido de fiscalização dos cortes nos salários e nas pensões. Subscrevemos o pedido de \nfiscalização dos cortes nas reformas dos trabalhadores das empresas do setor empresarial do Estado. Tudo \nisto obra do anterior Governo, PSD/CDS. \nAgora, Sr. Deputado Jorge Costa, gostaria de dizer o seguinte: sempre que estiveram em causa os \ninteresses e os direitos da generalidade das pessoas, Os Verdes disseram «presente», e vão continuar a fazê-\nlo."
+    },
+    {
+      "utterance_id": 168,
+      "order": 168,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Terminou o seu tempo, Sr. Deputado \nFaça favor de concluir."
+    },
+    {
+      "utterance_id": 169,
+      "order": 169,
+      "page_start": 26,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou terminar, Sr. Presidente. \nMas, a imoralidades desta natureza, Os Verdes dirão sempre «não». \nAgora, o Tribunal Constitucional fez regressar a medida sem a exigência de qualquer condição de recursos. \nA nosso ver, esta é uma questão, mais do que de natureza constitucional, de natureza moral. \nAinda assim, uma vez que o Presidente do Tribunal Constitucional também disse que o regime não está \nbloqueado, a pergunta que lhe coloco, Sr. Deputado Jorge Costa, é esta: para o Bloco de Esquerda, que \nsoluções, do ponto de vista legal, agora se afiguram que, respeitando a constitucionalidade, permitam repor a \nmoralidade?"
+    },
+    {
+      "utterance_id": 170,
+      "order": 170,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Carlos Abreu \nAmorim."
+    },
+    {
+      "utterance_id": 171,
+      "order": 171,
+      "page_start": 26,
+      "speaker": {
+        "id": 1965,
+        "name": "Carlos Eduardo Almeida De Abreu Amorim",
+        "party": "PSD",
+        "string": "O Sr. Carlos Abreu Amorim (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Jorge Costa, para que fique muito \nclaro, a posição do Grupo Parlamentar do PSD é aquela que ficou expressa na proposta de lei de Orçamento \ndo Estado para 2015, não é outra. Portanto, não vale a pena criar fantasmas e tentar confundir a opinião \npública, no sentido de dizer que o PSD tem esta posição pela frente e tem outra não sei onde. A posição do \nPSD é conhecida. \nEm segundo lugar, Sr. Deputado, sobre as decisões do Tribunal Constitucional, nós não temos dois pesos \ne duas medidas. Nós respeitamos as decisões do Tribunal Constitucional, mesmo quando não concordamos \ncom elas. E não temos, como é o caso do Bloco de Esquerda, candidatos na rua, como a candidata \npresidencial do seu partido, a difamar o Tribunal Constitucional, vituperando uma decisão quando não \nconcorda com ela. Isso, com o Partido Social Democrata, Sr. Deputado, não acontece. \nPortanto, considero que a sua foi uma intervenção dirigida sobretudo, neste momento pré-orçamental, à \nbancada do Partido Socialista. O Partido Socialista tem estado num silêncio ensurdecedor sobre esta matéria. \nPortanto, o Partido Socialista tem, agora — juntamente com os dois grupos parlamentares que, ao que \ndizem, suportam as políticas do Governo —, de encontrar uma solução para este problema no próximo \nOrçamento do Estado. É responsabilidade do Partido Socialista, é responsabilidade deste Governo, é \nresponsabilidade dos grupos parlamentares que suportam este Governo resolver este problema. \nMas aquilo que nós não fazemos, Sr. Deputado, é, por um lado, dizer bem do Tribunal Constitucional, \nquando este, como alguém já disse, «apita» para o lado que mais nos convém, e, por outro, vituperar, difamar \no Tribunal Constitucional, quando, por alguma razão, as decisões deste Tribunal não nos agradam. Isso nós \nnão fazemos. \nE devo dizer-lhe, Sr. Deputado, que já cansa que o Bloco de Esquerda eleja, como único princípio eleitoral, \ncomo único princípio político que rege a sua atividade, um populismo, do qual, sinceramente, Sr. Deputado, o \npovo português já está farto."
+    },
+    {
+      "utterance_id": 172,
+      "order": 172,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Jorge Costa."
+    },
+    {
+      "utterance_id": 173,
+      "order": 173,
+      "page_start": 26,
+      "speaker": {
+        "id": 2052,
+        "name": "Jorge Duarte Gonçalves Da Costa",
+        "party": "BE",
+        "string": "O Sr. Jorge Duarte Costa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado José Luís Ferreira, conhecemos o \nTribunal Constitucional. Juntos já lhe batemos à porta várias vezes para defender os direitos que a \nConstituição da República Portuguesa prevê e que foram, como nunca, violados e violentados ao longo dos \núltimos quatro anos, sob a governação da direita, que, hoje, descobriu as maravilhas da Rua do Século."
+    },
+    {
+      "utterance_id": 174,
+      "order": 174,
+      "page_start": 27,
+      "speaker": {
+        "id": 2107,
+        "name": "Miguel Ferreira Morgado",
+        "party": "PSD",
+        "string": "O Sr. Miguel Morgado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O quê?!"
+    },
+    {
+      "utterance_id": 175,
+      "order": 175,
+      "page_start": 27,
+      "speaker": {
+        "id": 2052,
+        "name": "Jorge Duarte Gonçalves Da Costa",
+        "party": "BE",
+        "string": "O Sr. Jorge Duarte Costa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Lembramo-nos de Passos Coelho dizendo que o País não podia viver \nem permanente sobressalto constitucional. Pois claro, estavam em causa os salários da função pública, estava \nem causa o Estado social, estavam em causa as pensões constituídas por descontos dos trabalhadores e, \npara esses e essas, não há Constituição da República Portuguesa que lhes possa valer, e o Tribunal \nConstitucional estava a mais!"
+    },
+    {
+      "utterance_id": 176,
+      "order": 176,
+      "page_start": 27,
+      "speaker": {
+        "id": 1965,
+        "name": "Carlos Eduardo Almeida De Abreu Amorim",
+        "party": "PSD",
+        "string": "O Sr. Carlos Abreu Amorim (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é verdade!"
+    },
+    {
+      "utterance_id": 177,
+      "order": 177,
+      "page_start": 27,
+      "speaker": {
+        "id": 2052,
+        "name": "Jorge Duarte Gonçalves Da Costa",
+        "party": "BE",
+        "string": "O Sr. Jorge Duarte Costa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas, hoje, como se trata de manter privilégios absurdos que foram \natribuídos e que se mantêm hoje, que o Tribunal Constitucional resolveu manter em vigor, o aplauso das \nbancadas da direita está aí,…"
+    },
+    {
+      "utterance_id": 178,
+      "order": 178,
+      "page_start": 27,
+      "speaker": {
+        "id": 1965,
+        "name": "Carlos Eduardo Almeida De Abreu Amorim",
+        "party": "PSD",
+        "string": "O Sr. Carlos Abreu Amorim (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não, não. Não é verdade!"
+    },
+    {
+      "utterance_id": 179,
+      "order": 179,
+      "page_start": 27,
+      "speaker": {
+        "id": 2052,
+        "name": "Jorge Duarte Gonçalves Da Costa",
+        "party": "BE",
+        "string": "O Sr. Jorge Duarte Costa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… o aplauso para o Tribunal Constitucional está aí e toda a gente sabe \nver o contraste."
+    },
+    {
+      "utterance_id": 180,
+      "order": 180,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado António \nFilipe."
+    },
+    {
+      "utterance_id": 181,
+      "order": 181,
+      "page_start": 27,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Jorge Costa, creio que o essencial aqui é que \nas questões de fundo sejam salientadas. O PCP sempre foi contra a existência das subvenções vitalícias para \nos titulares de cargos políticos, votou contra a sua introdução em 1984, nesta Assembleia, sempre defendeu a \nsua revogação e votou favoravelmente, obviamente, quando, em 2005, esta Assembleia decidiu acabar com \nas subvenções vitalícias. \nPosto isto, importa dizer que, como é óbvio, discordamos da decisão que foi tomada pelo Tribunal \nConstitucional relativamente à norma constante do Orçamento do Estado, cuja fiscalização lhe foi suscitada, e \ntambém que a única proposta alternativa à proposta apresentada nesta Assembleia, aquando da discussão do \nOrçamento do Estado, foi precisamente a do Grupo Parlamentar do PCP. Mas não é isto que agora está em \ndiscussão. O que efetivamente importa neste momento é assinalar a nossa discordância de sempre, \nrelativamente à existência das subvenções vitalícias. \nMas também é preciso dizer que as decisões do Tribunal Constitucional, como, aliás, o Sr. Deputado disse, \nestão obviamente sujeitas à crítica e opinião democrática — foi a expressão que o Sr. Deputado utilizou. \nMuitas decisões tomadas pelo Tribunal Constitucional tiveram a nossa discordância, tiveram!, e \nmanifestámo-la sempre que discordámos das decisões do Tribunal Constitucional, mas sempre o respeitámos."
+    },
+    {
+      "utterance_id": 182,
+      "order": 182,
+      "page_start": 28,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não sei como é que se governa contra a Constituição!"
+    },
+    {
+      "utterance_id": 183,
+      "order": 183,
+      "page_start": 28,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Lembro-me de uma discussão acalorada que tive com a Sr.ª Deputada \nTeresa Leal Coelho, quando a Sr.ª Deputada defendeu publicamente que deveria haver sanções jurídicas \ncontra os juízes do Tribunal Constitucional."
+    },
+    {
+      "utterance_id": 184,
+      "order": 184,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 185,
+      "order": 185,
+      "page_start": 28,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quem tiver alguma memória lembrar-se-á disso! \nMas, Srs. Deputados, também criticamos que, perante esta decisão, haja dois pesos e duas medidas."
+    },
+    {
+      "utterance_id": 186,
+      "order": 186,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Esgotou o seu tempo, Sr. Deputado. Faça favor de concluir."
+    },
+    {
+      "utterance_id": 187,
+      "order": 187,
+      "page_start": 28,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou terminar de imediato, Sr. Presidente. \nAchamos que pessoas com responsabilidades políticas não podem qualificar de vergonhosa esta decisão, \nporque não concordam com ela, ou dizer que o Tribunal Constitucional é um colégio de elite que decide em \ncausa própria. \nAssim como criticámos no passado posições que consideramos inadequadas relativamente ao Tribunal \nConstitucional, também criticamos posições recentemente tomadas por responsáveis políticos que se \npronunciaram de uma forma que consideramos democraticamente inadequada perante esta decisão do \nTribunal Constitucional. Não podemos ter aqui dois pesos e duas medidas."
+    },
+    {
+      "utterance_id": 188,
+      "order": 188,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Filipe Neto \nBrandão."
+    },
+    {
+      "utterance_id": 189,
+      "order": 189,
+      "page_start": 28,
+      "speaker": {
+        "id": 2004,
+        "name": "Carlos Filipe De Andrade Neto Brandão",
+        "party": "PS",
+        "string": "O Sr. Filipe Neto Brandão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, o Sr. Deputado Jorge Costa entendeu trazer aqui, ao \nPlenário, a matéria das subvenções de titulares de cargos políticos e o recente Acórdão n.º 3/2016, do \nTribunal Constitucional. \nDevo dizer-lhe, Sr. Deputado, que nenhuma abordagem séria sobre esta matéria pode escamotear a \ncircunstância de ter sido um governo do Partido Socialista a propor o fim das subvenções. \nFoi uma proposta de lei de um governo do Partido Socialista, aprovada no Conselho de Ministros, a 8 de \njunho de 2015, que veio a originar, como sabe, a Lei n.º 52/2005, já referida nesta Casa. \nPortanto, Sr. Deputado, tais subvenções terminaram para os cargos cujos mandatos decorriam em 2005 e \nnão existem esses privilégios desde então, para usar a sua terminologia."
+    },
+    {
+      "utterance_id": 190,
+      "order": 190,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 191,
+      "order": 191,
+      "page_start": 29,
+      "speaker": {
+        "id": 2004,
+        "name": "Carlos Filipe De Andrade Neto Brandão",
+        "party": "PS",
+        "string": "O Sr. Filipe Neto Brandão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas, devo dizer, alimentar a ideia de que a decisão do Tribunal \nConstitucional, de algum modo, repôs esses benefícios é uma ideia falsa e demagógica que não pode deixar \nde ser denunciada. \nE é certo o que o Sr. Deputado referiu do alto da tribuna, que agora não era uma questão de lei, era uma \nquestão entregue aos tribunais, era uma decisão judicial. Ora, sendo uma decisão judicial, há uma dupla \nconsideração que eu gostava de fazer: primeiro, não me compete, não compete a nenhum de nós, fazer a \ndefesa do Acórdão do Tribunal Constitucional, desde logo porque o Sr. Presidente não é particularmente hábil \na fazê-lo;…"
+    },
+    {
+      "utterance_id": 192,
+      "order": 192,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ei!…"
+    },
+    {
+      "utterance_id": 193,
+      "order": 193,
+      "page_start": 29,
+      "speaker": {
+        "id": 2004,
+        "name": "Carlos Filipe De Andrade Neto Brandão",
+        "party": "PS",
+        "string": "O Sr. Filipe Neto Brandão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… depois e sobretudo, porque os princípios do Estado de direito \nimpõem o princípio da separação de poderes e o respeito pela independência do Tribunal Constitucional, \ncomo de todos os tribunais. \nDevo dizer-lhe que respeito o Tribunal Constitucional quando concordo com as suas decisões do mesmo \nmodo que o respeito quando discordo das suas decisões."
+    },
+    {
+      "utterance_id": 194,
+      "order": 194,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 195,
+      "order": 195,
+      "page_start": 29,
+      "speaker": {
+        "id": 2004,
+        "name": "Carlos Filipe De Andrade Neto Brandão",
+        "party": "PS",
+        "string": "O Sr. Filipe Neto Brandão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E a última coisa que eu gostaria de saber, como o Sr. Deputado \nAntónio Filipe acaba de referir, era se o Sr. Deputado Jorge Costa tenciona replicar a deplorável posição de \nentão do PSD, pela voz de uma sua então Vice-Presidente, que, relativamente à discordância manifestada \npelo Tribunal Constitucional, propunha, inclusive, ponderar sanções jurídicas, dizendo que, se os juízes não \naceitassem a crítica, não tinham condições para exercer o cargo. Este não é um modo de respeitar a \nindependência do Tribunal Constitucional e, portanto, Sr. Deputado, pergunto: que crítica faz ao Tribunal \nConstitucional?"
+    },
+    {
+      "utterance_id": 196,
+      "order": 196,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Nuno \nMagalhães."
+    },
+    {
+      "utterance_id": 197,
+      "order": 197,
+      "page_start": 29,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Jorge Costa, vamos diretos à questão \nde fundo. \nO CDS é contra a existência de pensões vitalícias. Votou a suspensão feita pelo anterior Governo na \nanterior maioria. Não assinou a proposta de reposição, não concordou com essa reposição. Fez força para \nque fosse retirada, aquando do Orçamento do Estado para 2015, e essa mesma proposta foi retirada. Já que \nestamos em matéria de apelo à memória, recordo que foi precisamente a anterior maioria e o anterior Governo \nque acabaram com as pensões vitalícias, que as suspenderam, que, de resto, vigoraram até esta decisão do \nTribunal Constitucional. \nSr. Deputado, por falar disso, não deixa de ser extraordinário que o Bloco de Esquerda venha agora atirar-\nse ao Tribunal Constitucional quando, nos últimos quatro anos, fizeram do Tribunal Constitucional o alfa e o as\nómega da vossa política. VV. Ex. diziam que qualquer pessoa que criticasse uma decisão do Tribunal \nConstitucional estava a ir contra as instituições democráticas e contra a Constituição."
+    },
+    {
+      "utterance_id": 198,
+      "order": 198,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 199,
+      "order": 199,
+      "page_start": 29,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Onde é que está esse Bloco de Esquerda?!"
+    },
+    {
+      "utterance_id": 200,
+      "order": 200,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem de concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 201,
+      "order": 201,
+      "page_start": 30,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou concluir, Sr. Presidente. \nCom essa posição do Bloco de Esquerda percebe-se bem o que é o Bloco de Esquerda: quando dá jeito, \ndefende uma coisa; quando não já jeito, critica os outros e, mais do que isso, insulta os outros. \nAs atitudes ficam para quem as pratica!"
+    },
+    {
+      "utterance_id": 202,
+      "order": 202,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Jorge Duarte Costa."
+    },
+    {
+      "utterance_id": 203,
+      "order": 203,
+      "page_start": 30,
+      "speaker": {
+        "id": 2052,
+        "name": "Jorge Duarte Gonçalves Da Costa",
+        "party": "BE",
+        "string": "O Sr. Jorge Duarte Costa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é curioso encontrar nesta Câmara tantas vozes que \nreconhecem o direito democrático à crítica ao Tribunal Constitucional como instituição e tão poucas dispostas \na reconhecer a pertinência da crítica quando ela é efetivamente exercida. \nSe alguém expressa a divergência para com uma decisão do Tribunal Constitucional — e foi o caso da \ncandidata às presidenciais apoiada pelo Bloco de Esquerda, Marisa Matias —, ela distingue-se por ter \napresentado uma posição clara de discordância com o resultado de uma sentença do Tribunal Constitucional."
+    },
+    {
+      "utterance_id": 204,
+      "order": 204,
+      "page_start": 30,
+      "speaker": {
+        "id": 1965,
+        "name": "Carlos Eduardo Almeida De Abreu Amorim",
+        "party": "PSD",
+        "string": "O Sr. Carlos Abreu Amorim (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Insultuosa!"
+    },
+    {
+      "utterance_id": 205,
+      "order": 205,
+      "page_start": 30,
+      "speaker": {
+        "id": 2052,
+        "name": "Jorge Duarte Gonçalves Da Costa",
+        "party": "BE",
+        "string": "O Sr. Jorge Duarte Costa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Foi uma posição diferente, não incomodada, não de um silêncio \ncomprometido, como foi a de outros candidatos apoiados pelos partidos que instituíram e que beneficiaram ao \nlongo dos anos destas prestações de privilégio."
+    },
+    {
+      "utterance_id": 206,
+      "order": 206,
+      "page_start": 30,
+      "speaker": {
+        "id": 2107,
+        "name": "Miguel Ferreira Morgado",
+        "party": "PSD",
+        "string": "O Sr. Miguel Morgado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E que nós cortámos!"
+    },
+    {
+      "utterance_id": 207,
+      "order": 207,
+      "page_start": 30,
+      "speaker": {
+        "id": 2052,
+        "name": "Jorge Duarte Gonçalves Da Costa",
+        "party": "BE",
+        "string": "O Sr. Jorge Duarte Costa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E essa diferença faz toda a diferença. \nÉ por isso mesmo que, mais do que as razões da nossa divergência para com a sentença do Tribunal \nConstitucional, que anunciamos sem pruridos, o que hoje está em cima da mesa é a motivação de quem a ele \nrecorreu e de quem a ele se dirigiu para repor na íntegra, sem qualquer motivo que o sustente — e estamos a \nfalar de pessoas com rendimentos mensais acima de 2000 €, que não sofrem qualquer espécie de carência \neconómica —, um privilégio injustificado que corresponde ao exercício da função legislativa no passado. Trata-\nse de um privilégio que a Assembleia da República decidiu cessar e é esse pedido de fiscalização que tanto"
+    },
+    {
+      "utterance_id": 208,
+      "order": 208,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para fazer uma declaração política, o Sr. Deputado Abel \nBaptista. \nas"
+    },
+    {
+      "utterance_id": 209,
+      "order": 209,
+      "page_start": 31,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. e Srs. Deputados: Governar não é reverter. \nGovernar é programar. Governar é construir, é ter projetos para o futuro. É assim que deve ser. \nCom o atual Governo isso não acontece e a fúria destrutiva e de reversão é uma mania, mania que chegou \ntambém à agricultura e ao mundo rural. \nÉ um erro grave a decisão do atual Governo de suspender a reprogramação do Programa de \nDesenvolvimento Rural 2014-2020 (PDR 2020). É um erro grave porque prejudica gravemente os agricultores, \na agricultura, o mundo rural, a economia nacional e o emprego. \nPortugal, em setembro de 2015, comprometeu-se, interna e externamente, a proceder à reprogramação do \nPDR 2020. O Governo PSD/CDS tinha a agricultura e o desenvolvimento rural como uma prioridade. \nO Governo português decidiu reforçar as verbas para agricultura e comprometeu-se com Bruxelas, \nsolicitando a reprogramação do PDR. \nO Partido Socialista e o atual Governo têm um compromisso com a extrema-esquerda e desvalorizam os \nagricultores, a agricultura e o mundo rural. Nós, CDS e PSD, tínhamos um compromisso com os agricultores, a \nagricultura, o mundo rural, a economia e o emprego. \nCada um faz as suas escolhas, infelizmente, as escolhas não são neutras e prejudicam Portugal, no caso \ndo Partido Socialista."
+    },
+    {
+      "utterance_id": 210,
+      "order": 210,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 211,
+      "order": 211,
+      "page_start": 31,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nós comprometemo-nos (interna e externamente) a reforçar o PDR com \n40 milhões de euros por ano, assegurando o pagamento total das medidas agroambientais, que tiveram uma \nadesão extraordinária, e o investimento resultante das candidaturas apresentadas. \nNós tínhamos um compromisso com o investimento. O Partido Socialista e o Governo decidiram, ao invés, \nnão colocar as verbas necessárias para garantirem o investimento dos agricultores. \nO facto é que o Partido Socialista e o Governo não dão o mesmo valor à agricultura e ao mundo rural que \nnós demos, e continuamos a dar. \nCom a suspensão da reprogramação que o Governo fez, é necessário que se explique ao sector quem vai \nperder as verbas: se as medidas agroambientais, se os projetos de investimento. \nO Partido Socialista diz uma coisa em campanha e faz outra bem diferente no Governo. \nO candidato a Deputado Capoulas Santos, em setembro do ano transato, quando confrontado com a \nreprogramação do PDR 2020, disse que, se o PS formasse governo, pagaria com gosto a fatura — repito, \npagaria com gosto a fatura! — …"
+    },
+    {
+      "utterance_id": 212,
+      "order": 212,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 213,
+      "order": 213,
+      "page_start": 31,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… dos 200 milhões de euros da reprogramação que o Governo \nPSD/CDS apresentou em Bruxelas. Mas o agora Ministro da Agricultura Capoulas Santos vem dizer que não \nserá essa a sua reprogramação, sem explicar como fará diferente e quais as suas opções."
+    },
+    {
+      "utterance_id": 214,
+      "order": 214,
+      "page_start": 32,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 215,
+      "order": 215,
+      "page_start": 32,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Partido Socialista e o Governo não dão peso político ao sector. Aliás, \nessa é uma tradição que não foi quebrada numa altura em que o Partido Socialista quebrou tantas tradições. \nQue a agricultura não era uma prioridade para o PS já sabíamos, foi dito pelo militante socialista Capoulas \nSantos em 2014, quando ficou excluído das listas do Partido Socialista ao Parlamento Europeu, numa \nentrevista."
+    },
+    {
+      "utterance_id": 216,
+      "order": 216,
+      "page_start": 32,
+      "speaker": {
+        "id": 1965,
+        "name": "Carlos Eduardo Almeida De Abreu Amorim",
+        "party": "PSD",
+        "string": "O Sr. Carlos Abreu Amorim (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 217,
+      "order": 217,
+      "page_start": 32,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para justificar a sua não inclusão nas referidas listas, confessou, e cito: \n«Disseram-me que a área em que eu trabalho…», a agricultura, «… não constitui uma prioridade». \nConnosco a agricultura foi, é e será sempre uma prioridade. \nConnosco, o PDR foi executado a 100% e dentro dos prazos; convosco, Partido Socialista, a execução foi \nde 28% em quatro dos nove anos do Programa. \nConnosco, o parcelário foi corrigido; convosco, Partido Socialista, Portugal pagava todos os anos multas a \nBruxelas, que atingiram mais de 235 milhões de euros. \nConnosco, Portugal não devolveu verbas a Bruxelas, nem foram aplicadas multas por incumprimento. \nConnosco, reforçámos verbas na agricultura, como, por exemplo, em 2011, em que colocámos 50 milhões \nde euros a mais do que o PS tinha colocado no Orçamento do Estado; convosco, Partido Socialista, há a \nsuspensão da reprogramação e os agricultores vão perder apoios ou nas medidas agroambientais ou no \ninvestimento. \nConnosco, foi feita uma boa negociação da PAC (Política Agrícola Comum) para Portugal. Em 2005, com \nas negociações feitas pelo Partido Socialista, com menos países e mais orçamento, Portugal perdeu 12%. Em \n2014, no momento em que havia mais países e menos orçamento comunitário, Portugal teve uma redução de \napenas 8% e melhorou a sua posição relativa nas verbas da PAC. \nConnosco, foram abertos mais 71 novos mercados de exportação para o sector agroalimentar, o que \npossibilitou o aumento, todos os anos, das exportações, que foram sempre superiores ao que se verificava na \neconomia geral. \nConnosco, foi possível renegociar com Bruxelas o financiamento de Alqueva, obtendo 200 milhões de \neuros dos fundos de coesão, libertando esse montante do PRODER (Programa de Desenvolvimento Rural) \npara outros investimentos agrícolas. \nConnosco, a agricultura tinha peso político; convosco, com o PS, não tem. \nNós transmitíamos confiança aos agricultores; o Partido Socialista e o Governo transmitem instabilidade e \nreceio aos agricultores e investidores. \nNós negociávamos e conseguíamos verbas para a agricultura; o Partido Socialista e o Governo desistem \nde negociar, desistem de reprogramar, apenas revertem e destroem."
+    },
+    {
+      "utterance_id": 218,
+      "order": 218,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, encontram-se inscritos, para pedir esclarecimentos, três \nSrs. Deputados. Pergunto: como é que pretende responder?"
+    },
+    {
+      "utterance_id": 219,
+      "order": 219,
+      "page_start": 33,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Individualmente, Sr. Presidente."
+    },
+    {
+      "utterance_id": 220,
+      "order": 220,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sendo assim, tem a palavra o Sr. Deputado Carlos Matias."
+    },
+    {
+      "utterance_id": 221,
+      "order": 221,
+      "page_start": 33,
+      "speaker": {
+        "id": 1967,
+        "name": "Carlos Manuel Godinho Matias",
+        "party": "BE",
+        "string": "O Sr. Carlos Matias (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Abel Baptista, em 2015, o Ministério da \nAgricultura da responsabilidade da então Ministra Assunção Cristas comprometeu a quase totalidade das \nverbas destinadas às medidas agroalimentares até 2020. É essa irresponsabilidade pré-eleitoral que o atual \nGoverno tem hoje de enfrentar."
+    },
+    {
+      "utterance_id": 222,
+      "order": 222,
+      "page_start": 33,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ai sim?!"
+    },
+    {
+      "utterance_id": 223,
+      "order": 223,
+      "page_start": 33,
+      "speaker": {
+        "id": 1967,
+        "name": "Carlos Manuel Godinho Matias",
+        "party": "BE",
+        "string": "O Sr. Carlos Matias (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado Abel Baptista veio aqui, mais uma vez, com essa \nargumentação — pois já é a segunda vez que a ouço,…"
+    },
+    {
+      "utterance_id": 224,
+      "order": 224,
+      "page_start": 33,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tem de habituar-se! \n\nO Sr. Paulo Portas (CDS-PP) — Há de ouvir 20!"
+    },
+    {
+      "utterance_id": 225,
+      "order": 225,
+      "page_start": 33,
+      "speaker": {
+        "id": 1967,
+        "name": "Carlos Manuel Godinho Matias",
+        "party": "BE",
+        "string": "O Sr. Carlos Matias (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e ouço-a sempre com agrado — e continua sem responder à pergunta que \nlhe coloquei, e que vou colocar de novo. \n\nO Sr. Deputado Abel Baptista e o seu Grupo Parlamentar defendem que não deve ser retirada nenhuma \nverba dos 200 milhões de euros destinados à reprogramação dos investimentos na agricultura. Pergunto: de \nonde vêm esses 200 milhões de euros? Se o CDS hoje fosse Governo, onde é que iria buscar esse dinheiro?"
+    },
+    {
+      "utterance_id": 226,
+      "order": 226,
+      "page_start": 33,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Onde fomos sempre!"
+    },
+    {
+      "utterance_id": 227,
+      "order": 227,
+      "page_start": 33,
+      "speaker": {
+        "id": 1967,
+        "name": "Carlos Manuel Godinho Matias",
+        "party": "BE",
+        "string": "O Sr. Carlos Matias (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ao orçamento da saúde? Ao orçamento da educação? Às reformas e às \npensões, como fez durante quatro anos? Era aí que o CDS ia buscar esses 200 milhões de euros ao longo \ndos próximos anos? \nFoi à resposta a esta pergunta, que já coloquei em comissão, que o senhor airosamente fugiu, mas coloco-\na de novo: aonde é que o CDS iria buscar os 200 milhões de euros?"
+    },
+    {
+      "utterance_id": 228,
+      "order": 228,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveu-se, a destempo, para pedir esclarecimentos, mais um Sr. \nDeputado, cuja inscrição a Mesa aceitou. No entanto, lembro que as inscrições devem ser feitas sempre até \nao final da intervenção do orador. \nPara responder, tem a palavra o Sr. Deputado Abel Baptista."
+    },
+    {
+      "utterance_id": 229,
+      "order": 229,
+      "page_start": 34,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Carlos Matias, em primeiro lugar, o Sr. \nDeputado, deixe-me dizer, está a confundir algumas coisas, porque nós não estamos a falar de medidas de \napoio agroalimentares mas, sim, de medidas de apoio à agricultura. É a estas medidas que nos estamos a \nreferir."
+    },
+    {
+      "utterance_id": 230,
+      "order": 230,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não estudam!"
+    },
+    {
+      "utterance_id": 231,
+      "order": 231,
+      "page_start": 34,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em política, sobretudo quando se governa, a decisão é uma opção \npolítica."
+    },
+    {
+      "utterance_id": 232,
+      "order": 232,
+      "page_start": 34,
+      "speaker": {
+        "id": 1967,
+        "name": "Carlos Manuel Godinho Matias",
+        "party": "BE",
+        "string": "O Sr. Carlos Matias (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Qual é a sua?"
+    },
+    {
+      "utterance_id": 233,
+      "order": 233,
+      "page_start": 34,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É uma decisão que se toma em determinado sentido."
+    },
+    {
+      "utterance_id": 234,
+      "order": 234,
+      "page_start": 34,
+      "speaker": {
+        "id": 1967,
+        "name": "Carlos Manuel Godinho Matias",
+        "party": "BE",
+        "string": "O Sr. Carlos Matias (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Qual é a vossa?"
+    },
+    {
+      "utterance_id": 235,
+      "order": 235,
+      "page_start": 34,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "No caso do CDS, nós tomámos medidas com vista à criação de \nemprego, à reformulação da economia, ao aumento da riqueza e ao aumento da produção. \nNo vosso caso, o Bloco de Esquerda, normalmente, toma medidas para repor viagens gratuitas aos \nfuncionários da CP (Comboios de Portugal), para a reversão das concessões dos transportes públicos,… \n… para pagamentos de serviços, que, no final, serão pagos pelos contribuintes que, na sua maior parte, \nnem sequer os utilizam. \nÉ uma opção do Bloco de Esquerda, não é opção do CDS! A opção do CDS é pela produção, pela \neconomia, pelo desenvolvimento rural, pela agricultura. Esta é efetivamente a opção, e esses 200 milhões de \neuros, se o CDS estivesse no governo, estariam no Programa para o investimento, estariam no Orçamento do \nEstado."
+    },
+    {
+      "utterance_id": 236,
+      "order": 236,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Maurício \nMarques."
+    },
+    {
+      "utterance_id": 237,
+      "order": 237,
+      "page_start": 34,
+      "speaker": {
+        "id": 2106,
+        "name": "Maurício Teixeira Marques",
+        "party": "PSD",
+        "string": "O Sr. Maurício Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Abel Baptista, começo por cumprimentá-lo \npor ter trazido um tema tão importante e atual ao Plenário da Assembleia da República. \nA atuação do atual Governo poderá comprometer o desenvolvimento de um sector que nos últimos anos \nconstituiu fonte de inspiração em termos de crescimento e inovação. \nRecentes notícias publicadas podem vir a defraudar as expetativas legítimas dos milhares de agricultores e \nprodutores agrícolas que se habituaram a ver no Estado um aliado, uma pessoa de bem e cumpridora das \nsuas obrigações."
+    },
+    {
+      "utterance_id": 238,
+      "order": 238,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 239,
+      "order": 239,
+      "page_start": 34,
+      "speaker": {
+        "id": 2106,
+        "name": "Maurício Teixeira Marques",
+        "party": "PSD",
+        "string": "O Sr. Maurício Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "De facto, a reprogramação do PDR 2020, anunciada pelo atual \nGoverno, com uma eventual diminuição da verba nacional face ao reforço anunciado, poderá ter graves"
+    },
+    {
+      "utterance_id": 240,
+      "order": 240,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Esgotou o seu tempo, Sr. Deputado."
+    },
+    {
+      "utterance_id": 241,
+      "order": 241,
+      "page_start": 35,
+      "speaker": {
+        "id": 2106,
+        "name": "Maurício Teixeira Marques",
+        "party": "PSD",
+        "string": "O Sr. Maurício Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Termino já, Sr. Presidente. \nSerá que o Governo, que está disponível para aumentar a despesa não reprodutiva, não consegue \nadicionar ao PDR 40 milhões até 2020?! \nSr. Deputado, gostaria de perguntar se considera ou não que a política do anterior Governo, que introduziu \numa maior segurança e previsibilidade na atividade agrícola e nos seus investimentos através dos \npagamentos comunitários a tempo e horas, foi essencial para os resultados económicos do sector. \nSr. Deputado, que mecanismo defende para que se continue a registar o aumento no investimento e nas \nexportações agroalimentares?"
+    },
+    {
+      "utterance_id": 242,
+      "order": 242,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Abel Baptista."
+    },
+    {
+      "utterance_id": 243,
+      "order": 243,
+      "page_start": 35,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, muito obrigado, Sr. Deputado Maurício Marques, pelas \nsuas questões. \nEfetivamente, nos últimos quatro anos, a agricultura portuguesa passou a estar não só nas prioridades do \nGoverno, como nas prioridades da economia. \nO complexo agroalimentar foi crescendo todos os anos a um ritmo superior ao do crescimento da economia \nem geral. Cresceram as exportações e diminuíram as importações; cresceu a taxa de emprego e o número de \nnovos agricultores instalados, sobretudo, vários jovens agricultores, trazendo nova energia e nova dinâmica ao \nsector, diminuindo o nível etário da mão-de-obra agrícola em Portugal, o que valoriza não só a agricultura \ncomo lhe dá uma nova dinâmica, que era aquilo que se queria. Aliás, constava do nosso Programa do \nGoverno, e não poderemos deixar de o defender permanentemente, que até 2020 iríamos atingir o equilíbrio, \nem termos de balança corrente, entre as importações e as exportações no que diz respeito ao sector agrícola, \ne isto estava a verificar-se a um nível superior àquele que inicialmente tínhamos previsto."
+    },
+    {
+      "utterance_id": 244,
+      "order": 244,
+      "page_start": 35,
+      "speaker": {
+        "id": 2046,
+        "name": "João Augusto Espadeiro Ramos",
+        "party": "PCP",
+        "string": "O Sr. João Ramos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estava a verificar-se como? Diga lá!"
+    },
+    {
+      "utterance_id": 245,
+      "order": 245,
+      "page_start": 35,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, essa era a forma que tínhamos encontrado para continuar a \ninvestir na agricultura. Essa foi a forma que utilizámos, não só na negociação da nova PAC, como na \nnegociação do PDR 2020, para conseguimos que houvesse apenas uma diminuição muito leve, comparado \ncom o que inicialmente estava previsto, e isso deveu-se ao trabalho feito pelo Governo anterior, em conjunto \ncom os Ministérios das Finanças e da Agricultura e com o apoio do Primeiro-Ministro, que agora, neste \nmomento, não se verifica. Por isso, tememos que venha a haver uma queda significativa naquela que é a \natividade agrícola."
+    },
+    {
+      "utterance_id": 246,
+      "order": 246,
+      "page_start": 35,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 247,
+      "order": 247,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado João \nRamos."
+    },
+    {
+      "utterance_id": 248,
+      "order": 248,
+      "page_start": 36,
+      "speaker": {
+        "id": 2046,
+        "name": "João Augusto Espadeiro Ramos",
+        "party": "PCP",
+        "string": "O Sr. João Ramos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Abel Baptista, começo por dizer que o Grupo \nParlamentar do PCP não acompanhará as opções que passem por reduzir as verbas para a agricultura, tal \ncomo não acompanhou o Governo PSD/CDS, que o senhor apoiou, quando, após ter tomado posse, reduziu \n150 milhões de euros no PRODER para as políticas florestais. \n\nO Sr. Deputado veio aqui dizer que o CDS e o PSD reforçaram as verbas para a agricultura, mas foi o \npróprio CDS que, na audição do Sr. Ministro da Agricultura realizada esta semana, disse que, afinal, não havia \ninstrumentos nem orçamentais nem provisionais que suportassem essa alteração. Foi o CDS que disse na \naudição que o este aumento era baseado numa conversa entre o Sr. Primeiro-Ministro, a Sr.ª Ministra das \nFinanças e a Sr.ª Ministra da Agricultura do anterior Governo. Foi esta «troica» que decidiu o aumento das \nverbas, mas sem terem instrumentos e suportes. Foi o próprio CDS que o disse nessa audição em comissão. \nSr. Deputado, também gostava que nos dissesse se é ou não verdade que, antes das eleições, o Ministério \nda Agricultura, do CDS, manteve as candidaturas abertas em permanência, esgotando as verbas disponíveis \nnas medidas agroambientais não só para o ano de 2016 como para todo o Programa, colocando \ncomprometimentos na execução destes programas. Foi isso que foi dito e os senhores também confirmaram \nque era uma boa medida o manter em aberto as candidaturas. \nMas o Sr. Deputado veio aqui com o discurso que, agora, a direita costuma usar: «Estava tudo muito bem e \nos senhores vêm agora estragar tudo!». \nGostava de o lembrar o bem que está em alguns sectores aquilo que os senhores fizeram, o que convosco \naconteceu. \nO que convosco aconteceu no Ministério foi que uma, e apenas uma, confederação mandava em todo o \nMinistério. \nO que os senhores fizeram em quatro anos foi fazer desaparecer 100 000 empregos no sector agrícola. \nO que os senhores fizeram foi colocar o sector leiteiro, agora, a passar por enormes dificuldades; só em \n2015 desapareceram 8% das explorações e há muito que os produtores de leite estão a vender abaixo dos \ncustos de produção. \nO que os senhores fizeram foi colocar o sector da suinicultura hoje sem perspetivas, como podemos ouvir \nnas reuniões da Comissão de Agricultura e Mar. \nPortanto, neste momento temos um nível de autossuficiência de 60% quando já tivemos mais de 90%, e \ndizem-nos que dentro de pouco tempo poderemos chegar aos 30%, porque, também neste sector, se está a \nvender abaixo dos custos de produção. \nTanto num sector como noutro a grande distribuição continua a asfixiar os preços, continua a fazer \nimportações para fazer baixar os preços em Portugal e os senhores não conseguiram pôr mão na grande \ndistribuição. Não conseguiram, nomeadamente, alterar a forma como é distribuído o valor ao longo da cadeia, \nem que a grande distribuição fica com 75% do valor da cadeia agroalimentar. \nO que os senhores fizeram foi obrigar os agricultores mais pequenos a inscreverem-se nas finanças. \nO que os senhores fizeram foi permitir que o olival intensivo, superintensivo, e o milho transgénico \npudessem aceder às medidas agroambientais, que são um suporte importante para os mais pequenos \nagricultores."
+    },
+    {
+      "utterance_id": 249,
+      "order": 249,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queira, por favor, concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 250,
+      "order": 250,
+      "page_start": 36,
+      "speaker": {
+        "id": 2046,
+        "name": "João Augusto Espadeiro Ramos",
+        "party": "PCP",
+        "string": "O Sr. João Ramos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou concluir, Sr. Presidente. \nPor isso, Sr. Deputado, os senhores não podem confundir o sucesso do agronegócio com o sucesso global \nda agricultura em Portugal."
+    },
+    {
+      "utterance_id": 251,
+      "order": 251,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, tem mesmo de concluir, por favor."
+    },
+    {
+      "utterance_id": 252,
+      "order": 252,
+      "page_start": 36,
+      "speaker": {
+        "id": 2046,
+        "name": "João Augusto Espadeiro Ramos",
+        "party": "PCP",
+        "string": "O Sr. João Ramos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E é isso que os senhores fazem. O agronegócio, que tanto apoiaram, é que \npoderá ter algum sucesso, porque a agricultura, em geral, infelizmente, tem muitas dificuldades."
+    },
+    {
+      "utterance_id": 253,
+      "order": 253,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Abel Baptista."
+    },
+    {
+      "utterance_id": 254,
+      "order": 254,
+      "page_start": 37,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, o Sr. Deputado João Ramos, nas suas questões, revela \nalgum desconhecimento e, em certa medida, até uma certa ignorância, no que diz respeito às perguntas que \nnos coloca."
+    },
+    {
+      "utterance_id": 255,
+      "order": 255,
+      "page_start": 37,
+      "speaker": {
+        "id": 2046,
+        "name": "João Augusto Espadeiro Ramos",
+        "party": "PCP",
+        "string": "O Sr. João Ramos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esclareça, Sr. Deputado!"
+    },
+    {
+      "utterance_id": 256,
+      "order": 256,
+      "page_start": 37,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Primeiro, revela alguma ignorância…"
+    },
+    {
+      "utterance_id": 257,
+      "order": 257,
+      "page_start": 37,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É ignorância, é!…"
+    },
+    {
+      "utterance_id": 258,
+      "order": 258,
+      "page_start": 37,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… no facto de vir dizer que nós abrimos em 2015 as candidaturas às \nagroambientais e que as esgotámos! \nO Sr. Deputado não sabe que as agroambientais têm de ter uma \ncandidatura para cinco anos? É para cinco anos que tem de ser feita a candidatura. Logo, ou fazíamos uma \ncandidaturazinha só para uns meses ou, então, tínhamos de a fazer como ela tinha de ser feita: para cinco \nanos! E tinha de ser feita para cinco anos. Portanto, isso só revela ignorância de como isto se faz! \nRevela também alguma falta de conhecimento, porque a nossa satisfação em termos de abastecimento, no \ncaso da suinicultura, não é de 60%, é um bocadinho mais, é de 80%. É de 80%!"
+    },
+    {
+      "utterance_id": 259,
+      "order": 259,
+      "page_start": 37,
+      "speaker": {
+        "id": 2046,
+        "name": "João Augusto Espadeiro Ramos",
+        "party": "PCP",
+        "string": "O Sr. João Ramos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é isso que é dito!"
+    },
+    {
+      "utterance_id": 260,
+      "order": 260,
+      "page_start": 37,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Revela alguma ignorância porque foi exatamente durante o Governo \nPSD/CDS que foi criada uma plataforma de autorregulação e de entendimento para haver distribuição ao \nlongo da cadeia. Foi a PARCA (Plataforma de Acompanhamento das Relações na Cadeia Agroalimentar), e foi \ncriada por nós, nunca antes tinha sido feito!"
+    },
+    {
+      "utterance_id": 261,
+      "order": 261,
+      "page_start": 37,
+      "speaker": {
+        "id": 2046,
+        "name": "João Augusto Espadeiro Ramos",
+        "party": "PCP",
+        "string": "O Sr. João Ramos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Resultados?"
+    },
+    {
+      "utterance_id": 262,
+      "order": 262,
+      "page_start": 37,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os resultados? Os resultados ainda são incipientes, mas já são alguns e \nestão a ser aproveitados. \nJá agora, que diz que foram retirados 150 milhões de euros do sector florestal, se calhar, convinha pedir \nalgum esclarecimento ao Partido Socialista, que foi quem desenhou o PRODER, quem o desenhou mal. Esses \n150 milhões de euros nunca foram aproveitados para a floresta, mas nós pegámos neles e disponibilizámo-los \nna agricultura."
+    },
+    {
+      "utterance_id": 263,
+      "order": 263,
+      "page_start": 37,
+      "speaker": {
+        "id": 2046,
+        "name": "João Augusto Espadeiro Ramos",
+        "party": "PCP",
+        "string": "O Sr. João Ramos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E a floresta continua a arder!"
+    },
+    {
+      "utterance_id": 264,
+      "order": 264,
+      "page_start": 37,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O senhor, que até é Deputado do Alentejo, se calhar, faltou-lhe dizer \nque conseguimos reprogramar a questão dos investimentos do Alqueva e ir buscar 200 milhões de euros ao \nfundo de coesão, libertando 200 milhões de euros do PRODER para a agricultura, para investir noutros \nsectores. E o senhor esqueceu-se de o dizer. Convinha também, por vezes, dizer alguma coisa sobre essa \nmatéria."
+    },
+    {
+      "utterance_id": 265,
+      "order": 265,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado António \nBorges."
+    },
+    {
+      "utterance_id": 266,
+      "order": 266,
+      "page_start": 38,
+      "speaker": {
+        "id": 1945,
+        "name": "António Manuel Leitão Borges",
+        "party": "PS",
+        "string": "O Sr. António Borges (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, começo, naturalmente, por saudar todo o Hemiciclo e por \ndizer ao Sr. Deputado Abel Baptista que — como, aliás, o CDS nos tem habituado — está de alguma forma \nem manobras e a aproveitar, sobretudo, alguma campanha de desinformação, que está na sua origem, para \ntentar passar uma ideia falsa e, provavelmente, atingir objetivos que têm a ver com o seu próprio partido e que \nnada têm a ver com a agricultura portuguesa. \nO Ministro da Agricultura já disse, repetidamente, que o Partido Socialista não irá desinvestir na agricultura, \nbem pelo contrário, irá apoiar ainda mais a pequena agricultura e os jovens agricultores. \nE, Sr. Deputado, recordo aqui o que, de alguma forma, são as palavras do meu antecessor na Comissão \nde Agricultura. Ele dizia da anterior Ministra da Agricultura que ela era adepta do grande e do bonito. Aquilo \nque se passou no PDR 2020 deu num grande buraco nas contas públicas, mas não tem nada de bonito aquilo \nque a antiga Ministra Conceição Cristas fez."
+    },
+    {
+      "utterance_id": 267,
+      "order": 267,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Conceição?!"
+    },
+    {
+      "utterance_id": 268,
+      "order": 268,
+      "page_start": 38,
+      "speaker": {
+        "id": 1945,
+        "name": "António Manuel Leitão Borges",
+        "party": "PS",
+        "string": "O Sr. António Borges (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Queria dizer que tudo o que está na origem desta polémica tem a ver, \ncomo se percebe, com um aproveitamento político que o Sr. Deputado Abel Batista tentou fazer de uma \ndecisão responsável do atual Ministro da Agricultura. Capoulas Santos decidiu suspender a reprogramação do \nPDR 2020 que a sua antecessora havia enviado para Bruxelas em setembro passado — estamos a falar de \num tempo de pré-campanha eleitoral — e que oneraria o Estado português em 200 milhões de euros sem que \no Governo tivesse tomado qualquer decisão nesse sentido, como, aliás, é exigível."
+    },
+    {
+      "utterance_id": 269,
+      "order": 269,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Atingiu o tempo, Sr. Deputado. Faça favor de concluir."
+    },
+    {
+      "utterance_id": 270,
+      "order": 270,
+      "page_start": 38,
+      "speaker": {
+        "id": 1945,
+        "name": "António Manuel Leitão Borges",
+        "party": "PS",
+        "string": "O Sr. António Borges (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como todos recordarão, foi uma decisão em plena campanha eleitoral: 200 \nmilhões sem qualquer cobertura orçamental e sem qualquer decisão de um ministro. \nIsto, aliás, é absolutamente sintomático e exemplificativo do que era o anterior Governo,…"
+    },
+    {
+      "utterance_id": 271,
+      "order": 271,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, tem mesmo de concluir."
+    },
+    {
+      "utterance_id": 272,
+      "order": 272,
+      "page_start": 38,
+      "speaker": {
+        "id": 1945,
+        "name": "António Manuel Leitão Borges",
+        "party": "PS",
+        "string": "O Sr. António Borges (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… sobretudo o Governo que criou a lei dos compromissos. \nA pergunta que quero deixar ao Sr. Deputado Abel Baptista é a seguinte: qual foi a decisão do Governo ou \no despacho de qualquer ministro do Governo, incluindo a Ministra das Finanças, que garantisse a participação \ne a comparticipação nacional numa decisão deste tipo?"
+    },
+    {
+      "utterance_id": 273,
+      "order": 273,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Abel Baptista, para responder."
+    },
+    {
+      "utterance_id": 274,
+      "order": 274,
+      "page_start": 39,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado António Borges, muito obrigado pela sua \nquestão, porque dá-me até a oportunidade de recordá-lo de algumas questões, nomeadamente uma \nmuitíssimo importante e muitíssimo grave: o senhor vem pedir socorro ao anterior Governo por não ter peso \npolítico no atual! \nO que o senhor está a pedir é que tivesse havido uma decisão do anterior Governo a autorizar o atual \nGoverno a fazer uma reprogramação que ele agora não tem peso político para fazer. \nÉ exatamente isto que o senhor vem pedir. \nRepare, o senhor até faz aqui uma afirmação que nem parece sua, Sr. Deputado António Borges. Nem \nparece sua! Não o conheci há muito tempo, mas já tinha ouvido falar de si e até pensei que tivesse um \nbocadinho mais de cuidado quando falava. O senhor vem dizer que não conhece qualquer decisão, nem \ndespacho, de qualquer ministro do anterior Governo?! Olhe, Sr. Deputado, está aqui, ao meu lado, a Sr.ª \nDeputada Assunção Cristas — e já agora aproveito para dizer que não é Conceição —,… \n… que foi quem fez o pedido de reprogramação para Bruxelas, concretamente ao Comissário Europeu da \nAgricultura, porque era ela, como Ministra da Agricultura, quem tinha de o fazer. \nPortanto, veja bem, se calhar não é, assim, tão simpático o senhor dizer isso. \n\nO Sr. Deputado veio regozijar-se com o facto de o Ministro da Agricultura ter parado a reprogramação?! \nVeio regozijar-se com o facto de se ter impedido que a agricultura portuguesa possa ter, não para despesa \nmas para investimento, para desenvolvimento, mais 200 milhões de euros?! \nOlhe que eu, se fosse a si, se calhar, daqui a algum tempo começaria a ter vergonha de defender estas \ndecisões deste Ministro, como muitos camaradas seus têm hoje vergonha de terem defendido decisões do \nMinistro Jaime Silva. Como sabe, muitos têm hoje vergonha de terem defendido posições do então Ministro \nJaime Silva, e ao senhor pode vir a acontecer-lhe a mesma coisa."
+    },
+    {
+      "utterance_id": 275,
+      "order": 275,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 276,
+      "order": 276,
+      "page_start": 39,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Olhe, Sr. Deputado, há uma coisa de que me orgulho: estou neste \nParlamento há 10 anos, vai a caminho de 11, e nunca nenhum agricultor me disse que eu estava a defender \nos interesses do meu partido, todos eles me disseram que eu defendia aqui os interesses da agricultura e dos \nagricultores portugueses."
+    },
+    {
+      "utterance_id": 277,
+      "order": 277,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe que conclua, Sr. Deputado."
+    },
+    {
+      "utterance_id": 278,
+      "order": 278,
+      "page_start": 39,
+      "speaker": {
+        "id": 1929,
+        "name": "Abel Lima Baptista",
+        "party": "CDS-PP",
+        "string": "O Sr. Abel Baptista (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quanto a manobras, Sr. Deputado, devo dizer que manobras é aquilo \nque muitos agricultores têm de fazer para conseguir pagar as contas ao final do mês. E quando recebem os \napoios a que têm direito não recebem nenhum favor, recebem apenas aquilo que lhes é devido. \nEspero que o Partido Socialista cumpra também, como nós sempre cumprimos, com eles. \nas"
+    },
+    {
+      "utterance_id": 279,
+      "order": 279,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. e Srs. Deputados, chegámos ao final das declarações políticas."
+    },
+    {
+      "utterance_id": 280,
+      "order": 280,
+      "page_start": 40,
+      "speaker": {
+        "id": 2050,
+        "name": "Joaquim Barroso De Almeida Barreto",
+        "party": "PS",
+        "string": "O Sr. Joaquim Barreto (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 281,
+      "order": 281,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 282,
+      "order": 282,
+      "page_start": 40,
+      "speaker": {
+        "id": 2050,
+        "name": "Joaquim Barroso De Almeida Barreto",
+        "party": "PS",
+        "string": "O Sr. Joaquim Barreto (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para uma interpelação à Mesa, Sr. Presidente."
+    },
+    {
+      "utterance_id": 283,
+      "order": 283,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Com que fundamento, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 284,
+      "order": 284,
+      "page_start": 40,
+      "speaker": {
+        "id": 2050,
+        "name": "Joaquim Barroso De Almeida Barreto",
+        "party": "PS",
+        "string": "O Sr. Joaquim Barreto (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Gostaríamos de saber qual foi a autorização que a Sr.ª Ministra das \nFinanças…"
+    },
+    {
+      "utterance_id": 285,
+      "order": 285,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, é para interpelar a Mesa ou é para interpelar o Sr. \nDeputado Abel Baptista?"
+    },
+    {
+      "utterance_id": 286,
+      "order": 286,
+      "page_start": 40,
+      "speaker": {
+        "id": 2050,
+        "name": "Joaquim Barroso De Almeida Barreto",
+        "party": "PS",
+        "string": "O Sr. Joaquim Barreto (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É para interpelar a Mesa e o Sr. Deputado Abel Baptista."
+    },
+    {
+      "utterance_id": 287,
+      "order": 287,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Não, Sr. Deputado. Não é a mesma coisa, peço desculpa."
+    },
+    {
+      "utterance_id": 288,
+      "order": 288,
+      "page_start": 40,
+      "speaker": {
+        "id": 2050,
+        "name": "Joaquim Barroso De Almeida Barreto",
+        "party": "PS",
+        "string": "O Sr. Joaquim Barreto (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é apenas para perguntar qual foi a autorização a que a Sr.ª \nMinistra das Finanças estava obrigada para cumprir este compromisso e que autorizou a Sr.ª Ministra da \nAgricultura."
+    },
+    {
+      "utterance_id": 289,
+      "order": 289,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, terá ocasião de colocar a questão numa outra altura, não \ndevolverei a palavra para continuar um debate que já cessou. \nPara anunciar iniciativas legislativas que deram entrada na Mesa, dou a palavra à Sr.ª Deputada Secretária \nEmília Santos. \nas"
+    },
+    {
+      "utterance_id": 290,
+      "order": 290,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Emília Santos)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr. e Srs. Deputados, deram entrada na Mesa, e os\nforam admitidos, os projetos de resolução n. 99/XIII (1.ª) — Recomenda ao Governo a remoção integral dos \nresíduos perigosos depositados nas antigas minas de carvão de São Pedro da Cova, em Gondomar, e as \nmedidas de correção e contenção dos impactos ambientais no local (PSD), e 100/XIII (1.ª) — Consagra o dia \n31 de janeiro como Dia Nacional do Sargento (PCP), que baixa à 3.ª Comissão."
+    },
+    {
+      "utterance_id": 291,
+      "order": 291,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a próxima reunião plenária será amanhã, pelas 10 \nhoras, com a seguinte ordem de trabalhos: ponto um, discussão conjunta do projeto de resolução n.º 67/XIII \n(1.ª) — Determina a realização de uma auditoria externa e independente à gestão do Banif, à evolução do \nvalor do Banco e às medidas de recapitalização pelo Estado (janeiro de 2013), de resolução do Banco e à \nvenda da respetiva atividade ao Santander Totta (dezembro de 2015) (PSD) e dos inquéritos parlamentares os\nn. 1/XIII (1.ª) — Comissão eventual de inquérito parlamentar à gestão do Banif, ao processo que conduziu à \naplicação da medida de resolução e alienação da sua atividade e às suas consequências (PSD), 2/XIII (1.ª) — \nConstituição de uma comissão parlamentar de inquérito ao processo que conduziu à venda e resolução do \nBanco Internacional do Funchal (Banif) (PS, BE, PCP e Os Verdes) e 3/XIII (1.ª) — Constituição de uma \ncomissão parlamentar de inquérito à gestão e ao processo que conduziu à venda e resolução do Banco os\nInternacional do Funchal (Banif) (CDS-PP); ponto dois, discussão conjunta dos projetos de lei n. 56/XIII (1.ª) \n— Alarga o acesso às pensões de invalidez e velhice dos trabalhadores da Empresa Nacional de Urânio e \nconsagra o direito a uma indemnização emergente de doença profissional ou por morte (BE), 53/XIII (1.ª) — \nAltera o regime jurídico de acesso às pensões de invalidez e velhice pelos trabalhadores da Empresa Nacional \nde Urânio, SA, contemplando o direito a indemnizações por morte ou doença (PCP) e 60/XIII (1.ª) — Procede \nà alteração ao Decreto-Lei n.º 28/2005, de 10 de fevereiro, sobre o Regime Jurídico de Acesso às Pensões de \nInvalidez e Velhice pelos Trabalhadores da Empresa Nacional de Urânio (ENU), SA, e estabelece o direito a \nindemnização em caso de doença profissional ou por morte (Os Verdes); ponto três, discussão conjunta dos"
+    }
+  ]
+}

@@ -1,0 +1,3876 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "10",
+    "legislative_session": "2",
+    "number": "96",
+    "date": "2007-06-20"
+  },
+  "debate_id": "r3_10_2_96_2007-06-20",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão. \nEram 15 horas e 15 minutos. \nSrs. Deputados presentes à sessão: \nPartido Socialista (PS): \nAgostinho Moreira Gonçalves \nAlberto Arons Braga de Carvalho \nAlberto Marques Antunes \nAlberto de Sousa Martins \nAldemira Maria Cabanita do Nascimento Bispo Pinho \nAna Maria Cardoso Duarte da Rocha Almeida Pereira \nAna Maria Ribeiro Gomes do Couto \nAntónio Alves Marques Júnior \nAntónio Bento da Silva Galamba \nAntónio José Ceia da Silva \nAntónio José Martins Seguro \nAntónio Ramos Preto \nAntónio Ribeiro Gameiro \nArtur Miguel Claro da Fonseca Mora Coelho \nCarlos Alberto David dos Santos Lopes \nCláudia Isabel Patrício do Couto Vieira \nDavid Martins \nDeolinda Isabel da Costa Coutinho \nElísio da Costa Amorim \nEsmeralda Fátima Quitério Salero Ramires \nFernanda Maria Pereira Asseiceira \nFernando Manuel de Jesus \nFernando dos Santos Cabral \nGlória Maria da Silva Araújo \nHorácio André Antunes \nHugo Miguel Guerreiro Nunes \nIsabel Maria Batalha Vigia Polaco de Almeida \nIsabel Maria Pinto Nunes Jorge \nJacinto Serrão de Freitas \nJaime José Matos da Gama \nJoana Fernanda Ferreira Lima \nJoaquim Ventura Leite \nJorge Filipe Teixeira Seguro Sanches \nJorge Manuel Capela Gonçalves Fão \nJorge Manuel Gouveia Strecht Ribeiro \nJorge Manuel Monteiro de Almeida \nJosé Adelmo Gouveia Bordalo Junqueiro \nJosé Alberto Rebelo dos Reis Lamego \nJosé Augusto Clemente de Carvalho \nJosé Carlos Bravo Nico \nJosé Manuel Lello Ribeiro de Almeida \nJovita de Fátima Romano Ladeira \nJoão Barroso Soares \nJoão Carlos Vieira Gaspar \nJoão Cândido da Rocha Bernardo \nJoão Miguel de Melo Santos Taborda Serrano \nJoão Raul Henriques Sousa Moura Portugal \nJúlio Francisco Miranda Calha \nLuiz Manuel Fagundes Duarte \nLuís Afonso Cerqueira Natividade Candal \nLuís António Pita Ameixa \nLuís Miguel Morgado Laranjeiro \nLuísa Maria Neves Salgueiro \nManuel António Gonçalves Mota da Silva \nManuel Francisco Pizarro de Sampaio e Castro"
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a Sr.ª Secretária vai proceder à leitura do expediente."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, deram entrada na Mesa, e foram admitidas, as seguintes iniciativas legislativas: propostas de lei n.os 147/X — Transpõe para a ordem jurídica interna a Directiva n.º 2003/72/CE, do Conselho, de 22 de Julho de 2003, que completa o estatuto da sociedade cooperativa europeia no que respeita ao envolvimento dos trabalhadores, que baixou à 11.ª Comissão, e 148/X — Aprova o Regime Jurídico das Instituições de Ensino Superior, que baixou à 8.ª Comissão; e projecto de resolução n.º 216/X — Propõe a reavaliação do património da Fundação D. Pedro IV (CDS-PP)."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a ordem do dia de hoje consta do debate do projecto de resolução n.º 215/X — Decisão de construção de um novo aeroporto (CDS-PP).\nPara apresentar o projecto de resolução, tem a palavra o Sr. Deputado Telmo Correia."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 5,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O CDS-PP apresenta hoje um projecto de resolução que tem dois objectivos fundamentais: em primeiro lugar, abrir a possibilidade e dar a oportunidade a que as três soluções possíveis em relação ao aeroporto de Lisboa estejam em cima da mesa e sejam consideradas.\nE por que é que este debate é urgente e necessário? Porque este não é um qualquer investimento de milhares ou de centenas de milhares de euros, mas o maior investimento que está previsto e anunciado para o País."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 5,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 5,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estamos a falar — e são números de um dos estudos oficiais — de 3500 milhões de euros e sabemos que este número pode ser muito superior. E pode ser muito superior por duas razões óbvias: primeiro, porque estudos e relatórios (e poderíamos citar informações recentes sobre essa mesma matéria) nos dizem que, na generalidade dos casos, as empreitadas públicas têm vindo a disparar para o dobro; e, segundo, porque neste número de 3500 milhões de euros, mesmo sem derrapagens e como o CDS aqui já demonstrou, designadamente no debate mensal com o Sr. Primeiro-Ministro, há todo um vastíssimo conjunto de despesas que não está contabilizado."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 5,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não está contabilizado o encerramento da Portela, não está contabilizada a descontaminação dos terrenos, não estão contabilizadas muitas das ligações e das infra-estruturas e não está contabilizado o comboio rápido. Ou seja, há todo um conjunto de despesas infra-estruturais que"
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 6,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em segundo lugar, este debate é absolutamente necessário para que, ao decidir-se pela construção de um novo aeroporto, se possa provar (porque senão essa decisão não será correcta) que a actual infra-estrutura aeroportuária do País não serve, nem é solução, ou não é melhorável."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 6,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por outro lado, chamamos a atenção para que uma decisão desta dimensão — de 3500 milhões de euros — é tomada numa altura em que todos os dias estão a ser pedidos aos portugueses os maiores sacrifícios,…\n… em que todos os dias se exige aos portugueses que «apertem o cinto» e que passem dificuldades.\nO CDS demonstrou recentemente que estamos com o mais fraco poder de compra dos últimos 20 anos. Ora, num momento destes, é preciso decidir qual é a melhor opção."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 6,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Um dos argumentos a favor do tal novo aeroporto, a mais de 50 km de Lisboa, que tenho ouvido muitas vezes é o de que é um aeroporto completamente novo, «novinho em folha», a brilhar, com mangas para todos os aviões, pistas novas, grandes infra-estruturas, enfim, tudo isso.\nMas isto, Srs. Deputados, é um bocadinho o mesmo que tomarmos uma decisão nas nossas vidas.\nTodos nós adorávamos ter uma casa com uma sala enorme, assoalhadas para toda a família, locais de lazer e, de preferência, com vista magnífica sobre uma cidade lindíssima. Todos nós gostávamos de ter essa casa, mas quando não há dinheiro, quando estamos a fazer sacrifícios, a opção a tomar tem de ser a mais barata e não a mais cara!!\nPor outro lado, nunca foi demonstrado, até hoje, que a capacidade da Portela estivesse completamente esgotada. Primeiro, dizia-se, isso aconteceria em 2000 — e o aeroporto aguentou; depois, seria em 2007 — e o aeroporto aguentou, ultrapassou e sabemos que pode ir mais longe e que, se for optimizado, se for prolongado, pode ir ainda muito mais longe.\nO processo de decisão da parte do Governo tem, do nosso ponto de vista, um vício fundamental.\nQual é esse vício fundamental? Nunca, em nenhum momento, em nenhuma circunstância, se estudaram, ao mesmo tempo e com os mesmos critérios, as três opções possíveis."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 6,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Este é o vício fundamental! E as três opções possíveis são: margem norte, margem sul e «Portela+1». Nunca se estudaram estas três possibilidades, ao mesmo tempo e nas mesmas circunstâncias."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 6,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por outro lado, nunca se estudou de forma completa qualquer das várias opções.\nVamos demonstrar estes dois pontos. Nunca foi estudada, de forma séria e credível, a hipótese Portela mais um aeroporto médio, o que demonstra que nunca houve estudo sobre as três opções. E mesmo na opção que foi mais estudada e que é mais conhecida, a opção Ota, nunca foram estudadas as questões ambiental — não existe estudo de impacte ambiental — e da segurança aérea, em todas as suas componentes."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 6,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por outro lado, Srs. Deputados, o facto é que o Governo fez tudo ao contrário, ou seja, primeiro, escolheu, como obsessão, a hipótese Ota — à partida, a mais cara. Depois, decidiu primeiro — e o ex-ministro Campos e Cunha é inequívoco nessa matéria — e encomendou estudos a seguir.\nComo é evidente, não ponho em causa os estudos, nem quem os fez. Mas quando se encomenda um"
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 7,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por outro lado, o Governo afastou a opção «Portela+1», sem o fundamentar.\nQuero recordar-lhes, Srs. Deputados, que, no estudo da ANA de 1994, a opção Montijo — na altura, Montijo B — era considerada a melhor, à qual se seguiam, em segundo lugar, a opção Montijo A, em terceiro, a opção Rio Frio e, em quarto lugar, a opção Ota.\nEm 1999, o estudo da consultora Aéroports de Paris diz que a opção Montijo foi afastada. Ficámos convencidos? Eu, pessoalmente, não fiquei! E passo a citar-vos a frase desse mesmo estudo que justifica esse afastamento: «Ulteriormente, a transferência da base NATO do Montijo foi seriamente encarada, antes de ser posta de lado por diversas razões». É uma frase mais ou menos enigmática e com ela se afastou aquela que era considerada a melhor opção, a opção Montijo.\nOu seja, quando uma hipótese, que era vista como a melhor, é afastada de uma forma não sustentada, o que acontece, evidentemente, é que a dúvida se adensa e se torna cada vez maior.\nRelativamente a isto, recordemo-lo, o que é que o Governo fez? Jurou «Ota para sempre», o que, dito pelo Ministro Mário Lino, seria «Ota forever»."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 7,
+      "speaker": {
+        "id": 1187,
+        "name": "Bruno Ramos Dias",
+        "party": "PCP",
+        "string": "O Sr. Bruno Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Toujours!"
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 7,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ou toujours, se preferirem…\nVeio, depois, o Ministro Mário Lino fazer aquele discurso, que o tornou célebre no País (senão mesmo internacionalmente!…), o «discurso do deserto» (do deserto da margem sul) e dizer aquela expressão jamais.\nSó que este tipo de argumentos, tal como aquele outro do Presidente do Partido Socialista, Almeida Santos, que falava em ataques terroristas na ponte para justificar o aeroporto ter de ser construído na Ota, ofende a inteligência das pessoas, estas revoltam-se contra eles e a corrente de opinião contra a solução torna-se cada vez maior.\nMais tarde, o Ministro Mário Lino veio, a pedido do CDS-PP, à respectiva comissão parlamentar, onde já não falou de «deserto», mas usou a expressão «miragem» — aí, já era só uma parte do deserto, era a miragem!… —, e disse que a Ota estava decidida, a Ota é que era e que daí nunca iria sair.\nEsta reunião da comissão teve lugar (não me recordo exactamente) numa quinta-feira ou numa sextafeira. Ora, na segunda-feira seguinte, o mesmo Ministro Mário Lino veio aqui, à Assembleia, a um colóquio dizer que, afinal, já não era a Ota e que admitia estudar as opções Ota ou Alcochete.\nOu seja, dias depois, cedeu, trocou completamente as voltas e veio dizer uma coisa completamente diferente. Essa é a verdade absoluta, Srs. Deputados!! Perante isso, o que aconteceu? Parte da oposição ficou muito contente, felicitou o Ministro Mário Lino, disse que estava feliz com este estudo e que aguardaria serenamente as conclusões do LNEC (Laboratório Nacional de Engenharia Civil) para saber se a opção escolhida era a Ota ou Alcochete.\nComo sabem, foi esta a posição de parte da oposição. Outra parte da oposição, designadamente o CDS-PP, disse claramente o seguinte: primeiro, este recuo do Governo é condição necessária, mas não é condição suficiente."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 7,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Segundo, o LNEC é uma instituição competente e credível naquilo que é a sua área de intervenção, isto é, engenharia, materiais, obras públicas e, vá lá, ambiente."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 7,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 7,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é uma instituição que nos consiga responder a outros critérios que achamos indispensáveis, como sejam as finanças públicas, a economia, o turismo, a navegabilidade e a segurança aéreas. Aí, já não é o LNEC que pode responder."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 8,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Já nem nas dúvidas é possível acreditar e digo-vos, sinceramente, Srs. Deputados, que um Ministro do Governo de Portugal, um Ministro da República, não dá palpites, não dá opiniões, tem de ter uma opinião que seja credível e tem de ter uma opinião que seja consequente. Senão houver estudo «Portela+1», se essa hipótese for chumbada, obviamente que é o Ministro das Obras Públicas quem começa a estar seriamente em causa a partir daqui."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 8,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Devemos, ainda, recordar que, nesta matéria, ficou absolutamente a suspeita de que o Governo ao aceitar o estudo da CIP (Confederação da Indústria Portuguesa), ao aceitar Ota ou Alcochete terá de alguma forma negociado para que a opção «Portela+1» fosse afastada. O Presidente da Associação Comercial do Porto, Rui Moreira, disse-o e, do meu ponto de vista, disse-o bem, disse-o com coragem e disse-o com frontalidade!"
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 8,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para nós, repito, o fundamental é que as três opções sejam estudadas e por várias razões entre as quais porque a opção «Portela+1» e dentro da opção «Portela+1» o lógico é que seja «Portela+Montijo»."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 8,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Explique porquê!"
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 8,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quer que lhe explique porquê?"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 8,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sim, faça favor!"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 8,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Porque «Portela+1» é Portela mais uma base aérea. Ora, Alverca está no mesmo enfiamento da Portela, portanto não é possível; Tires não tem dimensão; e Sintra, porque é uma zona montanhosa, não é a melhor zona para fazer operar um aeroporto."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 8,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Já estudou…!"
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 8,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ó Srs. Deputados, eu não tenho qualquer obsessão, o que eu quero é que esta hipótese seja considerada, que seja estudada e à partida esta parece ser a melhor opção.\nÉ a melhor opção porque é a melhor opção para a economia; é a melhor opção porque parece ser a"
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 9,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "«Dois aeroportos não são sustentáveis» — não é verdade! Não estamos a falar de dois mega-aeroportos, estamos a falar do aeroporto da Portela e de um aeroporto médio para voos de médio curso, no Espaço Schengen, que não precisa de toda a estrutura de dois mega-aeroportos."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 9,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sobre o argumento da «concentração de aves», os Srs. Deputados terão noção de que há países onde há mais aves e países onde há menos aves… Alguns dos países onde há mais aves não são sequer da Europa, ora esses países têm aeroportos e usam a mesma solução que todos os outros usam e que é, designadamente, o uso de falcões, tal como existem na Portela, que caçam as outras aves, pelo que este argumento é absolutamente ridículo! «Nível freático no Montijo»: os senhores terão a noção de que a Ota é um pântano? Então, o problema do nível freático está no Montijo?…\nExiste outro argumento que, como diz uma canção célebre, «é rir para não chorar»: o de que o asfalto da pista do Montijo está em mau estado, ou seja, não se pode utilizar, nem fazer o aeroporto de apoio no Montijo porque o asfalto está em mau estado… Mas podem deslocar-se 50 000 milhões de m\n3 na Ota para fazer um aeroporto completamente novo e de raiz!?…\nOra, Srs. Deputados, o que acontece aqui é que quando os argumentos não são convincentes, a dúvida fica e é cada vez maior. Esse é que é o problema essencial desta questão.\nPor último, também dizem que não pode ser no Montijo porque o Montijo seria conflituante com a nova ponte sobre o Tejo. Ora, a nova ponte sobre o Tejo não existe, Srs. Deputados!! Ainda não foi construída, portanto não é possível conflituar com uma ponte que não existe, não tem maneira!!…\nDito isto, demonstrada a dúvida, demonstrada a necessidade comparativa das três possibilidades e dos três estudos, o que eu digo, Srs. Deputados, é que este projecto de resolução do CDS-PP é a oportunidade para que isso seja feito.\nA decisão nesta matéria não pode ser uma decisão estritamente feita entre um governo e uma confederação! Não estamos num Estado corporativo, estamos num Estado de cidadania e a Assembleia da República é o local adequado para tomar essa decisão!"
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Miguel Coelho."
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 10,
+      "speaker": {
+        "id": 1356,
+        "name": "Artur Miguel Claro Da Fonseca Mora Coelho",
+        "party": "PS",
+        "string": "O Sr. Miguel Coelho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Telmo Correia, como vê, só a bancada do Partido Socialista é que o considera… Eu gostava de lhe dizer, Sr. Deputado, que percebo por que é que disse que era urgente este projecto de resolução que apresentou: é urgente para si, porque há eleições para a Câmara Municipal de Lisboa, Sr. Deputado Telmo Correia! Essa é que é a verdade!\nE tendo V. Ex.ª a difícil tarefa — porque reconheço que foi um «presente» complicado que lhe deram no último congresso do seu partido — de ser o candidato do seu partido, ainda por cima tendo de substituir uma figura carismática como foi a Dr.ª Nogueira Pinto,…"
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 10,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Olhe os elogios…!"
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 10,
+      "speaker": {
+        "id": 1356,
+        "name": "Artur Miguel Claro Da Fonseca Mora Coelho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… à Câmara Municipal de Lisboa, V. Ex.ª tem mesmo de evitar mais um desastre eleitoral para o seu partido. Essa é que é a realidade! E pensa que evita esse desastre eleitoral assumindo uma posição populista sobre esta matéria,…"
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 10,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está a chamar populista ao António Vitorino? Ao João Soares? Ao Manuel Alegre?…"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 10,
+      "speaker": {
+        "id": 1356,
+        "name": "Artur Miguel Claro Da Fonseca Mora Coelho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… um populismo arreigado aqui num sentimentalismo. Todos nós gostaríamos que a Portela pudesse continuar para sempre? É evidente que sim, é simpático, está aqui à mão, é muito cómodo para todos nós! Mas, Sr. Deputado, é um populismo que não vai evitar a derrota eleitoral que vai sofrer se continua por este caminho e que, ainda por cima, trará custos para o País, como o Sr. Deputado bem sabe.\nÉ porque se há uma coisa em que todas as pessoas estão de acordo — só agora é que o Sr. Deputado descobriu que pode não ser assim, mas olhe que não! — é em que o actual aeroporto, infelizmente, tem os dias contados em relação à sua capacidade! Portanto, Sr. Deputado, à medida que se adia a decisão, à medida que se criam novas hipóteses, à medida que se vão sugerindo propostas que os técnicos deixaram ficar para trás, naturalmente que isso pode ser muito oportuno durante uma campanha eleitoral — parece-me, aliás, que o senhor ontem à noite no debate perdeu uma grande oportunidade de avançar com este tema da forma como avançou aqui —, mas olhe, Sr. Deputado, que isto vai ter custos eleitorais para si e para o seu partido, mas o mais grave é que tem custos para o País!!"
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 10,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 10,
+      "speaker": {
+        "id": 1356,
+        "name": "Artur Miguel Claro Da Fonseca Mora Coelho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Telmo Correia, reconheço — e o senhor sabe muito bem que eu penso isso — que V. Ex.ª tem sido um líder político ponderado. V. Ex.ª já foi líder da sua bancada,…"
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 10,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E sou!"
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 10,
+      "speaker": {
+        "id": 1356,
+        "name": "Artur Miguel Claro Da Fonseca Mora Coelho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… volta a sê-lo novamente, e sempre nos habituou, por vezes até contrastando com algumas intervenções mais impulsivas, a uma certa ponderação nas suas intervenções, mas, na «pele» de candidato, Sr. Deputado, V. Ex.ª escolheu o caminho errado! V. Ex.ª escolheu o populismo e escolheu o facilitismo!! Por outro lado, há aqui uma situação que imposta esclarecer: é que V. Ex.ª não é só isto, é também Deputado na Assembleia Municipal de Lisboa, foi membro do governo que consolidou em Bruxelas financiamentos para o aeroporto na Ota…!"
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 11,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É falso!"
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 11,
+      "speaker": {
+        "id": 1356,
+        "name": "Artur Miguel Claro Da Fonseca Mora Coelho",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Neste sentido, deixe-me dar-lhe um conselho: o CDS é importante para a democracia — é-o com certeza! —, mas também o é para a cidade de Lisboa. Portanto, se quer ser eleito, V. Ex.ª tem de ser menos populista e discutir os assuntos da cidade, que é o que não tem feito até aqui!"
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Telmo Correia."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 11,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Miguel Coelho, a realidade é parecida com o que o senhor diz, mas exactamente ao contrário! E é parecida mas ao contrário porquê? Porque se alguém esteve preocupado, nesta matéria, com as eleições municipais de Lisboa não fomos nós mas, sim, o Partido Socialista, que, quando percebeu que a posição do seu candidato era completamente insustentável, resolveu assobiar para o lado…\n… e procurar tirar um problema das costas do candidato António Costa.\nSe V. Ex.ª quiser ter a bondade de me ouvir, o que lhe diria era o seguinte: foi o CDS que levantou a questão da Ota?! Por causa de um acto eleitoral?! Ó Sr. Deputado, o País tem andado a discutir esta questão! A CIP, a Associação Comercial do Porto, a Confederação de Turismo de Portugal, todas as televisões, a Assembleia da República (o Ministro já aqui veio), o Presidente da República já pediu para se debater… Ó Sr. Deputado, seja intelectualmente honesto desse ponto de vista! O Presidente da República pediu que se fizesse um debate na Assembleia da República e é o que estamos a fazer hoje, Sr. Deputado!!"
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 11,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O senhor não venha responder com argumentos de puro e simples populismo e politiquice a uma questão tão séria como esta…!\nDei-lhe argumentos, ponto por ponto, em relação a todas as matérias. E o senhor o que é que faz? Partidarite e politiquice à volta disto!"
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 11,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é de todo aceitável que o faça! Os outros partidos terão ocasião de falar sobre esta matéria, mas nós estamos particularmente à vontade para o fazer porque todos — uns mais, outros menos — se têm vindo a juntar à nossa posição. E o senhor não está a dizer a verdade quando refere que eu tenho uma posição de agora.\nA primeira conferência que fiz sobre esta matéria teve lugar em 1998. Sabe ao lado de quem eu estava sentado? De João Soares, na altura Presidente da Câmara Municipal de Lisboa, que afirmou: «O aeroporto só sai de Lisboa sobre o meu cadáver»."
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 11,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 11,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O primeiro debate em que participei sobre esta matéria realizou-se em 1999, com o então ministro Jorge Coelho. Voltei a debatê-la em 2004 e, como ministro do Turismo, falei mais do que"
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 12,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 12,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "…, que não se devia avançar para a construção de um novo aeroporto sem primeiro avaliar a capacidade da Portela.\nTive sempre essa opinião, por isso estou muito à vontade nesta matéria.\n\nO Sr. Deputado Miguel Coelho e o seu grupo parlamentar é que deviam estar menos à vontade, porque há socialistas e socialistas: há socialistas que ficam, há socialistas que saem… Mas quer que lhe dê exemplos mesmo de socialistas que ficam, que continuam no Partido Socialista? Sem fazer politiquice, dou-lhe exemplos de vozes de bom senso, de vozes respeitadas pelos socialistas — oiça-as e não me dê conselhos.\nAntónio Vitorino (quer melhor?…): «A questão interessante é a Portela+1. Eu acho que há uma vantagem em incluir no estudo a Portela+1, e será acabar com os álibis não deixar de fora a Portela+1. E Portela+1 não é incompatível com o estudo de Alcochete». Foi o que disse António Vitorino na RTP, uma voz de referência do Partido Socialista.\nHoje mesmo, Manuel Alegre, uma voz de referência para os socialistas e para muito eleitorado socialista, afirmou: «Eu acho que se deve manter a Portela. Sou partidário da Portela+1 e nunca da Ota, que espero que nunca aconteça. Acho que se deve manter a Portela. Entre Alcochete e a Ota, partilho da opinião, sem dúvida nenhuma,…». Manuel Alegre defende esta posição.\nOntem, num artigo do Público, João Soares afirmou: «Nenhuma outra capital europeia lançaria pela borda fora esta mais-valia tão importante que é ter um aeroporto tão próximo do centro da cidade. Não conheço, aliás, nenhum caso de desmantelamento completo de um aeroporto. Usando a Portela, é possível chegar a Lisboa de manhã, ter uma reunião e depois regressar ao ponto de partida no final do dia». É João Soares quem o diz, acrescentando ainda: «Há anos juravam-nos que a Portela estaria esgotada em 2000, depois que isso aconteceria em 2007. Era falso, viu-se!» Também Francisco Assis, no debate do Estado da Nação, disse: «Portela+1 deve ser estudado».\nEsta é a lógica do bom senso! Espero que este bom senso possa imperar e deixo por isso, Srs. Deputados, um último apelo."
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queira concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 12,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Termino já, Sr. Presidente.\nNós sabemos que a Portela pode chegar aos 18 milhões de passageiros, a Portela com um aeroporto médio de apoio pode aumentar a sua capacidade até aos 28 milhões ou 30 milhões. São muitos anos, não está esgotado, é a opção mais barata e é por isso que a defendo, Sr. Deputado Miguel Coelho.\nQuer o Sr. Deputado goste quer não goste, eu defendo as coisas em que acredito. Eu procuro falar claro e defender convicções. Tenho esta convicção há mais de 10 anos, defendo-a aqui, na Assembleia da República, defendê-la-ei na Assembleia Municipal e na câmara municipal, defendê-la-ei na rua, defendê-la-ei onde quer que seja, com o seu acordo ou sem o seu acordo!"
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Luís Marques Guedes."
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 12,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Uma vez mais a questão do novo Aeroporto Internacional de Lisboa é colocada no debate parlamentar. Desta vez — talvez — não tanto por convicção mas mais por pretexto.\nDe qualquer forma, é sempre bom que o assunto suba a debate."
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 12,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Sr. Agostinho Branquinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 12,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esta não é uma questão qualquer: é um investimento estratégico para o País! E, pese embora a arrogância e a enorme teimosia com que, durante muito tempo, o Governo tratou este assunto, foi exactamente por essa razão que o PSD, desde há quase dois anos, insistiu e persistiu em colocá-lo na agenda política."
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 12,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 13,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Durante meses a fio, o PSD andou, quase sempre sozinho, a lutar contra a política do facto consumado que o Governo quis impor."
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 13,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Durante meses, realizámos colóquios, promovemos visitas, proferimos contundentes declarações políticas nesta Câmara, procurámos sensibilizar o Sr. Presidente da República e trouxemos, sistematicamente, mês após mês, o assunto Ota ao debate mensal com o Primeiro-Ministro."
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 13,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O facto é que a posição do Governo e dos socialistas foi ficando progressivamente isolada. Não há hoje praticamente um técnico reputado, excluindo aqueles que trabalham para o Governo, que não considere a Ota uma má solução."
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 13,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!\nO Orador — O que se compreende.\nEm boa verdade, à medida que os estudos foram avançando, e mau grado a política de secretismo e de condicionamento posta em prática pelo Governo, ficou cada vez mais perceptível o pesadelo, em alguns aspectos o verdadeiro filme de terror, que a solução Ota pode comportar.\nPor meridiana sensatez, não nos resignámos! O que está em causa é sério e importante de mais. A solução Ota é cara de mais, é demasiado demorada na sua execução, levanta problemas de segurança, tem um prazo de vida limitado, não tem possibilidades de expansão e implica o encerramento compulsivo da Portela.\nO superior interesse nacional obriga a que todas as possíveis alternativas devam ser estudadas, avaliadas e explicadas sem pré-condições.\nSó assim, explicitando as vantagens e as desvantagens de todas as alternativas, na base de estudos sérios e independentes, podemos ambicionar escolher bem e optar pela melhor solução.\nMelhor solução que será, indiscutivelmente, a mais barata, a mais rápida, a mais segura e a mais eficaz para uma adequada estratégia de desenvolvimento e correcto ordenamento do território.\nSr.as e Srs. Deputados, o autismo e a sobranceria com que o Governo e a bancada socialista conduziram este processo resultaram num claro sentimento de desconfiança da esmagadora maioria das pessoas.\nOs portugueses têm hoje a perfeita noção de que é possível e necessário discutir soluções melhores, mais baratas, mais seguras e mais equilibradas.\nSem margem de manobra, o Governo acabou por «dar o dito por não dito» e abandonar a política do facto consumado. Ainda bem! Fomos os primeiros a saudar este recuo. Fê-lo tarde? Talvez, mas mais vale tarde do que nunca. O bom senso prevaleceu e abriu-se caminho à possibilidade de uma boa decisão para o futuro de Portugal.\nPouco nos interessa, com franqueza, saber se o Governo saiu fragilizado e se a teimosia do PrimeiroMinistro ou a arrogância do Ministro das Obras Públicas podiam ter sido evitadas."
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 13,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Sr. Agostinho Branquinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 13,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Acho que já toda gente percebeu que é preciso virar essa página menos feliz.\nO que importa agora é que a Ota deixou de ser a solução irreversível e o pesadelo que muitos já pressentiam."
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 13,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Verdade!\nO Orador. — O que nos importa é criar as condições para que se estude tudo quanto houver a estudar e depois se adopte a melhor solução para Lisboa e para o interesse nacional, sem «cartas marca-"
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 14,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tenho a consciência, Srs. Deputados, de que não é este o espírito que a todos anima, infelizmente. Alguns abordam a questão do aeroporto numa lógica tacticista, ou de exercício de poder, ou até como mero instrumento de luta política."
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 14,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso é verdade!"
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 14,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é essa a posição da bancada do PSD.\nPara nós, esta é uma questão estruturante para Lisboa e para o futuro do País. Não é uma questão partidária, é uma questão do mais relevante interesse nacional!\nNão se avança para uma obra desta envergadura de ânimo leve. Não se faz um investimento desta dimensão sem ele estar devidamente testado e ponderado. Não se decide uma infra-estrutura desta importância sem uma avaliação cuidada das suas múltiplas implicações.\nAqui chegados, o que os portugueses querem não é «mais ruído» — «ruído» já houve até de mais! «Ruído», em alguns casos, pouco edificante e que outra humildade democrática aconselharia que se tivesse evitado.\nEste é o tempo da análise séria, do confronto das vantagens e dos inconvenientes de cada solução, da procura responsável do maior consenso técnico e político.\nÉ nessa posição que o PSD se coloca. Na altura própria, o Governo terá de decidir e cá estamos para, como sempre, dizer o que pensamos.\nSempre a pensar em Lisboa, porque do Aeroporto Internacional de Lisboa se trata. Sempre a pensar no interesse nacional, porque esse é o único critério que os portugueses exigem de nós!"
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Irene Veloso."
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 14,
+      "speaker": {
+        "id": 1258,
+        "name": "Maria Irene Marques Veloso",
+        "party": "PS",
+        "string": "A Sr.ª Irene Veloso (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Marques Guedes, permita-me que lhe faça uma curta observação: realmente, não estamos a tratar do aeroporto internacional de Lisboa mas, sim, do aeroporto internacional para Portugal, que, como é natural, se situa em Lisboa, que é a capital do País."
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 14,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso é uma novidade!"
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 14,
+      "speaker": {
+        "id": 1258,
+        "name": "Maria Irene Marques Veloso",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ainda bem que trago novidades! Já agora, gostava de perceber porque razão é que, durante anos a fio, a Ota foi aceite, todo o investimento previsto foi aceite, houve vários governos do PSD, inclusive, em 1999, um governo do PS e só, quando o Governo do Eng.º José Sócrates chega ao poder, é que se descobre que a Ota é uma desgraça, é uma fatalidade!"
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 14,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso é completamente falso!"
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 14,
+      "speaker": {
+        "id": 1258,
+        "name": "Maria Irene Marques Veloso",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "De facto, é estranho.\nTambém só agora se percebeu que a Ota é cara. Mas, repito, estamos a tratar do aeroporto interna-"
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 15,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "São os técnicos que o dizem!"
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 15,
+      "speaker": {
+        "id": 1258,
+        "name": "Maria Irene Marques Veloso",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas quais técnicos? Há outros técnicos que dizem o contrário. É estranho! Bastante estranho!"
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 15,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso é preciso estudar!"
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 15,
+      "speaker": {
+        "id": 1258,
+        "name": "Maria Irene Marques Veloso",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dizem, ainda, que implica o encerramento compulsivo da Portela. Mas será que a Portela não estará esgotada em 2017, data previsível da abertura da Ota? Estará com certeza esgotada.\nDizem, igualmente, que qualquer outra das soluções alternativas à Ota é mais barata, mais segura e mais eficaz. Resta provar se é mais eficaz, porque não se trata de escolher a mais barata mas a mais competitiva, aquela que fará Portugal manter-se como uma porta aberta para a Europa, para África, para a América, e não reforçar o seu estado periférico. Isso, sim, é importante para Portugal e não tem o preço somente atribuído pelo custo de uma infra-estrutura aeroportuária."
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 15,
+      "speaker": {
+        "id": 1258,
+        "name": "Maria Irene Marques Veloso",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vamos consultar todos, dizem. Pergunto: quantas entidades? Quantos estudos? Durante quantos anos? Esgotamos o actual aeroporto e só depois partimos para a construção do novo aeroporto? E os custos que isso terá?"
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 15,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esta intervenção é a «cara» da Ota: não se percebe nada!"
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 15,
+      "speaker": {
+        "id": 1258,
+        "name": "Maria Irene Marques Veloso",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E a inevitável perda de competitividade que Portugal terá nessa altura?"
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 15,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O aeroporto não fecha!"
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 15,
+      "speaker": {
+        "id": 1258,
+        "name": "Maria Irene Marques Veloso",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Claro que fecha! Porque se, em 2017, a Portela estiver esgotada e o novo aeroporto não estiver construído, porque perdemos anos a fazer estudos de localizações hipotéticas, repetindo até aquelas que já estão estudadas, digo de novo, repetindo até aquelas que já estão estudadas, como é o caso da «Portela+1», qual é a vantagem? Nenhuma!\nSrs. Deputados, são estas as minhas grandes dúvidas.\nComo é que, de repente, para o PSD a Ota é um problema quando até 2004 não existia quando se candidataram e a «decisão Van Miert» deriva da vossa proposta? É esta a minha grande dúvida."
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 15,
+      "speaker": {
+        "id": 572,
+        "name": "Agostinho Correia Branquinho",
+        "party": "PSD",
+        "string": "O Sr. Agostinho Branquinho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O problema é para o PS!"
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Luís Marques Guedes."
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 15,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Irene Veloso, costumam dizer os portugueses que «o maior cego é aquele que não quer ver». Parece que o Governo já viu pelo menos há uma semana. Estamos é para saber quando é que a Sr.ª Deputada e a sua bancada vão conseguir perceber o que está a passar-se!?"
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 15,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não está fácil!"
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 15,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que se está a passar, Sr.ª Deputada, é que, ao longo dos últimos meses, muito por força da persistência e da insistência do Partido Social Democrata, a questão da Ota foi sendo sucessivamente colocada ao Sr. Primeiro-Ministro, nomeadamente nesta Câmara, nos debates mensais, aos"
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 16,
+      "speaker": {
+        "id": 2413,
+        "name": "Jorge Fernando Magalhães Da Costa",
+        "party": "PSD",
+        "string": "O Sr. Jorge Costa (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 16,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É isso que vai acontecer a partir de agora.\nE, para que isso aconteça, Sr.ª Deputada, é importante que não se comece desde já, nem uma semana depois deste virar de página, a tentar «marcar as cartas», a tentar condicionar a reapreciação deste assunto. Não, Sr.ª Deputada! Aquilo que é necessário para que, no final deste processo se tome uma decisão correcta, aquela que venha a ser a melhor para o País, aquela que possa concitar o maior consenso possível quer entre os técnicos nacionais quer entre os políticos, que são quem tem de decidir do avanço para uma obra deste tipo, é que tudo isto seja colocado sobre a mesa sem preconceitos, sem pré-condições e não abandonando nenhuma das questões.\nO pior que pode acontecer no final desta nova etapa que agora se abriu, Sr.ª Deputada, era chegar ao final deste debate e continuar a haver um significativo número de portugueses com dúvidas sérias sobre a opção a tomar pelo País. É isto que o PSD não quer que aconteça."
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 16,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 16,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Era bom que fosse isso que a maioria, sem reservas mentais, estivesse disposta a fazer!"
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Nelson Baltazar."
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 16,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Sr. Nelson Baltazar (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, prometo que não vou ler todas estas folhas que trago comigo."
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 16,
+      "speaker": {
+        "id": 1946,
+        "name": "António Carlos Bivar Branco De Penha Monteiro",
+        "party": "CDS-PP",
+        "string": "O Sr. António Carlos Monteiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O mal é esse! Leia-o!"
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 16,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Trata-se dos tais estudos que o Sr. Deputado Telmo Correia disse não existirem sobre as questões da «Portela+1», do Montijo, de Alverca, de Tires… Enfim, são cinco estudos que tenho aqui comigo.\nNão vou lê-los, só os trouxe para vos mostrar e, Sr. Deputado Telmo Correia, terei muito gosto em fornecer-lhe de imediato cópia dos mesmos, se assim o entender.\n\nO Sr. Deputado Telmo Correia trouxe-nos um assunto importante; é pena o momento em que o faz.\nMas vamos falar claro. O senhor terminou a intervenção dizendo o seguinte: «É importante que nesta matéria falemos claro.» Então, falemos claro. O senhor teve aqui o seu tempo de antena para a campanha à Câmara de Lisboa. Esta é a questão séria que também temos de discutir.\n\nO Sr. Deputado Telmo Correia disse-nos que a actual infra-estrutura, tal como está, não está esgotada. Efectivamente, não está. Sr. Deputado, como é que pode estar esgotada? Se estivesse, estávamos"
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 17,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Além disso, existe o risco de acidente e a degradação da qualidade do ar tem sido evidente nos últimos anos.\nSabemos que existem outras soluções. Sabemos que a solução para que devemos apontar relativamente a um novo aeroporto para Portugal, situado na Grande Lisboa, não pode ser a do aeroporto da cidade de Lisboa, não pode ser a do aeroporto da Lisboa grande, tem de ser a do aeroporto da Grande Lisboa, de Portugal.\nSabemos que o aeroporto da Portela está a 60 minutos de 2,5 milhões de habitantes e está a 120 minutos de 5 milhões de habitantes. Nós queremos manter este nível. Só temos é que sair dele.\nRecordo aqui (todos nós ouvimos) as palavras do nosso Primeiro-Ministro, numa resposta, julgo que a uma pergunta do Sr. Deputado Paulo Portas, em que o Sr. Primeiro-Ministro disse que gostaria muito de poder manter o aeroporto da Portela mas que era completamente inviável fazê-lo."
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 17,
+      "speaker": {
+        "id": 1946,
+        "name": "António Carlos Bivar Branco De Penha Monteiro",
+        "party": "CDS-PP",
+        "string": "O Sr. António Carlos Monteiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sem estudos!"
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 17,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estão aqui! Eu trouxe os estudos e posso fornecer-lhe cópias."
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 17,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não são claros!"
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 17,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em relação à solução dual apontada, «Portela+Montijo», o Sr. Deputado já apresentou aqui algumas das razões que estão apontadas nestes estudos…"
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 17,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não são claros! Rebati-os um a um!"
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 17,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Afinal, conhece-os!"
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 17,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não me ouviu, pois não?!"
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 17,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dizia eu que o Sr. Deputado já apresentou aqui algumas das razões que estão aponta-"
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 18,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Façam o estudo!"
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 18,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Eu ouvi-o a si dizer isso!"
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 18,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Então, se me ouviu, ouviu-me desmontá-las uma a uma!"
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 18,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas vou dizer-lhe mais! Por exemplo, o Sr. Deputado sabe que aquela pista que o senhor aponta como essencial é uma pista que tem ventos cruzados e que obriga muitas vezes a desvio no tráfego, até no voo de militares? Pois é! Não sabia!"
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 18,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Na Ota não estudaram a questão da segurança!"
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 18,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sabia, Sr. Deputado, que, se tivermos um aeroporto no Montijo (e isto está no estudo), será preciso criar um serviço especial de socorros, com meios de salvamento marítimos, que é algo que não existe em aeroporto nenhum mas que teria de existir naquele, porque se estaria a fazer tráfego civil e, portanto, teria de haver alguma forma de socorro?\nO senhor é que deu a solução."
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 18,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não dei! É mentira!"
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 18,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Eu perguntei-lhe qual era e o senhor fez a fineza de me dizer que a solução é «Portela+Montijo».\nSabia, Sr. Deputado, que o esforço de investimento que iríamos fazer no Montijo compromete a viabilidade da rendibilidade deste projecto, porque é um investimento que acrescentaria entre 15% a 20%, a mais, em relação ao que é possível acrescentar no aeroporto da Portela? \nO Sr. Deputado sabia que, no total dos dois aeroportos, daqui a cinco ou seis anos, poderíamos ter, no máximo dos máximos, 23 milhões de passageiros? Sabia que, daqui a cinco ou seis anos, provavelmente, já ultrapassámos este número?"
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 18,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem respondido!"
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 18,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Gostaria também de referir, Sr. Deputado Telmo Correia, porque também é uma pessoa interessada nesta matéria, algo que hoje se diz na indústria do turismo — e recordo que o turismo é uma das principais indústrias portuguesas, traduzindo-se em 8% do PIB. Diz-se hoje que, a nível mundial de negócios, a pressão turística a que estamos sujeitos tem um crescimento de 3,5% no mundo e de 4,5% em Lisboa."
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 18,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é verdade! Tudo depende! Em certos casos é de 6%."
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 18,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se não é verdade, então o Sr. Deputado dirá depois a sua verdade.\nGostaria, ainda, de lhe lembrar, Sr. Deputado, no que diz respeito a estas questões do turismo, que já conversámos no último colóquio sobre esta matéria e que o Sr. Deputado foi o primeiro a dizer que a questão da escolha do aeroporto é uma matéria central para a opção que vamos ter relativamente às questões do turismo.\nA terminar, Sr. Deputado, gostaria de lhe dizer que estamos numa encruzilhada. Nesta encruzilhada, temos de escolher entre a opção de termos um aeroporto para mais 40 ou 50 anos, como foi o aeroporto da Portela, uma boa opção na altura, ou escolher uma solução intermédia onde gastaremos quase o mesmo e ficaremos com uma solução para 10 ou 15 anos. Repito: «Portela+1» é uma solução para 10 ou 15 anos, que é, provavelmente, o tempo que temos para construir um aeroporto à escala europeia.\nSr. Deputado, o senhor está só a olhar para Lisboa e para os lisboetas e para aqueles que usam o Aeroporto de Lisboa, dizendo que o Aeroporto é de Lisboa e não do País. Por isso, se estivesse aqui António Aleixo, diria assim: «O mundo só pode ser melhor do que até aqui, quando consigas fazer mais p'los outros que por ti!».\nSr. Presidente, Sr.as e Srs. Deputados: Manter o aeroporto da Portela é continuar a olhar para o con-"
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 19,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Manter a Portela, Sr.as e Srs. Deputados, é continuar a exigir que Portugal permaneça adiado para a rede de transportes internacional e para o crescimento do turismo."
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Jorge Costa."
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 19,
+      "speaker": {
+        "id": 2413,
+        "name": "Jorge Fernando Magalhães Da Costa",
+        "party": "PSD",
+        "string": "O Sr. Jorge Costa (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Nelson Baltazar, o Partido Socialista insiste em «assobiar para o ar» relativamente a esta questão do novo aeroporto. Insiste também em apostar numa política e posição de «faz-de-conta», como acabámos de ouvir. Ora, os portugueses certamente que não estão dispostos a assistir a uma posição de «faz-de-conta».\nAssistimos nas últimas semanas a um recuo por parte do Governo na sua obsessão pela construção de um novo aeroporto na Ota. Saudamos esse recuo. De facto, o Governo percebeu que está isolado…"
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 19,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Finalmente!"
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 19,
+      "speaker": {
+        "id": 2413,
+        "name": "Jorge Fernando Magalhães Da Costa",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e, ao perceber que estava isolado, recuou. Como dissemos, ainda bem que o Governo abandonou essa política do facto consumado.\nO Ministro das Obras Públicas, numa intervenção que aqui fez, na Assembleia da República, referiu que esse recuo se destina a permitir que o LNEC elabore um relatório que proceda a uma análise técnica comparada das alternativas de localização da Ota e de Alcochete.\nPortanto, é este o quadro que temos pela frente. Não estando em causa a competência técnica do LNEC, acontece que o LNEC não vai analisar esta matéria sozinho. O LNEC vai socorrer-se de outras entidades para fazer esta análise. Por isso é fundamental, diria mesmo que é decisivo, que esteja assegurado que esta avaliação seja séria, competente e independente."
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 19,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 19,
+      "speaker": {
+        "id": 2413,
+        "name": "Jorge Fernando Magalhães Da Costa",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É isto que os portugueses esperam de nós. Esperam também que se encontre o consenso técnico e político sobre esta matéria. Portanto, não pode haver reserva mental, como temos sucessivamente referido. As atitudes do Ministro das Obras Públicas não auguram nada de bom relativamente a esta posição."
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 19,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 19,
+      "speaker": {
+        "id": 2413,
+        "name": "Jorge Fernando Magalhães Da Costa",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Aliás, no dia seguinte ao colóquio que foi referido, o Governo deu um péssimo sinal na reunião que efectuou com os autarcas da Ota. Na ânsia de dizer «sim» a todos e de satisfazer todos, o Governo disse aos autarcas da Ota que não estivessem preocupados, que estivessem calmos, porque tudo se decidirá a seu favor. Provavelmente, o Ministro das Obras Públicas fará o mesmo quando receber os autarcas do lado do «deserto», da margem sul!…"
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 19,
+      "speaker": {
+        "id": 2413,
+        "name": "Jorge Fernando Magalhães Da Costa",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E nada nos admira, até, que possa ter a desfaçatez de dizer aos lisboetas que a Portela é para manter!… Depois, naturalmente, tentará «emendar a mão» com um comunicado a dizer que não disse e que portanto os autarcas são mentirosos… Em relação a esta matéria, não nos custa perceber quem é que tem estado a mentir.\nAté porque, logo a seguir, houve outro episódio, a propósito da questão «Portela+1». A propósito das notícias de que a Associação Comercial do Porto e a Confederação do Turismo Português iriam estudar a «Portela+1», o Ministro disse que eram bem-vindos todos os estudos e, no entanto, no dia a seguir, veio dizer o contrário daquilo que tinha dito na véspera.\nPortanto, este é mais um episódio lamentável de um Ministro, de um Governo e de um Partido Socialista obcecados com a solução da Ota! Volto a dizer: não vale a pena «assobiar para o ar» nesta matéria nem tentar aqui a política do «faz-de-conta».\nPor tudo isto, consideramos que é fundamental e decisivo que sejam asseguradas ao LNEC as condições de independência para que o relatório final seja sério e competente."
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 20,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 20,
+      "speaker": {
+        "id": 2413,
+        "name": "Jorge Fernando Magalhães Da Costa",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O PSD já solicitou a audição do Ministro das Obras Públicas, em sede de comissão parlamentar, para ouvirmos quer os responsáveis pelo estudo quer o Laboratório Nacional de Engenharia Civil.\nQueremos saber qual é a metodologia que o LNEC vai adoptar para concretizar o estudo comparativo das soluções. É, pois, fundamental saber a metodologia e saber quem são os intervenientes."
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 20,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 20,
+      "speaker": {
+        "id": 2413,
+        "name": "Jorge Fernando Magalhães Da Costa",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esperamos que o Partido Socialista, como no passado fez em relação a outras situações, não inviabilize esta posição. Aliás, o Sr. Deputado José Junqueiro disse publicamente há dias que poderão viabilizar esta audição. Esperamos é que ela se realize rapidamente, para ser útil e para que, de facto, saibamos todos como é que se vão desenvolver os estudos.\nPortanto, o que queremos saber, o que é importante que se saiba — e é isso que os portugueses querem é saber — é se o PS está ou não disposto a criar condições para que o LNEC tenha a possibilidade de desenvolver, de uma forma independente, séria e competente, os estudos que têm de ser desenvolvidos.\nÉ isto que queremos saber. É isto que os portugueses esperam ouvir."
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Nelson Baltazar."
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 20,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Sr. Nelson Baltazar (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, o Sr. Deputado Jorge Costa falou em episódios lamentáveis. Eu estou a tentar manter a mesma calma que manifestou, porque quando conversamos estamos habituados a falar desta forma, e é interessante continuar a fazê-lo.\nEpisódios lamentáveis são aquilo a que não me quis referir da tribuna, mas que agora vou ter de dizer.\nEpisódio lamentável é o Sr. Deputado Marques Guedes, por exemplo, pôr em causa a honorabilidade e a credibilidade dos técnicos que fazem estudos para o Governo,…"
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 20,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… enquanto os outros são todos credíveis e honoráveis, do ponto de vista técnico. Este é um episódio lamentável que tive de referir, porque o Sr. Deputado «puxou» por ele."
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 20,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "De honorabilidade fala o senhor! Eu não falei!"
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 20,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Episódio lamentável é o Sr. Deputado ter tido, em 4 de Março de 2004 (e penso que, na altura, disse-o convicto de que estava a dizer a verdade), que não havia nenhuma razão para colocar em causa esta decisão que está tomada quanto à Ota — o Sr. Deputado disse isto! — e agora vir dizer outra coisa.\nSr. Deputado, gostaria de lhe dizer ainda o seguinte: não é aceitável que venham agora aqui dizer que não houve estudos ou que, se os houve, não foram tão credíveis como se diz e que agora é que temos de perceber se são ou não credíveis. Eu não aceito isso! Eu não aceito isso, em sua defesa, Sr. Deputado! Quando o senhor foi secretário de Estado adjudicou 1,2 milhões de euros em estudos, dos quais trago alguns deles, que estão feitos, que são úteis e que são credíveis."
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 20,
+      "speaker": {
+        "id": 2413,
+        "name": "Jorge Fernando Magalhães Da Costa",
+        "party": "PSD",
+        "string": "O Sr. Jorge Costa (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E os resultados estão aí!"
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 20,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço imensa desculpa mas são estudos credíveis, não podem deixar de o ser! Está, com certeza, de acordo comigo.\nTermino, respondendo-lhe o seguinte: os estudos que foram feitos para a Ota são credíveis e os estudos que foram feitos para outras opções são credíveis. Temos de acreditar nos técnicos que os fizeram."
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 166,
+      "order": 166,
+      "page_start": 21,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, esta é a questão central: acreditemos nos técnicos, formemos a nossa opinião política e decidamos rapidamente. Portugal não pode esperar mais tempo."
+    },
+    {
+      "utterance_id": 167,
+      "order": 167,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Helena Pinto."
+    },
+    {
+      "utterance_id": 168,
+      "order": 168,
+      "page_start": 21,
+      "speaker": {
+        "id": 2204,
+        "name": "Helena Maria Moura Pinto",
+        "party": "BE",
+        "string": "A Sr.ª Helena Pinto (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as Deputadas e Srs. Deputados: Quando se fizer a história da construção do aeroporto internacional de Lisboa, estes últimos meses vão, com toda a certeza, ser bem elucidativos sobre as más decisões políticas em relação a obras públicas de vulto para um país.\nMas importa, sobretudo, analisar o comportamento do Governo e, em particular, do Ministro Mário Lino em todo este processo, até porque é preciso alertar, desde já, a opinião pública sobre aquilo que pode vir a acontecer no fim do ano, quando expira o prazo de seis meses de suspensão deste projecto.\nO Governo e a bancada do Partido Socialista defendiam e, pelos vistos, continuam a defender a localização na Ota como «a menina dos seus olhos», como a única localização possível, o alfa e o ómega da navegação aérea, a obra que seria o orgulho do vosso regime.\nMas deixemos para trás aquilo que é passado e que compromete o PS, o PSD e o CDS nas decisões anteriormente assumidas pelos diversos governos e os responsabiliza pelo processo e metodologias dos estudos dos vários locais, cujo resultado foi, por incrível que pareça, Srs. Deputados: a Ota não é a melhor localização mas é a solução.\nDesde que este Governo anunciou a sua decisão sobre a construção do novo aeroporto na Ota, surgiram mais dúvidas do que certezas e novas e fundadas interrogações que legitimam uma paragem no processo.\nA suspensão do processo, anunciada pelo Ministro Mário Lino, só pode ser considerada um recuo do Governo. Este recuo não o identificamos de imediato como uma alteração de posição, temos, aliás, a este respeito, as maiores reservas, mas é um recuo. Quem passa de uma posição em que a decisão tomada era assumida como irreversível, quem passa do «sim» à Ota apenas porque sim, passando pelo disparate do «deserto» e do «jamais» para uma suspensão, recua. E recua perante uma onda de contestação na opinião pública e praticamente unânime em todos os sectores técnicos envolvidos.\nMas aquilo que Mário Lino veio anunciar não é suficiente. Anunciou um estudo comparado entre a Ota e Alcochete, só entre a Ota e Alcochete, ignorando todas as outras alternativas, que englobam outras localizações na margem sul e também a manutenção da Portela, mesmo que por um período de transição. A comparação com um só local é um episódio déjà-vu neste processo. Foi assim que a Ota foi escolhida.\nOutro aspecto que importa sublinhar em todo este processo é o comportamento do Governo sobre a questão de novos estudos. O Governo sempre disse que «da Ota não saía», que esperava que lhe mostrassem uma melhor localização.\nMas será este o comportamento que um Governo deve ter em respeito e na defesa do interesse público? Para nós não é.\nPerante o avolumar das dúvidas e das questões colocadas, deveria ter sido o Governo a assumir os estudos e as comparações necessárias.\nO novo aeroporto é uma obra de interesse nacional. A decisão política a tomar, acima de tudo, deve ter esta questão em conta e a sua localização, a melhor localização, deve ser assumida pelo Governo estudando todas as hipóteses e não apenas com base em propostas de cidadãos, que têm legitimidade e, sobretudo, têm meios financeiros para o fazer.\nO debate técnico tem sido muito rico. Mobilizaram-se os mais variados sectores da sociedade, engenheiros de várias especialidades, técnicos de aviação, ambientalistas, autarcas, cidadãos e cidadãs. Só teremos a ganhar se potenciarmos esta participação.\nPor isso, defendemos que, nestes próximos seis meses, não se deve ter vistas curtas mas, sim, vistas largas. Todas as hipóteses de localização devem ser avaliadas, a começar por aquelas que foram colocadas no debate – Alcochete, Poceirão, bem como a manutenção da Portela.\nO País precisa de um novo aeroporto internacional, com possibilidade de expansão, com ligação às redes de transporte, incluindo a alta velocidade, e com ligação às plataformas logísticas, garantindo os necessários critérios de operação, ambientais e de segurança."
+    },
+    {
+      "utterance_id": 169,
+      "order": 169,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Quais?! Diga quais são!"
+    },
+    {
+      "utterance_id": 170,
+      "order": 170,
+      "page_start": 22,
+      "speaker": {
+        "id": 2204,
+        "name": "Helena Maria Moura Pinto",
+        "party": "BE",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Posso dizer muitas. Por exemplo, Washington, Londres, etc.\nPortanto, esta hipótese tem que ser estudada.\nO Bloco de Esquerda sublinha a importância desta suspensão, aliás proposta pelo nosso grupo parlamentar já em Maio deste ano, quando tudo indicava que a posição do Governo era verdadeiramente insustentável.\nReafirmamos a necessidade de analisar todas as possíveis localizações e de submeter a um grande debate público a decisão, assim como a necessidade de a Assembleia da República não abdicar das suas competências no que diz respeito ao acompanhamento de todo este processo.\nMas existem mais questões para além da localização do novo aeroporto. O modelo de aeroporto, a sua interligação com a economia nacional, nomeadamente no que diz respeito à criação de emprego, a sua competitividade, com particular importância no seu posicionamento no mercado ibérico, o seu financiamento e o futuro da empresa que gere os aeroportos, a ANA, também são factores que devem estar presentes.\nO Governo mantém a ideia de privatizar a ANA. Neste últimos meses, se houve aspecto que ficou por esclarecer foi o porquê de privatizar uma empresa pública bem gerida e que todos os anos dá lucros ao Estado. Mas se o «porquê» ficou por esclarecer, o «como» é segredo do Ministério das Obras Públicas.\nAté hoje, nunca o Ministro Mário Lino esclareceu qual a percentagem do capital que queria privatizar, qual o perímetro a privatizar, qual o futuro dos aeroportos das regiões autónomas e quais os encargos para o Orçamento do Estado em relação ao défice destes mesmos aeroportos.\nSe sabemos que para o negócio da Ota a privatização da ANA era uma peça-chave no plano do Governo, o que já não se justificava, agora as pessoas têm que saber que, com outro modelo de aeroporto, não há nada que o justifique, a não ser a voracidade liberal de privatizar sobretudo tudo o que dá lucro."
+    },
+    {
+      "utterance_id": 171,
+      "order": 171,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 172,
+      "order": 172,
+      "page_start": 22,
+      "speaker": {
+        "id": 2204,
+        "name": "Helena Maria Moura Pinto",
+        "party": "BE",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Existem outras opções, um outro modelo de aeroporto é possível, são possíveis outros locais e é possível manter nas mãos do Estado o controle do tráfego aéreo e a gestão integrada de todos os aeroportos.\nÉ a vida, Srs. Deputados! Os planos do Governo podem ser alterados.\nMas termino como comecei: que estes seis meses sirvam para equacionar, de facto, a melhor solução para o novo aeroporto internacional de Lisboa e não sejam simplesmente uma aliviar da pressão para voltar tudo ao mesmo.\nEm relação à proposta de resolução aqui apresentada pelo CDS-PP, gostaríamos de afirmar que, apesar de existirem insuficiências, como, nomeadamente, a ausência de referências às consequências da privatização da ANA e também ser limitada em relação aos locais a estudar, porque exclui alguns, o Grupo Parlamentar do Bloco de Esquerda votará favoravelmente a proposta de resolução porque entende que é preciso um grande debate desta questão e que a Assembleia da República deve participar nele."
+    },
+    {
+      "utterance_id": 173,
+      "order": 173,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Existe um pedido de esclarecimento, mas a Sr.ª Deputada não pode responder, a menos que obtenha uma transferência de tempo.\nComo tal não se verifica, tem a palavra, para uma intervenção, o Sr. Deputado Bruno Dias."
+    },
+    {
+      "utterance_id": 174,
+      "order": 174,
+      "page_start": 22,
+      "speaker": {
+        "id": 1187,
+        "name": "Bruno Ramos Dias",
+        "party": "PCP",
+        "string": "O Sr. Bruno Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O PCP irá votar favoravelmente o projecto de resolução que se encontra em debate.\nDesde o início deste processo, temos sublinhado a incontornável necessidade de estudar, analisar e debater as várias opções possíveis com todo o rigor, seriedade e transparência, de uma forma consequente e tecnicamente fundamentada."
+    },
+    {
+      "utterance_id": 175,
+      "order": 175,
+      "page_start": 23,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 176,
+      "order": 176,
+      "page_start": 23,
+      "speaker": {
+        "id": 1187,
+        "name": "Bruno Ramos Dias",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ora aqui está, Srs. Deputados, um exemplo – infelizmente muito adequado – para demonstrar os resultados concretos de uma política que os sucessivos governos têm levado a cabo, com o PS e o PSD/CDS-PP a disputar a duvidosa honra do maior paladino das privatizações em Portugal. E esta matéria assume um particular relevo em todo este debate, já que um dos aspectos mais graves em todo este processo, senão o mais grave, é a perspectiva da entrega da rede aeroportuária nacional, com a privatização da ANA – Aeroportos de Portugal.\nO Governo pretende associar a privatização desta importante empresa pública à construção do novo aeroporto de Lisboa. E veio mesmo afirmar que, seja lá qual for a opção sobre o local onde ele funcione no futuro, a privatização da ANA avança de qualquer forma, de tal maneira que até a decisão de mandar estudar o Campo de Tiro de Alcochete como possível localização terá sido condicionada no quadro dessa sacrossanta privatização.\nO Governo pretende criar nos portugueses a ilusão de que, com este negócio, o País garante uma nova infra-estrutura sem custos para Estado, quando, na verdade, o que vai acontecer é a perda de receitas e de capacidade de investimento nas restantes infra-estruturas aeroportuárias, com a transferência de património público a favor dos interesses do grande capital nacional e estrangeiro."
+    },
+    {
+      "utterance_id": 177,
+      "order": 177,
+      "page_start": 23,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 178,
+      "order": 178,
+      "page_start": 23,
+      "speaker": {
+        "id": 1187,
+        "name": "Bruno Ramos Dias",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E no que se refere à ANA, que, desde o início da sua actividade, em 1979, teve sempre um excelente desempenho, com resultados económicos e financeiros crescentemente positivos, reafirmamos que não há qualquer razão, nos planos financeiro, económico ou político, que justifique a decisão da sua privatização.\nSão cada vez mais as vozes que actualmente se fazem ouvir na denúncia e na recusa desta opção gravosa para o povo português. Vozes que são, aliás, insuspeitas de qualquer identificação política e ideológica com o PCP, mas que vêm dar mais força a esta reivindicação de se salvaguardar o interesse nacional, mantendo a ANA na posse pública como alavanca estratégica do desenvolvimento.\nAliás, mesmo como resposta às preocupações e interrogações que têm vindo a público sobre os possíveis interesses ocultos em toda esta história, temos que sublinhar esta evidência: a melhor maneira de enfrentar e reduzir ao mínimo esses conflitos de interesses é salvaguardando o carácter público e a condução pública deste processo na concepção do projecto, na construção e na exploração do aeroporto.\nMesmo a nossa companhia aérea de bandeira, a TAP, que o Governo quer «levar na enxurrada» das privatizações, tem de ser defendida como empresa de capitais públicos, pelas mesmas razões de fundo que se colocam face à rede de aeroportos."
+    },
+    {
+      "utterance_id": 179,
+      "order": 179,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Álvaro Saraiva."
+    },
+    {
+      "utterance_id": 180,
+      "order": 180,
+      "page_start": 24,
+      "speaker": {
+        "id": 1157,
+        "name": "Álvaro José De Oliveira Saraiva",
+        "party": "PEV",
+        "string": "O Sr. Álvaro Saraiva (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: A decisão final sobre a construção de um novo aeroporto em Lisboa tem de ter em consideração dois aspectos distintos e importantes, ou seja, a verdadeira necessidade do mesmo e a localização que, de facto, coloque o interesse nacional e o País no patamar cimeiro.\nSabemos que a Portela tem sofrido ao longo dos anos obras de ampliação e reestruturação e dizemnos que a sua capacidade está prestes a atingir o limite.\nÉ da maior importância que não se tomem decisões precipitadas na construção do novo aeroporto de Lisboa. Neste âmbito, devem considerar-se as várias opções quanto à realização de novas infraestruturas de transporte, de nível nacional e internacional, que se irão localizar na Área Metropolitana de Lisboa.\nFalamos, para além do novo aeroporto de Lisboa, da ligação ferroviária europeia de alta velocidade — TGV — e da nova travessia do Tejo, entre Chelas e o Barreiro. É fundamental que o planeamento destas infra-estruturas seja feito de forma coordenada e numa perspectiva de longo prazo."
+    },
+    {
+      "utterance_id": 181,
+      "order": 181,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "E as condições ambientais?! Não fala das condições ambientais?!"
+    },
+    {
+      "utterance_id": 182,
+      "order": 182,
+      "page_start": 24,
+      "speaker": {
+        "id": 1157,
+        "name": "Álvaro José De Oliveira Saraiva",
+        "party": "PEV",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso se requer, evidentemente, amplas certezas e seguranças em torno daquilo que se está a decidir.\nÉ por isso que estranhamos, e apesar dos debates que se têm feito, que o Governo tenha dificuldade e muito pouco à-vontade para esclarecer o projecto que está em cima da mesa, que é o da Ota.\nÉ importante que para uma infra-estrutura destas, um novo aeroporto, haja um consenso técnico e político o mais alargado possível, que à partida os critérios de avaliação sejam definidos, que para além do estudo de impacte ambiental seja também avaliado o custo/beneficio.\nO custo de 4000 milhões de euros justifica uma ponderação muito séria. Volto a referir que é fundamental que, antes de se conhecer os estudos, se conheçam os critérios em relação aos quais vamos aferir os estudos.\nCom a decisão de se avançar para a Ota surgiram mais e novas dúvidas sobre se esta seria, de facto, a melhor localização, em especial no que respeita aos custos e dificuldades de execução.\nUm estudo do Prof. José Manuel Viegas, especialista em transportes, defendia duas novas localizações na margem sul, Poceirão e Faias, para as quais os custos de execução da obra são menores, além de se apontarem vantagens em matéria de acessibilidades e transportes."
+    },
+    {
+      "utterance_id": 183,
+      "order": 183,
+      "page_start": 25,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Sr. Nelson Baltazar (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É claro!"
+    },
+    {
+      "utterance_id": 184,
+      "order": 184,
+      "page_start": 25,
+      "speaker": {
+        "id": 1157,
+        "name": "Álvaro José De Oliveira Saraiva",
+        "party": "PEV",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Foi assim que o Sr. Ministro Mário Lino passou de um processo irreversível, há 15 dias, para um processo assim-assim, na semana passada. E hoje já diz que, se aparecerem mais novos estudos, o Governo tê-los-á todos em consideração.\nO Governo, durante este tempo todo, teve o comportamento da «fuga para a frente»; sempre que alguém o questionava, respondia que apresentassem estudos alternativos, estudos esses que deveria ser o Governo a fazer e não terceiros."
+    },
+    {
+      "utterance_id": 185,
+      "order": 185,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Os estudos não se devem limitar!"
+    },
+    {
+      "utterance_id": 186,
+      "order": 186,
+      "page_start": 25,
+      "speaker": {
+        "id": 1157,
+        "name": "Álvaro José De Oliveira Saraiva",
+        "party": "PEV",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas se, por um lado, aplaudimos a iniciativa de se parar durante seis meses, no sentido de se avaliarem as novas propostas, ao mesmo tempo ficamos com a preocupação de que este espaço de seis meses seja só uma manobra de diversão, no sentido de trazer algumas tréguas ao período que se aproxima – eleições na capital e a presidência da União Europeia.\nPergunto: será correcto que o Governo diga que está para avaliar todas as hipóteses que sejam colocadas, todas as alternativas, ao mesmo tempo que o Partido Socialista não aceita retirar do PNPOT (Programa Nacional da Política de Ordenamento do Território) a referência à Ota como local para o novo aeroporto? Isto passou-se, ainda hoje de manhã, na votação, na especialidade.\nAfinal, o que é que andamos a fazer? Ou será que o Governo nunca saiu da Ota e apenas quer ganhar tempo para o período que se avizinha? O novo aeroporto de Lisboa é um equipamento estruturante de grande importância para a capital, a sua região e o País.\nO futuro aeroporto de Lisboa deverá constituir o núcleo de comunicações rápidas do País com a Europa e o mundo. Assim, com base neste objectivo, deverá ser integrado numa perspectiva nacional e ibérica que corresponda a um desenvolvimento e polarização da Área Metropolitana de Lisboa, capaz de lhe conferir uma maior dimensão europeia e mundial, por forma a projectar a nossa economia no plano internacional.\nO desenvolvimento da Área Metropolitana de Lisboa, por sua vez, deverá projectar-se em todo o País. São as cidades e os países a origem ou o seu destino das viagens, nunca um aeroporto por si só.\nO carácter estruturante do futuro aeroporto deverá gerar sinergias que potenciem a fixação de actividades económicas e culturais que contribuam para o carácter polarizador da região, que é a cidade das duas margens, sendo indispensável ter em conta as suas acessibilidades e a complementaridade multimodal de todos os transportes nacionais e internacionais.\nNaturalmente que uma infra-estrutura como a que está em análise provoca impacte ambiental, seja onde for que venha a ser localizada.\nAguardamos, com serenidade, que seja feito um estudo de impacte ambiental que se deseja completo, por forma a que a construção do futuro aeroporto constitua um importante factor de desenvolvimento sustentável perfeitamente compatível com a defesa e a preservação do meio ambiente.\nPor fim e em respeito a estes princípios, Os Verdes são de opinião que a discussão e os estudos não se devem limitar apenas a estas três alternativas de localização que o projecto de resolução do CDS prevê. Porém, Os Verdes votarão favoravelmente este projecto de resolução."
+    },
+    {
+      "utterance_id": 187,
+      "order": 187,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Eu vi logo!"
+    },
+    {
+      "utterance_id": 188,
+      "order": 188,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Jorge Fão."
+    },
+    {
+      "utterance_id": 189,
+      "order": 189,
+      "page_start": 25,
+      "speaker": {
+        "id": 2223,
+        "name": "Jorge Manuel Capela Gonçalves Fão",
+        "party": "PS",
+        "string": "O Sr. Jorge Fão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O País já constatou e os portugueses também já perceberam quais são as grandes e verdadeiras motivações da obsessão das oposições quanto à decisão da construção de um novo aeroporto para Portugal naquela que, até agora, é considerada a melhor localização, que é a Ota.\nÉ preciso não perder – não perdemos nós, PS, e eu particularmente não perco – a noção do tempo."
+    },
+    {
+      "utterance_id": 190,
+      "order": 190,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 191,
+      "order": 191,
+      "page_start": 26,
+      "speaker": {
+        "id": 2223,
+        "name": "Jorge Manuel Capela Gonçalves Fão",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como eu dizia, o País já percebeu e os portugueses compreendem, embora comecem a ficar perplexos e preocupados com esta situação."
+    },
+    {
+      "utterance_id": 192,
+      "order": 192,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 193,
+      "order": 193,
+      "page_start": 26,
+      "speaker": {
+        "id": 2223,
+        "name": "Jorge Manuel Capela Gonçalves Fão",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Governo e o Partido Socialista estão preparados para conduzir, com sentido de responsabilidade, com determinação e dando primazia ao interesse público nacional,…"
+    },
+    {
+      "utterance_id": 194,
+      "order": 194,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 195,
+      "order": 195,
+      "page_start": 26,
+      "speaker": {
+        "id": 2223,
+        "name": "Jorge Manuel Capela Gonçalves Fão",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… o processo da construção do novo aeroporto de Lisboa.\nSr.as e Srs. Deputados, o que está em causa aqui, fundamentalmente, é, e deve ser, a imagem do País, a imagem do colectivo da sociedade portuguesa e dos seus responsáveis políticos."
+    },
+    {
+      "utterance_id": 196,
+      "order": 196,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 197,
+      "order": 197,
+      "page_start": 26,
+      "speaker": {
+        "id": 2223,
+        "name": "Jorge Manuel Capela Gonçalves Fão",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que está aqui em causa é que Portugal tem de responder rapidamente, com uma solução de futuro e de qualidade, à necessidade de integração numa rede de transportes moderna, transeuropeia, nomeadamente no aspecto específico do transporte aeroportuário."
+    },
+    {
+      "utterance_id": 198,
+      "order": 198,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 199,
+      "order": 199,
+      "page_start": 26,
+      "speaker": {
+        "id": 2223,
+        "name": "Jorge Manuel Capela Gonçalves Fão",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Efectivamente, o que o Governo fez, e VV. Ex.as têm conhecimento do processo, no qual VV. Ex.as\n, PSD e CDS-PP, colaboraram activamente,…"
+    },
+    {
+      "utterance_id": 200,
+      "order": 200,
+      "page_start": 26,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é verdade!"
+    },
+    {
+      "utterance_id": 201,
+      "order": 201,
+      "page_start": 26,
+      "speaker": {
+        "id": 2223,
+        "name": "Jorge Manuel Capela Gonçalves Fão",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… foi decidir, em Novembro de 2005, com base num processo de estudos que foi desenvolvido, de avaliações, de ponderações, de recolhas de informação, que a melhor localização – volto a dizer, com base nos estudos técnicos desenvolvidos por entidades credíveis, tão credíveis, no mínimo, como aquelas que agora dizem que não serve – era a Ota. A Ota era aquela localização que, em princípio, teria as melhores condições para a construção do novo aeroporto de Lisboa."
+    },
+    {
+      "utterance_id": 202,
+      "order": 202,
+      "page_start": 26,
+      "speaker": {
+        "id": 1261,
+        "name": "Isabel Maria Pinto Nunes Jorge",
+        "party": "PS",
+        "string": "A Sr.ª Isabel Jorge (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 203,
+      "order": 203,
+      "page_start": 26,
+      "speaker": {
+        "id": 2223,
+        "name": "Jorge Manuel Capela Gonçalves Fão",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas, contrariamente àquilo que se diz e efectivamente assim deve ser, estuda-se e avalia-se, decide-se a localização e, depois, projecta-se. Porque projectar é um trabalho fino de avaliação e de análise das condições necessárias à construção, que é a fase imediatamente seguinte, quer técnicas quer financeiras.\nPortanto, não se diga aqui que se «anda com o carro à frente dos bois» ou que não se procede da forma como se deve proceder. O que efectivamente se fez foi decidir, em função dos elementos que existiam, credíveis, e agora projecta-se, estuda-se, salvaguardando todos os pormenores para que a decisão sobre a localização da construção do novo aeroporto, deste grande projecto nacional, seja aquela que melhor serve os interesses de todos os portugueses, do País, e não só dos candidatos de alguns à Câmara Municipal de Lisboa, acerca de dois meses a esta parte.\nEm função desta decisão, tomada em 2005 e não contestada por alguém de forma visível ou audível – já disse isto várias vezes –, mandam as regras de seriedade política e da coerência das grandes decisões que se deve prosseguir um rumo, naturalmente, não surdo nem cego em relação às evidências que"
+    },
+    {
+      "utterance_id": 204,
+      "order": 204,
+      "page_start": 27,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tenha vergonha!"
+    },
+    {
+      "utterance_id": 205,
+      "order": 205,
+      "page_start": 27,
+      "speaker": {
+        "id": 2223,
+        "name": "Jorge Manuel Capela Gonçalves Fão",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Trata-se de projectar um grande investimento, um grande projecto, que leva cerca de 5 ou 6 anos a concluir, no mínimo dos mínimos, na melhor das situações! Portanto, tem de ser tomada esta decisão com a antecedência necessária e com o sentido de responsabilidade e a ponderação que ela exige.\nMas atenção, e para terminar, queria referir que o Governo, o Ministério das Obras Públicas, Transportes e Comunicações e o Sr. Ministro das Obras Públicas sempre disseram – ninguém pode contestar – que, independentemente de essa parecer a melhor decisão e o melhor rumo, estariam, como têm estado, disponíveis, sensíveis, atentos e preparados para recolher estudos credíveis que porventura viessem a surgir sobre propostas alternativas, avaliá-los, tê-los em consideração, mas não parando o processo, dando-lhe continuidade e, em simultâneo, fazendo a avaliação das soluções que fossem surgindo. E é isso, Caros Srs. Deputados e Sr.as Deputadas, que o PS e o seu Governo estão a fazer.\nDepois, surgiu um estudo credível, infelizmente não apresentado por nenhuma força da oposição, e tinham a obrigação de o fazer,…\n… mas por uma organização da sociedade civil.\nEfectivamente, quando surgiu esse estudo com a hipótese de localização em Alcochete, o Governo logo se disponibilizou, numa linha de coerência, a aceitar, a avaliar e a ponderar essa nova solução.\nBom, e agora surge, infelizmente tarde, parece que uma organização da sociedade civil mais uma vez – naturalmente, admitimos que devidamente motivada e «empurrada», no bom sentido do termo, pelas conveniências e pelos oportunismos da actualidade – a dizer que apresentará um estudo sobre a viabilidade da solução «Portela+1».\nNuma linha de coerência com aquilo que tem sido a sua posição, o Governo diz «continuaremos a aprofundar as questões do estudo sobre a Ota, mas vamos, então, ter em atenção essa nova proposta, venha esse novo estudo que diz que a “Portela+1” será uma solução».\nRealmente, VV. Ex.as defendem-na como a solução – no nosso entendimento não é – que tem, na actualidade, capacidade de resposta para os problemas aeroportuários do País.\nPortanto, o que queremos perguntar àqueles que agora aparecem defendendo a «Portela+1» como uma solução é quais são os custos que ela tem para o País. E viro-me até, de alguma maneira, para os partidos de esquerda em cuja matriz ideológica e em cuja linha programática está a defesa da qualidade de vida das pessoas, a preservação do ambiente e o combate à poluição.\nQue tipo de preço tem para o País, para os portugueses e para os lisboetas não cuidar desta matéria?"
+    },
+    {
+      "utterance_id": 206,
+      "order": 206,
+      "page_start": 27,
+      "speaker": {
+        "id": 1261,
+        "name": "Isabel Maria Pinto Nunes Jorge",
+        "party": "PS",
+        "string": "A Sr.ª Isabel Jorge (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 207,
+      "order": 207,
+      "page_start": 27,
+      "speaker": {
+        "id": 2223,
+        "name": "Jorge Manuel Capela Gonçalves Fão",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quanto custa continuar a poluir fortemente o ar de Lisboa? Quanto custa continuar com a poluição sonora, de um modo perfeitamente insustentável, do ambiente da cidade Lisboa e dos lisboetas?"
+    },
+    {
+      "utterance_id": 208,
+      "order": 208,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 209,
+      "order": 209,
+      "page_start": 27,
+      "speaker": {
+        "id": 2223,
+        "name": "Jorge Manuel Capela Gonçalves Fão",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quanto custa a persistente poluição do solo onde está instalado o aeroporto da Portela?"
+    },
+    {
+      "utterance_id": 210,
+      "order": 210,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não lhes interessa!"
+    },
+    {
+      "utterance_id": 211,
+      "order": 211,
+      "page_start": 27,
+      "speaker": {
+        "id": 2223,
+        "name": "Jorge Manuel Capela Gonçalves Fão",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quanto custa, Sr.as e Srs. Deputados, a não devolução à polis da grande área de Lisboa de um espaço…"
+    },
+    {
+      "utterance_id": 212,
+      "order": 212,
+      "page_start": 27,
+      "speaker": {
+        "id": 1187,
+        "name": "Bruno Ramos Dias",
+        "party": "PCP",
+        "string": "O Sr. Bruno Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Um jardim!"
+    },
+    {
+      "utterance_id": 213,
+      "order": 213,
+      "page_start": 27,
+      "speaker": {
+        "id": 2223,
+        "name": "Jorge Manuel Capela Gonçalves Fão",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… que deve ser de fruição e de lazer, onde efectivamente, neste momento, isso não acontece, antes pelo contrário, onde há um conjunto de situações extremamente prejudiciais? Mas faço perguntas ainda no plano económico e financeiro, que é preciso ter em atenção."
+    },
+    {
+      "utterance_id": 214,
+      "order": 214,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 215,
+      "order": 215,
+      "page_start": 28,
+      "speaker": {
+        "id": 2223,
+        "name": "Jorge Manuel Capela Gonçalves Fão",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso não tem valor? Isso não é importante? Venham os estudos todos de uma vez e de uma forma séria,…"
+    },
+    {
+      "utterance_id": 216,
+      "order": 216,
+      "page_start": 28,
+      "speaker": {
+        "id": 2445,
+        "name": "Alda Maria Gonçalves Pereira Macedo",
+        "party": "BE",
+        "string": "A Sr.ª Alda Macedo (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ah, assim está bem!"
+    },
+    {
+      "utterance_id": 217,
+      "order": 217,
+      "page_start": 28,
+      "speaker": {
+        "id": 2223,
+        "name": "Jorge Manuel Capela Gonçalves Fão",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… mas é importante que o País perceba, que todas as forças políticas percebam, que Portugal tem de ter rapidamente uma solução, uma decisão, obviamente a mais séria e a mais adequada, para iniciar a construção de um novo aeroporto, porque esta será a única forma de salvaguardarmos a imagem do País, a nossa competitividade e, efectivamente, o futuro de todos nós."
+    },
+    {
+      "utterance_id": 218,
+      "order": 218,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Fernando Santos Pereira."
+    },
+    {
+      "utterance_id": 219,
+      "order": 219,
+      "page_start": 28,
+      "speaker": {
+        "id": 1232,
+        "name": "Fernando Santos Pereira",
+        "party": "PSD",
+        "string": "O Sr. Fernando Santos Pereira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados e Sr.as Deputadas: Temos visto neste debate de hoje, e também ao longo dos últimos meses, que o Governo estava «prisioneiro» da Ota. Isso ficou demonstrado.\nContudo, o que parece é que a bancada do Partido Socialista ainda continua «prisioneira» da construção do aeroporto da Ota."
+    },
+    {
+      "utterance_id": 220,
+      "order": 220,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 221,
+      "order": 221,
+      "page_start": 28,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Perderam a chave!"
+    },
+    {
+      "utterance_id": 222,
+      "order": 222,
+      "page_start": 28,
+      "speaker": {
+        "id": 1232,
+        "name": "Fernando Santos Pereira",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Aliás, se dúvidas houvesse sobre o Governo, bastava olhar para o Diário da Assembleia da República, para os debates feitos em sessão plenária, e ver as declarações do Sr. Primeiro-Ministro: são páginas e páginas com o Sr. Primeiro-Ministro a defender a opção da Ota.\nPortanto, o Governo estava, sem quaisquer dúvidas, «prisioneiro» da opção da Ota. E o aeroporto da Ota até deveria mudar de nome, usando aquilo que o Deputado Nelson Baltazar aqui referiu, ou seja, deveria ser «aeroporto das estacas».\nSr. Deputado Nelson Baltazar, quando referiu o estudo, deveria também ter dito que no mesmo se comprovou que a Ota era um pântano. Para construir a Ota, são necessários 3000 Km de estacas! O aeroporto ficaria pousado em 3000 Km de estacas! Ouviu bem, Sr. Deputado? Portanto, deveríamos mudar o nome do aeroporto."
+    },
+    {
+      "utterance_id": 223,
+      "order": 223,
+      "page_start": 28,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Sr. Nelson Baltazar (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A Expo tem mais estacas do que o aeroporto!"
+    },
+    {
+      "utterance_id": 224,
+      "order": 224,
+      "page_start": 28,
+      "speaker": {
+        "id": 1232,
+        "name": "Fernando Santos Pereira",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E quem mandou fazer esse estudo que comprovou essa má opção foi o Deputado Jorge Costa, na altura Secretário de Estado."
+    },
+    {
+      "utterance_id": 225,
+      "order": 225,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 226,
+      "order": 226,
+      "page_start": 28,
+      "speaker": {
+        "id": 1232,
+        "name": "Fernando Santos Pereira",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas, Srs. Deputados, passou pouco mais de uma semana e o Governo veio ao Parlamento recuar na opção relativamente à Ota.\nO PSD não fez nenhum aproveitamento político desta situação governativa,…\n… aliás, saudou a decisão anunciada pelo Sr. Ministro.\nO que é que esperam os portugueses? Os portugueses, agora, esperam que haja um «virar de página» e seriedade de propósitos; não esperam aquilo que está a acontecer, que é uma certa atitude de reserva mental."
+    },
+    {
+      "utterance_id": 227,
+      "order": 227,
+      "page_start": 28,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 228,
+      "order": 228,
+      "page_start": 29,
+      "speaker": {
+        "id": 1232,
+        "name": "Fernando Santos Pereira",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que se passou na última semana não é nada tranquilizador.\nOs autarcas do Oeste foram recebidos, fazem as declarações que fazem e não são desmentidos – ou são mentirosos ou se passa algo de diferente daquilo que soubemos cá fora; o Sr. Ministro Mário Lino diz que está aberto a todas soluções mas nesse mesmo dia, à noite, o Ministro da Presidência vai a um dos canais de televisão dizer «Portela não, está tudo estudado».\nPortanto, uma série de contradições têm vindo ao de cima e só passou uma semana. São sinais claramente negativos do Governo e demonstram que há aqui uma espécie de «gato escondido com o rabo de fora».\nParece-nos que os portugueses têm alguma legitimidade para tirar conclusões acerca desta matéria.\nE é uma matéria em que o Governo tem de ter boa-fé.\nA posição do PSD é esta: o Governo deve fazer todos os estudos de uma forma séria, competente, independente e, muito importante, Srs. Deputados, sem limitações ou pressões."
+    },
+    {
+      "utterance_id": 229,
+      "order": 229,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 230,
+      "order": 230,
+      "page_start": 29,
+      "speaker": {
+        "id": 1232,
+        "name": "Fernando Santos Pereira",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso, não compreendemos as restrições que estão a acontecer.\nO que é que nós queremos afinal?"
+    },
+    {
+      "utterance_id": 231,
+      "order": 231,
+      "page_start": 29,
+      "speaker": {
+        "id": 1261,
+        "name": "Isabel Maria Pinto Nunes Jorge",
+        "party": "PS",
+        "string": "A Sr.ª Isabel Jorge (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não querem nada!"
+    },
+    {
+      "utterance_id": 232,
+      "order": 232,
+      "page_start": 29,
+      "speaker": {
+        "id": 1232,
+        "name": "Fernando Santos Pereira",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Queremos que se estudem todas as hipóteses, todas as alternativas relativamente à Ota.\nO Partido Socialista, recentemente, ontem aliás, veio dizer o seguinte: «não aprovamos o projecto de resolução porque não é habitual; a Assembleia da República não vai agora recomendar ao Governo que se façam determinados estudos». Foi essa a justificação dada para que o Partido Socialista vote contra este projecto de resolução, que nós próprios, aqui, vamos votar favoravelmente. Espanto-me que o Partido Socialista diga que, por uma questão de princípio, não vota uma recomendação para que o Governo realize determinados estudos. É que, há pouco mais de uma semana, aprovou aqui uma recomendação para que o Governo realize um estudo nacional exaustivo sobre a gravidez na adolescência, por concelho, que proporcione um real diagnóstico da situação.\nO que é isto, Srs. Deputados? Para o Partido Socialista, no que respeita a umas matérias, a Assembleia pode recomendar ao Governo que se façam estudos, mas no que respeita ao aeroporto, está coarctada de fazer essa mesma recomendação."
+    },
+    {
+      "utterance_id": 233,
+      "order": 233,
+      "page_start": 29,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 234,
+      "order": 234,
+      "page_start": 29,
+      "speaker": {
+        "id": 1232,
+        "name": "Fernando Santos Pereira",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em suma, o Partido Socialista só aprova aqui aquilo que lhe dá jeito e, neste caso, vai funcionar, mais uma vez — é preciso dizê-lo, olhos nos olhos —, como maioria de bloqueio.\nHá meses atrás, esta maioria de bloqueio votou aqui contra a criação de uma comissão eventual, proposta pelo Partido Social Democrata, destinada a estudar as alternativas e a melhor solução para a construção do novo aeroporto de Lisboa — ponto final, parágrafo!"
+    },
+    {
+      "utterance_id": 235,
+      "order": 235,
+      "page_start": 29,
+      "speaker": {
+        "id": 1322,
+        "name": "Luís Maria De Barros Serra Marques Guedes",
+        "party": "PSD",
+        "string": "O Sr. Luís Marques Guedes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 236,
+      "order": 236,
+      "page_start": 29,
+      "speaker": {
+        "id": 1232,
+        "name": "Fernando Santos Pereira",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nessa altura, toda a oposição votou favoravelmente a criação de uma comissão parlamentar de acompanhamento da construção do novo aeroporto, mas o Partido Socialista votou contra! Portanto, essa posição do Partido Socialista, essa maioria de bloqueio é grave! E a restrição que está a fazer aos estudos, que devem abarcar todas as variáveis, também é grave! Em suma, Sr. Presidente, para nós tudo isto é um mau prenúncio, tendo em conta a seriedade que este processo exige!"
+    },
+    {
+      "utterance_id": 237,
+      "order": 237,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para uma intervenção, o último orador inscrito, que é o Sr. Deputado Telmo Correia."
+    },
+    {
+      "utterance_id": 238,
+      "order": 238,
+      "page_start": 29,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Chegados à parte final deste debate, gostaria de vos dizer, e muito em particular aos Srs. Deputados do Partido Socialista, duas ou três coisas.\nOs senhores não perceberam — mas se não perceberam ainda estão a tempo de perceber — que não estamos aqui por minha causa ou só por minha causa. Estamos aqui porque o Ministro Mário Lino"
+    },
+    {
+      "utterance_id": 239,
+      "order": 239,
+      "page_start": 30,
+      "speaker": {
+        "id": 1946,
+        "name": "António Carlos Bivar Branco De Penha Monteiro",
+        "party": "CDS-PP",
+        "string": "O Sr. António Carlos Monteiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 240,
+      "order": 240,
+      "page_start": 30,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estamos aqui porque o País está a discutir este assunto. Estamos aqui porque o Presidente da República pediu que a Assembleia debatesse este assunto."
+    },
+    {
+      "utterance_id": 241,
+      "order": 241,
+      "page_start": 30,
+      "speaker": {
+        "id": 1946,
+        "name": "António Carlos Bivar Branco De Penha Monteiro",
+        "party": "CDS-PP",
+        "string": "O Sr. António Carlos Monteiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 242,
+      "order": 242,
+      "page_start": 30,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Parem com o argumento da coerência, que não vos serve para nada.\nE, em termos de coerência, Srs. Deputados do Partido Socialista, queria dar-vos só dois ou três exemplos, porque passaram parte deste debate a procurar insinuar que eu só defendia esta posição agora.\nSrs. Deputados, agradeço a publicidade, mas quero citar-vos um documento indesmentível, que é o Diário da Assembleia da República de 1999. Primeira citação: «\nO Sr. Ministro pode avançar para a Ota já, mas não nos queira tomar a todos por otários.» Segue-se: «Aplausos do CDS-PP.» — o orador é Telmo Correia!"
+    },
+    {
+      "utterance_id": 243,
+      "order": 243,
+      "page_start": 30,
+      "speaker": {
+        "id": 1946,
+        "name": "António Carlos Bivar Branco De Penha Monteiro",
+        "party": "CDS-PP",
+        "string": "O Sr. António Carlos Monteiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 244,
+      "order": 244,
+      "page_start": 30,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Segunda citação, de 4 de Dezembro de 1999: «A melhor decisão seria manter o aeroporto da Portela, só que também há contestação em relação à manutenção da Portela, isto é, manter a possibilidade da Portela, como defendemos, com um aeroporto complementar» — o orador é Telmo Correia!"
+    },
+    {
+      "utterance_id": 245,
+      "order": 245,
+      "page_start": 30,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 246,
+      "order": 246,
+      "page_start": 30,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Segue-se: «"
+    },
+    {
+      "utterance_id": 247,
+      "order": 247,
+      "page_start": 30,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!», exactamente como agora."
+    },
+    {
+      "utterance_id": 248,
+      "order": 248,
+      "page_start": 30,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É a «cassete»!"
+    },
+    {
+      "utterance_id": 249,
+      "order": 249,
+      "page_start": 30,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Passo a citar uma entrevista com um senhor, que era Ministro do Turismo, cuja única diferença em relação à actualidade é que, na altura, usava óculos, que dizia: «A capacidade aeroportuária não está completamente explorada e, no futuro, podemos usar um segundo aeroporto para esse segmento, low cost. Considero que isso deve ser perspectivado» — quem o disse fui eu próprio, em 2004.\nHá, pois, da minha parte, uma coerência absoluta de posições!"
+    },
+    {
+      "utterance_id": 250,
+      "order": 250,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 251,
+      "order": 251,
+      "page_start": 30,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se o defendemos no passado, por que é que agora, só porque não vos convém, não havemos de fazer oposição?!\nOs senhores estão a ficar autoritários e arrogantes! Vão ter oposição, quer queiram, quer não! Devo até dizer-vos que, de 1999 para cá, estamos muito mais acompanhados. A verdade é que o PCP sempre teve uma posição de reserva — justiça lhe seja feita!"
+    },
+    {
+      "utterance_id": 252,
+      "order": 252,
+      "page_start": 30,
+      "speaker": {
+        "id": 2223,
+        "name": "Jorge Manuel Capela Gonçalves Fão",
+        "party": "PS",
+        "string": "O Sr. Jorge Fão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso não é novidade!"
+    },
+    {
+      "utterance_id": 253,
+      "order": 253,
+      "page_start": 30,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Bloco de Esquerda, ao princípio, não tinha dúvidas, mas foi-as acumulando, e agora vai votar favoravelmente o nosso projecto — ainda bem! E o Partido Social Democrata, em certo momento, admitiu a margem sul, acumulou dúvidas e também vai votar o nosso projecto. Portanto, sinto-me muito bem acompanhado!"
+    },
+    {
+      "utterance_id": 254,
+      "order": 254,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 255,
+      "order": 255,
+      "page_start": 31,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado Nelson Baltazar fala nos custos, mas só o Sr. Deputado para vir aqui dizer que um aeroporto que já existe, mais um aeroporto que já é uma base aérea, adaptado para um aeroporto barato, segmentado para low cost, pode ser mais caro do que construir um aeroporto de raiz a 50 km de Lisboa!"
+    },
+    {
+      "utterance_id": 256,
+      "order": 256,
+      "page_start": 31,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 257,
+      "order": 257,
+      "page_start": 31,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ó Sr. Deputado, não é lógico! Não cabe na cabeça de ninguém!"
+    },
+    {
+      "utterance_id": 258,
+      "order": 258,
+      "page_start": 31,
+      "speaker": {
+        "id": 2223,
+        "name": "Jorge Manuel Capela Gonçalves Fão",
+        "party": "PS",
+        "string": "O Sr. Jorge Fão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Faz-se uma coisinha mais baratinha, para remediar!?"
+    },
+    {
+      "utterance_id": 259,
+      "order": 259,
+      "page_start": 31,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado pergunta: «quanto custa? Quais são os problemas ambientais? Quais são as dificuldades?» Sr. Deputado, quero dizer-lhe — já o disse 30 vezes, em 30 debates, e noutros tantos — que, à partida, entendo que a opção «Portela+1» parece ser a melhor, do ponto de vista da economia, do turismo e do crescimento do tráfego aéreo. E vou dar-vos um número, que não é conhecido, que nunca foi usado em nenhum debate, mas que penso ser um número relevante. \nO Sr. Deputado Nelson Baltazar sabe qual é a taxa de crescimento médio anual do tráfego aéreo na Portela?"
+    },
+    {
+      "utterance_id": 260,
+      "order": 260,
+      "page_start": 31,
+      "speaker": {
+        "id": 1365,
+        "name": "Nelson Madeira Baltazar",
+        "party": "PS",
+        "string": "O Sr. Nelson Baltazar (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Cerca de 8%!"
+    },
+    {
+      "utterance_id": 261,
+      "order": 261,
+      "page_start": 31,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem! É de 8%! Desses 8% sabe quanto representa tráfego tradicional e quanto representa low cost? O tráfego anual tradicional cresce 3,6% e o low cost 91,8%!"
+    },
+    {
+      "utterance_id": 262,
+      "order": 262,
+      "page_start": 31,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "São números de ontem!"
+    },
+    {
+      "utterance_id": 263,
+      "order": 263,
+      "page_start": 31,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "São números de agora! Como todos sabemos, num voo low cost o que é que acontece? Não há jornal nem refeição de borla, as viagens são marcadas pela Internet, os passageiros vão a pé para o avião e as taxas têm de ser baixas. Portanto, a vantagem reside num aeroporto que já existe, com taxas mais baixas. É nisto que reside a vantagem!"
+    },
+    {
+      "utterance_id": 264,
+      "order": 264,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor de concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 265,
+      "order": 265,
+      "page_start": 31,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou concluir, Sr. Presidente.\nAlguém, em tempos, dizia: «Deixem-nos trabalhar!». O que vos digo, Srs. Deputados, perante estas dúvidas, perante as vossas próprias perguntas, é: Deixem avaliar! Deixem estudar as três hipóteses, em igualdade de circunstâncias! Só isso pode responder à vossa dúvida! É o melhor, no interesse nacional!."
+    },
+    {
+      "utterance_id": 266,
+      "order": 266,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 267,
+      "order": 267,
+      "page_start": 31,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado Nelson Baltazar, ao mesmo tempo que criticava o populismo, citava o poeta popular António Aleixo. Vou também citar-lhe António Aleixo, Sr. Deputado, para sua reflexão: «Queremos ver sempre à distância/O que não está a descoberto/Sem ligarmos importância/Ao que está à vista e bem perto».\nSr. Deputado, neste caso, o que está à vista e bem perto é a solução «Portela+1»,…"
+    },
+    {
+      "utterance_id": 268,
+      "order": 268,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ah!"
+    },
+    {
+      "utterance_id": 269,
+      "order": 269,
+      "page_start": 31,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… que é, aparentemente, a melhor solução. Era nisto que o Sr. Deputado devia reflectir"
+    },
+    {
+      "utterance_id": 270,
+      "order": 270,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as e Srs. Deputados, terminado o debate do projecto de resolução n.º 215/X, passamos à sua votação, para o que importa proceder à verificação electrónica do quórum de deliberação.\nComo já sabem, os Srs. Deputados que, por qualquer motivo, não puderem registar a sua presença por meio electrónico, farão o favor de o assinalar à Mesa e, posteriormente, procederão ao seu registo junto dos serviços de apoio ao Plenário.\nPausa.\nSrs. Deputados, o quadro electrónico regista a presença de 183 Srs. Deputados e a Mesa assinala ainda a presença de mais 8 Srs. Deputados, pelo que temos quórum de deliberação.\nVamos, então, votar o projecto de resolução n.º 215/X — Sobre a decisão de construção de um novo aeroporto (CDS-PP).\nSubmetido à votação, foi rejeitado, com votos contra do PS e votos a favor do PSD, do PCP, do CDSPP, do BE e de Os Verdes.\nSrs. Deputados, importa ainda votar alguns pareceres da Comissão de Ética, de que a Sr.ª Secretária vai passar a dar conta."
+    },
+    {
+      "utterance_id": 271,
+      "order": 271,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, de acordo com o solicitado pelo 1.º Juízo do Tribunal Judicial de Silves, Processo n.º 583/03.3 — JAFAR, a Comissão de Ética decidiu emitir parecer no sentido de autorizar o Sr. Deputado Mendes Bota (PSD) a prestar depoimento, por escrito, como testemunha, no âmbito dos referidos autos."
+    },
+    {
+      "utterance_id": 272,
+      "order": 272,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está em apreciação.\nPausa.\nNão havendo pedidos de palavra, vamos votar.\nSubmetido à votação, foi aprovado por unanimidade."
+    },
+    {
+      "utterance_id": 273,
+      "order": 273,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, a solicitação do 3.º Juízo do Tribunal Judicial de Felgueiras, Processo n.º 449/03.7 — GAFLG, a Comissão de Ética decidiu emitir parecer no sentido de autorizar o Sr. Deputado Agostinho Gonçalves (PS) a prestar depoimento, por escrito, como testemunha, no âmbito daqueles autos."
+    },
+    {
+      "utterance_id": 274,
+      "order": 274,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o parecer está em apreciação.\nPausa.\nUma vez que não há pedidos de palavra, vamos votar.\nSubmetido à votação, foi aprovado por unanimidade."
+    },
+    {
+      "utterance_id": 275,
+      "order": 275,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, de acordo com o solicitado pelo 2.º Juízo Cível do Tribunal Judicial de Braga, Processo n.º 7031/06.5 — TBBRG, a Comissão de Ética decidiu emitir parecer no sentido de autorizar o Sr. Deputado Agostinho Branquinho (PSD) a prestar depoimento, presencialmente, como testemunha, no âmbito dos referidos autos."
+    },
+    {
+      "utterance_id": 276,
+      "order": 276,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está em apreciação.\nPausa.\nDado que ninguém pretende intervir, vamos votar.\nSubmetido à votação, foi aprovado por unanimidade."
+    }
+  ]
+}

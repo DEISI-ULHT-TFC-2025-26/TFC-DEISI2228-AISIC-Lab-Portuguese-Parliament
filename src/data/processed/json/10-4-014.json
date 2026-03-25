@@ -1,0 +1,4002 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "10",
+    "legislative_session": "4",
+    "number": "14",
+    "date": "2008-10-16"
+  },
+  "debate_id": "r3_10_4_14_2008-10-16",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão. \nEram 15 horas e 10 minutos. \nSrs. Deputados presentes à sessão: \nPartido Socialista (PS): \nAgostinho Moreira Gonçalves \nAlberto Marques Antunes \nAlberto de Sousa Martins \nAlcídia Maria Cruz Sousa de Oliveira Lopes \nAldemira Maria Cabanita do Nascimento Bispo Pinho \nAna Catarina Veiga Santos Mendonça Mendes \nAna Maria Cardoso Duarte da Rocha \nAna Maria Correia Rodrigues \nAna Maria Ribeiro Gomes do Couto \nAntónio Alves Marques Júnior \nAntónio José Ceia da Silva \nAntónio José Martins Seguro \nAntónio Ramos Preto \nAntónio Ribeiro Gameiro \nArtur Miguel Claro da Fonseca Mora Coelho \nCarlos Alberto David dos Santos Lopes \nCláudia Isabel Patrício do Couto Vieira \nDavid Martins \nDeolinda Isabel da Costa Coutinho \nElísio da Costa Amorim \nEsmeralda Fátima Quitério Salero Ramires \nFernanda Maria Pereira Asseiceira \nFernando Manuel de Jesus \nFernando dos Santos Cabral \nGlória Maria da Silva Araújo \nHorácio André Antunes \nHugo Miguel Guerreiro Nunes \nIsabel Maria Batalha Vigia Polaco de Almeida \nIsabel Maria Pinto Nunes Jorge \nJacinto Serrão de Freitas \nJaime José Matos da Gama \nJoana Fernanda Ferreira Lima \nJoaquim Ventura Leite \nJorge Filipe Teixeira Seguro Sanches \nJorge Manuel Capela Gonçalves Fão \nJorge Manuel Monteiro de Almeida \nJosé Adelmo Gouveia Bordalo Junqueiro \nJosé Augusto Clemente de Carvalho \nJosé Carlos Bravo Nico \nJosé Carlos Correia Mota de Andrade \nJosé Manuel Lello Ribeiro de Almeida \nJovita de Fátima Romano Ladeira \nJoão Barroso Soares \nJoão Carlos Vieira Gaspar \nJoão Cândido da Rocha Bernardo \nJoão Miguel de Melo Santos Taborda Serrano \nJoão Raul Henriques Sousa Moura Portugal \nLuís Afonso Cerqueira Natividade Candal \nLuís António Pita Ameixa \nLuís Miguel Morgado Laranjeiro \nLuísa Maria Neves Salgueiro \nLúcio Maia Ferreira \nManuel Alegre de Melo Duarte"
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a nossa reunião de hoje é exclusivamente preenchida com a apreciação da proposta de lei n.º 225/X (4.ª) — Estabelece a possibilidade de concessão extraordinária de garantias pessoais pelo Estado, no âmbito do sistema financeiro.\nPara apresentar o diploma, tem a palavra o Sr. Secretário de Estado do Tesouro e Finanças."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 5,
+      "speaker": {
+        "id": 3040,
+        "name": "Carlos Costa Pina",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e Finanças (Carlos Costa Pina)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Gostaria de começar por agradecer o carácter de urgência com que o agendamento deste diploma foi feito para que pudéssemos estar aqui, hoje, a discutir esta importante iniciativa, aprovada pelo Conselho de Ministros no passado fim-de-semana.\nGostaria de começar por dizer que, como, aliás, é reconhecido pelas instituições financeiras internacionais, o sistema financeiro português é sólido nos seus fundamentais, é resiliente às condições de financiamento adversas resultantes da turbulência dos mercados, em especial no que diz respeito às actuais restrições de liquidez nos mercados financeiros, e é um sistema, também como reconhece o Fundo Monetário Internacional, bem gerido e adequadamente supervisionado.\nA actual situação de crise financeira internacional, depois dos seus reflexos em quedas substanciais no primeiro semestre deste ano ao nível dos mercados e de aumento de taxas de juro, acentuou-se após a falência do banco americano Lehmon Brothers, com reflexos ao nível de quedas substanciais, entre 20 e 30%,"
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveram-se vários Srs. Deputados para pedir esclarecimentos. Em primeiro lugar, tem a palavra o Sr. Deputado Francisco Louçã."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 6,
+      "speaker": {
+        "id": 1237,
+        "name": "Francisco Anacleto Louçã",
+        "party": "BE",
+        "string": "O Sr. Francisco Louçã (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, na sua intervenção introduziu um elemento surpreendente, que foi dizer-nos — e há, certamente, bom senso nisso — que as medidas já anunciadas não provaram ainda robustez suficiente na resposta à instabilidade dos mercados financeiros. Mas"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Honório Novo."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 7,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, depois da encenação de medidas feita pelo Governo, aqui, na semana passada, da descida da taxa de IRC, que, afinal, só vai suceder em 2010, e da 13.ª prestação do abono de família, que, afinal só vai ser paga um mês antes das eleições, o Governo vem hoje tentar salvar o sistema, isto é, salvar aqueles que estiveram na origem e que são responsáveis pela economia de casino que hoje vivemos."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 7,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 7,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vem aqui o Governo pedir que a Assembleia apoie e aprove um aval oito vezes maior — repito, oito vezes maior — do que o limite previsto para todas estas operações no Orçamento do Estado para este ano. Isto é, o Governo rectifica o Orçamento passando os limites dos avales de 2500 milhões de euros para 22 500 milhões de euros. Era importante que o Sr. Ministro estivesse aqui, porque era altura de ele pagar novamente com um bolo-rei uma aposta que fez com esta bancada, passados três anos."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 7,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 7,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares (Augusto Santos Silva)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não, não! Essa perdeu e já pagou!"
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 7,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "De facto, o Governo vem aqui rectificar o Orçamento por causa do salvamento do sistema capitalista e da banca. Só por isso é que o Governo dá a mão à palmatória! Neste quadro, Sr. Secretário de Estado, o que vou fazer é falar do outro lado da medalha, do reverso da medalha. É importante que eu fale do problema daqueles a quem o Governo recusa sempre apoio, daqueles a quem o Governo diz que nunca há dinheiro para nada, e vou colocar-lhe duas questões determinantes neste aspecto, nesta proposta de lei do Governo.\nSr. Secretário de Estado, há cerca de 250 fundos de pensões, com um valor superior a 24 000 milhões de euros, sendo que 90% destes fundos são de pensões profissionais, não são complementos de reforma. O que é que o Governo tem a dizer sobre a situação destes fundos, que implicam 300 000 pessoas?"
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 7,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 7,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Qual é o seu valor real? Se as comissões de acompanhamento desses fundos não esclarecem, o Governo tem a obrigação, quando apresenta esta proposta de lei, de esclarecer"
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 8,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 8,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A segunda questão, ainda mais importante, Sr. Secretário de Estado, refere-se ao Fundo de Capitalização da Segurança Social. 20% deste fundo está colocado em acções; 10% está colocado em acções nos Estados Unidos. Qual é, Sr. Secretário de Estado, a situação do dinheiro dos trabalhadores? Qual é o seu valor real agora? Com que legitimidade é que o Governo decidiu jogar em bolsa o dinheiro dos trabalhadores? E o que é que o Governo tem a dizer aos trabalhadores sobre o Fundo de Capitalização da Segurança Social?"
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para pedir esclarecimentos, tem a palavra o Sr. Deputado Diogo Feio."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 8,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Ministro."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 8,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, eu tinha sugerido à Mesa que o Sr.\nSecretário de Estado respondesse a conjuntos de duas questões."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sim, Sr. Ministro, mas, entretanto, o Sr. Deputado Vítor Baptista, do Grupo Parlamentar do PS, também anunciou que queria fazer uma pergunta ao orador. Será que o Governo, para dividir as perguntas de uma forma mais racional, fica satisfeito com a hipótese de responder, conjuntamente, a três questões e, depois, a mais outro grupo de três questões?"
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 8,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não, Sr. Presidente.\nComo o Governo ainda dispõe de bastante tempo, sugiro que se mantenha a opção do Sr. Secretário de Estado de responder a grupos de duas questões."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem. Então, o Sr. Secretário de Estado responderá no seguinte esquema: 2+2+2.\nTem a palavra, Sr. Secretário de Estado, para responder já aos dois primeiros pedidos de esclarecimento."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 8,
+      "speaker": {
+        "id": 3040,
+        "name": "Carlos Costa Pina",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e Finanças",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Francisco Louçã, aquilo que eu disse não foi que as medidas tomadas até agora foram inúteis. \nO Sr. Deputado, com certeza, não me ouviu dizer isso.\nAquilo que eu disse, pura e simplesmente, foi que, tendo em conta a evolução recente que os mercados têm vindo a verificar, incluindo, aliás, a evolução do próprio dia de hoje, temos de estar vigilantes e de acompanhar toda esta situação com muita prudência. Mas não podemos esquecer-nos de uma coisa: vivemos num mundo globalizado onde a economia portuguesa, enquanto economia aberta ao exterior, tem de acompanhar a evolução que se está a verificar ao nível dos mercados internacionais, porque não podemos ter a ilusão de que uma medida puramente doméstica e interna, tomada entre nós, resolve os nossos problemas.\nNão é assim, Sr. Deputado? Este é um problema global que requer soluções globais e concertadas, não apenas a nível europeu mas a nível mundial.\nPortanto, temos de criar um regime – e é isto que hoje, aqui, está proposto – que acautele e tenha a flexibilidade suficiente para nos permitir a todo o momento acompanhar aquelas que venham a ser as decisões tomadas a nível internacional nesta matéria Em segundo lugar, aquilo que estamos aqui a tratar hoje é de uma lei excepcional de concessão de garantias do Estado e, portanto, Sr. Deputado, não se trata de nenhum qualquer orçamento rectificativo."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 9,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Então não é?! Só não se chama assim!"
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 9,
+      "speaker": {
+        "id": 3040,
+        "name": "Carlos Costa Pina",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e Finanças",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não estamos a falar de um aumento de despesa, estamos a falar, pura e simplesmente, de uma autorização excepcional de concessão de garantias, com base em contra-garantias que serão prestadas em condições a definir pelo Sr. Ministro das Finanças e com base em custos de acordo com condições de mercado.\nSr. Deputado, até diria mais: não fosse o esforço que tem vindo também a ser feito ao nível da consolidação orçamental nos últimos tempos, cumprindo para além daquilo que eram os objectivos iniciais, e estaríamos hoje em muito piores condições para fazer face à situação em que nos encontramos."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 9,
+      "speaker": {
+        "id": 1297,
+        "name": "José Adelmo Gouveia Bordalo Junqueiro",
+        "party": "PS",
+        "string": "O Sr. José Junqueiro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 9,
+      "speaker": {
+        "id": 3040,
+        "name": "Carlos Costa Pina",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e Finanças",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quanto à questão colocada pelo Sr. Deputado Honório Novo, quero dizer-lhe que, efectivamente, esta é uma iniciativa para reforçar a estabilidade do funcionamento dos sistemas financeiros, o que significa, em última análise, reforçar aquilo que, neste momento, é mais importante, a garantia dos depósitos, a garantia dos interesses dos aforradores e a salvaguarda dos interesses das pessoas e das empresas que necessitam de recorrer ao crédito."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 9,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso é teoria!"
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 9,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Na prática, como é que é?"
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 9,
+      "speaker": {
+        "id": 3040,
+        "name": "Carlos Costa Pina",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e Finanças",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quanto à questão colocada relativamente aos fundos de pensões, é evidente que a exposição ao mercado accionista não deixa de ter impacto sobre os valores da composição das carteiras, mas quem está no mercado bolsista — e o mercado bolsista não é um casino, é um instrumento importante de financiamento da economia e das empresas — tem de ter uma perspectiva de longo prazo e não uma perspectiva «curto-prazista», apostada apenas na especulação financeira e no lucro fácil e imediato.\nPortanto, nesse sentido, Sr. Deputado, nem os fundos de pensões, nem o fundo de capitalização da segurança social, em especial, têm a este nível qualquer problema a que tenhamos de fazer face com urgência."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 9,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Queremos as continhas!"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Diogo Feio."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 9,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado do Tesouro e Finanças, esta é uma altura em que aquilo que se pede aos políticos é bom senso, é serenidade e não discussões estéreis ou conflitos com a História, porque aquilo que as pessoas mais querem é tranquilidade em relação ao seu futuro.\nDesde já, que fique muito claro que o CDS tudo fará e tudo apoiará no sentido de retomar a confiança dentro do sistema bancário, nos empréstimos entre os bancos e nos empréstimos dos bancos às pessoas.\nDiria que estamos perante uma medida inevitável, ainda para mais num mercado como o português, um pequeno mercado, muitíssimo dependente de financiamento, muitas vezes no estrangeiro, e, portanto, as garantias são verdadeiramente essenciais.\nSr. Secretário de Estado, entendemos também que todo este procedimento deve ser transparente, deve ser claro para as pessoas."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 9,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nesse plano, a Assembleia da República tem um papel essencial. Por isso"
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 10,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quero também colocar-lhe um conjunto de questões para o futuro, Sr.\nSecretário de Estado. Estamos a falar de um plano que envolve garantias de 20 000 milhões de euros. Numa situação limite, em que existam várias necessidades, como é que será feita a distribuição destas garantias? Qual é o critério para a sua repartição? Em segundo lugar, gostaria de saber se o Governo pondera, nos contratos que possa vir a ter de estabelecer, fazer exigências em relação à concessão de crédito que os bancos fazem às empresas e aos cidadãos, e, por fim, se esta tomada de posição exclui qualquer ideia de entrada no capital dos bancos.\nSão três perguntas essenciais em relação ao futuro e é um desafio que deixamos para que todo este sistema seja mais transparente, mais controlável e que, também por essa via, acabe por criar mais confiança nos cidadãos."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Jorge Neto."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 10,
+      "speaker": {
+        "id": 1285,
+        "name": "Jorge Manuel Ferraz De Freitas Neto",
+        "party": "PSD",
+        "string": "O Sr. Jorge Neto (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado do Tesouro e Finanças, o PSD já assumiu muito claramente a sua posição em relação a esta proposta de lei. Não poderíamos deixar de estar solidários com o Governo numa situação de gravíssima crise internacional na área financeira. Temos, naturalmente, sentido de Estado e de responsabilidade, percebemos a gravidade da situação e a nossa posição, manifestamente, não poderia ser outra.\nIsso não impede, contudo, apesar da nossa solidariedade, que, efectivamente, algumas questões se suscitem no horizonte relativamente a esta proposta de lei.\nÉ bom não esquecer, Sr. Secretário de Estado, que o que está na origem desta crise internacional são, fundamentalmente, dois factores: a falha ou a insuficiência da supervisão, por um lado, e, por outro, a falta de transparência. Seria bom, desde logo, que esta proposta de lei, que visa combater uma crise internacional que tem na sua génese estes dois factores determinantes, desde logo, fosse transparente.\nDeixe-me dizer-lhe que esta proposta de lei deveria ser mais clara e mais precisa no que concerne às regras de concessão do crédito, maxime no que se reporta ao artigo 4.º, que deixa em aberto às entidades competentes para a concessão de crédito o regime, as condições e o modo de financiamento.\nEsta é uma questão central, tanto mais que, Sr. Secretário de Estado, falha aqui, nesta proposta de lei, algo que, para nós, é essencial, o controlo parlamentar, exógeno relativamente à execução e à concessão destas garantias."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 10,
+      "speaker": {
+        "id": 1285,
+        "name": "Jorge Manuel Ferraz De Freitas Neto",
+        "party": "PSD",
+        "string": "O Sr. Jorge Neto (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para citar o exemplo mais próximo, na vizinha Espanha, ainda antes da audição do próprio partido da oposição, vimos o governo, no seu decreto-lei, determinar uma audição regular do parlamento de quatro em quatro meses para verificar não só a concessão das garantias mas a sua execução. Há aqui um controlo parlamentar.\nAliás, se bem se recordam, no passado, vimos também o Plano Paulson ser rejeitado, numa primeira fase, exactamente porque não havia um controlo por parte dos contribuintes e dos parlamentares relativamente à execução desse mesmo plano."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 11,
+      "speaker": {
+        "id": 1285,
+        "name": "Jorge Manuel Ferraz De Freitas Neto",
+        "party": "PSD",
+        "string": "O Sr. Jorge Neto (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dizia-se que era um plano feito um pouco à revelia dos taxpayers e daí a sua correcção por parte da administração americana e a sua aprovação posterior no Congresso.\nTodavia, esta proposta de lei é absolutamente omissa em relação a esse controlo parlamentar.\nSabemos que, dadas as competências do Parlamento, haverá sempre esse controlo, mas é um controlo ex post e aquilo que se pretende é um controlo on line, no momento, e isso exige da parte do Governo um gesto claro de colaboração com o Parlamento, designadamente alterando esta proposta de lei, para que essa transparência prevaleça e para que se saiba exactamente quais são as condições de financiamento daqueles que vão recorrer a este sistema: qual é a taxa de juro aplicável, qual é a comissão? É que uma coisa poderão ser 20 000 milhões de euros hoje, se a taxa tiver um determinado referencial, mas se ela for atractiva, porventura, estaremos a falar, no futuro, de mais de 20 000 milhões de euros ou, porventura, estaremos a falar ainda de menos. Portanto, há aqui uma certa opacidade que não é de somenos.\nÉ um detalhe dirá o Sr. Secretário de Estado, mas retorquir-lhe-ei: «Le détail c’est Dieu», já dizia Mies van der Rohe, e este detalhe aqui não é de somenos, é fundamental."
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Secretário de Estado do Tesouro e Finanças."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 11,
+      "speaker": {
+        "id": 3040,
+        "name": "Carlos Costa Pina",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e Finanças",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, passo a responder às questões que me foram colocadas.\nEm primeiro lugar, em matéria de transparência, tomei boa nota das observações que foram sustidas.\nAcontece que essas observações ficam aquém daquilo que o Governo vai fazer e daquilo que, aliás, já resulta da lei actual.\nDa lei de 1997, a lei actual, …"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Paulo Rangel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "O quê?"
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 11,
+      "speaker": {
+        "id": 3040,
+        "name": "Carlos Costa Pina",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e Finanças",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… a lei ç ap licável nestes casos, resulta que, por cada decisão de concessão de garantia, haverá lugar à publicação do despacho que autoriza a garantia e as respectivas condições, de acordo com a ficha técnica das condições essenciais da garantia.\nIsso já hoje sucede. Portanto, o Sr. Deputado Jorge Neto, ao vir dizer que precisamos de mais transparência nesse processo, não acertou no alvo, porque, efectivamente, mais transparência do que esta não vejo onde e os Srs. Deputados terão acesso a essa informação. Se a questão é de envio ao Parlamento, de informação periódica sobre isso, muito bem, terei muito gosto em, periodicamente, remeter ao Parlamento a síntese das decisões que o Governo adopta nesta matéria, das respectivas fundamentações, das condições em que as garantias são concedidas.\nEfectivamente, isso já hoje acontece; os Srs. Deputados estão a pedir menos do que aquilo que já hoje têm e daí eu não perceber muito bem os comentários que foram feitos.\nSrs. Deputados, quanto à questão das exigências à concessão de crédito, temos de olhar para este problema no quadro da regulamentação aplicável, designadamente no quadro da regulamentação comunitária aplicável neste domínio.\nAquilo de que estamos hoje a tratar é de uma medida de combate às restrições de liquidez com que hoje se confronta o sistema financeiro em Portugal, de uma medida que potencie a capacidade das nossas instituições financeiras se financiaram nos mercados internacionais para, por sua vez, poderem conceder crédito internamente a quem dele necessita para financiar os seus projectos de investimento.\nPerguntam os Srs. Deputados em que condições e de acordo com que critérios. Ora, a lei já prevê que essas condições e esses critérios, nas matérias nela previstas, serão aprovados por portaria do Sr. Ministro das Finanças."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Paulo Rangel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ora, ora!"
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 12,
+      "speaker": {
+        "id": 3040,
+        "name": "Carlos Costa Pina",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e Finanças",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas posso dizer mais: os Srs. Deputados perguntaram pelos critérios de distribuição. O critério é simples, há um princípio em que podemos assentar a distribuição do volume de garantias em função, por exemplo, da quota de crédito concedido pelas instituições sediadas em Portugal no plano da nossa economia. Portanto, este é um critério prático que permite já alguma distribuição ou alocação destes montantes.\nAinda quanto à questão das falhas de supervisão ou da falta de transparência que aqui foi suscitada, quero dizer, Srs. Deputados, que esta é uma crise internacional, não é uma crise motivada por causas internas. Não queiram insinuar, não queiram colocar um estigma sobre as nossas autoridades de supervisão que têm acompanhado com prudência e com vigilância esta situação desde a primeira hora, o que, aliás, tem sido reconhecido pelas organizações internacionais e no âmbito da União Europeia, que ainda no início desta semana se interessaram em saber qual foi o plano que, por antecipação, foi adoptado em Portugal para também terem isso em conta nas decisões que foram tomadas no início da semana pelos vários governos europeus."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Heloísa Apolónia."
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 12,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado do Tesouro e Finanças, quero fazer-lhe uma pergunta que, provavelmente, muitos portugueses gostariam de lhe fazer, na medida em que muitos estão hoje verdadeiramente indignados com esta proposta apresentada pelo Governo. Isto porque os agricultores, sufocados, já pediram n vezes ajuda ao Governo e o Governo fechou-lhes a porta, assim como os pescadores, e podíamos passar por n sectores, em Portugal.\nAs pequenas e médias empresas solicitam ao Estado uma coisa tão legítima quanto isto: «Paguem-nos aquilo que nos devem!» E o Estado fecha-lhes a porta. O Estado nunca tem dinheiro para nada e, de repente, aparece um pacote de garantias de 20 000 milhões de euros para disponibilizar à banca. Isto vai ter de ser muito bem explicado porque, mesmo antes disso, o Governo anunciou umas pequeníssimas ajudas às pequenas e médias empresas, que, por acaso, só vão ter efeito no ano de 2010."
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 12,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é verdade!"
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 12,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas enquanto a banca andou a «engordar» os lucros e a beneficiar de uma taxa real de IRC de 13%, as pequenas e médias empresas pagavam, e bem, e o Governo agora diz-lhes: «bem, para os primeiros 12 500 euros, beneficiamo-vos com uma taxa de IRC de 12,5%.» Isto é nada comparado com aquilo que o Governo está a dar à banca! O Governo diz que este sistema financeiro precisa de liquidez imediata. A minha pergunta é: e as pequenas e médias empresas não precisam de liquidez imediata?! Estão com «a corda na garganta»! Precisam também de ajuda directa, e não indirecta, porque, Sr. Secretário de Estado, sabemos lá se este dinheiro lhes vai parar à mão ou não! A segunda questão que lhe quero colocar e que é preciso entender hoje, neste debate, é qual o tipo de créditos de que estamos a falar e em que condições é que serão atribuídos. Se, por exemplo, a SONAE se lembrar de fazer um novo centro comercial, terá acesso a este crédito? E uma pequena ou média empresa que tenha um projecto benéfico em termos económicos terá condições de financiamento em melhores ou em piores condições do que o primeiro exemplo que dei, Sr. Secretário de Estado? É preciso percebermos exactamente para que é que servirá este pacote financeiro, a quem é que ele se destina e o que é que ele se destina a salvar. E, Sr. Secretário de Estado, não nos parece nada que seja as pequenas e médias empresas."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para pedir esclarecimentos, o Sr. Deputado Victor Baptista."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, parece pairar neste debate alguma confusão, porque estamos a tratar de um regime extraordinário de concessão de garantias, mas, entretanto,"
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 13,
+      "speaker": {
+        "id": 1237,
+        "name": "Francisco Anacleto Louçã",
+        "party": "BE",
+        "string": "O Sr. Francisco Louçã (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não há?!"
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não, Sr. Deputado! A questão que colocou tem a ver com o articulado do Orçamento. Assim, não se trata de orçamento rectificativo mas apenas de alteração ao articulado, que pode ser corrigido através deste diploma."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem de terminar, Sr. Deputado. O seu pedido de esclarecimento é quase maior do que a intervenção do Sr. Secretário de Estado, em duração de tempo."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Vou terminar imediatamente, Sr. Presidente.\nSr. Secretário de Estado, gostaria de saber qual o timing, a periodicidade com que vai informar a Assembleia do montante das garantias. Há uma proposta de seis meses e julgo que, do ponto de vista democrático e do conhecimento do público, seria oportuno o Governo comunicar à Assembleia de seis em seis meses."
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para responder, o Sr. Secretário de Estado do Tesouro e Finanças."
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 14,
+      "speaker": {
+        "id": 3040,
+        "name": "Carlos Costa Pina",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e Finanças",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, relativamente à questão da comunicação ao Parlamento, uma vez que, como eu há pouco dizia, os despachos da concessão de garantias são publicados e uma vez que também, para além disso, deve haver informação sobre a concessão de garantias anexa à Conta Geral do Estado, que o Parlamento aprecia nos termos da lei, a transparência já existe."
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 14,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso é um ano depois!"
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 14,
+      "speaker": {
+        "id": 3040,
+        "name": "Carlos Costa Pina",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e Finanças",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "No entanto, como ainda há pouco disse ao Sr. Deputado Diogo Feio, não teremos nenhum problema e teremos todo o gosto em poder enviar periodicamente essa informação à Assembleia. Assim, a resposta ao Sr. Deputado Victor Baptista é uma resposta positiva, não podia deixar de ser, na medida em que hoje já fazemos mais do que isso. Se já fazemos mais, não temos nenhum problema em fazer menos, que é aquilo que, neste momento, está a ser pedido.\nQuanto à questão das PME e do adiamento dos benefícios para 2010, a Sr.ª Deputada Heloísa Apolónia não viu ainda, possivelmente, a proposta que já foi apresentada. Agora, dizendo o IRC respeito ao exercício de 2009 e havendo pagamentos por conta em 2009 relativos a esse exercício, não vejo onde é que encontra justificação para dizer que o Governo promete benefícios que só vão ter lugar em 2010. Não! São benefícios que vão ter lugar, quase na sua totalidade, ainda no exercício de 2009.\nNo que diz respeito à questão que a Sr.ª Deputada já suscitou de que este é um regime de garantias à banca que discrimina outros sectores de actividade, este é um regime de combate às restrições de captação de fundos para financiamento do investimento em Portugal. E, nessa medida, não se trata de um regime de garantias ao sistema bancário mas de garantias à economia, aos agentes económicos, às pequenas e médias empresas, em especial, e às famílias."
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Paulo Rangel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Isso é o que vamos ver!"
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 14,
+      "speaker": {
+        "id": 3040,
+        "name": "Carlos Costa Pina",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e Finanças",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E digo-lhe por que é que é um regime em especial de garantia às pequenas e médias empresas. Por uma razão muito simples, Sr.ª Deputada: as grandes empresas já hoje têm mais facilmente acesso a financiamento directo nos mercados internacionais, sendo que as pequenas e médias empresas se encontram mais dependentes do financiamento bancário em Portugal. Portanto, ao criarmos condições que facilitam a capacidade de financiamento por parte das instituições bancárias, estamos a criar condições que facilitam também a obtenção de fundos por parte das pequenas e médias empresas, em Portugal.\nPara terminar, o Sr. Deputado Victor Baptista falou também na questão do reforço das competências de supervisão ou de coordenação das competências de supervisão das autoridades. Efectivamente, essa já foi uma iniciativa aprovada pelo Governo e, em paralelo a essa iniciativa, foi também alterado o regime sancionatório, em especial ao nível das chamadas «entidades de interesse público», onde se encontram as instituições financeiras, mas também as empresas admitidas à negociação em bolsa. E, aqui, foram feitas alterações significativas: foram elevados os montantes das coimas nos casos das contra-ordenações, em alguns casos para dez vezes mais do que os limites actuais, e foram praticamente duplicadas as penas de prisão, no que diz respeito a infracções consideradas como crimes de mercado no âmbito da legislação vigente.\nPortanto, a iniciativa que o Governo adoptou nesta matéria tem várias frentes: uma frente sob o ponto de vista regulatório, de reforço das exigências e de reforço das sanções relativamente às infracções de mercado; uma segunda frente que tem que ver com o reforço da transparência e da capacidade de actuação das autoridades supervisoras; e uma terceira frente, que é, neste momento, a mais importante e a mais urgente e"
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos passar ao período de intervenções.\nTem a palavra o Sr. Deputado Francisco Louçã."
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 15,
+      "speaker": {
+        "id": 1237,
+        "name": "Francisco Anacleto Louçã",
+        "party": "BE",
+        "string": "O Sr. Francisco Louçã (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O Parlamento recebeu um pedido do Governo para urgência nesta lei e, em dois dias, reuniu-se para a votar na generalidade e concluir, imediatamente, o debate na especialidade. É por isso nosso dever e até nossa obrigação que a lei seja clara sobre os seus objectivos e sobre o seu funcionamento. E a lei não é clara! A lei diz, a cada português e a cada contribuinte, que pode comprometer uma dívida de 4000 euros por cada contribuinte português, mas não diz como é que esse dinheiro, se vier a ser usado, vai ser protegido e garantido. E o Parlamento tem de ter hoje esta resposta. Dizem-nos que a lei é precisa porque houve um crime contra a confiança do mercado mas não se sabe onde está o criminoso, e há uma desgraça no sistema financeiro mas não se sabe quem e como é que o desgraçou.\nÉ claro que a direita tem sempre uma resposta: se há um problema financeiro, tira-se o dinheiro aos pobres. Os 80 € que cada pessoa do rendimento social de inserção recebe têm de ser recuperados rapidamente, porque é assim que salvamos a economia.\nO Governo, em contrapartida, propõe o maior pacote financeiro da história da economia portuguesa: 10% do produto! São 20 000 milhões de euros que vão ser votados em duas horas nesta Assembleia! Mas o Sr.\nSecretário de Estado amofina-se se lhe perguntamos onde é que estão as responsabilidades, como é que estas empresas, que vão ser beneficiárias deste aval, se vão comprometer com a obrigação que têm em relação ao Estado.\nVeja o que diz a lei do Governo: prazos definidos — não tem, é quando o Ministro das Finanças quiser; condições definidas — não tem condições; regras contra o incumprimento — não tem regras, nem sequer as regras europeias.\nSr. Secretário de Estado, compare este pacote com qualquer outro dos países europeus. Neles há regras, há condições, há obrigações perante o Parlamento, há comissões definidas. Em Inglaterra, até a taxa para o acesso ao contrato é definida por lei. Mas será aceitável que a lei nada diga, a não ser que, com 20 000 milhões de euros, o Ministro das Finanças faz o que quiser, para quem quiser?! É claro que pedimos respostas para o desvario que foi a perda deste dinheiro. Devo, aliás, dizer-lhe que, nos Estados Unidos, quem investiga as perdas do sistema financeiro é o FBI. E, já agora, se são precisos 20 000 milhões de euros para dar confiança a este sistema, era bom que soubéssemos onde é que o dinheiro foi perdido e por quem.\nPorque não nos diga, Sr. Secretário de Estado ou Sr. Ministro, que temos de confiar num sistema quando estamos a injectar o dinheiro dos contribuintes por causa de perdas abusivas desse sistema!!… Temos de ter garantias hoje!"
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 15,
+      "speaker": {
+        "id": 1320,
+        "name": "Luís Emídio Lopes Mateus Fazenda",
+        "party": "BE",
+        "string": "O Sr. Luís Fazenda (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 15,
+      "speaker": {
+        "id": 1237,
+        "name": "Francisco Anacleto Louçã",
+        "party": "BE",
+        "string": "O Sr. Francisco Louçã (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É claro que tudo o que é feito é absolutamente ilegal. Esta lei é uma violação do Tratado de Lisboa que recupera o mesmo princípio do Tratado de Nice, no seu artigo 107.º, que proíbe ajudas específicas. E vão fazer-se ajudas específicas…! Portanto, estamos perante uma violação da lei! Agora, sabemos algo — e os portugueses ficaram a sabê-lo muito bem: é que nunca havia dinheiro para proteger o sistema de pensões, nunca havia dinheiro para o combate à pobreza; as pensões tinham de baixar, e vão baixar. Todavia, no dia em que alguns bancos perderam o dinheiro, perderam confiança, então aparecem — em dois dias! — 20 000 milhões de euros para garantir a tranquilidade dos maiores faltosos na democracia e na economia em Portugal!! É por isso que esta lei ou tem todas as garantias para o contribuinte ou é uma violação contra o direito do contribuinte. Essa diferença tem de ficar aqui esclarecida na votação da especialidade."
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Nuno Sá."
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 16,
+      "speaker": {
+        "id": 2116,
+        "name": "Nuno André Araújo Dos Santos Reis E Sá",
+        "party": "PS",
+        "string": "O Sr. Nuno Sá (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado, estivemos aqui a ouvi-lo e há alguma perplexidade no conteúdo da intervenção, porque havia a suposição de que esta proposta de lei fixasse o tempo limite da duração.\nFace aos tempos que temos vivido, gostaria de colocar uma questão. Será que alguém, neste momento e aqui nesta Câmara, pode com toda a certeza precisar o tempo da duração da volatilidade dos mercados financeiros e, com o clima internacional financeiro que se vê, balizar dessa forma o que o aqui tem sido apelado, como se essa fosse uma tarefa fácil e objectiva? Efectivamente, parece-me que a proposta de lei é adequada a essa mesma volatilidade.\nGostaria de levantar ainda uma segunda questão: quando se enquadra esta proposta de lei naquilo que a União Europeia e os governos a nível mundial têm feito face a uma crise mundial que se tem vivido, não é motivo de orgulho para todos os portugueses a credibilidade que o Governo da República dá com esta proposta de lei e a vanguarda de ser das primeiras medidas e a primeira proposta de lei, ao nível até da União Europeia, no seguimento das decisões do Ecofin do passado mês de Outubro?"
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Francisco Louçã."
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 16,
+      "speaker": {
+        "id": 1237,
+        "name": "Francisco Anacleto Louçã",
+        "party": "BE",
+        "string": "O Sr. Francisco Louçã (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado, muito obrigado pelas suas perguntas.\nColocou-me duas questões e respondo-lhe directamente. Se a credibilidade desta proposta se medir pelo PSI 20, então ela está derrotada desde já!"
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 16,
+      "speaker": {
+        "id": 1237,
+        "name": "Francisco Anacleto Louçã",
+        "party": "BE",
+        "string": "O Sr. Francisco Louçã (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Perguntou-me sobre os prazos. Sabe, Sr. Deputado, nestas matérias é mesmo importante estudarmos com atenção os detalhes do debate europeu.\nA Inglaterra é o maior centro financeiro da Europa e Gordon Brown impôs uma lei que determina seis meses de vigência para os avales — repito, seis meses de vigência — e logo se verá o que é preciso fazer.\nSe o Governo não quer impor esse limite, então descredibiliza a sua proposta porque não está a responder à situação actual, está a criar um «cheque em branco» para um sistema financeiro a quem não tem a decência de pedir responsabilidades."
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem uma palavra o Sr. Deputado Agostinho Lopes."
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 16,
+      "speaker": {
+        "id": 1431,
+        "name": "Agostinho Nuno De Azevedo Ferreira Lopes",
+        "party": "PCP",
+        "string": "O Sr. Agostinho Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Que sistema financeiro é este a que o Governo acorre ou socorre, em última instância, com os recursos do Estado, isto é, o dinheiro dos contribuintes, para «assegurar o cumprimento das obrigações das instituições de crédito com sede em Portugal»? Paradoxalmente, ou talvez não, é o sector financeiro «construído» no processo de desmembramento e privatização do sector financeiro público, conquista de Abril, e de que hoje resta apenas a Caixa Geral de Depósitos (CGD). É o sector financeiro «construído» em nome da eficiência e da excelência da gestão privada, do risco empresarial privado, que agora precisa do Estado."
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 16,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 17,
+      "speaker": {
+        "id": 1431,
+        "name": "Agostinho Nuno De Azevedo Ferreira Lopes",
+        "party": "PCP",
+        "string": "O Sr. Agostinho Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É o sector coração dos principais grupos monopolistas portugueses e um lugar estratégico do capital transnacional, funcionando como centro de acumulação, por via da «predação» dos sectores produtivos, das pequenas empresas e das famílias.\nÉ o sector responsável por uma sufocante política de crédito altamente penalizadora da economia nacional.\nRecorda-se que o endividamento das famílias atingiu 129% do rendimento disponível e que as empresas não financeiras atingiram um endividamento record correspondente a 107% do PIB, em 2007.\nUma política de crédito que nunca se orientou pelas necessidades de desenvolvimento do País mas, fundamentalmente, pelo objectivo do máximo lucro e mínimo risco, excepto nas operações especulativas."
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 17,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 17,
+      "speaker": {
+        "id": 1431,
+        "name": "Agostinho Nuno De Azevedo Ferreira Lopes",
+        "party": "PCP",
+        "string": "O Sr. Agostinho Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Um recente relatório do Banco de Portugal mostra que alguns sectores produtivos fundamentais do País receberam 14,7% de todo o crédito — a agricultura 1,6%, as pescas 0,4% e a indústria 12,7% — enquanto que as actividades imobiliárias tiveram 20% de todo o crédito."
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 17,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isto é que é um escândalo!"
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 17,
+      "speaker": {
+        "id": 1431,
+        "name": "Agostinho Nuno De Azevedo Ferreira Lopes",
+        "party": "PCP",
+        "string": "O Sr. Agostinho Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esta é uma política com um elevadíssimo grau de concentração do crédito nas grandes e muito grandes empresas, podendo afirmar-se que a maioria das micro, pequenas e médias empresas, a esmagadora maioria do tecido produtivo, estão excluídas! É o sector da economia portuguesa que viu, entre 2004 e 2007, os seus lucros subirem cerca de 155%, enquanto o PIB do País evoluía ao ritmo médio anual de 1,3%."
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 17,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 17,
+      "speaker": {
+        "id": 1431,
+        "name": "Agostinho Nuno De Azevedo Ferreira Lopes",
+        "party": "PCP",
+        "string": "O Sr. Agostinho Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Enquanto assim acumulavam lucros e a generalidade das empresas não financeiras pagava uma taxa efectiva de IRC próxima da taxa nominal, a banca pagava como taxa efectiva de IRC 13%, 13,5%, 17,9% e 15,9%."
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 17,
+      "speaker": {
+        "id": 1431,
+        "name": "Agostinho Nuno De Azevedo Ferreira Lopes",
+        "party": "PCP",
+        "string": "O Sr. Agostinho Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É para este sector financeiro, centro em Portugal da especulação bolsista e «financeirização» da economia nacional, campeões da fuga legal ao fisco, utilizadores ou intermediários privilegiados dos paraísos fiscais — em 2006, as seguradoras tinham colocado 9,5 mil milhões de euros e a banca 4,1 mil milhões de euros —, é para este sector financeiro, dizia eu, que o Governo vem propor à Assembleia da República que passe um «cheque em branco» de 20 mil milhões de euros!"
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 17,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 17,
+      "speaker": {
+        "id": 1431,
+        "name": "Agostinho Nuno De Azevedo Ferreira Lopes",
+        "party": "PCP",
+        "string": "O Sr. Agostinho Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O PCP considera de relevante interesse nacional a solidez do sistema financeiro nacional, mas não está disponível para «assinar um cheque em branco» porque o Governo nega à Assembleia da República o conhecimento das regras que vão enquadrar e regular esse aval.\nÉ um «cheque em branco» porque esse aval do Estado não deveria cobrir toda e qualquer operação de crédito e deveria ficar definido o quadro de potenciais destinatários das operações de crédito."
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 17,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 17,
+      "speaker": {
+        "id": 1431,
+        "name": "Agostinho Nuno De Azevedo Ferreira Lopes",
+        "party": "PCP",
+        "string": "O Sr. Agostinho Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Também recusamos assinar esse «cheque em branco» porque outros caminhos seriam possíveis se o Governo não estivesse, pura e simplesmente, preocupado com a salvação dos interesses dos banqueiros e do capital financeiro.\nSrs. Deputados, é o Governo que abraça esta estranha operação na União Europeia de potencial transformação da dívida privada em dívida pública o mesmo que recusou que, em tempo oportuno, se"
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 18,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 18,
+      "speaker": {
+        "id": 1431,
+        "name": "Agostinho Nuno De Azevedo Ferreira Lopes",
+        "party": "PCP",
+        "string": "O Sr. Agostinho Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É o Governo que, agora louvando o papel regulador Caixa Geral de Depósitos, prossegue uma escandalosa política de privatizações.\nÉ o mesmo Governo que, fazendo agora intervir a Caixa Geral de Depósitos no socorro de 200 milhões de euros ao BPN, recusou, até hoje, as propostas do PCP para que a mesma instituição tivesse um papel moderador na política de crédito para as pequenas empresas e particularmente na contenção da prestação mensal das famílias.\nÉ o Governo que hoje estende esta rede de segurança para a banca privada o mesmo que recusa as propostas feitas para uma intervenção pública no mercado da energia.\nPelo contrário, para escândalo do País, assistimos ontem ao anúncio pela ERSE (Entidade Reguladora dos Serviços Energéticos) de subidas de preço de energia eléctrica, em 2009, entre 4,3% e 5,9%, bem acima da taxa de inflação que o Governo prevê.\nÉ risível, mas é verdade: a propagandeada baixa do IRC para as pequenas empresas, que poderá acontecer em 2010, não compensará o aumento da factura da electricidade que muitas empresas, fundamentalmente as do sector produtivo, pagarão já em 2009!!"
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 18,
+      "speaker": {
+        "id": 1431,
+        "name": "Agostinho Nuno De Azevedo Ferreira Lopes",
+        "party": "PCP",
+        "string": "O Sr. Agostinho Lopes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É por isso que a iniciativa do Governo, certamente de grande importância para salvar os banqueiros e o capital financeiro privado, serve mal os interesses dos portugueses, da economia e do Estado e pode mesmo vir a custar muito caro ao País."
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Jorge Neto."
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 18,
+      "speaker": {
+        "id": 1285,
+        "name": "Jorge Manuel Ferraz De Freitas Neto",
+        "party": "PSD",
+        "string": "O Sr. Jorge Neto (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Ministro, Sr. Secretário de Estado, Sr.as e Srs. Deputados: A proposta de lei n.º 225/X insere-se no âmbito do combate à crise financeira e visa introduzir liquidez e estabilidade nos mercados financeiros.\nObviamente, da parte do PSD, merece o nosso apoio. Somos um partido com sentido de responsabilidade, com sentido de Estado e não poderíamos tomar outra posição que não fosse a de apoio inequívoco a esta medida do Governo.\nPorém, sejamos claros, directos e frontais: esta medida não é a panaceia de todos os males da crise financeira. \nO Sr. Secretário de Estado fez aí um discurso encomiástico como se estivesse aqui o alfa e o ómega da solução dos problemas da crise financeira. Não está, Sr. Secretário de Estado!! É bom recordar que o problema que está na génese desta crise financeira é um problema de confiança e a confiança leva tempo a recuperar, a reganhar, sobretudo quando os problemas que suscitaram são problemas gravíssimos do ponto de vista da falta de transparência e de supervisão.\nRecordo-lhe, Sr. Secretário de Estado, que há outras matérias que é preciso combater. Desde logo, recapitalizar, porventura algumas inscrições com algumas dificuldades em termos de capital e, por que não"
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 20,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ah! Todos juntos para salvar o sistema!… Já nem o PS D defende o mercado livre!"
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Diogo Feio."
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 20,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O tema que aqui nos traz é sério e importante para o nosso futuro. No entanto, não posso deixar de comentar um «microfacto» deste debate.\n\nO Sr. Deputado Francisco Louçã decidiu trazer-nos hoje um cardápio de frases demagógicas para ver qual teria direito a uns «segundinhos» no Telejornal. Nada tenho, rigorosamente nada a ver com isso, não tocasse uma delas a direita e a direita somos nós, Sr. Deputado!! Já agora, quando afirma que a direita o que quer é «tirar do rendimento social de inserção para dar aos ricos» — frase sua e uma das grandes concorrentes ao tal concurso de qual vai ter uns «segundinhos» no próximo Telejornal —, deixe que lhe diga que V. Ex.ª se engana redondamente. O que preocupa o CDS é uma coisa muito simples: são os incumprimentos no domínio do rendimento social de inserção.\nA diferença entre a minha consciência social e a sua e do seu partido, Sr. Deputado, é que eu estou preocupado com os pobres dos mais pobres,…"
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 20,
+      "speaker": {
+        "id": 1320,
+        "name": "Luís Emídio Lopes Mateus Fazenda",
+        "party": "BE",
+        "string": "O Sr. Luís Fazenda (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ohhh!…"
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 20,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… q ue têm 230€ de pensão, V. Ex.ª está preocupado com aqueles que recebem para frequentar as aulas de formação profissional mas não frequentam. Olhe, por aí, vê-se uma diferença muito clara quanto à forma de ambos encararmos estas matérias.\nSr. Deputado, neste debate, a minha preocupação é a de que seja possível encontrar soluções, por forma a que não cheguemos a falar em risco relativamente a contas bancárias dos portugueses, a que não seja posto em causa o crédito de que muitos necessitam para ter direito à habitação. Por isso mesmo, temos esta postura"
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 21,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Colocámos ao Sr. Secretário de Estado um conjunto de questões, uma das quais tem a ver com a transparência. \nO Sr. Secretário de Estado respondeu que a lei — que, aliás, se aplica supletivamente a esta proposta de lei, depois de aprovada — já determina a publicação do despacho.\nOra, Sr. Secretário de Estado, admitirá que nós já sabemos isso. O que lhe propomos é algo distinto.\nPasso a ler a proposta específica que apresentámos, até para que possa reflectir sobre ela: «Semestralmente o Ministério das Finanças dá conhecimento à Assembleia da República de todas as concessões extraordinárias de garantia pessoal, no âmbito do sistema financeiro, concedidas nos termos do presente diploma, bem como da sua execução», ao que o Sr. Secretário de Estado responde «comprometo-me a que darei essa informação».\nSr. Secretário de Estado, vamos admitir que V. Ex.ª pode assumir esse compromisso, não sei é por quanto tempo V. Ex.ª ocupará as funções que exerce actualmente. Por isso mesmo é que esta matéria deve ficar na lei. Não é para o obrigar apenas a si, é para obrigar a si e aos que venham a sucedê-lo nas mesmas funções.\nÉ precisamente por isso, repito, que queremos que a referida determinação conste na lei, para ser geral e abstracta e ter validade, independentemente de quem exerce o cargo governamental em cada momento.\nÉ porque o pior que pode acontecer a uma solução como esta que nos apresentam é que se diga que existe um qualquer problema de opacidade.\nSr. Secretário de Estado, pela nossa parte, ficamos satisfeitos que nos diga «comprometo-me que, de seis em seis meses, estarei aqui a dar essa informação», mas o que queremos é que o mesmo fique estabelecido na lei, para que os responsáveis do Governo sejam obrigados a prestar informação periódica nos termos da lei.\nInquirimo-lo também quanto ao critério de atribuição da concessão de garantias, o que, deve admitir, Sr.\nSecretário de Estado, também poderia constar na lei, mas ainda nos restam dúvidas.\nRefiro-me ao que tem a ver com a exigência de prestação de informação por parte das instituições bancárias quanto à concessão de crédito futuro, à questão da entrada de capital nos bancos, a um problema de natureza formal que tem a ver com uma alteração com incidência directa no Orçamento do Estado — há um artigo da proposta de lei que se lhe refere especificamente. Aliás, no caso de ser necessário conceder a garantia e se houver algum incumprimento, o dinheiro que o Estado tenha de gastar vai ser inscrito onde? A nível do défice público? Esta é uma matéria que também deveria ficar clara.\nQuem pretende tal clarificação, Sr. Secretário de Estado, é um partido, o CDS, que não vem aqui advogar a mudança do sistema, que não está contra a História, que dá apoio a todo o conjunto de medidas que tragam tranquilidade ao mercado e às pessoas e que contribuam para a confiança entre bancos e entre estes e os cidadãos. Pretendemos que este debate seja o mais esclarecedor possível.\nNesse sentido, e como V. Ex.ª ainda dispõe de largo tempo antes da discussão na especialidade, gostaríamos que fosse respondendo a estas questões para que este debate não ficasse sob o manto de alguma dúvida, de alguma névoa que não ajuda rigorosamente ninguém."
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, em representação do Grupo Parlamentar do PS, tem a palavra a Sr.ª Deputada Marta Rebelo."
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 21,
+      "speaker": {
+        "id": 2507,
+        "name": "Marta Sofia Caetano Lopes Rebelo",
+        "party": "PS",
+        "string": "A Sr.ª Marta Rebelo (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O Governo do Partido Socialista traz"
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 23,
+      "speaker": {
+        "id": 1303,
+        "name": "José Manuel Ferreira Nunes Ribeiro",
+        "party": "PSD",
+        "string": "O Sr. José Manuel Ribeiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não temos ainda, mas vamos ter!"
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 23,
+      "speaker": {
+        "id": 2507,
+        "name": "Marta Sofia Caetano Lopes Rebelo",
+        "party": "PS",
+        "string": "A Sr.ª Marta Rebelo (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não temos!!"
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 23,
+      "speaker": {
+        "id": 1303,
+        "name": "José Manuel Ferreira Nunes Ribeiro",
+        "party": "PSD",
+        "string": "O Sr. José Manuel Ribeiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas vamos ter!"
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 23,
+      "speaker": {
+        "id": 2507,
+        "name": "Marta Sofia Caetano Lopes Rebelo",
+        "party": "PS",
+        "string": "A Sr.ª Marta Rebelo (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É muitos simples: se a concessão de uma garantia pessoal pelo Estado se traduz num passivo, a contrapartida que recebe traduz-se num activo. Como explicou o Comissário Europeu para os Assuntos Monetários, Pedro Solbes, a isto chama-se «neutralidade contabilística», chama-se «efeito neutro» sobre as contas públicas. Há aqui apenas uma utilização e não uma realização de despesa.\nÉ, neste momento, este o cenário, que, conhecendo modificações, conhecerá actuações. Disso não tenham dúvidas, Sr.as e Srs. Deputados. Estamos perante uma crise de falta de confiança entre as instituições de crédito que dificulta o seu acesso ao mercado financeiro. O custo de crédito, do dinheiro aumenta e os efeitos na economia quotidiana são óbvios.\nÉ nossa tarefa fazer tudo o que estiver ao nosso alcance para restabelecer a confiança, para reencontrar a estabilidade, para preservar a solidez do sistema. É este o nosso dever e o mandato de todos, da esquerda à direita.\nNesta matéria não há oposições! Há um País e uma economia, a portuguesa e Portugal."
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Honório Novo."
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 23,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, peço-lhe para usar parte dos seus 12 minutos para me esclarecer uma dúvida que o debate suscitou.\nNa página 141 do relatório no Orçamento do Estado para 2009 está inscrita a verba de 20 mil milhões de euros como activos financeiros, repito, como activos financeiros. O que é que isto significa? Significa que estamos perante uma proposta de assunção de garantias, a possibilidade de conceder avales? Ou estamos perante a certeza de que já tudo foi distribuído pelos bancos? \nO Sr. Secretário de Estado disse há pouco que havia quotas de distribuição em função da natureza e da importância comercial dos bancos no nosso país.\nEntão, para ficarmos todos tranquilos, é altura de nos dizer qual é a quota do aval que vão levar o BPI, o BCP, o BES, a Caixa e todos os outros bancos. \nO Sr. Secretário de Estado tem de sair daqui não com uma proposta aprovada que é uma espécie de encenação de uma possibilidade, para nos garantir se está ou não tudo garantido e transformado no Orçamento do ano que vem em activos financeiros, isto é, em concretização daquilo que devia ser uma mera possibilidade."
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Francisco Louçã."
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 24,
+      "speaker": {
+        "id": 1237,
+        "name": "Francisco Anacleto Louçã",
+        "party": "BE",
+        "string": "O Sr. Francisco Louçã (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, antes do debate em especialidade, importaria que o Governo, se quisesse sair da sua indefinição, esclarecesse muitos dos problemas acerca dos quais não deu qualquer resposta.\nHá um em relação ao qual gostaria que o Sr. Secretário de Estado ou o Sr. Ministro nos esclarecesse. Esta lei, obviamente, não tem qualquer delimitação de responsabilidades, de modos de cobrança, de modos de operacionalização e remete para uma portaria posterior do Ministro das Finanças.\nSrs. Membros do Governo, quero saber se a portaria vai ser publicada na próxima semana e, se assim for, por que é que essas normas que o Governo já definiu não são apresentadas ao Parlamento, que é chamado a votar o maior pacote financeiro da sua história, para que, pelo menos, possamos saber que condições é que o Governo quer determinar. É porque o Governo já as sabe, já as decidiu, já as conhece, porventura parceiros financeiros já as conhecem, mas o Parlamento ainda não ouviu falar delas."
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado José de Matos Correia."
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 24,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: O diploma que o Governo apresentou a este Plenário e que ora discutimos tem na sua base, como todos sabemos, a crise financeira que hoje atravessa o mundo.\nSobre o teor do diploma e a posição do PSD, o meu colega Jorge Neto já se pronunciou, pelo que não vou voltar a esse tema.\nJulga, no entanto, o PSD que é importante que este debate sirva também para tecer algumas considerações sobre os contornos dessa crise, nomeadamente sobre a identificação das suas causas e das suas consequências e que permita, igualmente, retirar ilações quanto ao estado de coisas em Portugal.\nDe facto, face a uma situação cuja gravidade atingiu, no plano financeiro, dimensões nunca anteriormente vistas, não faltaram de imediato vozes, aliás, habituais, proclamando a morte dos mecanismos de economia livre, aberta e concorrencial e anunciando, urbi et orbi, que tudo se fica a dever ao fracasso do processo de globalização económica.\nOra, quem quiser — ou estiver disponível — para levar a cabo uma análise minimamente objectiva da realidade das coisas, saberá concluir que essas panfletárias acusações não correspondem à verdade.\nEm si mesma, a economia livre, aberta e concorrencial representa uma opção correcta — diria mesmo a única opção correcta, como a análise histórica o comprova.\nPela integração planetária que induz e pela partilha de valores, de objectivos e de princípios que propicia, a globalização tem dado um contributo inestimável para o progresso da Humanidade, nos mais diversos planos.\nMas onde reside, então, o verdadeiro problema que conduziu a esta crise? A resposta é simples: na demissão do papel do Estado e na incapacidade de levar a cabo a sua essencial missão reguladora.\nPara nós, há um raciocínio linear: acreditar, convictamente, nos méritos do mercado e da globalização não significa perder a capacidade crítica e não significa, sobretudo, qualquer receio de identificar os riscos que ambos apresentam ou de defender a necessidade de agir em ordem a limitar esses riscos e a combater os abusos que eles propiciam."
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 24,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Os tempos mudaram e muito.\nTais mudanças impõem aos Estados e às instituições internacionais a capacidade de agir de modo diverso daquilo que tradicionalmente faziam — e há que reconhecer que, muitas vezes, essa percepção não fez ainda"
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 25,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Incapaz, por puro preconceito ideológico, de discutir as questões essenciais, o Governo socialista recusa-se a identificar com clareza as áreas em que deve caber ao Estado uma função de prestador insubstituível, as áreas em que lhe há-de competir uma função de forte e activo regulador e ainda as áreas em que há-de estar a seu cargo uma eficaz função fiscalizadora.\nEssa confusão de planos tem contribuído, de forma significativa, para criar um Estado mais tentacular, mas simultaneamente um Estado mais fragilizado e, sobretudo, para dar lugar a um Estado progressivamente mais incapaz de proteger aqueles que se encontram em situações mais débeis, aqueles que mais carecem do apoio das instituições públicas, aqueles que mais dificuldade têm em atingir, de forma sustentada, um patamar de existência compatível com aquilo que a própria dignidade da vida humana impõe.\nSr. Presidente, Sr.as e Srs. Deputados: É também importante que se diga, neste momento, como, de resto, já fez a Presidente do meu partido, que o Governo socialista não se pode esconder atrás da crise internacional para justificar o fraquíssimo nível de desenvolvimento económico que o nosso país tem registado.\nOs 0,8% de crescimento económico previstos para o corrente ano, e os 0,6% que a proposta de Orçamento para 2009 contempla não são, na sua essência, consequências da crise dos últimos dias. São, isso sim, e primordialmente, resultado de mais de três anos de políticas económicas erradas, de que todos estamos, e iremos continuar a pagar o preço. E digo iremos porque a proposta de orçamento para 2009 é muita clara em dois aspectos em que não poderemos nunca rever-nos: na permanência de políticas desadequadas e na cedência ao eleitoralismo fácil. Uma cedência que, todos o sabíamos, iria inevitavelmente acontecer, porque é inerente ao comportamento político dos socialistas.\nSr. Presidente, Sr.as e Srs. Deputados: Mais ainda do que nos outros momentos, os tempos de crise devem servir de teste à força das nossas convicções.\nPor isso, em nome do PSD, quero deixar aqui a reafirmação de dois dos aspectos centrais do nosso ideário político.\nDesde logo, a defesa que fizemos, e continuamos convictamente a fazer, de uma economia social de mercado. Uma economia que assenta em regras de liberdade dos agentes económicos, mas que sabe combinar o respeito por essa liberdade com a intervenção reguladora do Estado, única forma de garantir a"
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 26,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Essas nossas convicções são profundas, fazem parte do nosso «código genético». Defendemo-las desde sempre. Não as passámos a adoptar, como muitos outros, por puro oportunismo político quando os ventos da história os derrotaram…! Mas a percepção das verdadeiras causas da actual crise financeira só veio contribuir para fortalecer as nossas convicções. Por elas continuaremos, por isso, com convicção, a bater-nos.\nÉ também em nome delas que afirmamos, uma vez mais, que temos para oferecer a Portugal e aos portugueses uma alternativa ao caminho errado que o actual Governo tem vindo a prosseguir e cujos resultados estão cada vez mais à vista dos portugueses."
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Ministro dos Assuntos Parlamentares."
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 26,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Matos Correia, ouvi com muita atenção a parte doutrinal da sua exposição sobre o ideário político do PSD, designadamente no que toca à definição das funções do Estado. Por isso, gostava de tentar colocar-lhe uma pergunta muito simples para ver se finalmente o Sr. Deputado pode esclarecer-me num ponto que ainda não consegui que a bancada do PSD me tornasse claro.\nNuma declaração escrita publicada num jornal de referência, a Sr.ª Presidente do PSD, então ainda na sua função de candidata à liderança do PSD, declarou algo que, embora cite de memória, é praticamente ipsis verbis. Face à pergunta de saber que funções ou serviços do Estado poderiam ser entregues à gestão e exploração privada, deu a seguinte resposta: «Todos, à excepção das funções de soberania» E detalhou: «as funções de defesa, de negócios estrangeiros e segurança interna, os restantes evidentemente podem ser entregues à exploração e à gestão privada».\nA minha pergunta muito simples é a de saber se o Sr. Deputado pode, em nome da sua bancada, validar e dizer-me se posso usar esta afirmação como representando a posição oficial do PSD em matéria da questão essencial de saber o que é que pode ou não ser entregue à gestão e à exploração privadas das funções do Estado."
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado José de Matos Correia, ao abrigo desta figura muito específica e original do nosso Regimento, que governamentaliza a oposição e parlamentariza o Governo, tem a palavra."
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 26,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, aproveitando as suas palavras, não sei se hei-de sentir-me honrado, porque se trata de uma figura aparentemente original do trabalho parlamentar, se hei-de achar normal, porque este Governo já nos habituou às mais variadas surpresas e, portanto, já espero tudo"
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Victor Baptista."
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, ao longo deste debate, tivemos momentos interessantes, como aquele em que ouvimos aqui duas intervenções distintas oriundas da mesma bancada: a do Deputado Jorge Neto, que veio, com um sentido de grande responsabilidade, reconhecer a validade, a oportunidade e a necessidade destas garantias, fundamentais para a liquidez do mercado; e, agora, a do Deputado Matos Correia, que pressupostamente não teria ouvido a intervenção do Deputado Jorge Neto, e que suscitou uma questão que, a meu ver, traduz um certo recuo ideológico em relação ao próprio PSD.\nO PSD esquece rapidamente. Esqueceu rapidamente que foi o partido que defendeu na Assembleia a privatização da área da segurança social; e esqueceu rapidamente que, ainda há pouco tempo, falava da privatização da própria Caixa Geral de Depósitos.\nEsta concepção neoliberal — ora um passo à frente, ora dois passos atrás — é interessante do ponto de vista ideológico. E, sobretudo num momento em que a própria líder do PSD apoia o Governo nesta questão da necessidade das garantias ao mercado para aumentar a liquidez e normalizar o funcionamento da economia, é surpreendente que venham aqui dizer que a regulação não funciona.\nEm Portugal, ainda não fomos confrontados com os problemas da regulação, com a necessidade directa de intervenção junto dos bancos.\nUma coisa é a falta de liquidez, que cria desconfiança no sistema bancário, cria desconfiança no refinanciamento bancário. E, naturalmente, o Governo tem uma intervenção, para aumentar essa segurança, para permitir que os bancos encontrem mais facilmente essa liquidez.\nPara um partido que, ainda recentemente, tudo queria privatizar e apenas deixaria de fora os órgãos de soberania, esta intervenção, uma intervenção que está de acordo com aquilo que têm vindo a afirmar e a escrever em intervenções escritas na própria Assembleia, é no mínimo surpreendente.\nEsta é uma matéria delicada e importante para a economia portuguesa. Portanto, os problemas de regulação, se existem, felizmente não têm existido aqui, em Portugal, ou, pelo menos, não são visíveis. E foi"
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sabe! Sabe!"
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 28,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Governo já sabe!"
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "… ainda não se conhece a dimensão do próprio aval, e já querem regular imediatamente as comissões, numa lógica onde se perde toda a facilidade negocial, numa lógica fechada que não ajuda o próprio mercado — e, como sabem, as comissões relacionam-se, sobretudo, e em determinado momento, com a falta de liquidez ou a menor ou maior liquidez do mercado. Portanto, isso não faz sentido.\nContinuam agarrados a essa forma de interpretar, direccionada, dirigida, musculada, e não conseguem sair disso.\nPortanto, a portaria será elaborada depois de o diploma ser publicado. Só nessa altura, evidentemente, poderá ser apresentada."
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 28,
+      "speaker": {
+        "id": 1320,
+        "name": "Luís Emídio Lopes Mateus Fazenda",
+        "party": "BE",
+        "string": "O Sr. Luís Fazenda (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É um «cheque em branco»!"
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Esta proposta do Governo é oportuna e indispensável para a economia portuguesa. E ainda bem que o PSD e certamente também o CDS vão, como não podia deixar de ser, acompanhar o Governo nesta matéria."
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Ministro dos Assuntos Parlamentares."
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 28,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, uso a figura que o Regimento me permite, porque gostaria de ser esclarecido sobre o sentido de uma afirmação do Sr. Deputado Matos Correia.\n\nO Sr. Deputado esclareceu totalmente a minha dúvida. A minha dúvida era a de saber se a bancada do PSD acompanhava a posição da actual Presidente do PSD — segundo a qual, recordo, «as funções do Estado podem ser todas entregues à exploração e gestão privadas, excepto as funções de soberania (negócios estrangeiros, defesa, justiça e segurança)» — e o Sr. Deputado Matos Correia respondeu-me, com o aplauso da sua bancada, que essas afirmações da Sr.ª Presidente vinculavam todo o partido.\nAgradeço-lhe muito a clareza desse esclarecimento. E, doravante, considero estar legitimado para afirmar que a posição do PSD continua a ser a posição de que a segurança social pode ser privatizada, a escola pública pode ser privatizada e, o que é mais relevante para o nosso debate de hoje, a Caixa Geral de Depósitos poderia ser privatizada. Agradeço muito ao PSD ter tornado isso claro neste debate."
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Secretário de Estado do Tesouro e Finanças."
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 29,
+      "speaker": {
+        "id": 3040,
+        "name": "Carlos Costa Pina",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e Finanças",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, constato, destas intervenções e deste debate, que o PSD é muito bem-vindo ao conjunto daqueles que acreditam nas virtualidades da regulação económica e que abandonam, segundo as palavras do Sr. Deputado Matos Correia, o liberalismo económico.\nAo contrário daquilo que o PSD defende, o Governo já disse — é uma posição clara do Governo português — que uma privatização do sistema financeiro, designadamente da Caixa Geral de Depósitos, vai contra um princípio inquestionável de que não abdicamos. Trata-se de uma instituição que deve manter-se 100% pública.\nRelativamente a algumas questões suscitadas, gostaria, a bem da clareza deste debate, de dizer o seguinte: Sr. Deputado Diogo Feio, quanto às questões relativas à transparência, o Sr. Deputado voltou a insistir num ponto a que eu já tinha respondido, mas repito que não temos qualquer objecção em assumir o compromisso de reporte periódico ao Parlamento relativamente às decisões tomadas ao nível da concessão de garantias.\nNo que diz respeito à questão, colocada por vários grupos parlamentares, relativa à inscrição orçamental ou ao tratamento orçamental das garantias, o que está aqui em causa, Srs. Deputados, não é um pedido de autorização para aumento de despesa, mas um pedido de autorização para aumento do plafond das garantias — apenas e tão-só."
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 29,
+      "speaker": {
+        "id": 1320,
+        "name": "Luís Emídio Lopes Mateus Fazenda",
+        "party": "BE",
+        "string": "O Sr. Luís Fazenda (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E se for despesa?"
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 29,
+      "speaker": {
+        "id": 3040,
+        "name": "Carlos Costa Pina",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e Finanças",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se, por acaso, um dia, for necessário, cá estaremos.\nSr. Deputado Honório Novo, o Sr. Deputado já há quatro anos que vem apostando na existência de orçamentos rectificativos. Pois bem, nos õltimos quatro anos, tem perdido consecutivamente as apostas…"
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 29,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Este ano ganhou!"
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 29,
+      "speaker": {
+        "id": 3040,
+        "name": "Carlos Costa Pina",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e Finanças",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e verá que aquilo que vai continuar a acontecer será precisamente isso.\nEsta lei não se aplica, como já tive oportunidade de dizer, à escolha dos mutuários internos na concessão de crédito; é uma lei que se destina, apenas e tão-só, a acautelar e a garantir o acesso ao financiamento da parte de quem internamente tem a responsabilidade por concedê-lo. Nessa medida, cumprimos o nosso objectivo de criar condições para maior liquidez nos mercados financeiros e acesso ao financiamento por parte de quem dele necessita.\nÉ também uma lei que, nesse sentido, atinge o objectivo de relançamento da confiança no funcionamento dos mercados financeiros, ao nível da criação de condições para existência de maior liquidez.\nSrs. Deputados, não peçam para, nesta matéria, adivinharmos o futuro. Se a lei é suficiente ou não, ninguém com honestidade intelectual pode, neste momento, dizê-lo. Mas há uma coisa de que todos temos a certeza: que a lei é necessária e que é absolutamente necessário que a sua aprovação seja feita com urgência.\nA partir daqui, o que nos interessa é criar condições para responder aos desafios que temos pela frente e, desse ponto de vista, estamos naturalmente preparados.\nÉ também uma lei que não penaliza os contribuintes, ao contrário do que o Sr. Deputado Francisco Louçã aqui fez crer. Pelo contrário, é uma lei que garante os depósitos das pessoas e garante às pessoas o acesso ao crédito.\nE é uma lei que não penaliza os contribuintes porquê? Porque os beneficiários da garantia vão pagar pela obtenção da garantia — vão pagar em condições de mercado, vão pagar em função do nível de risco que eles próprios apresentam quando se candidatam à obtenção de uma garantia.\nO crédito ou a garantia será distribuído, como há pouco disse, em função da quota, no âmbito do crédito interno, que as instituições de crédito concedem em Portugal. Essa é uma posição de princípio, que nos parece estritamente adequada para responder às necessidades de acesso ao financiamento que temos na nossa economia."
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 30,
+      "speaker": {
+        "id": 1237,
+        "name": "Francisco Anacleto Louçã",
+        "party": "BE",
+        "string": "O Sr. Francisco Louçã (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Que candura!…"
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 30,
+      "speaker": {
+        "id": 3040,
+        "name": "Carlos Costa Pina",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e Finanças",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e que acautele, naturalmente, a necessidade de protecção dos depositantes e dos contribuintes."
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado José de Matos Correia."
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 30,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: Queria ter falado imediatamente a seguir ao Sr. Ministro, mas não quis interromper a sequência do raciocínio governamental.\nQuero dizer-lhe o seguinte, Sr. Ministro: se me permite os termos que vou utilizar, que não são claramente ofensivos, mas que são os que me ocorrem, o Sr. Ministro há-de perder um bocadinho o hábito de ter aquela lógica que a sabedoria popular elenca na expressão «fazer a festa, deitar os foguetes e apanhar as canas», ou seja, fazer as perguntas e, depois, dar as respostas que lhe dão jeito. Foi exactamente o exercício que o Sr.\nMinistro fez aqui.\nPasso a explicar-lhe: como lhe disse há pouco, respondo-lhe com frontalidade, não é como os senhores fazem.\nA Presidente do meu partido disse, e eu repito — eu próprio e a nossa bancada revemo-nos nessa afirmação —, que há funções do Estado que são, por natureza, indelegáveis. Entendemos que não deve haver qualquer tipo de entrega de exercício dessas funções a outras entidades que não ao Estado."
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 31,
+      "speaker": {
+        "id": 2522,
+        "name": "Ricardo Jorge Olímpio Martins",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Martins (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 31,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não vou aqui desenvolver o raciocínio fastidioso e jurídico da distinção entre áreas do Estado, poderes do Estado, funções do Estado, etc., mas nas outras áreas de actividade do Estado nada nos impede ou nos coíbe de permitir que haja exercício de funções por parte de entidades privadas. O que nunca dissemos — e o Sr. Ministro nunca o terá ouvido nem nunca o ouvirá — é que renunciamos ao exercício de funções por parte do Estado nessas actividades, sejam elas directas, sejam elas de regulação."
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 31,
+      "speaker": {
+        "id": 1296,
+        "name": "José Eduardo Rego Mendes Martins",
+        "party": "PSD",
+        "string": "O Sr. José Eduardo Martins (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Percebeu agora?"
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 31,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, Sr. Ministro, não confunda coisas que são inconfundíveis. Dizer que a função do Estado é insubstituível nas áreas da soberania não significa que estejamos dispostos a delegar, em todas as outras áreas, todas as funções em favor dos privados.\nJulgo, pois, que não poderia ter sido mais claro.\nPortanto, se me permite, sou eu que dou as respostas em nome do meu partido, não é o Sr. Ministro que se arroga o direito de as dar, porque eu também não me arrogo o direito de dar as respostas do Governo.\nSr. Ministro, continuamos na mesma! Como vê, deste lado, clareza! Do seu lado e da bancada do PS, nada!"
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Já se esqueceu das propostas!"
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 31,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Houve apenas uma suposta resposta do Sr. Deputado Victor Baptista,…"
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 31,
+      "speaker": {
+        "id": 1303,
+        "name": "José Manuel Ferreira Nunes Ribeiro",
+        "party": "PSD",
+        "string": "O Sr. José Manuel Ribeiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exacto!"
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 31,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… a quem terei todo o gosto de entregar a minha intervenção, porque ele seguramente não a ouviu, porque o que ele disse nada tem a ver com o que eu disse. Mas, enfim, cada um faz como entende!"
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 31,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Ministro, repito-lhe que temos todo o gosto em dar respostas; o Sr. Ministro é que não as dá! Fiz-lhe aqui um desafio, a que o Sr. Ministro não responde, como nunca respondem nem o Governo nem o PS: identifique, com clareza, se o Sr. Ministro quer ou não coexistência entre escola pública e escola privada, igualdade de tratamento no domínio da saúde entre públicos e privados, bem como noutras áreas que posso elencar.\nOnde é que o Governo acha que é insubstituível a sua prestação? Onde é que o Governo acha que deve ser reforçado o seu papel regulador? Ou só reforça quando lhe dá jeito para desautorizar as decisões das entidades reguladoras, como já aconteceu?!."
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ora, bem!"
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 31,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tem dias! Há dias em que gostam da regulação; há dias, quando"
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Ministro dos Assuntos Parlamentares."
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 32,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, agradeço muito a intervenção do Sr. Deputado José de Matos Correia, a quem peço o favor de não desconversar.\nÉ que nem sequer foi o Governo que trouxe este tema à discussão. O Governo tinha, e tem, uma missão muito mais simples: pedir à Assembleia da República a aprovação urgente de uma proposta de lei que permite ao Estado a possibilidade de fornecer garantias pessoais para empréstimos bancários até ao limite de 20 000 milhões de euros.\nOs Srs. Deputados do PSD pronunciaram-se a favor dessa proposta; os Srs. Deputados do CDS também; os Srs. Deputados do Bloco de Esquerda e do PCP pronunciaram-se contra. Isso ficou absolutamente claro.\nOs Srs. Deputados do PCP e do BE não gostariam que os contribuintes portugueses, que os aforradores portugueses contassem com garantias do Estado para garantir os seus depósitos!"
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 32,
+      "speaker": {
+        "id": 1237,
+        "name": "Francisco Anacleto Louçã",
+        "party": "BE",
+        "string": "O Sr. Francisco Louçã (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Que demagogia!"
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 32,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não gostariam que as pessoas que precisam de empréstimos bancários e as empresas que precisam de crédito e que hoje se defrontam com as dificuldades de liquidez do sistema bancário tivessem o apoio de garantias do Estado. Isso ficou muito claro! Mas também ficou muito clara a posição quer do CDS quer do PSD. O que não ficou claro — não estava claro no meu espírito — era o que resultava em matéria doutrinária da intervenção do Sr. Deputado Matos Correia! Portanto, usando uma figura do Regimento, pedi-lhe um esclarecimento, o Sr. Deputado fez o favor de me dar o esclarecimento de forma absolutamente clara e eu permiti-me tirar a conclusão."
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não, não!"
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 32,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Permiti-me tirar a conclusão dentro, evidentemente, da minha humildade intelectual, que nada se compara com o brilho do Sr. Deputado…"
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Paulo Rangel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Oh!…"
+    },
+    {
+      "utterance_id": 166,
+      "order": 166,
+      "page_start": 32,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O meu problema é o seguinte: no dia 23 de Maio de 2008, respondendo a um inquérito do jornal Público, a então candidata a líder do PSD, a Dr.ª Manuela Ferreira Leite, foi confrontada com a seguinte pergunta: «Quais os serviços públicos que podem ser entregues à gestão e exploração privadas?» E ela respondeu o seguinte: «Em princípio, todos, à excepção das verdadeiras funções de defesa de soberania (a defesa, a segurança, a justiça e os negócios estrangeiros), esses penso que não podem ser entregues a nenhuma gestão e exploração privada. Todos os outros, evidentemente, podem!»\nDepois, em relação à questão do cheque-ensino, acrescentou: «Não é um problema de gestão ou exploração privada, é uma questão de concorrência entre sectores. Sobre o cheque-ensino, preciso de"
+    },
+    {
+      "utterance_id": 167,
+      "order": 167,
+      "page_start": 33,
+      "speaker": {
+        "id": 1303,
+        "name": "José Manuel Ferreira Nunes Ribeiro",
+        "party": "PSD",
+        "string": "O Sr. José Manuel Ribeiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Leia mais, por favor!"
+    },
+    {
+      "utterance_id": 168,
+      "order": 168,
+      "page_start": 33,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… excepto negócios estrangeiros, justiça, segurança e defesa, podem ser todos — «evidentemente!» — entregues à gestão e exploração privadas.\nLimitei-me, apenas, a dar três exemplos: a Caixa Geral de Depósitos, a segurança social pública e a escola pública. E como verifiquei que o Sr. Deputado, com o aplauso da sua bancada, convalidava a posição da Sr.ª Presidente do PSD, permiti-me acreditar, na minha ingenuidade, que essa sua convalidação valia, que eu podia acreditar nela!\nDeixe-me, por favor, continuar a acreditar nela, porque eu acredito no que o Sr. Deputado diz, mas tirar também as conclusões políticas desse facto!\nPara este debate é muito importante perceber que, do ponto de vista do PSD, todas as funções do Estado, à excepção das funções de soberania — repito: defesa, negócios estrangeiros, justiça e segurança — podem ser «evidentemente!» entregues à gestão e exploração privadas.\nSr. Deputado, dou-lhe outro exemplo. Na minha tacanhez intelectual, até entendo esta afirmação e a convalidação que o Sr. Deputado, com brilho, faz dela, como isto: que o PSD até considera que as funções de regulação do sistema financeiro poderiam ser entregues à gestão e exploração privadas!\nPorque essa excepção também não está aqui feita! Ou será que a regulação financeira é matéria de justiça?! Ou será antes de defesa?! Ou será antes de segurança?! Ou talvez de negócios estrangeiros?!\n\nO Sr. Deputado pergunta: «Mas por que é que o Sr. Ministro não responde pela positiva e diz quais são as concepções do Governo?» Bom, não é esse o debate, mas respondo-lhe. Olhe, para este Governo, o Serviço Nacional de Saúde deve continuar Serviço Nacional de Saúde!"
+    },
+    {
+      "utterance_id": 169,
+      "order": 169,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queira concluir, Sr. Ministro."
+    },
+    {
+      "utterance_id": 170,
+      "order": 170,
+      "page_start": 33,
+      "speaker": {
+        "id": 1180,
+        "name": "Augusto Ernesto Santos Silva",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A segurança social pública deve continuar segurança social pública! A escola pública deve continuar pública!\nEm 2009, quando os portugueses tiverem que decidir, saberão, com clareza, que propostas escolher!"
+    },
+    {
+      "utterance_id": 171,
+      "order": 171,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Victor Baptista."
+    },
+    {
+      "utterance_id": 172,
+      "order": 172,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, ouvi atentamente o Sr. Deputado José de Matos Correia e o que é surpreendente é o Sr. Deputado vir aqui fazer uma intervenção, assumindo, de forma clara, a derrota do fundamentalismo de mercado que defenderam durante tanto tempo. Veio aqui defender isso!"
+    },
+    {
+      "utterance_id": 173,
+      "order": 173,
+      "page_start": 34,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Eu?!…"
+    },
+    {
+      "utterance_id": 174,
+      "order": 174,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado pensa que isso passa em claro?! Não passa em claro! A intervenção de V. Ex.ª, num momento difícil, veio agora, num processo de recuo, rapidamente, tentar colocarse na linha de partida. Portanto, aquilo que a sua bancada aqui defendeu em determinados momentos, como a privatização de parte da Caixa Geral dos Depósitos, da segurança social… Protestos do PSD.\nOu está convencido de que já me esqueci das propostas de alteração orçamental que apresentaram aqui, na Assembleia da República, relacionadas com os órgãos de soberania?!"
+    },
+    {
+      "utterance_id": 175,
+      "order": 175,
+      "page_start": 34,
+      "speaker": {
+        "id": 1303,
+        "name": "José Manuel Ferreira Nunes Ribeiro",
+        "party": "PSD",
+        "string": "O Sr. José Manuel Ribeiro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Seja sério, Sr. Deputado!"
+    },
+    {
+      "utterance_id": 176,
+      "order": 176,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, nós temos memória! VV. Ex.as é que não têm memória!\nVV. Ex.as esquecem-se daquilo que apresentam na Assembleia da República, mas nós temos boa memória e este é o momento para ajustar essas contas!\nÉ verdade que, para quem foi tão fundamentalista do mercado, os senhores estão num processo difícil, complicado. Mas nunca foi esse o nosso caso! O vosso processo de recuo, volto a dizer-lhe, é um processo de recuo muito tardio!"
+    },
+    {
+      "utterance_id": 177,
+      "order": 177,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as e Srs. Deputados, não havendo mais oradores inscritos, declaro encerrado o debate, na generalidade, da proposta de lei n.º 225/X (4.ª).\nVamos, de seguida, votá-la na generalidade, seguindo-se a sua discussão e votação na especialidade.\nAssim sendo, vamos proceder à verificação de quórum.\nPeço aos Srs. Deputados Secretários para apurarem o quórum de deliberação.\nPausa.\nSrs. Deputados, a Mesa regista a presença de 172 Deputados, pelo que temos quórum de deliberação.\nComeçamos, então, por votar, na generalidade, a proposta de lei n.º 225/X (4.ª) — Estabelece a possibilidade de concessão extraordinária de garantias pessoais pelo Estado, no âmbito do sistema financeiro.\nSubmetida à votação, foi aprovada, com votos a favor do PS, do PSD e do CDS-PP, votos contra do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita e a abstenção de 1 Deputado do PS."
+    },
+    {
+      "utterance_id": 178,
+      "order": 178,
+      "page_start": 35,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para uma interpelação à Mesa."
+    },
+    {
+      "utterance_id": 179,
+      "order": 179,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 180,
+      "order": 180,
+      "page_start": 35,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, a nossa vontade é a de fazer uma intervenção no início das votações na especialidade sobre as várias propostas que apresentamos."
+    },
+    {
+      "utterance_id": 181,
+      "order": 181,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Antes da votação do artigo 2.º, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 182,
+      "order": 182,
+      "page_start": 35,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sim, Sr. Presidente. Quem usará da palavra é o Sr. Deputado Honório Novo."
+    },
+    {
+      "utterance_id": 183,
+      "order": 183,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem, Sr. Deputado.\nEntão, tem a palavra o Sr. Deputado Honório Novo."
+    },
+    {
+      "utterance_id": 184,
+      "order": 184,
+      "page_start": 35,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: O que estamos, hoje, aqui a votar é uma proposta de lei de uma enorme gravidade e de uma enorme importância para o País.\nE só porque é uma proposta grave é que assistimos, na última quase meia hora, a uma tentativa desesperada, por parte do Sr. Ministro dos Assuntos Parlamentares, acompanhado de perto pelo Sr. Deputado Matos Correia, de tentar desviar as atenções para outros temas, certamente importantes mas que não estão, hoje, em discussão e votação."
+    },
+    {
+      "utterance_id": 185,
+      "order": 185,
+      "page_start": 35,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 186,
+      "order": 186,
+      "page_start": 35,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quanto à matéria de facto, ao conteúdo da proposta, o resultado da votação na generalidade que acabámos de realizar é bem esclarecedor: todos juntos, do CDS ao Partido Socialista, passando pelo partido do Deputado Matos Correia,…"
+    },
+    {
+      "utterance_id": 187,
+      "order": 187,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, peço desculpa pela interrupção, mas tenho de alertar os Srs. Deputados para que não se podem ausentar da Sala, porque estamos em período de votações.\nSr. Deputado Honório Novo, faça favor de continuar no uso da palavra."
+    },
+    {
+      "utterance_id": 188,
+      "order": 188,
+      "page_start": 35,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dizia eu, Sr. Presidente, que o resultado da votação que acabámos de realizar é bem esclarecedor: todos juntos, em uníssono, do CDS ao Partido Socialista, passando pelo partido do Deputado Matos Correia, estão a defender o quê? A «economia de casino»! Os responsáveis pela especulação financeira que teve como consequência a situação que atravessamos! Passo a apresentar as nossas propostas de alteração.\nPara além do reforço da informação à Assembleia da República e do reforço da informação pública, que vários grupos parlamentares propuseram e que parece não oferecer dúvidas, apresentamos três propostas de alteração que quero sublinhar.\nEm primeiro lugar, entendemos que as garantias prestadas pelo Estado não podem servir para financiar qualquer tipo de projecto. Não estamos dispostos a que um grupo económico de grande dimensão utilize, por"
+    },
+    {
+      "utterance_id": 189,
+      "order": 189,
+      "page_start": 36,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 190,
+      "order": 190,
+      "page_start": 36,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isto não é legítimo para o País, isto não é legítimo para aqueles a quem os senhores andam a negar dinheiro e apoio, seja nos sectores produtivos, seja nas pequenas empresas, seja na agricultura, seja nas pescas."
+    },
+    {
+      "utterance_id": 191,
+      "order": 191,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queira concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 192,
+      "order": 192,
+      "page_start": 36,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou terminar, Sr. Presidente.\nSr. Presidente, Srs. Deputados, a gravidade da situação está bem à vista e as propostas do PCP são as que acabei de enunciar. Se os senhores não as aceitarem, fica bem claro o que se pretende com esta proposta de lei: salvar o sistema e dizer ao País que, para os trabalhadores, para a generalidade da população, em Portugal, há uma solução do Governo, que é o Código do Trabalho; para a especulação financeira, também há uma solução do Governo, que são 20 000 milhões de euros de bandeja. Isto nós não podemos aceitar!"
+    },
+    {
+      "utterance_id": 193,
+      "order": 193,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Jorge Neto."
+    },
+    {
+      "utterance_id": 194,
+      "order": 194,
+      "page_start": 36,
+      "speaker": {
+        "id": 1285,
+        "name": "Jorge Manuel Ferraz De Freitas Neto",
+        "party": "PSD",
+        "string": "O Sr. Jorge Neto (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: O PSD já expressou o seu sentido de voto favorável relativamente à proposta de lei. Naturalmente, merece o nosso apoio, pois os tempos que vivemos são tempos de crise, que exigem solidariedade, não só a nível internacional mas também internamente.\nO PSD é um partido com sentido de Estado, pelo que, convocado para se pronunciar sobre esta proposta de lei neste momento difícil, naturalmente não podia deixar de dizer «sim», votando-a favoravelmente. Aliás, pensamos que é tempo de pôr um pouco de lado os dogmas e a retórica política e de encontrar respostas concretas e pragmáticas para os problemas desta crise financeira. É exactamente isso que fazemos! Contudo, tal não afasta a nossa crítica e a nossa observação relativamente a uma falta de transparência da proposta de lei, designadamente no que concerne ao controlo parlamentar."
+    },
+    {
+      "utterance_id": 195,
+      "order": 195,
+      "page_start": 37,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para quê?!"
+    },
+    {
+      "utterance_id": 196,
+      "order": 196,
+      "page_start": 37,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está de acordo!"
+    },
+    {
+      "utterance_id": 197,
+      "order": 197,
+      "page_start": 37,
+      "speaker": {
+        "id": 1285,
+        "name": "Jorge Manuel Ferraz De Freitas Neto",
+        "party": "PSD",
+        "string": "O Sr. Jorge Neto (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… por uma razão de sinal político."
+    },
+    {
+      "utterance_id": 198,
+      "order": 198,
+      "page_start": 37,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Claro!"
+    },
+    {
+      "utterance_id": 199,
+      "order": 199,
+      "page_start": 37,
+      "speaker": {
+        "id": 1285,
+        "name": "Jorge Manuel Ferraz De Freitas Neto",
+        "party": "PSD",
+        "string": "O Sr. Jorge Neto (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ou seja, estamos solidários com o Governo na medida apresentada, dada a urgência na tomada destas medidas, em face da gravidade da crise internacional,…"
+    },
+    {
+      "utterance_id": 200,
+      "order": 200,
+      "page_start": 37,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Todos juntos na defesa do sistema!"
+    },
+    {
+      "utterance_id": 201,
+      "order": 201,
+      "page_start": 37,
+      "speaker": {
+        "id": 1285,
+        "name": "Jorge Manuel Ferraz De Freitas Neto",
+        "party": "PSD",
+        "string": "O Sr. Jorge Neto (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e não queremos, de modo algum, pelo mais recôndito motivo que seja, ser acusados de ter frustrado, eclipsado ou, de alguma forma, inviabilizado a eficácia desta medida."
+    },
+    {
+      "utterance_id": 202,
+      "order": 202,
+      "page_start": 37,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Que bonito!"
+    },
+    {
+      "utterance_id": 203,
+      "order": 203,
+      "page_start": 37,
+      "speaker": {
+        "id": 1285,
+        "name": "Jorge Manuel Ferraz De Freitas Neto",
+        "party": "PSD",
+        "string": "O Sr. Jorge Neto (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não fizemos nenhuma proposta em concreto por esta razão singela mas relevante.\nNo entanto, relativamente às propostas apresentadas pelos partidos da oposição — e são várias, do Bloco de Esquerda ao PCP e ao CDS-PP — que vão no sentido de conferir mais transparência a esta medida e, sobretudo, um controlo parlamentar eficaz e profícuo, não deixaremos, naturalmente, de expressar o nosso voto favorável."
+    },
+    {
+      "utterance_id": 204,
+      "order": 204,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Diogo Feio."
+    },
+    {
+      "utterance_id": 205,
+      "order": 205,
+      "page_start": 37,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: Durante este debate, houve algumas tentativas para estabelecer uma confusão relativamente ao que algumas bancadas — e falo pela minha — defendem.\nO que defendemos é algo muito simples: a tranquilidade e a serenidade nos mercados, porque não gostamos daquilo a que temos assistido nas últimas semanas."
+    },
+    {
+      "utterance_id": 206,
+      "order": 206,
+      "page_start": 37,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 207,
+      "order": 207,
+      "page_start": 37,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E não consideramos que esta seja a ocasião para, de uma situação difícil, tirar dividendos políticos."
+    },
+    {
+      "utterance_id": 208,
+      "order": 208,
+      "page_start": 38,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 209,
+      "order": 209,
+      "page_start": 38,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Relativamente àqueles que o tentam fazer, as pessoas estão atentas, percebem bem e sabem distinguir aquilo que é oportunismo e oportunidade de propostas, que são duas coisas bem distintas.\nNeste momento, todos os portugueses, desde os que têm depósitos, às empresas que pretendem, no futuro, contrair empréstimos para poderem manter a sua actividade de investimento, estão preocupados. São esses que estão especialmente em causa."
+    },
+    {
+      "utterance_id": 210,
+      "order": 210,
+      "page_start": 38,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estão aqui, nas nossas propostas! Não estão na proposta do Governo!"
+    },
+    {
+      "utterance_id": 211,
+      "order": 211,
+      "page_start": 38,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Srs. Deputados do Partido Comunista Português, escusam de «enfiar qualquer carapuça» em relação à afirmação que fiz."
+    },
+    {
+      "utterance_id": 212,
+      "order": 212,
+      "page_start": 38,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 213,
+      "order": 213,
+      "page_start": 38,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Há, no entanto, algo muito simples a referir: não há economia sem bancos e sem empresas, por muito que isto custe a alguns. Aliás, gostaria de saber como é que construiriam um sistema económico sem esse tipo de instituições…"
+    },
+    {
+      "utterance_id": 214,
+      "order": 214,
+      "page_start": 38,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não use cassetes, que comigo não resultam!"
+    },
+    {
+      "utterance_id": 215,
+      "order": 215,
+      "page_start": 38,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E, para serem consequentes, deveriam ter propostas concretas que apoiassem as pequenas e médias empresas e as famílias.\nPela nossa parte, já fizemos o nosso trabalho. Mas, também aqui, quisemos dar um sinal de natureza política e, por isso, votando favoravelmente a proposta de lei em apreciação, considerámos que seria possível melhorá-la, e melhorá-la no sentido da sua maior transparência.\nÉ evidente que ficamos satisfeitos com o facto de o Sr. Secretário de Estado nos vir aqui dizer: «Fiquem tranquilos, porque a informação — assumo eu — será dada». Foi isto que disse o Sr. Secretário de Estado! Mas, como deve imaginar, Sr. Secretário de Estado, havendo eleições no próximo ano, não se sabendo o que vai suceder — o seu futuro é, com toda a certeza, como o nosso, incerto —, consideramos que este princípio de transparência deve ficar determinado na lei,…"
+    },
+    {
+      "utterance_id": 216,
+      "order": 216,
+      "page_start": 38,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 217,
+      "order": 217,
+      "page_start": 38,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… ainda por cima em relação a uma proposta de lei que tem a certa altura, salvo erro no artigo 8.º, um conjunto de elementos que serão determinados por portaria. Isto dá alguma incerteza em relação ao que vai ser determinado.\nÉ por tudo isso, porque somos favoráveis a esta medida, porque queremos que as pessoas estejam mais tranquilas — e relacionada com esta tranquilidade está, com certeza, a transparência — que apresentámos a proposta que hoje pôde aqui ser discutida, que vai ser votada na especialidade e que, consideramos, tem todas as condições para ser votada de forma unânime, independentemente da boa vontade que foi trazida pelo Sr. Secretário de Estado do Tesouro e Finanças a este debate.\nÉ esta a nossa postura de bom senso e de responsabilidade a fim de tentar melhorar a proposta de lei que hoje nos é apresentada."
+    },
+    {
+      "utterance_id": 218,
+      "order": 218,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Francisco Louçã."
+    },
+    {
+      "utterance_id": 219,
+      "order": 219,
+      "page_start": 38,
+      "speaker": {
+        "id": 1237,
+        "name": "Francisco Anacleto Louçã",
+        "party": "BE",
+        "string": "O Sr. Francisco Louçã (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, a bancada do Bloco de Esquerda tem por certo que esta é uma das sessões mais solenes e mais importantes da vida parlamentar. Nunca se"
+    },
+    {
+      "utterance_id": 220,
+      "order": 220,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Uma vergonha!"
+    },
+    {
+      "utterance_id": 221,
+      "order": 221,
+      "page_start": 39,
+      "speaker": {
+        "id": 1237,
+        "name": "Francisco Anacleto Louçã",
+        "party": "BE",
+        "string": "O Sr. Francisco Louçã (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Ministro, como é aceitável que alguma vez se possa fazer uma operação desta natureza? Porque, Sr. Ministro, aqui não somos banqueiros — ou, pelo menos, não somos todos banqueiros —, por isso temos a obrigação de responder pelo dinheiro dos contribuintes. E responder pelo dinheiro dos contribuintes é tornar claro na lei que dinheiro se usa, como, quando, com que garantias, com que comissões.\nE reparem as Sr.as e os Srs. Deputados que nem sequer o que aqui foi dito pelo Governo figura na lei. O Governo, hoje, veio admitir que se podem transformar créditos em acções preferenciais, como é feito noutros países europeus. Mas isso não está na lei. Qualquer garantia está fora da lei; qualquer compromisso não faz parte da lei! E se é proposto, apesar de dizerem que concordam (tenho aqui a proposta do Bloco de Esquerda nesse sentido), vão votar contra. Aliás, já se sabe que o Partido Socialista é especialista em votar contra aquilo com o qual concorda! E agora vai acontecer mais uma vez. Porquê? Garantias nunca, jamais, em tempo algum! É por isso que esta é a pior das leis que é discutida na Europa.\nE é a mais inconsequente, porque, se uma lei tem que dar tranquilidade ao mercado, como aqui vêm dizer, que tranquilidade é essa de uma lei que nada define sobre as suas regras? Estão à espera de confiança se não garantem confiança, em primeiro lugar, aos pagantes que são os contribuintes? É por isso que esta lei, se não for corrigida, é um erro gravíssimo, um cheque em branco inaceitável e uma violência contra os contribuintes!"
+    },
+    {
+      "utterance_id": 222,
+      "order": 222,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Victor Baptista."
+    },
+    {
+      "utterance_id": 223,
+      "order": 223,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, depois do debate e da votação, na generalidade, ficámos a saber, nesta Assembleia, que há dois grupos parlamentares que muito falam em desenvolvimento económico mas não querem contribuir para criar as condições para o mesmo."
+    },
+    {
+      "utterance_id": 224,
+      "order": 224,
+      "page_start": 39,
+      "speaker": {
+        "id": 1238,
+        "name": "Francisco Miguel Baudoin Madeira Lopes",
+        "party": "PEV",
+        "string": "O Sr. Francisco Madeira Lopes (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É falso!"
+    },
+    {
+      "utterance_id": 225,
+      "order": 225,
+      "page_start": 40,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Criamos! Está aqui! Votem na proposta que apresentamos!"
+    },
+    {
+      "utterance_id": 226,
+      "order": 226,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Essa é a realidade.\nQuando o Sr. Deputado Francisco Louçã, há pouco, falou nos 20 000 milhões de euros e mencionou que era a maior operação feita pelo Estado, por que razão não fez referência a Espanha? É que em Espanha são 100 000 milhões de euros."
+    },
+    {
+      "utterance_id": 227,
+      "order": 227,
+      "page_start": 40,
+      "speaker": {
+        "id": 1237,
+        "name": "Francisco Anacleto Louçã",
+        "party": "BE",
+        "string": "O Sr. Francisco Louçã (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quer comparar?!"
+    },
+    {
+      "utterance_id": 228,
+      "order": 228,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, em que circunstâncias é que esta intervenção é feita? É feita num quadro internacional de dificuldades! Olhando para o País, tendo consciência da importância do sector financeiro no funcionamento e no crescimento da economia (o seu contributo para o PIB estima-se em cerca de 25%, directa e indirectamente), o que hoje ficámos a saber foi que o Bloco de Esquerda e o Partido Comunista se abstraem, dizem que querem condições, mas, no momento da aprovação na generalidade, não estiveram de acordo em ajudar a normalizar a economia, em ajudar a estabilizar o sector financeiro! Essa é que é a realidade!"
+    },
+    {
+      "utterance_id": 229,
+      "order": 229,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 230,
+      "order": 230,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Em segundo lugar, refiro as propostas, sobretudo duas, apresentadas, curiosamente, pelo Partido Comunista e pelo Bloco de Esquerda.\nQuanto às propostas do Partido Comunista, são surpreendentes.\nFalam nas microempresas. Ó Sr. Deputado Honório Novo, anda distraído, pois ainda há dias, para as pequenas e médias empresas, o Estado reforçou a possibilidade de financiamento até 400 milhões de euros!"
+    },
+    {
+      "utterance_id": 231,
+      "order": 231,
+      "page_start": 40,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não brinque!"
+    },
+    {
+      "utterance_id": 232,
+      "order": 232,
+      "page_start": 40,
+      "speaker": {
+        "id": 1237,
+        "name": "Francisco Anacleto Louçã",
+        "party": "BE",
+        "string": "O Sr. Francisco Louçã (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em 2010!"
+    },
+    {
+      "utterance_id": 233,
+      "order": 233,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Mais: o Sr. Deputado confunde tudo. Começo a duvidar se o Sr. Deputado conseguiu, até este momento, interpretar o que é um aval, se assim o quisermos definir. \nO Sr. Deputado está a confundir tudo, pois, nas vossas propostas, até fala no spread, quer para a habitação, quer para as microempresas.\nPorém, o que está a tratar-se aqui ç do financiamento do sector bancário,…"
+    },
+    {
+      "utterance_id": 234,
+      "order": 234,
+      "page_start": 40,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 235,
+      "order": 235,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "… ç da procura de liquidez para o sector bancário.\nSe o Sr. Deputado não resolver o problema da liquidez do sector financeiro, não tem dinheiro para emprestar às empresas!"
+    },
+    {
+      "utterance_id": 236,
+      "order": 236,
+      "page_start": 40,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quem não percebe é V. Ex.ª!"
+    },
+    {
+      "utterance_id": 237,
+      "order": 237,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado lembra-me aqueles que querem distribuir o que não têm. \nO Sr. Deputado não tem liquidez, evita que se consiga a liquidez e quer distribuir. \nO Sr. Deputado tem aquele estilo fácil de quem quer «chuva no nabal e sol na eira»."
+    },
+    {
+      "utterance_id": 238,
+      "order": 238,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É o contrário!"
+    },
+    {
+      "utterance_id": 239,
+      "order": 239,
+      "page_start": 41,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Isso, Sr. Deputado, como sabe, não é possível.\nHá ainda uma outra questão fundamental. Fala no capital e na possibilidade de transformação destas garantias em capital social. É uma das vossas propostas. Oiça, Sr. Deputado, ainda não se sabe se as garantias vão ser utilizadas…"
+    },
+    {
+      "utterance_id": 240,
+      "order": 240,
+      "page_start": 41,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP e do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sabe-se, sabe-se!"
+    },
+    {
+      "utterance_id": 241,
+      "order": 241,
+      "page_start": 41,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, não se sabe! Uma coisa é uma garantia de reforço a um empréstimo. O problema colocar-se-á se, porventura, os bancos não pagarem. Nessa altura, o Estado executa, tem que entrar com recursos financeiros e aí é que se poderá colocar esse problema. \nO Sr. Deputado é do estilo de pessoa que «coloca o carro à frente dos bois».\nPortanto, o que quero dizer-lhe é que as vossas propostas não fazem sentido nenhum.\nQuanto às propostas do Bloco de Esquerda, refiro uma questão muito simples: a dos dois anos e a dos seis meses.\nSr. Deputado Francisco Louçã, confesso que, sendo um professor de Economia — um excelente professor de Economia! —, hoje, deu mais um avanço na teorização: é que entende que se deve decretar, por despacho ou por decreto-lei, neste caso por uma lei, exactamente quando começa e quando termina a crise. \nO Sr. Deputado quer que se ponha na lei quando é que ela começa e quando é que ela acaba."
+    },
+    {
+      "utterance_id": 242,
+      "order": 242,
+      "page_start": 41,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não, não!"
+    },
+    {
+      "utterance_id": 243,
+      "order": 243,
+      "page_start": 41,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Victor Baptista (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "No entanto, o Sr. Deputado sabe que isso é completamente impossível.\nAliás, o Sr. Deputado deve estar a rir-se exactamente da sua proposta!!"
+    },
+    {
+      "utterance_id": 244,
+      "order": 244,
+      "page_start": 41,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Secretário de Estado do Tesouro e Finanças."
+    },
+    {
+      "utterance_id": 245,
+      "order": 245,
+      "page_start": 41,
+      "speaker": {
+        "id": 3040,
+        "name": "Carlos Costa Pina",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e Finanças",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, intervenho apenas para fazer três rápidas observações."
+    },
+    {
+      "utterance_id": 246,
+      "order": 246,
+      "page_start": 41,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vai explicar os activos financeiros!"
+    },
+    {
+      "utterance_id": 247,
+      "order": 247,
+      "page_start": 41,
+      "speaker": {
+        "id": 3040,
+        "name": "Carlos Costa Pina",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e Finanças",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, se me deixar falar, perceberá rapidamente o que vou dizer.\nEm relação ao que referiu o Sr. Deputado Diogo Feio, gostaria de dizer que não é este o momento certo de falar em eleições. Estamos ainda muito longe de isso acontecer. É tempo, sobretudo, de trabalhar…"
+    },
+    {
+      "utterance_id": 248,
+      "order": 248,
+      "page_start": 41,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Também acho! Boa ideia!"
+    },
+    {
+      "utterance_id": 249,
+      "order": 249,
+      "page_start": 41,
+      "speaker": {
+        "id": 3040,
+        "name": "Carlos Costa Pina",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e Finanças",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e de criar condições para resistir á situação adversa que, neste momento, temos pela frente.\nDe qualquer modo, gostaria também de tranquilizá-lo, dizendo que a proposta que apresentou — e pela terceira vez o digo — não nos levanta qualquer objecção e acomodá-la-emos com toda a naturalidade, porque, repito, já hoje o regime é mais transparente do que aquilo que o Sr. Deputado está a pedir.\nPortanto, podemos perfeitamente assumir o compromisso, previsto na lei, se necessário for, de reporte periódico ao Parlamento para tranquilizar o Sr. Deputado, bem como o Partido Social Democrata, que se associou nesta matéria à proposta feita pelo PP.\nGostaria também de dizer aos Srs. Deputados Francisco Louçã e Honório Novo que devem, nesta matéria, uma explicação aos portugueses. Há pouco, teve lugar, aqui, um momento decisivo, que foi o da votação contra ou a favor desta proposta, e os Srs. Deputados, se bem percebi, votaram contra esta proposta."
+    },
+    {
+      "utterance_id": 250,
+      "order": 250,
+      "page_start": 42,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Percebeu bem!"
+    },
+    {
+      "utterance_id": 251,
+      "order": 251,
+      "page_start": 42,
+      "speaker": {
+        "id": 3040,
+        "name": "Carlos Costa Pina",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e Finanças",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Devem, por isso, explicar aos depositantes dos bancos, às pessoas que necessitam de acorrer às instituições de crédito, pedindo crédito para os seus investimentos, às famílias e às PME por que é que os senhores não querem esta solução."
+    },
+    {
+      "utterance_id": 252,
+      "order": 252,
+      "page_start": 42,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está aqui a melhor proposta!"
+    },
+    {
+      "utterance_id": 253,
+      "order": 253,
+      "page_start": 42,
+      "speaker": {
+        "id": 3040,
+        "name": "Carlos Costa Pina",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado do Tesouro e Finanças",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em terceiro lugar — e vou terminar —, àqueles que não acreditam na iniciativa que hoje, aqui, está a ser apresentada, designadamente os grupos parlamentares que votaram contra, gostaria de dizer que há muito pouco tempo, há uns minutos atrás, uma importante agência de avaliação de risco internacional veio dizer que, relativamente a Portugal, esta lei e este mecanismo de garantias não altera o rating da República Portuguesa pela seguinte razão: o risco é calculado, o risco é temporário e o risco poderia ser maior se não houvesse garantias. Isto mesmo foi afirmado por uma importante agência de avaliação de risco internacional."
+    },
+    {
+      "utterance_id": 254,
+      "order": 254,
+      "page_start": 42,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E os activos financeiros?!"
+    },
+    {
+      "utterance_id": 255,
+      "order": 255,
+      "page_start": 42,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputados, vamos votar o artigo 2.º da proposta de lei.\nSubmetido à votação, foi aprovado, com votos a favor do PS, do PSD e do CDS-PP, votos contra do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita e a abstenção de 1 Deputado do PS.\nPassamos a votação da proposta, apresentada pelo PCP, de aditamento de um n.º 2 ao artigo 2.º da proposta de lei.\nSubmetida à votação, foi rejeitada, com votos contra do PS, do PSD e do CDS-PP e votos a favor do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita.\nEra a seguinte:\n2 — As garantias pessoais a que se refere o número anterior só podem ser prestadas a contratos de financiamento a estabelecer: a) Com micro, pequenas e médias empresas; b) Com autarquias no âmbito de projectos dos respectivos planos plurianuais de investimento; c) No âmbito do desenvolvimento de projectos de interesse público; d) No âmbito de contratos de financiamento de aquisição, reparação ou reconstrução de habitação própria e permanente."
+    },
+    {
+      "utterance_id": 256,
+      "order": 256,
+      "page_start": 42,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos proceder à votação da proposta, apresentada pelo Bloco de Esquerda, de aditamento de um n.º 2 ao artigo 2.º da proposta de lei.\nSubmetida à votação, foi rejeitada, com votos contra do PS, do PSD e do CDS-PP e votos a favor do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita.\nEra a seguinte:\n2 — O regime de concessão extraordinária de garantias, definido pelo presente diploma, é aplicável a operações de financiamento que não se estendam por mais de 2 anos."
+    },
+    {
+      "utterance_id": 257,
+      "order": 257,
+      "page_start": 43,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos votar a proposta do Bloco de Esquerda, de aditamento de um n.º 3 ao artigo 2.º da proposta de lei.\nSubmetida à votação, foi rejeitada, com votos contra do PS, do PSD e do CDS-PP, votos a favor do BE, de Os Verdes e de 1 Deputada não inscrita e a abstenção PCP.\nEra a seguinte:\n3 — O regime exclui garantias a operações que não sejam realizadas em euros."
+    },
+    {
+      "utterance_id": 258,
+      "order": 258,
+      "page_start": 43,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Passamos à votação da proposta, apresentada pelo PCP, de aditamento de um artigo 2.º-A à proposta de lei.\nSubmetida à votação, foi rejeitada, com votos contra do PS, do PSD e do CDS-PP e votos a favor do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita.\nEra a seguinte:\nArtigo 2.º-A Condições de financiamento\nAs instituições de crédito beneficiárias da concessão de garantias pessoais prestadas pelo Estado estabelecem os contratos de financiamento, previstos no artigo anterior, fixando uma taxa de juro igual à taxa de refinanciamento do Banco Central Europeu acrescida de um spread máximo de 0,75%."
+    },
+    {
+      "utterance_id": 259,
+      "order": 259,
+      "page_start": 43,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos proceder à votação da proposta do Bloco de Esquerda, de aditamento de um artigo 2.º-A à proposta de lei.\nSubmetida à votação, foi rejeitada, com votos contra do PS, do PSD e do CDS-PP e votos a favor do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita.\nEra a seguinte:\nArtigo 2.º-A Prazo para a concessão extraordinária de garantias pessoais pelo Estado\nO prazo da aplicação do regime concessão extraordinária de garantias pessoais pelo Estado em contratos de financiamento é de 6 meses a contar da data da entrada em vigor do presente diploma."
+    },
+    {
+      "utterance_id": 260,
+      "order": 260,
+      "page_start": 43,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Entramos, agora, nas votações relativas ao artigo 3.º da proposta de lei.\nComeçamos por votar a proposta, apresentada pelo PCP, de alteração do n.º 2 do artigo 3.º\nSubmetida à votação, foi rejeitada, com votos contra do PS, do PSD e do CDS-PP e votos a favor do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita.\nEra a seguinte:\n2 — A violação por parte de membros do Governo do disposto na presente lei constitui crime de responsabilidade punível com pena de prisão até três anos."
+    },
+    {
+      "utterance_id": 261,
+      "order": 261,
+      "page_start": 43,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos votar o artigo 3.º da proposta de lei."
+    },
+    {
+      "utterance_id": 262,
+      "order": 262,
+      "page_start": 44,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos votar a proposta, apresentada pelo PCP, de aditamento de um n.º 4 ao artigo 3.º da proposta de lei.\nSubmetida à votação, foi rejeitada, com votos contra do PS, do PSD, do CDS-PP e votos a favor do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita.\nEra a seguinte:\n4 — A violação por parte das instituições de crédito beneficiárias do disposto na presente lei, ou o incumprimento das responsabilidades financeiras decorrentes das garantias pessoais a elas prestadas, determina sempre a transformação do crédito concedido em participação do Estado no capital da entidade beneficiária."
+    },
+    {
+      "utterance_id": 263,
+      "order": 263,
+      "page_start": 44,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos votar a proposta, apresentada pelo PCP, de aditamento de um n.º 5 ao mesmo artigo 3.º\nSubmetida à votação, foi rejeitada, com votos contra do PS, do PSD, do CDS-PP e votos a favor do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita.\nEra a seguinte:\n5 — Sempre que se verifiquem as condições previstas no número anterior, o Estado nomeia ou participa na administração da entidade beneficiária."
+    },
+    {
+      "utterance_id": 264,
+      "order": 264,
+      "page_start": 44,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos votar, agora, o artigo 4.º da proposta de lei.\nSubmetido à votação, foi aprovado, com votos a favor do PS, do PSD e do CDS-PP e abstenções do PCP, do BE, de Os Verdes, de 1 Deputado do PS e de 1 Deputada não inscrita.\nVamos proceder à votação da proposta de aditamento de um n.º 4 ao artigo 4.º, apresentada pelo PCP.\nSubmetida à votação, foi rejeitada, com votos contra do PS, do PSD e do CDS-PP e votos a favor do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita.\nEra a seguinte:\n4 — Aos administradores e responsáveis das entidades beneficiárias e das entidades da instrução do"
+    },
+    {
+      "utterance_id": 265,
+      "order": 265,
+      "page_start": 45,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Segue-se a votação do artigo 5.º da proposta de lei.\nSubmetido à votação, foi aprovado, com votos a favor do PS, do PSD e do CDS-PP, votos contra do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita e a abstenção de 1 Deputado do PS.\nSrs. Deputados, vamos votar o artigo 6.º da proposta de lei.\nSubmetido à votação, foi aprovado, com votos a favor do PS, do PSD, do CDS-PP, do PCP e de 1 Deputada não inscrita e abstenções do BE, de Os Verdes e de 1 Deputado do PS.\nVamos votar a proposta, apresentada pelo BE, de aditamento de um n.º 3 ao artigo 6.º da proposta de lei.\nSubmetida à votação, foi rejeitada, com votos contra do PS e votos a favor do PSD, do CDS-PP, do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita.\nEra a seguinte:\n3 — Todos os contratos estabelecidos no âmbito da concessão extraordinária de garantias definida por este diploma são comunicados à comissão competente da Assembleia da República."
+    },
+    {
+      "utterance_id": 266,
+      "order": 266,
+      "page_start": 45,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Segue-se a votação da proposta, apresentada pelo CDS-PP, de aditamento de um n.º 3 ao artigo 6.º da proposta de lei.\nSubmetida à votação, foi aprovada por unanimidade.\nÉ a seguinte:\n3 — Semestralmente o Ministério das Finanças dá conhecimento à Assembleia da República de todas as concessões extraordinárias de garantia pessoal, no âmbito do sistema financeiro, concedidas nos termos do presente diploma, bem como da sua execução."
+    },
+    {
+      "utterance_id": 267,
+      "order": 267,
+      "page_start": 45,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos votar o artigo 7.º da proposta de lei.\nSubmetido à votação, foi aprovado, com votos a favor do PS, do PSD e do CDS-PP e abstenções do PCP, do BE, de Os Verdes, de 1 Deputado do PS e de 1 Deputada não inscrita.\nSegue-se a votação da proposta, apresentada pelo PCP, de aditamento de um n.º 2 ao artigo 7.º\nSubmetida à votação, foi rejeitada, com votos contra do PS e votos a favor do PSD, do CDS-PP, do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita.\nEra a seguinte:\n2 — A relação nominal dos beneficiários das garantias pessoais do Estado concedidas ao abrigo da presente lei, com indicação individualizada das respectivas responsabilidades, constará igualmente dos Boletins de Execução Orçamental da responsabilidade da Direcção-Geral do Orçamento, do Ministério das Finanças e da Administração Pública."
+    },
+    {
+      "utterance_id": 268,
+      "order": 268,
+      "page_start": 45,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos votar, agora, a proposta apresentada pelo BE, de aditamento de um n.º 2 ao"
+    },
+    {
+      "utterance_id": 269,
+      "order": 269,
+      "page_start": 46,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos proceder à votação da proposta, apresentada pelo BE, de aditamento de um n.º 3 ao artigo 7.º\nSubmetida à votação, foi rejeitada, com votos contra do PS, do PSD e do CDS-PP e votos a favor do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita.\nEra a seguinte:\n3 — O contrato de concessão de garantia determina: a) As garantias colaterais que o Estado entenda necessário reclamar; b) O pagamento de uma taxa pela sociedade financeira contratante pelo acesso ao aval, que será 50 pontos de base acima da mediana do último ano dos credit default swaps a 5 anos; c) O compromisso de não distribuição de dividendos enquanto a sociedade contratante for devedora do Estado."
+    },
+    {
+      "utterance_id": 270,
+      "order": 270,
+      "page_start": 46,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos votar a proposta, apresentada pelo BE, de aditamento de um artigo 7.º-A.\nSubmetida à votação, foi rejeitada, com votos contra do PS, do PSD e do CDS-PP e votos a favor do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita.\nEra a seguinte:\nArtigo 7.º-A Obrigações públicas das sociedades financeiras beneficiárias do regime de garantias\nO acesso ao contrato de garantia obriga igualmente a sociedade contratante, quando se trate de uma instituição de crédito, a uma contrapartida quanto à fixação do juro praticado nos contratos de crédito com particulares, definindo-o em referência à taxa de refinanciamento do Banco Central Europeu e aplicando um spread máximo fixado pelo membro do governo que tutela as finanças."
+    },
+    {
+      "utterance_id": 271,
+      "order": 271,
+      "page_start": 46,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos proceder à votação da proposta, apresentada pelo BE, de aditamento de um artigo 7.º-B.\nSubmetida à votação, foi rejeitada, com votos contra do PS, do PSD e do CDS-PP e votos a favor do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita.\nEra a seguinte:\nArtigo 7.º-B Penalização por incumprimento\nEm caso de incumprimento dos prazos de pagamento de juro e de capital, o governo tem a prerrogativa de"
+    },
+    {
+      "utterance_id": 272,
+      "order": 272,
+      "page_start": 47,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Segue-se a votação do artigo 8.º da proposta de lei.\nSubmetido à votação, foi aprovado, com votos a favor do PS e do PSD, votos contra do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita e abstenções do CDS-PP e de 1 Deputado do PS.\nVamos votar, agora, o artigo 9.º da proposta de lei.\nSubmetido à votação, foi aprovado, com votos a favor do PS, do PSD e do CDS-PP e abstenções do PCP, do BE, de Os Verdes, de 1 Deputado do PS e de 1 Deputada não inscrita.\nVamos votar, conjuntamente, os artigos 10.º e 11.º da proposta de lei.\nSubmetidos à votação, foram aprovados, com votos a favor do PS, do PSD e do CDS-PP, votos contra do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita e a abstenção de 1 Deputado do PS.\nSrs. Deputados, vamos proceder à votação final global da proposta de lei n.º 225/X (4.ª) — Estabelece a possibilidade de concessão extraordinária de garantias pessoais pelo Estado, no âmbito do sistema financeiro, com a alteração entretanto aprovada na especialidade.\nSubmetida à votação, foi aprovada, com votos a favor do PS, do PSD e do CDS-PP, votos contra do PCP, do BE, de Os Verdes e de 1 Deputada não inscrita e a abstenção de 1 Deputado do PS.\nSrs. Deputados, por último, deu entrada na Mesa um requerimento, apresentado pelo Grupo Parlamentar do PS, a solicitar a dispensa de redacção final, bem como a dispensa do prazo previsto no artigo 157.º do Regimento.\nO requerimento foi admitido e vai ser votado.\nSubmetido à votação, foi aprovado por unanimidade.\nSrs. Deputados, se há declarações de voto individuais a anunciar, este é o momento para o fazerem.\nPausa.\nTem a palavra a Sr.ª Deputada Rosário Cardoso Águas."
+    },
+    {
+      "utterance_id": 273,
+      "order": 273,
+      "page_start": 47,
+      "speaker": {
+        "id": 1400,
+        "name": "Maria Do Rosário Da Silva Cardoso Águas",
+        "party": "PSD",
+        "string": "A Sr.ª Rosário Cardoso Águas (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é para informar que apresentarei na Mesa uma declaração de voto pessoal, por escrito."
+    },
+    {
+      "utterance_id": 274,
+      "order": 274,
+      "page_start": 47,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Com certeza, Sr.ª Deputada.\nPara proferir uma declaração de voto, em nome do Grupo Parlamentar do PSD, tem a palavra o Sr. Deputado Paulo Rangel."
+    },
+    {
+      "utterance_id": 275,
+      "order": 275,
+      "page_start": 47,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Paulo Rangel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, queria manifestar, em nome do Grupo Parlamentar do PSD, a plena consciência da importância — já sublinhada, aliás, por vários intervenientes — da proposta de lei que acabámos de aprovar.\nTal como anunciei no debate quinzenal com o Primeiro-Ministro, estamos em plena sintonia com o Governo português no quadro da coordenação europeia e, até, internacional para dotarmos Portugal dos instrumentos necessários de combate à crise financeira."
+    },
+    {
+      "utterance_id": 276,
+      "order": 276,
+      "page_start": 48,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 277,
+      "order": 277,
+      "page_start": 48,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Paulo Rangel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Teria sido positivo — e contamos que o Governo o faça! — que nos tivesse sido apresentado um projecto do tipo de uma portaria ou, até, vários projectos desse tipo, em função das necessidades; teria sido positivo que nos tivesse sido apresentado um projecto do tipo de um protocolo de articulação entre a Direcção-Geral do Tesouro, o Banco de Portugal e o Instituto de Gestão do Crédito Público, até porque são matérias que terão de ser desenvolvidas muito rapidamente (e que lamentamos que não tenham aparecido aqui); teria sido interessante que, para além do exemplo prático que o Sr. Secretário de Estado do Tesouro e Finanças aqui trouxe, houvesse um maior detalhe no esclarecimento dos critérios e das condições do financiamento. Sabemos que na Europa, neste momento, todos os países têm planos deste tipo e que a grande discussão se coloca ao nível das condições de financiamento. Se elas forem pouco interessantes, o plano não tem interesse algum; se elas forem demasiado atractivas, implicarão rateio e, se houver rateio, tem de haver critérios de selecção do financiamento. E nós tememos por esses critérios de selecção, uma vez que eles não resultam directamente desta lei.\nNeste sentido, a nossa declaração de voto é a declaração da expectativa de que o Governo faça o Parlamento acompanhar, a par e passo, a execução deste plano."
+    },
+    {
+      "utterance_id": 278,
+      "order": 278,
+      "page_start": 48,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 279,
+      "order": 279,
+      "page_start": 48,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Paulo Rangel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Gostaríamos, por isso, de ter maiores garantias parlamentares."
+    },
+    {
+      "utterance_id": 280,
+      "order": 280,
+      "page_start": 48,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 281,
+      "order": 281,
+      "page_start": 48,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queira concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 282,
+      "order": 282,
+      "page_start": 48,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Paulo Rangel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não quisemos, de maneira alguma, pôr em causa o esforço do Governo nesta matéria, mas estamos desconfortáveis, apesar de tudo, com o grau de densificação que a proposta de lei apresenta."
+    },
+    {
+      "utterance_id": 283,
+      "order": 283,
+      "page_start": 48,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 284,
+      "order": 284,
+      "page_start": 48,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Paulo Rangel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Portanto, que fique aqui lavrado este voto e esta declaração de voto do PSD."
+    },
+    {
+      "utterance_id": 285,
+      "order": 285,
+      "page_start": 48,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Não havendo mais inscritos para proferir declarações de voto, dou por concluídos os nossos trabalhos de hoje.\nA próxima reunião plenária realiza-se amanhã, com início às 10 horas, dela constando: a aprovação dos n.os 91 a 109 do Diário, respeitantes às reuniões plenárias dos dias 4, 5, 6, 11, 12, 18, 19, 25, 26 e 27 de Junho, e 2, 3, 4, 9, 10, 11, 16, 17 e 18 de Julho, e n.os 110 e 111, respeitantes às reuniões da Comissão Permanente dos dias 24 de Julho e 9 de Setembro passados; a apreciação, na generalidade, da proposta de lei n.º 220/X (3.ª) — Regula os efeitos jurídicos dos períodos de prestação de serviço militar de antigos combatentes para efeitos de atribuição dos benefícios previstos na Lei n.º 9/2002, de 11 de Fevereiro, e na Lei n.º 21/2004, de 5 de Junho; a discussão do projecto de resolução n.º 390/X (4.ª) — Fixa uma margem (spread) máxima no crédito à habitação própria permanente concedido pela Caixa Geral de Depósitos, como forma de contenção e redução das taxas de juro efectivas no Crédito à Habitação (PCP); a apreciação, na generalidade, do projecto de lei n.º 539/X (3.ª) — Define um regime de acompanhamento e controlo da evolução dos preços de combustíveis (BE); a discussão do projecto de resolução n.º 295/X (3.ª) — Recomenda ao Governo que"
+    }
+  ]
+}

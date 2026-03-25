@@ -1,0 +1,866 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "14",
+    "legislative_session": "2",
+    "number": "20",
+    "date": "2020-11-06"
+  },
+  "debate_id": "r3_14_2_20_2020-11-06",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Boa tarde, Sr.as e Srs. Deputados, Srs. Membros dos Governo, Sr.as e Srs. Funcionários, Sr.as e Srs. Jornalistas, Srs. Agentes de autoridade. \n\nVamos dar início à sessão plenária. \n\nEram 16 horas e 2 minutos.\n\nAntes de entrarmos na ordem do dia, a Sr.ª Secretária Maria da Luz Rosinha tem vários anúncios a fazer à \n\nCâmara. \n\nTem a palavra, Sr.ª Secretária."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Maria da Luz Rosinha)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito boa tarde a todas e a todos. Sr. Presidente, Sr.as e Srs. Deputados, passo a anunciar que deu entrada na Mesa o projeto de decreto do \n\nPresidente da República sobre o pedido de autorização da declaração do estado de emergência. \n\nDeram igualmente entrada na Mesa, e foram admitidas, as seguintes iniciativas legislativas: o Projeto de \n\nRevisão Constitucional n.º 5/XIV/2.ª (IL), os Projetos de Lei n.os 577/XIV/2.ª (PS), 578/XIV/2.ª (BE), 579/XIV/2.ª \n\n(PSD) e 580/XIV/2.ª (BE), os Projetos de Resolução n.os 747/XIV/2.ª (PSD), 748/XIV/2.ª (BE), 749/XIV/2.ª \n\n(CDS-PP), 750/XIV/2.ª (PSD) e 751/XIV/2.ª (CDS-PP) e a Apreciação Parlamentar n.º 33/XIV/2.ª (PCP)."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as e Srs. Deputados, a Sr.ª Secretária vai agora dar conta de um parecer da Comissão de Transparência e Estatuto dos Deputados."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Maria da Luz Rosinha)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, a Comissão de Transparência e Estatuto dos Deputados decidiu emitir parecer no sentido de autorizar o Sr. Deputado Nuno \n\nMiguel Carvalho (PSD) a prestar depoimento por escrito como testemunha no âmbito de processo a correr \n\ntermos em tribunal."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está em apreciação o parecer. \n\nPausa.\n\nNão havendo pedidos de palavra, vamos votá-lo. \n\nSubmetido à votação, foi aprovado por unanimidade, registando-se a ausência do CH.\n\nSrs. Deputados, aproveito este momento para dizer que já temos quórum de deliberação para procedermos \n\nà votação no final do debate, conforme consta da agenda. Estão presentes 125 Deputados e a coisa vai \n\nprogredindo, na medida em que os Srs. Deputados que ainda não se conseguiram registar poderão fazê-lo até \n\nao final das votações. Devo dizer que, neste momento, já estão registados 133 Deputados, portanto, agradecia \n\nque as direções dos grupos parlamentares tomassem as devidas precauções, em função das novas regras \n\naprovadas por este Parlamento. Estão agora registados 135 Deputados. \n\nEntretanto, a Sr.ª Secretária Maria da Luz Rosinha vai dar conta de um outro parecer da mesma Comissão. \n\nFaça favor, Sr.ª Secretária."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Maria da Luz Rosinha)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, a solicitação do Tribunal Administrativo e Fiscal do Porto, a Comissão de Transparência e Estatuto dos Deputados decidiu \n\nemitir parecer no sentido de autorizar o Sr. Deputado Eduardo Teixeira (PSD) a prestar depoimento por escrito \n\nno âmbito de processo a correr termos naquele tribunal."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está em apreciação o parecer. \n\nPausa.\n\nNão havendo pedidos de palavra, vamos votá-lo. \nSubmetido à votação, foi aprovado por unanimidade.\n\nNeste momento, já estão registados 144 Deputados, portanto, não há nenhum problema quanto à validade \n\nda votação a que iremos proceder no final do debate."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 4,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 4,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, para interpelar a Mesa sobre a condução dos trabalhos."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 4,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, queria só perguntar a V. Ex.ª se tem alguma informação ou alguma razão para o facto de, tanto quanto sei, pela primeira vez que discutimos um estado de emergência, \n\no Governo não ser representado pelo Sr. Primeiro-Ministro, como, do nosso ponto de vista, faria todo o \n\nsentido. \n\nPergunto se chegou a V. Ex.ª alguma informação sobre esse facto. \n\nAplausos do CDS-PP e de Deputados do PSD."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, não tenho qualquer informação ou interpretação, mas certamente o Governo, aqui representado em alto nível, poderá ter. Portanto, o Governo poderá responder à sua \n\ninterpelação e não a Mesa. \n\nO Sr. Secretário de Estado dos Assuntos Parlamentares pediu a palavra. \n\nFaça favor, Sr. Secretário de Estado."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Assuntos Parlamentares (Duarte Cordeiro)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito obrigado, Sr. Presidente. \n\nSr. Deputado, o Governo faz-se representar, neste debate, pelo Sr. Ministro da Administração Interna, que \n\né o responsável pela coordenação do estado de emergência…"
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não, não!"
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "… e que esteve presente, neste Parlamento, em todos os debates do relatório do estado de emergência. \n\nAplausos do PS."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, penso que a pergunta foi clara e a resposta também, agora cada um fará a sua interpretação política. \n\nNeste momento, temos 157 Deputados registados e, portanto, podemos dar cumprimento à ordem do dia \n\ndesta sessão e mesmo à votação final. \n\nSr.as e Srs. Deputados, Srs. Membros do Governo, este Plenário tem como ponto único o debate sobre o \n\npedido de autorização da declaração do estado de emergência, na sequência da mensagem que S. Ex.ª o \n\nPresidente da República dirigiu ontem ao Parlamento, acompanhada do projeto de decreto presidencial, \n\natravés do qual pretende decretar o estado de emergência em todo o território nacional, entre as 0 horas do \n\ndia 9 de novembro e as 23 horas e 59 minutos do dia 23 de novembro, sem prejuízo de eventuais renovações \n\nnos termos da lei, com fundamento na verificação de uma situação de calamidade pública e na necessidade \n\nde se adotarem medidas de contenção da propagação da pandemia COVID-19. \n\nPela quarta vez na sua história e no breve espaço de oito meses, a Assembleia da República é chamada a \n\napreciar um pedido desta natureza e gravidade, refletindo o enorme desafio em que consiste, em Portugal e \nno mundo inteiro, a contenção da pandemia da COVID-19, desafio que, como sabemos, está longe de ser \n\nultrapassado. E falo tendo disposto de condições para a ponderação que é devida à Assembleia da República \n\nenquanto órgão de soberania, a quem compete autorizar ou não a declaração do estado de emergência. \n\nSr.as e Srs. Deputados, Srs. Membros do Governo, ainda antes de iniciar o debate e de dar a palavra ao \n\nprimeiro orador, recordo à Câmara que esta é a primeira sessão plenária após o dia de luto nacional em \n\nhomenagem às vítimas da pandemia da COVID-19, assinalado no passado dia 2 de novembro, um dia em \n\nque, de forma simbólica, as portuguesas e os portugueses expressaram o seu pesar perante a trágica perda \n\nde vidas provocada pela pandemia de COVID-19. São já mais de 2700 as vidas ceifadas por esta doença em \n\ntodo o País. É também em homenagem e por respeito a todos quantos perderam a vida, direta ou \n\nindiretamente, por causa desta pandemia e em solidariedade para com os seus familiares e amigos que peço \n\nque cumpramos 1 minuto de silêncio. \n\nA Câmara guardou, de pé, 1 minuto de silêncio.\n\nSr.as e Srs. Deputados, Srs. Membros do Governo, vamos, então, iniciar o debate sobre o pedido de \n\nautorização da declaração do estado de emergência. Como é norma, a sequência das intervenções será do \n\npartido mais votado para o menos votado, intervindo o Governo no final. \n\nSendo assim, para uma intervenção, tem a palavra o Sr. Deputado Pedro Delgado Alves, do Grupo \n\nParlamentar do PS."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 5,
+      "speaker": {
+        "id": 2132,
+        "name": "Pedro Filipe Mota Delgado Simões Alves",
+        "party": "PS",
+        "string": "O Sr. Pedro Delgado Alves (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: A Assembleia da República é hoje convocada, uma vez mais, para autorizar a declaração do estado de \n\nemergência, pedida pelo Presidente da República, num momento em que enfrentamos uma das fases mais \n\ncríticas da travessia tormentosa que a COVID-19 trouxe a todos os cantos do mundo. \n\nPortugal e a Europa enfrentam hoje a dureza dos números de uma segunda vaga na evolução da \n\npandemia, que, infelizmente, não pode dispensar a adoção de medidas mais robustas. As próximas semanas \n\nserão particularmente duras e difíceis, com um aumento significativo de novos casos, muito maior exigência \n\npara os profissionais de saúde que estão na primeira linha de resposta — para quem todas as palavras de \n\ngratidão e reconhecimento serão sempre insuficientes — e uma pressão acrescida sobre o funcionamento dos \n\nserviços essenciais à vida em sociedade. \n\nO contexto é, contudo, muito diferente daquele que vivemos em março e abril, quando, pela primeira vez na \n\nhistória da nossa democracia, foi necessário proceder à declaração do estado de emergência e adotar \n\nmedidas particularmente duras e conducentes a um confinamento geral de todos. \n\nHoje temos maior capacidade de resposta no SNS (Serviço Nacional de Saúde), com mais ventiladores, \n\nmais camas de cuidados intensivos, maior capacidade de testagem, maior celeridade na resposta da linha \n\nSNS 24, mais profissionais de saúde. A sociedade adaptou-se, dentro daquilo que é possível, a conviver com \n\na pandemia, acedendo a formas de apoio disponibilizadas pelos serviços públicos. Os comportamentos \n\nindividuais da maioria dos cidadãos foram demonstrando a interiorização de que a responsabilidade e o \n\ncombate individual é de cada um. \n\nApesar das dúvidas que ainda temos sobre todas as consequências das sequelas da COVID-19, mesmo \n\nnos casos menos graves, sabemos hoje melhor como se transmite e como se pode fazer frente à COVID-19 e \n\nconfirmámos também, infelizmente, a letalidade em grupos mais frágeis da população. Acima de tudo, \n\naprendemos com o que correu bem, com o que correu mal, com o que é necessário melhorar e, por isso, \n\napresentamo-nos neste debate, todos os representantes dos portugueses, com esta consciência da \n\nimportância do que hoje debatemos. \n\nAinda que tenham sido suficientes, até agora, para suportar a adoção de medidas e a gestão da crise, a Lei \n\nde Bases da Proteção Civil, a Lei de Bases da Saúde e a lei de vigilância em saúde pública, elas não foram \n\ndesenhadas com este propósito específico em mente. A reflexão e o debate sobre a construção de uma \n\nsolução à medida e que tenha em conta a complexidade de uma pandemia, que deve ser aprovada pelo \n\nParlamento, tem, de facto, de ser posta em curso,… \n\nAplausos do PS.\n… mas não será concretizável no decurso de tempo de que precisamos para reagir de imediato e daí a \n\nnecessidade do debate de hoje, daí a necessidade da declaração do estado de emergência. \n\nO estado de emergência foi indispensável, em março e abril, para permitir responder ao embate inicial da \n\npandemia, ganhar tempo para reforçar o SNS e a sua resposta e preparar os serviços públicos e a sociedade. \n\nO que hoje nos é apresentado pelo Sr. Presidente da República no pedido de autorização é diferente. \n\nFoca-se nas matérias indissociavelmente ligadas à resposta direta à pandemia, num quadro mais limitado de \n\nrestrições aos direitos fundamentais, mas mais preciso naquilo que é indispensável neste momento: restrições \n\nà liberdade de deslocação, de forma a reduzir riscos de contágio e a permitir executar as medidas de \n\nprevenção; a possibilidade de mobilizar recursos, meios e estabelecimentos de cuidados de saúde, privados e \n\ncooperativos, necessários ao tratamento de doentes com COVID-19 ou à manutenção de outra atividade \n\nassistencial; a possibilidade de mobilizar trabalhadores para apoio às autoridades de saúde na realização de \n\ninquéritos epidemiológicos e rastreios de contactos; e, finalmente, a possibilidade de imposição de controlo de \n\ntemperatura corporal ou de realização de testes de diagnóstico à COVID-19 para efeitos de acesso a \n\ndeterminados locais. \n\nEm todos os casos, e como é próprio das exigências da Constituição e da lei, a execução do estado de \n\nemergência, como nos surge proposta, apresenta-se especialmente fundada numa vinculação à \n\nproporcionalidade em todas as suas vertentes, sendo de referir, em particular, que: a execução do estado de \n\nemergência pelo Governo deve atender aos níveis de risco diferenciados no território nacional; a execução do \n\nestado de emergência deve ajustar os períodos do dia ou da semana em que as restrições à circulação se \n\njustificam; e a execução do estado de emergência deve atender às características dos locais e serviços que \n\npodem carecer de restrições ou de demonstração de realização de teste para ser assegurado o acesso. \n\nEm suma, o que se propõe, perante esta necessidade clara de adoção de medidas, é um quadro de \n\npossibilidades que se revelam adequadas a realizar os fins a que se propõem, equilibradas nos sacrifícios que \n\nexigem à população, determináveis e compreensíveis pelas pessoas e dotadas de razoabilidade no contexto \n\nque atravessamos. \n\nNão nos equivoquemos: estamos perante uma dificílima tarefa de equilíbrio no desenho destas medidas, \n\nem que se dá prioridade à proteção da saúde, em especial dos mais vulneráveis, e à defesa da capacidade do \n\nSNS, enquanto se evita ao máximo prejudicar a atividade económica das empresas, o emprego e o \n\nrendimento das famílias, cujos custos sociais são igualmente duros e sérios. \n\nO debate revelará, seguramente, que alguns entendem que estas medidas pecam por excesso, outros por \n\ndefeito, e precisamente aí se revela a dificuldade e o equilíbrio que, no nosso entendimento, está plasmado no \n\nque nos é proposto. \n\nAo debatermos o estado de emergência, uma vez mais, estou certo de que a esmagadora maioria desta \n\nCâmara o faz com seriedade e convicta da bondade dos seus argumentos para aprovar ou rejeitar a proposta \n\ndo Presidente da República. Seja qual for o desfecho, ele será sempre feito no quadro da Constituição da \n\nRepública, no quadro das instituições democráticas, que se preservam e se garantem através desta \n\ndeclaração do estado de emergência, porque a Constituição de Abril é resiliente e será capaz de responder ao \n\ndesafio. \n\nAplausos do PS. \n\nNo entanto, não devemos perder de vista que, para além do normal funcionamento das instituições, a \n\ncapacidade de superarmos o momento que atravessamos enquanto comunidade dependerá também da \n\ncapacidade de reforçar os laços de solidariedade entre cidadãos e cidadãs e as suas instituições para \n\nsuperarmos juntos o desafio difícil dos meses que temos pela frente, recusando criar clivagens que vão para lá \n\ndo dissenso democrático, recusando fomentar o medo e alimentar a discórdia e a incerteza e recusando \n\nprocurar tirar vantagem das dificuldades que todos devemos enfrentar juntos. \n\nQue não se faça, por um instante, uma segunda leitura do que estou a dizer: todos os partidos, em especial \n\nos da oposição, têm o direito ao dissenso, à crítica, à proposta alternativa e ao espaço democrático e devem \n\ntrazê-lo ao Parlamento, que o escrutinará. Mas, infelizmente, porque vivemos em tempos de crescimento de \n\npopulismos e de ameaças ao sistema democrático e aos valores republicanos e humanistas, temos de o \n\nafirmar num momento tão sério como o do decretamento do estado de emergência, e assim o faremos, com \n\nrespeito pela Constituição, pela lei e pelos direitos fundamentais dos cidadãos. \nAplausos do PS."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, pelo Grupo Parlamentar do PSD, tem a palavra o Sr. Deputado Rui Rio."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 7,
+      "speaker": {
+        "id": 1547,
+        "name": "Rui Fernando Da Silva Rio",
+        "party": "PSD",
+        "string": "O Sr. Rui Rio (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente — ia dizer «Sr. Primeiro-Ministro», mas ele não está presente —, Srs. Membros do Governo, Sr.as e Srs. Deputados: Por diversas vezes, tive oportunidade de referir que, em \n\ndemocracia, os direitos, liberdades e garantias têm de estar hierarquizados. Não podemos cair no \n\nfundamentalismo — para não dizer «no ridículo» — de não abdicar temporariamente de um direito menor em \n\nnome de um direito maior. A vitalidade da democracia passa também pela sua capacidade de conseguir \n\ndefender com racionalidade os principais valores da nossa sociedade. É uma questão de bom senso, mas \n\ntambém de eficácia democrática. \n\nA situação sanitária e económica do País é hoje mais delicada do que era há oito meses. O número de \n\nnovos infetados diários é substancialmente mais elevado e, portanto, mais difícil de conter. A quantidade de \n\npessoas a carecer de tratamento hospitalar é, por consequência, maior, o que coloca o Serviço Nacional de \n\nSaúde sob uma enorme pressão e perante a possibilidade de não conseguir dar uma resposta completa à \n\nglobalidade das nossas necessidades. \n\nTemos de conseguir reduzir drasticamente o ritmo de expansão da doença, no sentido de evitar que os \n\nhospitais cheguem ao ponto de ter de decidir quem conseguem tratar e quem têm de deixar para trás. As \n\ncircunstâncias impõem, por isso, que o País tome as medidas mais adequadas ao combate à doença, que é o \n\nmesmo que dizer à defesa da vida de todos nós, particularmente dos mais idosos. \n\nSr. Presidente, o sentido de Estado e a solidariedade para com os mais vulneráveis não dão ao PSD \n\nqualquer margem de manobra para retóricas estéreis ou aproveitamento partidário de descontentamentos \n\ndecorrentes da difícil situação que estamos a viver. \n\nÉ o tempo exato de os responsáveis políticos assumirem as suas responsabilidades acima de tudo o mais, \n\ndesignadamente sem cuidar de medir a popularidade ou impopularidade das medidas que as circunstâncias \n\nnos impõem."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 7,
+      "speaker": {
+        "id": 1547,
+        "name": "Rui Fernando Da Silva Rio",
+        "party": "PSD",
+        "string": "O Sr. Rui Rio (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Cabe ao Parlamento dotar o Executivo dos instrumentos legais de que ele necessita no quadro do combate a um inimigo comum e proceder, consequentemente, à fiscalização \n\ndemocrática da sua utilização, com a devida proporcionalidade. \n\nO decreto que o Sr. Presidente da República propõe a esta Assembleia merece, por isso, a nossa \n\naprovação. Ele permite que o Governo possa tomar as medidas que, neste momento, se afiguram \n\nindispensáveis para a prossecução do nosso objetivo nacional, designadamente ao nível da mobilização de \n\nmeios e de reforço do distanciamento social. \n\nDeclarado o estado de emergência, caberá ao Governo a responsabilidade da sua utilização, que se \n\npretende seletiva, de forma a que, em defesa da saúde pública e da economia nacional, se trate de forma igual \n\no que é igual e de forma diferente o que é diferente. \n\nAplausos do PSD. \n\nA crescente debilidade da nossa situação económica e social impõe uma utilização destas restrições \n\napenas na estrita medida do necessário. Se é verdade que temos de vencer a COVID, também nunca \n\npodemos esquecer as gravíssimas consequências económicas e sociais que elas acarretam. \n\nCompete ao Governo responder no tempo certo às exigências da situação e encontrar o justo equilíbrio \n\nentre o confinamento necessário e os limites da nossa capacidade económica e social. Cabe, no entanto, a \n\ntodos e a cada um de nós o cumprimento rigoroso das regras de comportamento individual e coletivo, que são \n\no primeiro mandamento do combate que todos estamos a travar. \n\nEstou certo de que, com competência, racionalidade e disciplina, Portugal estará capaz de, mais uma vez, \n\ndar a resposta adequada à ameaça que enfrentamos. \nAplausos do PSD."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, pelo Grupo Parlamentar do Bloco de Esquerda, tem agora a palavra a Sr.ª Deputada Catarina Martins."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 8,
+      "speaker": {
+        "id": 1973,
+        "name": "Catarina Soares Martins",
+        "party": "BE",
+        "string": "A Sr.ª Catarina Martins (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: Com quase 2500 doentes COVID em internamento e mais de 300 em unidades de cuidados intensivos, o Serviço \n\nNacional de Saúde sofre hoje uma pressão superior à que viveu na primeira vaga da pandemia. Em abril, \n\natingimos máximos de 1300 internados e de 270 em cuidados intensivos, mas estamos, desde outubro, a \n\nsuperar estes números. \n\nForam mobilizados, é certo, mais meios para a emergência, mas, no essencial, estão a responder a esta \n\nenorme vaga as mesmas unidades de saúde e os mesmos profissionais que já o fazem há longos oito meses. \n\nMédicos, enfermeiros, técnicos superiores de diagnóstico e terapêutica, técnicos superiores de saúde, \n\nassistentes técnicos e assistentes operacionais do SNS acumulam milhões de horas extraordinárias, em \n\ngrande parte não pagas, e continuam todos os dias a exercer as suas funções. \n\nEnquanto isso, há um País que se sente desamparado, porque lhe falta a consulta com o médico de \n\nfamília, porque a cirurgia voltou a ser desmarcada, porque o exame foi adiado. Paradoxalmente, é no \n\nmomento em que o SNS mais trabalha que a sua falta é também mais sentida. \n\nNo Bloco de Esquerda, defendemos há anos o reforço do Serviço Nacional de Saúde. Lutámos por uma lei \n\nde bases que o protegesse. No Orçamento do Estado para 2020, assegurámos o fim da sua suborçamentação \n\ne a contratação de mais profissionais. Tragicamente, o Governo decidiu que, em tempo de pandemia, não \n\nhavia condições para o reforço previsto e o número de médicos desceu no exato ano em que havia acordo \n\npara aumentar. Ainda é possível fazer melhor? Seguramente, e o reforço do Serviço Nacional de Saúde é a \n\nprioridade das prioridades para o Bloco de Esquerda."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 8,
+      "speaker": {
+        "id": 2134,
+        "name": "Pedro Filipe Gomes Soares",
+        "party": "BE",
+        "string": "O Sr. Pedro Filipe Soares (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 8,
+      "speaker": {
+        "id": 1973,
+        "name": "Catarina Soares Martins",
+        "party": "BE",
+        "string": "A Sr.ª Catarina Martins (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas esta pandemia exige um esforço para o qual nenhum serviço de saúde, por forte que seja — e o português, com todas as suas dificuldades, é dos mais fortes — estava \n\ninteiramente preparado. Por isso, defendemos, logo em março, quando o primeiro estado de emergência foi \n\ndecretado, que toda a capacidade de saúde existente em Portugal fosse integrada no Serviço Nacional de \n\nSaúde. Aliás, a Lei de Bases da Saúde prevê expressamente que, em epidemia, os privados fiquem ao serviço \n\ndo Estado. A anterior Lei de Bases, feita pela direita, já dizia o mesmo, mas, entre o mercado ou a saúde, a \n\ndireita escolheu sempre o mercado e, infelizmente, até agora, o Governo também não teve a coragem de \n\nimpor o interesse público. \n\nEnquanto os profissionais do Serviço Nacional de Saúde ficam exaustos, os grandes grupos privados da \n\nsaúde, que fecharam urgências, hospitais e clínicas, mandaram pacientes com COVID para os hospitais \n\npúblicos, colocaram médicos e enfermeiros em layoff, estes mesmos grandes grupos privados da saúde \n\nregateiam com o Governo o pouco apoio em troca de generosos pagamentos. Ontem mesmo, em audição no \n\nParlamento, a Ministra da Saúde afirmou que os privados não têm resposta para doentes COVID — meses de \n\nnegociação e, do lado dos privados, só ganância e irresponsabilidade. \n\nA declaração do estado de emergência que o Presidente da República propõe ao Parlamento reforça os \n\ninstrumentos do Governo para colocar toda a capacidade instalada na saúde em Portugal, incluindo militar, \n\nprivada e social, sob a alçada do Serviço Nacional de Saúde durante a pandemia. O Governo pode fazê-lo \n\nmesmo sem acordo e deve fazê-lo. Já o deveria ter feito. \n\nO Bloco de Esquerda vai abster-se nesta votação. Viabilizamos o estado de emergência por 15 dias para \n\nque não faltem ao Governo mecanismos para responder à pandemia. Viabilizamos porque registamos que \n\nforam retiradas deste decreto todas as limitações abusivas de direitos sindicais e dos trabalhadores, que \n\ncriticámos no passado. Viabilizamos, finalmente, porque limitações ao direito de circulação não devem ser \n\nfeitas por mera autoridade administrativa. Na pandemia, não há suspensão da democracia. \n\nNão votaremos, contudo, a favor porque a autorização que nos é pedida é indefinida sobre matérias como \n\no recolher obrigatório, que consideramos contraproducente face aos dados disponíveis. Não é explicável que \nse impeça de andar na rua à noite quem se vê obrigado a usar metro e autocarros cheios durante o dia para ir \n\ntrabalhar."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 9,
+      "speaker": {
+        "id": 1973,
+        "name": "Catarina Soares Martins",
+        "party": "BE",
+        "string": "A Sr.ª Catarina Martins (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estaremos muito atentos a estes 15 dias e reiteramos a nossa disponibilidade para criar alternativas ao estado de emergência que permitam lidar com uma pandemia que, \n\nprevisivelmente, se estenderá por longos meses. Recusamos a banalização do estado de emergência e \n\nestranhamos a ausência do Primeiro-Ministro neste debate, mas não faltaremos à construção de soluções \n\npara o controlo da pandemia e a salvaguarda do Serviço Nacional de Saúde. \n\nAplausos do BE."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, pelo Grupo Parlamentar do PCP, tem a palavra o Sr. Deputado João Oliveira."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 9,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, Srs. Membros do Governo: O recurso ao estado de emergência não corresponde nem se afigura proporcional ou adequado às medidas de que o \n\nPaís precisa para enfrentar a difícil situação que atravessa. \n\nA declaração do estado de emergência, proposta pelo Presidente da República e que hoje é discutida e \n\nvotada, deve ser rejeitada por quatro motivos essenciais. \n\nPrimeiro, porque desconsidera em absoluto a primeira e principal questão que está colocada ao País, que é \n\na da definição das condições de segurança sanitária que é necessário criar em cada área e setor para que a \n\nvida nacional possa prosseguir com a normalidade possível nas circunstâncias que vivemos. \n\nSegundo, porque acentua a desresponsabilização dos poderes públicos em favor das soluções fáceis de \n\nresponsabilização individual e de limitação de direitos, liberdades e garantias, num contexto em que fracassam \n\nas opções políticas. \n\nTerceiro, porque cavalga a onda de medo e de pânico que tem sido promovida à escala de massas, \n\ncontribuindo para que se multipliquem as limitações ao exercício de direitos individuais ou coletivos que têm \n\nocorrido nos últimos meses, sustentadas na ideia errada — sublinho, na ideia errada — de que é aí que está a \n\nsolução para os problemas que enfrentamos. \n\nQuarto, porque, em matérias tão relevantes quanto a do acesso a cuidados de saúde, esta declaração do \n\nestado de emergência não constitui o balizamento que a Constituição exige para defesa dos direitos \n\nconstitucionais numa situação de estado de exceção, mas, sim, um roteiro para fazer o negócio privado com \n\ndinheiros públicos a pretexto da epidemia. \n\nA comprovação de cada um destes quatro elementos é feita pela evolução da situação nacional, a começar \n\npela saúde. \n\nA proposta de declaração do estado de emergência não aponta um único verdadeiro impulso para o reforço \n\ndo SNS, mas faz, sem pudor, a apologia do negócio da doença. Até a possibilidade legal — que já existia e \n\ncontinuará a existir — de requisição pelo Estado dos meios privados é habilidosamente reconvertida num \n\napelo a contratos que firmem esse negócio para engrossar os lucros dos grupos económicos privados que \n\noperam nesta área. \n\nO que devíamos estar a discutir era o reforço do SNS e da sua capacidade de resposta. Não apenas na \n\ninterrupção das cadeias de contágio, mas também no internamento dos doentes agudos. Não apenas na \n\nresposta aos doentes da COVID-19, mas também aos outros doentes de outras patologias que não estão a \n\nser diagnosticadas ou tratadas a tempo. Não apenas no investimento em hospitais, centros de saúde, \n\nequipamentos e outros meios, mas também na contratação de profissionais de saúde. \n\nEm vez disso, estamos a discutir mais uma autorização do estado de emergência que possa dar cobertura \n\na restrições ao exercício de direitos. \n\nAo longo dos últimos meses, verificaram-se situações de áreas, setores e eventos, públicos ou privados, \n\nem que se constatou ter sido feito um esforço de organização e adaptação para que tudo decorresse com \n\ncondições de segurança sanitária. Devíamos estar a discutir precisamente o alargamento desses exemplos. \nAs perguntas que deviam estar a ser feitas pelos responsáveis políticos, incluindo o Presidente da \n\nRepública, eram as de saber, em cada área e setor, que condições de segurança sanitária é preciso criar para \n\nque a vida nacional prossiga. Que medidas é preciso tomar numa escola, num lar, nos transportes públicos, \n\nnum teatro ou num cinema, num restaurante ou num café, num estádio ou num pavilhão desportivo para que \n\ntoda essa atividade essencial à vida económica, social, cultural e desportiva possa prosseguir? Que medidas \n\ntêm de ser tomadas para adaptar espaços para receber adequadamente alunos, espectadores ou clientes? \n\nQue medidas de reforço do número de autocarros e comboios têm de ser tomadas para reduzir o número de \n\npassageiros sem deixar ninguém sem transporte? E, também, saber que investimento é preciso fazer nos \n\nserviços públicos e de que apoios precisam as pequenas empresas, as coletividades, os pequenos \n\nagricultores, produtores e feirantes para desenvolverem a sua atividade nessas novas condições. \n\nEm vez disso, o Presidente da República, por solicitação do Governo, pergunta à Assembleia da República \n\nse pode declarar o estado de emergência. \n\nPode ser mais fácil e mais cómodo passar ao lado da discussão sobre as condições sanitárias necessárias \n\npara que a vida nacional prossiga. Pode fazer-se de conta que não há proibições de eleições em escolas e \n\nuniversidades, fingir que não há estudantes suspensos por partilharem o lanche com colegas, encolher os \n\nombros quando se ouve um relato de trabalhadores coagidos a trabalhar mais horas por menos salário. Pode \n\naté considerar-se que «queima menos as mãos» discutir a segurança sanitária, empurrando para a \n\nresponsabilidade individual com a política do «proíba-se, limite-se e suspenda-se». \n\nA verdade, Sr.as e Srs. Deputados e, sobretudo, Srs. Membros do Governo, é que, depois de cada dose de \n\n«proíba-se, limite-se e suspenda-se», virá sempre a pergunta: «então, e agora como é que vai ser, como é \n\nque se pode fazer?» \n\nÉ essa a discussão que importa fazer, com a tomada de medidas necessárias à proteção sanitária e é por \n\ntudo isto que deve ser rejeitada a autorização para declarar o estado de emergência. \n\nAplausos do PCP e do PEV."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem agora a palavra, para uma intervenção, o Sr. Deputado Telmo Correia, do Grupo Parlamentar do CDS-PP."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 10,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Primeiro-Ministro — onde quer que esteja —, Srs. Membros do Governo, Sr.as e Srs. Deputados, ao debatermos o decreto presidencial para um novo estado de \n\nemergência há uma primeira pergunta óbvia: porque estamos aqui nós hoje, outra vez, a discutir o estado de \n\nemergência? \n\nNa resposta, não ignoramos, obviamente, que há uma segunda vaga, que há um número elevado de \n\ncontágios e de mortes e que isso não é um exclusivo português, percorre a Europa, até porque, ao contrário \n\ndo que nos foi dito, não houve nenhum «milagre português». \n\nMas, se percorre a Europa, não é menos verdade que na gestão da pandemia, no nosso País, foram \n\ncometidos muitos erros e houve muitas contradições, seja por incapacidade, seja por incompetência. \n\nO CDS, enquanto partido responsável, nunca falhou ao País no essencial, mas também nunca deixou de \n\nexercer a sua obrigação crítica, enquanto partido de oposição. \n\nQuais são, então, sintetizando em três, os principais erros? \n\nPrimeiro, o Governo não foi capaz de antecipar, nem de prever. O Governo não antecipou o que vinha aí e \n\nera evidente que vinha. E diz que, agora, vai contratar mais médicos, mais enfermeiros e alargar o número de \n\ncamas. Perguntamos: agora?! Agora, que estamos próximos do limite e das linhas vermelhas?! Não era óbvio \n\nque o devia ter feito antes? \n\nNa célebre expressão de Girardin, por vezes atribuída a De Gaulle, erradamente, «governar é prever». E \n\nquando não se prevê, o que se faz é correr atrás do prejuízo."
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 10,
+      "speaker": {
+        "id": 2040,
+        "name": "João Pedro Guimarães Gonçalves Pereira",
+        "party": "CDS-PP",
+        "string": "O Sr. João Gonçalves Pereira (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 10,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em segundo lugar, a obstinação ideológica. O Governo não ignorava, desde o princípio, que uma boa solução passaria sempre por aproveitar toda a capacidade instalada, ou seja, \n\npor contratualizar com o setor social, com o setor cooperativo e com o setor privado. Contratualizar para a \nCOVID-19 e para os milhões de consultas e os milhares de cirurgias que ficaram por fazer. Não o fez. Não o \n\nfez porque, obstinadamente, optou sempre pela ideologia. Só agora o faz e, mesmo assim, só através das \n\nARS (administrações regionais de saúde) e pouco. E o decreto que agora nos é apresentado vem, de resto, \n\ndizer que se propõe utilizar estes recursos, esperamos nós que sempre por acordo. \n\nO que parece ficar claro é que o Governo, ou parte dele, por arrogância e obstinação ideológica, quis \n\nvender a ideia da absoluta suficiência do público, procurando com isso, também, agradar aos seus parceiros \n\nda esquerda radical e aos seus sonhos de fazer, do nosso País, uma Cuba ou uma Venezuela, na Europa. \n\nVimos, hoje, essa obstinação ideológica aqui bem presente."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 11,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está com febre!"
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 11,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Terceiro erro, as sucessivas incoerências. Desde o início, assistimos a um sem fim de mensagens contraditórias ou erradas. Desde o uso da máscara, que era contraproducente e \n\nque ninguém deveria vir mascarado para o 25 de Abril, até ao Sr. Primeiro-Ministro me dizer que o controlo de \n\ntemperaturas era desnecessário porque poder-se-ia ter tomado paracetamol e não se ter febre ou poder-se-ia \n\nter febre por qualquer outra razão. \n\nChegámos aqui, hoje, com o uso de máscara obrigatória na rua e um decreto de estado de emergência que \n\nprevê, precisamente, o controlo de temperatura. Passámos de oito a oitenta, por incompetência. \n\nE foram, também — é preciso que seja dito —, passadas mensagens erradas aos portugueses, que foram \n\nsempre mais responsáveis do que os próprios políticos. Era o tempo de os políticos irem, durante a tarde, de \n\nfato de banho, a caminho de uma praia para, depois, à noite, irem a caminho de um espetáculo. \n\nEsta realidade aconteceu, para mais sem verdadeiro escrutínio político. Porquê? Por mais três razões: \n\nprimeiro, porque, inopinadamente, acabaram as reuniões de informação no Infarmed (Autoridade Nacional do \n\nMedicamento e Produtos de Saúde); segundo, porque a Assembleia diminuiu a sua capacidade de \n\nfiscalização, ao diminuir os debates e ao, por acordo entre PSD e PS, acabar com os debates quinzenais, mas \n\ntambém, em terceiro lugar, com o argumento de que não podem existir eleições antecipadas — que não creio \n\nque alguém tenha pedido — porque a chefia do Estado optou por uma total sintonia com o Executivo, \n\nabdicando de uma exigência. \n\nPessoalmente, acho mesmo que houve exigência a menos e Dupond e Dupont a mais entre Belém e São \n\nBento. \n\nNão obstante, e em conclusão, o CDS não muda de posição e não falhamos com o nosso voto nas \n\nquestões essenciais. Não aderimos ao unanimismo e não deixamos de fazer as críticas que consideramos \n\njustas, mas não falhamos aos portugueses quando a situação é de uma grande gravidade e mais medidas são \n\nnecessárias. \n\nTemos consciência de que estas medidas e este confinamento, ainda que limitado, trará mais dificuldades \n\npara a economia e que, por isso, exige uma resposta mais forte de apoio às empresas. Estaremos atentos! \n\nPerante a gravidade da situação, não nos pomos com pruridos ideológicos pouco relevantes quando o que \n\nestá em causa é a saúde e a vida de tantos portugueses. Somos mesmo o oposto dos populismos capazes de \n\ndefender tudo e o seu contrário — mais máscara, menos máscara. \n\nTemos consciência da gravidade do que estamos a enfrentar. E, se não deixamos de fazer as críticas \n\npertinentes, não será pelo CDS que quem nos governa, num momento obviamente de enorme dificuldade, \n\ndeixará de ter os instrumentos necessários para responder a esta emergência."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 11,
+      "speaker": {
+        "id": 1145,
+        "name": "Adão José Fonseca Silva",
+        "party": "PSD",
+        "string": "O Sr. Adão Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 11,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Governo não merece sequer esse pretexto."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe para concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 11,
+      "speaker": {
+        "id": 1408,
+        "name": "Telmo Augusto Gomes De Noronha Correia",
+        "party": "CDS-PP",
+        "string": "O Sr. Telmo Correia (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Termino, Sr. Presidente, dizendo que o nosso voto a este decreto é favorável, pensando, sobretudo, nos portugueses, que, como aqui disse, foram sempre, e sempre, mais \n\nresponsáveis do que quem nos governa. \nAplausos do CDS-PP."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem agora a palavra, para uma intervenção, o Sr. Deputado André Silva, do PAN."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 12,
+      "speaker": {
+        "id": 1941,
+        "name": "André Lourenço E Silva",
+        "party": "PAN",
+        "string": "O Sr. André Silva (PAN)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Membros do Governo, Sr.as e Srs. Deputados: Todos sabíamos que o «novo normal» provocado pela COVID-19 nos iria impor, com grande margem de \n\nprobabilidade, a discussão de um novo estado de emergência ainda durante 2020. Infelizmente, a evolução da \n\nsituação epidemiológica obriga a que o tenhamos de fazer mais cedo do que todos queríamos. \n\nAs cidadãs e os cidadãos com o sentido de dever cívico têm andado, desde março, à frente de várias \n\ndecisões do poder político. Quando havia dúvidas sobre a imposição de um confinamento geral, já uma larga \n\nmaioria da população se tinha autoconfinado, estando em teletrabalho e retirando os filhos das escolas. É \n\nóbvio, que aqui ou ali, houve casos isolados de comportamentos menos responsáveis e que puseram em \n\ncausa a saúde pública, mas não podemos confundir a árvore com a floresta. Portanto, não se deverá encarar \n\na imposição de restrições desproporcionais aos direitos fundamentais como a varinha mágica que porá fim ao \n\natual agravamento da situação epidemiológica. \n\nO problema tem estado também nas incoerências do Governo e do Presidente da República e na facilidade \n\ncom que se passa do discurso negacionista para o discurso de pânico e do discurso do confinamento apertado \n\npara o discurso do «saiam de casa e consumam». Precisamos de clareza, coerência e certezas no discurso. \n\nFicaram por tomar medidas necessárias para evitar que chegássemos ao ponto em que estamos e para as \n\nquais o PAN tem chamado a atenção. Temos dito que é necessário reforçar os recursos humanos, financeiros \n\ne materiais do Serviço Nacional de Saúde e criar um sistema de vigilância epidemiológica eficaz, algo só \n\npossível através do reforço significativo dos especialistas de saúde pública. \n\nAlertámos para o alto risco que existia nos transportes públicos que, após o desconfinamento, voltaram ao \n\nvelho normal das carruagens apinhadas, sem que houvesse reforço da frequência dos transportes ou medidas \n\ntão simples como a sinalização de lugares, de forma a garantir o distanciamento entre passageiros. \n\nAlertámos para a necessidade de se tomarem medidas necessárias para não deixar para trás aqueles que \n\nestão desprotegidos. Defendemos a regulamentação do teletrabalho e o reforço dos meios da ACT \n\n(Autoridade para as Condições do Trabalho). \n\nNeste momento, corre-se, inevitavelmente, atrás do prejuízo. A declaração de estado de emergência é \n\nnecessária para dar certeza jurídica às medidas que estão a ser tomadas, mas o seu conteúdo podia e devia \n\nser distinto, mais circunscrito e mais proporcional. \n\nEste decreto traz a visão de que o vírus se propaga com hora e dia marcados e que, por isso, se deverá \n\nimpor um recolhimento obrigatório, parecendo que, no resto do dia, o vírus não anda de transportes públicos, \n\nnão vai aos locais de trabalho ou poderá ser afastado com meras medições de febre ou com a realização de \n\ntestes. \n\nEsta declaração não resolve os problemas dos transportes, não assegura que o teletrabalho com direitos é \n\naplicado, não protege as empresas, não assegura a efetivação de um sistema de trabalho presencial rotativo, \n\nnão garante as condições adequadas nas residências universitárias nem a proteção dos professores em risco. \n\nO caminho deve ser o da solução destes problemas e insuficiências que têm posto em causa a saúde \n\npública e os direitos fundamentais, não o de medidas de eficácia reduzida. \n\nNão ficamos descansados com o facto de, no âmbito das restrições admissíveis aos direitos à liberdade e à \n\ncirculação, não se prever nenhuma salvaguarda dos direitos políticos, algo especialmente preocupante quando \n\nse avizinham eleições presidenciais, o que não seria compreensível em democracia. \n\nPor fim, quanto à requisição civil de trabalhadores do setor público, ou não, esta declaração fá-lo de forma \n\nerrada, desde logo pela sua excessiva abertura, que permite a requisição para o trabalho presencial em \n\nqualquer função junto das autoridades e serviços de saúde, fazendo-o em termos que colocam em causa a \n\nsaúde das pessoas inseridas em grupos de risco e a própria saúde pública, ao abrir a porta ao incumprimento \n\ndas regras da DGS (Direção-Geral da Saúde) quanto ao isolamento profilático. \n\nSr.as e Srs. Deputados, Srs. Membros do Governo, Sr. Presidente, porque esta declaração não é clara na \n\nproporcionalidade das restrições de direitos fundamentais previstas; porque não assegura um equilíbrio \n\ncompreensível entre as medidas impostas e a limitação do risco de contágio; porque não dá as respostas que \n\no atual momento exige, especialmente porque coloca o ónus e a penosidade sobre os cidadãos ao mesmo \n\ntempo que desonera as responsabilidades do poder político; porque foi feita à medida do bloco central e \ntambém porque o contexto é absolutamente excecional, porventura o mais excecional de sempre, o PAN \n\nabster-se-á na votação desta declaração de estado de emergência. \n\nNão deixamos, contudo, de apelar ao Governo, em nome do consenso nacional necessário nestas \n\nmatérias, que, na sua execução, acautele as preocupações que apresentámos e que, numa futura renovação \n\ndesta declaração de estado de emergência, a Presidência da República e o Governo evitem os erros, as \n\nincoerências e as insuficiências daquela que hoje votamos. \n\nAplausos do PAN."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem, agora, a palavra, para uma intervenção, o Sr. Deputado José Luís Ferreira, de Os Verdes."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 13,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (PEV)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: Se, no primeiro estado de emergência, Os Verdes, apesar das reservas sobre a sua necessidade, acabaram por \n\ndar o benefício da dúvida com a sua abstenção, hoje, Os Verdes têm ainda mais dúvidas e reservas mais \n\nprofundas sobre a necessidade de voltar a fazer uso deste mecanismo. \n\nEstas dúvidas e reservas ficam reforçadas, desde logo, quando constatamos que continuamos sem \n\nidentificar qualquer contributo palpável da primeira declaração do estado de emergência no combate à \n\npandemia e também porque consideramos que as medidas que hoje se impõem assumir dispensam o recurso \n\na um mecanismo tão extremo como é o que agora discutimos. \n\nBem sabemos que a situação sanitária que vivemos e a proliferação de casos que se continua a verificar \n\nexigem o reforço de medidas urgentes. Portanto, face à gravidade da situação, é imperioso prosseguir e \n\nreforçar as medidas de contenção. Mas importa esclarecer uma coisa, que tem de ficar muito clara: uma coisa \n\nsão as medidas de contenção e outra bem diferente é o estado de emergência. Confundir estas duas \n\ndimensões é um erro que importa contrariar, sobretudo se não queremos enganar as pessoas. \n\nRecorde-se que, durante a primavera passada, as medidas mais importantes neste combate foram \n\nassumidas fora do estado de emergência, até mesmo antes de este ser declarado. Refiro-me ao encerramento \n\ndas escolas ou ao confinamento voluntário dos portugueses. \n\nAliás, um estudo de mobilidade recentemente divulgado indica claramente que os portugueses voltaram a \n\nficar voluntariamente confinados em casa, a níveis registados em maio, sem necessidade de qualquer \n\ndeclaração de estado de emergência. \n\nDe resto, não é o estado de emergência que permite ao Governo dar as respostas que se impõem. Para \n\nque não falte material de proteção aos profissionais de saúde ou camas para os doentes, para dotar o Serviço \n\nNacional de Saúde de mais profissionais ou para reforçar a sua capacidade de resposta não é necessário o \n\nestado de emergência. \n\nPara além disso, numa situação destas, a declaração do estado de emergência transporta, na perspetiva \n\nde Os Verdes, outro problema que surge quando o estado de emergência acaba ou quando não é renovado: a \n\npartir daí, as pessoas tendem a interiorizar que já está tudo bem e fica a perceção de que já não é necessário \n\nlevar as regras tão a sério. \n\nOra, face a tudo isto, uma vez que, para Os Verdes, não é imperativo que as medidas que se impõe \n\nassumir exijam cobertura do estado de emergência — não sendo este, portanto, o único caminho — e uma \n\nvez que encaramos o estado de emergência como uma solução de fim de linha, Os Verdes vão votar contra. \n\nNuma altura em que já todos percebemos que a proposta vai ser aprovada, seria muito importante que o \n\nestado de emergência não desviasse as atenções do essencial, isto é, da necessidade absoluta de fortalecer a \n\nresposta, desde logo, a nível do reforço do Serviço Nacional de Saúde, que, aliás, já vem tarde, porque há \n\nmuito que o Governo devia ter agilizado excecionalmente os processos concursais, tanto para a aquisição de \n\nmeios técnicos como para a contratação de profissionais de saúde. Para isso, não é necessário o estado de \n\nemergência. \n\nMas é também importante criar as condições para que as pessoas possam efetivamente respeitar as \n\nregras. Basta ver como andam os transportes públicos, onde, mesmo querendo, as pessoas não conseguem \n\nobjetivamente cumprir as regras de distanciamento social. O mesmo se diga das escolas. Se pretendemos \n\nfavorecer a escola presencial, é preciso garantir as condições para que os alunos possam respeitar as regras. \n\nMas, para isso, não é necessário a declaração do estado de emergência. \nPor fim, é preciso explicar muito bem as medidas que se vão assumindo e, para isso, o Governo também \n\nnão precisa do estado de emergência. De facto, o Governo não pode limitar-se a tomar medidas, sem que \n\nessas medidas sejam acompanhadas de explicações claras sobre a sua importância e, principalmente, as \n\nrazões que as motivam ou fundamentam. Se as pessoas não compreendem as razões das medidas que lhes \n\nsão impostas, é mais difícil levá-las a sério. \n\nQuando se diz, por exemplo, que as pessoas não podem juntar-se em família mas podem ir aos \n\nespetáculos, é preciso explicar que, hoje, a corrente de contágio ocorre com mais frequência em contactos de \n\nproximidade e que nos espetáculos se garante o distanciamento social. \n\nO mesmo se diga relativamente à decisão de encerrar o comércio mais cedo. Se o comércio está menos \n\ntempo aberto, haverá certamente mais possibilidade de aglomeração de pessoas nesses espaços fechados \n\ndurante o período em que estão abertos. As pessoas não compreendem qual a utilidade desta medida no \n\ncombate à pandemia, tão-só porque o Governo não explicou. \n\nOra, se o Governo não explica devidamente as medidas, as pessoas não compreendem, não só as razões, \n\nmas também a sua utilidade, e tendem, naturalmente, a desvalorizá-las, sendo naturalmente mais difícil \n\nassumi-las como decisivas. \n\nPortanto, Os Verdes votam contra, mas não deixam de fazer um apelo para que o Governo tenha estas \n\npreocupações em consideração e não espere que seja a declaração do estado de emergência que, por si só, \n\nvenha dar resposta ao combate à pandemia, porque isso será como ficar à espera do comboio na paragem do \n\nautocarro. \n\nAplausos do PCP."
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Antes de dar a palavra ao próximo orador, devo comunicar à Câmara que há 215 Deputados inscritos, estando, portanto, reunidas todas as condições para as votações que se seguirão, no \n\nfinal do debate. \n\nTem a palavra, para uma intervenção, o Sr. Deputado André Ventura, do Chega."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 14,
+      "speaker": {
+        "id": 2302,
+        "name": "André Claro Amaral Ventura",
+        "party": "CH",
+        "string": "O Sr. André Ventura (CH)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, Sr. «Coordenador do Estado de Emergência»: Não sabemos onde está o Sr. Primeiro-Ministro, mas sabemos uma coisa. Sabemos que só \n\ntemos novo estado de emergência porque o Governo falhou na resposta à primeira grande fase da pandemia. \n\nSabíamos que estava lançado o caos no sistema de saúde e na maior parte dos centros de saúde, como \n\nainda ontem vimos na Amadora e em Agualva-Cacém. Sabíamos que não havia vacinas em muitos centros de \n\nsaúde, quando começava a época de vacinação. Sabíamos que não havia enfermeiros, mas que havia 20 000 \n\nenfermeiros reformados e outros tantos emigrados que o Governo decidiu esquecer, fazendo agora um \n\nrecrutamento excecional. Sabíamos que havia ministros que não tinham lido os relatórios, mesmo quando nos \n\nlares se aprofundava uma das maiores crises da nossa história recente. \n\nTemos de salvar a saúde pública e temos de lutar contra um dos maiores desafios da nossa história, mas \n\nnão temos de morrer da cura e morrer da doença. Temos de tentar que a cura não nos mate e não distraia \n\nPortugal daquilo que tem de fazer. Temos de ter medidas pontuais e proporcionais, mas não podemos ter \n\nrestrições absurdas que matam a restauração, o comércio, os eventos e todos os setores que ainda dão \n\nemprego a uma parte importante dos portugueses. Temos de ter limitações de circulação, mas não limitações \n\nridículas que destroem as famílias e a vida social. Temos de ter limitações, mas não as patéticas que \n\ndestroem o comércio, que matam empregos e que, a prazo, destruirão o nosso tecido empresarial. \n\nNo momento em que nos preparamos para aprovar um novo estado de emergência, temos o dever de \n\nalertar o Governo para não voltar a tomar medidas patéticas, como a de libertar presos, enquanto os \n\nportugueses ficam em casa confinados, ou seja, ter bandidos à solta, enquanto os portugueses de bem estão \n\nfechados nas suas casas. \n\nEnquanto temos um novo estado de emergência, temos de alertar para o facto de este ser um estado de \n\nemergência e não um estado de expropriação aos privados, em que recrutam, sem pagar, empresas, hospitais \n\ne empresários, que veem agora a sua vida «chocada» pelo Estado, num estado de emergência socialista. O \n\nnome disto é «estado de emergência», não é «estado de destruição socialista», porque esse já temos há \n\nmuitos anos, em Portugal."
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe para concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 15,
+      "speaker": {
+        "id": 2302,
+        "name": "André Claro Amaral Ventura",
+        "party": "CH",
+        "string": "O Sr. André Ventura (CH)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou terminar, Sr. Presidente. À medida que se aproxima uma das alturas mais decisivas da nossa história, vamos olhar para este estado \n\nde emergência de forma diferente. \n\nHá uma coisa que vamos dizer ao Governo: o Chega não inviabilizará este estado de emergência, mas \n\nlutará com todas as forças para que as amarras ideológicas que nos conduziram até aqui não destruam \n\nPortugal nem o levem para mais 20 anos de pobreza, porque este País não merece, os portugueses merecem \n\nmuito mais!"
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para uma intervenção, o Sr. Deputado João Cotrim de Figueiredo, do Iniciativa Liberal."
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 15,
+      "speaker": {
+        "id": 2347,
+        "name": "João Fernando Cotrim De Figueiredo",
+        "party": "IL",
+        "string": "O Sr. João Cotrim de Figueiredo (IL)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: Quase oito meses depois da discussão que aqui tivemos sobre a declaração do primeiro estado \n\nde emergência, eis-nos de novo a ser chamados a aprovar um decreto presidencial que padece \n\nessencialmente dos mesmos defeitos e, talvez por isso, o próprio Primeiro-Ministro não tenha querido, hoje, \n\naqui, dar a cara por este decreto. \n\nQuando o Iniciativa Liberal votou contra as renovações do estado de emergência, em abril passado, \n\ntivemos ocasião de explicar porquê. Dissemos, na altura, que os decretos pisavam várias linhas vermelhas no \n\nque diz respeito aos direitos individuais dos portugueses, e isso volta a acontecer. \n\nA possibilidade de instaurar o recolher obrigatório em circunstâncias indefinidas é uma linha vermelha. \n\nAdotar esta medida de eficácia duvidosa, enquanto se ignora o que seria comprovadamente eficaz — como o \n\nrecurso à capacidade de todos os agentes do sistema de saúde português, por exemplo —, demonstra bem \n\nque o Governo tem as emergências trocadas. \n\nA possibilidade de utilizar recursos, meios e estabelecimentos privados, sociais ou cooperativos, sem \n\nlimitação de setor, duração ou procedimento, é outra linha vermelha. \n\nA faculdade de limitar a circulação de pessoas ou de mobilizar compulsivamente qualquer pessoa para, \n\nbasicamente, qualquer função são evidentes linhas vermelhas. \n\nDissemos também, na altura, que o estado de emergência era, sobretudo, um instrumento de defesa \n\njurídica do Estado em detrimento dos direitos dos cidadãos. Pois, agora isso mesmo está explícito no primeiro \n\nparágrafo do decreto presidencial, em que se refere, e cito, que «é preciso reforçar a segurança jurídica das \n\nmedidas tomadas». \n\nFinalmente, como dissemos na altura — e repetimos agora — não aceitaremos que restrições às \n\nliberdades sejam decididas com base em diplomas pouco específicos e pouco claros que recorrem, \n\ndemasiadas vezes, a expressões como «nomeadamente», «designadamente», «preferencialmente». As \n\nliberdades defendem-se absolutamente, não se defendem preferencialmente. \n\nConsideramos que o decreto prevê limitações de direitos e de liberdades das pessoas, individuais e \n\ncoletivas, que são excessivas e injustificadas do ponto de vista da sua eficácia no combate à pandemia. E fá-lo \n\ncom uma indefinição e uma ligeireza com que não podemos pactuar. \n\nA Iniciativa Liberal irá votar contra a declaração do estado de emergência, porque recusamos esta ligeireza \n\ne prezamos, acima de tudo, a liberdade e a responsabilidade individuais."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem agora a palavra, para uma intervenção, a Sr.ª Deputada não inscrita Joacine Katar Moreira."
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 15,
+      "speaker": {
+        "id": 2342,
+        "name": "Joacine Elysees Katar Tavares Moreira",
+        "party": "L",
+        "string": "A Sr.ª Joacine Katar Moreira (N insc.)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, não se pode banalizar a restrição dos direitos, liberdades e garantias e o decretar relaxado do estado de emergência, mesmo quando necessitamos de \n\ngarantir que o Estado tem os meios excecionais de intervenção para o combate à COVID-19. \n\nMas também não se pode combater a COVID-19 reforçando o sistema capitalista, que é implacável e \n\ncausador de assimetrias várias, não se pode normalizar que haja milhares de indivíduos enlatados nos \n\nautocarros, enlatados nos comboios, exatamente porque eles são absolutamente necessários à sobrevivência \n\ndo capital. Ao mesmo tempo, normalizamos algumas iniciativas de algumas elites, que, hoje em dia, nos \nmostram que, afinal, as infeções andam onde o Estado não está com um olhar mais objetivo. Este é um \n\nEstado que confia no discernimento dos endinheirados e que desconfia absolutamente dos indivíduos mais \n\nvulneráveis. Não se pode também concentrar o combate à COVID-19 olhando-se unicamente para o aumento \n\ndas infeções. Nós precisamos de garantir o absoluto fortalecimento do SNS, o absoluto fortalecimento dos \n\nrendimentos dos profissionais de saúde, mas também de todos aqueles que o Estado considerar como sendo \n\ntrabalhadores essenciais. E precisamos de manter unicamente o enfoque na ideia de que só o reforço da \n\ndemocracia é que, efetivamente, nos pode garantir a eficácia no combate à COVID-19."
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem ainda a palavra, para uma intervenção, a Sr.ª Deputada não inscrita Cristina Rodrigues."
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 16,
+      "speaker": {
+        "id": 2321,
+        "name": "Maria Cristina Pacheco Rodrigues",
+        "party": "PAN",
+        "string": "A Sr.ª Cristina Rodrigues (N insc.)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: Começo esta intervenção agradecendo a todos os profissionais da linha da frente pela persistência e pelo \n\ntrabalho e também a todos os portugueses que, diariamente, se esforçam por fazer as suas vidas com \n\nnormalidade, mas também com os cuidados que a pandemia provocada pela COVID-19 exige. \n\nChegámos ao momento em que se mostra necessário voltar a recorrer à declaração do estado de \n\nemergência. Importa, no entanto, deixar algumas notas, nomeadamente dizer que importa evitar um novo \n\nconfinamento total, a menos que este se mostre absolutamente imprescindível. Em qualquer caso, importa, \n\ndesde já, apoiar os cidadãos, especialmente os que se encontram numa situação de especial vulnerabilidade, \n\nos quais não podemos deixar na angústia de não saberem se vão conseguir alimentar as suas famílias. Mas \n\ntambém temos de apoiar os profissionais de saúde para que estes consigam cumprir as suas funções, manter-\n\nse seguros e ter tempo para os seus, bem como assegurar que têm à sua disposição todos os meios \n\nnecessários no combate à pandemia. \n\nAlém disso, não podemos focar-nos só no tratamento da COVID-19 e deixar que outras doenças emerjam, \n\ncom especial enfoque para as doenças mentais, ou que não seja assegurado o tratamento atempado de \n\noutras doenças por falta de recursos. É preciso promover o teletrabalho e o desfasamento de horários, mas \n\nassegurar também o respeito pela dignidade dos trabalhadores. É preciso reforçar os transportes públicos \n\npara que as pessoas possam deslocar-se em segurança. É preciso promover práticas preventivas, seja o uso \n\nda máscara ou a manutenção do distanciamento social, mas é preciso, também, transmitir confiança aos \n\nportugueses para que estes possam manter as suas vidas dentro da normalidade, tanto quanto possível. É \n\nimportante que as pessoas saibam que, respeitando certas condições, é seguro continuar a ir ao mercado, às \n\naulas, ao teatro ou ao restaurante. \n\nVotar favoravelmente a declaração do novo estado de emergência, como farei hoje, é confiar também que \n\nestes pontos não serão esquecidos e acreditar que este é o caminho necessário para lidar com a atual \n\nsituação pandémica. \n\nTermino, desejando a todos que se mantenham seguros e com saúde."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para encerrar este debate, tem a palavra, pelo Governo, o Sr. Ministro da Administração Interna, Eduardo Cabrita."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Administração Interna (Eduardo Cabrita)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Pela quarta vez no quadro da nossa história democrática, a Assembleia da República, neste ano, confronta-se \n\ncom a apreciação de um decreto da iniciativa do Sr. Presidente da República que mobiliza para uma coesão \n\nde todos os órgãos de soberania e para a mobilização de todos os portugueses na adoção de medidas \n\nproporcionais, adequadas e necessárias que visam salvaguardar a saúde dos portugueses, assegurar a \n\nsegurança coletiva, num quadro que permita uma atuação intensa e concentrada, uma resposta adequada por \n\nparte dos profissionais de saúde no respeito pelos direitos, liberdades e garantias. \n\nEsta situação pandémica, que tem assolado, de forma tão intensa, todo o mundo, nomeadamente a Europa \n\ne Portugal, tem consequências cuja dimensão, mesmo em março, no dia 2 de março, quando o primeiro caso \n\nfoi detetado no nosso País, ou a 16 de março, quando lamentámos a morte do nosso primeiro cidadão vítima \n\nde COVID-19, ninguém anteciparia. Estamos perto, a nível mundial, de 50 milhões de infetados e registaram-\n\nse, até hoje, 1 milhão e 250 mil mortes. \nNo quadro europeu, a dimensão é também muito significativa. Países que nos são próximos e com os \n\nquais mantemos relações económicas, culturais, de amizade e de parceria, onde há significativas \n\ncomunidades portuguesas, estão a ser profundamente afetados pela dimensão desta crise pandémica. \n\nHoje mesmo, no dia em que fazemos este debate, lamentavelmente registamos o maior número de casos \n\nque houve em Portugal num único dia desde o início da pandemia. Neste quadro, a transparência e a coesão \n\nnacional exigem a mobilização de todos os portugueses, exigem uma posição articulada da Presidência da \n\nRepública, do Governo e da Assembleia da República. Por isso, o Governo apreciou as circunstâncias que \n\ndeterminavam a justificação deste novo período de estado de emergência e emitiu, ontem, um parecer \n\nfavorável ao decreto proposto por S. Ex.ª o Presidente da República. \n\nTemos feito, desde o início da pandemia, em articulação com os portugueses, tudo aquilo que é necessário \n\npara prevenir e proteger a economia, a saúde e a liberdade dos portugueses. Foi assim antes do primeiro \n\nestado de emergência, quando adotámos medidas tão difíceis como as de encerrar as escolas, instituir a cerca \n\nsanitária de Ovar, as limitações da atividade económica, que aconteceram ainda antes do dia 18 de março, \n\nquando estivemos aqui, na primeira apreciação de uma proposta de declaração do estado de emergência. \n\nTivemos 45 dias de estado de emergência, em que a liberdade foi sempre salvaguardada, em que o \n\nrespeito pelos direitos fundamentais também foi essencial na valorização da forma como, em condições tão \n\nexcecionais, celebrámos o 25 de Abril. E, quando foi necessário, voltámos a antecipar uma resposta \n\nadequada, que permitiu limitar a dimensão da pandemia em 19 freguesias de cinco municípios da Área \n\nMetropolitana de Lisboa que afetava, de forma muito significativa, os cidadãos, pondo em perigo a saúde \n\ncoletiva. É nesse quadro que continuamos este combate. \n\nEste combate tem, na primeira linha, a mobilização do Serviço Nacional de Saúde, uma conquista \n\nfundamental da nossa democracia. A solidariedade com todos aqueles que estão a defender as nossas vidas \n\n— nos hospitais, nos centros de saúde, nos rastreios — exige a toda a comunidade nacional uma atitude ativa \n\nde prevenção. \n\nFace aos tempos de incerteza e à ausência de uma vacina ainda por longos meses, a redução de \n\ncontactos e a redução de fatores de risco são, tanto quanto se sabe, a melhor forma de prevenir o risco desta \n\npandemia. \n\nÉ por isso que o Governo nunca hesitou em tomar, a cada momento, as medidas necessárias, no plano da \n\nsaúde pública e no plano da adequada ponderação da restrição das atividades económicas, para que fosse \n\nsalvaguardada a proteção da saúde de todos. Por isso, também, nunca tivemos nenhuma dúvida sobre a \n\nsolidez da base jurídica das medidas que foram sendo tomadas, quer ao abrigo do regime do estado de \n\nemergência, quer as que tiveram por base a Lei de Bases da Proteção Civil ou a lei que institui um sistema de \n\nvigilância em saúde pública. É por isso, também, que não temos qualquer dúvida em entender que é \n\nfundamental um robustecimento do quadro jurídico que permita afastar qualquer dúvida de natureza jurídica e \n\nconcentrarmo-nos naquilo que é fundamental: defender a saúde e salvar a economia. \n\nO quadro das medidas previstas neste decreto do estado de emergência respeita, pois, um princípio de \n\nindispensabilidade, de necessidade, de proporcionalidade com o estabelecimento de restrições à liberdade de \n\ncirculação ou à possibilidade de circulação na via pública em áreas especialmente afetadas, como naqueles \n\nmunicípios que estão já identificados em termos de uma dimensão significativa da pandemia no atual quadro \n\nde situação de calamidade. \n\nPrevê-se o apoio ao Serviço Nacional de Saúde pela mobilização, pela requisição de meios do setor \n\nprivado e social e pela mobilização de trabalhadores das Forças Armadas e das forças de segurança, que — \n\nafirmo-o com a responsabilidade que por elas tenho — sempre estiveram na primeira linha na garantia da \n\nliberdade e da segurança e no contributo para a saúde dos cidadãos, sem nunca cederem a qualquer \n\ntendência de abuso de autoridade. \n\nPrevê-se a possibilidade de, sem qualquer dúvida, ser verificada a temperatura no acesso a locais públicos, \n\na equipamentos culturais, a estabelecimentos comerciais ou, em algumas circunstâncias, de ser exigida a \n\nrealização de um teste de diagnóstico. \n\nÉ neste quadro que, com adequação, na dimensão indispensável de quem nunca sacrificou as liberdades \n\nna defesa da saúde de todos, enquanto responsável pelo acompanhamento e pela coordenação da aplicação \n\ndestes mecanismos excecionais, enviei à Assembleia da República, até hoje, nove relatórios, três em estado \n\nde emergência, seis nas restantes situações, que, com transparência, permitem o escrutínio daquilo que o \n\nGoverno, a cada momento, faz. \nÉ neste quadro que não temos dúvidas de que estas medidas, que terão hoje o apoio da Assembleia da \n\nRepública, são necessárias. São medidas que garantem que, em pandemia, não é suspensa a democracia, \n\nque não há qualquer contradição entre a batalha pela saúde e a batalha pela economia e pela defesa do \n\nemprego. \n\nEsse combate, que será longo, é a única coisa de que, infelizmente, temos a certeza. Será difícil e exigirá a \n\nmobilização de todos. Trata-se de uma batalha pela liberdade, sem cedência aos populismos, uma batalha \n\npela vida, sem cedência a quaisquer discursos de ódio. \n\nÉ neste caminho de afirmação da segurança coletiva, da defesa da saúde e do direito à vida como valor \n\nfundamental que uma sociedade democrática, fundada em quase cinco décadas de respeito pelos valores \n\nfundamentais, adota as medidas necessárias para garantir a vitória coletiva sobre este inimigo de todos nós. \n\nAplausos do PS."
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Obrigado, Sr. Ministro. Temos quórum mais que suficiente para procedermos à votação, na medida em que estão registados 215 \n\nDeputados. \n\nDevo também informar que foram ouvidos atempadamente os órgãos das regiões autónomas. \n\nVamos, pois, passar à votação da concessão de autorização, solicitada pelo Sr. Presidente da República, \n\nda declaração do estado de emergência. \n\nSubmetida à votação, foi aprovada, com votos a favor do PS, do PSD, do CDS-PP e da Deputada não \n\ninscrita Cristina Rodrigues, votos contra do PCP, do PEV, do IL e da Deputada não inscrita Joacine Katar \n\nMoreira e abstenções do BE, do PAN e do CH."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 18,
+      "speaker": {
+        "id": 2025,
+        "name": "Isabel De Lima Mayer Alves Moreira",
+        "party": "PS",
+        "string": "A Sr.ª Isabel Alves Moreira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito, Sr.ª Deputada?"
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 18,
+      "speaker": {
+        "id": 2025,
+        "name": "Isabel De Lima Mayer Alves Moreira",
+        "party": "PS",
+        "string": "A Sr.ª Isabel Alves Moreira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é para anunciar que fiz seguir para a Mesa uma declaração de voto escrita sobre esta votação."
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Fica registado, Sr.ª Deputada. Srs. Deputados, chegámos, assim, ao fim dos nossos trabalhos de hoje. Despeço-me até ao próximo \n\nPlenário, desejando uma boa tarde a todos. \n\nEstá encerrada a sessão."
+    }
+  ]
+}

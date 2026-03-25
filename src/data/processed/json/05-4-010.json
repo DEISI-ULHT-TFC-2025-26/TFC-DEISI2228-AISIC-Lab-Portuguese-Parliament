@@ -1,0 +1,26 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "5",
+    "legislative_session": "4",
+    "number": "10",
+    "date": "1990-11-09"
+  },
+  "debate_id": "r3_5_4_10_1990-11-09",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 274,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quorum, pelo que declaro aberta a sessão."
+    }
+  ]
+}

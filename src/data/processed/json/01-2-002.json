@@ -1,0 +1,138 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "1",
+    "legislative_session": "2",
+    "number": "2",
+    "date": "1977-10-25"
+  },
+  "debate_id": "r3_1_2_2_1977-10-25",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vai -proceder-se à chamada.\nEram 15 horas e IS minutos.\nFez-se a chamada, à qual responderam os seguintes Srs. Deputados:\nPartido Socialista (PS)\nAdelino Teixeira de Carvalho.\n\nAgostinho Martins do Vale.\n\nAlbano Pereira da Cunha Pina.\n\nAlberto Augusto Martins da Silva Andrade."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Responderam à chamada 214 Srs. Deputados.\n\nTemos quórum, pelo que declaro aberta a reunião.\n\nEram 15 horas e 40 minutos.\nANTES DA ORDEM DO DIA"
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados: Vamos proceder à eleição do Presidente e dos restantes elementos da Mesa. da Assembleia da República.\n\nVai fazer-se a chamada paira a votação.\n\nProcedeu-se à votação."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados: Enquanto não se procede ao escrutínio, queria comunicar-lhes que às 17 horas e 30 minutos toma posse a Comissão do Plano na sala do Conselho de Ministros. Se porventura o nosso escrutínio não estiver terminado nessa altura, assumirá a presidência o Sr. Deputado António Arnaut a fim de eu ir dar posse à Comissão do Plano. Aos Srs. Deputados que quiserem estar presentes nessa cerimónia ficar-lhes-sei muito grato.\n\nVai proceder-se ao escrutínio. Os Srs. Vice-Secretários Gonçalves Sapinho e Alfredo de Carvalho serão os escrutinadores.\nProcedeu-se ao escrutínio."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O resultado do escrutínio é o seguinte:\n\nPresidente da Assemblleia da República - listas entradas, 228; votos a favor, 143; votos brancos, 81; -votos nulos, 4.\n\nEleito: Vasco da Gama Fernandes.\n\n- Vice-Presidentes, Secretários e Vice-Secretários listas entradas, 228; votos brancos, 5."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a pahivra o Sr. Deputado Rui Pena."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 12,
+      "speaker": {
+        "id": 355,
+        "name": "Rui Eduardo Ferreira Rodrigues Pena",
+        "party": "CDS",
+        "string": "O Sr. Rui Pena (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Em nome do Grupo Parlamentar do CDS tenho a honra de dirigir ao Presidente da Assembleia da República agora eleito as homenagens do meu grupo parlamentar e assegurar-lhe a colaboração mais intensa.\n\nQuero também felicitara Mesa pela eleição e formular o voto de que saiba manter e reforçar o prestígio desta Assembleia da República."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "A sessão está interrompida até às 18 horas.\nEram 17 horas e 15 minutos."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Está reaberta a sessão."
+    }
+  ]
+}

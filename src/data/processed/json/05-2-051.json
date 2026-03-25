@@ -1,0 +1,964 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "5",
+    "legislative_session": "2",
+    "number": "51",
+    "date": "1989-03-10"
+  },
+  "debate_id": "r3_5_2_51_1989-03-10",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 1804,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quorum, pelo que declaro aberta a sessão.\nEram 10 horas e 20 minutos.\nEstavam presentes os seguintes Srs. Deputados: \nPartido Social-Democrata (PPD/PSD):\nAbílio de Mesquita Araújo Guedes.\n\nAdérito Manuel Soares Campos.\n\nAlberto Cerqueira de Oliveira.\n\nAlberto Monteiro de Araújo.\n\nAlexandre Azevedo Rortero.\n\nAmândio dos Anjos Gomes.\n\nAntónio Abílio Costa.\n\nAntónio Augusto Ramos.\n\nAntónio de Carvalho Martins.\n\nAntónio Costa de A. Sousa Lara.\n\nAntónio Fernandes Ribeiro.\n\nAntónio José de Carvalho.\n\nAntónio Maria Oliveira de Matos.\n\nAntónio Maria Ourique Mendes.\n\nAntónio Maria Pereira.\n\nAntónio Paulo Martins Pereira Coelho.\n\nAntónio Roleira Marinho.\n\nAntónio Sérgio Barbosa de Azevedo.\n\nAntónio da Silva Bacelar.\n\nAristídes Alves do Nascimento Teixeira.\n\nArlindo da Silva André Moreira.\n\nArménio dos Santos.\n\nArnaldo Ângelo Brito Lhamas.\n\nBelarmino Henriques Correia.\n\nCarla Tato Diogo.\n\nCarlos Lélis da Câmara Gonçalves.\n\nCarlos Manuel Duarte Oliveira.\n\nCarlos Manuel Oliveira da Silva.\n\nCarlos Manuel Pereira Baptista.\n\nCarlos Sacramento Esmeraldo.\n\nCasimira Gomes Pereira.\n\nCésar da Costa Santos.\n\nCristóvão Guerreiro Norte.\n\nDaniel Abílio Ferreira Bastos.\n\nDomingos Duarte Lima.\n\nDomingos da Silva e Sousa.\n\nEduardo Alfredo de Carvalho P. da Silva.\n\nErcília Domingos M. P. Ribeiro da Silva.\n\nEvaristo de Almeida Guerra de Oliveira.\n\nFernando Dias de Carvalho Conceição.\n\nFernando José R. Roque Correia Afonso.\n\nFernando Monteiro do Amaral.\n\nFilipe Manuel Silva Abreu.\n\nFrancisco Antunes da Silva.\n\nFrancisco João Bernardino da Silva.\n\nGermano Silva Domingos.\n\nGilberto Parca Madail.\n\nGuido Orlando de Freitas Rodrigues.\n\nHilário Torres Azevedo Marques.\n\nHumberto Pires Lopes.\n\nIdilberto Raul Rodrigues dos Santos.\n\nJaime Gomes Milhomens.\n\nJoão Álvaro Poças Santos.\n\nJoão Costa da Silva.\n\nJoão Domingos F. de Abreu Salgado.\n\nJoão Granja Rodrigues da Fonseca.\n\nJoão José Pedreira de Matos.\n\nJoão José da Silva Maçãs.\n\nJoão Maria Ferreira Teixeira.\n\nJoão Soares Pinto Montenegro.\n\nJoaquim Fernandes Marques.\n\nJoaquim Vilela de Araújo.\n\nJosé Alberto Puig dos Santos Costa.\n\nJosé de Almeida Cesário.\n\nJosé Álvaro Machado Pacheco Pereira.\n\nJosé Assunção Marques.\n\nJosé Augusto Ferreira de Campos.\n\nJosé Augusto Santos Silva Marques.\n\nJosé Francisco Amaral.\n\nJosé Guilherme Pereira Coelho dos Reis.\n\nJosé Júlio Vieira Mesquita.\n\nJosé Lapa Pessoa Paiva.\n\nJosé Leite Machado.\n\nJosé Luís Bonifácio Ramos.\n\nJosé Luís Campos Vieira de Castro.\n\nJosé Manuel da Silva Torres.\n\nJosé Pereira Lopes.\n\nJosé de Vargas Bulcão.\n\nLeonardo Eugênio Ribeiro de Almeida.\n\nLicínio Moreira da Silva.\n\nLuís António Martins.\n\nLuís Filipe Menezes Lopes.\n\nLuís Manuel Costa Geraldes.\n\nLuís Manuel Neves Rodrigues.\n\nManuel Albino Casimiro de Almeida.\n\nManuel António Sá Fernandes.\n\nManuel Coelho dos Santos.\n\nManuel Ferreira Martins.\n\nManuel João Vaz Freixo.\n\nManuel Joaquim Batista Cardoso.\n\nManuel Joaquim Dias Loureiro.\n\nMargarida Borges de Carvalho.\n\nMaria Assunção Andrade Esteves.\n\nMaria da Conceição U. de Castro Pereira.\n\nMaria Luísa Lourenço Ferreira.\n\nMaria Manuela Aguiar Moreira.\n\nMary Patrícia Pinheiro Correia e Lança.\n\nMário Ferreira Bastos Raposo.\n\nMário Jorge Belo Maciel.\n\nMário de Oliveira Mendes dos Santos.\n\nMateus Manuel Lopes de Brito.\n\nMiguel Bento M. da C. de Macedo e Silva.\n\nMiguel Fernando C. de Miranda Relvas.\n\nNuno Miguel S. Ferreira Silvestre.\n\nPedro Manuel Cruz Roseta.\n\nPedro Domingos de S. e Holstein Campilho.\n\nRui Gomes da Silva.\n\nRui Manuel Almeida Mendes.\n\nValdemar Cardoso Alves.\n\nVasco Francisco Aguiar Miguel.\n\nVirgílio de Oliveira Carneiro.\nPartido Socialista (PS):\nAfonso Sequeira Abrantes. \n\nAlberto Arons Braga de Carvalho. \n\nAlberto Manuel Avelino. \n\nAlberto Marques de Oliveira e Silva. \n\nAntónio de Almeida Santos. \n\nAntónio Fernandes Silva Braga. \n\nAntónio Magalhães da Silva. \n\nAntónio Manuel C. Ferreira Vitorino. \n\nAntónio Manuel Oliveira Guterres. \n\nAntónio Miguel Morais Barreto. \n\nAntónio Poppe Lopes Cardoso. \n\nCarlos Manuel Natividade Costa Candal."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 1805,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Secretário vai dar conta dos diplomas entrados na Mesa."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 1805,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Reinaldo Gomes)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados: Deram entrada na Mesa apenas as Ratificações n.º 59/V, da iniciativa dos Srs. Deputados Lino de Carvalho e outros, do PCP, relativa ao Decreto-Lei n.º 63/89, de 24 de Fevereiro - Disciplina a entrega para exploração de terras nacionalizadas ou expropriadas e revoga o Decreto-Lei n.º 111/78, de 27 de Maio -, e n.º 60/V, da iniciativa do mesmo Sr. Deputado e outros, igualmente do PCP, e que se refere ao Decreto-Lei n.º 74/89, de 3 de Marco que atribui à Direcção-Geral das Florestas a gestão dos povoamentos florestais, nos prédios nacionalizados ou expropriados no âmbito da reforma agrária, tendo ambos os diplomas sido admitidos."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 1805,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, estão em aprovação os n.ºs 28 a 41 do Diário.\nPausa.\nComo não há objecções, consideram-se aprovados.\n\nSrs. Deputados, vamos iniciar a sessão de perguntas ao Governo, a primeira das quais será formulada pelo Sr. Deputado Pacheco Pereira sobre a cooperação com os PALOP.\n\nTem a palavra o Sr. Deputado Pacheco Pereira."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 1805,
+      "speaker": {
+        "id": 1685,
+        "name": "José Álvaro Machado Pacheco Pereira",
+        "party": "PSD",
+        "string": "O Sr. Pacheco Pereira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação, a cooperação com os países africanos de língua oficial portuguesa é uma das prioridades da nossa política externa.\n\nEssa cooperação, para além da projecção dos interesses da nação e do Estado, da influência da cultura e da língua portuguesa, implica uma locação de recursos e é, com certeza, do interesse quer de Portugal quer dos PALOP que essa cooperação seja um êxito e dê resultados.\n\nÉ evidente que esses resultados não podem medir-se apenas em termos económicos, mas também devem corresponder aos resultados próprios da nossa política externa, da projecção de Portugal no mundo e dos interesses do Estado.\n\nA recente visita do Sr. Primeiro-Ministro à Guiné colocou essa cooperação na ordem do dia. Poderá o Sr. Secretário de Estado esclarecer-nos e fazer-nos um ponto da situação actual da cooperação com a República Popular da Guiné-Bissau?"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 1805,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 1805,
+      "speaker": {
+        "id": 1037,
+        "name": "José Manuel Durão Barroso",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação (Durão Barroso)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: É com o maior prazer que me dirijo a esta Assembleia para lhes apresentar um balanço desta visita do Sr. Primeiro-Ministro à Guiné-Bissau.\n\nTrata-se da primeira visita de um chefe do Governo português à Guiné-Bissau, durante a qual foram assinados importantes acordos de cooperação, de cooperação Estado a Estado e também de cooperação empresarial."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 1806,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Pacheco Pereira."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 1806,
+      "speaker": {
+        "id": 1685,
+        "name": "José Álvaro Machado Pacheco Pereira",
+        "party": "PSD",
+        "string": "O Sr. Pacheco Pereira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Secretário de Estado, relativamente à lista que nos apresentou de alguns dos resultados da recente viagem do Sr. Primeiro-Ministro à Guiné, gostaria que complementasse a informação que nos forneceu acrescentando algo sobre as medidas, acordos ou intenções quanto à língua e à sua influência no território da República da Guiné.\n\nComo é sabido, existe nesse território uma batalha linguística - chamemos-lhe assim - de influência contraditória, visto que se encontra encravado entre nações e países de língua francesa. Por isso, gostaria que complementasse a sua informação, falando-nos um pouco sobre as medidas que visam estabelecer e consolidar a língua portuguesa na Guiné-Bissau."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 1806,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Secretário de Estado."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 1806,
+      "speaker": {
+        "id": 1037,
+        "name": "José Manuel Durão Barroso",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr, Deputado, fez bem lembrar-me esse aspecto que não tive tempo de desenvolver na minha intervenção.\n\nDe facto, até hoje, foi na Guiné-Bissau que o Estado português fez o maior investimento relativamente à língua. Tive, aliás, a honra de assinar, em nome do Estado português - foi um dos primeiros actos que pratiquei na vigência deste Governo -, o acordo para a constituição da televisão da Guiné-Bissau, que teve um financiamento a fundo perdido do Estado português de cerca de 300 mil contos e que teve também uma participação da Fundação Calouste Gulbenkian.\n\nTrata-se de um projecto que - como eu e o Sr. Ministro tivemos oportunidade de constatar - está a avançar a excelente ritmo e que será inaugurado ainda este ano, provavelmente no final do verão.\n\nA televisão da Guiné-Bissau vai cobrir todo o território daquele país e, inclusivamente, vai atingir o território do Senegal e da Guiné-Conacri.\n\nEste projecto da televisão da Guiné-Bissau que, repito, julgamos ser importantíssimo, está a decorrer a excelente ritmo. A formação dos jornalistas já está praticamente assegurada e a construção do edifício principal onde os serviços da televisão ficarão instalados está também quase concluída.\n\nEste projecto é importante porque vai permitir que um meio audiovisual moderno, como o é a televisão, penetre em toda a realidade do País. Hoje, na Guiné--Bissau, a única televisão a que os seus habitantes têm acesso é à televisão do Senegal, o que não é muito do agrado da população guineense."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 1807,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para formular uma pergunta ao Governo, sobre a Base Aérea de Beja, tem a palavra o Sr. Deputado Miranda Calha."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 1807,
+      "speaker": {
+        "id": 330,
+        "name": "Júlio Francisco Miranda Calha",
+        "party": "PS",
+        "string": "O Sr. Miranda Calha (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Secretário de Estado da Defesa..."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 1807,
+      "speaker": {
+        "id": 590,
+        "name": "António D'Orey Capucho",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares (António Capucho)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A pergunta é para o Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 1807,
+      "speaker": {
+        "id": 330,
+        "name": "Júlio Francisco Miranda Calha",
+        "party": "PS",
+        "string": "O Sr. Miranda Calha (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Obrigado, Sr. Ministro.\n\nComo é do conhecimento de V. Ex., em 1988 expirou o prazo dos acordos relativos à utilização da Base Aérea de Beja. O pedido de renegociação do acordo tinha de ser feito com um ano de antecedência, ou seja, em 1987, o que verifiquei ter sido feito. Há, portanto, neste momento, um conjunto de acordos que está a ser analizado. Esses acordos têm a ver com a armazenagem de munições na Base Aérea de Beja, com a zona residencial de Beja, com a utilização do Campo de Tiro de Alcochete e com a utilização da base aérea. Há ainda um acordo relativo à actualização e extinção de acordos.\n\nSabemos, por outro lado, que durante a vigência destes acordos havia um conjunto de situações que seriam de benefício para Portugal. Expressando-me mais concretamente, estava prevista uma entrega de material e de equipamento militar, bem como uma prestação de serviços no valor de 45 milhões de marcos, material que devia ser fornecido numa percentagem de 80% novo e 207o recondicionado. Havia também a possibilidade da concessão de uma Unha de crédito de 100 milhões de marcos até 1988.\n\nAs perguntas que pretendo fazer-lhe estão precisamente relacionadas com estes acordos luso-alemães.\n\nEm primeiro lugar, pedia ao Sr. Secretário de Estado que me fizesse o ponto da situação destes auxílios, ou seja, o que é que foi utilizado e como é que foi utilizado.\n\nEm segundo lugar, gostaríamos de saber o que é aconteceu durante o lapso de tempo que decorreu desde a notificação, feita em 1987, para a abertura das negociações entre os dois Estados quanto à futura utilização destas instalações, até agora. Não temos, realmente, um grande conhecimento do que é que aconteceu, desconhecemos se há contrapartidas durante a fase que tem vindo a decorrer desde que se finalizou o acordo e gostaríamos de saber qual é a situação neste período de renegociação.\n\nPor outro lado, pergunto quais as perspectivas que se nos apresentam em termos daquilo que se está a preparar sobre os acordos. Naturalmente que as negociações terão uma parte que será de âmbito próprio e que, porventura, não serão totalmente públicas. No entanto, penso que há aspectos a ser considerados em termos daquilo que se está a perspectivar para renegociar este acordo entre Portugal e a República Federal da Alemanha."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 1807,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 1807,
+      "speaker": {
+        "id": 1037,
+        "name": "José Manuel Durão Barroso",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Miranda Calha, conforme V. Ex.ª reconheceu, relativamente a estas negociações há certa matéria que, precisamente por estar em negociação, não pode, de momento, ser trazida a esta Assembleia. Contudo poderemos adiantar ter sido reconhecido que deveríamos negociar com novos pressupostos, uma vez que o anterior acordo caducou e abriu-se agora um novo processo negocial.\n\nA primeira sessão de negociação teve lugar em 30 de Junho de 1988. Foi nessa altura reconhecido que a vigência do instrumento enquadrador da presença alemã devia ser prorrogado até à data da entrada em vigor dos novos acordos ou até que qualquer uma das partes reconhecesse o resultado negativo das negociações, sem prejuízo de considerarmos que os acordos produzirão os seus efeitos a partir de 1 de Agosto de 1988.\n\nPor outro lado, foi rubricado pelo Director-Geral dos Negócios Político-Económicos do Ministério dos Negócios Estrangeiros e pelo encarregado de negócios da República Federal da Alemanha, em 16 de Setembro de 1988, o acordo suplementar ao acordo sobre o financiamento das fragatas, no valor de 78 milhões de marcos.\n\nA segunda sessão das negociações teve lugar nos dias 13 e 14 de Outubro de 1988."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 1808,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Miranda Calha."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 1808,
+      "speaker": {
+        "id": 330,
+        "name": "Júlio Francisco Miranda Calha",
+        "party": "PS",
+        "string": "O Sr. Miranda Calha (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Secretário de Estado, agradeço as suas informações.\n\nGostaria de lembrar que a Comissão de Defesa Nacional já tinha solicitado a presença do Sr. Vice-Primeiro-Ministro e Ministro da Defesa Nacional para falarmos não só sobre o acordo luso-alemão mas também sobre as negociações do acordo luso-americano. Tivemos, oralmente, conhecimento de que os Srs. Ministros viriam à Assembleia para analisar esta matéria, no entanto, não fomos oficialmente informados sobre esse assunto, pelo que, objectivamente, desconhecemos essa situação.\n\nO que está de pé é a solicitação da Comissão de Defesa Nacional em relação à vinda dos Srs. Ministros para analisarmos esta questão. De qualquer modo, quando questionei o Governo em relação a este assunto, e tendo em conta a delicadeza de algumas matérias que podem estar em causa - e numa negociação isso tem de ser tomado em conta - fi-lo porque, em termos exteriores, apareceram informações díspares sobre esta matéria, designadamente o anúncio feito pelo ministro de Defesa alemão sobre a transferencia, para Portugal, de voos supersónicos de baixa altitude, o que foi desmentido pelo Sr. Primeiro-Ministro.\n\nNa Alemanha tomou-se conhecimento desta matéria de um maneira e em Portugal de outra. Penso que isto não é bom para o Estado português, para além de demonstrar alguns aspectos que podem não ser muito positivos em relação àquilo que se está a passar nesta matéria.\n\nNo fundo, a questão é a de saber qual o ponto da situação e, também, saber aquilo que é plausível em termos de opinião pública, porque o facto de haver contradições de opinião, aliás, divulgadas na imprensa, não é positivo, portanto, gostava de ouvir o Sr. Secretário de Estado falar sobre esta matéria."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 1808,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 1808,
+      "speaker": {
+        "id": 1037,
+        "name": "José Manuel Durão Barroso",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Miranda Calha, em relação à questão da vinda de membros do Governo à Assembleia ou da troca de informações entre o Sr. Vice-Primeiro-Ministro e Ministro da Defesa Nacional, o Sr. Ministro dos Negócios Estrangeiros com os Srs. Deputados, penso que o Sr. Ministro dos Assuntos Parlamentares poderá responder-lhe melhor do que eu.\n\nQuanto à questão que o Sr. Deputado agora colocou, devo dizer-lhe que há uma regra: não acreditarmos nas especulações! Compreendo perfeitamente a sua preocupação e, se bem a entendo, a sua preocupação é de que Portugal não sirva..."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 1808,
+      "speaker": {
+        "id": 330,
+        "name": "Júlio Francisco Miranda Calha",
+        "party": "PS",
+        "string": "O Sr. Miranda Calha (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Posso interrompê-lo, Sr. Secretário de Estado?"
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 1808,
+      "speaker": {
+        "id": 1037,
+        "name": "José Manuel Durão Barroso",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 1808,
+      "speaker": {
+        "id": 330,
+        "name": "Júlio Francisco Miranda Calha",
+        "party": "PS",
+        "string": "O Sr. Miranda Calha (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Desculpe a interrupção, mas referi-me a uma afirmação que li nos jornais feita pelo Sr. Ministro da Defesa alemão, uma vez que hoje em dia a comunicação corre depressa. Portanto, não é totalmente uma especulação. É mesmo para não haver quaisquer dúvidas sobre este tipo de situações que questionamos o Governo para saber o que há de verdade em relação a estas matérias. Portanto, gostaria que o esclarecimento fosse dado com alguma profundidade."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 1808,
+      "speaker": {
+        "id": 1037,
+        "name": "José Manuel Durão Barroso",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, entendi da sua pergunta que o senhor se tinha referido a várias notícias que têm vindo a público e foi nesse sentido que usei a expressão «especulações».\n\nAtrevo-me mesmo a dizer que seja quem for que se pronuncie antes da conclusão do acordo ainda está a fazer especulação, uma vez que o acordo ainda não está assinado mas, sim, em fase de negociações.\n\nO Governo português não tem pressa em relação ao acordo e pensamos que devemos exigir mais à parte alemã do que aquilo que foi estipulado no último acordo, no espírito - como, aliás, já referi - de que estamos a negociar com um país aliado e amigo e não perante um adversário.\n\nPortanto, neste momento, é prematuro dizer se Portugal vai ou não conceder mais alguma facilidade do que as que já concedeu, pelo que penso que temos de esperar pelo acordo. Há material negociai que, neste momento, tem de ficar em segredo, pelo que, peço desculpa, mas não posso avançar mais neste capítulo.\n\nEm relação à outra questão que levantou, penso que o Sr. Ministro dos Assuntos Parlamentares, se estiver de acordo, lhe poderá responder."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 1809,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem, então, a palavra, para responder, se o desejar, o Sr. Ministro dos Assuntos Parlamentares."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 1809,
+      "speaker": {
+        "id": 590,
+        "name": "António D'Orey Capucho",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Miranda Calha, efectivamente o Governo recebeu solicitações das Comissões de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação e da Defesa Nacional no sentido de abordar os temas da União Europeia Ocidental, acordos das Lajes e da Base Aérea de Beja. Manifestei a disponibilidade do Governo e acertou-se uma data para uma reunião conjunta das duas comissões com os Srs. Vice-Primeiro-Ministro e Ministro da Defesa Nacional e Ministro dos Negócios Estrangeiros.\n\nEsta reunião não se realizou por razões inteiramente alheias ao Governo e, neste momento, aguardamos que nos sejam sugeridas novas datas no sentido de acertarmos uma nova reunião pois, como disse o Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação, é o próprio Governo que tem o maior interesse e empenho em aprofundar esta matéria - que, nalguns aspectos, assume carácter reservado - em sede de comissão especializada."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 1809,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, encontram-se a assistir à sessão, um grupo de alunos do Externato de Nossa Senhora das Preces, de Sacavém, e um grupo de alunos da Escola Secundária da Baixa da Banheira, acompanhados pelos seus professores, para os quais peço a vossa habitual saudação.\nPara formular uma pergunta ao Governo relacionada com os professores do 1.º ciclo do ensino básico e educadores de infância contratados, tem a palavra a Sr.ª Deputada Isabel Espada."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 1809,
+      "speaker": {
+        "id": 1875,
+        "name": "Isabel Maria Da Costa Valentim Ferreira Espada",
+        "party": "PRD",
+        "string": "A Sr.ª Isabel Espada (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Secretário de Estado, venho falar-lhe em relação a esta matéria de uma norma que, neste momento, é extremamente grave no panorama laborai português. Trata-se do Despacho Normativo n.º 91/88, que regulamenta a contratação de professores do ensino primário e educadores de infância profissionalizados não pertencentes aos quadros.\n\nEste despacho normativo vem criar a figura do professor do ensino oficial que, simultaneamente, não é funcionário público.\n\nComo o Sr. Secretário de Estado sabe, este despacho normativo vem permitir que um contrato seja denunciado quando se verifiquem (e refiro-me ao artigo 16.º) cinco faltas nos primeiros 30 dias de vigência do contrato, oito faltas nos primeiros 60 dias de contrato, doze faltas nos primeiros 90 dias de vigência do contrato e quinze faltas durante todo o tempo de contrato.\n\nOra, perante estes factos, é facilmente deduzível que esta norma vem retirar os direitos constitucionalmente consagrados às faltas justificadas, por exemplo, por doença, por casamento, por nojo, por greve, por licença de parto, etc. Ou seja, todas as faltas, mesmo que justificadas de acordo com estes parâmetros, podem ser susceptíveis de dar origem à rescisão do contrato.\n\nPor outro lado, estes professores que são profissionalizados - para eles é exigida a formação nesta área -, uma vez que não são agentes nem funcionários públicos não têm qualquer protecção na doença, não são beneficiários da ADSE, não são beneficiários da caixa geral de aposentações, não são beneficiários da Caixa de Previdência, portanto não têm quaisquer direitos no que diz respeito à protecção na doença e ao regime da aposentação.\n\nSr. Secretário de Estado, muito simplesmente gostaria de perguntar-lhe quais são os direitos que estes trabalhadores têm pelos serviços que prestam e que são necessários, pois se eles são contratados é porque os serviços que prestam são imprescindíveis. Portanto, pergunto-lhe que direitos é que eles efectivamente têm.\n\nGostaria, ainda, de saber por que razão é que existe discriminação entre estes professores e os contratados a prazo do ensino preparatório e secundário, nomeadamente aqueles que entram na antiga 3.ª fase que têm um tratamento completamente diferente e que, como o Sr. Secretário de Estado sabe, embora não seja o melhor possível, é muito mais favorável.\n\nTemos conhecimento de que os sindicatos já reuniram com a Direcção-Geral de Pessoal do Ministério da Educação e com o Sr. Secretário de Estado sobre esta matéria e que parecia haver algum acordo em relação as reivindicações dos professores. Gostava, pois, de saber qual o ponto da situação.\n\nSr. Secretário de Estado, uma última pergunta na área da ética. Ontem, aqui na Assembleia estivemos a discutir as situações de prestação de trabalho temporário. Sei que o Ministério da Educação alega que estes trabalhadores não têm alguns direitos, porque são apenas trabalhadores em situação transitória.\n\nNo entanto, vimos que, através de um princípio consagrado no pedido de autorização legislativa do Governo, para as empresas privadas que fazem este tipo de actividade - prestação de trabalho temporário - é obrigatória a uniformidade de tratamento entre os trabalhadores que prestam trabalho temporário e os que prestam trabalho permanente.\n\nSendo assim, pergunto por que razão é que, e fazendo-se esta exigência para as entidades privadas, não é o sector público, em primeiro lugar, a dar o exemplo."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 1809,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Secretário de Estado-Adjunto do Ministro da Educação."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 1809,
+      "speaker": {
+        "id": 2719,
+        "name": "Roberto Carneiro",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado-Adjunto do Ministro da Educação (Alarcão Troni)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, Sr.1 Deputada Isabel Espada: Já tive o prazer de responder a esta questão anteriormente, quer a Comissão de Educação, Ciência e Cultura quer no Plenário, e com todo o gosto farei a síntese da situação da questão na fase actual das negociações entre o Ministério da Educação e os sindicatos representativos do professorado, designadamente no caso da questão posta hoje relativa ao professorado primário e às educadoras de infância.\n\nA questão suscitada abrange, em números globais, cerca de dois mil professores do ensino primário e da educação infantil contratados a prazo, que efectivamente correspondem a recursos humanos que não são necessidades permanentes do sistema.\n\nTodavia, considerando que o ministério é profundamente sensível à situação humana e profissional destes profissionais da educação e, por outro lado, porque"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 1810,
+      "speaker": {
+        "id": 1166,
+        "name": "António Fernandes Da Silva Braga",
+        "party": "PS",
+        "string": "O Sr. António Braga (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso é que está mal!"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 1810,
+      "speaker": {
+        "id": 2719,
+        "name": "Roberto Carneiro",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "De qualquer maneira, esclarecendo a Sr.ª Deputada Isabel Espada, como há uns tempos tive o prazer de esclarecer a Sr.ª Deputada Lurdes Hespanhol, não se trata de docentes sem regime de segurança social; estes docentes têm o regime de segurança social da previdência, na medida em que o Ministério da Educação e a administração pública assumem relativamente a eles a posição de pólo patronal, de empregador do sector privado. Portanto, não estamos perante uma «zona branca» da regulamentação, mas o ministério é sensível ao reconhecimento de que existe uma diversidade de regime de segurança social para os contratados do ensino primário e para os contratados do ensino preparatório e secundário; aliás, até foi da iniciativa do ministério essa proposta que foi feita às frentes sindicais e penso que elas farão a justiça ao ministério de o reconhecer, e em revisão, a curto prazo, este dispositivo legal, o regime de segurança social, será padronizado.\n\nQuanto ao regime de férias, feriados e faltas dos professores provisórios do ensino primário, eu apenas acrescentaria duas coisas. Em primeiro lugar, é evidente que tem de haver um regime de assiduidade específica para o professorado que deve ser diferente do regime de assiduidade específica para a Função Pública, designadamente para o pessoal administrativo, porque o professorado tem uma obrigação específica que é ir à escola dar aulas e se não vai os prejudicados são os nosso filhos, são as crianças.\n\nDe qualquer forma, dei instruções expressas, instruções escritas, às dezoito direcções escolares no sentido de encararem com toda a humanidade e com toda a justiça de não rescisão de contratos ou de não penalização de professores por o seu regime transitório de assiduidade poder ser mais penalizador ou menos liberal do que o regime dos contratados a prazo da Função Pública, que estão sob regime de contratação administrativa a termo. A indicação que tenho é de que não houve qualquer rescisão de contrato, aliás, eu avoquei essa competência e, na vigência deste regime, tenho sido o juiz e o árbitro da sua própria aplicação, com humanidade e com justiça."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 1810,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 1810,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Isabel Espada."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 1810,
+      "speaker": {
+        "id": 1875,
+        "name": "Isabel Maria Da Costa Valentim Ferreira Espada",
+        "party": "PRD",
+        "string": "A Sr.ª Isabel Espada (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Secretário de Estado, foi feita uma acusação ao ministério, inclusivamente pelas federações sindicais, no sentido de que não é verdade que estes professores sejam professores que vêm preencher vagas durante períodos de tempo muito restritos, porque a maior parte deles ocupam vagas que efectivamente é necessário preencher, que são postos de trabalho permanentes e, portanto, não se deveriam integrar dentro da categoria de professores provisórios ou de professores temporários.\n\nSr. Secretário de Estado, à laia de tentar confirmar estas afirmações, se efectivamente isto corresponde ou não à realidade, porque é fundamental sabermos até que ponto é que este estratagema de considerar que são professores transitórios aqueles que ocupam esses postos de trabalho durante um mês, durante dois meses e depois se retiram, eu gostava que o Sr. Secretário de Estado me dissesse, em termos estatísticos e percentuais, se os tem, quantos professores é que estiveram colocados durante todo o ano e quantas vagas é que se repetiram, ou seja, quantos postos de trabalho vagos ocupados por estes professores se repetiram em anos sucessivos? Penso que isto é fundamental para nós esclarecermos esta questão.\n\nDe qualquer modo, tenho ainda uma outra questão relativa às faltas. Quanto a isso eu penso que não podemos aceitar, de maneira alguma, um regime de discricionaridade relativa a esta matéria, não devem ser as escolas e cada direcção escolar a decidir se as faltas do caso A ou do caso B são susceptíveis de ser perdoadas, por boa vontade, ou se não susceptíveis disso. \nO Sr. Secretário de Estado sabe a que situações é que isso pode conduzir! Não é aceitável que não haja uma norma geral para esta questão e eu penso que a norma geral que tem de haver é a que vigora para todos os outros trabalhadores, ou seja, têm de ter direito às faltas quando são justificadas por doença ou por todos os outros factores aceites. Não pode haver aceitação de qualquer outro regime, são faltas justificadas e como tal imediatamente aceites.\n\nSr. Secretário de Estado, coloco esta questão porque ela me parece fundamental. Mas o Ministério da Educação talvez tivesse alguma ideia quando criou este artigo. Será que o Ministério da Educação tem provas de que estes professores são mais absentistas do que os outros professores ou do que os outros profissionais? Penso que pelo facto de serem professores é tão importante serem assíduos como outros profissionais quaisquer, como é óbvio. Pelo facto de serem professores provisórios terem de ser mais assíduos que os outros professores, põe em questão muitos factores.\n\nSr. Secretário de Estado, nós não podemos admitir, de maneira alguma, os princípios que estão definidos neste decreto regulamentar ou neste despacho normativo, na medida em que ele é discricionário em múltiplos aspectos em relação a todos os profissionais desta área laborai e em relação de todos os outros profissionais da educação."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 1811,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Secretário de Estado-Adjunto do Ministro da Educação."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 1811,
+      "speaker": {
+        "id": 2719,
+        "name": "Roberto Carneiro",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado-Adjunto do Ministro da Educação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Deputada Isabel Espada, quanto à questão do regime de férias, feriados e faltas do pessoal contratado a prazo na administração pública, neste caso na docência, de acordo com o regime de direito privado, o Despacho n.º 91/88, de que fui autor, limitou-se a reproduzir o regime geral da contratação a prazo no sector privado e, consequentemente, aí não há penalização nem despenalização, ou seja, não há um regime de diferenciação relativamente aos restantes contratos a prazo do sector privado ou de qualquer empresa, quer seja do sector empresarial público, quer seja do privado.\n\nQuanto à constitucionalidade..."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 1811,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª babel Espada (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Posso interrompê-lo, Sr. Secretário de Estado?"
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 1811,
+      "speaker": {
+        "id": 2719,
+        "name": "Roberto Carneiro",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se me permite, gostaria de terminar a minha resposta, Sr.ª Deputada, e ficaria depois à sua inteira disposição para esclarecer todas as questões que queira levantar, tenho em atenção o tempo de que dispomos, claro!\n\nComo estava a dizer, penso que, em matéria de constitucionalidade, não há qualquer discriminação quanto à aplicação de um regime matricial, que, aliás, é o que vigora para o regime privado.\n\nV. Ex.ª perguntou-me - e com toda a pertinência - se eu considerava, em consciência, que esse pessoal era excedentário ou se, consequentemente, estava a satisfazer necessidades permanentes ou transitórias da administração. Respondendo à sua questão, gostaria de lhe dizer que, em primeiro lugar, determinei à Direcção-Geral da Administração de Pessoal um cuidadoso estudo de análise de funções com vista, efectivamente, a determinar quais são as necessidades efectivas do sistema, face aos recursos disponíveis do professorado primário.\n\nDe qualquer forma, é do conhecimento geral que existem algumas centenas, para não dizer milhares de professores, destacados em serviços centrais do ministério, maxime professores primários, cujo dever era estarem na escola. Consequentemente, se Deus nos der vida e saúde, ao longo deste ano lectivo e do próximo, a generalidade desses professores voltará à escola, onde é o seu lugar.\n\nAssim, poderá haver alguma libertação destes contratados a prazo, porque, de facto, esses professores foram contratados a prazo para colmatarem vagas de colegas seus efectivos, que estão nos serviços centrais. Há que analisar com todo o rigor se dês estão nos serviços centrais a cumprirem necessidades efectivas da administração ou se estão em situações de subemprego.\n\nSr.ª Deputada Isabel Espada, concluindo assim pela afirmação que fiz há pouco e que, aliás, é um compromisso de honra da equipa da educação, tratando-se de professores profissionalizados o sistema tentará recuperar o máximo desses contratos a prazo nas suas necessidades permanentes mas efectivamente, o Ministério da Educação e a administração pública não têm obrigação de criar empregos para além da sua necessidade real de absorção."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 1811,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para formular uma pergunta sobre a situação dos trabalhadores dos Estabelecimentos Fabris das Forças Armadas, tem a palavra o Sr. Deputado João Amaral."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 1811,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados, Sr. Secretário de Estado da Defesa Nacional: A pergunta que formulei tem a ver com a situação dos trabalhadores dos estabelecimentos fabris na dupla perspectiva da situação estatutária do regime jurídico e do ponto da situação quanto ao exercício de direitos e liberdades fundamentais.\n\nQuanto a esta última questão, gostaria de salientar o problema da obstrução à constituição do sindicato, que se prolonga há mais de cinco anos e que se traduz numa obstrução que viola a Constituição, a lei sindical e a Convenção n. º 87 da OIT, como foi reconhecido por múltiplas entidades, incluindo a Procuradoria-Geral da República, o Provedor de Justiça e ainda pelo Tribunal Constitucional, pelo Comité de Liberdade Sindical da OIT e até por esta Assembleia.\n\nCom efeito, esta situação viola os direitos humanos e os direitos fundamentais e não pode, por isso, subsistir.\n\nA segunda questão diz respeito ao regime aplicado às relações de trabalho. Sr. Secretário de Estado, era previsível que o estatuto aprovado pelo Decreto-Lei n.º 33/80 fosse declarado inconstitucional. O Estatuto de 1982 foi declarado inconstitucional em 1984 por falta de participação das associações colectivas dos trabalhadores na sua elaboração e foi repristinado o Estatuto de 1980. Mas obviamente, que desde 1984 se sabe que o Tribunal Constitucional ia declarar inconstitucional esse estatuto, e foi o que sucedeu.\n\nNa verdade, desde 1984 que estávamos à espera disso, sucedeu e não havia qualquer previsão de solução que resolvesse esta situação. A situação que se vive hoje é de indefinição e de confusão completa. Calcula-se em 66 o número de diplomas que são aplicáveis a estes trabalhadores. Trata-se de uma situação que deve ser alterada. Há diplomas que existem desde 1929 e há um diploma que tem já um período de vigência de 60 anos e ainda se aplica na regulação das relações de trabalho, o que cria uma situação que não pode manter-se, particularmente porque os trabalhadores aprovaram o estatuto de acordo com o projecto apresentado pelo sindicato, projecto esse que foi apresentado à Assembleia e constitui uma base de discussão.\n\nNa área das liberdades, gostaria de colocar uma terceira questão que diz respeito às normas provisórias relativas ao funcionamento das comissões de trabalhadores. Com base nessas normas provisórias, tem-se impedido o exercício de direitos pelas comissões de trabalhadores e, em nosso entender, do ponto de vista orgânico, essas normas provisórias são completamente inconstitucionais, porque as chefias militares não tinham competência para as fazer e são ainda inconstitucionais, do ponto de vista formal, porque não podem ser feitas através de um despacho e, do ponto de vista material, porque contêm inumerosíssimas inconstitucionalidades, além de violarem o princípio da igualdade de tratamento dos trabalhadores.\n\nSr. Secretário de Estado, face a esta situação, gostaria de saber quando é que o Governo vai pôr cobro a esta situação lesiva dos direitos fundamentais, dos direitos humanos dos cidadãos portugueses, que têm"
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 1812,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queira terminar, Sr. Deputado."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 1812,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Só mais uma pergunta, Sr. Presidente.\n\nSr. Secretário de Estado, quando é que V. Ex.ª recebe o sindicato, que há três meses tem o estatuto aprovado pelos trabalhadores e que lhe solicitou uma audiência sem qualquer êxito?\n\nFinalmente, quanto às normas provisórias relativas às comissões de trabalhadores, sendo claramente inconstitucionais como são, quando é que o Governo as revoga?"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 1812,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Secretário de Estado-Adjunto do Ministro da Defesa Nacional."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 1812,
+      "speaker": {
+        "id": 2702,
+        "name": "Eurico De Melo",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado-Adjunto do Ministro da Defesa Nacional (Eugênio dos Santos Ramos)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado João Amaral, como ê do conhecimento geral existem cerca de duas dezenas de milhar de trabalhadores civis integrados no complexo da defesa Nacional, designadamente naquilo que ê comummente chamado os serviços departamentais das Forcas Armadas e estabelecimentos fabris das Forcas Armadas. Apesar de, sobre estas duas designações, se pretenderem agrupar um conjunto de serviços do Estado-Maior, de unidades de natureza fabril que aparentemente serão consideradas como englobáveis dentro de dois grandes conceitos, há, no entanto, uma realidade muito diversa sobre o «chapéu» - digamos assim - de cada uma destas duas designações.\n\nComo todos nós sabemos, foi também declarada a inconstitucionalidade dos estatutos que regiam estes dois tipos de pessoal. O actual Governo, pouco depois da declaração da inconstitucionalidade e logo que teve oportunidade de o fazer, definiu um conjunto de normas, de metodologias, no sentido de começar a responder às dificuldades que, na sequência destas declarações de inconstitucionalidade, se avizinhavam, designadamente para a gestão do pessoal destes dois grandes grupos.\n\nFoi assim determinado um estudo com uma tripla perspectiva, no sentido de, em primeiro lugar, permitir clarificar qual o dispositivo legal que passaria a aplicar-se a partir da represtinação ou com a represtinação da legislação que era a sequência das declarações de inconstitucionalidade; em segundo lugar, definir qual a melhor metodologia, face à complexidade do problema, para a preparação dos novos estatutos e, em terceiro lugar, recolher sugestões para a resolução de algumas questões mais urgentes que poderiam colocar-se à gestão deste pessoal, na medida em que se admitia que seria complexo e moroso definir novos estatutos.\n\nNo que respeita aos serviços departamentais das Forcas Armadas foi possível, dada eventualmente uma melhor simplicidade do problema, resolver a questão e julgamos que a contento. A situação era, de facto, mais simples e a prestação de serviços no âmbito dos serviços departamentais das Forças Armadas permitiu-nos definir os princípios globais de uma equiparação total ao regime da Função Pública. Foi assim que, na sequência da aprovação deste princípio, foi aprovado o decreto-lei que permite aplicar a reestruturação de carreiras a este pessoal; já está aprovado e para publicação o decreto regulamentar que vai definir toda a reestruturação de carreiras deste grupo de pessoal e estão a começar a ser preparadas as portarias e os quadros que vão permitir o provimento nos novos lugares. Finalmente, dois decretos-lei marginais mas que dizem respeito a grupos de pessoal que não foram abrangidos na reestruturação global por falta de autorização legislativa, estão também, neste momento, em fase final de preparação.\n\nDo ponto de vista estrutural e ainda para este mesmo pessoal, o Governo tem em fase de apreciação o decreto-lei que manda aplicar o regime da Função Pública total e automaticamente a todo o pessoal civil dos serviços departamentais das Forças Armadas, após, como a lei determina, a competente audiência das diferentes federações sindicais que representam estes trabalhadores, o que foi feito no âmbito da Direcção-Geral da Administração Pública da Secretaria de Estado do Orçamento.\n\nHoje mesmo será assinado, em coerência com toda esta legislação e com os princípios que lhes estão subjacentes, o documento que permite adequar imediatamente os vencimentos de todo este pessoal às decisões do Conselho de Ministros de ontem, sobre aumento de vencimentos, os quais se referem também e pela primeira vez, aos militares, às forcas militarizadas e de segurança, aumentos esses que foram este ano aprovados simultaneamente com os do pessoal da Função Pública.\n\nQuanto aos estabelecimentos fabris das Forcas Armadas, o problema é mais complexo. E por ser mais complexo estão a decorrer, neste momento, três estudos, consoante tivemos já oportunidade de informar a Comissão Parlamentar de Defesa Nacional, visando o primeiro definir qual o enquadramento jurídico-administrativo mais adequado aos estabelecimentos fabris das Forcas Armadas, se um só ou se vários, dada a complexidade da realidade destes estabelecimentos, porque não é um, são sete e enquadram cerca de doze mil trabalhadores que estão distribuídos pelos três ramos das Forcas Armadas, sendo estabelecimentos tão diferentes como, por exemplo, o Arsenal do Alfeite, com mais de 3000 trabalhadores, ou o laboratório militar de produtos químicos e farmacêuticos, com algumas centenas de trabalhadores e com uma natureza completamente diferente em termos de produção.\n\nNeste momento, o primeiro estudo a realizar é o do enquadramento jurídico-administrativo desses sete estabelecimentos; o segundo é uma análise das condições de exploração económica e das formas mais adequadas da autonomia de gestão desses estabelecimentos e o terceiro é a definição da tipologia da relação jurídico-laboral e disciplinar.\n\nEstes documentos, tal como foi previsto e oportunamente comunicado à Comissão Parlamentar de Defesa Nacional, estarão terminados antes do final do"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 1813,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado João Amaral."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 1813,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Secretário de Estado-Adjunto do Ministro da Defesa Nacional, acho que este instituto das perguntas está muito bem feito, porque, de facto, esta oportunidade de retorquir vai permitir ao Sr. Secretário de Estado responder à segunda parte das questões que lhe coloquei, isto é, às questões relativas à constituição do sindicato e às normas sobre as comissões de trabalhadores.\n\nParticularmente quanto às questões relativas à constituição do sindicato eu gostava de o ouvir referir a lista das entidades, tendo presente que: a Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, em 1979, considerou que os trabalhadores civis ao serviço das Forças Armadas gozavam de total liberdade sindical; os serviços da administração central competentes nesta área, os serviços do Ministério do Trabalho, consideraram sempre que não havia qualquer impossibilidade constitucional, que era uma violação da Constituição, e da lei impedir a publicação desses estatutos; o consultor jurídico e auditor jurídico do Ministério do Trabalho tiveram a mesma opinião, dizendo concretamente que, para integração da legalidade violada, deve ordenar-se a publicação dos estatutos; a Procuradoria-Geral da República, em parecer do Conselho Consultivo de Maio de 1984, afirma textualmente que nem a Constituição nem a lei levantam qualquer obstáculo à possibilidade de constituição de associações sindicais que representem exclusivamente trabalhadores civis dos estabelecimentos fabris das Forças Armadas; o Tribunal Constitucional, por duas vezes e a propósito dos estatutos dos estabelecimentos fabris, referiu que aos trabalhadores dos estabelecimentos fabris teria de ser sempre assegurada a liberdade sindical e que o pessoal civil dos estabelecimentos fabris não tem estatuto militar ou militarizado, daí que não possa falar-se a seu respeito de qualquer relação especial de poder no âmbito das Forças Armadas; o provedor de Justiça recomendou ao Governo que o ministério devia, sem mais delongas, mandar proceder à publicação dos estatutos; o Comité da Liberdade Sindical da Organização Internacional do Trabalho recomendou que os trabalhadores civis dos estabelecimentos fabris devem ter o direito de constituir, sem autorização prévia, as organizações da sua escolha, conforme Convenção n.º 87, ratificada por Portugal.\n\nE mais, Sr. Secretário de Estado, para que não se passem mais vergonhas sobre isso, lembro também que já foi apresentada uma queixa à Comissão Europeia dos Direitos do Homem e, inevitavelmente, essa queixa terá o mesmo tratamento que foi dado por todas estas entidades a esta questão.\n\nSr. Secretário de Estado, para quando a reposição do Estado de direito? Para quando o respeito pelos direitos humanos fundamentais nesta área?\n\nApesar de tudo, Sr. Secretário de Estado, não queria deixar em branco toda a questão que colocou relativamente à outra resposta. Agradeço toda a explicação relativa aos serviços departamentais, que tenho acompanhado, mas se quisesse interrogá-lo sobre isso, tinha-o feito. Porém, eu interroguei-o sobre os trabalhadores dos estabelecimentos fabris e sobre estes, Sr. Secretário de Estado, se desde 1984 era sabido que esta situação era inevitável, se desde 1984 se sabia que o Decreto-Lei n.º 33/80 ia a ser inevitavelmente declarado inconstitucional porque nele não tinham participado as organizações de trabalhadores, de que é que o Governo esteve à espera estes cinco anos? Esteve à espera que se criasse esta situação de confusão?\n\nSr. Secretário de Estado, se a primeira questão central que foi colocada pelo Tribunal Constitucional foi a da participação das organizações dos trabalhadores, por que é que o Sr. Secretário de Estado não responde concretamente ao pedido de participação que lhe foi formulado pelo sindicato, não concede uma audiência ao sindicato, não tem em atenção o estatuto que os trabalhadores aprovaram e que apresentaram ao Governo?"
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 1813,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 1813,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Secretário de Estado-Adjunto do Ministro da Defesa Nacional."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 1813,
+      "speaker": {
+        "id": 2702,
+        "name": "Eurico De Melo",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado-Adjunto do Ministro da Defesa Nacional",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado João Amaral, em relação a 1984 não lhe posso responder de maneira nenhuma. O que posso dizer-lhe, e abordarei as três questões que aqui estão em causa, é que tem a ver com o sindicato, com a comissão de trabalhadores e mais propriamente com os estatutos e portanto com o enquadramento jurídico-administrativo de todo este pessoal.\n\nRelativamente ao sindicato, devo dizer que a revogação do acto de registo operado em 1984 e a não publicação dos respectivos estatutos, assenta, no entender de Governo, em bases que naturalmente, do ponto de vista legal, serão discutíveis e o Sr. Deputado João Amaral acaba de referir todo um conjunto de posições que têm vindo a ser sucessivamente tomadas sobre esta matéria.\n\nA posição do Governo é clara e já foi naturalmente comunicada às instituições internacionais, designadamente à OIT. No entanto, o processo está ainda pendente de actuação judicial e aguardamos a decisão do Supremo Tribunal Administrativo, que o Governo acatará de imediato e na integra."
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 1813,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dá-me licença que o interrompa?"
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 1813,
+      "speaker": {
+        "id": 2702,
+        "name": "Eurico De Melo",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Faça favor."
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 1813,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Agradeço-lhe a interrupção.\n\nEsperava que tivesse dito isso logo da primeira vez, isto é que tivesse dito que aguardava uma decisão do Supremo Tribunal Administrativo. Sr. Secretário de Estado, a questão que se coloca é óbvia: em relação"
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 1814,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para formular uma pergunta ao Governo, tem a palavra o Sr. Deputado Narana Coissoró."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 1814,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Ministro da Presidência e da Justiça: Em 11 de Abril de 1988 foi raptado, em Cascais, um cidadão português de nome Evo Camões Fernandes. Passados alguns dias, 6 dias, exactamente no dia 17, este cidadão português foi assassinado nos arredores daquela vila. Passados alguns dias o semanário «O Diabo» levantou imediatamente a suspeita de que não teria sido uma caso vulgar de criminalidade marginal, mas um autêntico acto de terrorismo político.\n\nIsto é, o Estado moçambicano estaria envolvido nesse crime que teria sido perpretado por um comando, digamos assim, desse Estado, tal como agora, por exemplo, o Komeini quer mandar um comando para matar, em nome da razão do Estado teocrático, Salman Rushdie por causa do livro «Versos Satânicos». Esta hipótese foi imediatamente negada e o que se verificou é que actualmente o problema não está no segredo de justiça.\n\nO processo está aberto e os seus termos estão a correr no Tribunal Judicial de Cascais. Já terminou a fase de instrução e já foi deduzida a acusação provisória. Pude verificar, no processo aberto, que o assassino Chagas, que se sabe ser um agente da polícia secreta moçambicana, SNASP, confessa ter cometido o crime a soldo do Governo moçambicano. A Embaixada de Moçambique, em Lisboa, teria prometido mil contos para praticar esse assassinato, porém pagou apenas 995 contos e o homem queixa-se de que ainda tem a receber S contos...\nA sua filha foi levada para Moçambique e violentada por um senhor chamado Generoso - que grande generosidade - por ter feito confissões em Lisboa.\n\nO que se sabe, e é sobre isto que vou perguntar, é que o Chagas acusa o diplomata Rafael Custódio Marques, 3.º Secretário da Embaixada, como autor moral do crime. Teria sido esse o homem que o contratou, vindo do Maputo, que lhe pagou 995 contos, que lhe deu as instruções e forneceu toda a estrutura logística para o crime.\n\nPergunto, Sr. Ministro: está o Governo disposto a pedir a quebra de imunidade do diplomata Rafael Custódio Marques ao governo do Maputo para que o Ministério Público, através da Polícia Judiciária, o possa interrogar a fim de se obter o completo restabelecimento da verdade? Isto porque a Polícia Judiciária, atendendo exactamente ao privilégio de imunidade, não o interrogou - de anda aí da nossa cidade como se nada tivesse a ver com o caso - e a falta do seu depoimento prejudica o bom andamento do apuramento da verdade."
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 1814,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Ministro da Presidência e da Justiça."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 1815,
+      "speaker": {
+        "id": 1616,
+        "name": "Joaquim Fernando Nogueira",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Presidência e da Junca (Fernando Nogueira)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Contrariamente ao que afirmou o Sr. Deputado Narana Coissoró, a informação que o Ministério da Justiça dispõe é a de que o processo designado por «Evo Fernandes» ainda se encontra em segredo de justiça, uma vez que ainda não terminou a decisão instrutória.\n\nEm todo o caso, e como se sabe, em casos como este, a Policia Judiciária intervém sempre no processo, na dependência funcional do Ministério Público e também do juiz de instrução criminal, quando há movimentos ou acções processuais que tenham de ser determindados pelo juiz de instrução criminal. Daí que, e enquanto não houver decisão instrutória, há que respeitar o segredo de justiça, não apenas pelas autoridades judiciárias mas por todas as entidades que, de uma forma ou de outra, tenham obtido conhecimento do processo.\n\nO que posso dizer ao Sr. Deputado Narana Coissoró é que o Governo foi solicitado pela Polícia de Investigação Criminal a proceder a diligências diplomáticas junto do reino de Marrocos, no sentido de proporcionar as acções investigatórias que tinham que decorrer naquele paus amigo de Portugal. Essas diligências foram feitas com toda a destreza e com todo o empenho do Governo português e posso adiantar que foram coroadas de sucesso.\n\nO Governo português, como todos os governos civilizados, tem normas internas e externas a que deve obediência - deve obediência a essas regras e vai respeitá-las. Porém, gostaria de afirmar peremptoriamente ao Sr. Deputado Narana Coissoró que o Governo português fará tudo o que estiver ao seu alcance para que os culpados sejam condenados pelos comportamentos desviantes e ilícitos praticados em território nacional.\n\nDaí que - e sem fugir à questão que o Sr. Deputado colocou -, de acordo com as regras internacionais, se vier a ser solicitado por uma autoridade judiciária o levantamento da imunidade de quem quer que seja, pertença a que Estado pertencer, por haver indícios no sentido de que há envolvimento em algum facto criminoso praticado em Portugal, o Governo português não deixará de o fazer."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 1815,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 1815,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para formular pedidos de esclarecimento, tem a palavra o Sr. Deputado Narana Coissoró."
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 1815,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Ministro, agradou-me muito ouvir o que V. Ex.ª disse. Porém, gostaria de fazer dois comentários.\n\nO Governo não andou com destreza quando foi o caso de Marrocos. Na verdade, a extradição foi pedida tarde demais. Quando a DINFO e a Polícia de Estrangeiros comunicou a suspeita, o nome e os traços daqueles presumíveis assassinos, o Chagas, o Messias e o Manuel Pinto da Costa, o Governo português não remeteu imediatamente para as fronteiras as fotografias de que dispunha a fim de impedir a fuga destes três indivíduos.\n\nA extradição foi pedida muito mais tarde, como todos nós temos conhecimento, e sabe-se também que foi sob a pressão da visita do Sr. Primeiro-Ministro, que não podia deslocar--se a Marrocos estando lá três implicados num assassinato político, que o governo marroquino cumpriu a extradição pedida por Portugal.\n\nPor outro lado, sabe-se que estes indivíduos estiveram durante alguns dias à solta no nosso país.\n\nApesar de concordarmos com o Sr. Ministro e de o felicitarmos pela resposta que deu no sentido de que tudo fará para quebrar a imunidade diplomática, a verdade é que tal não competirá a V. Ex.ª mas sim ao Governo de Maputo e se ele não a quebrar, então o Sr. Ministro poderá pedir a expulsão do diplomata.\n\nDe qualquer modo, a adopção de medidas que a própria Convenção de Viena prevê para os diplomatas será seguida e não poderemos dizer que estamos numa «república das bananas».\n\nSimplesmente, gostaria de dizer ao Sr. Ministro que só sob a pressão da informação pública é que este crime veio, com todo o seu detalhe, a público, quando, na verdade, ele poderia ter sido resolvido há muito tempo, pedindo explicações ao governo moçambicano, que primeiro as negou e agora já não as pode negar.\n\nTambém é preciso que o Governo faça alguma coisa para que pessoas das famílias dos presumíveis criminosos - como é o caso, por exemplo, da filha de Chagas, embora esteja em território estrangeiro e não seja uma cidadã portuguesa - não sofram as agruras de uma investigação criminal em Portugal.\n\nPor isso mesmo - e isto não é nenhuma pergunta mas gostaria que o Sr. Ministro desse alguma explicação sobre este assunto -, para terminar, gostaria de o felicitar pela afirmação de que o Governo não deixará de quebrar a imunidade e, no caso de ser preciso, adoptará todas as medidas necessárias para o apuramento de verdade."
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 1815,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Ministro da Presidência e da Justiça."
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 1815,
+      "speaker": {
+        "id": 1616,
+        "name": "Joaquim Fernando Nogueira",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Presidência e da Justiça",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Volto a repetir o que disse há pouco, ou seja, o Governo português, em qualquer circunstância e sempre que seja solicitado, por qualquer autoridade judiciaria, o levantamento da imunidade em relação a um cidadão de qualquer país, naturalmente que não deixará de o fazer se esse cidadão estiver fortemente indiciado de ter praticado algum facto criminoso em Portugal. Más, esse comportamento não é para este caso, mas para todos os que possam ter lugar e que tenham este enquadramento.\nr. Deputado Narana Coissoró, lamento desiludi-lo, mas asseguro-lhe de que o Governo português diligenciou, a tempo e a horas, com toda a destreza e com todo o empenho, para que este caso viesse a ter a solução que está prestes a ser encontrada pelo órgão competente, que é o tribunal.\n\nNaturalmente, não posso revelar aqui circunstâncias e factos que correspondem a outras tantas diligências do Governo português, porque os contactos estabelecidos não o foram apenas em relação à extradição. De resto, houve duas extradições: uma, em relação ao reino de Marrocos e outra em relação à França.\n\nComo sabe também, em termos tão delicados como o da extradição, diferentes países têm diferentes velocidades de decisão. Por exemplo, a extradição de Franca foi muitíssimo mais rápida do que a do reino de Marrocos.\n\nO Sr. Deputado Narana Coissoró baseia as suas afirmações no «diz-se, diz-se», em alguma coisa vem nos"
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 1816,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "«O Diabo» esteve sempre antes!"
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 1816,
+      "speaker": {
+        "id": 1616,
+        "name": "Joaquim Fernando Nogueira",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é verdade, Sr. Deputado. O senhor não tem autoridade para o afirmar, porque não conhece o processo por dentro como eu."
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 1816,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Aquilo que sabemos!"
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 1816,
+      "speaker": {
+        "id": 1616,
+        "name": "Joaquim Fernando Nogueira",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O senhor sabe por aquilo que se diz e o que se diz nem sempre, nestas circunstâncias, é aquilo que realmente é.\n\nMais: se tudo fosse como o que o Sr. Deputado reclama e exige podia acontecer que não se tivesse chegado a qualquer conclusão, que não tivéssemos chegado ao ponto da investigação a que chegámos, porque há coisas que não se dizem, sob pena de pôr em causa todo o processo de investigação que está em curso e dizê-las antecipadamente pode prejudicar definitivamente uma investigação. Por isso agimos não apenas com destreza mas também sem a leviandade que, aparentemente, o Sr. Deputado gostaria que tivéssemos tido."
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 1816,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, esgotada a nossa agenda de hoje, resta-me dizer-lhes que a próxima sessão plenária terá. lugar quinta-feira, dia 16, às IS horas, com período de antes da ordem do dia e que do período da ordem do dia constará a discussão dos Projectos de Lei n.\" 291/V e 361/V - Redução da duração semanal do trabalho normal -, apresentados, respectivamente, pelo PCP e pelo PS; às 19 horas e 30 minutos terá ainda lugar a votação, na generalidade, da Proposta de Lei n.º 84/V.\n\nEstá encerrada a sessão."
+    }
+  ]
+}

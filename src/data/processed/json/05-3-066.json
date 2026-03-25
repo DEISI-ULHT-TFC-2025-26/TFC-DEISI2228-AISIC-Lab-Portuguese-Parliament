@@ -1,0 +1,1986 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "5",
+    "legislative_session": "3",
+    "number": "66",
+    "date": "1990-04-24"
+  },
+  "debate_id": "r3_5_3_66_1990-04-24",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2240,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.\nEram 15 horas e 20 minutos.\nEstavam presentes os seguintes Srs. Deputados: \nPartido Social-Democrata (PPD/PSD):\nAbílio de Mesquita Araújo Guedes.\n\nAlberto Cerqueira de Oliveira.\n\nAlberto Monteiro de Araújo.\n\nAlexandre Azevedo Monteiro.\n\nÁlvaro Cordeiro Dâmaso.\n\nÁlvaro José Martins Viegas.\n\nAmândio dos Anjos Gomes.\n\nAmândio Santa Cruz Basto Oliveira.\n\nAntónio Abílio Costa.\n\nAntónio Augusto Lacerda Queirós.\n\nAntónio Augusto Ramos.\n\nAntónio de Carvalho Martins.\n\nAntónio Costa de A. Sousa Lara.\n\nAntónio Fernandes Ribeiro.\n\nAntónio Joaquim Correia Vairinhos.\n\nAntónio Jorge Santos Pereira.\n\nAntónio José Caeiro da Mota Veiga.\n\nAntónio José de Carvalho.\n\nAntónio Manuel Lopes Tavares.\n\nAntónio Maria Oliveira de Matos.\n\nAntónio Maria Ourique Mendes.\n\nAntónio Paulo Martins Pereira Coelho.\n\nAntónio Sérgio Barbosa de Azevedo.\n\nAntónio da Silva Bacelar.\n\nAristides Alves do Nascimento Teixeira.\n\nArlindo da Silva André Moreira.\n\nArmando de Carvalho Guerreiro da Cunha.\n\nArménio dos Santos.\n\nBelarmino Henriques Correia.\n\nCarlos Lélis da Câmara Gonçalves.\n\nCarlos Manuel Duarte Oliveira.\n\nCarlos Manuel Oliveira da Silva.\n\nCarlos Manuel Pereira Baptista.\n\nCarlos Miguel M. de Almeida Coelho.\n\nCasimiro Gomes Pereira.\n\nCecília Pita Catarino.\n\nCristóvão Guerreiro Norte.\n\nDaniel Abílio Ferreira Bastos.\n\nDinah Serrão Alhandra.\n\nDomingos Duarte Lima.\n\nDomingos da Silva e Sousa.\n\nDulcínio António Campos Rebelo.\n\nEduardo Alfredo de Carvalho P. da Silva.\n\nErcília Domingues M. P. Ribeiro da Silva.\n\nEvaristo de Almeida Guerra de Oliveira.\n\nFernando Barata Rocha.\n\nFernando Dias de Carvalho Conceição.\n\nFernando José Antunes Gomes Pereira.\n\nFernando José R. Roque Correia Afonso.\n\nFernando Manuel Alves Cardoso Ferreira.\n\nFernando Monteiro do Amaral.\n\nFernando dos Reis Condesso.\n\nFilipe Manuel Silva Abreu.\n\nFlausino José Pereira da Silva.\n\nFrancisco Antunes da Silva.\n\nFrancisco João Bernardino da Silva.\n\nFrancisco Mendes Costa.\n\nGilberto Parca Madaíl.\n\nGuido Orlando de Freitas Rodrigues.\n\nHilário Torres Azevedo Marques.\n\nJaime Gomes Mil-Homens.\n\nJoão Álvaro Poças Santos.\n\nJoão Costa da Silva.\n\nJoão Domingos F. de Abreu Salgado.\n\nJoão José Pedreira de Matos.\n\nJoão José da Silva Maçãs.\n\nJoão Maria Ferreira Teixeira.\n\nJoão Soares Pinto Montenegro.\n\nJoaquim Eduardo Gomes.\n\nJoaquim Fernandes Marques.\n\nJoaquim Vilela de í Araújo.\n\nJosé de Almeida Cesário.\n\nJosé Assunção Marques.\n\nJosé Augusto Ferreira de Campos.\n\nJosé Augusto Santos Silva Marques.\n\nJosé Francisco Amaral.\n\nJosé Guilherme Pereira Coelho dos Reis.\n\nJosé Lapa Pessoa Paiva.\n\nJosé Leite Machado.\n\nJosé Luís Bonifácio Ramos.\n\nJosé Luís de Carvalho Lalanda Ribeiro.\n\nJosé Manuel da Silva Torres.\n\nJosé Mário Lemos Damião.\n\nJosé Pereira Lopes.\n\nJosé de Vargas Bulcão.\n\nLeonardo Eugénio Ribeiro de Almeida.\n\nLuís Amadeu Barradas do Amaral.\n\nLuís António Martins.\n\nLuís Filipe Garrido Pais de Sousa.\n\nLuís Filipe Meneses Lopes.\n\nLuís Manuel Costa Geraldes.\n\nLuís Manuel Neves Rodrigues.\n\nLuís da Silva Carvalho.\n\nManuel António Sá Fernandes.\n\nManuel Augusto Pinto Barros.\n\nManuel Ferreira Martins.\n\nManuel João Vaz Freixo.\n\nManuel Joaquim Baptista Cardoso.\n\nManuel Maria Moreira.\n\nMargarida Borges de Carvalho.\n\nMaria da Conceição U. de Castro Pereira.\n\nMaria Luísa Lourenço Ferreira.\n\nMaria Manuela Aguiar Moreira.\n\nMaria Teresa Pinto Basto Gouveia.\n\nMary Patrícia Pinheiro e Lança.\n\nMário Ferreira Bastos Raposo.\n\nMário Jorge Belo Maciel.\n\nMário Júlio Montalvão Machado.\n\nMário de Oliveira Mendes dos Santos.\n\nMateus Manuel Lopes de Brito.\n\nMiguel Fernando C. de Miranda Relvas.\n\nNuno Francisco F. Delerue Alvim de Matos.\n\nNuno Miguel S. Ferreira Silvestre.\n\nPedro Augusto Cunha Pinto.\n\nPedro Domingos de S. e Holstein Campilho.\n\nReinaldo Alberto Ramos Gomes.\n\nRui Alberto Limpo Salvada.\n\nRui Carlos Alvarez Carp.\n\nRui Manuel Almeida Mendes. \n\nRui Manuel Parente Chancerelle de Machete.\n\nValdemar Cardoso Alves.\n\nVasco Francisco Aguiar Miguel.\n\nVirgílio de Oliveira Carneiro.\n\nWalter Lopes Teixeira."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 2241,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Reinaldo Gomes)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Presidente e Srs. Deputados, deram entrada na Mesa, e foram admitidos, os seguintes diplomas: projecto de lei n.º 523/V, apresentado pelo Sr. Deputado António Filipe Gaião Rodrigues e outros, do PCP, sobre o estatuto jurídico do Conselho Nacional de Juventude, que baixou à 14.ª Comissão; projecto de lei n.º 524/V, apresentado pelo Sr. Deputado Duarte Lima e outros, do PSD, que altera os artigos 1.º, 4.º e 10.º da Lei n.º 9/90, de 1 de Março - Incompatibilidades de Cargos Políticos e Altos Cargos Públicos, que baixou à 3.ª Comissão; projecto de lei n.º 525/V, apresentado pela Sr.ª Deputada Ilda Figueiredo e outros, do PCP, sobre a avaliação do impacte ambiental, que baixou à 6.ª Comissão; projecto de lei n.º 526/V, apresentado pelo Sr. Deputado José Magalhães e outros, do PCP, que aprova medidas tendentes a garantir e a incentivar o exercício do direito de petição, que baixou a 3.ª Comissão; projecto de lei n.º 527/V, apresentado pelo Sr. Deputado Marques Júnior e outro, do PRD, sobre o exercício do direito de petição, que baixou à 3.ª Comissão; proposta de lei n.º 143/V, que adita um artigo à Lei n.º 38/87, de 23 de Dezembro - Lei Orgâ-"
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 2242,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está em apreciação. \nPausa. \nComo não há objecções, vamos proceder à sua votação. \nSubmetido à votação, foi aprovado por unanimidade."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 2242,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": " Sr. Secretário",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "O parecer da Comissão de Regimentos e Mandatos à solicitação que lhe é feita pelo Tribunal da Polícia de Lisboa pára que o Sr. Deputado Fernando José Russo Roque Correia Afonso ali compareça para ser julgado é no sentido de não autorizar a suspensão do mandato do referido Sr. Deputado."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 2242,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está em apreciação.\nPausa. \nComo não há objecções, vamos proceder à sua votação. \nSubmetido à votação, foi aprovado por unanimidade."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 2242,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "O parecer da Comissão de Regimentos e Mandatos à solicitação que lhe é feita pelo Tribunal de Círculo e da Comarca de Mirandela para que o Sr. Deputado Armando António Martins Vara ali compareça para intervir como testemunha, num processo pendente naquele tribunal é no sentido de autorizar a comparência daquele Sr. Deputado."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 2242,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está em apreciação.\nPausa. \nComo não há objecções, vamos proceder à sua votação. \nSubmetido â votação, foi aprovado por unanimidade."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 2242,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Finalmente, o ofício, de S. Ex.ª o Sr. Presidente da República, que deu entrada na Mesa, é do seguinte teor: \nEstando prevista a minha deslocação a Espanha entre os dias 5 e 6 do próximo mês de Maio, para participar, a convite do reitor 'dá Universidade de Salamanca, nas Jornadas Internacionais sobre Camilo, venho dar prévio conhecimento à Assembleia da República, nos termos do artigo 132, n.º 2, da Constituição.\n\nApresento a V. Ex.ª os meus respeitosos cumprimentos."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 2242,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos dar início ao período de intervenções de interesse regional e local."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 2242,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "PS",
+        "string": "O Sr. Jorge Lacão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra para interpelar a Mesa, Sr.ª Presidente."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 2242,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 2242,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "PS",
+        "string": "O Sr. Jorge Lacão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, tendo todos nós conhecimento de que o Sr. Presidente da República enviou já à Assembleia da República uma mensagem anunciando o seu veto ao diploma que regulamenta a Alta Autoridade para a Comunicação Social, gostaria que à Mesa me informasse em que momento é intenção' do Presidente desta Assembleia apresentá-la ao Plenário:"
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 2242,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, a Mesa não pode, neste momento, dar-lhe essa informação. Espera poder responder-lhe brevemente, após as averiguações a que vai proceder. \n\nPara uma intervenção, tem a palavra o Sr. Deputado Hilário Marques."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 2242,
+      "speaker": {
+        "id": 1762,
+        "name": "Hilário Torres Azevedo Marques",
+        "party": "PSD",
+        "string": "O Sr. Hilário Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente; Srs. Deputados, o porto, de Viana do Castelo é, desde o princípio do século XVII, uma infra-estrutura fundamental para o desenvolvimento do comércio externo do País.\n\nJá no reinado de D. João I foi criada à entrada da barra uma zona franca, tendo ficado nessa altura abandonadas as estacadas de madeira que existiam junto às margens do rio Lima e que tinham até aí servido para acostagem de pequenas embarcações de pesca e de cabotagem.\n\nFoi em meados do século XV que se construiu, e que na altura se designou por Cais Novo, obra que se situava na extremidade nascente do jardim marginal, na desembocadura da rua do cais. Este cais foi já construído em pedra, tendo sido criadas linguetas perpendiculares ao eixo do rio, atingindo-se assim maior profundidade, o que permitia a acostagem de embarcações de maior calado.\n\nNa continuidade destas obras muitos, trabalhos foram desenvolvidos ao longo dos séculos XV, XVI e XVII por forma a melhorar a entrada da barra e as condições de abrigo do porto e aumentar os locais de atracação.\n\nEstes investimentos na melhoria do porto visavam manter e incrementar a prosperidade e o progresso que o comércio marítimo trazia à cidade de Viana e à região envolvente. \n\nSr.ª Presidente, Srs. Deputados, devido à prática centralizadora do governo que se verificou no fim do século XVIII, bem como à evolução dos transportes marítimos iniciada no princípio do século XIX, o porto de Viana do Castelo entrou em declínio.\n\nEm 1970, com o objectivo de promover o ordenamento regional, decidiu o governo de então incumbir a Direcção-Geral de Portos de elaborar estudos técnicos e geo-económicos que permitissem perspectivar as capacidades do estuário do rio Lima para a instalação de uma infra-estru-"
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 2244,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Jorge Lacão, Srs. Deputados: A Mesa está agora em condições de informar. que a mensagem de S. Ex.ª o Presidente da República relativa ao veto a que o Sr. Deputado se referiu, foi distribuída aos grupos parlamentares e ao Governo, encontrando-se neste momento no Gabinete do Sr. Presidente da Assembleia da República, que, quando o considerar oportuno, a fará chegar à Mesa."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 2244,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "PS",
+        "string": "O Sr. Jorge Lacão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 2244,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado Jorge Lacão pretende novamente interpelar a Mesa?"
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 2244,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "PS",
+        "string": "O Sr. Jorge Lacão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, a minha interpelação vai no seguinte sentido: Naturalmente que nos congratulamos com o facto de a distribuição da mensagem de S. Ex.ª o Presidente da República ter sido feita, através do gabinete do Sr. Presidente da Assembleia da República, aos diversos grupos parlamentares, mas isso, obviamente, não dispensa a sua leitura aqui no Plenário da Assembleia da República."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 2244,
+      "speaker": {
+        "id": 1309,
+        "name": "José Sócrates Carvalho Pinto De Sousa",
+        "party": "PS",
+        "string": "O Sr. José Sócrates (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 2244,
+      "speaker": {
+        "id": 132,
+        "name": "Eduardo Ribeiro Pereira",
+        "party": "PS",
+        "string": "O Sr. Eduardo Pereira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A mensagem é para todos."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 2244,
+      "speaker": {
+        "id": 1762,
+        "name": "Hilário Torres Azevedo Marques",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E creio que o critério da leitura da mensagem não pode ficar dependente de qualquer critério de discricionariedade da Mesa quanto à oportunidade da sua apresentação."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 2244,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 2244,
+      "speaker": {
+        "id": 1762,
+        "name": "Hilário Torres Azevedo Marques",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A oportunidade dessa apresentação é a da primeira sessão após a entrega da mensagem na Assembleia da República sob pena de se dar o caso, que, de resto, já se está a dar, de toda a gente estar a comentar a mensagem do Sr. Presidente da República e os deputados, no Plenário, ainda não terem dela conhecimento.\n\nPeço, portanto, à Mesa o favor de encetar as diligências necessárias à sua. apresentação e leitura o mais rapidamente que for possível."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 2244,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Raúl Rêgo (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Isto é uma vergonha!"
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 2244,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, dei ao Sr. Deputado Jorge Lacão e a todos os Srs. Deputados as informações de que disponho e que a Mesa procurou obter na sequência da solicitação que lhe foi feita. Julgo que a mensagem será lida, muito provavelmente hoje..."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 2244,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Raúl Rêgo (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Obrigatoriamente hoje!"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 2244,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Uma voz do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Quem diz o contrário?!..."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 2244,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Raúl Rêgo (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Na primeira sessão depois da apresentação da mensagem na Assembleia!...\n\nNeste momento aumentam os protestos entre as bancadas do PS e do PSD."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 2244,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, se não fizerem silêncio interromperei a sessão.\n\nA Mesa deu as explicações que é seu dever dar. Não está em causa se a mensagem não será lida e tão-pouco foi dito que hão é lida hoje. Como sabem, os Vice-Presidentes são substitutos do Presidente, que se encontra, desde as 15 horas, a receber o Presidente da República da Jugoslávia. Presumindo, diria que talvez o Sr. Presidente da Assembleia da República queira, ele próprio, fazer a transmissão dessa mensagem."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 2244,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "PS",
+        "string": "O Sr. Jorge Lacão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 2244,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, se é sobre esta matéria, julgo que não há mais nada a dizer porque a Mesa deu todos os esclarecimentos e até já entrou no campo das suposições.\n\nTem V. Ex.ª a palavra, mas agradeço que não retome este assunto."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 2244,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "PS",
+        "string": "O Sr. Jorge Lacão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, pretendo interpelar a Mesa. As explicações que V. Ex.ª deu ao Plenário são totalmente compreensíveis, mas, para que não subsistam quaisquer dúvidas, a minha interpelação vai no sentido de solicitar à Sr.ª Presidente e à Mesa o favor de informarem o Sr. Presidente da Assembleia da República da nossa pretensão em conhecer, o mais rapidamente possível, a mensagem do Sr. Presidente da República, ou seja, pretendemos que no exacto momento em que o Sr. Presidente da Assembleia da República possa deslocar--se ao Plenário e assumir a presidência da Mesa para dirigir os trabalhos nos seja dado conhecimento da mensagem de S. Ex.ª o Sr. Presidente da República"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 2244,
+      "speaker": {
+        "id": 548,
+        "name": "Natália De Oliveira Correia",
+        "party": "PRD",
+        "string": "A Sr.ª Natália Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 2244,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Jorge Lacão, a Mesa colheu informações e procurará neste contexto veicular tais informações, mas, de momento, sobre o assunto, nada mais há a dizer. A situação é suficientemente clara.\nPausa."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 2245,
+      "speaker": {
+        "id": 1506,
+        "name": "José Ernesto Figueira Dos Reis",
+        "party": "PS",
+        "string": "O Sr. José Reis (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Srs. Deputados: O Grupo Parlamentar do Partido Socialista levou a cabo, nos passados dias 19 e 20, as suas XIV Jornadas Parlamentares.\n\nPara o efeito escolheu a cidade de Setúbal, capital de um distrito que, pela sua importância na vida económica e social do País merece uma atenção particular do Grupo Parlamentar do Partido Socialista.\n\nA realização destas jornadas na capital do Sado sublinha o empenhamento do Partido Socialista na solução dos graves problemas sociais do distrito de Setúbal, local que queremos ver cada vez menos como exemplo de crise e cada vez mais como símbolo de recuperação e desenvolvimento."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 2245,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 2245,
+      "speaker": {
+        "id": 1506,
+        "name": "José Ernesto Figueira Dos Reis",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Falar de Setúbal, hoje, significa falar do fenómeno urbano próprio da nossa sociedade, nas suas matizes regionais e locais, e também do seu glorioso passado. Dos séculos da TV, Setúbal foi um importante centro industrial onde predominava a salga de peixe. O seu grande desenvolvimento económico e social da época de Oitocentos transforma a então vila num dos mais importantes centros comerciais e industriais do País, pelo que é elevada a cidade em 1860. Os 100 anos que se seguiram foram de um desenvolvimento imparável. No início do século XX Setúbal era uma cidade predominantemente marcada pela presença da indústria conserveira.\n\nEm 40 anos a população de Setúbal triplicou, aspecto elucidativo da forte atracção demográfica exercida pela cidade do Sado, que, em 1926, é elevada a capital do distrito.\n\nA península, que, pela sua localização e recurso endógeno, teve um importante papel histórico, iniciou na segunda metade dos anos 70 a sua fase crítica, que se acentuou na década de 80 com a falência do modelo económico iniciado no primeiro quartel deste século com o complexo CUF, no Barreiro, baseado num número reduzido de grandes unidades que, em simultâneo, entraram em crise: a construção e reparação naval, a química de base, a metalomecânica pesada e siderurgia são exemplos de onde resultou a crise de todos conhecida, criando graves roturas sociais.\n\nO Governo de então reagiu e, como primeira medida, surgiu o chamado Plano de Emergência. Um longo e doloroso caminho foi então percorrido, caminho esse onde o Partido Socialista e os seus militantes setubalenses, dia a dia, enfrentavam nas fábricas e oficinas, de cabeça erguida, afrontas de toda a ordem, sem nunca perder a esperança.\n\nValeu a pena! Os socialistas tinham razão! A nossa esperança tinha por base as suas gentes, mas também as potencialidades de que a região dispõe. Elas são bastante significativas: uma localização excepcional, tanto no contexto nacional como internacional; condições para uma diversificação industrial; potencial agrícola a desenvolver, atractivos turísticos de grande qualidade e diversidade.\n\nO Governo toma, então, uma solução mais sólida. Surge como resposta a OID, com o papel fundamental de fazer o diagnóstico, integrar as políticas e avaliar resultados.\n\nRenova-se a esperança, mas não podemos calar os receios.\n\nSabemos da continuação de bolsas de pobreza que são a nossa vergonha. Sabemos da marginalidade que contínua a crescer. Sabemos do elevado número de desempregados que, por se encontrarem com mais de 40 anos, não vêem a solução chegar. Sabemos da situação do trabalho infantil, que, apesarada legislação por nós aqui aprovada, contínua a ser explorado por empreiteiros sem escrúpulos. Sabemos das condições de vida dos nossos reformados e pensionistas, que foram agravadas pela derrapagem da inflação. Sabemos as condições de habitação de um número significativo de cidadãos setubalenses.\n\nSr.ª Presidente, Srs. Deputados, no plano das acções sociais, é necessário reduzir, ao mínimo, os sectores populacionais que fiquem à margem do desenvolvimento económico e garantir as condições para um enquadramento social dos grupos de risco marginalizados da actividade produtiva, numa perspectiva de condições de vida mínimas numa sociedade moderna.\n\nO Grupo Parlamentar do Partido Socialista irá propor a adopção de um programa de emergência, prevendo, designadamente, a revisão do método de cálculo das pensões e garantia da indexação das pensões mínimas ao salário mínimo nacional; alargamento a todos os pensionistas do pagamento do 14.º mês; acesso gratuito a medicamentos para idosos em situação particularmente difícil; regulamentação e fiscalização eficaz do funcionamento dos lares da terceira idade; levantamento de restrições à utilização do passe social para idosos."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 2245,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "PS",
+        "string": "O Sr. Jorge Lacão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 2245,
+      "speaker": {
+        "id": 1506,
+        "name": "José Ernesto Figueira Dos Reis",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os nossos receios devem-se também à urgência que há na tomada de decisões importantes e determinantes para o futuro do distrito no que respeita a infra-estruturas, como a modernização do Porto de Setúbal e da rede viária intermunicipal, a definição urgente da segunda ponte sobre o Tejo, inserida no plano de desenvolvimento da rede ferroviária, e que são, de entre outras decisões, as que urge tomar.\n\nSr.ª Presidente, Srs. Deputados: Perante a situação decorrente das várias acções intervenientes no distrito de Setúbal para a sua recuperação económica e social, o Partido Socialista estará atento politicamente e exercerá a sua força parlamentar, a sua influência e crédito na sociedade portuguesa, como alternativa governamental, para com iniciativas parlamentares como esta, que agora realizou, para levar por diante o relançamento do distrito de Setúbal."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 2245,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Cardoso Ferreira."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 2245,
+      "speaker": {
+        "id": 94,
+        "name": "Fernando Manuel Alves Cardoso Ferreira",
+        "party": "PSD",
+        "string": "O Sr. Cardoso Ferreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado José Reis, em boa hora o senhor trouxe para aqui problemas"
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 2246,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 2246,
+      "speaker": {
+        "id": 94,
+        "name": "Fernando Manuel Alves Cardoso Ferreira",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não teve agora, nem teve anteriormente quando foi Governo, pelo que não pode vir associar-se a um desenvolvimento para o qual não contribuiu e, principalmente, a um desenvolvimento que surge após uma crise, essa sim, para que contribuiu, significativamente, pela apatia e pelo desinteresse em relação à zona."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 2246,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o desejar, tem a palavra o Sr. Deputado José Reis."
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 2246,
+      "speaker": {
+        "id": 1506,
+        "name": "José Ernesto Figueira Dos Reis",
+        "party": "PS",
+        "string": "O Sr. José Reis (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Cardoso Ferreira, agradeço-lhe por me dar azo a que acrescente algo mais à minha intervenção de há pouco.\n\nDe facto, tive a sensação de que o Sr. Deputado, da forma calorosa como falou, ainda não esqueceu a profunda derrota que o seu partido sofreu em Setúbal, aquando das eleições autárquicas, designadamente para a Câmara de Setúbal."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 2246,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 2246,
+      "speaker": {
+        "id": 1506,
+        "name": "José Ernesto Figueira Dos Reis",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E isso é a resposta da população setubalense a todas as críticas que o Sr. Deputado acaba de dirigir ao Partido Socialista."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 2246,
+      "speaker": {
+        "id": 1309,
+        "name": "José Sócrates Carvalho Pinto De Sousa",
+        "party": "PS",
+        "string": "O Sr. José Sócrates (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 2246,
+      "speaker": {
+        "id": 1506,
+        "name": "José Ernesto Figueira Dos Reis",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Devo também dizer-lhe que o problema não está na OID, pois, a esse nível, as questões já estuo resolvidas. Como o Sr. Deputado sabe, a OID existe há seis meses, mas, se calhar, se não tivesse sido a intervenção de um Governo que pôs em prática o Plano de Emergência - como bem deve estar recordado -, os problemas graves que se depararam à população de Setúbal ainda hoje existiam.\n\nAssim, suponho que o Sr. Deputado terá de ultrapassar o problema resultante das eleições autárquicas. Já são águas passadas, melhores dias virão e, em meu entender, não tem razões para levantar essas questões, uma vez que, como sabe, o Partido Socialista esteve sempre à frente das grandes soluções no que respeita ao distrito de Setúbal."
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 2246,
+      "speaker": {
+        "id": 1620,
+        "name": "Filipe Manuel Da Silva Abreu",
+        "party": "PSD",
+        "string": "O Sr. Filipe Abreu (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nós sabemos que melhores dias virão!"
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 2246,
+      "speaker": {
+        "id": 94,
+        "name": "Fernando Manuel Alves Cardoso Ferreira",
+        "party": "PSD",
+        "string": "O Sr. Cardoso Ferreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr.ª Presidente."
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 2246,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 2246,
+      "speaker": {
+        "id": 94,
+        "name": "Fernando Manuel Alves Cardoso Ferreira",
+        "party": "PSD",
+        "string": "O Sr. Cardoso Ferreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para uma breve defesa da honra. Sr.ª Presidente."
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 2246,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Se se sente ofendido na sua honra; tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 2246,
+      "speaker": {
+        "id": 94,
+        "name": "Fernando Manuel Alves Cardoso Ferreira",
+        "party": "PSD",
+        "string": "O Sr. Cardoso Ferreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado José Reis, V. Ex.ª não quis entender o sentido das minhas palavras e confundiu - como, aliás, o PS confunde - o Plano de Emergência com a Operação Integrada de Desenvolvimento, que são coisas totalmente diferentes. Aquilo que foi um programa para resolver questões agudas de pobreza e de carência não tem nada a ver com um programa de 110 milhões de contos que foi obtido pela mão deste Governo para promover as infra-estruturas necessárias para o distrito de Setúbal para acompanhar o desenvolvimento.\n\nÉ grave essa confusão, mas não deixa de ser natural, já que os senhores pensam na base do subsídio e nós pensamos na base do investimento.\n\nQuero também dizer-lhe que, em relação às eleições autárquicas, eu estava a falar do distrito e o Sr. Deputado estava a falar do concelho de Setúbal. Aliás, estranho muito a sua intervenção, porque o actual presidente da Câmara apresentou-se sempre como independente, não lendo nada a ver com o PS e disse à cidade que se tratava de uma questão completamente descomprometida; nem queria ouvir falar do PS, principalmente porque estávamos a 20 minutos de Lisboa, onde as coisas eram bastante diferentes. Provavelmente, hoje, o Sr. Secretário-Geral acabou de ir a Setúbal explicar-lhe que ele tem de retomar o bom caminho e lembrar-se novamente que é militante do PS."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 2246,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para dar explicações, se assim o desejar, tem a palavra o Sr. Deputado José Reis."
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 2246,
+      "speaker": {
+        "id": 1506,
+        "name": "José Ernesto Figueira Dos Reis",
+        "party": "PS",
+        "string": "O Sr. José Reis (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, não quis ofendê-lo, e suponho que não utilizou essa figura porque eu o tivesse ofendido. Estranho muito que se tenha ofendido por ter perdido as eleições autárquicas - o que, de facto, é uma realidade - mas, aí, foi o voto do povo e não há nada a fazer!\n\nDe qualquer das formas, o Sr. Deputado sabe perfeitamente que não confundi o Plano de Emergência com a Operação Integrada de Desenvolvimento (OID), que tem o seu programa aprovado há apenas seis meses. Não foi, portanto, a OID que resolveu os problemas do distrito de Setúbal."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 2246,
+      "speaker": {
+        "id": 94,
+        "name": "Fernando Manuel Alves Cardoso Ferreira",
+        "party": "PSD",
+        "string": "O Sr. Cardoso Ferreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não era para resolver!"
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 2247,
+      "speaker": {
+        "id": 1506,
+        "name": "José Ernesto Figueira Dos Reis",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ainda não resolveu!\n\nNa minha intervenção, não fiz um quadro negro do distrito de Setúbal, como bem reparou. E não tem nada a ver a questão das jornadas parlamentares serem em Setúbal com o facto de eu entender que se tratou de uma «mãozinha» do Secretário-Geral ao presidente da Câmara. \nO Sr. Deputado fez para aí uma amálgama de coisas, quando umas coisas não têm nada a ver com as outras! Amanhã, se quiser, trago um prospecto da campanha para V. Ex.ª verificar que o presidente da Câmara concorreu com o símbolo do PS, porque se tratava de uma candidatura do PS. Agora, também me parece que V. Ex.ª se encontra entre aqueles sociais-democratas que tiveram muita pena que o seu partido tenha, à última da hora, rasgado o acordo com o PS, porque também podiam ter ganho as eleições, estando englobados nesta grande vitória em Setúbal. Mas, como não quiseram e o seu partido rasgou o acordo, paciência... é outra frustração!"
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 2247,
+      "speaker": {
+        "id": 94,
+        "name": "Fernando Manuel Alves Cardoso Ferreira",
+        "party": "PSD",
+        "string": "O Sr. Cardoso Ferreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso não é verdade!"
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 2247,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, acaba de chegar à Mesa a mensagem de S. Ex.ª o Presidente da República, que vou passar a ler:\nSr. Presidente da Assembleia da República: Excelência:\nNo exercício das competências que são atribuídas ao Presidente da República pelo artigo 139.º, n.º 1, da Constituição, devolvo para nova apreciação da Assembleia da República o Decreto n.º 241/V, sobre atribuições, competências, organização e funcionamento da Alta Autoridade para a Comunicação Social, relativamente ao qual decidi exercer o direito de veto, pelas razões que passo a expor.\n\nO decreto em apreço versa matéria da maior importância para o Estado de direito democrático, uma vez que tem implicações no exercício de direitos e liberdades fundamentais, como a liberdade de expressão e informação ou a liberdade de imprensa e meios de comunicação social. Nesse sentido, a criação da Alta Autoridade para a Comunicação Social deve obedecer a critérios inequívocos de independência e de respeito pelos direitos e liberdades fundamentais.\n\nÉ certo que a nova entidade resulta da última revisão constitucional e do acordo político entre os dois maiores partidos que lhe esteve subjacente, lendo o artigo 39.º da lei fundamental passado a definir com algum pormenor a configuração, os poderes e a competência da Alta Autoridade. Foi, todavia, conferida à Assembleia da República a possibilidade de proceder, no decreto ora aprovado, ao reforço das garantias de independência da Alia Autoridade, o que a meu ver não sucedeu.\n\nCom efeito, a Assembleia da República ficou aquém daquilo até onde poderia ter ido, no uso dos seus poderes, com vista a ultrapassar algumas dúvidas legitimamente suscitadas pelo novo texto constitucional.\n\nNão posso, deste modo, deixar de manifestar que existe uma acentuação do predomínio tendencial das maiorias parlamentares e dos governos, quaisquer que sejam, na composição da Alta Autoridade. Isso torna-se patente pela adopção do método de cooptação dos quatro elementos representativos da opinião pública, da comunicação social e da cultura. Penso que outras soluções poderão atenuar o referido predomínio; soluções que dariam maior consistência e autoridade moral ao orgão criado e que poderiam introduzir critérios objectivos capazes de minorar os riscos de discricionariedade na sua acção.\n\nImporta não esquecer que as competências da Alta Autoridade abrangem domínios sensíveis, como a apreciação das condições de acesso aos direitos de antena, de resposta e de réplica política, a emissão de parecer prévio à decisão de licenciamento de canais privados de televisão e a apreciação das candidaturas à atribuição de alvarás para o exercício da actividade de radiodifusão.\n\nAcresce que a extinção do Conselho de Imprensa, cuja acção desenvolvida foi muito meritória e cuja independência ficou bem patente no modo probo e isento como exerceu as suas funções, suscita dúvidas pela possibilidade que abre de criação de um certo vazio no tocante à apreciação das matérias de deontologia profissional ou conexas com elas. E, salvo melhor opinião, a extinção deste órgão não resulta directamente do novo preceito constitucional.\n\nUm outro aspecto merece-me ainda referência. Trata-se da eliminação, agora operada, do voto favorável dos conselhos de redacção na designação dos directores de publicações periódicas.\n\nTal pode constituir uma limitação dos direitos participativos dos jornalistas, o que me parece conter inconvenientes, representando, de algum modo, uma regressão numa matéria em que justamente o 25 de Abril nos havia posto em situação de vanguarda.\n\nApesar de se estar perante matéria que permite confirmação pela Assembleia da República por maioria absoluta dos deputados em efectividade de funções, nos termos do artigo 139.º, n.º 2, da lei fundamental, entendi devolver o diploma para dar oportunidade ao Parlamento de reflectir de novo sobre a matéria em apreço, ponderando as dúvidas que serviram, de fundamento à posição que ora assumo. Trata-se de matéria suficientemente importante e de evidente melindre para a vida democrática para merecer a reapreciação que solicito, tanto mais que o decreto em apreço suscitou, por parte dos profissionais de comunicação social, uma generalizada apreciação crítica.\n\nApresento a V. Ex.ª os meus respeitosos cumprimentos de muita consideração e estima.\nLisboa, 23 de Abril de 1990. - O Presidente da República, Mário Soares."
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 2247,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "PS",
+        "string": "O Sr. Jorge Lacão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 2247,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, vou dar-lhe a palavra para interpelar a Mesa, mas espero que não seja sobre o assunto relativo ao conteúdo da mensagem, uma vez que não se trata de assunto a discutir na ordem do dia de hoje.\n\nTem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 2248,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "PS",
+        "string": "O Sr. Jorge Lacão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, nos termos do Regimento, incumbe ao Presidente da Assembleia da República velar pelo cumprimento do Regimento e das deliberações da Assembleia. \n\nA Assembleia deliberou recentemente, na sequência da apreciação, na generalidade, de um projecto de lei do PS e de uma proposta de, lei sobre a abertura da televisão à iniciativa privada, a - baixa dos referidos diplomas à Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias para a apreciação e votação na especialidade.\n\nNa sequência do veto do Sr. Presidente da República sobre o diploma da Alta Autoridade, alguma comunicação social, em particular a televisão, anunciavam ontem que a apreciação deste veto iria implicar um atraso em matéria de abertura da televisão à iniciativa privada.\n\nSucede, Sr.ª Presidente, que, mau grado as diligências feitas pelo Grupo Parlamentar Socialista até ao momento,..."
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 2248,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Isto é uma intervenção, Sr.ª Presidente!"
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 2248,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... o grupo parlamentar da maioria entendeu não começar ainda, na Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, a apreciação na especialidade do diploma relativo à abertura da televisão à iniciativa privada.\n\nNeste sentido interpelo a Mesa e a Sr.ª Presidente em particular para, nos termos do Regimento, assegurar o seu cumprimento, ou seja, criar condições junto do grupo parlamentar da maioria para que inicie os trabalhos no mais curto prazo de apreciação do diploma relativo à abertura da televisão à iniciativa privada para que a Assembleia da República possa cumprir as obrigações que para si própria contraiu."
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 2248,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a Mesa mantém o que disse, o Regimento será cumprido como é devido e, em relação a este assunto, não há quaisquer outros esclarecimentos a dar."
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 2248,
+      "speaker": {
+        "id": 94,
+        "name": "Fernando Manuel Alves Cardoso Ferreira",
+        "party": "PSD",
+        "string": "O Sr. Cardoso Ferreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr.ª Presidente."
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 2248,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito?"
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 2248,
+      "speaker": {
+        "id": 94,
+        "name": "Fernando Manuel Alves Cardoso Ferreira",
+        "party": "PSD",
+        "string": "O Sr. Cardoso Ferreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 2248,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Se é sobre o mesmo assunto, solicito que não faça qualquer intervenção. Tem a palavra."
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 2248,
+      "speaker": {
+        "id": 94,
+        "name": "Fernando Manuel Alves Cardoso Ferreira",
+        "party": "PSD",
+        "string": "O Sr. Cardoso Ferreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, de facto a minha interpelação é no mesmo sentido, embora, como V. Ex.ª muito bem disse, esta matéria não seja susceptível de discussão.\n\nO Regimento prevê claramente esta situação, como foi anunciado por V. Ex.ª, e portanto todo o processo decorrerá do artigo 164.º\n\nNão queremos utilizar esta figura regimental para uma intervenção sobre esta matéria, tal como fez o Sr. Deputado Jorge Lacão, e não o devia ter feito. Contudo, salvo o devido respeito, queremos dizer que a Mesa fez um aviso nesse sentido mas devia ter cortado a palavra no momento em que se apercebeu de que o Sr. Deputado estava a utilizar, indevidamente, a figura regimental da interpelação para tentar antecipar um debate que o Regimento prevê e que oportunamente será efectuado."
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 2248,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 2248,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Cardoso Ferreira, a Mesa tem às vezes gestos de condescendência que não são entendidos nem por uns nem por outros. Diz o povo «ossos do ofício»..\n\nPara uma intervenção, tem a palavra o Sr. Deputado Luís Roque."
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 2248,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Luís Roque (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Presidente, Srs. Deputados: O distrito de Portalegre absorve, em termos de PIDDAC, 0,7% e tem 143 000 habitantes, dos quais 45 000 são reformados, segundo dados oficiais do CRSS.\n\nÉ portanto um distrito em desertificação e que tem como agravante um dos mais altos índices de desemprego, que ronda os 17 %.\n\nDaí, ter nascido o PIDR/NA (Plano Integrado de Desenvolvimento Regional do Norte Alentejano), que mais tarde se transformou na OID/NA (Operação Integrada de Desenvolvimento do Norte Alentejano).\n\nA OID foi um nascituro que teve direito a televisão, cerimónia oficial com pompa e circunstância e declarações bombásticas do Ministro do Planeamento, como um bom exemplo do que se deveria fazer a nível do País. Mas a verdade é que a criança tinha sido mal parida, pois qual humanóide tinha o corpo em Portalegre e a cabeça em Évora. \n\nFoi e está a ser um acto falhado, e é bom vermos porquê.\n\nAssim, em relação às prioridades, por espantoso que pareça, num distrito de vocação agrícola esta componente aparece em 6.º lugar nas prioridades definidas na OID, o que não dá para entender.\n\nComo primeira prioridade aparece a valorização e aproveitamento do potencial turístico, com 4 250 000 contos, enquanto o desenvolvimento industrial surge com uns modestos 646000 contos. Isto é, privilegia-se o sector terciário em detrimento do sector primário, o que em termos de desenvolvimento não se compreende.\n\nNão quer dizer isto que, contudo, o PCP esteja contra a OID, antes pelo contrário, está simplesmente contra a maneira como está a ser implementada.\n\nÉ que desta maneira o bebé arrisca-se a ser nado-morto.\n\nVeja-se que o nível de execução da OID se situa em 7 %, segundo declarações recentes da Sr.ª Secretária de Estado do Planeamento e do Desenvolvimento Regional. E para isso contribuíram vários factores, como, por exemplo, o gabinete coordenador da OID do Norte Alentejano estar situado - pasme-se! - em Évora.\n\nPor outro lado, a OID não integra vários projectos fundamentais para o desenvolvimento do distrito, como a barragem do Pisão, a exploração do urânio de Nisa, a agro-indústria, etc.\n\nEm contraste, por falta de projectos, a rede viária «engorda» a OID, em termos orçamentais, à custa do plano a médio prazo da JAE (Junta Autónoma das Estradas), que foi transferido do Orçamento do Estado para a OID."
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 2249,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado António Vairinhos."
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 2249,
+      "speaker": {
+        "id": 1582,
+        "name": "António Joaquim Correia Vairinhos",
+        "party": "PSD",
+        "string": "O Sr. António Vairinhos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr.ªs e Srs. Deputados: O início da década de 80 foi marcado pela necessidade de se encontrarem instrumentos de política regional que contribuíssem eficazmente para o desenvolvimento equilibrado e harmonioso das diferentes regiões do País.\n\nO ordenamento do território foi finalmente reconhecido como um instrumento privilegiado de desenvolvimento.\n\nDentro deste contexto, surge, então, o quadro legislativo dos planos directores municipais e dos planos regionais de ordenamento do território. Estavam lançadas as primeiras pedras para a construção de modelos de gestão do território susceptíveis de garantirem a perenidade dos nossos recursos naturais e a preservação do meio ambiente.\n\nVolvida uma década, verificamos que o planeamento físico tem sido pouco acarinhado em Portugal.\n\nDe norte a sul do País, principalmente na sua faixa litoral, tom vindo a ser cometidos erros irreparáveis na ocupação dos solos.\n\nE do conhecimento público o desrespeito pelas reservas agrícola e ecológica em prol de um crescimento desenfreado e anárquico da construção, a que alguns teimam em apelidar de desenvolvimento urbanístico. Só que os conceitos de crescimento e desenvolvimento não são sinónimos! Serão complementares se o crescimento for harmonioso, equilibrado e integrado. Serão contraditórios se ao crescimento presidir a anarquia e o improviso.\n\nQuem não se recorda das situações de pré-rotura que se verificaram em certos pontos do País por insuficiência de saneamento básico e abastecimento de água, originadas por uma certa incapacidade em programar e gerir a expansão urbanística.\n\nApesar das pressões da construção civil, na maioria dos casos associada ao crescimento da actividade turística, o recurso ao planeamento na ocupação dos solos foi trocado pelo poder arbitrário de aprovar ou reprovar, aleatoriamente, projectos de urbanização.\n\nSr.ª Presidente, Srs. Deputados: Uma das regiões que sofreu mais intensamente as pressões urbanísticas sobre o seu território foi sem sombra de dúvida, o Algarve.\n\nAs potencialidades naturais da sua faixa litoral, principalmente para o incremento da actividade turística, começaram a ser exploradas desde o início da década de 60.\n\nAs condições climatéricas excepcionais e a beleza das suas praias fizeram do Algarve um destino privilegiado das principais correntes turísticas europeias.\n\nA ausência de objectivos específicos para o sector do turismo e de uma correcta política de ordenamento do território originaram um crescimento, de certa forma, anárquico da construção civil em algumas zonas do litoral.\n\nDe uma situação de procura excedentária passou-se a uma oferta excessiva e desequilibrada de infra-estruturas hoteleiras e para-hoteleiras, cujas consequências são hoje evidentes.\n\nFelizmente que esta situação não se alastrou ao todo regional, mas apenas se circunscreve a alguns pólos perfeitamente identificados.\n\nEra urgente e imprescindível meter um travão nesta tendência, que, a manter-se, comprometia seriamente o futuro da região.\n\nAs preocupações manifestadas pelo Governo do PSD em matéria de ordenamento, nomeadamente na revisão da"
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 2250,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Lemos Damião."
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 2250,
+      "speaker": {
+        "id": 757,
+        "name": "José Mário De Lemos Damião",
+        "party": "PSD",
+        "string": "O Sr. Lemos Damião (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Srs. Deputados: O grande drama do ensino em Portugal passa pela falta de motivação que os professores sentem quanto ao desempenho da sua tarefa."
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 2250,
+      "speaker": {
+        "id": 1309,
+        "name": "José Sócrates Carvalho Pinto De Sousa",
+        "party": "PS",
+        "string": "O Sr. José Sócrates(PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não me diga!..."
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 2250,
+      "speaker": {
+        "id": 757,
+        "name": "José Mário De Lemos Damião",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Lembremo-nos de que a docência já foi uma missão, passou depois a ser uma profissão e é hoje, cada vez mais uma mera tarefa.\n\nPorque é assim, os professores actuais olham para a escola com um sentimento de rejeição permanente, afastando-se, em termos de realização pessoal, cada vez mais do «gosto» de ser professor. \n\nAo observarmos de perto esta realidade e procurando saber nos serviços do Estado quantos eram os candidatos a professor, fomos surpreendidos com esta percentagem: apenas 10% dos candidatos a professor colocam em primeiro lugar esta opção.\n\nVerdade também se diga que dos 250 candidatos inquiridos sobre a razão, por que não escolhiam, ser professor nos disseram não haver área vocacional vectoriada para tal em todo o ensino secundário. \n\nSe aplicarmos estes 10% dos vocacionados para a docência aos 120 000 professores que leccionam neste país teremos apenas 12 000 professores que querem e gostam de ser professores, contra os restantes 108 000 que o são mas que não gostam de o ser."
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 2252,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveram-se para pedir esclarecimentos os Srs. Deputados Barbosa da Costa e António Barreio.\nTem a palavra o Sr. Deputado Barbosa da Costa."
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 2252,
+      "speaker": {
+        "id": 81,
+        "name": "Francisco Barbosa Da Costa",
+        "party": "PRD",
+        "string": "O Sr. Barbosa da Costa (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Srs. Deputados: Sr. Deputado Lemos Damião, congratulo-me pela forma como V. Ex.ª colocou a questão da escola portuguesa, sobretudo a conexão que essa situação tem com a situação dos professores, com a autoridade que lhe dá o facto de ser presidente de uma associação de professores do ensino básico.\n\nCreio que concordará comigo quando eu disser que, de facto, o ensino em Portugal ou o processo do ensino/aprendizagem modificar-se-á certamente se for dado um tratamento diferente aos professores.\n\nOs professores são os agentes privilegiados do processo e se houver professores desmotivados; se não houver condições para a sua reciclagem; se houver professores deslocados para locais onde não há o mínimo de condições de sobrevivência; se houver professores tratados de forma desumana; se assim acontecer certamente que ao chegarem à escola não têm condições de transmitir o entusiasmo, o é lati necessário à aprendizagem que se pretende para o nosso País. Creio que 6 por aí que deve começar-se, para, de uma vez por todas, se acabar com esta múltipla desculpabilização que a nada conduz.\n\nÉ necessário que sejam devolvidas aos professores as condições a que têm direito; é necessário que seja devolvida aos professores uma situação não de privilégio, que eles recusam, mas uma situação consentânea com o papel que têm na sociedade portuguesa.\n\nQuero ainda fazer coro com V. Ex.ª para que, de facto, o Governo, ou seja, a maioria de que o senhor faz parte, apoie e dê atenção a esta situação e que, pelo menos, os professores deslocados tenham condições semelhantes às dos magistrados, dos militares e de outros agentes da Administração Pública, que têm condições de privilégio em relação aos professores.\n\nSe isso for realizado, se houver escolas devidamente preparadas e se, pelo menos, não houver «armazéns de alunos» certamente a escola portuguesa será diferente!"
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 2252,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Lemos Damião, havendo mais um orador inscrito para pedir esclarecimentos, V. Ex.ª deseja responder já ou no final?"
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 2252,
+      "speaker": {
+        "id": 757,
+        "name": "José Mário De Lemos Damião",
+        "party": "PSD",
+        "string": "O Sr. Lemos Damião (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "No final, Sr.ª Presidente."
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 2252,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Então, tem a palavra o Sr. Deputado António Barreto."
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 2252,
+      "speaker": {
+        "id": 44,
+        "name": "António Miguel Morais Barreto",
+        "party": "PS",
+        "string": "O Sr. António Barreto (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Lemos Damião, vou começar exactamente pela pergunta que quero fazer-lhe - normalmente é no fim que se faz... E o que eu gostaria de saber, para meu próprio governo, é se devo considerar que a intervenção que acabou de fazer reflecte exclusivamente a sua opinião pessoal ou se traduz a posição política do seu grupo parlamentar.\n\nMas, qualquer que seja a resposta que o Sr. Deputado dê, quero felicitá-lo pela sua intervenção e dizer-lhe que subscrevo grande pane daquilo que o Sr. Deputado disse, naquilo que é importante e não nalgumas alusões circunstanciais que fez.\n\nO Sr. Deputado desancou no Ministério da Educação- desancou é o termo exacto e apropriado - e criticou-o nalgumas das coisas que nós próprios temos vindo a criticar, introduzindo até algumas novidades da sua lavra.\n\nV. Ex.ª disse que a grande «dama» da educação em Portugal é a falta de motivação dos professores, que não existe, hoje, e que não foi despertada durante os últimos três anos, mas, pelo contrário, foi frustrada; fez uma crítica contundente à acção do Ministério da Educação, à sua política, ao seu método de trabalho e disse que tudo isto falhava, isto é, o método de criação de comissões de pin-ups e de stars, comissões com «grandes personalidades» que não percebem o que se passa na acção e na vida real das escolas e dos professores. \nO Sr. Deputado disse ainda que o Ministério da Educação não ouvia nem falava com os professores, nem percebia que o elemento fundamental de uma reforma educativa são os professores...\n\nSr. Deputado Lemos Damião, parabéns!\n\nMas eu gostava de saber, como lhe disse no início, se essa foi a sua opinião ou se traduz politicamente a opinião do grupo parlamentar.\n\nSe a resposta for relativa à primeira questão, felicito-o uma vez mais e felicito-o pela sua coragem individual; se a resposta for relativa à segunda questão, isto é, se aquilo que disse foi como coordenador do sector da educação do Grupo Parlamentar do PSD, devo dizer-lhe que acabou de passar-se, hoje, um fenómeno importante na vida política portuguesa, ou seja, o Grupo Parlamentar do PSD passou à oposição.\n\nAliás, isso é algo que, no passado, já aconteceu... Já estamos habituados a que o Grupo Parlamentar do PSD,"
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 2253,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o desejar, tem a palavra o Sr. Deputado Lemos Damião."
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 2253,
+      "speaker": {
+        "id": 757,
+        "name": "José Mário De Lemos Damião",
+        "party": "PSD",
+        "string": "O Sr. Lemos Damião (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Quando dois ilustres deputados da oposição me questionam da maneira como o fazem, isso é motivo de satisfação para mim, na medida em que é sinal de que a minha intervenção provocou, pelo menos, a atenção dos Srs. Deputados - a quem agradeço - e que, fundamentalmente, nos deu a possibilidade de, nesta Câmara, podermos reflectir sobre aquilo que reputamos de essencial.\n\nEstamos cansados de ouvir falar em educação e o que é certo é que também a própria educação, quando é debatida aqui, no hemiciclo, não é objecto de grande centro de interesse da parte dos Srs. Deputados - basta olharmos para estas bancadas para vermos que efectivamente tal acontece-, como se a educação só dissesse respeito aos membros da Comissão de Educação, Ciência e Cultura ou àqueles que, porventura, fazem da profissão de professor uma verdadeira profissão que, como disse na minha intervenção, já foi, de facto, uma missão e hoje é quase um passar o tempo que não conduz a nada a não ser à frustração.\n\nQuando falamos destes temas, que nos são muito caros, porque os vivemos intensamente, estamos pouco preocupados se falamos em nome de alguém ou se em nosso próprio nome. Não posso dizer, Sr. Deputado António Barreto - e agradeço muito as suas questões-, que falo noutra qualidade que não seja a de deputado Lemos Damião. Faço e assumo por inteiro essa responsabilidade, porque parece-me que são levantadas questões com desassombro e, efectivamente, podemos fazer alguma coisa pela educação no nosso país.\n\nEntendo que é fundamental que se diga que a educação é a prioridade das prioridades, mas é essencial que essa prioridade das prioridades seja materializada no terreno, motivando os professores, fazendo os alunos felizes e os pais contentes. Mas nem sempre isto acontece!\n\nQuando diz que a responsabilidade é deste ou de outro Governo, digo-lhe que a responsabilidade é de todos, mesmo daqueles que não sendo governo também tom responsabilidades governativas, porque, como sabe, hoje, o novo conceito de educação não se circunscreve, única e exclusivamente, aos professores e aos alunos mas, sim, a todos aqueles que queiram dar pelo nome de agentes educativos. E agente educativo é todo aquele que, de alguma maneira, interfere no processo educativo nacional.\n\nDiz-me a certa altura, e muito bem, que o despertar das motivações é velho. Pois é! Mas a motivação última é sempre a melhor.\n\nGostaria, pois, que, por um lado, a minha mensagem fosse transmitida aos professores, dizendo-lhes que é preciso serem mais responsáveis e melhores professores, e, por outro lado, aos governantes, dizendo-lhes que é preciso olhar para os professores com carinho, porque é deles que depende o futuro de Portugal, pois sem bons professores não há boa escola; sem bons professores não há bons cidadãos, sem os quais não teremos uma pátria diferente daquela que, efectivamente, hoje temos. E se queremos ter uma pátria que se orgulhe de ser europeia, em plena igualdade de circunstâncias com os outros países da Comunidade, temos de começar pela escola, pois se assim não for não vamos lá!\n\nPor outro lado, tem também que reconhecer que nós, deputados, estejamos na bancada do Governo ou na da oposição, temos consciência de que há sempre uma distância muito grande entre quem governa e quem é governado. As concepções são diferentes, até porque os governantes por vezes têm grandes dificuldades; apesar de terem por vezes algumas ideias brilhantes, é muito difícil passar da teoria à prática.\n\nPor isso mesmo, é melhor, por vezes, ser até menos ambicioso, mas mais realista. O que quero é que haja realismo na escola portuguesa e na política educativa portuguesa e que haja para Portugal e para os Portugueses a educação a que temos direito.\nApesar de tudo, Sr. Deputado, nós não passamos à oposição. Somos sempre aquilo que somos e é por isso que assumimos aqui por inteiro o nosso papel de responsáveis pelo governo de Portugal. Estamos efectivamente solidários, mas isso não nos impede de, em circunstância alguma, dizer: «Parem aí, vamos reflectir! Sejamos menos ambiciosos e mais realistas, porque não é contra os professores que pode sobreviver qualquer política educativa.» Os professores tem de ser tratados com o estatuto que merecem... Não podemos adiar mais a saída do estatuto, mas é preciso que, quando sair, ele saia com dignidade e não com a dignidade frustrante que porventura lhe adivinhamos."
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 2253,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 2254,
+      "speaker": {
+        "id": 757,
+        "name": "José Mário De Lemos Damião",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quando nos fala do relatório para o ano 2000, dir-lhe-ei que, se esta data é de facto um marco histórico e reflecte um trabalho profundo de alguém que cientificamente tem conhecimentos, já nos damos por satisfeitos pelo facto de o relatório existir. Mas não queremos ficar apenas com a satisfação de se ter encomendado um relatório. Queremos ficar com a certeza de que o relatório, ao existir, é para ser objecto de trabalho, de estudo, de reflexão, para que, dentro das possibilidades do País no campo material e do Orçamento do Estado, possamos transformar aquilo que foi um levantamento científico, uma investigação, naquilo que queremos para a educação.\n\nO PRODEP tem de caminhar, tem de ser uma realidade, porque, enquanto não o for, todas as vozes, vindas de todos os quadrantes e atendendo aos condicionalismos do País, têm de ser ouvidas por quem tem responsabilidades.\n\nFinalmente, agradeço muito ao Sr. Deputado Barbosa da Costa as questões que me colocou, porque falou também mais o professor do que o político. É nessa duplicidade, a que o Sr. Deputado Barbosa da Costa nos habituou, que também lhe agradeço - como agradeci ao Sr. Deputado António Barreto - as questões que me colocou.\n\nNão é mais possível ignorar que os professores, tem de ser mais bem pagos, nem manter a situação actual da colocação dos professores. É fundamental que os professores sejam colocados de acordo com o próprio lugar onde nasceram. É preciso criar um verdadeiro poder autóctone. Enquanto assim não for, não teremos professores motivados. Não é certamente um professor desinserido que irá contribuir positivamente para o desenvolvimento de uma qualquer região que porventura até nem lhe dirá nada. É por isso que entendemos que o professor, para estar motivado, tem de ter uma colocação que atenda desde logo ao seu lugar de nascimento, ou seja, à sua freguesia, no primeiro ciclo, ao seu concelho, ao seu distrito, à sua região, e só depois ao País.\n\nPor outro lado, Sr. Deputado, é preciso que se atenda à vocação das pessoas e se saia da rotina. E preciso que os professores sintam que ser professor é ter a mais bela profissão do mundo e que para além do dinheiro que lhes pagam, que nunca será suficiente, está a gratidão dos alunos que querem aprender e o reconhecimento dos pais, que voem neles talvez a mais bela realidade de quem com eles contribui para a felicidade e para o crescimento harmónico dos seus filhos e para a educação que querem para os seus filhos. Porque só um cidadão educado pode ser um cidadão de pleno direito e poderá ser um cidadão feliz.\n\nPor esse motivo, agradeço aos Srs. Deputados interpelantes a possibilidade que me deram de explanar mais as minhas concepções. No domínio da educação, creio que, se formos buscar a cada uma das bancadas um pouco de cada concepção, teremos a educação de que o País precisa."
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 2254,
+      "speaker": {
+        "id": 1276,
+        "name": "João Rui Gaspar De Almeida",
+        "party": "PS",
+        "string": "O Sr. João Rui de Almeida (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr.ª Presidente."
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 2254,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito?"
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 2254,
+      "speaker": {
+        "id": 1276,
+        "name": "João Rui Gaspar De Almeida",
+        "party": "PS",
+        "string": "O Sr. João Rui de Almeida (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, o Grupo Parlamentar do Partido Socialista requer a interrupção dos trabalhos por 30 minutos."
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 2254,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O pedido é regimental, pelo que está concedido.\n\nEstá suspensa a sessão até às 17 horas e 25 minutos.\nEram 16 horas e 55 minutos.\nApós o intervalo, assumiu a presidência o Sr. Vice-Presidente Ferraz de Abreu."
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 2254,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Ferraz de Abreu)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, declaro reaberta a sessão.\nEram 17 horas e 40 minutos.\nPara uma intervenção, tem a palavra o Sr. Deputado Rui .Vieira."
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 2254,
+      "speaker": {
+        "id": 1128,
+        "name": "Rui Do Nascimento Rabaça Vieira",
+        "party": "PS",
+        "string": "O Sr. Rui Vieira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A emigração originária de países africanos com destino a Portugal aumentou consideravelmente após o 25 de Abril e acentuou-se, mais ainda, a partir da adesão do nosso país à Comunidade Económica Europeia.\n\nDevido à escassez de acordos bilaterais e à correspondente falta de enquadramento legal, relativo à fixação desses cidadãos, a grande maioria deles demanda o nosso País com visto turístico. Esgotadas as prorrogações previstas na lei, acabam por ficar numa situação de completa clandestinidade.\n\nOs pedidos desautorização de residência, depois do longo e burocrático percurso legal, são; por regra, indeferidos.\n\nOs indeferimentos sistemáticos destes pedidos têm tido como consequência a ilegalização de milhares de pessoas com todas as consequências que daí advêm.\n\nA extensão e o dramatismo deste fenómeno, no caso de não serem prontamente enfrentados com a compreensão, realismo e sentido de solidariedade que exigem, podem vir a agudizar-se e a representar um grave problema interno num futuro próximo.\n\nSegundo o Ministério da Administração Interna, estima-se em 40 000 o número de pessoas clandestinas actualmente no País. Número já de si preocupante, mas muito abaixo da realidade, conforme dados coligidos pelas associações dos naturais dos países indicados.\n\nAos trabalhadores clandestinos - pois é de trabalhadores e de gente de fracos recursos que se trata - não resta outro recurso senão entrarem nos circuitos ilegais do mercado de trabalho.\n\nPorque se trata de um bom negócio, multiplicam-se as «empresas» especificamente criadas para enquadrar e utilizar esta mão-de-obra dócil, barata e disponível para os trabalhos mais duros e penosos. Inicialmente, o seu destino era a construção civil, mas, hoje, encontramo-los em todas as actividades que envolvem grande esforço físico e que não exigem qualquer grau de especialização.\n\nComo todos os clandestinos, em qualquer parte do mundo, são presa fácil de exploradores sem escrúpulos; trabalham sem qualquer contrato e descontam, muitas vezes, para a Segurança Social, mas não usufruem dos direitos correspondentes, não têm direito à saúde e, em caso de acidente de trabalho, espera-os a miséria.\n\nSr. Presidente, Srs. Deputados: Embora nos custe, temos de reconhecer que se verificam, no nosso país, situações que não podem ser toleradas num Estado de"
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 2255,
+      "speaker": {
+        "id": 1309,
+        "name": "José Sócrates Carvalho Pinto De Sousa",
+        "party": "PS",
+        "string": "O Sr. José Sócrates (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 2255,
+      "speaker": {
+        "id": 1128,
+        "name": "Rui Do Nascimento Rabaça Vieira",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sabemos as privações, de toda a ordem, e a marginalização que muitos portugueses enfrentaram por essa Europa. Mesmo assim, a maioria das histórias da emigração portuguesa saldou-se, felizmente, por uma melhoria considerável do nível de vida dos seus protagonistas.\n\nNão é essa, segundo me parece, a sorte que espera os africanos que chegam a Portugal nas condições referidas.\n\nMuitos homens, mulheres e crianças são guiados para Portugal, através de um negócio organizado, com a promessa de emprego; amontoam-nos em pensões degradadas e aí aguardam que a fortuna lhes bata à porta.\n\nO Eldorado europeu esfuma-se depressa na realidade dura do trabalho e no confronto quotidiano com as incertezas de clandestinidade.\n\nMuitas empresas pertencentes aos sectores cerâmico e de construção civil utilizam essa mão-de-obra, que continua, mesmo depois de colocada, a ser controlada por traficantes que não se coíbem de, ainda hoje, usar a, violência física quando o trabalhador não dá o rendimento pretendido."
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 2255,
+      "speaker": {
+        "id": 1309,
+        "name": "José Sócrates Carvalho Pinto De Sousa",
+        "party": "PS",
+        "string": "O Sr. José Sócrates (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 2255,
+      "speaker": {
+        "id": 1128,
+        "name": "Rui Do Nascimento Rabaça Vieira",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Trabalham sem horários, nunca menos de 12 a 14 horas por dia, para ganhar entre 150$ e 350$ por hora, pois o resto vai para o bolso dos alugadores; não estão abrangidos por qualquer apólice de seguro contra acidentes de trabalho, nem pela Segurança Social; vivem e dormem em barracões insalubres, situados, na maioria dos casos, nas traseiras das fábricas onde trabalham. Em suma: trata-se de um atentado grave aos mais elementares direitos da pessoa humana, perpetrado por indivíduos sem escrúpulos.\n\nAqui fica, Sr. Presidente e Srs. Deputados, a veemente denúncia de uma grave situação, que tem de ser enfrentada.\n\nPara que o Estado não venha a ser acusado de cumplicidade, compete ao Governo tomar medidas, tal como aconteceu em muitos países europeus e, ainda recentemente, em Itália, tendentes à legalização dos clandestinos actualmente a viver e a trabalhar em Portugal."
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 2255,
+      "speaker": {
+        "id": 675,
+        "name": "Helena De Melo Torres Marques",
+        "party": "PS",
+        "string": "O Sr.ª Helena Torres Marques (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 2255,
+      "speaker": {
+        "id": 1128,
+        "name": "Rui Do Nascimento Rabaça Vieira",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A inexistência de qualquer apoio governamental às minorias étnicas não se compreende, nomeadamente à luz da política de cooperação com os PALOP. É urgente alterar esta situação. \n\nUm primeiro e importante passo deveria ser a criação de um departamento vocacionado para a ajuda à emigração oriunda desses países e que contribuísse para eliminar, progressivamente, a sua marginalização económica, política e cultural."
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 2255,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 2255,
+      "speaker": {
+        "id": 1128,
+        "name": "Rui Do Nascimento Rabaça Vieira",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Estado não pode ficar indiferente à sorte de muitas dezenas de milhares de pessoas indefesas, que se abandonam, por necessidade, às mãos de exploradores sem escrúpulos; não podemos continuar a fazer belas declarações de princípios e deixar que as coisas continuem como estão, não podemos limitar-nos a protestar de indignação aquando da ocorrência de manifestações violentas de natureza racista, como aquelas que foram protagonizadas pelos skin-heads, e a nada fazermos para eliminar estas formas de segregação social presentes na sociedade portuguesa.\n\nO que se pede á todos os responsáveis políticos é um olhar diferente para a complexa problemática das minorias étnicas que estão, também elas, a contribuir para o desenvolvimento do nosso País.\n\nÉ compreensível e louvável que Portugal envide todos os esforços para que, em todos os países onde vivem e trabalham portugueses, estes tenham acesso às regalias e direitos aí em vigor para os nacionais. Não se compreende e não se aceita que Portugal negue aos africanos o tratamento que pediu e pede para os nossos emigrantes a trabalhar no estrangeiro."
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 2255,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Barbosa da Costa."
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 2255,
+      "speaker": {
+        "id": 81,
+        "name": "Francisco Barbosa Da Costa",
+        "party": "PRD",
+        "string": "O Sr. Barbosa da Costa (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: É esta sessão plenária reservada a assuntos de interesse regional e local. Constitui um espaço mais alargado para, a exposição de questões, problemas, anseios e realizações das diversas partes que constituem o todo nacional.\n\nTem, assim, pleno cabimento a divulgação de iniciativas e manifestações que, embora tenham como seu cenário uma região ou um concelho, se projectam, inequivocamente, em todo o País.\n\nÉ, pois, nesta perspectiva que trago ao conhecimento desta Assembleia o eco da realização do Festival Internacional de Música para Jovens, realizado na pretérita semana, no concelho de Vila Nova de Gaia, e que vai já na sua quarta edição.\n\nTrata-se de uma realização da Academia de Música de Vilar do Paraíso, com o patrocínio da Câmara Municipal de Vila Nova de Gaia, do Ministro da Juventude, do Governo Civil do Porto, de várias autarquias e de algumas entidades privadas.\n\nConstitui este encontro uma experiência única, em Portugal, em que participaram cerca de 1500 jovens, oriundos de 15 países europeus, de várias regiões do continente e da Região Autónoma dos Açores.\n\nA música é o denominador comum que congrega jovens de várias latitudes, mentalidades e culturas, movidos pelo saudável desejo de verem reforçados os laços"
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 2256,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Vítor Costa."
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 2256,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Vítor Costa (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: A Assembleia da República reservou a sessão de hoje para o levantamento e discussão de problemas locais e regionais, na situação geral de um. país que, como reiteradamente vem sendo apregoado, vive tempos de «vacas gordas».\n\nEm relação a Coimbra, se, em nome da razoabilidade, não podemos dizer que as «vacas» que nos tem calhado, até pela nossa localização no centro/litoral, são daquelas escanzeladas e tuberculosas que, em certas zonas raianas, subrepticiamente, passam a fronteira e vêm «a ares» em Portugal, lambem, em nome da verdade, temos de afirmar que os «bichos» que nos têm saído em sorte estão longe de serem fartos e luzidios, como o distrito e as suas populações reclamam e merecem.\n\nEste quadro geral radica impressivamente, na constatação de continuar por suster a progressiva desertificação das populações e da paisagem natural das zonas serranas do interior do distrito. Ilhotas de crescimento industrial, como a de Oliveira do Hospital, ou inaugurações de centros energéticos de biomassa em Miranda do Corvo não contradizem, antes marcam, o contraste no tom geral. Também, por alguns números e índices disponíveis, se confirma que as grandes assimetrias e diferenciações, que caracterizam, tradicionalmente, o distrito de Coimbra não se têm esbatido mas que, pelo contrário, se têm acentuado.\n\nAs infra-estruturas viárias, mesmo nestes tempos de neofontismo, continuam a ser deficientes e em desenvolvimento lento.\n\nNa rede rodoviária constatamos quanto penoso' está a ser para o pequeno troço Trouxemil-Raiva, do futuro IP 3, galgar o rio Mondego, a montante de Penacova.\n\nQuando a tradicional e, até ver, insubstituível Estrada das Beiras entra, a seguir a Poiares, na serra de São Pedro Dias, regride e adquire o estatuto de picada florestal. Na ponte de Segade, que devia ligar Miranda a Condeixa e à estrada nacional n.º 1, já o mato cresce em cima da considerável massa de betão implantada, tal o tempo decorrido desde que a obra parou. \n\nAs estradas entre os concelhos vão-se degradando e a não construção de um viaduto sobre a estrada nacional n.º 1, em Condeixa, ligando para Soure e Figueira da Foz, continua a custar vidas humanas, como já se verificou esta semana, uma vez mais. \n\nNa rede ferroviária, Soure vê cessarem - caso das tarifas - ou diminuírem de qualidade, os serviços prestados pela CP, enquanto os utentes do ramal da Lousã vivem em permanente sobressalto com a administração, que, em lugar de renovar e desenvolver de forma adequada a linha, pratica uma política imediatista de fechar e abrir apeadeiros.\n\nAs obras do Baixo Mondego arrastam-se e eternizam-se e parece que tiveram por objectivo único obrigar o Mondego a deixar, de ser «basófias». A sua não conclusão provoca ou facilita, entre outros prejuízos, a ocorrência de inundações, como as verificadas, no mês passado, nos campos de arroz e que podem, mesmo, ter comprometido as colheitas deste ano."
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 2257,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Helena Torres Marques."
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 2257,
+      "speaker": {
+        "id": 675,
+        "name": "Helena De Melo Torres Marques",
+        "party": "PS",
+        "string": "A Sr.ª Helena Torres Marques (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Quero hoje falar-vos do Alentejo e lembrar-vos que já vamos no quinto ano consecutivo de um Governo da responsabilidade exclusiva do PSD, tendo-se mantido durante este período não só o mesmo Primeiro-Ministro mas também o mesmo Ministro do Planeamento. É mais do que tempo de verificarmos o que de importante foi feito, que perspectivas foram traçadas, que estratégias definidas e adoptadas.\n\nEstou a falar-vos de um região heterogénea já que eu prefiro falar do Alto e do Baixo Alentejo, mas que o Governo insiste no Plano de Desenvolvimento Regional (PDR), em tratar como um todo, globalizando resultados que, devido a esta amalgação, distorcem ainda mais a realidade.\n\nBasear-me-ei essencialmente, nesta análise, no PDR por uma razão que espero todos compreendam: este plano constitui o instrumento comunitário fundamental posto à disposição do nosso país para que nos possamos preparar para fazer face ao Mercado Único de 1993.\n\nRepare-se que este instrumento se poderia chamar «Plano de Desenvolvimento Económico», ou «Social», mas não: a Comunidade Europeia optou pela solução de um Plano de Desenvolvimento Regional, por querer que os países se desenvolvessem não através de um crescimento que acentuasse as assimetrias, mas através de uma estratégia que provocasse um desenvolvimento equilibrado e harmonioso do País em termos regionais.\n\nPois desta região, que constitui cerca de um terço da área do território continental, que tem a mais baixa densidade populacional do País - um quinto da média nacional e menos de 10 vezes da densidade populacional da região de Lisboa e Vale do Tejo-, que foi a única região do continente que perdeu população entre 1970 e 1985, que ainda tem 45% da população no sector primário, 30% de analfabetos e a mais alta taxa de desemprego do País e que tem um PIB que apenas representa 5% do PIB nacional, o que vos posso dizer é que o Governo não sabe o que há-de fazer."
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 2257,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 2257,
+      "speaker": {
+        "id": 675,
+        "name": "Helena De Melo Torres Marques",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E se alguém tem dúvidas, sugiro-vos que consultem o PDR e o Sr. Ministro do Planeamento, Prof. Valente de Oliveira, que foi o que eu fiz!"
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 2257,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 2258,
+      "speaker": {
+        "id": 675,
+        "name": "Helena De Melo Torres Marques",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Depois desta, leitura e desta conversa concluí o seguinte: não há qualquer estratégia regional consistente e coerente, quer promovida pelos órgãos regionais e locais, quer por órgãos nacionais. O PDR e o quadro comunitário de apoio não se traduzem, ao nível do continente, em nenhum esquema lógico de desenvolvimento de cada região, harmonizado e orientado por qualquer perspectiva nacional, mas num conjunto de 66 fichas de programas, vagas e genéricas, e na opção por eixos prioritários de intervenção, do tipo de criação das infra-estruturas económicas, apoio ao investimento produtivo, desenvolvimento dos recursos humanos, etc. \n\nSobre a estratégia regional, leio-vos o que vem no quadro comunitário de apoio: «O plano português foi elaborado sobretudo numa perspectiva, nacional e sectorial.» \n\nDepois da aplicação deste Plano - que, apesar de tudo, se chama «de Desenvolvimento Regional» - a expectativa que o Governo oferece aos Alentejanos em 1992 é a seguinte: o Alentejo será a única região do País que perderá população, apesar de tudo o que sobre esta matéria já disse; a taxa de desemprego projectada para o Alentejo em 1992 é de 13,3%, ou seja, mais do dobro da média nacional, quando se perspectivam, para o Norte e para o Centro do País, valores da ordem dos 2,8% é 2,6%, respectivamente; não é definida qualquer estratégia de desenvolvimento para a agricultura, indústria ou serviços. Portanto, o que o Governo tem para oferecer aos Alentejanos, depois de cinco anos dê permanência (e se continuasse ainda em\" 1992.:.), era a ausência total de perspectivas, o êxodo das populações, o maior desemprego do País. \n\nE não sou eu que o digo; é o PDR e é o Ministro!\n\nE quando lhe perguntei: «Então, Sr. Ministro, o que é que o senhor tem a dizer sobre o Alqueva, o projecto mais importante para o futuro do Alentejo, que \"no Governo do Dr. Mano Soares, à que o PSD pertencia, foi aprovado e considerado como irreversível, mas que depois este Governo inviabilizou? O que tem a dizer deste projecto que, no PDR, aparece sob a forma, já mais que, ridicularizada, da ficha 13-A, completamente em branco: nem objectivos, nem território abrangido, nem instrumentos; nem acções, nem programação financeira, nem estrutura institucional; nada, mas apenas o título: «Aproveitamento de fins múltiplos do Alqueva?».\n\nSabem, Sr. Presidente e Srs. Deputados, qual foi a resposta do Sr. Ministro? Foi a seguinte: «Desta vez estou decidido, vou encarregar a Mackenzie, que é uma excelente empresa, de fazer um estudo definitivo!»\n\nPor conseguinte, ao fim de cinco anos, é esta a resposta que o Governo tem para dar: mais estudos e nenhuma decisão! \n\nE o mesmo acontece quando lhe pergunto como, nestas condições, se reestruturará a agricultura do Alentejo; cuja produção de trigo está, na maior parte dos lugares, condenada, pois os nossos preços são 40% superiores aos da CEE, se não houver irrigação, ou quando o informo que a política do Ministério da Agricultura tem vindo a ser a de subsidiar o preço do trigo, a compra das novas ceifeiras e novas debulhadoras, que a orientação dos serviços regionais de agricultura é, como eu própria ouvi, bem como os membros da Comissão de Agricultura, á «de ordenhar a vaca enquanto der leite». Ou seja, vamos gastar os dinheiros da CEE a fazer produções não competitivas de trigo e depois, quando não vier mais dinheiro para este fim, o que farão os agricultores? Manifestações\n\nno Terreiro do Paço, a pedir para, nessa altura, sairmos da CEE, como nos disseram?:\nSr. Presidente, Srs. Deputados: O que o País está a fazer com os fundos comunitários é o que já fez com a canela da índia é-o ouro do Brasil: gastar, gastar, sem mudar estruturalmente o essencial! :\nA nossa integração nas Comunidades é um desafio e uma oportunidade que não podemos nem queremos perder! Temos de a ganhar, mas de forma a tornar Portugal um país mais desenvolvido regional e socialmente!\nAvance-se na criação das regiões administrativas,. criem-se órgãos próprios das regiões, e então haverá estratégia regional e determinação para a implementar! .\nCom um Governo centralista, teórico, sem qualquer sensibilidade para os problemas regionais e incapaz de responder às perspectivas que a CEE nos abre, é que n3o!\nEntretanto,, assumiu a presidência o Sr. Vice-Presidente Maia Nunes de Almeida."
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 2258,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Q Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado André Martins."
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 2258,
+      "speaker": {
+        "id": 1719,
+        "name": "André Valente Martins",
+        "party": "PEV",
+        "string": "O Sr. André Martins (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr> e Srs. Deputados: A intervenção que hoje aqui proferimos refere-se à situação de crescente degradação em que se encontra a Tapada das Necessidades, um dos mais importantes' pulmões verdes da cidade de Lisboa, que, para além do valor paisagístico e ambiental que possui, representa também uma inestimável riqueza em património histórico, arquitectónico e cultural de interesse nacional. E tem por objectivo, por um lado, chamar a atenção da opinião pública, em particular dos Lisboetas, para a necessidade de se preservar e defender o que poderia ser um importante espaço de lazer numa cidade que, nos últimos dez anos, tem estado condenada pela sobredeterminação de interesses outros em detrimento dos valores da vida e da sua qualidade. Por outro lado, pretende-se exigir a quem de direito que assuma definitivamente as responsabilidadcs .que lhe cabe no processo de degradação a que tem vindo ã ser sujeito um conjunto patrimonial classificado dê interesse público.\nAs primeiras referências que se conhecem à Tapada das Necessidades remontam a 1756, quando o padre Manuel do Portal considerava o jardim, então existente, «de características bem portuguesas, com canteiros de buxo e vasos grandes de pedra branca muito fina, com uma bela taça rente ao chão>>.\nEm 1604, após os efeitos da peste, e com o regresso a Lisboa da população, construiu-se no alto de Alcântara a 'Ermida da Senhora da Saúde, que mais tarde viria a ser conhecida por Ermida.da Senhora das Necessidades.\nA devoção de D. João .V levou-o à construção de uma ermida maior e de um palácio para sua residência, bem ; como de um convento, a que deu o nome de Hospício, onde viriam a residir sacerdotes'que, além das obrigações saccdortais, deveriam ensinar letras humanas e ciências.\nEm 1744, com o objectivo de alargar os jardins e a cerca do Convento, D. João V mandou que se comprassem várias terras, vindo assim á' constituir-se a maior cerca de Lisboa. . i\nEntre 1855 e 1861, por vontade de D. Pedro V, foi • construída uma grande estufa circular.\nEm 1889, o Rei D.. Carlos mandou - construir a Casa do Regalo\", conhecida também pelo pavilhão de pintura da Rainha D. Amélia."
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 2259,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Pinto Barros."
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 2259,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Pinto Barros (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ó Douro, ó grande rio, Rio de mau navegar! /Dize-me, essas tuas águas/Aonde as fostes ganhar?\n\nA água corre dos montes,/Da ribeira leva ao rio/E o rio vai a ia mar!\n\nSr. Presidente, Sr.ªs Deputadas e Srs. Deputados: Vão distantes já os tempos de mau navegar, descritos no romanceiro, donde, se extraiu a citação introdutória.\n\nEntão, o rabelo, descia a corrente forte e traiçoeira do rio estreito, semeado de escolhos e perigos, ao mando experimentado e sabedor do arrais, que lhe conhecia os sítios e as passagens como a palma da sua mão.\n\nA carga eram preciosas pipas de vinho do Porto, que aqui, preferencialmente, se chama vinho fino, vinho tratado e vinho generoso (apesar desta última denominação ter sido recentemente apropriada pela Espanha). Desciam, rio abaixo, até Vila Nova de Gaia.\n\nO rio é uma veia aberta no corpo vivo e insubmisso da terra mãe que abriga a mais antiga região demarcada do mundo."
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 2260,
+      "speaker": {
+        "id": 1112,
+        "name": "Mário Jorge Belo Maciel",
+        "party": "PSD",
+        "string": "O Sr. Mário Maciel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 2260,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Contributo é generosidade que, desde logo e antes de qualquer outra; haverá de se manifestar na preocupação de dar guarida aos desalojados pelas cheias, 32 famílias que formam um conjunto de 120 ou 130 pessoas, vivendo, desde então, precariamente, nas instalações de uma escola, no município da Régua.\n\nPara além da paisagem, o Douro é cultura, monumentalidade, gastronomia e laboriosa economia. \n\nSobejam-lhe todas, igualmente ricas e variadas, em qualidade; novidade e grandeza.\n\nÉ vasto o elenco dos homens, subidos e notáveis, nascidos em solo duriense ou que nele viveram.\n\nPara não nomear coevos, citarei apenas Afonso, o rei conquistador que, di-lo pelo menos a lenda, escolheu a Igreja de Almacave, em Lamego, para realizar as primeiras cones; Egas Moniz, se não é natural de Britiaride, no mínimo é certo que viveu nesta freguesia do Município de Lamego. Exemplo sublime de Fidelidade à palavra empenhada, dele muito se orgulham e justificadamente os filhos da terra. Também Fernão de Magalhães era natural de Sabrosa, na margem direita do rio, enquanto Diogo Cão é o heróico comandante Carvalho Araújo são filhos de Vila Real.\n\nMonumentalmente; a região faz jus aos seus pergaminhos. De São João de Tarouca, com o seu mosteiro-cisterciense em lamentável ruína (aqui abre-se parêntese ! para dizer que urge retomar a iniciativa, em boa hora empreendida pelo IPPC, para adquirir os terrenos de particulares sitos nas suas imediações ou a ele noutros tempos pertencentes) até ao Convento de Salzedas; de São Pedro das Águias a Cárquere, passando pelo- Castelo de Lamego, a sua bela torre de menagem e a cisterna, a que sé acede pela entrada das Portas do Sol, pela Sé desta mesma cidade e Santuário, escadório e Parque de Nossa Senhora dos Remédios, para .descer, em visita à Capela de São Pedro de Balsemão, o Douro multiplica-se em monumentos de ímpar beleza e grandiosidade, sinais e testemunhos da capacidade realizadora dos seus ancestrais.\n\nGastronomicamente, o Douro é senhor de uma culinária rica e esmerada, de- apurada técnica e fina confecção, diariamente exercitada, sobretudo pelo elemento feminino. Mães e esposas, as mulheres do Douro, a quem. presto aqui a minha homenagem, são exímias cozinheiras na preparação de pratos regionais que, acompanhados pelos capitosos V.E.P.R.D. ali nascidos, espremidos e fabricados, regalam os melhores apreciadores.\n\nQualquer bom estabelecimento turístico da região ou... casa de turismo de habitação; poderá proporcionar ao. visitante o ansiado prazer do encontro com a arte e a cozinha duriense; servida em locais de indizível beleza, de bons ares e sossego.\n\nO ensino e a saúde são duas áreas em que, reconhecendo, embora, o esforço já feito e o volume do investimento da iniciativa governamental - pelos quais aqui se presta a merecida homenagem ao Governo -, importa, caminhar mais e mais depressa para hão ficarmos definitivamente peados e presas do subdesenvolvimento. Crianças e jovens são o mais importante capital que qualquer nação pode ambicionar. Sem eles não haverá continuidade nem nações, nem. interesses atendíveis a proteger ou socialmente justificados e relevantes, nem Constituições em que se faça exarar que todos os cidadãos nascem e são iguais. Tão-pouco fará sentido que se fale em direitos, liberdades e garantias, taxas de inflação, níveis e qualidade de vida, desemprego e crescimento.\n\nEles são, hoje, o futuro, a razão primeira e última do nosso incansável labor e devoção: Por eles e para eles se constróem escolas; se erigem parques desportivos e outras infra-estruturas de relevante significado social.\n\nÉ por isso que não faz sentido - a despeito e apesar dos largos passos dados neste domínio pelo Ministério, da Educação - que, ainda hoje, haja crianças que, esfomeadas e andrajosas, se vejam feitas peregrinas, obrigadas a percorrer longas distâncias, por vezes de vários quilómetros, duas vezes ao dia para vencer a distancia que as separa da casa, na aldeia ou lugarejo em que vivem, à escola, onde buscam adquirirão primeiro saber. E são ermos e perigosos; esses caminhos da serra por onde, muitas vezes de noite, têm de passar.\n\nDepois, não podemos, do mesmo modo, deixar de nomear aquelas crianças que, filhas de destinos cruéis e injustos e vítimas congénitas de deficiências que diminuem a sua capacidade perante os outros e a sociedade, são carentes de maior e melhor ajuda para que se cumpra o preceito constitucional da leitura do qual resulta «que o igual deve ser tratado igualmente e o desigual de modo desigual». Referimo-nos, obviamente, aos deficientes, que carecem de ver melhor servido, em quadros e meios, os centros de educação especial porque, nalguns casos, não basta dispor de equipamentos mais ou menos sofisticados quando as crianças não podem, devido aos magros recursos dos seus progenitores, adquirir um pequeno acessório que viabilize o melhor aproveitamento daqueles equipamentos."
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 2260,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Saúda-se a saúde e, também aqui, os passos de gigante já dados, mas não podemos ficar insensíveis e calar - sem que, todavia, se possam escamotear as dificuldades de financiamento que sabemos existir",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "as insuficiências constatadas. Podemos, aqui, dizer que a saúde, a região, continua doente, apesar de conhecer melhoras.\n\nAssim, existem dois hospitais, um deles, com a classificação de distrital, na cidade de Lamego e outro na jovem cidade da Régua. \n\nO primeiro visa servir uma população de cerca de 150000 pessoas, não abrangidas pelos hospitais das vizinhas cidades de Viseu e de Vila Real. O edifício é do fim do século, formado por pavilhões decrépitos, num estado de degradação total. Os blocos em que funcionam os serviços de medicina, urgência e fisioterapia necessitam de urgente remodelação. Também o pavilhão cirúrgico tem o pavimento corripletamente deteriorado e a casa mortuária, não tem o mínimo de condições e dignidade. Os restantes serviços funcionam em pavilhões pré-fabricados. \n\nA população servida espalha-se pela área geográfica de dez concelhos sediados todos na margem, sul do Douro."
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 2261,
+      "speaker": {
+        "id": 1041,
+        "name": "Joaquim Maria Fernandes Marques",
+        "party": "PSD",
+        "string": "O Sr. Joaquim Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 2261,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Também o Hospital da Régua carece de obras de conservação da sua estrutura física. O edifício tem 33 anos e nunca nele foram efectuadas obras de conservação e restauro. Da mesma idade é o equipamento de raios X, obsoleto, inoperante e perigoso em razão das suas frequentes avarias. Mas importa, igualmente, deixar registada aqui uma palavra de apreço à modernização administrativa que financia as obras de ampliação já iniciadas e em curso.\n\nVariamente, rasgado que foi um canal no leito pedregoso do rio, o Douro tornou-se um curso de água disponível para a navegação de barcaças e barcos de recreio. Esta possibilidade é complementada pela construção de eclusas, existentes em todas as barragens nele erigidas. As albufeiras, mormente a que se estende desde a barragem de Bagaúste, nas imediações da Régua, até ao Cachão da Valeira, já em São João da Pesqueira, com aproximadamente 38 km de comprimento, proporcionam condições óptimas para a prática de várias modalidades desportivas e turísticas.\n\nEspera-se e exige-se que as diferentes sociedades de desenvolvimento regional, já criadas por iniciativa dos municípios ribeirinhos ou por estes apadrinhadas, passem prontamente à execução de acções concretas, dentro do espírito e na prossecução dos objectivos para que se mostram vocacionadas e em vista dos quais foram criadas.\n\nMas, são as estradas e as linhas férreas as infra-estruturas mais utilizadas para deslocação de pessoas e transportes de mercadorias. Urge, por isso, dotar a região de vias rodoviárias modernas e seguras, acelerando a sua construção, para que possam contribuir para a desejada redução dos custos económicos e sociais e recuperar as que, embora existentes, todavia não servem, degradadas como estão pelas inclemências do tempo e pelo abandono a que tem sido votada a sua conservação.\n\nA ferrovia carece de renovação e reparações. O material circulante é impróprio e algum dele, já com cerca de um século de quase permanente utilização, pede o descanso merecido de um museu. O comboio, se, noutro tempo, foi factor de progresso e sinal de desenvolvimento, representa hoje o atraso de que se carece recuperar, quer a nível de material quer educacional, pela reciclagem dos meios humanos, no respeito pelos utentes e cumprimento dos horários anunciados. Respeito pelos utentes que deve impedir que se fechem apeadeiros e estações e se encerrem definitivamente linhas sem estudar as alternativas e contrapartidas a proporcionar às populações atingidas com tais discricionárias medidas.\n\nTambém o avião chegou para servir as populações. Apadrinhado pelos municípios que viam nele um meio, custoso embora, de devassar a interioridade, o avião tem--se ficado quase pelas promessas, acorrentado a horários que não se ajustam à realidade nem aos interesses que visam e dizem servir. Não há clientes porque os horários não servem e não há aviões nem horários porque não há clientes.\n\nNo domínio económico, os problemas do Douro passam pela vertente horto-frutícola e pela produção de vinhos.\n\nNaquela, impõe-se uma melhor disseminação da informação a prestar ao agricultor, designadamente dos apoios de que pode beneficiar no quadro das ajudas de pré-adesão comunitária. Num sector que ocupa ainda uma franja tão importante da população activa, importa acelerar o desenvolvimento mental e fornecer capitais a preços interessantes e susceptíveis de estimular o investimento necessário.\n\nOs vinhos e, de um modo muito especial, o vinho do Porto, são a causa maior das nossas preocupações. É que se é certo dizer-se que a crise no Douro se reveste de um carácter cíclico, impõe-se estudar-lhe as causas para, tão categoricamente quanto possível, se debelar o mal.\n\nGarantir ao produtor segurança quanto aos preços e à colocação do produto e a todos financiamentos à armazenagem destinada ao seu envelhecimento será, certamente, uma boa forma de conseguir aquele desiderato.\n\nEste preço, porque a comercialização do vinho do Porto assume uma dimensão nacional e mesmo extranacional, deverá ser suportado por toda a colectividade que, por via da entrada de divisas - e são cerca de 38 milhões de contos por ano e do seu contributo para o equilíbrio da balança de transacções correntes, é também a grande beneficiária das vantagens que dele advêm.\n\nO «Porto» é seguramente ainda o melhor embaixador de Portugal e, apesar dos problemas com que, no presente, se debate e das nuvens que se avizinham no futuro imediato, deve continuar a desempenhar esse nobre papel.\n\nOs organismos responsáveis estão atentos ao evoluir da situação e têm tomado algumas medidas e recomendado a adopção de outras, mas, de entre estas, uma parte só poderá ser posta em prática com o auxílio do próprio Governo.\n\nUma dessas medidas, recentemente postas em prática, consiste no reatar da tradição das feiras do vinho.\n\nAs feiras do vinho fizeram o seu aparecimento no reinado de D. José, quando governava o todo-poderoso marquês Pombal, á quem o Douro muito deve.\n\nA partir dessa data e desde então, as feiras do vinho realizavam-se regularmente: todos os anos, em Fevereiro, os lavradores desciam à Régua para ali apresentarem os seus vinhos, a fim de serem controlados, classificados e vendidos.\n\nExtinta, em 1934, a Companhia Geral da Agricultura das Vinhas do Alto Douro, desapareceram, com ela, as feiras do vinho.\n\nRecentemente, por iniciativa da Casa do Douro, foram reatadas as feiras do vinho, no propósito de dinamizar a região e inverter a tendência de quebra que se tem verificado. Mas esta medida, por si só, não será suficiente para obter o efeito desejado.\n\nÉ que a quebra verifica-se, sobretudo, nos mercados exteriores que, tradicionalmente, são os nossos principais clientes.\n\nE esta é resultante de vários factores, os mais importantes dos quais são o agravamento dos preços, motivado este, em parte, pelo agravamento das taxas de juro e, também, por um certo desentendimento entre produtores e consumidores quanto aos preços a praticar.\n\nConsequência imediata da quebra é a existência na produção, anormal desta data, de cerca de 60 000 pipas de vinho por escoar."
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 2262,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Luís Roque (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Breve!"
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 2262,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "...foi intenção do seu autor testemunhar, antes de mais, o seu enorme apreço e, carinho pejas gentes laboriosas do Douro. \n\nEle constitui um despretensioso poema, sem forma nem contornos, ditado, não obstante, por um sentir vivido e assumidamente partilhado com as suas gentes humildes e sofredoras. Oração e hino, dizeres com o fervor de quem reza e pede, não com o gesto soez de um qualquer inoperante servilismo, mas com o gesto digno do amigo que, como se lê no Livro dos Provérbios, «faz censuras como prova de lealdade». \n\nAo chamar, deste modo, a atenção dos poderes constituídos, legítima e democraticamente eleitos, para os problemas específicos e mais candentes da região do Douro, parte do todo nacional, pretende dar-se um contributo, ainda que modesto para erradicar de vez os males denunciados e suas sequelas. E se, depois disto, alguma coisa mudar e os problemas aqui sumariamente enunciados conhecerem o necessário encaminhamento e solução, ainda que incompleta, dar-se-á por bem empregue o tempo dedicado e generosamente compensado o esforço aplicado, consubstanciando o nosso agradecimento numa expressão bem viva e popular entre as gentes da nossa terra: «Bem hajam.»\nEntretanto, reassumiu a presidência a Sr.ª Vice-Presidente Manuela Aguiar."
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 2262,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente (Manuela Aguiar)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, há ainda várias inscrições; mas como temos de terminar as 19 horas, pedia aos Srs. Deputados para serem o mais breves possível nas suas intervenções.\n\nPara uma intervenção, tem a palavra o Sr. Deputado Henrique Carmine."
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 2262,
+      "speaker": {
+        "id": 181,
+        "name": "Henrique Do Carmo Carminé",
+        "party": "PS",
+        "string": "O Sr. Henrique Carmine (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Srs. Deputados: A cidade de Lamego, situada no coração da região onde se produz «o vinho fino do Douro», precioso néctar conhecido na Antiguidade como «vinho cheirante de Lamego», e admirada pelos seus seculares monumentos de grande valor artístico e cultural, constitui o centro vital de uma zona do País a sul do rio Douro.\n\nA sua integração num distrito altamente carenciado, como o de Viseu, abrangendo 24 concelhos (10 a norte e 14 a sul) distribuídos por um diverso e vasto espaço geográfico, em muito pouco ou quase nada tem beneficiado.\n\nSr.ª Presidente, Srs. Deputados: O distrito, que tem sido fiel ao PPD/PSD e ao Governo, começa a despertar do seu longo letargo, rompe o casulo que o envolve e começa a considerar o poder central como o seu «inimigo público», levando um membro do PSD da Assembleia Municipal de Viseu, em 27 de Março de 1990, dizer, num estilo desassombrado, «que o poder central é um carrasco de Viseu». \n\nEm entrevista dada ao Jornal de Notícias o presidente da Câmara Municipal de Tarouca, eleito pela lista do PPD/PSD, afirma, «que têm sido marginalizados pelo FEF ou pelas pessoas que lidam com os fundos e que há dois anos que não têm FEDER e deveriam ter verbas importantes»!\n\nContinuando, afirma que «o Governo devia prestar atenção ao nosso património histórico, uma vez que ele faz parte do património da Nação» e «lamenta a situação incómoda e desprestigiante por que passa a preservação do Mosteiro do São João de Tarouca e da Torre da Tacanha» (construção dos séculos XIII-XIV, exemplar único no País de ponte fortificada), adiantando que «o IPPC fez um contrato de compra de terrenos envolventes do Mosteiro e da Torre e ainda não cumpriu, o que é injusto para os proprietários».\n\nNo campo da saúde, o concelho está praticamente abandonado e o mesmo Sr. Presidente da Câmara lamenta-se, dizendo que «talvez em 1991 tenhamos um centro de saúde, mas parece haver divergência entre o planeamento das administrações regionais de saúde (ARS) e do Ministério da Saúde; enquanto este aponta que o centro será incluído no PIDDAC de 1991 a ARS diz que não tem conhecimento»."
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 2262,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Julieta Sampaio (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 2263,
+      "speaker": {
+        "id": 181,
+        "name": "Henrique Do Carmo Carminé",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como o tempo disponível não permite alongar-me, limito-me a mencionar estes dois exemplos, entre os muitos que fazem parte de um longo rosário de lamentações.\n\nHá um diferença abismal entre a propaganda bem orquestrada, como fogo-de-artíficio deslumbrante, e a realidade das coisas!"
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 2263,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 2263,
+      "speaker": {
+        "id": 181,
+        "name": "Henrique Do Carmo Carminé",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Srs. Deputados: O povo do distrito de Viseu já está farto das promessas, que, após as eleições, caem no vaso negro do esquecimento. Como prova do seu descontentamento com o governo de Cavaco Silva e com o PPD/PSD, o distrito proporcionou ao Partido Socialista uma grande vitória nas eleições autárquicas, ao confiar sete câmaras ao PS quando inicialmente este partido só tinha duas.\n\nNovos ventos sopram nas Beiras! Urge romper com o «colete de forças» da interioridade e, numa ampla convergência de esforços e vontade em volta do PS, perspectivar o que há a fazer, para revitalizar, modernizar e desenvolver esta extensa região.\nSr. Presidente, Srs. Deputados: Proponho-me, por hoje, tecer algumas considerações e focar alguns problemas e carências que preocupam a cidade de Lamego e os concelhos limítrofes (Tarouca, Armamar, Tabuaço, Moimenta da Beira, Penedono, Sernancelhe, São João da Pesqueira, Resende e Cinfães) - zona norte do distrito de Viseu - que, pelas suas características tão peculiares e pela coerência geográfica, económica, histórica e cultural, constituem a região Beira-Douro, também conhecida, turisticamente, por Região do Vale do Douro.\n\nLamego, capital turística e cultural do vale do Douro, vê-se impossibilitada de dar continuidade nos estudos a mais de 70% dos seus jovens; as escolas que existem não correspondem às legítimas aspirações da população e às necessidades das actividades económicas.\n\nCom a extinção da Escola do Magistério Primário, Lamego ficou mais pobre, limitando-se a ter todos os anos uma ou duas turmas (e até se fala já no corte final, que se avizinha) de educadores de infância da Escola Superior de Educação de Viseu, que de modo algum satisfaz as necessidades e aspirações dos jovens estudantes.\n\nDesde há anos que se apela à cooperação e ao diálogo entre a administração central e a local para implementar cursos de Agricultura, Ecologia, Informática, Electrotecnia, Educação Física; criar cursos técnicos-profissionais (comércio, construção civil e pecuária); criar uma escola de enfermagem, que se tornaria um instrumento de largo alcance a nível de toda a região e constituiria um importante apoio ao sistema regional de saúde.\n\nSendo a nossa região uma estrutura sócio-económica rural, onde predominam as vertentes agrícolas e pecuária, por que não criar uma escola verdadeiramente identificada com a região, a Escola Superior Agrária?\n\nConvém recordar, uma vez mais, que Lamego possui um importante complexo desportivo, pertencente à Direcção-Geral dos Desportos, com instalações e infra-estruturas extraordinárias que se encontram subaproveitadas, dado que só eventual e temporariamente são ocupadas. Ouso perguntar: porquê não instalar uma escola superior de educação física, indo de encontro à Lei de Bases do Sistema Desportivo, que inclui o desporto escolar?\n\nSr.ª Presidente, Srs. Deputados: Esta região dúrio-beirã, que possui uma personalidade histórico-cultural bastante vincada, não tem qualquer estabelecimento de ensino médio e superior, limitando, como é obvio, as possibilidades dos jovens que não tem recursos económicos para suportar despesas de deslocação, de alojamento e de estudo. Sc fizéssemos surgir novos motivos de esperança para os jovens e suas famílias, não teríamos dúvidas de que se minorariam as carências de uma região que sofre os efeitos da interioridade e do isolamento.\n\nA instalação do Mercado de Origem de Lamego continua em «banho-maria». Os estudos já estão feitos e é visível a sua necessidade. Contudo, estranha-se a falta de vontade política para desbloquear esta situação tão morosa, que resolveria os problemas de mercado e do escoamento dos produtos horto-frutícolas da região, pois os lavradores ainda se mantêm dependentes dos intermediários e de circuitos parasitários.\n\nO Hospital Distrital de Lamego, que se encontra instalado num edifício pertença da Misericórdia de Lamego, desde 1892, tem sofrido ao longo dos anos (quase um século) obras de beneficiação e conservação insuficientes para cumprir minimamente as suas funções assistenciais.\n\nPromessas tem havido muitas, mas, desde a execução de um plano director que foi presente em 1977 até à inscrição de uma verba de 300 000 contos no PIDDAC (anos de 1986 a 1989) cuja verba foi retirada, não tem havido vontade política de proceder à remodelação do Hospital, que abrange uma área de 10 concelhos com uma população de 150 000 habitantes.\n\nO Hospital tem um orçamento de 700 000 contos, verba essa que é absorvida pelas despesas correntes e pelas despesas com o pessoal. Assim sendo, este Hospital não tem dinheiro para qualquer investimento nem qualquer dotação para obras, funcionando o Hospital em condições precárias. Onde estão, então, os 300 000 contos que foram atribuídos ao Hospital?\n\nO Governo não cumpriu a programada remodelação do Hospital Distrital de Lamego e espera-se que, como prioridade das prioridades, a construção de um novo hospital bem dimensionado e em local de fácil acesso faça parte de um plano a curto prazo.\n\nA cidade ficou perplexa com a atitude do Governo perante o caso insólito da política do acto consumado. Pelo Decreto-Lei n.º 429/86, de 29 de Dezembro, emanado do Ministério da Agricultura, Pescas e Alimentação, o Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o reconhecimento e a denominação da zona vitivinícola de Lamego com sede de delimitação em Lamego.\n\nEm 15 de Novembro, no Decreto-Lei n.º 404/89, nos termos da mesma alínea do mesmo número e do mesmo artigo da Constituição, o Governo aprova os estatutos da Zona Vitivinícola do Varosa, substituindo a denominação «Lamego» constante no Decreto-Lei n.º 429/86, de 29 de Dezembro, por «Varosa», sem qualquer explicação prévia. Que movimentações ocorreram com este processo? Que atropelos, que manobras obscuras foram utilizados para alterar o disposto do Decreto-Lei n.º 429/86, que pôs em causa a legitimidade da criação da região demarcada da zona vitivinícola de Lamego?\n\nÉ necessário apoiar o turismo com vista ao aproveitamento das potencialidades desta maravilhosa zona do vale do Douro, que, como vertente importante para o desenvolvimento da região, caminha a passo de «caracol»..."
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 2264,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Joaquim Teixeira."
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 2264,
+      "speaker": {
+        "id": 1882,
+        "name": "Joaquim António Rebocho Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Joaquim Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Srs. Deputados: A necessidade de um desenvolvimento regional integrado que aproveite os recursos e promova uma efectiva coesão económica e social, também no interior do nosso país, é hoje uma condição do desenvolvimento geral que hoje ninguém contesta.\n\nO Alentejo, que representa cerca de um terço do País, contribui com 70% da produção cerealífera nacional; contudo, é uma região onde é cada vez mais visível o contraste entre a roupagem dos milhões, diariamente repetidos pelos membros do Governo, e a realidade.\n\nBasta olharmos para o plano de desenvolvimento regional que o Governo entregou em Bruxelas para verificarmos que a perspectiva apontada para a região levaria a que, no final da execução do plano, não tivesse sido criado um único emprego liquido. A população diminuiria em cerca de 2%, a estrutura etária seria mais envelhecida e não haveria lugar à criação de mais riqueza.\n\nOra, se ainda recentemente a Sr.ª Secretária de Estado do Planeamento e do Desenvolvimento Regional, de visita a Évora, anunciou que o conjunto das verbas previstas no quadro comunitário de apoio para região atingiria cerca de 100 milhões de contos, a pergunta é óbvia: que raio de plano de desenvolvimento é este que pretende mobilizar avultadas verbas comunitárias, nacionais, autárquicas, e outras, para que no final ainda haja menos desenvolvimento que o actual?\n\nEstamos, pois, perante um projecto que em vez de canalizar o investimento para os sectores produtivos os desperdiça em projectos que levariam à aceleração do processo de despovoamento e desertificação da região. Aliás, esta estratégia está patente nos actos concretos que o Governo tem privilegiado para o Alentejo. Isto é, compromete-se a reforma agrária mas não se promove sequer a criação de explorações alternativas que aproveitem os recursos e defendam o emprego e os rendimentos dos agricultores.\n\nFala-se na necessidade de estabilizar a posse da terra, mas o entendimento do Governo é o de privilegiar a estrutura latifundiária da propriedade, a que não escapam sequer os pequenos agricultores que, aliciados no tempo do Governo da AD, entre outros, para requererem terras das cooperativas são hoje confrontados com o cancelamento dos direitos de exploração, com brutais aumentos das rendas, «que chegam a ser aumentadas 20 vezes de um ano agrícola para o outro», e com expulsão das parcelas agrícolas que exploram.\n\nFala-se na importância de defender e valorizar os montados tradicionais, mas assiste-se ao incremento da floresta industrial de desenvolvimento rápido com relevo para o eucalipto, de que é exemplo a larga mancha já existente no concelho do Alandroal.\n\nFala-se no aproveitamento dos recursos turísticos, mas o Governo, como no caso de Mértola, privilegia a implantação de um campo de tiro, pondo em perigo projectos turísticos para a zona.\n\nAponta-se a importância do aproveitamento dos recursos do subsolo, mas não se dão passos efectivos para o pleno aproveitamento e transformação das riquezas cupríferas de Neves Corvo.\n\nA construção da barragem do Alqueva continua bloqueada, mas o Governo nada faz para promover o pleno aproveitamento dos perímetros de rega existentes como, por exemplo, do Caia, do Roxo, Odivelas, Mira, entre outros. Inclusivamente, o Governo mantém paralisado o início da construção da barragem dos Minutos.\n\nQuando se impõe um efectivo processo de regionalização e de mobilização do poder local e dos agentes económicos, sociais e culturais da região, o Ministério do Planeamento e da Administração do Território e a sua extensão (Comissão de Coordenação Regional) organizam sessões confidenciais para discutir o que se chama «desenvolvimento do Alentejo» de onde marginalizam todas aquelas entidades, como é o caso da autoproclamada Convenção para o Desenvolvimento do Alentejo."
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 2264,
+      "speaker": {
+        "id": 1315,
+        "name": "Lino António Marques De Carvalho",
+        "party": "PCP",
+        "string": "O Sr. Lino de Carvalho (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É um escândalo!"
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 2264,
+      "speaker": {
+        "id": 1882,
+        "name": "Joaquim António Rebocho Teixeira",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Srs. Deputados: É urgente pôr cobro ao quadro descrito. O Alentejo tem enormes recursos humanos e naturais que permitem, se aproveitados, dar um sério impulso ao processo de desenvolvimento da região."
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 2265,
+      "speaker": {
+        "id": 1315,
+        "name": "Lino António Marques De Carvalho",
+        "party": "PCP",
+        "string": "O Sr. Lino de Carvalho (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 2265,
+      "speaker": {
+        "id": 1882,
+        "name": "Joaquim António Rebocho Teixeira",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Alentejo, que neste Parlamento possui mais de uma dezena de deputados, tem direito a um futuro onde haja garantia de trabalho e de emprego. Para isso é necessário mobilizar todas as forças da região o que não é possível com a actual política do Governo cujos resultados só não são mais graves devido aos esforços dos investimentos do poder local. Também por esta razão se justifica a exigência de uma mudança de política."
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 2265,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Por último, também para uma intervenção, tem a palavra o Sr. Deputado Rui Silva."
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 2265,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Rui Silva (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: A Região de Turismo do Oeste, pelas suas belezas paisagísticas, é uma das zonas mais procuradas da nossa orla litoral, quer por turistas nacionais ou estrangeiros.\n\nVárias são as situações que por diversas vezes tenho trazido a esta Câmara denunciando alguns casos que em nada abonam a favor da boa estabilidade, quer física ou ambiental ou mesmo cultural, necessária à prossecução de uma política turística que se deseja para a referida região.\n\nRecentemente, uma notícia veiculada por alguns órgãos de comunicação social deu a conhecer uma lamentável situação passada na denominada Quinta Velha do Hespanhol, em Carreiras, perto de Torres Vedras, palácio do século XIV, que foi em tempos residência de Cristóvão Colombo e de sua mulher, Felipa Moniz Perestrelo, e onde também residiu João Lopes Perestrelo, um dos capitães de Vasco da Gama.\n\nÉ que desde Novembro passado, três lagoas que servem de despejo de uma suinicultura, construídas a cerca de 100 m do referido local, rebentaram e deixaram escapar o seu conteúdo, que se escapou pelos vinhedos em redor da referida casa, esperando os seus proprietários que o pior ainda esteja para acontecer.\n\nEstas lagoas, que fazem parte de um projecto de construção de uma estação de tratamento de águas residuais não concluída, continuam a servir de local de despejo de toda a espécie de resíduos e excrementos e o desastre total e eminente.\n\nA derrocada das lagoas confirma as reservas colocadas por técnicos do Laboratório Nacional de Engenharia Civil, que, após uma visita ao local, constataram que o mesmo reunia condições de instabilidade na sequência de períodos prolongados de chuva. Mais constataram que as obras não foram efectuadas tendo em conta os procedimentos técnicos normalmente recomendados e não garantiram a estanquidade das lagoas.\n\nFace a esta situação e após queixa judicial entregue no Tribunal de Torres Vedras este pronunciou-se pelo embargo das obras em curso. No entanto, nem a força dos tribunais conseguiu pôr cobro a esta situação e o problema vai-se arrastando, parecendo todos os responsáveis não quererem assumir quaisquer responsabilidades.\n\nO mau cheiro, a proliferação de ratos e moscas e a contaminação de água de toda a região são para já as consequências desta situação.\n\nEste palácio, que tem como função o turismo de habitação, é um dos mais requisitados da zona de Torres Vedras e vê assim perigar a sua continuidade neste objectivo, pondo em causa a própria sobrevivência da sua função turística.\n\nParalelamente, os perigos para a saúde pública já foram comprovados, quando recentemente, análises feitas no Instituto Ricardo Jorge atestaram que as amostras recolhidas na totalidade das nascentes da quinta são bacteriologicamente impróprias para consumo. Ao mesmo tempo, estudos posteriores feitos pelo Laboratório Nacional de Engenharia Civil vêm provar a instabilidade das referidas lagoas e que a sua derrocada total pode estar eminente, provocando o tão temido desastre ecológico ambiental daquela zona.\n\nA suinicultura que provoca esta situação continua, de acordo com as informações que recolhemos, a ter o mesmo procedimento indiferente aos prejuízos causados, e pese embora alguma «guerra», entre o Tribunal e a Câmara de Torres Vedras, continue a encher as páginas de alguns jornais, afirma-se que só a Direcção-Geral de Pecuária poderia por cobro à situação, mas por enquanto não o fez.\n\nEnfim, enquanto a administração local passa as culpas para a administração central, e vice-versa, os suínos continuam a viver no seu apelidado hotel de cinco estrelas e a produzir excrementos que são permanentemente depositados na colina sobranceira ao palácio, que se vai assim deteriorando e caindo naturalmente no esquecimento e abandono por parte dos turistas e potenciais visitantes.\n\nRecordo, Sr.ª Presidente e Srs. Deputados, que entre as muitas preciosidades que recheiam o solar, encontra-se uma Nossa Senhora feita de coral, a Virgem do Mar, que, segundo reza a tradição, Cristóvão Colombo trazia ao pescoço, um Atlas Plotomeu do século XVI e vários mapas raríssimos. Preciosidades que, a não se acautelar esta situação, passarão muito em breve, única e exclusivamente, a ser apreciadas apenas pelos suínos, que nesta batalha parecem estar a vencer."
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 2265,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a próxima sessão realiza-se amanhã. Trata-se da sessão solene comemorativa do 16.º aniversário do 25 de Abril.\n\nOs nossos trabalhos serão retomados na sessão plenária de quinta-feira, dia 26, com um período de antes da ordem do dia, e do período da ordem do dia constará a apreciação de vários projectos de lei relativos ao exercício do direito de petição.\n\nEstá encerrada a sessão."
+    }
+  ]
+}

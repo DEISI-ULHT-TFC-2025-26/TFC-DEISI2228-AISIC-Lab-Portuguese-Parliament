@@ -1,0 +1,698 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "7",
+    "legislative_session": "2",
+    "number": "73",
+    "date": "1997-05-16"
+  },
+  "debate_id": "r3_7_2_73_1997-05-16",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2528,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.\nEram 10 horas e 35 minutos.\nEstavam presentes os seguintes Srs. Deputados:\nPartido Socialista (PS):\nAcácio Manuel de Frias Barreiros.\n\nAdérito Joaquim Ferro Pires.\n\nAgostinho Marques Moleiro.\n\nAires Manuel Jacinto de Carvalho.\n\nAlberto de Sousa Martins.\n\nAlbino Gonçalves da Costa.\n\nAníbal Marcelino Gouveia.\n\nAntónio Alves Marques Júnior.\n\nAntónio Bento da Silva Galamba.\n\nAntónio de Almeida Santos.\n\nAntónio Fernando Marques Ribeiro Reis.\n\nAntónio José Borrani Crisóstomo Teixeira.\n\nAntónio José Gavino Paixão.\n\nArlindo Cipriano Oliveira.\n\nArnaldo Augusto Homem Rebelo.\n\nArtur Clemente Gomes de Sousa Lopes.\n\nArtur Miguel Claro da Fonseca Mora Coelho.\n\nArtur Rodrigues Pereira dos Penedos.\n\nCarlos Alberto Cardoso Rodrigues Beja.\n\nCarlos Alberto Dias dos Santos.\n\nCarlos Justino Luís Cordeiro.\n\nCarlos Manuel Amândio.\n\nCarlos Manuel Luís.\n\nCláudio Ramos Monteiro.\n\nEduardo Ribeiro Pereira.\n\nElisa Maria Ramos Damião.\n\nEurico José Palheiros de Carvalho Figueiredo.\n\nFernando Alberto Pereira Marques.\n\nFernando Garcia dos Santos.\n\nFernando Manuel de Jesus.\n\nFernando Pereira Serrasqueiro.\n\nFrancisco Fernando Osório Gomes.\n\nFrancisco José Pereira de Assis Miranda.\n\nFrancisco José Pinto Camilo.\n\nFrancisco Manuel Pepino Fonenga.\n\nGonçalo Matos Correia de Almeida Velho.\n\nHenrique José de Sousa Neto.\n\nJoão Carlos da Costa Ferreira da Silva.\n\nJoão Rui Gaspar de Almeida.\n\nJoaquim Moreira Raposo.\n\nJoaquim Sebastião Sarmento da Fonseca Almeida.\n\nJoel Eduardo Neves Hasse Ferreira.\n\nJorge Lacão Costa.\n\nJorge Manuel Fernandes Valente.\n\nJorge Manuel Gouveia Strecht Ribeiro.\n\nJosé Adelmo Gouveia Bordalo Junqueiro.\n\nJosé Afonso Teixeira de Magalhães Lobão.\n\nJosé Alberto Cardoso Marques.\n\nJosé António Ribeiro Mendes.\n\nJosé Carlos da Cruz Lavrador.\n\nJosé Carlos Lourenço Tavares Pereira.\n\nJosé de Matos Leitão.\n\nJosé Domingos de Ascensão Cabeças.\n\nJosé Ernesto Figueira dos Reis.\n\nJosé Fernando Rabaça Barradas e Silva.\n\nJosé Manuel de Medeiros Ferreira.\n\nJosé Manuel Santos de Magalhães.\n\nJosé Maria Teixeira Dias.\n\nJosé Pinto Simões.\n\nJovita de Fátima Romano Ladeira Matias.\n\nJúlio Manuel de Castro Lopes Faria.\n\nLuís Afonso Cerqueira Natividade Candal.\n\nLuís Filipe Nascimento Madeira.\n\nManuel Alberto Barbosa de Oliveira.\n\nManuel Alegre de Melo Duarte.\n\nManuel António dos Santos.\n\nManuel Francisco dos Santos Valente.\n\nManuel Jorge Pedrosa Forte de Goes.\n\nManuel Porfírio Varges.\n\nMaria Amélia Macedo Antunes.\n\nMaria Celeste Lopes da Silva Correia.\n\nMaria da Luz Lameiro Beja Ferreira Rosinha.\n\nMaria do Carmo de Jesus Amaro Sequeira.\n\nMaria do Rosário Lopes Amaro da Costa da Luz Carneiro.\n\nMaria Fernanda dos Santos Martins Catarino Costa.\n\nMaria Helena do Rêgo da Costa Salema Roseta.\n\nMaria Isabel Ferreira Coelho de Sena Lino.\n\nMaria Jesuína Carrilho Bernardo.\n\nMário Manuel Videira Lopes.\n\nMartim Afonso Pacheco Gracias.\n\nMiguel Bernardo Ginestal Machado Monteiro Albuquerque.\n\nNatalina Nunes Esteves Pires Tavares de Moura.\n\nNelson Madeira Baltazar.\n\nNuno Manuel Pereira Baltazar Mendes.\n\nOsvaldo Alberto Rosário Sarmento e Castro.\n\nPaulo Jorge dos Santos Neves.\n\nPedro Luís da Rocha Baptista.\n\nPedro Ricardo Cavaco Castanheira Jorge.\n\nRaimundo Pedro Narciso.\n\nRosa Maria da Silva Bastos da Horta Albernaz.\n\nRui do Nascimento Rabaça Vieira.\n\nRui Manuel Palácio Carreteiro.\n\nSónia Ermelinda Matos da Silva Fertuzinhos.\n\nVictor Brito de Moura.\nPartido Social Democrata (PSD):\nAdalberto Paulo da Fonseca Mendo.\n\nAdriano de Lima Gouveia Azevedo.\n\nAmândio Santa Cruz Domingues Basto Oliveira.\n\nAntonino da Silva Antunes.\n\nAntónio Costa Rodrigues.\n\nAntónio Fernando da Cruz Oliveira.\n\nAntónio Germano Fernandes de Sá e Abreu.\n\nAntónio Joaquim Correia Vairinhos.\n\nAntónio José Barradas Leitão.\n\nAntónio Moreira Barbosa de Melo.\n\nAntónio Paulo Martins Pereira Coelho.\n\nAntónio Soares Gomes. Arménio dos Santos.\n\nArtur Ryder Torres Pereira.\n\nCarlos Eugénio Pereira de Brito.\n\nCarlos Manuel de Sousa Encarnação.\n\nCarlos Manuel Duarte de Oliveira.\n\nCarlos Manuel Marta Gonçalves.\n\nCarlos Miguel Maximiano de Almeida Coelho.\n\nDuarte Rogério Matos Ventura Pacheco.\n\nEduardo Eugénio Castro de Azevedo Soares.\n\nFernando José Antunes Gomes Pereira.\n\nFernando Manuel Alves Cardoso Ferreira.\n\nFernando Pedro Peniche de Sousa Moutinho."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 2529,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o Sr. Secretário vai dar conta dos diplomas que deram entrada na Mesa."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 2529,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Artur Penedos)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, deram entrada na Mesa, e foram admitidos, os seguintes diplomas: projectos de lei n.os 359/VII\n- Lei-Quadro da Acção Social Escolar no Ensino Superior (PCP), que baixou à 6.ª Comissão, 360/VII - Reorganização administrativa do território do concelho do\n\nSeixal, com a criação das freguesias de Cruz de Pau, Miratejo e Torre da Marinha e com a alteração dos limites das freguesias da Aldeia de Paio Pires, Amora,\n\nArrentela, Corroios e Seixal (Deputada do PSD Lucília Ferra), que baixou à 4.ª Comissão, 361/VII - Elevação de São Maninho do Campo, no município de Santo Tirso, a vila (PS), que baixou à 4.ª Comissão, 362/VII - Elevação de Rebordões a vila (PS), que baixou à 4.ª Comissão, e 363/VII - Alteração dos limites da freguesia de Santa Luzia, no concelho de Tavira (Deputado do PS Jorge Valente), que baixou à 4.ª Comissão."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 2529,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos iniciar os nossos trabalhos com o debate da proposta de resolução n.º 42/VII - Aprova, para ratificação, o Acordo de Parceria e Cooperação entre as Comunidades Europeias e os seus Estados membros, por um lado, e a República da Moldávia, por outro, incluindo os Anexos I a V e o Protocolo sobre Assistência Mútua entre as Autoridades Administrativas em Matéria Aduaneira, bem como a Acta Final com as declarações, assinado em Bruxelas, em 28 de Novembro de 1994.\n\nPara fazer a síntese do relatório, tem a palavra o Sr. Deputado João Corregedor da Fonseca."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 2529,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "PCP",
+        "string": "O Sr. João Corregedor da Fonseca (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Os objectivos do acordo de parceria a que se refere esta proposta de resolução apresentada pelo Governo visam proporcionar um quadro adequado para o diálogo político que permita desenvolver relações políticas, promover o comércio e o investimento e relações económicas harmoniosas, criar uma base para a cooperação nos domínios legislativo, económico, social e financeiro e cultural e, finalmente, apoiar os esforços da República da Moldova na consolidação da democracia, no desenvolvimento de uma economia e na conclusão da sua transição para, segundo se afirma no documento, uma economia de mercado.\n\nÉ de salientar do longo documento, que constitui o Acordo - recordo que tem 106 artigos, além de alguns anexos -, que ambas as Partes manifestam o seu empenhamento em promover a paz e a segurança internacionais e concorrer para a resolução pacífica de conflitos, cooperando, nesse sentido, no âmbito não só das Nações"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 2530,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para introduzir o debate, tem a palavra o Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 2530,
+      "speaker": {
+        "id": 1498,
+        "name": "José Alberto Rebelo Dos Reis Lamego",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação (José Lamego)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente e Srs. Deputados, como é habitual nestas sextas-feiras de manhã, resta-me oferecer o merecimento dos autos e dispenso-me de alegar em abono dos acordos aqui propostos para ratificação."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 2530,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Onde é que eu já ouvi isso?!...\nPara uma intervenção, tem a palavra o Sr. Deputado João Corregedor da Fonseca."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 2530,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "PCP",
+        "string": "O Sr. João Corregedor da Fonseca (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação, Srs. Deputados: Sr. Secretário de Estado, ouvi atentamente a sua \"exposição\", mas tenho a dizer-lhe que na nota justificativa e no preâmbulo desta proposta de resolução, tirando a referência, feita uma meia dúzia de vezes, à liberalização da economia e à transição para a economia de mercado, o Governo nada nos diz sobre o tipo de efeitos que um acordo desta natureza tem para Portugal. Este é um acordo entre as Comunidades Europeias e a República da Moldova, mas seria de pressupor que o Governo nos diria quais as consequências positivas ou negativas deste acordo de parceria, nomeadamente sobre o sector agro-industrial ou da agricultura...\n\nOra, é exactamente esta a pergunta que lhe faço. É que, quando debatemos aqui uma proposta de resolução que tem a ver com ratificações ou aprovações de tratados, acordos ou convenções internacionais, também devemos saber e não só nós na Assembleia da República mas o País em geral - que tipo de consequências podem eventualmente ocorrer para o nosso país.\n\n(O Orador reviu.)"
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 2530,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Secretário de Estado, dos Negócios Estrangeiros e da Cooperação para esclarecer aquilo que não disse."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 2530,
+      "speaker": {
+        "id": 1498,
+        "name": "José Alberto Rebelo Dos Reis Lamego",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado João Corregedor da Fonseca, naturalmente quando acordos deste teor são feitos, são-no, sobretudo, por razões de natureza política e para a estabilização de regimes políticos em países que se encontram, como a República da Moldávia, numa situação, quer interna quer do ponto de vista geopolítico, que nos oferece alguma perplexidade.\n\nPensamos, mais por razões políticas. que a aproximação entre as Comunidades Europeias e a República da Moldávia é importante. Para além disso, essa aproximação corresponde a desejos de uma arquitectura pan-europeia de segurança e de estabilidade. A Moldávia é um país atípico, cora profundas relações com a Rússia - aliás, é o lugar de estacionamento do 14.º Exército Russo; é um país que tem relações especiais com um futuro candidato à União Europeia e à NATO, que é a Roménia, e nós. como país latino, temos feito a defesa da causa das Roménia, em matéria de integração na NATO - e isto, por razões não de natureza ofensiva, ruas de estabilidade política e de pertença ao clube das nações democráticas e, portanto, por razões de estabilização do regime democrático na Roménia.\n\nOra, dadas as circunstâncias específicas da Moldávia, defendermos a ratificação deste acordo de parceria, sem atender, porque serão irrelevantes e até porque a situação económica da Moldávia não apresenta riscos de qualquer natureza em termos de competitividade económica, a outras razões que não as de estabilização política."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 2530,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Francisco Torres."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 2530,
+      "speaker": {
+        "id": 1476,
+        "name": "Francisco Xavier Pablo Da Silva Torres",
+        "party": "PSD",
+        "string": "O Sr. Francisco Torres (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: O parecer sobre este Acordo de Parceria e Cooperação entre as Comunidades Europeias e os seus Estados membros. por um lado, e a República da Moldávia, por outro. foi aprovado na Comissão de Assuntos Europeus, reservando-se para o Plenário a posição dos vários grupos parlamentares.\n\nEm nome do Grupo Parlamentar do PSD, gostava de saudar a celebração deste Acordo, que. aliás, vem no espírito dos vários acordos que se têm feito para renovar o anterior acordo da Comunidade Económica Europeia com a União Soviética, de 1989, os quais começaram a ser negociados a partir de 1992, tendo este silo concluído em 1994."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 2531,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 2531,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Ferreira Ramos."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 2531,
+      "speaker": {
+        "id": 1618,
+        "name": "Manuel Jose Flores Ferreira Dos Ramos",
+        "party": "CDS-PP",
+        "string": "O Sr. Ferreira Ramos (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Nesta aprovação, para ratificação, do Acordo de Parceria e Cooperação entre as Comunidades Europeias e os seus Estados membros, por um lado, e a República da Moldávia, por outro, apenas interessará explicitar aqui a posição de princípio do Partido Popular, sublinhando, de resto, as palavras e o texto constante do relatório que foi apresentado no início desta discussão, com o qual concordamos em definitivo.\n\nPor parte do Partido Popular são reconhecidas as razões políticas que levam as comunidades a estabelecer acordos de parceria e cooperação com estes novos países que renascem do colapso da URSS. Essas razões políticas e a adopção de princípios democráticos em relação a esses países é de extrema importância, do nosso ponto de vista, mas também não queríamos deixar de tornar claro que a outra vertente, ou seja, a vertente das consequências, não só neste Acordo de Parceria, mas dos múltiplos que têm vindo a ser submetidos à nossa consideração, deveria merecer, da parte portuguesa, uma maior atenção, embora reconheçamos que na contraposição entre as razões políticas e as económicas obviamente as que relevam serão sempre as políticas, daí darmos o nosso voto favorável à ratificação deste Acordo."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 2531,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 2531,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Carlos Luís."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 2531,
+      "speaker": {
+        "id": 1022,
+        "name": "Carlos Manuel Luís",
+        "party": "PS",
+        "string": "O Sr. Carlos Luís (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Aprecia-se hoje a proposta de resolução n.º 42/VII - Aprova, para ratificação, o Acordo de Parceria e Cooperação entre as Comunidades Europeias e os seus Estados membros, por um lado, e a República da Moldávia, por outro, incluindo os Anexos I a V e o Protocolo sobre Assistência Mútua entre as Autoridades Administrativas em Matéria Aduaneira bem como a Acta Final com as Declarações, assinado em Bruxelas em 28 de Novembro de 1994.\n\nAmbas as partes manifestam o seu empenhamento em promover a paz e a segurança internacionais e em concorrer para a resolução pacífica de conflitos, cooperando, nesse sentido. no âmbito das Nações Unidas e da CSCE, para o que aplicarão integralmente todos os princípios e disposições da acta final da CSCE.\n\nA cooperação estender-se-á nos domínios legislativo, económico, social, financeiro e cultural e, finalmente, visa apoiar os esforços da Moldávia na consolidação da democracia, no desenvolvimento de uma economia e na conclusão da sua transição para a economia de mercado.\n\nO Acordo é celebrado por um período inicial de dez anos e prorrogado, automaticamente, por períodos de um ano, se nenhuma das partes o denunciar até seis meses antes do seu termo.\n\nOs acordos de parceria e cooperação, à semelhança dos acordos europeus de associação, anteriormente celebrados com países da Europa Central e Oriental, obedecem a um claro condicionalismo, reservando-se aos países que derem provas concretas de respeito pelos direitos humanos e pelo Estado de direito, de aplicação da regra do pluripartidarismo e organização de eleições livres e democráticas.\n\nPor isso, o Parado Socialista votará favoravelmente esta resolução."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 2531,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 2531,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, como não há mais pedidos de palavra, dou por concluído o debate da proposta de resolução n.º 42/VII.\n\nCom o consenso de todos os grupos parlamentares, e para aproveitar a presença aqui do Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação, sem necessidade de um intervalo que o faria estar aqui inutilmen-"
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 2532,
+      "speaker": {
+        "id": 1498,
+        "name": "José Alberto Rebelo Dos Reis Lamego",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Este Acordo insere-se num formato habitual de acordos de protecção recíproca de investimentos. Todos conhecem a evolução na Eslováquia, que é um país que está a atravessar, dentro do quadro dos países europeus, alguma dificuldade, quer em termos de estabilidade política quer em termos de recuperação económica, mas, de todo o modo, é um candidato não só ao alargamento da União Europeia mas também ao alargamento da NATO.\n\nNão ë previsível que seja susceptível de inclusão na primeira vaga do alargamento, mas, de qualquer modo, é um país que deve ser ajudado na reconversão económica e que tem servido também como elemento de ligação ou corredor entre o Ocidente europeu e o Leste europeu e, portanto, pensamos que este acordo, mesmo que não seja realisticamente de prever uma grande intensidade na sua execução, deve ser aprovado, até como sinal de que a Eslováquia é hoje um membro de pleno direito da Comunidade das Nações Europeias."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 2532,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, quero corrigir uma informação inexacta que dei, porque inexacta a tinha. É que o Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação vai também representar o Governo no debate sobre as restantes propostas de resolução.\n\nPara uma intervenção, tem a palavra o Sr. Deputado Antunes da Silva."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 2532,
+      "speaker": {
+        "id": 611,
+        "name": "Francisco Antunes Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Antunes da Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo. Srs. Deputados: O Governo, depois deter assinado, em 10 de Julho de 1995, o Acordo entre a República Portuguesa e a República Eslovaca sobre a Promoção e Protecção Recíproca de Investimentos e o respectivo Protocolo, apresentou à Assembleia da República uma proposta de resolução, visando a ratificação do referido Acordo, e é sobre ela que nos cumpre pronunciar.\n\nPortugal tem celebrado acordos de idêntica natureza com vários outros países, numa óptica de cooperação económica e no quadro de uma economia mundial, que, sendo cada vez mais globalizante, assim o exige.\n\nÉ neste quadro que a cooperação económica assume importância cada vez maior, sendo também cada vez mais relevantes as condições em que desenvolvem as mais variadas actividades económicas em que essa cooperação se deve traduzir.\n\nOs investidores de qualquer parte contratante exigem, naturalmente, que ela se desenvolva em bases sólidas, estáveis e reciprocamente vantajosas.\n\nOra, é precisamente através de acordos, como os que agora apreciamos, e outros instrumentos que se podem estabelecer essas bases e a partir delas intensificar as relações económicas e alargar os espaços geográficos em que elas se desenrolam. Este Acordo entre a República Portuguesa e a República Eslovaca surge num contexto com particularidades marcantes que decorrem das mutações políticas estruturais, resultantes do fim do Pacto de Varsóvia em geral e da cisão da ex-Checoslováquia em particular. Naturalmente, as mudanças tão profundas que ali se registaram, implicaram alterações nos sistemas económicos nos países envolvidos, que, por sua vez, determinaram novas e diferentes formas de relacionamento com outros Estados dentro e fora daquele espaço geográfico. É altamente desejável que os novos relacionamentos nos domínios económicos e em outros contribuam para a consolidação da democracia naqueles novos Estados. Aliás, é também nesta óptica que este Acordo, sobre a protecção e promoção recíproca de investimentos, pode e deve ser encarado, tanto mais que ele consagra princípios próprios de Estado de direito, o que entendemos dever ser suficientemente realçado.\n\nCom efeito, o Acordo em apreciação consagra regras relativas à promoção e protecção dos investimentos a realizar por qualquer das partes contratantes, às quais será concedido, por força dessas regas, um tratamento justo e equitativo, traduzindo os princípios a que fazemos referência. Ainda em consonância com tais princípios, são igualmente consagradas normas relacionadas com eventuais expropriações e respectivas indemnizações, com compensações por perdas e transferencias, e finalmente normas para a resolução de possíveis diferendos, prevendo-se, neste caso, a distinção entre diferendos entre partes contratantes e diferendos entre uma parte contratante e um investidor de outra parte.\n\nEm nossa opinião, este conjunto de normas está formulado de forma adequada e responde ao objectivo essencial do Acordo, isto é, e como já se disse, permitir que aos investimentos a realizar por investidores de qualquer das partes contratantes seja assegurado um tratamento justo e equitativo, beneficiando de protecção e segurança, segundo o princípio de tratamento da nação mais favorecida.\n\nPortugal, viveu algumas experiências que encontram algum paralelo com as vividas naqueles países e daí ser nossa convicção de que o nosso país pode dar sérios contributos na renovação das suas estruturas económicas e no processo de consolidação da democracia. O interesse económico de que pode revestir-se o Acordo, aliado aos princípios que lhe estão subjacentes, fazem com que o Partido Social Democrata com ele concorde e, consequentemente, vote a favor da sua ratificação."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 2532,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Nuno Abecasis."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 2532,
+      "speaker": {
+        "id": 336,
+        "name": "Nuno Krus Abecasis",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Abecasis (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Este tipo de acordo, ou de resolução, que agora estamos a apreciar, e que aqui tem vindo em relação a vários países e a várias regiões do mundo, abre de facto perspectivas aliciantes, como é o caso da Eslováquia, em relação à produção e à capacidade económica portuguesa. Mas, Sr. Presidente, neste momento, em que damos a nossa aprovação a esta resolução, não quero deixar de dizer que me dá a ideia de que funcionamos de uma forma desligada em relação a tudo isto. E apetece-me perguntar ao Sr. Secretário de Estado qual e o seguimento que o sector da economia do Governo dá a este tipo de acordos. Faço esta pergunta porque cheguei recentemente de uma visita parlamentar à China, com quem, em tempos passados, foi firmado um acordo que consagrava créditos da ordem dos 20 milhões de contos ao desenvolvimento das actividades económicas entre Portugal e a China, o que correspondeu, certamente, a um esforço considerável do Ministério dos Negócios Estrangeiros, e verifiquei que até hoje não teve"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 2533,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 2533,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Antes de dar a palavra ao Sr. Deputado Henrique Neto, para uma intervenção, informo a Câmara de que se encontram a assistir aos nossos trabalhos 97 alunos da Escola Secundária do Cartaxo, 37 alunos do Colégio Quinta do Lago, na Parede, 44 alunos da Escola Nova Apostólica, de Carcavelos, 26 alunos do Colégio de São José, de Sintra, 51 alunos da Escola do 1.º Ciclo n.º 57, de Telheiras, e 34 alunos da Escola Secundária Dr. António Granjo, de Chaves.\n\nÉ um privilégio tê-los connosco. Saudemo-los.\nTem a palavra o Sr. Deputado Henrique Neto."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 2533,
+      "speaker": {
+        "id": 1628,
+        "name": "Henrique Jose De Sousa Neto",
+        "party": "PS",
+        "string": "O Sr. Henrique Neto (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: O acordo entre a República Portuguesa e a República Eslovaca sobre a promoção e a protecção recíproca de investimentos é mais um passo na direcção certa no sentido de permitir o desenvolvimento de relações económicas modernas e estáveis entre Portugal e os diversos países que constituíam o antigo Pacto de Varsóvia.\n\nEste Acordo, a exemplo de outros já ratificados nesta Câmara, visa criar condições de maior previsibilidade e segurança para o desenvolvimento de relações económicas entre as empresas dos dois países, nomeadamente na área da protecção aos investimentos, e inscreve-se no Programa do Governo, no sentido de incrementar os negócios nacionais com esta zona da Europa, o que não podemos deixar de aplaudir.\n\nEntretanto, ninguém desconhece a preocupação com que alguns sectores de actividade e empresas nacionais encaram a crescente participação destes países no comércio europeu e mundial conhecedores que são de algumas desvantagens comparativas para as empresas portuguesas, como seja a maior proximidade destes países a alguns mercados para nós importantes, como sejam os custos de produção substancialmente mais baixos do que os nossos, com idêntica capacidade humana e profissional, da mesma forma que com realismo se reconhece a concorrência que os países do Leste europeu podem constituir na óptica do alargamento da União Europeia.\n\nTodavia, aquilo que numa visão defensiva poderiam ser razões para não ver com bons olhos estes novos relacionamentos são, antes, acredito, uma necessidade absoluta para a melhoria da nossa capacidade competitiva no mundo e para o desenvolvimento e diversificação das nossas relações económicas no quadro do mercado global. De facto, todas as potenciais dificuldades e constrangimentos que resultam de uma determinada alteração no quadro dos relacionamentos económicos são, numa visão moderna, simultaneamente oportunidades que urge não desperdiçar. Como muitos empresários sabem, ainda que por vezes de forma não teorizada, é nos períodos das grandes alterações e transformações económicas, mesmo as mais radicais, que se criam os novos relacionamentos e as novas oportunidades que frequentemente duram, depois, gerações. É a vantagem frequente de andar à frente e de chegar primeiro.\n\nPor isso o Governo não deve perder tempo e não deve ter receio de antecipar a institucionalização das relações entre Portugal e os países do Leste europeu da mesma forma que os empresários portugueses não podem perder estas novas oportunidades de realizar negócios e de ganhar dinheiro. Até porque. com a liberdade de instalação e com a definição de um quadro legal que garanta igualdade de tratamento, as vantagens existentes nestes países, a serem verdadeiras, também existem para os empresários portugueses que delas queiram tirar vantagens.\n\nOu seja, no quadro dos valores actualmente existentes na economia mundial, não existe alternativa à necessidade da existência de empresários corajosos, com visão e saber necessários, capazes de orquestrar com sucesso os recursos e as oportunidades que existem por esse mundo fora. Aos Estados compete garantir que as condições para isso existentes não prejudiquem ou condicionem as iniciativas empresariais. É o que a Assembleia da República fará, ratificando este acordo entre a República Portuguesa e a República Eslovaca."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 2533,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, visto não haver mais inscrições, dou por encerrado o debate da proposta de resolução n.º 45/VII.\n\nVamos dar início ao debate conjunto das propostas de resolução n. º 43/VII - Aprova, para ratificação, o Acordo de Cooperação na Área Militar entre o Ministério da Defesa Nacional de Portugal e o Ministério de Defesa Nacional da Roménia, assinado em Bucareste, em 10 de Julho de 1995, e 44/VII - Aprova, para ratificação, o Acordo entre o Ministério da Defesa Nacional de Portugal e o Ministério de Defesa Nacional da Polónia em matéria de Cooperação Bilateral no Domínio Militar, assinado em Varsóvia, em 12 de Julho de 1995.\n\nTem a palavra o Sr. Deputado Rui Vieira, para, na qualidade de relator, apresentar o relatório da Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 2533,
+      "speaker": {
+        "id": 1128,
+        "name": "Rui Do Nascimento Rabaça Vieira",
+        "party": "PS",
+        "string": "O Sr. Rui Vieira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Os acordos de cooperação de âmbito militar entre"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 2534,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação."
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 2534,
+      "speaker": {
+        "id": 1498,
+        "name": "José Alberto Rebelo Dos Reis Lamego",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A apresentação destes dois acordos de cooperação na área militar com dois países, ambos candidatos à adesão à NATO e, simultaneamente, parceiros de Portugal nos exercícios da Parceria para a Paz, parece ao Governo de grande importância, apesar de a intensidade desta cooperação não ser previsivelmente elevada.\n\nEm 8 e 9 de Julho, vai ter lugar, em Madrid, o alargamento da NATO. É hoje previsível que a Polónia seja incluída nesta primeira vaga de alargamento e é desejável, do ponto de vista do Governo português, que a Roménia também o seja. De todo o modo, relativamente a este último país, não há o conjunto de certezas que há relativamente à Polónia que. seguramente, fará parte da primeira vaga do alargamento.\n\nNaturalmente, esta cooperação na área militar e o próprio alargamento da NATO, como afirmei na apresentação da proposta de resolução n.º 42/VII, tem a ver com a própria transformação progressiva da NATO numa organização de cooperação política e menos numa organização de defesa.\n\nPortanto, é nesta perspectiva de uma futura organização de cooperação política, que, simultaneamente, mantenha relações estáveis com a Rússia e com a Ucrânia, que será garantida a segurança e a paz na Europa numa base de pastilha de valores de democracias pluripartidárias e de respeito pelos direitos humanos. Por isso, a ratificação destes acordos tem uma incidência sobretudo política e um simbolismo político e muito menos apenas uma incidência militar."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 2534,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Pedro Holstein Campilho."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 2534,
+      "speaker": {
+        "id": 1691,
+        "name": "Pedro Domingos De Souza E Holstein Campilho",
+        "party": "PSD",
+        "string": "O Sr. Pedro Holstein Campilho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ªs e Srs. Deputados: A assinatura, no ano de 1995. de acordos de cooperação na área militar entre Portugal e dois países da Europa Central - Roménia e Polónia revela a clara percepção do nosso país de que a estabilidade no continente europeu se alcanço através do diálogo e da intensificação de relações com estas novas democracias. Dialogo, aliás, facilitado por valores e aspirações em comum.\n\nPor alguma razão assistimos à adaptação da linguagem política no pós-guerra fria. o que levou Zbigniew Brzezinski, no início da década de 90, a retomar uma fórmula, anos antes celebrizada por Mi1an Kundera, e a afirmar: \"Hoje, a Europa de Leste volta a ser a Europa Central - aquilo que sempre foi, histórica, cultural e filosoficamente\".\n\nÉ este retorno à Europa, ideal que. na Roménia, homens como George Enescu e Eugène Ionesco, neste século, mantiveram aceso, que devemos encorajar. É este retorno à Europa, defendido por muitos, entre os quais alguns antigos marxistas como os polacos Kolakowski ou Jacek Kuron, que devemos aplaudir.\n\nÉ, portanto, este retorno à Europa, esta tentativa de forjar a unidade e a paz europeia que devemos hoje saudar. Uma aspiração que, mesmo na época da divisão da Europa, estes povos acalentaram e que exprimiram na frase: \"Toda a barreira, por muito repressiva que pretenda ser, é sempre permeável ao fluxo de ideias\".\n\nNestes caminhos do pós-comunismo, e respondendo ao apelo da Europa, estes países dão os primeiros passos democráticos com as dificuldades inerentes à passagem de uma economia planificada para uma economia de mercado e à substituição de um regime legitimado pela ideologia por um regime legitimado por eleições livres."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 2534,
+      "speaker": {
+        "id": 1118,
+        "name": "António Paulo Martins Pereira Coelho",
+        "party": "PSD",
+        "string": "O Sr. Paulo Pereira Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 2534,
+      "speaker": {
+        "id": 1691,
+        "name": "Pedro Domingos De Souza E Holstein Campilho",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Minados por pulsões nacionalistas e populistas e enredados no difícil problema das minorias, estes Estados buscam na integração regional e na integração nas estruturas políticas euro-atlânticas um incentivo para o seu desenvolvimento. Não os podemos desiludir.\n\nSr. Presidente, Sr.ªs e Srs. Deputados: Afigura-se, para o PSD, que estas considerações justificam a nossa votação\n\nfavorável às propostas de resolução n.º` 43/VII e 44/VII.\n\nOs acordos de cooperação na área militar com a Roménia e a Polónia, ao consagrarem como princípios orientadores da sua celebração a Carta das Nações Unidas; a Carta de Paris para uma Nova Europa; o Tratado CFE, a Parceria para a Paz e ao invocarem o espírito que preside à renovação da NATO, asseguram o firme propósito de contribuir para a estabilidade e segurança na Europa.\n\nNo momento em que o alargamento da NATO se aproxima a passos largos do seu início e em que acabamos de assistir ao acordo sobre o texto do documento a assinar entre a Aliança Atlântica e Moscovo, protagonizado por Javier Solina e Primakov, mais temos de congratular-nos com a correcta visão estratégica de Portugal ao assinar estes acordos em 1995. Não tenhamos dúvidas, o alargamento da NATO vai ser factor de estabilidade na Europa, levará a um progressivo desarmamento e diminuição de tensões nesta parte do mundo em que vivemos."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 2534,
+      "speaker": {
+        "id": 1118,
+        "name": "António Paulo Martins Pereira Coelho",
+        "party": "PSD",
+        "string": "O Sr. Paulo Pereira Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 2535,
+      "speaker": {
+        "id": 1691,
+        "name": "Pedro Domingos De Souza E Holstein Campilho",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Afinal, talvez tenhamos aprendido com as lições da História e não queiramos assistir aos erros que levaram ao início da II Guerra Mundial, evitando, no devido tempo, o que a teimosia de alguns poderia tornar fatal."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 2535,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 2535,
+      "speaker": {
+        "id": 1691,
+        "name": "Pedro Domingos De Souza E Holstein Campilho",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os acordos consubstanciam a cooperação no domínio militar, especificada nos relatórios apresentados pelas Comissões de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação e Defesa Nacional, e visam o estreitamento dos laços com estes países, facilitando, inclusive, a nossa participação em acções conjuntas no âmbito da Parceria para a Paz.\n\nCria-se, assim, um clima de cooperação entre as democracias europeias e constrói-se uma rede de estabilidade democrática na Europa. Portugal assume, assim, o seu papel histórico. Esta Assembleia saberá honrar este desígnio nacional."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 2535,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Luís Queiró, para uma intervenção."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 2535,
+      "speaker": {
+        "id": 767,
+        "name": "Luís Afonso Cortez Rodrigues Queiró",
+        "party": "CDS-PP",
+        "string": "O Sr. Luís Queiró (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: As propostas de resolução que estamos, hoje, a discutir e a aprovar devem inserir-se, a nosso ver, no quadro mais vasto da evolução das relações dos países da Europa Central e Oriental e a União Europeia.\n\nDe facto, assim que a abertura política e económica o permitiu, após décadas de isolamento forçado, assistimos à formalização das relações destes países com a Comunidade Europeia, mediante um conjunto de acordos bilaterais de comércio e cooperação, com base contratual abrangente, dos quais podemos destacar a Declaração Comum, emitida em Junho de 1988 pela Comunidade Europeia e pelo Conselho de Ajuda Económica Mútua.\n\nAssistimos, simultaneamente, às reformas políticas e económicas iniciadas nestes países, que foram apoiadas por facilidades comerciais, a par de uma estreita cooperação. Esta política da Comunidade tem ainda por objectivo a aproximação dos países PECO ao espaço económico europeu.\n\nNeste sentido, a celebração dos acordos europeus de associação deverão desenvolver essa política, criando simultaneamente novas estruturas e instrumentos, com o intuito de estreitar a parceria da Comunidade com esses países, tendo como objectivo último a possibilidade de adesão à Comunidade.\n\nNum futuro próximo, os acordos europeus constituirão a pedra de toque das relações da União Europeia com estes países, isto desde que estes tenham instituídos sistemas políticos e económicos que respeitem a democracia, o princípio do Estado de direito, os Direitos do Homem e observem, também, os princípios da economia de mercado.\n\nEm concreto, no que toca à cooperação de defesa e militar, verificamos que o Acordo assinado com a Roménia, em Julho de 1995, contribui, em nosso entender, para o estreitamento de laços entre dois povos de ascendência latina, concretizando\no objectivo da integração romena nas estruturas euro-atlânticas de segurança.\n\nO presente Acordo incentiva, como sabemos, as relações iniciadas em 1993, concretizando a cooperação entre dois Estados nas áreas da política de segurança e defesa, designadamente em domínios tão importantes como\no ordenamento jurídico das forças anisadas, o controlo do armamento e do tráfego aéreo, as operações humanitárias e de manutenção de paz e a organização das forças armadas no domínio do pessoal, administração e logística, entre outros. Com vista à boa execução deste Acordo, é criada. uma comissão mista para as questões de defesa, encarregada do acompanhamento e da cooperação.\n\nO Acordo assinado com a Polónia, já que o estamos a discutir conjuntamente. estabelece as áreas e formas de cooperação militar, referindo-se ainda à observância rigorosa dos direitos sobre patentes, royalties e segredo comercial. De modo a implantar as disposições enunciadas, prevê-se a criação de uma comissão mista, sendo assumida pelas partes a elaboração de um programa anual de cooperação.\n\nVerificamos, assim, que estes Acordos seguem um figurino mais ou menos \"estandardizado\" com o dos diversos países a que nos temos vindo a referir.\n\nEm suma, o PP considera que, ao aprofundar-se as relações bilaterais, no domínio da defesa, com os novos países democráticos do Centro e Leste europeus, está a dar-se um passo no sentido da concretização do objectivo da política externa do Estado português, facilitando, também, a nossa participação em acções no âmbito da Parceria para a Paz a nível da NATO. E, mais importante ainda, estes Acordos contribuem, de facto, para o aprofundamento de um clima de segurança colectiva, assente no controlo recíproco e na interligação dos comandos militares, eles próprios fundamentais para o estabelecimento de um clima de confiança e de paz na Europa."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 2535,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 2535,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Albino Costa."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 2535,
+      "speaker": {
+        "id": 1564,
+        "name": "Albino Gonçalves Da Costa",
+        "party": "PS",
+        "string": "O Sr. Albino Costa (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação, Srs. Deputados: O presente debate visa a aprovação, para ratificação, de dois Acordos de Cooperação Mútua entre o Ministério de Defesa Nacional da Republica Portuguesa e os Ministérios de Defesa Nacional da Republica da Roménia e da República da Polónia, assinados em Bucareste a 10 de Julho de 1995 e em Varsóvia a 12 de Julho do mesmo ano, respectivamente.\n\nEncontram-se plasmadas, nos preâmbulos das propostas. de resolução n.os 43 e 44/VII, as devidas justificações do acordado pelas Partes, nomeadamente no que concerne aos desígnios estratégicos de Portugal no âmbito destes acordos internacionais.\n\nTem Portugal perseguido, ao nível do estabelecimento de acordos bilaterais, as acções de cooperação e diálogo com vista à paz e ao desenvolvimento global, dando especial relevo, neste domínio, às relações bilaterais na área cia defesa com as democracias emergentes do Centro e Leste europeu (PECO). Por estas razões se estabeleceram os presentes Acordos.\n\nSão históricos os conflitos e a tendência belicista deste espaço multicultural e multi-étnico que é o continente europeu. Não interessa aqui escalpelizar as causas desta quase fatalidade histórica; interessa, sim, continuar o esforço empreendedor dos povos e nações da Europa na prossecução da paz, do entendimento e do desenvolvimento em parceria, que tem sido denodadamente consolidado ao\nlongo das últimas décadas."
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 2536,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o Sr. Secretário vai dar conta de um relatório e parecer da Comissão de Assuntos Constitucionais, Direitos. Liberdades e Garantias relativo à retoma de um Deputado e à substituição de um outro."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 2536,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (José Reis)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, o relatório e parecer é do seguinte teor:\n1 - Em reunião da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, realizada no dia 16 de Maio de 1997, pelas 10 horas, foi observada a seguinte retoma de mandato de Deputado:\n\nRetoma de mandato nos termos do artigo 6.º, n.os 1 e 2, do Estatuto dos Deputados (Lei n.º 7/93, de 1 de Março) Grupo Parlamentar do Partido Socialista (PS): José Domingos da Ascensão Cabeças (Círculo Eleitoral de Coimbra), em 16 de Maio corrente, inclusive, cessando Rui Manuel dos Santos Namorado.\n\n2 - A Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias tomou conhecimento de que o Deputado Arlindo Gomes de Carvalho (Círculo Eleitoral de Lisboa), substituído nos termos do artigo 5.º, n.º 2, alínea b) do Estatuto dos Deputados, em 17 de Novembro de 1995 (Relatório n.º 5 da Comissão Eventual de Verificação de Poderes), foi eleito administrador da Sociedade Geral de Projectos Industriais e Serviços. S.A., em 14 de Junho de 1996 (carta do próprio), pelo que deve ser considerado substituído nos termos do artigo 20.º, n.º 1, alínea p) do Estatuto dos Deputados, desde aquela data.\n\n3 - Analisados os documentos pertinentes de que a Comissão dispunha, verificou-se que a retoma de mandato indicada obedece aos preceitos regimentais e legais aplicáveis.\n\n4 - Finalmente, a Comissão entende proferir o seguinte parecer:\n\nA retoma de mandato e a substituição em causa são de admitir, uma vez que se encontram verificados os requisitos legais."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 2536,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está em apreciação.\n\nNão havendo pedidos de palavra, vamos votar o pare-"
+    }
+  ]
+}

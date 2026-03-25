@@ -1,0 +1,614 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "5",
+    "legislative_session": "1",
+    "number": "30",
+    "date": "1987-12-11"
+  },
+  "debate_id": "r3_5_1_30_1987-12-11",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 708,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quorum, pelo que declaro aberta a sessão.\nEram 25 horas e 35 minutos.\nEstavam presentes os seguintes Srs. Deputados:\nPartido Social-Democrata (PPD/PSD):\nAbílio de Mesquita Araújo Guedes.\n\nAdão José Fonseca Silva.\n\nAdérito Manuel Soares Campos.\n\nAfonso de Sousa Freire de Moura Guedes.\n\nAlberto Cerqueira de Oliveira.\n\nAlberto Monteiro de Araújo.\n\nÁlvaro Cordeiro Dâmaso.\n\nAmândio Santa Cruz D. Basto Oliveira.\n\nAntónio Abílio Costa.\n\nAntónio Augusto Lacerda de Queiroz.\n\nAntónio de Carvalho Martins.\n\nAntónio Costa de A. de Sousa Lara.\n\nAntónio Fernandes Ribeiro.\n\nAntónio Joaquim Correia Vairinhos.\n\nAntónio José Caeiro da Mota Veiga.\n\nAntónio José de Carvalho.\n\nAntónio Maria Oliveira de Matos.\n\nAntónio Paulo Martins Pereira Coelho.\n\nAntónio Roleira Marinho.\n\nAntónio Sérgio Barbosa de Azevedo.\n\nAntónio da Silva Bacelar.\n\nAristides Alves do Nascimento Teixeira.\n\nArrlindo da Silva André Moreira\n\nArmando de Carvalho Guerreiro da Cunha.\n\nArnaldo Angelo Brito Lhamas.\n\nBelarmino Henriques Correia.\n\nCarlos Alberto Pinto.\n\nCarlos Lélis da Câmara Gonçalves.\n\nCarlos Manuel Oliveira da Silva.\n\nCarlos Manuel Sousa Encarnação.\n\nCarlos Matos Chaves de Macedo.\n\nCarlos Miguel M. de Almeida Coelho.\n\nCarlos Sacramento Esmeraldo.\n\nCasimira Gomes Pereira.\n\nCecília Pita Catarino.\n\nCésar da Costa Santos.\n\nCristóvão Guerreiro Norte.\n\nDaniel Abílio Ferreira Bastos.\n\nDomingos Duarte Lima.\n\nDomingos da Silva e Sousa.\n\nEduardo Alberto de Carvalho P. da Silva.\n\nErcília Domingos M P. Ribeiro da Silva.\n\nEvaristo de Almeida Guerra de Oliveira.\n\nFernando Barata Rocha.\n\nFernando Dias de Carvalho Conceição.\n\nFernando José Alves Figueiredo.\n\nFernando José Antunes Gomes Pereira.\n\nFernando José R. Roque Correia Afonso.\n\nFernando Manuel Alves Cardoso Ferreira.\n\nFernando Monteiro do Amaral.\n\nFernando Sequeira Roriz.\n\nFilipe Manuel Silva Abreu.\n\nFrancisco João Bernardino da Silva.\n\nFrancisco Mendes Costa.\n\nGilberto Parca Madail.\n\nGuido Orlando de Freitas Rodrigues.\n\nGuilherme Henrique V. Rodrigues da Silva.\n\nHilário Torres Azevedo Marques.\n\nJaime Carlos Marta Soares.\n\nJaime Gomes Milhomens.\n\nJoão Costa da Silva.\n\nJoão Domingos F. de Abreu Salgado.\n\nJoão Pedreira de Matos.\n\nJoão José da Silva Maçãs.\n\nJoão Manuel Ascensão Belém.\n\nJoão Maria Ferreira Teixeira.\n\nJoão Soares Pinto Montenegro.\n\nJoaquim Eduardo Gomes.\n\nJoaquim Fernandes Marques.\n\nJoaquim Vilela de Araújo.\n\nJorge Paulo Seabra Roque da Cunha.\n\nJosé Alberto Puig dos Santos Costa.\n\nJosé de Almeida Cesário.\n\nJosé Álvaro Machado Pacheco Pereira.\n\nJosé Angelo Ferreira Correia.\n\nJosé Assunção Marques.\n\nJosé Augusto Ferreira de Campos.\n\nJosé Augusto Santos Silva Marques.\n\nJosé Francisco Amaral.\n\nJosé Júlio Vieira Mesquita.\n\nJosé Lapa Pessoa Paiva.\n\nJosé Leite Machado.\n\nJosé Luís Bonifácio Ramos.\n\nJosé Luís Campos Vieira de Castro.\n\nJosé Luís de Carvalho Lalanda Ribeiro.\n\nJosé Manuel da Silva Torres.\n\nJosé Mário Lemos Damião.\n\nJosé Mendes Bota.\n\nJosé Mendes Melo Alves.\n\nJosé Pereira Lopes.\n\nLeonardo Eugênio Ribeiro de Almeida.\n\nLuís Amadeu Barradas Amaral.\n\nLuís António Damásio Capoulas.\n\nLuís António Martins.\n\nLuís Filipe Ganido Pais de Sousa.\n\nLuís Manuel Neves Rodrigues.\n\nManuel Albino Casimira de Almeida.\n\nManuel Coelho dos Santos.\n\nManuel Ferreira Martins.\n\nManuel João Vaz Freixo.\n\nManuel Joaquim Balista Cardoso.\n\nManuel Joaquim Dias Loureiro.\n\nManuel Maria Moreira.\n\nMaria da Conceição U. de Castro Pereira.\n\nMaria Luísa Lourenço Ferreira.\n\nMaria Manuela Aguiar Moreira.\n\nMaria Natalina Pessoa Milhano Pintão.\n\nMary Patrícia Pinheiro Correia e Lança.\n\nMarília Dulce Coelho Raimundo.\n\nMário Ferreira Bastos Raposo.\n\nMário Jorge Belo Maciel.\n\nMário Júlio Montalvão Machado.\n\nMário de Oliveira Mendes dos Santos.\n\nMateus Manuel Lopes de Brito.\n\nMiguel Bento M. da C. de Macedo e Silva.\n\nMiguel Fernando C. de Miranda Relvas.\n\nNuno Francisco F. Deleure Alvim de Matos.\n\nNuno Miguel S. Ferreira Silvestre.\n\nPedro Domingos de S. e Holstein Campilho.\n\nReinaldo Alberto Ramos Gomes.\n\nRui Alberto Limpo Salvada.\n\nRui Gomes da Silva.\n\nValdemar Cardoso Alves.\n\nVasco Francisco Aguiar Miguel.\n\nVictor Pereira Crespo.\n\nVirgílio de Oliveira Carneiro."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 709,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos dar início à Sessão Comemorativa do 10.º Aniversário do Poder Local.\nPara uma intervenção, tem a palavra o Sr. Deputado Raul Castro."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 709,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Raul Castro (ID)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados, Srs. Membros do Governo, Srs. Autarcas Convidados: Com o 25 de Abril, o poder local renasceu das cinzas, porque antes do 25 de Abril, e durante os longos anos do regime fascista, não houve senão uma aparência do poder local, divorciado das populações, reduzido à fria expressão dos edifícios onde se instalavam os homens de confiança do poder central. E, logo, com as comissões administrativas, após a madrugada libertadora do 25 de Abril, começa a nascer em Portugal o verdadeiro poder local, livre, independente, autónomo e descentralizado.\n\nNão foram fáceis os primeiros passos do novo poder local democrático, quando, praticamente, tudo estava por fazer, quando eram tantos os problemas locais a resolver, e aqueles que foram chamados a desempenhar funções autárquicas nem tinham experiência, nem apoios e nem estruturas bastantes para tão difícil tarefa. Valeu-lhes, então, a sua dedicação cívica e o seu espírito de sacrifício, no que foram correspondidos pela participação activa das populações e pelo seu entusiasmo criador.\n\nEntusiasmo criador que se revelou, não só na entreajuda e disponibilidade solidária com que se lançaram na resolução de muitos problemas locais, mas ainda numa das mais ricas criações espontâneas que o 25 de Abril veio tornar possível, e que são as comissões de moradores.\n\nAo comemorarmos hoje os dez anos de institucionalização do poder local, irreparável injustiça seria não evocar aqui os primeiros autarcas das comissões administrativas, a participação solidária das populações e a acção das comissões de moradores, que, em condições difíceis, abriram o caminho para o novo poder local democrático que a Constituição da República viria depois a consagrar.\n\nRetomando as linhas que a Constituição Republicana de 1911 havia estabelecido, quanto à não ingerência do poder executivo nos órgãos administrativos, à sua autonomia financeira e quanto à representação das minorias nos então chamados corpos administrativos, a Constituição de 1976"
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 710,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Maria Santos."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 710,
+      "speaker": {
+        "id": 1110,
+        "name": "Maria Amélia Do Carmo Mota Santos",
+        "party": "PEV",
+        "string": "A Sr.ª Maria Santos (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.ª s e Srs. Autarcas Convidados, Sr.ª s e Srs. Deputados: Estamos aqui presentes\n\npara comemorar a maturidade da sociedade portuguesa, que se afirma na vitalidade do seu poder local, que busca hoje novos valores, significados e conteúdos. E temos especiais razões para estarmos felizes, porque é Portugal que está de parabéns, pela extraordinária capacidade criadora das comunidades humanas que o habitam e lhe deram um rosto, uma voz, uma vontade democrática e colectiva.\n\nO poder local são os seus autarcas, as suas populações, mais a sua cultura, que foi quem o construiu e lhe deu sentido. O poder local somos todos nós, com a nossa memória e as asas do futuro que queremos para ele. Daí nos chega a experiência de que as transformações profundas não se instituem por decreto e que a Revolução somos nós e que ou está em nós ou não existe.\n\nDemocracia é isso mesmo! É construir no quotidiano esse processo que anima o indivíduo a participar de uma forma cada vez mais crescente nas «coisas públicas».\n\nÉ fazer mexer a sociedade para que conscientemente se empenhe na procura dos denominadores comuns, na capacidade de agir para a resolução dos problemas que a todos atingem. É identificarmo-nos com uma dinâmica social renovadora que motive a convivência livre e solidária e que envolva os cidadãos nas questões que dizem respeito à sua vida. É a exigência de uma política que deve surgir de baixo para cima, onde cada um de nós participa nas decisões e está presente em todos os aspectos do pulsar comunitário. É construir uma sociedade que funcione ramo um todo, com o menor impacte ambiental possível, de modo a perdurar num tempo histórico indeterminado, sem gerar conflitos que provoquem a sua própria destruição. E dar o nosso contributo para que a evolução social que se busca, constrói e reconstrói, a partir dos princípios da diversificação, do policentrismo e do pluralismo, se fortaleça em Portugal.\n\nÉ este o sentido que decerto tem animado tantas mulheres e homens portugueses que ocupam o espaço da política autárquica, que, com o seu labor, impulsionam o movimento do presente, mas também o do futuro. E estou certa que todos eles, independentemente dos seus posicionamentos filosóficos, político ou religiosos, afirmam, através da sua prática, as potencialidades do poder local como suporte fundamental da evolução e consolidação do sistema democrático português. Autarcas, que, desde 12 de Dezembro de 1976, aperfeiçoam os mecanismos que possibilitam o exercício normal da vida, que objectivam através da sua acção, que dá corpo ao sentimento de identidade das comunidades que representam e que responde aos anseios de um povo que se reencontrou em Abril.\n\nA esse homens e mulheres que encabeçaram e encabeçam o movimento de consciencialização cívica e política dos cidadãos o Partido Ecologista Os Verdes gostaria de expressar a sua mais fraterna homenagem num reconhecido obrigado!\n\nSr. Presidente, Sr.ª s e Srs. Deputados: Sabemos que é na actividade autárquica, no seu âmbito que a atitude de cada um melhor se expressa e se ajustam as novas preocupações que o ideário ecológico traz ao ser cultural e social de cada comunidade. Porque entendemos que uma política ambiental deve começar no indivíduo, em estreito enlace com o seu meio, é a autarquia, enquanto entidade político-administrativa especialmente mais restrita, que melhor reflectirá esse relacionamento, capas de corporizar um entendimento harmonioso, directo e permanente entre o cidadão e o espaço em que se vive.\n\nÉ que, em pólos de realidades diferentes, o viver ou a resposta existencial do homem da cidade é radicalmente diferente de outro inserido na ruralidade. A um, preocupa e anima a humanização e naturalização do urbano, ao outro, a"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 711,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Basílio Horta."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 711,
+      "speaker": {
+        "id": 85,
+        "name": "Basílio Adolfo De Mendonça Horta Da Franca",
+        "party": "CDS",
+        "string": "O Sr. Basílio Horta (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, Srs. Membros do Governo, Srs. Autarcas: Seja-me permitido começar por dizer que é com particular interesse e legitimidade que tomo a palavra nesta sessão, na dupla qualidade de deputado e de autarca, presidente da assembleia municipal de um pequeno concelho, o concelho de Celorico de Basto, perdido no interior e, consequentemente, com a realidade perante os olhos, aquela que tenho visto e aquela que tenho vivido.\n\nÉ por isso que gostaria de começar por dizer que comemorar o 11.º aniversário da institucionalização do poder autárquico democrático no pós-25 de Abril não poderia ser nunca para mim nem para o CDS um simples formalismo laudatório de neutro significado político.\n\nE é por isso que somos forçados a concluir que são tristes ou, pelo menos, menos felizes as condições que rodeiam este ano essa comemoração.\n\nCom efeito, entendemos que a melhor homenagem que esta Assembleia poderia prestar ao poder local seria a de o dotar dos meios indispensáveis à correcta prossecução das suas competências e à própria dignificação do seu exercício.\n\nNão basta dizer que na acção das autarquias reside, sem sombra de dúvidas, muito do que de melhor e de mais útil se tem feito no Portugal democrático.\n\nNão basta louvar autarcas, enaltecendo a sua exemplar dedicação às comunidades que servem, o seu esforço abnegado e tantas vezes solitário, o seu sacrifício às causas dos outros, com desprezo pelos seus próprios interesses pessoais e profissionais e tantas vezes com incompreensões injustificadas. Não basta, enfim, lamentar a falta de meios materiais e ausência dos mais elementares apoios técnicos que caracteriza a acção de tantas e tantas autarquias espalhadas por este país."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 712,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 712,
+      "speaker": {
+        "id": 85,
+        "name": "Basílio Adolfo De Mendonça Horta Da Franca",
+        "party": "CDS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente e Srs. Deputados: O CDS entende, e o seu projecto de revisão constitucional assim o demonstra, que democracia e descentralização são dois dos nomes da liberdade.\n\nAo tolher-se a descentralização atinge-se a democracia e limita-se a liberdade.\n\nO CDS entende ainda que desenvolvimento e descentralização são dois dos nomes do progresso.\n\nAo cercearem-se os recursos afectos à descentralização trava-se o desenvolvimento e compromete-se o progresso.\n\nDesta forma, Sr. Presidente e Srs. Deputados, o CDS conclui que a melhor homenagem que hoje e aqui pode prestar ao poder local é um compromisso, é o compromisso de se comprometer em estreita solidariedade com as populações e com os seus autarcas - com todos os seus autarcas, independentemente da sua cor política -, de se comprometer, dizia eu, na luta pela mudança das mentalidades para que opções políticas, como aquelas que aqui vêm sendo propostas, sejam corrigidas e, mesmo que no futuro, não possam mais vir a ser apresentadas."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 712,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Carlos Lilaia."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 712,
+      "speaker": {
+        "id": 1021,
+        "name": "José Carlos Pereira Lilaia",
+        "party": "PRD",
+        "string": "O Sr. Carlos Lilaia (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, Srs. Membros do Governo, Srs. Convidados: Ao comemorarmos o 11.º aniversário das primeiras eleições autárquicas realizadas no nosso país, após o estabelecimento do Estado democrático, estamos, naturalmente, a saudar o poder local que a Constituição da República consagrou e que muitos e muitos milhares de autarcas por todo o País têm desenvolvido e aprofundado. São homens e mulheres que a população das nossas cidades, vilas e aldeias conhece e reconhece no seu esforço e dedicação diário, muita vezes incompreendido, em prol das comunidades locais, dos vizinhos e do País em geral, seja na assembleia de freguesia, na junta de freguesia, na assembleia municipal ou na câmara municipal.\n\nO PRD aproveita assim para, de uma forma solene e em sede própria, saudar o poder local, na pessoa dos autarcas presentes nesta sessão, e dizer de forma clara e inequívoca que poder local representa um dos principais vectores de transformação e modernização da sociedade portuguesa, quer no plano político, pelo aprofundamento da democracia e participação dos cidadãos na vida pública, quer no plano sócio-económico, pela melhoria das condições de vida das populações, que o investimento, decorrente da selecção das melhores opções a nível local, sempre proporciona.\n\nA comemoração do estabelecimento do poder local tem de ser também de reflexão, não tanto sobre o passado, onde as opiniões não são muito divergentes, digamos até que, expurgadas certas considerações decorrentes de conjunturas políticas ou eleitorais, elas serão mesmo coincidentes, mas, e é isso que importa, sobre o presente e o futuro.\n\nPor coincidência do calendário, sempre esta comemoração estará temporalmente ligada à discussão do Orçamento do Estado, pelo que não é possível deixar de ter presente neste dia a relação que o Orçamento do Estado estabelece entre Governo central e autarquias locais ou, por outras palavras, o modo como num primeiro momento o Governo considera o poder local e num segundo como a Assembleia da República sanciona ou corrige esse relacionamento. Vem isto, naturalmente, a propósito da Lei das Finanças Locais e do seu elemento de maior significado - O Fundo de Equilíbrio Financeiro.\n\nConvirá aqui recordar, para aqueles que já o esqueceram, que a Lei n.º 1/87, Lei das Finanças Locais, resultou de um trabalho de colaboração entre a Assembleia da República e o Governo e que contou ainda com a cooperação empenhada da Associação Nacional de Municípios. Foi ainda uma situação invulgar em que a própria elaboração da lei não deixou de ser influenciada pela discussão do Orçamento do Estado para 1987, diria mais, as soluções encontradas para certos mecanismos só foram aceites pela maioria dos partidos na presunção de que as informações estatísticas fornecidas pelo então governo do PSD eram correctas. Estava particularmente em causa o IVA.\n\nEm suma, a Lei n.º 1/87 é uma lei que resultou de um trabalho empenhado, em que imperou o bom senso e a boa fé.\n\nPor erros de previsão do IVA, superiores ao que seria admissível, o valor orçamentado para 1988, determina em termos médios um crescimento do Fundo de Equilíbrio Financeiro, que fica naturalmente muito aquém das justas expectativas dos municípios.\n\nConvirá desde já esclarecer que o PRD não defende qualquer alteração à Lei das Finanças Locais, e em particular, ao seu artigo 9.º, por via da lei orçamental, o que em nossa opinião deve ser encontrada é uma solução de compensação que aproxime o valor orçamentado para o Fundo de Equilíbrio Financeiro da taxa de inflação para"
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 713,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Amaral."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 713,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Na ocasião desta sessão especial dedicada ao poder local, cumpre, em primeiro lugar saudar os eleitos locais, hoje, como sempre, na linha e na acção de defesa do que é uma das mais belas conquistas do 25 de Abril - o poder local democrático!\n\nSaudá-los particularmente neste momento, em que protestam, denunciam e lutam pelo respeito que é devido ao poder local, pelos meios financeiros que lhe garantem a autonomia e lhe permitem exercer a função que lhe cabe: o serviço das populações, das comunidades locais.\n\nÉ por essa forma que os eleitos locais e a Associação Nacional dos Municípios comemoram esta data. E bem, é importante sublinhá-lo, já que é inegavelmente legítimo, saudável e democrático que o poder local reclame dos órgãos de soberania aquilo que é justo."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 713,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 713,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esta sessão é, por isso mesmo, inexoravelmente marcada por esse facto e por essa luta.\n\nAo apresentar a esta Assembleia uma proposta de orçamento que depaupera os níveis de financiamento das"
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 714,
+      "speaker": {
+        "id": 455,
+        "name": "Maria Ilda Da Costa Figueiredo",
+        "party": "PCP",
+        "string": "A Sr.ª Ilda Figueiredo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 714,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É bom que aqui se afirme com clareza que não é verdade que o Governo tenha cumprido a Lei das Finanças Locais. O Governo errou estrondosamente na previsão da cobrança do IVA em 1987, errou calcula-se, em 40 milhões de contos e quer agora transferir para as autarquias as consequências desse erro. É certo que se teria evitado toda esta manipulação se o valor do FEF tivesse sido fixado em função da despesa do Estado e não em função do IVA. Como advertiu o PCP na altura, ligar o valor do FEF a um único imposto era dar-lhe uma enorme vulnerabilidade, Mas a tudo isso - e é bom recordá-lo agora - responderam-nos, por intermédio do Sr. Secretário de Estado da Administração Local, que a ligação do FEF ao IVA permitia «uma actualização em relação com a inflação e com a evolução da própria economia». Se assim é, então a lei não é cumprida quando tal relação não se verifica por erro grosseiro de previsão, a que as autarquias são alheias."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 714,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 714,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O mesmo Sr. Secretário de Estado afirmou: «O Governo tomou a iniciativa de propor esta ligação ao IVA e tem por isso especiais responsabilidades nesta questão.»"
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 714,
+      "speaker": {
+        "id": 736,
+        "name": "José Manuel Santos De Magalhães",
+        "party": "PCP",
+        "string": "O Sr. José Magalhães (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sem dúvida!"
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 714,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pois, então, deveria tê-las assumido na proposta de lei do Orçamento do Estado e não tentar transferi-las para o poder local!\n\nSr. Presidente, Srs. Deputados: Da nossa parte, PCP, continuamos e continuaremos a nossa acção empenhada e permanente em defesa do poder local, para o seu aprofundamento e consolidação.\n\nNeste momento e na acção parlamentar, por três formas: primeiro, através da apresentação de propostas concretas de alteração ao orçamento que dêem expressão às legítimas e fundadas queixas dos eleitos e que atendam à situação e interesses do poder local; em segundo lugar, através de novas iniciativas legislativas que preencham graves lacunas ou insuficiências do edifício do poder local e regional; em terceiro lugar, através de propostas concretas em sede de revisão constitucional que reforcem as garantias de autonomia do poder local.\n\nNo que respeita ao Orçamento do Estado para 1988, entendemos como questão central elevar o valor do FEF, tendo em conta os próprios parâmetros fornecidos pelo Governo para a evolução da receita do IVA. É essa a única forma de dar cumprimento ao disposto na Lei das Finanças\n\nLocais e de atender aos interesses do pode local. No mínimo, por isso, o ponto de referência há-de ser a evolução prevista para o consumo, isto é, mais 9% que o ano passado.\n\nA proposta justa - a que tivesse em conta a evolução da despesa do Estado - seria ainda e significativamente superior. A proposta de 9 % de aumento, fazendo corresponder o Orçamento do Estado ao conteúdo da Lei das Finanças Locais, é o mínimo aceitável. E será aprovando-a que efectivamente se comemorará nesta Assembleia o 10.º aniversário das primeiras eleições gerais autárquicas!"
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 714,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 714,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ainda quanto ao Orçamento, proporemos que os municípios sejam devidamente compensados pelas novas isenções; que seja cumprida a Lei das Finanças Locais, impedindo-se que sejam transferidas novas atribuições e competências sem que os municípios sejam dotados das correspondentes, necessárias e suficientes verbas; que os 2% do imposto de pescado sejam transferidos para os municípios em relação a todas as lotas. Proporemos ainda que aos cinco municípios com serviços de transportes urbanos sejam entregues as verbas de indemnizações compensatórias do serviço público que prestam.\n\nUma segunda grande zona em que, da nossa parte, grupo parlamentar do PCP, nos empenhamos na actividade da Assembleia da República em defesa do poder local, é a da iniciativa legislativa.\n\nAproveitamos a sessão que agora decorre para entregar na Mesa da Assembleia da República cinco projectos de lei. São matérias a reclamar urgente regulamentação.\n\nEm primeiro lugar, a área da tutela administrativa, matéria sobre a qual ainda há poucas semanas a Associação Nacional de Municípios Portugueses, em entrevista com a Comissão de Poder Local, manifestou interesse em que fosse rapidamente regulamentada. O projecto do PCP visa reconduzir a tutela à sua função meramente inspectiva, a garantir a sua frequência e regularidade temporal, a terminar com a sua manipulação política, a definir rigorosamente as situações e condições em que é permitida a publicitação e, finalmente, entregar aos tribunais a aplicação das sanções.\n\nO segundo projecto propõe uma regulamentação para as empresas públicas municipais, intermunicipais e regionais. Trata-se de definir o meio jurídico adequado a permitir aos municípios disporem de um importante instrumento de gestão, previsto na legislação desde 1977, e que, por carência da regulamentação, continua a não poder ser utilizado.\n\nO terceiro projecto refere-se à necessidade de dignificar a autarquia/freguesia. Propomos que em freguesias de maior dimensão seja possível a existência de um regime de permanência de eleitos em condições e número tipificados. A freguesia deve ter um papel activo que corresponda à sua plena autonomia, e é incompreensível que se admita que freguesias tenham funcionários a tempo inteiro e ao mesmo tempo se negue aos eleitos, aos membros da junta responsáveis pela gestão a mesma possibilidade.\n\nO quarto e quinto projectos referem-se a uma matéria de maior relevância: a regionalização. Do nosso ponto de vista, havemos de nos congratular que a iniciativa legislativa que o PCP apresentou em Abril de 1986 e a sua sujeição a debate pelas assembleias municipais tenham suscitado o reconhecimento de que existe no País, nas populações e nos autarcas um vasto movimento de opinião favorável à regionalização."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 715,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado António Guterres."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 715,
+      "speaker": {
+        "id": 50,
+        "name": "António Manuel De Oliveira Guterres",
+        "party": "PS",
+        "string": "O Sr. António Guterres (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Autarcas, Srs. Deputados: É com profundo empenhamento que o Grupo Parlamentar do Partido Socialista se associa a estas comemorações. Não queremos, no entanto, fazê-lo com o automatismo de quem cumpre um ritual.\n\nÉ que glorificar o poder local foi-se transformando, ao longo dos últimos anos, num hábito, nem sempre sincero, de todos os que exercem funções políticas no plano nacional.\n\nNão há discurso de campanha eleitoral, não há visita ministerial que não inclua os tradicionais elogios aos autarcas portugueses, na maior parte dos casos, reconheça-se, mais para conseguir o seu apoio ou para dar satisfação fácil aos auditórios do que para os ajudar no desempenho das funções que exercem ao serviço e em nome das populações."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 715,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Uma voz do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 715,
+      "speaker": {
+        "id": 50,
+        "name": "António Manuel De Oliveira Guterres",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por tudo isto, não venho hoje aqui elogiar os nossos autarcas, até porque eu próprio me prezo de o ser, porque não abdico de considerar a participação na Assembleia Municipal de Castelo Branco como uma componente essencial da minha intervenção política.\n\nJá deixei de ser deputado, já deixei de pertencer à direcção do meu partido, nunca deixei de ser autarca. Tenho, aliás, plena convicção de que o poder local é hoje o mais sólido sustentáculo das convicções democráticas dos Portugueses. Importa, pois, que, em vez de elogiarmos, possamos reconhecer, aqui e agora, que as autarquias locais se encontram numa encruzilhada e que dois caminhos bem diferentes se lhes abrem para o futuro: o do reforço da descentralização ou o da asfixia progressiva.\n\nSomos dos que apostam decisivamente na descentralização dos poderes, das competências e dos recursos no nosso país.\n\nO PS soube vencer as resistências centralistas que no seu próprio seio se manifestaram no passado. O PS bate-se com determinação pela criação das regiões administrativas, embora entenda que tal deva ocorrer num clima de amplo diálogo e participação e reunindo um consenso nacional tão largo quanto possível.\n\nO PS quer que as futuras regiões recebam os seus meios e competências do poder central, numa clara lógica descentralizadora de aproximação entre os cidadãos e o poder. Não aceitamos que a regionalização sirva de pretexto para entravar a capacidade de acção dos municípios ou para reduzir os poderes das câmaras. Pelo contrário, num Estado regionalizado importa que continuamente se reforce o papel dos municípios, com base no princípio essencial de que uma competência que possa ser exercida indiferentemente por dois níveis da Administração o seja sempre pelo nível inferior, que está mais perto das populações.\n\nQue o Estado central não faça o que também pode ser feito pela região. Que a região não faça o que também poder ser feito pelo município.\n\nQue o município não faça o que também pode ser feito pela freguesia.\n\nEsta tem de ser, aliás, uma política coerente e sistemática e não pode ser confundida com a transparência ocasional de competências incómodas de alguns ministérios para as câmaras municipais, ainda por cima sem a totalidade da necessária cobertura financeira. Foi assim no passado com os transportes colectivos, é assim no presente com o pessoal auxiliar das escolas, tudo indica que virá a ser assim no futuro com a esburacada rede das nossas estradas secundárias.\n\nTemos de percorrer gradualmente, sem aventureirismo, mas, também, sem hesitações ou recuos, o caminho que há-de conduzir, do país macrocéfalo, burocrático e centralizador que somos, a um Estado moderno, em que uma parte substancial dos seus recursos financeiros seja gerida pelas regiões e municípios, como acontece já hoje na generalidade dos nossos parceiros europeus. É regionalizando, é descentralizando que nos afirmamos como europeus, que aceitamos todas as consequências da modernidade.\n\nSó que há que reconhecer, com realismo e sem demagogia, não ser este o caminho para que nos empurra o actual governo e a sua maioria. É, em primeiro lugar, manifesta a falta de entusiasmo daquele em relação à criação"
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 716,
+      "speaker": {
+        "id": 1611,
+        "name": "Elisa Maria Ramos Damião",
+        "party": "PS",
+        "string": "A Sr.ª Elisa Damião (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 716,
+      "speaker": {
+        "id": 50,
+        "name": "António Manuel De Oliveira Guterres",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade que aqui ou ali terá havido algum desperdício de dinheiro. Só que esse desperdício é bem pequeno, quando o comparamos com aquele que o poder central continuamente desperdiça.\n\nEsperemos que o Governo arrepie caminho. Ainda está a tempo. Esperemos que o Sr. Primeiro-Ministro aprenda a confiar mais nos autarcas, a maioria dos quais, aliás, foi eleita em listas do PSD, e que não se deixe enlevar no canto da sereia dos burocratas sem alma, que tudo querem controlar.\n\nPela nossa parte, podemos garantir ao poder local democrático que saberemos assumir todas as nossas responsabilidades na defesa dos interesses e direitos legítimos das populações.\n\nÉ este compromisso que dá conteúdo ao nosso empenhamento nestas comemorações."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 716,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção tem a palavra o Sr. Deputado Manuel Moreira."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 716,
+      "speaker": {
+        "id": 525,
+        "name": "Manuel Maria Moreira",
+        "party": "PSD",
+        "string": "O Sr. Manuel Moreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Ministros, Sr. Secretário de Estado, Srs. Deputados, Srs. Autarcas Convidados: A Assembleia da República efectua hoje esta sessão solene de encerramento das comemorações das primeiras eleições autárquicas, que ocorreram em 12 de Dezembro de 1976, demonstrando deste modo a enorme importância e dignidade que nos merece o poder local em Portugal.\n\nEm nome do Partido Social-Democrata, que aqui desta tribuna uso da palavra, começarei a minha intervenção por uma pequena retrospectiva da história recente do poder local no nosso país.\n\nSr. Presidente, Srs. Membros do Governo, Srs. Deputados, Srs. Autarcas: Antes do 25 de Abril não existiu poder local, digno desse nome na medida em que o governo de então, altamente centralizador, transformou as autarquias locais em extensões menores da administração central, presididas por pessoas nomeadas por aquele.\n\nSó com o 25 de Abril de 1974 se abriram as portas para a implementação progressiva de um poder local democrático em Portugal, que foi institucionalizado na Constituição da República, aprovada pela Assembleia Constituinte em 1976.\n\nEm Dezembro de 1976 efectuaram-se as primeiras eleições autárquicas por voto universal, livre e secreto dos cidadãos, reconhecendo assim o Estado o direito de as populações escolherem os seus representantes legítimos e lhes confiarem o governo das suas terras.\n\nA Assembleia da República assumiu a partir daí um papel relevante na elaboração e aprovação do quadro jurídico do poder local, desenvolvendo as linhas mestras do novo modelo autárquico consagrado na lei fundamental.\n\nO Parlamento começou por dotar os novos órgãos autárquicos de capacidade jurídica para intervir na resolução dos problemas locais, aprovando a lei de definição das"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 717,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 717,
+      "speaker": {
+        "id": 525,
+        "name": "Manuel Maria Moreira",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... tendo contribuído de forma muito significativa para a consolidação do próprio regime democrático em Portugal.\n\nDurante estes anos criou-se, afirmou-se e consolidou-se um poder local democrático, que deu satisfação às necessidades básicas das populações. As infra-estruturas, o saneamento básico a habitação, a educação, a saúde, as vias de comunicação, o desporto e a cultura foram sem dúvida as áreas de maior preocupação dos nossos autarcas.\n\nA obra está à vista de todos, e pode-se dizer, sem receio de ser desmentido que o poder local transformou a fisionomia da maioria das nossas aldeias, vilas e cidades, tendo proporcionado um maior bem-estar e uma melhor qualidade de vida às populações locais e, em consequência, maior progresso da comunidade nacional.\n\nO PSD orgulha-se e sente o peso da responsabilidade de ser desde sempre a força política de maior expressão no poder local, confirmada em todas as eleições autárquicas e por isso mesmo a força que mais contribuiu para a sua existência e prestígio e para a obra realizada.\nSr. Presidente, Srs. Membros do Governo, Srs. Deputados, Srs. Autarcas: Comemorar ou celebrar o poder local é momento excelente de reflexão sobre o passado, presente e futuro, e é sobre estes dois últimos aspectos que me proponho agora falar-vos.\n\nO PSD defende uma política de desenvolvimento, considerando este o processo de organização dos recursos da sociedade, cujo objectivo final reside na obtenção de mais elevados padrões de rendimento e de melhores condições de vida para a população, torna-se por isso muito claro que ele vai muito para além das infra-estruturas físicas, reclamando a sua promoção medidas essenciais como as que dizem respeito às políticas sectoriais e globais, à selecção e aproveitamento de recursos locais, às tecnologias a utilizar, à rede urbana, à qualidade da saúde e do ensino, à preservação da cultura, do património e ambiente, etc.\n\nHoje torna-se evidente e fundamental a descentralização do desenvolvimento, adequando às necessidades e potencialidades das regiões, e assegurar a participação, em todo o processo, dos órgãos democraticamente eleitos pelas populações para curarem do seu desenvolvimento.\n\nNós, sociais-democratas, consideramos que estamos em momento de operar a mudança nas autarquias locais e da fase quase concluída da satisfação das necessidade básicas, temos de dar o salto quantitativo e qualitativo de Portugal e dos Portugueses, que todos nós desejamos e ambicionamos.\n\nAs autarquias locais devem começar a preocupar-se e empenhar-se cada vez mais directamente na promoção do desenvolvimento económico, social e cultural das comunidades locais, na criação efectiva de riqueza e bem-estar, tendo, para tal, de ver reforçados os seus meios financeiros, técnicos e humanos. Os autarcas terão por isso de efectuar uma mudança de atitudes, tomando consciência de que a promoção do desenvolvimento global é uma competência própria das autarquias locais, que, como tal, deve fazer parte da sua acção quotidiana.\n\nO desenvolvimento ocorrerá mais facilmente se houver planos directores municipais elaborados e aprovados, se existir associativismo municipal e se se dispuser de programas de desenvolvimento regional integrados numa política regional de expressão nacional, para se poder usufruir das dotações dos fundos comunitários."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 717,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 717,
+      "speaker": {
+        "id": 525,
+        "name": "Manuel Maria Moreira",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esta mudança qualitativa que se exige na política autárquica é igualmente determinada pelo desenvolvimento de novas tecnologias e da sociedade de informação em que vivemos. Daí decorre a importância vital da participação activa das autarquias no processo global de desenvolvimento e modernização da sociedade portuguesa.\n\nA informação desempenha aqui um papel imprescindível de divulgação da realidade local e regional, na auscultação sistemática das populações e de impulsionadora do desenvolvimento e progresso económico e social.\n\nImporta por isso criar condições para um relacionamento estreito e eficaz entre a administração local e a comunicação social nacional, regional e local.\n\nTorna-se igualmente necessário incentivar a criação de meios informativos das autarquias, designadamente o Boletim Municipal, bem com a implementação de gabinetes ou técnicos de informação nas autarquias."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 718,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 718,
+      "speaker": {
+        "id": 525,
+        "name": "Manuel Maria Moreira",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Assim, os sociais-democratas portugueses defendem a aprovação pela Assembleia da República, em primeiro lugar, de uma lei quadro sobre a regionalização, que defina as funções e competências das futuras regiões administrativas, desejando igualmente que este processo seja o mais participado pelos autarcas, pelas forças vivas e pela população em geral. Só depois se poderá avançar para o desenho das fronteiras das futuras regiões.\n\nSr. Presidente, Srs. Membros do Governo, Srs. Deputados, Srs. Autarcas: O Partido Social-Democrata, por aquilo que acabo de afirmar, está profundamente empenhado no reforço e prestígio do poder local e com esse objectivo defende ainda: a transferência para as autarquias locais de novas competências de forma progressiva e selectiva; a revisão da Lei das Finanças Locais, após aprovação da Reforma Fiscal, aproveitando a oportunidade para aperfeiçoar os critérios do Fundo de Equilíbrio Financeiro; a aprovação da lei da tutela inspectiva sobre as autarquias locais; a alteração da Lei Eleitoral, de modo a criar condições para gestões autárquicas mais coerentes e eficazes; a formação e actualização do pessoal das autarquias locais, e o apoio à introdução de modernas técnicas de gestão, designadamente a informatização das autarquias locais.\n\nConsideramos que o actual quadro jurídico é constituído por um vasto e instável conjunto de diplomas avulsos e dispersos, de difícil consulta e de compatibilização nem sempre fácil. Assim, seria útil e desejável que oportunamente fosse elaborado um código da administração local, dando assim satisfação plena aos autarcas e funcionários locais que há muito aspiram por ele.\n\nSr. Presidente, Srs. Membros do Governo, Srs. Deputados, Srs. Autarcas: Não confundimos a evocação do poder local com a análise conjuntural de uma proposta de lei.\n\nA concluir, direi que as comemorações dos dez anos do poder local em Portugal, que agora tem o seu epílogo nesta sessão solene, realizaram-se um pouco por todo o País, de forma discreta mas útil à reflexão sobre o poder local que temos e o poder local que queremos ter no futuro.\n\nO PSD aproveita esta oportunidade para daqui prestar a sua justa homenagem e saudar efusivamente os autarcas portugueses, os homens, mulheres e jovens de Portugal, que tão relevantes serviços prestaram e prestam às comunidades locais e ao País, e desafia-os a prosseguirem a sua nobre missão, exercendo gestões autárquicas cada vez mais democráticas modernas e eficazes.\n\nSe assim acontecer, o poder local vai continuar a contribuir no futuro, estou certo disso, para um Portugal moderno, desenvolvido, portador de uma cultura de vocação universalista, aberto às mudanças e às inovações científicas e tecnológicas, para que os Portugueses, como povo europeu, vivam com a felicidade e a qualidade de vida a que têm pleno direito."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 718,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, exprimindo um sentimento geral, queremos agradecer aos Srs. Autarcas, nossos convidados, a sua presença nesta sessão comemorativa do poder local.\n\nAntes de dar por encerrada a sessão, peço ao Sr. Deputado Secretário o favor de ler o resultado das eleições que decorreram esta manhã, na certeza de que a proclamação dos resultados oficiais só se fará na sessão da próxima terça-feira."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 718,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Reinaldo Gomes)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Resultados da eleição para a Comissão Nacional de Eleições:\nJoão Azevedo Oliveira (PSD): votos sim, 108; votos não, 19; abstenções, 9; brancos, 3; \n\nOlindo Casimira de Figueiredo (PS): votos sim, 112;\n\nvotos não, 38; abstenções, 41; brancos, 8; \n\nJoão Alfredo Massano L. da Silva (PCP): votos sim, 90; votos não, 70; abstenções, 29; brancos, 10; \n\nJoão Manuel Nunes L. Albuquerque (PRD): votos sim, 93; votos não, 58; abstenções, 39; brancos, 9; \n\nJoão Baptista Pereira Neto (CDS): votos sim, 109; votos não, 43; abstenções, 37; brancos, 10.\nResultados da eleição da Delegação da Assembleia da República Parlamentar do Conselho da Europa:\nManuel Soares da Costa (PSD) - presidente: votos sim, 112; votos não, 55; abstenções, 22; brancos, 10,\n\nEfectivos:\nJosé Silva Marques (PSD): votos sim, 130; votos não, 43; abstenções, 15; brancos, 11; \n\nJosé Mendes Bota (PSD): votos sim, 133; votos não, 43; abstenções, 14; brancos, 9; \n\nJoaquim Fernandes Marques (PSD): votos sim, 139; votos não, 29; abstenções, 19; brancos, 12; \n\nLicínio Moreira Silva (PSD): votos sim, 139; votos não, 32; abstenções, 16; brancos, 11; \n\nCarlos Candal (PS): votos sim, 99; votos não, 47; abstenções, 38; brancos, 15; António Esteves (PS): votos sim, 90; votos não, 53; abstenções, 42; brancos, 14; Carlos Carvalhas (PCP): votos sim, 73; votos não, 89; abstenções, 17; \n\nbrancos, 20;\nSuplentes:\nFernando Carvalho Conceição (PSD): votos sim, 144; votos não, 25; abstenções, 18; brancos, 12; \n\nFernando Monteiro do Amaral (PSD): votos sim, 164; votos não, 16; \n\nabstenções, 12; brancos, 6; nulo 1; Carlos Pinto (PSD): votos sim, 143; votos não, 30; abstenções, 16; brancos, 10; \n\nAntónio Lacerda de Queiroz (PSD): votos sim, 136; votos não, 32; abstenções, 19;\n\nbrancos, 12; \n\nArmando Martins Vara (PS): votos sim, 86; votos não, 55; abstenções, 45; brancos, 13; \n\nJosé Carlos da Mota Torres (PS): votos sim, 91; votos não, 47; abstenções, 47; brancos, 14."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 719,
+      "speaker": {
+        "id": 473,
+        "name": "Jorge Fernando Branco De Sampaio",
+        "party": "PS",
+        "string": "O Sr. Jorge Sampaio (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para uma interpelação à Mesa."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 719,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Antes de dar a palavra ao Sr. Deputado Jorge Sampaio, quero agradecer em nome da Mesa e no de todos os deputados a dedicação dos Srs. Deputados Escrutinadores, Rui Silva, Apolónia Teixeira, Caio Roque e João Salgado, que, com sacrifício do próprio almoço, nos conseguiram apresentar os resultados em tempo.\n\nTem a palavra, o Sr. Deputado Jorge Sampaio."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 719,
+      "speaker": {
+        "id": 473,
+        "name": "Jorge Fernando Branco De Sampaio",
+        "party": "PS",
+        "string": "O Sr. Jorge Sampaio (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, V. Ex.ª hoje de manhã esclareceu o erro material existente num dos boletins de voto e pediu à Assembleia consenso - que lhe foi dado - para se entender o erro superado pela afirmação de V.Ex.ª\n\nOra, a leitura da acta revela que esse erro se mantém, quando deveria ter sido alterado, com base na afirmação feita por V. Ex.ª esta manhã. Penso que todos sabem de que é que estou a falar mas, se for preciso, esclareço."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 719,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Certo, Sr. Deputado. Mas como não se trata de uma sessão normal, mas de uma sessão formal, apenas se deram os resultados. Na próxima terça-feira, quando se afirmar oficialmente quem foi e quem não foi eleito - aliás, foram todos eleitos menos um - far-se-á a correcção que ficou combinada esta manhã.\n\nSrs. Deputados, está encerrada a sessão."
+    }
+  ]
+}

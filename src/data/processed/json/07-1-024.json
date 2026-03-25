@@ -1,0 +1,1482 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "7",
+    "legislative_session": "1",
+    "number": "24",
+    "date": "1996-01-10"
+  },
+  "debate_id": "r3_7_1_24_1996-01-10",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 664,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quorum, pelo que declaro aberta a sessão.\nEram 15 horas e 25 minutos.\nEstavam presentes os seguintes Srs. Deputados:\nPartido Socialista (PS):\nAcácio Manuel de Frias Barreiros.\n\nAdérito Joaquim Ferro Pires.\n\nAgostinho Marques Moleiro.\n\nAires Manuel Jacinto de Carvalho.\n\nAlbino Gonçalves da Cos ta.\n\nAntónio Al vês Marques Júnior.\n\nAntónio Alves Martinho.\n\nAntónio Bento da Silva Galamba.\n\nAntónio de Almeida Santos.\n\nAntónio Fernandes da Silva Braga.\n\nAntónio Fernando Marques Ribeiro Reis.\n\nAntónio Jorge Mammerickx da Trindade\n\nAntónio José Guimarães Fernandes Dias.\n\nArnaldo Augusto Homem Rebelo.\n\nArtur Clemente Gomes de Sousa Lopes.\n\nArtur Miguel Claro da Fonseca Mora Coelho.\n\nArtur Rodrigues Pereira dos Penedos.\n\nCarlos Alberto Cardoso Rodrigues Beja.\n\nCarlos Alberto Dias dos Santos.\n\nCarlos Justino Luís Cordeiro.\n\nCarlos Manuel Amândio.\n\nCarlos Manuel Luís.\n\nCláudio Ramos Monteiro.\n\nDomingos Fernandes Cordeiro.\n\nEduardo Ribeiro Pereira.\n\nElisa Maria Ramos Damião.\n\nEurico José Palheiros de Carvalho Figueiredo.\n\nFernando Alberto Pereira de Sousa.\n\nFernando Alberto Pereira Marques.\n\nFernando Antão de Oliveira Ramos.\n\nFernando Garcia dos Santos.\n\nFernando Manuel de Jesus.\n\nFernando Pereira Serrasqueiro.\n\nFrancisco Fernando Osório Gomes.\n\nFrancisco José Pinto Camilo.\n\nGonçalo Matos Correia de Almeida Velho.\n\nHenrique José de Sousa Neto.\n\nJoão Carlos da Costa Ferreira da Silva.\n\nJoão Rui Gaspar de Almeida.\n\nJoão Soares Palmeira Novo.\n\nJoaquim Moreira Raposo.\n\nJoaquim Sebastião Sarmento da Fonseca Almeida.\n\nJoel Eduardo Neves Hasse Ferreira.\n\nJoel Maria da Silva Ferro.\n\nJorge Lacão Costa.\n\nJorge Manuel Damas Martins Rato.\n\nJorge Manuel Fernandes Valente.\n\nJorge Manuel Gouveia Strecht Ribeiro.\n\nJosé Adelino Gouveia Bordalo Junqueiro.\n\nJosé Alberto Cardoso Marques.\n\nJosé António Ribeiro Mendes.\n\nJosé Carlos Correia Mota de Andrade.\n\nJosé Carlos da Cruz Lavrador.\n\nJosé Carlos das Dores Zorrinho.\n\nJosé Carlos Lourenço Tavares Pereira.\n\nJosé da Conceição Sarai vá.\n\nJosé de Matos Leitão.\n\nJosé Ernesto Figueira dos Reis.\n\nJosé Fernando Rabaça Barradas e Silva.\n\nJosé Manuel Niza Antunes Mendes.\n\nJosé Manuel Oliveira de Sousa Peixoto.\n\nJosé Manuel Rosa do Egipto.\n\nJosé Manuel Santos de Magalhães.\n\nJosé Maximiano de Albuquerque Almeida Leitão.\n\nJosé Pinto Simões.\n\nJovita de Fátima Romano Ladeira Matias.\n\nJúlio Manuel de Castro Lopes Faria.\n\nLaurentino José Monteiro Castro Dias.\n\nLuís Afonso Cerqueira Natividade Candal.\n\nLuís Filipe Nascimento Madeira.\n\nLuís Pedro de Carvalho Martins.\n\nManuel Alberto Barbosa de Oliveira.\n\nManuel Alegre de Melo Duarte.\n\nManuel Francisco dos Santos Valente.\n\nManuel Jorge Pedrosa Forte de Góes.\n\nManuel Martinho Pinheiro dos Santos Gonçalves.\n\nManuel Porfírio Varges.\n\nMaria Amélia Macedo Antunes.\n\nMaria Celeste Lopes da Silva Correia.\n\nMaria da Luz Gameiro Beja Ferreira Rosinha\n\nMaria do Carmo de Jesus Amado Sequeira.\n\nMaria do Rosário Lopes Amaro da Costa da Luz Carneiro.\n\nMaria Fernanda dos Santos Martins Catarino Costa.\n\nMaria Helena do Rego da Costa Salema Roseta.\n\nMaria Isabel Ferreira Coelho de Sena Lino.\n\nMaria Jesuína Carrilho Bernardo.\n\nMário Manuel Videira Lopes.\n\nMartim Afonso Pacheco Gracias.\n\nNatalina Nunes Esteves Pires Tavares de Moura.\n\nNelson Madeira Baltazar.\n\nNuno Manuel Pereira Baltazar Mendes.\n\nOsvaldo Alberto Rosário Sarmento e Castro.\n\nPaula Cristina Ferreira Guimarães Duarte.\n\nPaulo Jorge dos Santos Neves.\n\nPedro Luís da Rocha Baptista.\n\nPedro Ricardo Cavaco Castanheira Jorge.\n\nRosa Maria da Silva Bastos da Horta Albernaz.\n\nRui do Nascimento Rabaça Vieira.\n\nRui Manuel dos Santos Namorado.\n\nRui Manuel Palácio Carreteiro.\n\nSérgio Carlos Branco Barros e Silva.\n\nSérgio Humberto Rocha de Ávila.\n\nSérgio Paulo Mendes de Sousa Pinto.\n\nVictor Brito de Moura.\nPartido Social Democrata (PSD):\nAdalberto Paulo da Fonseca Mendo.\n\nÁlvaro dos Santos Amaro.\n\nÁlvaro Roque de Pinho Bissaia Barreto.\n\nAmândio Santa Cruz Domingues Basto Oliveira.\n\nAntonino da Silva Antunes.\n\nAntónio Costa Rodrigues.\n\nAntónio de Carvalho Martins.\n\nAntónio Fernando da Cruz Oliveira.\n\nAntónio Joaquim Correia Vairinhos.\n\nAntónio Jorge de Figueiredo Lopes.\n\nAntónio Paulo Martins Pereira Coelho.\n\nAntónio Roleira Marinho.\n\nAntónio Soares Gomes.\n\nArménio dos Santos.\n\nArtur Ryder.\n\nTorres Pereira.\n\nBernardino Manuel de Vasconcelos."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 665,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Secretário vai proceder à leitura dos diplomas que deram entrada na Mesa."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 665,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Artur Penedos)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados, deram entrada na Mesa. e foram admitidos, os seguintes diplomas: proposta de resolução n.º\n1/VII - Aprova, para ratificação, a Convenção entre a República Portuguesa e a República da Bulgária para evitar a dupla tributação e prevenir a evasão fiscal em matéria de impostos sobre o rendimento, que baixa às 2.ª e 5.ª Comissões; projectos de lei n.º\n61/VII - Reforça as competências e a independência do Provedor de Justiça (PS), que baixa à 1.ª Comissão, 62/VII- Prorrogação do prazo limite para submissão a inquérito público dos regulamentos municipais previstos no regime jurídico de licenciamento de obras particulares (PS), que baixa à 4.ª Comissão, 63/VII - Define as estruturas de apoio técnico e pessoal e de gestão patrimonial, administrativa e financeira do órgão de soberania Presidente da República (PS), que baixa á 1.ª Comissão,\n64/VII - Permite a constituição como assistente em processo penal no casso de crime de índole racista ou xenófoba por paute das comunidades de imigrantes e demais associações de defesa dos interesses em causa (PS), que baixa à 1.ª Comissão, e 65/VII Criação do provedor municipal (PS), que baixa à 1.ª Comissão; e ratificação n.º 13/VII, relativa ao Decreto-Lei n.º 327/95, de 5 de Dezembro, que estabelece o Regime Jurídico de Instalação e Funcionamento dos Empreendimentos Turísticos (PS).\n\nTemos ainda, da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias. um relatório e parecer, do seguinte teor:\n1. Em reunião da Comissão de Assuntos Constitucionais, Direitos. Liberdades e Garantias, realizada em 10 de Janeiro de 1996, pelas 10 horas, foram observadas as retomas de mandatos dos seguintes Deputados:\n\nNos termos do artigo 6.º, n.ºs 1 e 2, do Estatuto dos Deputado, (Lei n.º 7/93, de 1 de Março):\n\nGrupo Parlamentar do Partido Social-Democrata (PSD):\n\nAmândio Santa Cruz Domingues Basto Oliveira (Círculo Eleitoral de Braga), em 5 de Janeiro corrente, inclusive, cessando Jorge Manuel Lopes Moreira da Silva:"
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 666,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos proceder à votação do parecer, que acabou de ser lido.\nSubmetido à votação, foi aprovado por unanimidade, registando-se a ausência de Os Verdes.\nSrs. Deputados, a Mesa, incumbida pela Conferência dos Representantes dos Grupos Parlamentares, elaborou um voto de pesar pela morte do Presidente François Miterrand, que mereceu também a assinatura dos líderes de todos os grupos parlamentares. Passo a ler o texto desse voto:\n\nA morte de François Mitterrand põe luto em todos aqueles que se habituaram a respeitar o estadista, o político, o parlamentar, o orador brilhante e o escritor de talento, o homem de pensamento e de cultura, para quem a grandeza da França era inseparável da sua identificação com a causa da liberdade em todo o mundo e para quem a Europa devia ser, sobretudo, um projecto de civilização assente na paz, na cooperação e da solidariedade.\n\nAmigo de Portugal e dos portugueses, François Mitterrand, antes e depois do 25 de Abril, foi sempre solidário com a luta do povo português pela liberdade e pela democracia. Ele próprio escreveu: «quando o povo português padecia a ditadura de Salazar e Caetano, envolvi-me nos seus assuntos. Os exilados eram nossos amigos e os prisioneiros nossas testemunhas».\n\nDimanava dele uma natural «majestade» - ou uma «força tranquila» de que fez apanágio - que o impunha à consideração e ao respeito de apoiantes e adversários.\n\nA Assembleia da República rende sentida homenagem ao grande estadista que, para além das naturais controvérsias, faz parte do imaginário da segunda metade deste século e constitui uma referência para todos os que se reconhecem nos valores da democracia, do Estado de direito, da justiça social e da solidariedade entre os povos.\n\nTem a palavra o Sr. Deputado Manuel Alegre."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 666,
+      "speaker": {
+        "id": 285,
+        "name": "Manuel Alegre De Melo Duarte",
+        "party": "PS",
+        "string": "O Sr. Manuel Alegre (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Depilados: É com emoção que evoco hoje François Mitterrand.\n\nTive o privilégio de conviver com ele e de com ele partilhar alguns momentos inesquecíveis, antes e depois de ele ser eleito Presidente da República francesa. Pude assim conhecer não apenas o homem público, de quem se diz que era distante e majestático, mas o homem e o cidadão no convívio privado com os amigos e companheiros. Pude apreciar o seu espírito, a sua afabilidade, o seu sentido da amizade, a sua grande cultura política e literária. Pude, sobretudo, testemunhar a sua grande simpatia por Portugal e a sua solidariedade para com os que, antes e depois do 25 de Abril, se bateram pela instauração de uma democracia pluralista no nosso país. Os socialistas portugueses, em particular, não esquecerão jamais a sua solidariedade indefectível, simbolizada na sua amizade com Mário Soares, nas horas difíceis do exílio e em todas as etapas do combate pela democracia e pela integração na Europa, em que o seu apoio foi decisivo.\n\nA história de François Mitterrand confunde-se com a história da França nestes últimos 60 anos. É verdade que nasceu numa família conservadora e que começou por ser um jovem nacionalista, mas também é verdade que se bateu como soldado, que foi feito prisioneiro e que, por três vezes, se evadiu. É verdade que foi funcionário de Vichy, num período em que, para muitos franceses, o inimigo era Lavai e não ainda Pétain, mas também é verdade que, a partir de 1942, participou activamente na resistência, onde teve um papel destacado, corajoso e de alto risco como, por exemplo, quando saltou de pára-quedas sobre a França ocupada. Dele disse Pierre Mendès-France: «Nem sempre partilhei a 100% as posições tomadas por François Mitterrand, mas posso dizer que em todas as questões graves encontrei-o sempre do bom lado da barricada. Foi um prisioneiro evadido, foi um resistente corajoso e que correu os mais altos riscos e foi um dos primeiros homens políticos que compreendeu a necessidade de uma política de emancipação dos povos colonizados».\n\nMembro do primeiro governo do General De Gaulle, participou em numerosos gabinetes ministeriais da IV República, nomeadamente no de Mendès-France, que ajudou a formar e do qual virá a ser Ministro do Interior. Opôs-se, desde a primeira hora, ao regime saído do 13 de Maio de 1958 e combateu todos os seus abusos, foi um dos poucos parlamentares que votou, então, contra a Constituição da V República, regime que classificaria como golpe de Estado permanente. A instauração de um sistema presidencialista fê-lo compreender a necessidade de unir toda a oposição e será à sua volta que se fará, lentamente, a unidade dos socialistas e, depois, a união da esquerda.\n\nNa sua juventude, tinha escrito: «As grandes ideias precisam de grandes homens; é preciso encontrá-los ou inventá-los». A Franca tinha já, de um dos lados da barricada, um grande homem, chamado Charles de Gaulle - era preciso outro, que assegurasse a alternância e a alternativa. Esse homem, que a si mesmo se fez ou se inventou em torno de uma grande ideia a que ele próprio chamou a ideia mais nova do inundo, foi François Mitterrand. Conseguiu forçar De Gaulle a uma segunda volta; duas vezes derrotado, seria eleito à terceira, para ser, durante 14 anos, o Presidente da República francesa. A reconciliação franco-alemã e a construção da Europa foi um das seus sonhos e a uma e a outra o seu nome ficará, para sempre, ligado.\n\nGrande orador e notável escritor, cultivou com inigualável talento a palavra falada e a palavra escrita. Gostava de romances e podia ter sido um romancista. De certo modo, fez da sua vida um romance e foi um dos últimos grandes românticos da política europeia. François Mauriac escre-"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 667,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Pedro Roseta."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 667,
+      "speaker": {
+        "id": 344,
+        "name": "Pedro Manuel Cruz Roseta",
+        "party": "PSD",
+        "string": "O Sr. Pedro Roseta (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputados: O Grupo Parlamentar do PSD associa-se inteiramente ao voto de pesar pelo falecimento do anterior Presidente da França, François Mitterrand. Fá-lo porque não esquece o que foi o essencial da sua vida. Como afirmou ontem o Presidente Jacques Chirac, Mitterrand é una vontade como grande homem de Estado. Para nós, o homem de Estado é o que sabe ultrapassar as clivagens ideológicas e afirma essa vontade permanente de servir o povo e de propor certos ideais: a paz, a liberdade, a solidariedade, a justiça social, numa mensagem humanista que se enraíza no mais profundo das tradições europeias, que é a marca distintiva do pensamento e da história da Europa no conjunto dos povos do mundo e que ultrapassa as suas próprias fronteiras e se estende, num abraço, aos povos dos outros continentes.\n\nAí, de algum modo, François Mitterrand coincidiu com a tradição universalista dos portugueses- nós fomos os pioneiros nesse abraço humanista aos povos do inundo. E seguiu a tradição portuguesa (certamente ninguém se escandalizará se eu o sublinhar) quando, mais de 100\nanos depois de Portugal, foi capaz de fazer adoptar, em França, em 1981, a abolição da\npena de morte. É impossível esquecer que, para além dessa vontade de concretização dos valores universalistas europeus, ele foi cape de fazer evoluir o povo francês, fazendo, 100 altos depois do que aconteceu em Portugal, adoptar essa marca distintiva do respeito pela vida e pela pessoa que é a abolição da pena de morte.\n\nNão esqueceremos as lições da sua vida, da sua vontade e dos seus combates.\n\nÉ evidente - não vale a peita dizê-lo - que não partilhávamos da sua ideologia, não concordámos com iodas as suas atitudes. Mas isso, neste momento, não tem importância, porque o que importa para os democratas é saber que, para além das alternâncias,\nhá valores que são permanentes e que devem ser adoptados por todos. Esta é a pedra de loque que distingue os homens de Estado. Porque as ideologias, Sr. Presidente e Srs. Deputados, essas, podem esperar; os princípios e valores, os direitos da Pessoa Humana é que são permanentes. E François Mitterrand também isso compreendeu. Uma prova, seio pretender abrir polémicas: em 1981, mais concretamente em 1982 e 1983, quando François, Mitterrand verificou que a aplicação de determinados princípios dogmáticos podia pôr em causa o bem-estar e até mesmo certos direitos da pessoa, neste caso dos franceses, ele próprio levou a uma inflexão da sua política que lhe foi ditada por esses valores que eram permanentes.\n\nFinalmente, Sr. Presidente e Srs. Deputados, não podia o Grupo Parlamentar do PSD deixar de homenagear a solidariedade de François Mitterrand com Portugal, com a nossa democracia, o seu trabalho importantíssimo pela liberdade do povo português, antes e depois do 25 de Abril, e pela adesão de Portugal à então CEE, que se verificou\nhá 10 anos, em 1)86.\n\nSão estes os pontos que queríamos destacar. Concluindo, diria que morreu um Homem na sua plenitude. É que os homens que marcam o seu tempo, como Mitterrand, os homens que combatem por valores como a Paz, a Liberdade. a Solidariedade, a Dignidade da Pessoa Humana podem morrer descansados porque todas as suas imperfeições, todos os seus erros (errare humanum est) não ficam para a história. O que fica é o seu combate, o combate verdadeiro pela dignidade, pelo bem-estar, pela liberdade da pessoa humana.\n\nPor isso, associamo-nos inteiramente a este voto.\n(O Orador reviu.)"
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 667,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado João Amaral."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 667,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: O Grupo Parlamentar do PCP aprova e associa-se ao voto de pesar pela morte de François Mitterrand, que o Sr. Presidente da Assembleia da República tomou a iniciativa de promover e\npôs a subscrição de todos os grupos parlamentares.\n\nSeguramente não será possível falar do que foi a França, do que foi a Europa e do que foi o inundo nesta segunda metade do século XX, sem referir a figura de François Mitterrand como político e como homem de cultura. Por isso, a Assembleia da República cumpre um justo dever, ao assinalar desta forma a figura de Mitterrand neste momento da sua morte.\n\nO voto que o Sr. Presidente nos apresentou não esquece as naturais controvérsias que a vida de Mitterrand, como estadista, suscita. Ele próprio, nos últimos anos da sua vidra, preparando com sábio rigor o fim inevitável, trouxe ao conhecimento público pedaços escondidos de uma vida, e fê-lo não para se desmerecer mas, sim, porque as grandes figuras da história não se retocam, nem querem que outros o façam.\n\nSerge July no Libération de ontem escreveu: \"Mitterrand morre como um homem livre,...\" - e\nacrescenta - \"...de forma determinada, sempre implacável, contra ventos e marés\". Mitterrand quis ser o autor da sua própria vida. É esta dimensão humana que suscita a admiração de tantos: dos que concordaram e dos que discordaram das suas opções.\n\nÉ isso, com todo o respeito, que aqui assinalamos neste momento solene."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 667,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr.Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado António Galvão Lucas."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 668,
+      "speaker": {
+        "id": 1575,
+        "name": "António Afonso De Pinto Galvão Lucas",
+        "party": "CDS-PP",
+        "string": "O Sr. António Galvão Lucas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: O desaparecimento do Presidente Mitterrand é, quer do ponto de vista da história quer do ponto de vista da sociedade a que pertencemos, um facto de tal maneira relevante que julgo não ter a capacidade para, sobretudo depois das intervenções que me antecederam, acrescentar muito mais às qualidades pessoais e políticas do agora desaparecido Presidente François Mitterrand.\n\nO Grupo Parlamentar do Partido Popular associa-se assim, de uma forma clara e sentida, a todos os que lamentam uma perda tão significativa. A França, a Europa e a Humanidade em geral ficam mais pobres com o desaparecimento do Presidente Mitterrand."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 668,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Presidente da Mesa revê-se nas vossas considerações, com as quais inteiramente se identifica. Mal seria capaz de dizer mais e melhor sobre um homem a quem pessoalmente nunca regateei admiração e respeito e cuja memória será sempre, para mim, uma referência política e humana. Digo mais: só para o ter conhecido e admirado, teria sempre valido a pena viver.\n\nSrs. Deputados, vamos passar à votação do voto n.º 11/VII - De pesar pela morte de François Mitterrand (apresentado pelo Sr. Presidente da AR e por todos os grupos parlamentares).\nSubmetido à votação, foi aprovado por unanimidade, registando-se a ausência de Os Verdes.\nPeço a todos que guardem um minuto de silêncio em memória ao grande François Mitterrand.\nA Assembleia guardou, de pé, um minuto de silêncio.\nSrs. Deputados, farei entrega pessoal deste voto a S. Ex.ª o Embaixador de Franca."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 668,
+      "speaker": {
+        "id": 1642,
+        "name": "José Fernando Araujo Calçada",
+        "party": "PCP",
+        "string": "O Sr. José Calçada (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 668,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 668,
+      "speaker": {
+        "id": 1642,
+        "name": "José Fernando Araujo Calçada",
+        "party": "PCP",
+        "string": "O Sr. José Calçada (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, sob a forma de interpelação à Mesa, quero dizer, em nome do meu grupo parlamentar, o seguinte: é do conhecimento de todos a situação, por vezes extremamente difícil, que muitas populações do nosso país estão a viver neste momento por força dos temporais que se abateram sobre o País, particularmente nas últimas semanas. São de particular gravidade as situações vividas nas bacias hidrográficas do Douro e do Tejo, mas não só. Ainda há bem pouco tempo, deu-se a circunstância de ter recebido a comunicação de que, por exemplo, os pescadores de Viana do Castelo, em virtude das dificuldades do mar, há já um mês e meio que não saem para a sua faina, com todos os prejuízos que se adivinham. Há mesmo perdas de vidas e essas, por sua natureza, insubstituíveis."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 668,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, está a fazer uma interpelação à Mesa lendo que texto? Não estou a perceber..."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 668,
+      "speaker": {
+        "id": 1642,
+        "name": "José Fernando Araujo Calçada",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, não estou a ler texto nenhum, são meras notas que resultarão depois - permito-me desde já avançar - na apresentação de um voto, que gostaria que V. Ex.ª colocasse à consideração desta Casa."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 668,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem o voto escrito?"
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 668,
+      "speaker": {
+        "id": 1642,
+        "name": "José Fernando Araujo Calçada",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tenho, sim, Sr. Presidente."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 668,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Então, agradecia que o fizesse chegar à Mesa."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 668,
+      "speaker": {
+        "id": 1642,
+        "name": "José Fernando Araujo Calçada",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dizia eu, para além do seu dramatismo, cabe-nos, no entanto..."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 668,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Desculpe, Sr. Deputado, mas pergunto se já está a pronunciar-se sobre o voto."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 668,
+      "speaker": {
+        "id": 1642,
+        "name": "José Fernando Araujo Calçada",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "De alguma maneira, sim."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 668,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Dar-lhe-ei a palavra, oportunamente, para esse efeito."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 668,
+      "speaker": {
+        "id": 771,
+        "name": "Maria Luísa Raimundo Mesquita",
+        "party": "PCP",
+        "string": "A Sr.ª Luísa Mesquita (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para me pronunciar sobre este voto."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 668,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sendo assim, pergunto às direcções dos grupos parlamentares se há assentimento no sentido de, desde já, se passar à discussão e votação deste voto."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 668,
+      "speaker": {
+        "id": 418,
+        "name": "Carlos Miguel Maximiano De Almeida Coelho",
+        "party": "PSD",
+        "string": "O Sr. Carlos Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, há regras nesta Casa e todos devemos segui-las. Hoje, não há período de antes da ordem do dia, apenas foi aberta uma excepção, com a qual todos concordámos, para homenagear uma pessoa com o estatuto do Presidente François Mitterrand. Qualquer outro voto pode ser apresentado nos termos regimentais, mas deve ser discutido e votado na sessão de amanhã. Outra situação que requeira o consenso dos grupos parlamentares obriga necessariamente ao conhecimento do texto, sem ele não é possível dar consenso. Se o PCP quisesse esse consenso, teria tido a iniciativa de distribuir previamente o texto do voto e, como não o fez, presumo que acatará que a discussão se faça no período de antes da ordem do dia de amanhã."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 668,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Basta o não assentimento de um grupo parlamentar para não se discutir hoje esse voto, que será agendado para a sessão de amanhã.\n\nAproveito para informar que a Conferência dos Representantes dos Grupos Parlamentares encarregou a Mesa de elaborar um voto pela passagem, no dia de amanhã, do 1.º centenário da morte de João de Deus, que, com a vossa permissão, será também agendado para amanhã.\n\nSrs. Deputados, vamos passar à discussão, na generalidade, da proposta de lei n.º 53/VI - Altera a Lei n.º 113/91, de 29 de Agosto (Lei de Bases da Protecção Civil) (ALRM).\n\nPara fazer a síntese do relatório da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, tem a palavra o Sr. Deputado Guilherme Silva, na qualidade de relator."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 668,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Guilherme Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A proposta de lei que vamos hoje discutir e que foi objecto de relatório e parecer elaborado no âmbito da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, aprovado esta manhã por unanimidade, é oriunda da Assembleia Legislativa Regional da Madeira e pretende introduzir duas alterações à Lei de Bases da Protecção Civil.\n\nComo se sabe, esta lei de bases foi apresentada à Assembleia da República pelo governo de então, de harmonia com o seu Programa, e veio na sequência da Lei de"
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 670,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, vai sendo tempo de passar à sua intervenção."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 670,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, já estou na intervenção. É o inconveniente de se ser relator e primeiro orador quanto à proposta em discussão.\n\nDizia eu que vou apresentar também um requerimento nas comissões competentes, no sentido de se fazer o agendamento na especialidade das propostas de lê da Assembleia Legislativa Regional da Madeira que já foram debatidas em Plenário e que têm incidência orçamental, como é o caso da proposta relativa à televisão nas regiões autónomas, de modo a que se possam discutir e aprovar a tempo de serem acolhidas no próximo Orçamento do Estado.\n\nÉ com agrado, repito, que registo o facto de, a pouco e pouco, se sensibilizar esta Assembleia para as iniciativas das assembleias legislativas regionais. Não me parece que seja, nesta matéria, razões para não acolher as soluções que a Assembleia Legislativa Regional da Madeira propõe, pois são soluções, repito, que pretendem assegurar uma maior articulação e eficiência no âmbito de uma questão tão sensível como a protecção civil, tal como temos visto agora com as cheias e as calamidades que aqui têm ocorrido. É necessário que todos os órgãos, designadamente as forças armadas e as forças de segurança, se articulem com as restantes estruturas da Administração e da sociedade civil, de forma a que possam ter, para protecção de direitos fundamentais como o direito à vida e a protecção das pessoas em situações de crise ou de calamidade, em todo o País, tanto no continente como nas regiões autónomas, a eficiência e as garantias adequadas. Mau seria que, por razões de meros instrumentos legislativos, estivéssemos, em relação a uma parcela do País, fosse ela qual fosse, a comprometer essa eficiência e essa garantia."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 670,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Isabel Sena Lino."
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 670,
+      "speaker": {
+        "id": 1484,
+        "name": "Maria Isabel Ferreira Coelho De Sena Lino",
+        "party": "PS",
+        "string": "A Sr.ª Isabel Sena Lino (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Ao dirigir-me, pela primeira vez, a esta Assembleia, gostaria de começar por cumprimentar o Sr. Presidente, Dr. António de Almeida Santos, pessoa que sempre admirei, quer pela luta que travou contra o fascismo, quer pelo inquestionável contributo na construção do actual regime democrático.\n\nSrs. Deputados, com a publicação da Lei de Bases da Protecção Civil, Lei n.º 113/91, de 29 de Agosto, foram definidos os princípios gerais e a política de protecção civil, com o objectivo de prevenir riscos colectivos e atenuar os respectivos efeitos, socorrendo as pessoas em perigo, vítimas daquelas situações.\n\nNo âmbito desta lei, mais propriamente no seu artigo 24.º, foram consagrados vários poderes às regiões autónomas, não tendo sido, no entanto, salvaguardadas as suas especificidades no que respeita às atribuições e competências dos órgãos e serviços das regiões.\n\nConstata-se, assim, que houve uma lacuna na diferenciação entre a divisão administrativa do continente e as autonomias regionais.\n\nOutro aspecto fundamental é a obrigatoriedade de articulação que deve existir entre a autoridade na área da jurisdição marítima, nas zonas de acesso ao mar e contíguas ao litoral, e as autoridades regionais responsáveis pelo serviço de protecção civil, princípio expresso, ainda que de uma forma sumária, no Estatuto Político-Administrativo da Região, na alínea h) do seu artigo 30.º. Sendo a protecção civil uma actividade que abrange várias áreas e sectores, só uma colaboração pronta e eficaz entre todas as estruturas do sistema poderá alcançar os objectivos fixados no seu âmbito.\n\nA necessidade de definir e clarificar os aspectos atrás expostos levou o Governo da Região Autónoma da Madeira, passados seis meses da publicação da Lei de Bases, a apresentar um projecto de proposta de lei à Assembleia Legislativa Regional da Madeira na IV Legislatura, que, depois de analisado em sede de comissão, foi aprovado por unanimidade em Janeiro de 1992.\n\nA falta de agendamento por parte desta Assembleia fez com que este diploma caducasse com o termo da supracitada legislatura, tendo sido necessário renovar esta iniciativa e reapreciá-la na V Legislatura e, nas Comissões de Saúde e de Assuntos Sociais, foi aprovada igualmente por unanimidade, na 1.ª Sessão Legislativa, em Março de 1993.\n\nQuase três anos medeiam entre a discussão deste diploma na Assembleia Legislativa Regional da Madeira e na Assembleia da República.\n\nEm menos de três meses, já foram retirados da «gaveta» três diplomas regionais, o que demonstra a sensibilidade, o respeito e a capacidade de agendamento perante o trabalho das regiões, com o mesmo tratamento dado às iniciativas provenientes dos diferentes grupos parlamentares desta Câmara."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 670,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 670,
+      "speaker": {
+        "id": 1484,
+        "name": "Maria Isabel Ferreira Coelho De Sena Lino",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "No entanto, não posso deixar de reconhecer a oportunidade e a actualidade deste tema, dada a permanente solicitação dos serviços que integram a protecção civil e que nas últimas semanas têm sido chamados a intervir em todo o território nacional.\n\nA necessidade de um serviço de protecção civil devidamente estruturado faz-se sentir em qualquer sociedade e muito em particular numa região com as características da Madeira, tendo em conta o problema dos transportes e das comunicações.\n\nCom a apresentação destas propostas de aditamento à Lei de Bases, pretende-se assegurar uma estreita ligação e constante coordenação entre os vários departamentos e instituições, o que, acreditamos, apesar de já se vir praticando, só ganhará eficácia quando formalmente aprovadas e publicadas estas propostas.\n\nPor último, sabendo que na 1.ª Comissão se alertou para o facto de esta iniciativa apenas provir da Região Autónoma da Madeira e, embora seja totalmente legítima, seria vantajoso que a lei final regulasse também a situação da Região Autónoma dos Açores.\n\nO Partido Socialista considera que a Assembleia Legislativa Regional deve encontrar a forma de consulta apropriada que garanta uma solução e que responda às necessidades de ambas as regiões autónomas."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 671,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada Isabel Sena Lírio, muito obrigado pelas suas amáveis considerações iniciais.\n\nPara pedir esclarecimentos, tem a palavra o Sr. Deputado Guilherme Silva."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 671,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Guilherme Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, antes de mais, queria felicitar a Sr.ª Deputada Isabel Lino pela sua primeira intervenção nesta Câmara e colocar-lhe a seguinte questão: V. Ex.ª referiu, e bem - corresponde às actas da Assembleia Legislativa Regional da Madeira, que esta proposta de lei foi aprovada por unanimidade, mas, como sabe, foi também aprovada por unanimidade uma resolução no sentido de pedir o agendamento urgente destas propostas de lei à Assembleia da República. A questão que voltou aqui a colocar, e que, aliás, tinha sido posta, esta manhã, na reunião da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, tem a ver com o alargamento à Região Autónoma dos Açores das soluções aqui veiculadas, questão constitucionalmente difícil, se não mesmo impossível, de resolver.\n\nNaturalmente que o facto de aprovarmos este diploma, nos termos propostos pela Assembleia Legislativa Regional da Madeira, não impedirá os órgãos do governo próprio dos Açores, se o entenderem necessário e conveniente, de também fazerem chegar à Assembleia da República uma iniciativa legislativa que possa dar resposta a esta e a outras questões, eventualmente diferenciadas. Estou convicto de que, nesta matéria, as questões nos Açores são bem diferentes, bastando ter preserve que é constituído por nove ilhas, com toda uma problemática diferenciada da Região Autónoma da Madeira, e não me parece, portanto, que devamos atrasar esta proposta de lei por essa razão - digo-o com todo o respeito pela Região Autónoma dos Açores e até por particular respeito pela Região Autónoma dos Açores.\n\nAssim, a questão que quero colocar-lhe é a de saber se, em coerência com a sua intervenção, estará o seu grupo parlamentar disponível para votar favoravelmente o requerimento que o meu grupo parlamentar apresentou, no sentido de se fazer já, em Plenário, a votação na especialidade e final global, conjuntamente com a votação na generalidade."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 671,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra a Sr.ª Deputada Isabel Sena Lino."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 671,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Isabel Sena Lírio (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr. Deputado Guilherme Silva, sendo esta uma lei nacional, parece-me que esta proposta de lei deverá baixar à respectiva comissão para discussão na especialidade e o facto de aqui não incluirmos a Região Autónoma dos Açores não quer dizer que não deva ser ouvida e consultada. Como disse, sendo esta uma lei nacional, a proposta de lei deve baixar à comissão para discussão na especialidade e aí deverá ser também consultada a Região Autónoma dos Açores."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 671,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 671,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Gonçalo Ribeiro da Costa."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 671,
+      "speaker": {
+        "id": 1626,
+        "name": "Gonçalo Filipe Ribas Ribeiro Da Costa",
+        "party": "CDS-PP",
+        "string": "O Sr. Gonçalo Ribeiro da Costa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A questão que hoje se coloca merece, desde já, o apoio do Partido Popular, motivo pelo qual votaremos favoravelmente a proposta de lei que nos é apresentada pela Assembleia Legislativa Regional da Madeira.\n\nNo entanto, há algumas questões que não queremos deixar de levantar por nos parecerem pertinentes. A primeira tem a ver com uma questão processual. Julgo que o diploma que aqui se altera, no n.º 2 do artigo 24.º, conjugado com o Estatuto político-administrativo da Região Autónoma da Madeira nomeadamente o n.º 2 do seu artigo 29. º, atribui à Assembleia Legislativa Regional da Madeira competências para alterar a Lei de Bases da Protecção Civil em função dos interesses específicos da região.\n\nAquilo que questiono é no sentido de saber se não seria desnecessário trazer esta proposta de lei à Assembleia, quando esta questão poderia muito bem ter sido resolvida em sede de Assembleia Legislativa Regional da Madeira, por força da conjugação das normativos que citei. Esta é uma questão que aqui deixo.\n\nDe qualquer forma, não pode também deixar de ser levantada uma outra questão, que tem a ver com o facto de esta proposta de lei estar pendente nesta Assembleia da República\nhá cerca de dois anos e meio, sem que tivesse havido preocupação em trazê-la a Plenário. Concordamos que ela seja votada hoje, no Plenário, mas não podemos deixar de criticar o facto de ela não ter sido apreciada e ornada logo que chegou aos serviços da Assembleia da República.\n\nE, já que se está a falar dos Açores, levanto a questão de saber como é que esta região resolveu o assunto. É\n\nque tenho para mim que, nos Açores, esta problemática é com certeza bem mais grave, e talos sabemos porquê. De três uma: ou, nos Açores, ainda não repararam nesta lacuna ou já a resolveram sem recorrer a quaisquer processos legislativos ou já recorreram a um processo legislativo, com recurso àquelas normas, que citei, do Estatuto político-administrativo da Região Autónoma da Madeira e que também existem num diploma idêntico referente aos Açores. Portanto, os Açores, porventura, já têm o problema resolvido, coisa que não acontece na Madeira, em pare por responsabilidade da Assembleia da República.\n\nTermino, renovando o apoio do PP a esta proposta de lei, por questões de princípio, que já citei."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 671,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Reis Leite."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 671,
+      "speaker": {
+        "id": 1696,
+        "name": "Jose Guilherme Reis Leite",
+        "party": "PSD",
+        "string": "O Sr. Reis Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Gonçalo Ribeiro da Cosia, tenho estado a ouvir atentamente a apreciação feita sobre esta matéria e verifico que, várias vezes, tem sido mencionada a Região Autónoma dos Açores. O que tem sido dito não me suscita dúvidas, pois, evidentemente, os Açores têm este assunto pensado e resolvido há muito tempo, e, sobre aquilo que também foi dito de que se esta emenda se estender à Lei de Bases da Protecção Civil dos Açores será ouvida a Assembleia Legislativa Regional dos Açores, penso que é óptimo, o caso está arrumado.\n\nSó que o Sr. Deputado Gonçalo Ribeiro da Costa, agora, colocou um problema que me parece merecer uma referência: é que o que está correcta é a sua segunda interpretação. Os Açores não estão distraídos em relação a esta matéria, nem em relação a nenhuma; os Açores têm uma longa experiência em matéria de protecção civil, pois está situada numa zona de contínuos sismos e tempestades e quase todos os anos a protecção civil é chamada a intervir e tem-no feito com eficácia, resolvendo os problemas das populações. A Assembleia Legislativa Regional dos Açores usou das faculdades constitucionais e estatutárias que lhe permitiram adaptar a lei às realidades açorianas. Se"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 672,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Gonçalo Ribeiro da Costa."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 672,
+      "speaker": {
+        "id": 1626,
+        "name": "Gonçalo Filipe Ribas Ribeiro Da Costa",
+        "party": "CDS-PP",
+        "string": "O Sr. Gonçalo Ribeiro da Costa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, o Sr. Deputado Reis Leite, porventura por distracção, afirmou que eu teria dito que nos Açores andavam distraídos. Ora, não foi isso que referi. Eu apenas disse que os Açores já teriam resolvido o assunto ou por recurso à adaptação ou, sem recurso a esta, adaptando de facto ou, então, porque não se sentiram atingidos por essa lacuna. Foi isto que eu disse. Mas agrada-me saber que nos Açores não andam tão distraídos!... Não precisaram de recorrer à Assembleia da República Só me resta tomar nota desse facto, que é relevante, sobretudo atendendo às especificidades e às dificuldades que estas questões colocam nos Açores e que são quase periódicas."
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 672,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Guilherme Silva."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 672,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Guilherme Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Gonçalo Ribeiro da Costa, à questão que levantou e voltou agora a retomar, no sentido de saber se, ao abrigo do Estatuto da Região e ao abrigo do artigo 24.\" da Lei de Bases da Protecção Civil, a própria Assembleia Legislativa Regional da Madeira não poderia ter aprovado um diploma, dispensando-se de apresentar esta proposta de lei à Assembleia da República, quero dizer-lhe que não corresponde a uma distracção da Assembleia Legislativa Regional da Madeira e dos órgãos do governo próprio da Região, mas, antes, a uma atenção. E vou explicar porquê. É que, infelizmente, a jurisprudência do Tribunal Constitucional é extremamente restritiva, no que diz respeito aos poderes com base no interesse específico das assembleias legislativas regionais, na adaptação das leis gerais da República de diplomas aprovados pelos órgãos de soberania e discute muita vez se determinada solução é ou não mera adaptação.\n\nQuero dizer-lhe, assumidamente, que, no caso concreto, existem, de facto, alterações que podem ser questionadas, no sentido de saber se não são soluções distintas das soluções nacionais, em termos de ultrapassarem aquilo que possa ser, na jurisprudência restritiva do Tribunal Constitucional, uma ideia de mera adaptação em função do interesse específico. Naturalmente, muitas vezes, estas iniciativas desenvolvem-se inclusivamente na base de contactos informais prévios entre a Assembleia Legislativa e o Ministro da República, que, como sabe, tem direito de veto e de suscitar a inconstitucionalidade, acertando-se, em diálogo e em boa vontade, as soluções que evitem o suscitar ias questões e até um eventual desprestígio ou corrosão institucional, com a sistemática consideração de inconstitucionalidade por parte do Tribunal Constitucional em iniciativas semelhantes. Foi esta segurança, esta preocupação, que esteve na base da circunstancia de a Assembleia legislativa Regional, pela natureza das alterações, entender que elas podiam exceder a simples adaptação, no sendo restritivo. Isto com a crítica de constitucionalistas, pois, como sabe, o Professor Jorge Miranda tem criticado várias vezes esta jurisprudência restritiva do Tribunal Constitucional, porque terá o entendimento que V. Ex.ª expressou. Mas a realidade é esta e, portanto, razões institucionais e de cautela quanto ao prestígio das instituições regionais levaram a esta iniciativa. Naturalmente que a Assembleia Legislativa Regional da Madeira pensou que a Assembleia da República seria mais célere nesta apreciação, mas quero dizer-lhe que tomo o seu lamento como uma autocrítica do seu grupo parlamentar, como também já assumi aqui a autocrítica do meu grupo parlamentar, pela razão simples de que todos os grupos parlamentares têm direito a agendamentos potestativos e nenhum assumiu esse agendamento desta iniciativa."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 672,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Gonçalo Ribeiro da Costa."
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 672,
+      "speaker": {
+        "id": 1626,
+        "name": "Gonçalo Filipe Ribas Ribeiro Da Costa",
+        "party": "CDS-PP",
+        "string": "O Sr. Gonçalo Ribeiro da Costa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Guilherme Silva, parece-me que, mais uma vez, foi mal interpretada a minha primeira intervenção, quando, afinal, eu não quis acusar ninguém de distracção ou de desatenção. Mas, pelos vistos, foi interpretada alguma palavra minha nesse sentido. Venho a constatar que, afinal, a Assembleia Legislativa Regional da Madeira não está atenta, mas segura, dado que a questão que se lhe colocou não foi tanto uma questão de atenção mas de zelo ou preocupações de segurança. O problema que aqui se coloca é o de saber o que é mais importante: se ter segurança nos normativos constitucionais, se garantir a segurança das populações. Felizmente, para os madeirenses não houve problemas com este compasso de espera aqui, na Assembleia da República, pelo qual o Partido Popular não é obviamente responsável, na medida em que cada grupo parlamentar tem um número diferente de agendamentos potestativos que pode usar e, como o Sr. Deputado sabe, o Partido Popular, na anterior legislatura, teve um agendamento potestativo por sessão..."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 672,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Guilherme Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, posso interrompê-lo?"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 672,
+      "speaker": {
+        "id": 1626,
+        "name": "Gonçalo Filipe Ribas Ribeiro Da Costa",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não, Sr. Deputado, deixe-me acabar o raciocínio.\n\nComo estava a dizer, o Partido Popular, na anterior legislatura, teve um agendamento potestativo por sessão, tendo entendido, obviamente no uso das suas prerrogativas inquestionáveis - julgo que não questionará isso -, agendar outras matérias que não esta, até porque o PSD tem especiais responsabilidades nesta matéria, uma vez que era governo no continente e é Governo na Madeira, até mais ver!\n\nDe qualquer forma, parece-me que esta preocupação pela segurança constitucional, felizmente, não criou insegurança nas populações e deveremos estar todos agradecidos a Deus por tal não ter acontecido.\n\nÉ tudo o que me ocorre dizer, Sr. Presidente."
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 672,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Devo concluir que o Sr. Deputado não se deixou interromper. Como não há figura de «se deixar prolongar», vou dar a palavra, para uma intervenção, ao Sr. Deputado António Filipe."
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 672,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Estou um pouco perplexo com este debate, porque não temos estado a discutir a substância das coisas."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 673,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Guilherme Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não, não! Estive antes e estou agora!"
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 673,
+      "speaker": {
+        "id": 1626,
+        "name": "Gonçalo Filipe Ribas Ribeiro Da Costa",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como dizia, uma coisa é as iniciativas legislativas deverem ser apreciadas com prontidão e, outra, é serem-no à pressa, o que não deve acontecer. Na realidade, creio que neste debate, de alguma forma, essa a passar-se sobre a matéria em apreciação um pouco \"como gato sobre brasas.\n\nEmbora correndo o risco de passar por desmancha-prazeres, gostava de colocar-lhe três questões, suscitadas pela proposta de lei em apreço, sobre as quais esta Assembleia devia reflectir com algum cuidado.\n\nA primeira questão tem a ver com a criação de uma dualidade de regimes, relativamente a mesma matéria substancial, para as duas regiões autónomas. Isto é, um dos artigos que se pretende alterar aplica-se, tios seus dois primeiros números, às duas regiões autónomas e, agora, é proposto o aditamento ao mesmo artigo de dois números, o 3 e o 4, a vigorarem apenas na Região Autónoma da Madeira. Portanto, ficaríamos com três regimes,..."
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 673,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Guilherme Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Faz-se o artigo 25.º!"
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 673,
+      "speaker": {
+        "id": 1626,
+        "name": "Gonçalo Filipe Ribas Ribeiro Da Costa",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... ou seja, uma parte da lei seria aplicável a todo o território nacional, incluindo as regiões autónomas, uma outra, ao território do continente e à Região Autónoma dos Açores e, uma última, apenas ti Região Autónoma da Madeira. Assim sendo, creio que a Assembleia deveria até porque tem de legislar para todo o País, equacionar este problema para verificar se, caso decida aprovar um regime específico para a Região Autónoma da Madeira por proposta da respectiva assembleia legislativa, seria de ouvir a Assembleia Legislativa Regional dos Açores para saber se é curial, ou não, que esse regime seja aplicável às duas regiões autónomas. Portanto, seja qual for o regime a aprovar, devia ser muito bem ponderado se se justifica a existência de um regime especial para urna região autónoma, excluindo a outra da aplicação desse mesmo regime. Julgo, pois, que se passou demasiado depressa sobre este problema e que valeria a pena reflectir nele. Daí também não concordarmos com a ideia subscrita e aqui proposta pelo Sr. Deputado Guilherme Silva de se fazerem as votações em bloco.\n\nUma segunda questão tem a ver com aquilo que se propõe. Propõe-se, em primeiro lugar, que haja uma alteração do regime de aprovação dos planos de emergência. Os planos de emergência estão previstos tia Lei de Bases da Protecção Civil a quatro níveis. a saber: um plano de emergência nacional, planos de emergência regionais, um para cada região autónoma, planos de emergência distritais e planos de emergência municipais. E interessa verificar quem é competente para aprovar o quê. No plano nacional, a aprovação é feita pelo Conselho de Ministros, mediante parecer prévio da Comissão Nacional de Protecção Civil: no plano regional, essa aprovação é feita pelos órgãos do governo próprio das regiões, também mediante parecer prévio da Comissão Nacional de Protecção Civil: no plano distrital, os planos são aprovados pela própria Comissão Nacional, mediante parecer prévio dos governos civis, e. no plano municipal, aquele que se pretende alterar, são aprovados pela própria Comissão Nacional de Protecção Civil, mediante parecer da câmara municipal. Ora, aquilo que aqui se propõe é uma alteração deste regime, no que se refere à Região Autónoma da Madeira, retirando esta competência à Comissão Nacional de Protecção Civil e atribuindo-a ao governo regional - item sequer ao Serviço Regional de Protecção Civil, mas ao governo regional. Enato, se este diploma fosse aprovado, passaria a haver Lima dualidade de regimes, isto é, os planos de emergência municipais do território do continente e da Região Autónoma dos Açores seriam aprovados pela Comissão Nacional de Protecção Civil, mediante parecer prévio das câmaras e, no roo da Madeira, seria retirado esse poder à Comissão Nacional, passando a ser o governo regional a aprovar esses planos. mediante parecer das respectivas câmaras municipais. Ora, esta dualidade de regimes não nos é justificada. É\nque - e chamo a atenção para este ponto, pois parece-me particularmente\nimportante - as iniciativas legislativas das assembleias legislativas regionais não são como as demais, porque não está aqui presente o proponente. Na realidade, um Deputado que proponha unia iniciativa legislativa pode vir aqui apresentá-la e explicar o que pretende, mas isso não acontece com as proposta das assembleias legislativas regionais, razão pela qual elas deveriam ser particularmente justificadas. Porém, esta proposta de lei não tem qualquer justificação, o preâmbulo é praticamente inexistente, é quase como se se dissesse \"Aprovem-na, porque pensamos que deve ser assim... Posto isto, dever-nos-ia ser explicado por que razão a Assembleia Legislativa Regional da Madeira pretende a aplicação de um regime diferente do território do continente e do da Região Autónoma doa Açores. E não se diga que é por razões naturais, porque, nesse caso, também ficaria por explicar por que é que o que é bom para Madeira, a esse nível, já não o será para os Açores.\n\nEste aspecto prende-se também com a segunda questão proposta, relativa às competências da autoridade marítima. A Lei de Bases da Protecção Civil diz, no seu artigo 17.º. que \"no espaço sob a jurisdição da autoridade marítima, a responsabilidade inerente à protecção civil cabe aos serviços dependentes daquela autoridade\". Ora, propõe-se aqui, também exclusivamente para a Região Autónoma da Madeira, que haja um dever de articulação com o Serviço Regional de Protecção Civil. Contudo, este dever não está explicitado tia Lei de Bases da Protecção Civil, no que se refere quer à Região Autónoma dos Açores, quer ao território do continente. Neste caso, também não tios é explicado por que razão esta articulação há-de ser assim tão especial no caso específico da Região Autónoma da Madeira - e não vejo onde esteja a especificidade, porque os Açores também são ilhas e o território do continente também tem 850 km de zona costeira. Portanto, em minha opinião, tem de ser melhor explicitada a razão pela qual esta proposta de lei surge, ou seja. por que é que o regime estabelecido a este nível tia Lei de Base, da Protecção Civil"
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 674,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 674,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Guilherme Silva."
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 674,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Guilherme Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado António Filipe, estou realmente surpreendido, porque, apesar de ser usual no seu partido haver uma preocupação de articulação e de coerência, verifico que, contrariamente ao que se passa aqui, na Assembleia Legislativa Regional da Madeira o PCP está completamente esclarecido sobre esta matéria, tendo votado favoravelmente esta proposta que, aliás, obteve a unanimidade -, sem as dúvidas e as reticências que V. Ex.ª aqui evidenciou. Portanto, é um duplo reparo que tenho de fazer à sua bancada: primeiro, esta discrepância com a bancada do seu partido na assembleia legislativa regional e, segundo, o facto de V. Ex.ª não ter articulado com os órgãos regionais do seu partido a tomada de posição aqui, na Assembleia da República. Não é normal isso acontecer no seu partido, mas, desta vez, aconteceu.\n\nO Sr. Deputado deve andar muito ocupado com a candidatura à presidência da República do Sr. Jerónimo de Sousa e, com certeza, não teve tempo de tratar destes assuntos. Esteve mais preocupado com a desistência do seu candidato do que com as propostas da Assembleia Legislativa Regional da Madeira. Não há outra explicação para este duplo desastre da sua intervenção.\n\nMas há mais: é que o preâmbulo da proposta de lei da assembleia legislativa regional explica que é manifesto ter havido um lapso na Lei de Bases da Protecção Civil. E vou explicar-lhe em que consiste esse lapso. Repare no absurdo desta situação: os planos de emergência de base nacional e os de base regional continental são aprovados pelo Conselho de Ministros, enquanto que os de base regional das regiões autónomas são aprovados pelos governos regionais. Ora, pode o mais - ou seja, pode aprovar os planos regionais -, mas não o menos - isto é, não pode aprovar os planos municipais.\n\nParece-me, pois, que o Sr. Deputado se esqueceu de que, em relação aos planos de emergência concelhios, se diz que ao governo regional, ao membro do governo com tutela - que, aliás, é uma tutela que resulta da Constituição, como sabe -, compete exercer poder de tutela sobre as autarquias locais e, depois, o próprio estatuto também o diz, como afirma que é uma questão específica a articulação entre os serviços regionais de protecção civil e os serviços nacionais de protecção civil.\n\nPortanto, existe aqui quer uma base estatutária quer uma base constitucional quer o espírito das próprias normas constantes da Lei de Bases da Protecção Civil para justificar esta alteração que a Assembleia Legislativa Regional da Madeira pretende introduzir e que não deve permitir as preocupações sucessivas, que vão inclusivamente ao ponto de pôr em dúvida a correcção de posições do seu partido a nível da assembleia legislativa regional sobre uma questão tão simples que não pode ser eivada dessas suspeitas centralistas, das quais o PCP não consegue libertar-se."
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 674,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. deputado António Filipe."
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 674,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Guilherme Silva, o senhor incorreu em dois tipos de equívocos. O primeiro foi o de considerar que estamos a contrariar as posições assumidas na Região Autónoma da Madeira por querermos discutir aqui esta matéria. Ora, pensamos não contrariar quem quer que seja na região autónoma pelo facto de não querermos assinar este diploma de cruz mas, antes, discutirmos esta matéria e exigirmos que aquilo que nos é proposto seja minimamente fundamentado, o que não está feito na proposta de lei. Daí julgarmos importante fazer a discussão na especialidade com a ponderação necessária.\n\nAté porque o Sr. Deputado comete um outro equívoco. Na realidade, o senhor diz que o governo regional deve aprovar os planos de emergência municipais, porque já aprova os regionais e, portanto, quem pode o mais, pode o menos. Mas isso também acontece com o Governo da República, que aprova o plano nacional e não os planos municipais, que são aprovados pela própria Comissão Nacional de Protecção Civil. Portanto, o Sr. Deputado é que está equivocado. De facto, se o Governo da República não aprova os planos municipais nos municípios do continente, por que razão o governo regional há-de aprovar os planos de emergência municipais dos municípios da região autónoma? Assim é que se cria uma dualidade de regimes e não seguindo a letra da Lei de Bases da Protecção Civil."
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 674,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Guilherme Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Lá os concelhos estão para o governo da região como aqui os distritos estão para o Governo!"
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 674,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ai é?!"
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 674,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não percebo por que razão os senhores estão com tantos problemas em que isto seja decidido de supetão. Qual é o vosso receio de que haja uma discussão na especialidade? A não ser que o Sr. Deputado tenha consciência de que há bancadas que estão a assinar este diploma de cruz e a lê-lo muito apressadamente e pretende que elas o aprovem antes que se arrependam.\n\nPor isso mesmo, julgo que seria importante debater esta matéria com ponderação. Ò Sr. Deputado Guilherme Silva está com muita pressa, mas não percebo bem porquê."
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 674,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 674,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Nuno Abecasis."
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 674,
+      "speaker": {
+        "id": 336,
+        "name": "Nuno Krus Abecasis",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Abecasis (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, não se trata propriamente de um pedido de esclarecimento mas, sim, de um modesto contributo de alguém que tem alguma experiência, às vezes dolorosa, dos problemas da segurança e da protecção civil.\n\nApenas quero dizer a esta Assembleia que, no meu entender, se há alguma lei que não deve ser uniforme e que, por isso, não nos deve preocupar que seja diferente em territórios superficialmente afastados e sujeitos a condicionalismos tectónicos, geográficos e de outra natureza, e até de organização territorial, essa lei é a de protecção civil. Diria mesmo, Sr. Presidente, que o máximo de\neficácia - e aqui esse máximo de eficácia interessa, porque estão em causa vidas humanas e valores consegue-se com a adequação destas leis de protecção civil aos casos concretos a que elas dizem respeito.\n\nDeixemos um pouco esta preocupação da uniformidade, porque em algumas coisas é óptima e noutras ela é\npéssi-"
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 675,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o entender, tem a palavra o Sr. Deputado António Filipe. Como não dispõe de tempo, concedo-lhe dois minutos para o efeito"
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 675,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, creio que não se tratou propriamente de uma pergunta, por isso entendo que não tenho esclarecimentos a dar."
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 675,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, como não ha mais pedidos de palavra, dou por encerrado o debate desta proposta de lei.\n\nInformo os Srs. Deputados de que deu entrada na Mesa um requerimento subscrito pelo Sr. Deputado Guilherme Silva no sentido de que se proceda, desde já, nos termos dos artigos 159.º a 164.º do Regimento da Assembleia, à votação, na especialidade e final global, desta proposta de lei que acabámos de discutir na generalidade.\n\nComo o assunto não requer qualquer discussão, vamos votar."
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 675,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Guilherme Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dá-me licença, Sr. Presidente?"
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 675,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 675,
+      "speaker": {
+        "id": 1246,
+        "name": "Guilherme Henrique Valente Rodrigues Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Guilherme Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, não sei se, em bom rigor, não tem de se proceder primeiro a votação na generalidade..."
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 675,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Ali, sim, Sr. Deputado! Como ninguém requereu a votação imediata na generalidade, as votações que são objecto do seu requerimento terão de ficar para uma próxima sessão.\n\nSrs. Deputados, vamos agora passar à discussão, tia generalidade, da proposta de lei n.º 97/VI - Criação do Fundo Nacional de Integração do Intercâmbio Cultural Amador (ALRA).\n\nPata uma intervenção, tem a palavra o Sr. Deputado Reis Leite."
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 675,
+      "speaker": {
+        "id": 1696,
+        "name": "Jose Guilherme Reis Leite",
+        "party": "PSD",
+        "string": "O Sr. Reis Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Voltamos hoje a tratar de uma proposta de lei oriunda da Assembleia Legislativa Regional dos Açores. Aliás, o dia de hoje tem sido consagrado a matérias referentes às regiões autónomas, da iniciativa dos seus Parlamentos regionais, o que muito me agrada registar pelo que representa de nova atitude política em relação às iniciativas vindas daquelas Assembleias.\n\nSr. Presidente, Srs. Deputados: O assumo que nos ocupa é de grande simplicidade formal, mas do mais ,alto significado político, pois pretende incentivar e fortalecer os laços entre todos os portugueses e a consequente aproximação entre os insulares e os continentais, um dos fins a atingir pela autonomia, como vem escrito na Constituição.\n\nA Assembleia Legislativa Regional dos Açores, por iniciativa do Grupo Parlamentar do Partido\nSocialista - \"o seu a seu dono!\" - e através de um dos antigos Deputados da Assembleia da República, resolveu discutir uma proposta de lei que pretende encontrar uma forma prática para facilitar a deslocação de agrupamentos culturais do continente português às regiões autónomas.\n\nÉ preciso aqui dizer-se, entre parêntesis, que, desde há muito tempo, tem sido política seguida pelos Governos regionais dos Açores o promover deslocações de agrupamentos culturais insulares a Portugal continental, permitindo, desta forma, um intercâmbio saudável entre os jovens portugueses.\n\nAlguns têm defendido, erradamente, que as culturas populares mais puras se preservam no isolamento. Nada mais erróneo. É antes, pelo contrário, o contacto com a novidade, outras formas de encarar as realidades e outros aspectos culturais que protegem os particularismos e animam as vivências culturais.\n\nOs açorianos só têm vantagens - e muitas! - em trocar experiências, em contactar novas formas de cultura e em animar os seus sentimentos universalistas. Veja-se, por exemplo, o quanto tem sido favorável à cultura açoriana a vivência nas terras de emigração. Costumes ancestrais e manifestações culturais insulares, que pareciam moribundas nas ilha,, renasceram com o maior esplendor nas terras da América do Norte e no Canadá e são hoje unanimemente celebrados pela sua pujança e pelo seu brilho.\n\nAs raízes culturais açorianas - ou açoritas, como lá se diz - fazem o orgulho dos brasileiros do Rio Grande e de Santa Catarina e os 200 anos, mesmo sem renovação de gerações, não foram suficientes para apagar o dinamismo de uma cultura.\n\nSr. Presidente, Srs. Deputados: Isto para vos dizer o quanto tem a ganhar, na minha perspectiva, a cultura portuguesa com o incentivar dos contactos entre o continente e as regiões autónomas e o quanto se dignifica a Assembleia da República em se preocupar e legislar sobre esta questão, que a alguns pode perecer menor.\n\nAnimemos os Governos - o da República e os regionais - a trabalharem no campo do concreto, para que os portugueses se conheçam melhor e redescubram as raízes comuns que fizeram a Pátria. Não haverá melhor caminho para isso do que aproximar os jovens, que são quem anima geralmente os grupos culturais que estão na base desta iniciativa legislativa.\n\nO que a Assembleia Legislativa Regional dos Açores nos propõe é um pequeno nada em ternos de esforço financeiro, finas um grande passo em termos de política patriótica. É nosso dever dar-lhe a mão e o incentivo, aprovando a sua proposta. É isto que também vos proponho.\n\nEntretanto, fui convidado a facilitar a baixa à respectiva comissão desta proposta de lei, porque ela pareceu ser demasiado formal em termos administrativos e seria possível encontrar urna solução para atingir este fim de uma forma mais simplificada. Pela minha pane não me oponho, desde que, efectivamente, isso seja transitório e que a Assembleia possa aprovar rapidamente uma proposta que leve aos fins propostos pela Assembleia Legislativa Regional dos Açores."
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 675,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, como a votação na generalidade deste diploma ficará agendada para unia próxima sessão, antes desse momento será apreciado um requerimento que já deu entrada na Mesa.\n\nPara urna intervenção, tem a palavra o Sr. Deputado Sérgio Ávila."
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 675,
+      "speaker": {
+        "id": 1704,
+        "name": "Sérgio Humberto Rocha De Ávila",
+        "party": "PS",
+        "string": "O Sr. Sérgio Ávila (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Conforme é referido no início do preâmbulo da proposta de lei em análise, \"a idiossincrasia própria de cada"
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 676,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Ruben de Carvalho."
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 676,
+      "speaker": {
+        "id": 1699,
+        "name": "Ruben Luis Tristão De Carvalho E Silva",
+        "party": "PCP",
+        "string": "O Sr. Ruben de Carvalho (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ªs e Srs. Deputados: Será seguramente a forma menos imaginativa de iniciar uma intervenção a de citar versos de Camões, mas, perdoe-se-me, o paralelo é irresistível.\n\nEscreveu o poeta que «o fraco rei faz fraca a forte gente», e a máxima parece-me em tudo aplicar-se à questão cuja discussão aqui nos traz. A verdade é que a errada política faz erradas as mais legítimas intenções.\n\nAntes de tudo o mais, gostaríamos de, a título lateral, manifestar de novo as nossas reservas - que parece que são só nossas - sobre o decidido automatismo de fazer regressar a esta Assembleia, na nova legislatura, as propostas que nas anteriores chegaram das assembleias legislativas das regiões autónomas. Poder-se-á, como sempre, brandir indefinidamente argumentos de ordem jurídico-constitucional de valor vário, mas uma realidade permanece imutável: é que muitos destes diplomas resultaram de enquadramentos políticos entretanto alterados - e o caso em epígrafe é exactamente um deles - e melhor seria que, antes de mais nada, os próprios proponentes analisassem a bondade e oportunidade do que propuseram e avaliassem se no novo quadro político a anterior forma seria a mais indicada e adequada ou, pelo contrario, a realidade e a eficácia aconselhariam reformulações.\n\nSr. Presidente, Sr.ªs e Srs. Deputados: Antes de passarmos aos aspectos focados pelo preâmbulo da proposta de lei n.º 97/VI, vejamos o que no concreto determinou a aprovação desta medida, apresentada, tanto quanto sabemos, pelos Deputados do Partido Socialista na Assembleia Legislativa Regional dos Açores.\n\nÉ conhecido que aquele arquipélago, à semelhança do que ocorre com outras zonas do País, possui um vasto e rico património de cultura popular nas suas mais diversas expressões: artefactos, produção musical e coreográfica, cancioneiro, etc. Em circunstâncias históricas da mais diversa índole, muito deste património, com destaque para o de expressão musical e coreográfica, tem dado origem à criação de grupos amadores que dele fazem um elemento de animação dos quotidianos festivos das respectivas populações.\n\nSem pretender fazer processos de intenções, mas socorrendo-nos dos elementos que entretanto nos foi possível recolher, diremos que a preocupação essencial do legislador ao produzir este diploma foi a de assegurar que o apoio dado à vida e, essencialmente, às deslocações destes agrupamentos não ficasse exclusivamente entregue ao arbítrio das autoridades regionais dos Açores, que desses apoios"
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 678,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Reis Leite."
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 678,
+      "speaker": {
+        "id": 1696,
+        "name": "Jose Guilherme Reis Leite",
+        "party": "PSD",
+        "string": "O Sr. Reis Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Ruben de Carvalho, há aqui duas questões que não podem passar em branco. Devo dizer que o Sr. Deputado delira em relação ao que se passa nos Açores. A realidade é absolutamente outra.\n\nOs sucessivos governos regionais, formados através do PSD, não têm de se envergonhar da sua política de apoio a todas as formas de cultura popular na Região Autónoma dos Açores."
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 678,
+      "speaker": {
+        "id": 418,
+        "name": "Carlos Miguel Maximiano De Almeida Coelho",
+        "party": "PSD",
+        "string": "O Sr. Carlos Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 678,
+      "speaker": {
+        "id": 1696,
+        "name": "Jose Guilherme Reis Leite",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pelo contrário, quem ao longo destes 20 anos acompanhou o que se tem feito em matéria de ressuscitar e apoiar as iniciativas de ordem cultural, a todos os níveis, nos Açores não pode rever-se na teoria aqui trazida pelo Sr. Deputado sobre esta matéria no que toca à Região Autónoma dos Açores. Tudo o resto, todas essas citações, desde Camões até aos historiadores ingleses, devem entender-se como um mero exercício académico e que não são para aqui chamadas.\n\nGostaria de perguntar-lhe, Sr. Deputado, se o juízo de intenções que fez em relação a esta proposta de lei se refere ao Sr. Deputado Rui Ávila, eleito pelo círculo eleitoral dos Açores e antigo colega nosso nesta Casa, em relação ao que estava subjacente à proposta, isto é, de que era preciso subtrair aos órgãos do governo próprio o apoio às iniciativas culturais, ou se, em sua opinião, foi uma intenção da Assembleia Legislativa Regional dos Açores, porque, então, parece não fazer muito sentido que esta proposta tenha sido aprovada por unanimidade na assembleia regional. Devo lembrar que a única coisa que está em causa é o apoio de deslocações do continente para\na região autónoma, e não consta que os órgãos do governo próprio da região autónoma tenham poder para tomar decisões em relação ao Governo da República.\n\nSendo assim, gostaria que me informasse, no que toca a esse juízo de valor que faz, a quem se refere concretamente."
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 678,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Reis Leite, gostaria de saber se V. Ex.ª dispensa algum do tempo disponível do PSD ao PCP por forma a que o Sr. Deputado Ruben de Carvalho possa responder."
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 678,
+      "speaker": {
+        "id": 1696,
+        "name": "Jose Guilherme Reis Leite",
+        "party": "PSD",
+        "string": "O Sr. Reis Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Com certeza, Sr. Presidente."
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 678,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, posso medir essa concessão em três minutos?"
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 678,
+      "speaker": {
+        "id": 1696,
+        "name": "Jose Guilherme Reis Leite",
+        "party": "PSD",
+        "string": "O Sr. Reis Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Com certeza."
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 678,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado Ruben de Carvalho."
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 678,
+      "speaker": {
+        "id": 1699,
+        "name": "Ruben Luis Tristão De Carvalho E Silva",
+        "party": "PCP",
+        "string": "O Sr. Ruben de Carvalho (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito obrigado, Sr. Presidente e Sr. Deputado Reis Leite.\n\nComeço por dizer que, felizmente para esta Assembleia, aquilo que é ou não para aqui chamado não cabe no juízo de V. Ex.ª, porque, se não, tenho a impressão de que alguma coisa de mau aconteceria à democracia nesta Assembleia.\n\nPortanto, considerando que não tenho de me preocupar com aquilo que o Sr. Deputado entenda dever ou não ser para aqui chamado, vou tentar responder-lhe, porque, caso contrário, não sei como o poderia fazer.\n\nSr. Deputado Reis Leite, além de ter uma opinião sobre o que se deve falar, chego à conclusão de que ouve mal. Isto porque o que fiz foi chamar a atenção para o facto de tentar encontrar uma justificação acerca da proposta feita. Ora, da proposta e das ilações que dela haveria a tirar, tirei algumas conclusões: o Sr. Deputado «enfiou um barrete» que manifestamente eu não tinha feito à sua medida, nem sequer à medida da Região Autónoma dos Açores, nem mesmo a medida alguma em geral. As conclusões que tirei foram apenas em relação a um problema de fundo deste país, Sr. Deputado.\n\nQuanto à actuação que possa haver relativamente ao apoio, ou não, à actividade dos grupos populares na Região Autónoma dos Açores deixo ao critério dos açorianos, que, ao que parece, tiveram necessidade de aprovar esta lei. Não fomos nós que a aprovámos, Sr. Deputado! Foi a Região Autónoma dos Açores que sentiu a necessidade de a aprovar! E o que eu aqui disse foi que, não contestando a legitimidade e até a necessidade desta lei, isto se prende com problemas que em tudo extravasam a Região Autónoma dos Açores, que, embora situada no meio do oceano Atlântico, não é o meio do mundo, colocando-se outros problemas em relação ao nosso país que têm a ver com a regionalização. E talvez fosse bom o Sr. Deputado saber que regionalização é um conceito que não se esgota nas regiões autónomas, tem a ver com todo o país, faz parte dos assuntos que aqui teremos de discutir e é deles que estamos a falar, é desse tipo de problemas que estamos a falar e foi a esse tipo de problemas que me referi.\n\nO que eu disse, para o que chamo a atenção do Sr. Deputado, no meu delírio, como elegantemente lhe chamou - e tomo nota-, é que até estava de acordo com esta medida, apesar de me parecer que estava a começar-se pelo fim."
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 678,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 678,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Maria José Nogueira Pinto."
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 678,
+      "speaker": {
+        "id": 1672,
+        "name": "Maria José Pinto Da Cunha Avilez Nogueira Pinto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Maria José Nogueira Pinto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Ao longo dos últimos 20 anos sucessivos Governos tentaram dar corpo à ideia, pacificamente aceite, da responsabilidade do Estado na produção e divulgação cultural.\n\nConsoante os pressupostos- filosóficos, políticos e até meramente factuais -,os sucessivos Programas de Governo, orgânicas e responsáveis da pasta, em que me incluo, ensaiaram modelos que lograssem resolver contradições profundas e dificuldades de toda a ordem.\n\nUma breve análise revelará, porém, que a maioria dos problemas é mais estrutural do que conjuntural e que, também aqui, não bastam - nem talvez mesmo se aconselhem de todo - critérios predominantemente político-patidários.\n\nSenão vejamos: em Portugal a produção cultural é pobre. Esta constatação, que na hora da verdade todos somos obrigados a fazer, não traduz, porém, um facto inelutável. Basta procurar as razões para que os lugares comuns minimizadores do que somos e fazemos, infelizmente do agrado de tantos, sejam substituídos por uma responsabilidade que sobre nós também impende de promover as soluções adequadas. Porque decerto todos concordamos que há remédio, por exemplo, para: uma formação artística deficiente à qual se soma a ausência de articulação com as saídas profissionais; o estado cíclico de desorganização\ndo"
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 679,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 679,
+      "speaker": {
+        "id": 1672,
+        "name": "Maria José Pinto Da Cunha Avilez Nogueira Pinto",
+        "party": "CDS-PP",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É assim, que, de uma forma visivelmente atribulada, os sucessivos Governos têm ensaiado modelos, que mais do que solucionar alguns problemas logram, quando muito, pacificar alguns sectores.\n\nO certo é que, porém, custe a quem custar, e por grandes que sejam as susceptibilidades feridas, uma só coisa legitima o Estado a afectar directa ou indirectamente à produção cultural vários milhões do erário público. e isso é ser o garante da rentabilidade cultural e social desse, dinheiros.\n\nSr. Presidente, Srs. Deputados: Num país de recursos escassos, com um contribuinte cansado e carências sociais profundas, só o sentido eminentemente social, educativo e civilizacional da fruição cultural Ião generalizada quanto possível justificai essa afectação de recursos.\n\nPensemos por exemplo, no teatro, área onde foram consumidos 2 milhões de contos, em 1x05, ou, na música, onde foram gastos 2,5 milhões de contos. Acresce que o grosso dessa produção se concentra, por razões óbvias nas grandes centros urbanos e, em Portugal. maioritariamente em Lisboa\n\nTorna-se assim claro que, se o Estado garante o apoio à produção e, em alguns casos, ele próprio directamente a assegura, não apenas coro financiamento, mas com estruturas próprias, como é caso do Teatro de São Carlos, do Centro Cultural de Belém, do Teatro de São João, do Teatro D. Maria, etc., então, o Estado lera de assegurar, por todos os meios, a promoção da divulgação cultural.\n\nOra, é sabido que com frequência a máquina estatal afecta com mais facilidade centenas de milhares de somos a uma produção condenada a um circuito quase fechado de divulgação do que a medidas tendentes ;à circulação dos bens culturais. E embora considere intelectualmente pouco honesto o raciocínio simplista de dividir, por exemplo, os gastos no apoio ao teatro pelo número de espectadores no mesmo período, como se mais nada houvesse paira avaliar, e há certamente, não posso deixar de concordar que tal raciocínio, embora fácil, é possível e perigosamente tentador, por vezes.\n\nSr. Presidente. Srs. Deputados: Esta medida. ora em apreço, representa esse esforço complementar que justifica o todo. É, pois, de louvar. E esta necessidade, ora seguida pelos Açores, quiçá devido as suas características insulares. de estabelecer mecanismos que permitam a intercomunicabilidade cultural, mio é menor noutras partes do território nacional. No espaço aberto que é Boje o mundo, é urgente, antes de dividir o bolo do orçamento da cultura por sectores, agentes, grupos de pressão, situações de facto ou prioridades políticas, entender expressamente o que, no nosso íntimo já entendemos todos.\n\nPortugal. com os seus oito séculos de História, está obrigado neste final de milénio, à tarefa de fazer a síntese da sua cultura tridimensional: a da nação portuguesa; a\nda nação europeia; e a da nação universal. Essa síntese passa pelo reforço dos valores culturais próprios, mas também, senão mesmo fundamentalmente, pelo rasgo de abertura ao inundo cultural exterior. cujos valores influenciámos e assimilámos, num espírito humanista e universal que hoje não podemos negar.\n\nPaís pequeno, mas pátria grande - a pátria é a minha língua , somos essa tribo de muitos milhões com unta raiz comum, e somos também filhos da casa europeia, herdeiros do seu património.\n\nSr. Presidente. Srs. Deputados: Neste espaço aberto, a nossa dispersão e diversidade, assentes numa origem comum, são um capital que não deve. item pode, continuar a ser desbaratado.\n\nA circulação dos bens culturais próprios é uma das forma, de garantir a unidade que importa preservar. A abertura das novas formas culturais vindas dos espaços exteriores a que permanecemos ligados é a garantia da universalidade que importa igualmente preservar, porque sem esta dimensão nau há cultura."
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 679,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, teia a palavra o Sr. Deputado Fernando Pereira Marques."
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 679,
+      "speaker": {
+        "id": 1468,
+        "name": "Fernando Alberto Pereira Marques",
+        "party": "PS",
+        "string": "O Sr. Fernando Pereira Marques (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Maria José Nogueira Pinto, gostei de ouvir o essencial das suas considerações. na medida em que do que disse pode estar implícita uma autocrítica em relação à sua passagem pelo Governo, porque. como V. Ex.ª sabe, e possivelmente até muito melhor do que cus pois teve uma experiência vivida e prudente. um dos grandes problemas da política cultural praticada pelo anterior ou anteriores Governos foi precisamente o de menosprezar essa dimensão daí política cultural em profundidade. que V. Ex.ª referiu como divulgação cultural, mas que também se poderá designar como acção cultural ou fomento cultural, em prol daquilo que várias vezes aqui designámos como uma política cultural de fachada, procurando o efeito fácil e imediato. Por isso, V. Ex.ª sabe que esta proposta de lei, vinda dos Açores. Reflecte desde logo uma realidade. a do total esvaziamento de funções e de sentido de uma instituição designada como Fundo de Fomento Cultural, onde os objectivos. como os que este fundo que se pretende criar terá, como o rim específico do intercâmbios entre as ilha, e entre as ilhas e o continente, deveriam ter sido contemplados tia lei se não se tivesse tomado naquilo que também frequentemente foi\ndesignado - era essa a realidade- como \"saco azul\", ou, simplesmente, um fundo não de fomento cultural Iras, sim, providencial, para resolver as manipulações de caracter\npolítico - financeiro praticadas pelos anteriores Governos."
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 679,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 679,
+      "speaker": {
+        "id": 1672,
+        "name": "Maria José Pinto Da Cunha Avilez Nogueira Pinto",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Espero sinceramente que o actual Governo resolva, de uma forma, não digo definitiva, mas séria, pensada e estruturada, esta questão do fundo de fomento cultural."
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 679,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 680,
+      "speaker": {
+        "id": 1672,
+        "name": "Maria José Pinto Da Cunha Avilez Nogueira Pinto",
+        "party": "CDS-PP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "V. Ex.ª também sabe que, agravando ainda os factos que referi, na sequência da reestruturação de 1992 e, depois, nas mini-reestruturações que se seguiram, foi desmantelada uma direcção-geral, a Direcção-Geral da Acção Cultural, onde precisamente também se deveriam contemplar alguns dos objectivos previstos na proposta de lei ora em apreciação.\n\nDito isto, devo dizer que estou de acordo com alguns dos muitos aspectos que V. Ex.ª referiu, nomeadamente o de que existe uma produção cultural pop. É que política cultural não pode privilegiar as elites citadinas, não se pode confinar à realidade dos grandes meios urbanos, e por isso mesmo há que pensar em encontrar os meios efectivos de fomentar o gosto pela cultura e a criação de novos públicos, apoiando - e para isso é preciso combater uma série de preconceitos de carácter elitista - manifestações de cultura, as mais diversas, genuínas, menos genuínas, mas aquilo que são as manifestações de cultura de carácter amadorístico ou outras para que, articuladamente, com uma educação artística actuante, possamos fazer convergir uma série de dinâmicas que nos permitam, inclusive, salvaguardar muitos dos valores que V. Ex.ª referiu assim como também se lhes referiu, noutros termos e de outra maneira, o Sr. Deputado Ruben de Carvalho."
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 680,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra a Sr.ª Deputada Maria José Nogueira Pinto."
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 680,
+      "speaker": {
+        "id": 1672,
+        "name": "Maria José Pinto Da Cunha Avilez Nogueira Pinto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Maria José Nogueira Pinto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Fernando Pereira Marques, obviamente que o que eu disse corresponde também a uma auto crítica. Como calcula, a menos que fosse tonta, não falaria da cultura tendo sido Subsecretária de Estado da Cultura sem me incluir no rol. Simplesmente, uma coisa deve ser dita em abono da verdade: tudo aquilo de que hoje aqui falei expus na altura. Portanto, numa época em que as pessoas evoluem muito rapidamente, como temos visto, não evoluí muito; o que penso hoje e o que aqui exprimi, mutatis mutandis, é aquilo que pensava na altura e que me parece continuar a ser correcto.\n\nQueria, entretanto, dizer-lhe o seguinte: falei em todos os governos praticamente sem excepção por considerar que o peso do investimento na produção cultural, em detrimento de outras áreas que são importantíssimas, é uma constante. E só se alterará esse estado de coisas através de medidas que também têm de ser correctivas e estruturais e que não têm sido tomadas ou porque os governos não duraram o tempo suficiente, ou porque as condições políticas não eram favoráveis, ou porque dá sempre muito trabalho tomar medidas estruturais, e nestas áreas, com alguma mediatização, muitas vezes os responsáveis furtam-se.\n\nQuero deixar bem claro que é minha convicção a necessidade de fazer uma correcção estrutural (que ainda não foi feita) que tome possível que a divisão do orçamento não priorize sistematicamente a produção, que, depois, porque outras áreas não foram priorizadas, acaba por não ter rentabilidade cultural nem social, uma vez que as iniciativas não são divulgadas, não são conhecidas nem ouvi-las, etc.\n\nQuero ainda dizer-lhe que o Fundo de Fomento Cultual, não obstante outras intenções que as suas palavras tivessem e que vou ignorar, já era, digamos, um reforço orçamental, quando não deve ser visto como tal. Mas quando digo isto não estou a atribuir as minhas palavras qualquer carácter pejorativo. Digamos que se trata de um saco azul - na minha opinião, os sacos azuis são sempre negativos pelo que deviam ser eliminados e as despesas contabilizadas devidamente - e, como o orçamento é insuficiente, o reforço orçamental mais simples é obtido a partir do Fundo de Fomento Cultural. Isso levou a que o Fundo também entrasse na produção, o que penso ser extraordinariamente errado. É o caso de acabar por financiar, imagine, um filme com o dinheiro do Fundo de Fomento Cultural que não se destina a tal. Portanto, neste caso, também o que vemos são as consequências do mesmo erro estrutural.\n\nEm relação à Direcção-Geral da Acção Cultural, cuja extinção é da minha total responsabilidade - foi uma proposta minha -, devo dizer-lhe que na orgânica que, na altura, substituiu a que estava em vigor e que, depois, foi rapidamente revogada, pelo que, do resto, já não posso falar, as respectivas funções eram respeitadas mas arrumadas de forma a essa orgânica configurar esta filosofia.\n\nGostaria de deixar claro que em todos os países há áreas em que o Estado tem de investir na produção, ou seja, não é circunstancial, é capaz de ser mesmo assim. Admito que um teatro de ópera ou uma sinfónica tenham de ser sustentados pelo Estado, mas em Portugal o Estado sustenta mais do que isso na área da produção cultural e aí será preciso fazer todo um trabalho do lado da oferta dos bens culturais, criando também apetência, políticas de preços, etc., para que progressivamente isso passe para o mercado das artes. Logo, a nova orgânica tinha a intenção de retratar esta filosofia. Eram estes os três aspectos que queria mencionar-lhe."
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 680,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, não há mais inscrições pelo que declaro encerrado o debate. As votações destas duas propostas de lei realizar-se-ão amanhã, à hora regimental, a não ser que venha a ser deliberado o contrário, uma vez que foi requerida a baixa de uma delas à comissão respectiva.\n\nA próxima reunião plenária terá lugar amanhã, às 15 horas, e terá período de antes da ordem do dia, sendo apreciado na ordem do dia o projecto de lei n.º 56/VII - Determina a adopção de medidas de recuperação de bens do património arquivístico nacional (PS).\nEstá encerrada a sessão."
+    }
+  ]
+}

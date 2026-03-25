@@ -1,0 +1,782 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "12",
+    "legislative_session": "4",
+    "number": "94",
+    "date": "2015-06-03"
+  },
+  "debate_id": "r3_12_4_94_2015-06-03",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, Srs. Jornalistas, está aberta a sessão. \nEram 15 horas e 10 minutos. \nPodem ser abertas as galerias. \nAntes de darmos início à ordem do dia, vou dar a palavra ao Sr. Secretário para ler o expediente."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Pedro Alves)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Presidente, começo por anunciar a retirada do projeto de resolução \nn.º 1246/XII — Recomenda ao Governo que promova a abertura do procedimento de classificação do atual \nMuseu Grão Vasco para «Museu Nacional Grão Vasco» (PS). os \nDeram entrada na Mesa, e foram admitidos, os projetos de resolução n. 1495/XII (4.ª) — Recomenda ao \nGoverno a revisão do modelo de aplicação dos limites de captura em diversas espécies (PCP), que baixa à 7.ª \nComissão; 1496/XII (4.ª) — Contra a descaraterização da praia de D. Ana, em Lagos (PCP), que baixa à 11.ª \nComissão; 1497/XII (4.ª) — Pela valorização do ensino profissional e garantia da igualdade de oportunidades a \ntodos os estudantes (PCP), que baixa à 8.ª Comissão; 1498/XII (4.ª) — Apoios financeiros a centros de cultura \ne desporto da Segurança Social (PCP), 1499/XII (4.ª) — Recomenda ao Governo que reforce a cooperação \ncom o Governo, a Assembleia Legislativa e os municípios do Estado de Goa, na União Indiana (PS), que baixa \nà 2.ª Comissão; 1500/XII (4.ª) — Recomenda ao Governo a discriminação positiva da sub-região do Vale do \nSousa e Tâmega (PS), que baixa à 11.ª Comissão; 1501/XII (4.ª) — Recomenda ao Governo a suspensão das \nreprivatizações da CP Carga, SA e EMEF, SA (PS); 1502/XII (4.ª) — Pela reabertura e requalificação da linha \ndo Tâmega (PCP); 1503/XII (4.ª) — Restitui o direito ao transporte aos trabalhadores ferroviários e suas \nfamílias (BE); 1504/XII (4.ª) — Requalificação e reabertura da linha do Tâmega (BE); que baixam à 6.ª \nComissão; 1505/XII (4.ª) — Recomenda ao Governo algumas medidas a acolher na alteração da lei que regula \nas Comissões de Proteção de Crianças e Jovens bem como na alteração dos normativos legais constantes do \nCódigo Civil relativos à adoção e à criação de um regime jurídico do processo de adoção (PS) e 1506/XII (4.ª) \n— Combater o desperdício alimentar para promover uma gestão eficiente dos alimentos (Os Verdes). os\nDeram também entrada na Mesa, e foram admitidos, os projetos de lei n. 967/XII (4.ª) — Regulação dos \nhorários de funcionamento das unidades de comércio e distribuição (PCP), que baixa à 6.ª Comissão; 968/XII \n(4.ª) — Estabelece um regime especial de acesso à pensão de invalidez e de velhice para os trabalhadores \ndas pedreiras (PCP), que baixa à 10.ª Comissão; 969/XII (4.ª) — Alteração da designação da freguesia da \nUnião das Freguesias de Campo (São Martinho), São Salvador do Campo e Negrelos (São Mamede), no \nmunicípio de Santo Tirso, para freguesia de Vila Nova do Campo (PS); 970/XII (4.ª) — Criação da freguesia de \nSanto Agostinho, no concelho de Moura, distrito de Beja (PCP), que baixam à 11.ª Comissão; 971/XII (4.ª) — \nCombate a precariedade, impedindo o recurso a medidas indevidamente consideradas como promotoras de \nemprego, como CEI, CEI+ e estágios-emprego, para responder a necessidades permanentes dos serviços \npúblicos e empresas (PCP); 972/XII (4.ª) — Combate a precariedade laboral e reforça a proteção dos \ntrabalhadores (PCP), 973/XII (4.ª) — Repõe o princípio do tratamento mais favorável e regula a sucessão de \nconvenções coletivas de trabalho, procedendo à nona alteração ao Código do Trabalho, aprovado pela Lei n.º \n7/2009, de 12 de fevereiro (PCP), que baixam à 10.ª Comissão; 974/XII (4.ª) — Aprova o regime de \nregularização de cidadãos estrangeiros indocumentados (PCP), que baixa à 1.ª Comissão, ouvindo as regiões \nautónomas; e 975/XII (4.ª) — Altera os artigos 1905.º do Código Civil e 989.º do Código de Processo Civil \n(PS). \nÉ tudo, Sr.ª Presidente."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos dar início à nossa ordem do dia de hoje, que consiste no \ndebate do projeto de resolução n.º 1506/XII (4.ª) — Combater o desperdício alimentar para promover uma \ngestão eficiente dos alimentos (Os Verdes). \nInformo os Srs. Deputados que a Sr.ª Deputada Heloísa Apolónia já requereu a votação deste diploma no \nfinal da sua discussão. \nTem a palavra, Sr.ª Deputada Heloísa Apolónia, para uma intervenção."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 3,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr. e Srs. Deputados, Os Verdes trazem hoje a \nPlenário da Assembleia da República, como seu agendamento potestativo, uma matéria de grande relevância \npara a sustentabilidade: o combate ao desperdício alimentar. \nQuando falamos de desperdício alimentar falamos de alimentos destinados ao consumo humano que \nacabaram por ser inutilizados em quantidade ou em qualidade. A questão é que esses alimentos, que foram \ninutilizados, foram efetivamente produzidos e com impactos muito significativos ao nível da utilização de \nrecursos naturais, designadamente recursos marinhos, solos, água e energia. \nEsses alimentos, que são inutilizados, arrastam, portanto, consigo o desperdício de relevantes recursos \nnaturais. Isto para já não falar dos resíduos e das emissões de gases com efeito de estufa que deles \nresultaram. Ora, o que Os Verdes afirmam é que não estamos em condições de esbanjar assim recursos \nnaturais, pelo que se torna um imperativo ambiental combater o desperdício alimentar. \nÉ justamente esse o propósito do projeto de resolução que Os Verdes apresentam hoje à Assembleia da \nRepública. Primeiro, é preciso conhecer e ter consciência da dimensão do problema, bem como das suas \ncausas, para que, depois, se possa atuar em conformidade e com eficácia. \nEm Portugal, só existe um estudo realizado especificamente sobre a matéria do desperdício alimentar. Foi \nelaborado no âmbito do projeto PERDA (Projeto de Estudo e Reflexão sobre o Desperdício Alimentar) e consta \nda publicação Do campo ao garfo. Esse estudo conclui que são desperdiçados, anualmente, em Portugal, \nmais de 1 milhão de toneladas de alimentos e deixa também claro que as perdas alimentares se registam em \ntodas as fases da cadeia de aprovisionamento: da produção, à transformação, ao embalamento, ao transporte, \nà distribuição ou ao ato de consumo. Verifica-se, entretanto, que as fases de produção e de consumo são \naquelas onde se regista maior perda alimentar. \nMas há um registo relevante nesse estudo que merece ser tido em conta. É que o próprio reconhece a \nnecessidade de se aprofundar conhecimento sobre a questão, reclamando, por isso, desenvolvimento de \nnovos estudos que permitam conhecer melhor a dimensão do problema. \nEntretanto, foi criado um guia, chamado Desperdício alimentar — Um compromisso de todos!, assinado \nentre o Governo e vários intervenientes do setor alimentar, que contém princípios importantes e interessantes, \nmas que não estão, na sua grande maioria, postos em prática. \nQuando falamos de perdas alimentares, não podemos praticar uma política para a sua redução apenas \ncom base em princípios que constam no papel e com atribuição de selos e prémios."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 3,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Verdade!"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 3,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que Os Verdes propõem com esta iniciativa legislativa que \ntrazem hoje à Assembleia da República é levar o Parlamento a dar um impulso no combate ao desperdício \nalimentar em Portugal e a não ficar de fora deste desígnio nacional. as\nAssim, Sr. e Srs. Deputados, propomos que, hoje, a Assembleia da República delibere declarar o ano de \n2016 como o ano nacional do combate ao desperdício alimentar. Esta deliberação permitirá que, no próximo \nano, se destaquem, se intensifiquem, se generalizem um conjunto de ações relativas a uma melhor gestão dos \nalimentos no nosso País. \nNesse sentido, Os Verdes adicionam já um conjunto de 15 propostas que não visam, nem de perto, nem de \nlonge, esgotar tudo o que é possível fazer, mas que realçam pontos muito importantes de ação. \nRecomendamos ao Governo que, no próximo ano, se envolva também num conjunto de iniciativas no \nâmbito do ano nacional do combate ao desperdício alimentar, declarado pela Assembleia da República. \nPropomos que se promovam e se criem condições de investigação e de conhecimento rigoroso, mais \ndetalhado e continuadamente atualizado sobre a realidade do desperdício alimentar, designadamente das \nsuas causas. \nPropomos a criação de um programa nacional de ação que fixe não apenas princípios mas também \nobjetivos e metas anuais e plurianuais para reduzir o desperdício alimentar. Este programa deve, na \nperspetiva de Os Verdes, ser construído num processo de participação ativa e colaborativa da sociedade. \nPropomos a compatibilização dos objetivos de redução do desperdício alimentar com a plena satisfação \ndas necessidades da população, com particular urgência para crianças e jovens, tendo em conta, \nnomeadamente, o relatório do INE sobre pobreza, desigualdades e privação material em Portugal. A verdade é"
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Fica, assim, apresentado o projeto de resolução n.º 1506/XII (4.ª), da iniciativa de Os \nVerdes. \nSeguem-se pedidos de esclarecimento, para os quais estão já inscritos os Srs. Deputados Miguel Freitas, \ndo PS, Luís Pedro Pimentel, do PSD, Rita Rato, do PCP, Manuel Isaac, do CDS-PP, e Bruno Coimbra, do \nPSD. \n\nA Sr.ª Deputada Heloísa Apolónia irá responder, primeiro, a um conjunto de três perguntas e depois às \nrestantes duas. \nPara pedir esclarecimentos, dou, assim, a palavra ao Sr. Deputado Miguel Freitas, do PS. \nas"
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 5,
+      "speaker": {
+        "id": 2252,
+        "name": "Miguel João Pisoeiro De Freitas",
+        "party": "PS",
+        "string": "O Sr. Miguel Freitas (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr. e Srs. Deputados, Sr.ª Deputada Heloísa Apolónia, \ngostava de começar por saudar esta iniciativa do Partido Ecologista «Os Verdes» neste Parlamento, um \nParlamento que esteve praticamente ausente do debate das questões do desperdício alimentar durante quatro \nanos. \nÉ verdade que os serviços deste Parlamento organizaram, em 2012, jornadas de saúde, em que a questão \nda alimentação e do desperdício alimentar foi tema. \nÉ verdade que, também em 2012, a cantina e os restaurantes deste Parlamento aderiram ao movimento \nZero Desperdício e — espante-se! — há uma citação, nos milhares de intervenções que foram feitas nesta \nAssembleia, durante estes quatro anos, feita pelo Sr. Deputado Artur Rêgo, em 2012, sobre desperdício \nalimentar. Esse foi o contributo dado por este Parlamento, até agora, sobre este debate. Portanto, esta é uma \niniciativa que nós queríamos começar por saudar. \nMas, naturalmente, o conjunto de propostas que nos trazem levantam-nos, em alguns casos, dúvidas que \ngostávamos de ver clarificadas por parte da Sr.ª Deputada Heloísa Apolónia. \nEm primeiro lugar, propõe que o ano de 2016 seja o ano nacional contra o desperdício alimentar. Bom, é \nverdade que o ano passado foi o Ano Europeu contra o Desperdício Alimentar e, portanto, gostava de \nperceber o que justifica que, no próximo ano, de 2016, tenhamos o ano nacional do combate ao desperdício \nalimentar. Gostava que a Sr.ª Deputada nos pudesse ajudar a perceber essa vossa proposta. \nPor outro lado, Os Verdes propõem que se devem fazer levantamentos rigorosos relativamente a esta \nmatéria, é uma das vossas propostas. Sr.ª Deputada Heloísa Apolónia, creio que daquilo de que nós \nprecisamos verdadeiramente agora é de fazer estudos aprofundados e investigação, quer ao nível da \nprodução, quer ao nível da indústria, quer ao nível do comércio, quer mesmo ao nível do consumo. Há estudos \nque estão a ser feitos a nível europeu, a serem desenvolvidos, nomeadamente em França e em Espanha, e \nparece-nos pouco esta ideia de se fazerem levantamentos rigorosos. Há um levantamento feito em Portugal, o \nestudo feito pelo PERDA, que é uma referência que temos, mas creio que precisamos de muito mais do que \nde levantamentos rigorosos. \nSr.ª Deputada, deixo uma última questão. Propõe que esta matéria seja integrada no âmbito da educação \nambiental nos currículos. Sr.ª Deputada, a nossa visão é que esta é uma questão tão horizontal e tão \ntransversal que, de facto, o que é preciso é uma formação sólida, do ponto de vista do que é a banda larga de \nformação e de educação, dos nossos jovens para perceberem este fenómeno. Portanto, também aí temos \ndúvidas e gostávamos de ter uma clarificação por parte da Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "A próxima pergunta cabe ao Sr. Deputado Luís Pedro Pimental, do PSD. \nTem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 6,
+      "speaker": {
+        "id": 1514,
+        "name": "Luís Pedro Machado Sampaio De Sousa Pimentel",
+        "party": "PSD",
+        "string": "O Sr. Luís Pedro Pimentel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr. e Srs. Deputados, queria agradecer também ao \nPartido Ecologista «Os Verdes» e à Sr.ª Deputada Heloísa Apolónia por trazerem a esta Câmara este \nimportante tema, já que, de facto, combater o desperdício alimentar é uma prioridade também para nós, PSD, \ne para este Governo. \nO tema do debate desta tarde tem, sem dúvida, associado um dos maiores desafios da atualidade: reduzir \no desperdício alimentar no mundo enquanto questão moral e ética, ao mesmo tempo que responde ao \nparadigma de existirem regiões do globo com carências alimentares e outras, onde o desperdício alimentar, ao \nlongo da cadeia, ultrapassa os 30%. \nO PSD está, naturalmente, preocupado e atento a esta questão, como já aqui o afirmou, e vê com agrado \nas iniciativas pioneiras do atual Governo em incentivar programas de combate e redução do desperdício \nalimentar. Não é demais reforçar que foi este Governo e esta maioria que iniciaram as ações e as \nponderações sobre esta problemática. \nCongratulamo-nos, pois, pelas várias decisões governativas que combatem, de forma direta e indireta, esta \nquestão. \nEm primeiro lugar, congratulamo-nos, de modo direto, com a criação, sempre em conjunto com a \nsociedade civil, de um programa que distinga a implementação de políticas e modelos de boa gestão no \ncombate ao desperdício alimentar, como a iniciativa Prato 20% Off — Iniciativa contra o desperdício de \nalimentos. \nEm segundo lugar, congratulamo-nos com as tomadas de decisão que visaram alterar e melhorar o \nfuncionamento da cadeia alimentar, nomeadamente as questões relacionadas com o funcionamento do \nmercado. Na verdade, entendemos que o aumento da transparência e distribuição do valor ao longo da fileira \ncontribui positivamente para o bom funcionamento do mercado e, consequentemente, para o menor \ndesperdício. A criação da PARCA (Plataforma de Acompanhamento das Relações na Cadeia Agroalimentar) \nfoi um exemplo de uma medida que visa concretamente uma maior equidade na relação comercial entre os \nprodutores e os distribuidores. \nEm terceiro lugar, congratulamo-nos com a introdução generalizada da distribuição de alimentos com \ncalibres diferentes dos tradicionais. No caso da fruta, onde houve iniciativas europeias e nacionais, privadas e \npúblicas, que promoveram o consumo de peças de fruta de calibre reduzido, cuja valorização comercial era \nquase nula. Atualmente, estão mais generalizados estes tipos de produtos, o que não acontecia há alguns \nanos atrás. \nSão estes três exemplos de ações que combatem o desperdício alimentar. Há, naturalmente, outros \nmodelos e ainda muito trabalho para continuar. Contudo, a eficácia desse trabalho resulta do maior \nenvolvimento possível de vários intervenientes. as\nSr. e Srs. Deputados, sendo este, também, um problema generalizado ao continente europeu, a França \ntomou recentemente uma iniciativa que proíbe os supermercados franceses de deitar fora alimentos com o \nrespetivo prazo de validade expirado, sendo obrigatório doá-los a organizações dedicadas à alimentação \nanimal ou ao fabrico de fertilizantes agrícolas. \nPor isso, Sr.ª Deputada Heloísa Apolónia, queria saber qual a sua opinião sobre esta matéria e esta medida \naplicada em França. O PSD vê este exemplo como positivo e entende que este e outros modelos devem ser \nanalisados a fim de se avaliar a sua eficácia e eventual importação para o caso português. \nNa verdade, o combate a este flagelo será mais eficaz e abrangente se concertado, a nível europeu, na \ndefinição de estratégias partilhadas de combate ao desperdício ao longo de toda a cadeia alimentar. É isso \nque esperamos do Governo e é isso que o Governo tem demonstrado fazer."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Dou, agora, a palavra à Sr.ª Deputada Rita Rato, do PCP também para uma \npergunta."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 6,
+      "speaker": {
+        "id": 2144,
+        "name": "Rita Rato Araújo Fonseca",
+        "party": "PCP",
+        "string": "A Sr.ª Rita Rato (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Srs. Deputados, Sr.ª Deputada Heloísa Apolónia, queria \ncomeçar, em nome do Grupo Parlamentar do Partido Comunista Português, por saudar o Partido Ecologista \n«Os Verdes» por ter trazido ao debate, hoje, em Plenário, a matéria do combate ao desperdício alimentar."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem agora a palavra a Sr.ª Deputada Heloísa Apolónia para responder."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 7,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, agradeço aos Srs. Deputados as questões que \nlevantaram. \nComeçando por responder às questões colocadas pelo Sr. Deputado Miguel Freitas, quando Os Verdes \npropõem que se declare o ano de 2016 como um ano de combate ao desperdício alimentar não é para pôr o \nPaís todo enfeitado com cartazes e atribuir medalhas a toda a gente que participa na cadeia de \naprovisionamento, por exemplo, e pormo-nos todos aqui a felicitarmo-nos uns aos outros. \nQuando propomos que seja criado o Ano Nacional do Combate ao Desperdício Alimentar significa atribuir-\nse uma responsabilidade também às instituições e a todos os intervenientes no processo para atuarem sobre \no problema, ou seja, no fundo, trata-se de despertar consciências, concentrando num determinado tempo, \nneste caso um ano, para que fossem chamadas a tomar ações, iniciativas, para pensar, refletir, debater a \nmatéria do desperdício alimentar e, designadamente, do seu combate."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para formular a próxima pergunta, tem a palavra o Sr. Deputado Manuel Isaac."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 8,
+      "speaker": {
+        "id": 2084,
+        "name": "Manuel Fialho Isaac",
+        "party": "CDS-PP",
+        "string": "O Sr. Manuel Isaac (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr.ª Deputada Heloísa Apolónia, é sempre positivo que \nse discuta esta problemática do desperdício alimentar. Aliás, é um assunto que nunca deve deixar de estar na \nordem do dia. \nComo diz o projeto de resolução de Os Verdes, o desperdício alimentar no nosso País é de cerca de 1 \nmilhão de toneladas anuais, ou seja, cada português desperdiça, em média, por ano, 97 kg de alimentos. \nMesmo sendo um valor abaixo da média da União Europeia, não deixa de nos preocupar. \nO que é um facto e uma grande verdade é que este combate tem de ser feito desde a produção ao \nconsumidor final. E isto implica muitas coisas pelo meio. \nDou-lhe o exemplo do que fiz para o Banco Alimentar, na recolha de produtos na terra. Quando o produtor \nplanta não sabe o preço na hora da colheita e quando o preço é baixo não vai colher, porque não chega, \nsequer, para fazer a colheita."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 8,
+      "speaker": {
+        "id": 2178,
+        "name": "Artur José Gomes Rêgo",
+        "party": "CDS-PP",
+        "string": "O Sr. Artur Rêgo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 9,
+      "speaker": {
+        "id": 2084,
+        "name": "Manuel Fialho Isaac",
+        "party": "CDS-PP",
+        "string": "O Sr. Manuel Isaac (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que é que acontece? Passa com a frese por cima, enterra na terra, \nserve de fertilizante, é verdade. Mas ele pede ajuda, tem ali um campo para quem quiser colher. E sabe, Sr.ª \nDeputada, quem foi colher esse repolho? Eu e os presos da cadeia das Caldas da Rainha, porque não houve \num voluntário para o colher. \nHouve um ano em que a pera rocha estava barata e houve um produtor que disse: «Tenho o meu pomar \ncheio de peras, o dinheiro não dá para colher sequer as peras, preciso de voluntários para o fazer e dou a \npera a quem a quiser». Mais uma vez, falei com o diretor da cadeia das Caldas da Rainha e fui com os presos \ncolher a pera — 7 t de pera! \nSr.ª Deputada, isto não é tão fácil como se diz. O problema está no voluntariado para o fazer, pois os \npróprios que vão consumir esta colheita nunca estão disponíveis para a fazer. Isto também é um problema de \ncultura. Aliás, nas últimas décadas, a questão do desperdício é um problema de cultura. Antigamente, não se \ndesperdiçava nada, tudo se aproveitava; aquilo que o humano não consumia, os animais consumiam. Aliás, o \nanimal era a melhor máquina de reciclagem que existia e que ainda hoje existe. Lembro-me perfeitamente de, \nem casa dos meus pais, quando se descascava a batata, a casca ir para o porquinho. Hoje isso não acontece. \nHoje para onde vai? Ou vai para a terra e serve de fertilizante ou então é mais um problema ambiental. \nHá, pois, muito a fazer nesse sentido, e o Governo tem-no feito, como acontece com os mercados de \nproximidade, que esgotam a chamada «fruta feia». Também essa fruta, hoje em dia, como sabe, já é \nconsumida nas escolas. Esse projeto foi feito e existe. \nMas, hoje em dia, Sr.ª Deputada — e esse, para mim, é que é o grande problema —, quanto mais se \nproduz, mais se desperdiça. Quando havia falta não havia desperdício. \nEntendo perfeitamente a questão, mas temos de ter sempre em conta que quando isso acontece na cadeia \nalimentar, para quem produz o valor ainda desce mais. Por isso, temos de ter em conta que quem produz não \npode pagar a fatura para alimentar os outros. Ou seja, aqui a problemática é maior. \nSr.ª Deputada, queria só perguntar-lhe se acha que o Governo, nesta matéria, tem ou não feito um \ncombate ao desperdício alimentar e se tem sido sensível a este problema, tendo já dado passos fundamentais \npara o mitigar."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para colocar a próxima pergunta, tem a palavra o Sr. Deputado Bruno Coimbra. \nas"
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 9,
+      "speaker": {
+        "id": 1960,
+        "name": "Bruno Manuel Pereira Coimbra",
+        "party": "PSD",
+        "string": "O Sr. Bruno Coimbra (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr. e Srs. Deputados, começo por saudar o Partido \nEcologista «Os Verdes» pela escolha do tema que trouxe hoje a debate. \nO desperdício alimentar tem impacto sobre diferentes áreas, de facto, mas tem um impacto muito concreto \nsobre o ambiente, e é sobre esta perspetiva que gostaria de questionar a Sr.ª Deputada Heloísa Apolónia. \nJá em 2013, a Organização das Nações Unidas para a Alimentação e Agricultura elaborou um estudo \nsobre o desperdício alimentar e as suas consequências e referiu que o impacto ao nível do clima, da água, da \nterra e da biodiversidade é tremendo. Estamos a falar de uma emissão de 3,3 mil milhões de toneladas de \ngases com efeito de estufa na atmosfera do planeta, com custos económicos daí resultantes a rondar os 750 \n000 milhões de dólares por ano. \n\nA Sr.ª Deputada sabe que um projeto desta índole só pode ter acolhimento por parte desta maioria, \nnomeadamente no ponto 6, com a sugestão da divulgação do cálculo da quantidade de recursos poupados por \nrelação com os níveis de redução de perdas alimentares. \nSó pode ter acolhimento por parte desta maioria, eu diria, ou não fosse este também o Governo do \ncombate ao desperdício. Sim, este acaba por ser o Governo do combate ao desperdício, do combate à má \ngestão, do combate a todos os tipos de desperdício nas mais diferentes áreas. Aliás, hoje falamos de \ndesperdício alimentar, mas se falássemos de outras áreas saberíamos que, para evitar o desperdício, se \npromoveu e priorizou o uso eficiente de recursos nos planos estratégicos e nas políticas do Governo. \nFoi para evitar o desperdício que se reduziram os custos nos ministérios e nas instituições públicas. \nFoi para evitar o desperdício que se fundiram institutos e se acabou com os governos civis. \nFoi para evitar o desperdício que se renegociaram as PPP."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra a Sr.ª Deputada Heloísa Apolónia."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 10,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, quero agradecer aos Srs. Deputados as \nperguntas que me colocaram. \nNo fundo, ambos os Srs. Deputados acabam por fazer a mesma pergunta, ou seja, perguntam se o \nGoverno não tem já feito maravilhas relativamente a esta matéria. Ora, julgo que, na minha intervenção inicial, \njá dei a minha opinião muito sincera: acho que não. \nÉ de realçar que o guia que foi criado entre o Governo e os intervenientes na cadeia alimentar de \naprovisionamento é extraordinariamente importante, mas desse guia constam princípios. E o que referi na \nminha intervenção foi que, na generalidade, a grande maioria dos princípios não está em prática. Ora, aquilo \nque propomos, por via deste projeto de resolução, para além de coisas que não constam desse guia, é dar um \nimpulso à prática – é isso que nós queremos. Queremos não que conste apenas de um papel, mas que se as\nimpulsione a prática. E nisso, de facto, consideramos que não se tem andado depressa, Sr. e Srs. \nDeputados. Com a maior sinceridade, para além da atribuição de selos e de prémios, que não acho que seja a \nmatéria fundamental para o combate ao desperdício alimentar, o Governo não tem andado bem relativamente \na essa matéria. \nÉ interessante que o Sr. Deputado Bruno Coimbra tenha feito um paralelismo entre a importância do \ncombate ao desperdício alimentar e o encerramento de serviços públicos."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 10,
+      "speaker": {
+        "id": 2056,
+        "name": "Jorge Paulo Da Silva Oliveira",
+        "party": "PSD",
+        "string": "O Sr. Jorge Paulo Oliveira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E fez muito bem!"
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 10,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Desculpe, Sr. Deputado, mas acho isso inacreditável! Deixe-me \ntentar dizer-lhe uma coisa para que todos nos consciencializemos da questão. Combater o desperdício \nalimentar não é tirar comida às pessoas, e isso foi o que os senhores fizeram com os serviços públicos: \nencerraram serviços públicos de proximidade, dificultando o acesso das populações a esses serviços. \nPortanto, vamos eliminar essa comparação, que não faz qualquer sentido nesta discussão, Sr. Deputado. \nJá agora, quero dizer-lhe que a FAO reconhece que — veja bem, Sr. Deputado! — se se aproveitasse um \nterço de tudo o que é desperdiçado ao nível alimentar no mundo isso daria para alimentar toda a população do \nmundo. Bastaria «atacar» um terço desse desperdício alimentar. Isto faz-nos perceber a dimensão do \nproblema e a dimensão das injustiças que temos de atacar."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Jorge Fão. \nas"
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 11,
+      "speaker": {
+        "id": 2223,
+        "name": "Jorge Manuel Capela Gonçalves Fão",
+        "party": "PS",
+        "string": "O Sr. Jorge Fão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr. e Srs. Deputados: Combater o desperdício alimentar e \nprocurar uma gestão mais eficiente dos alimentos é realmente, como está aqui hoje mais do que provado, um \ndebate importante. Achamos, mais, que é um debate indispensável e até obrigatório, e um debate do qual \ndevem ser extraídas consequências. Desde logo, deve haver uma maior consciencialização dos produtores, \ndos intermediários, dos comerciantes e dos consumidores para este problema e, depois, deve haver também \numa maior responsabilização dos decisores políticos que intervêm diretamente na gestão desta matéria. \nÉ importante que nos centremos no conceito de desperdício alimentar. O conceito generalizadamente \naceite é o de que todos os alimentos que não cumpram o propósito para o qual são produzidos ou capturados \nsão considerados desperdício alimentar. \nO quadro macro, a nível mundial, caracteriza e demonstra a dimensão grave deste problema. Desde logo \nporque as previsões e as projeções apontam para que, em 2050, daqui a 35 anos, com o aumento previsível \nda população para cerca de 9000 milhões de habitantes, seja necessário produzir mais 70% de produtos \nalimentares do que aquilo que produzimos na atualidade. Isto, só por si, dá a dimensão do que nos espera, \nnum horizonte de 35 anos, no sentido de termos de intervir nesta matéria. Ou seja, vai ser necessário produzir \nmais, continuar a produzir mais. \nMas nós temos a noção de que os solos estão saturados, há recursos que são finitos, as pragas são cada \nvez mais resistentes e mais duras e há ainda grandes reservas à utilização de organismos geneticamente \nmodificados (OGM). Portanto, perante estas e outras dificuldades, será seguramente imperioso combater e \nreduzir o desperdício alimentar. \nPenso que devemos estar todos conscientes — e este debate ajuda-nos a isso, a mim, particularmente, \najuda-me — da necessidade de intervir com imperiosa urgência nesta matéria. É preciso, desde logo, termos \ntodos, coletivamente, a consciência da dimensão e da gravidade do problema, ponto de partida fundamental \npara encararmos a questão com a seriedade que ela exige. \nÉ necessário monitorizar e avaliar constantemente aquilo que são os custos económicos, ambientais e \nsociais do desperdício alimentar. \nÉ imperioso corrigir e melhorar a atitude, o comportamento e os desempenhos ao longo de toda a cadeia \nalimentar. Desde logo, na produção, no processamento dos alimentos, na transformação e conservação, na \ndistribuição e também no consumo."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 12,
+      "speaker": {
+        "id": 2223,
+        "name": "Jorge Manuel Capela Gonçalves Fão",
+        "party": "PS",
+        "string": "O Sr. Jorge Fão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O projeto de resolução aqui apresentado pelo Partido Ecologista «Os Verdes» \ncentra essencialmente as suas preocupações, embora sendo abrangente, e concentra o discurso na vertente \ndo setor agrícola, sobretudo na cadeia do agroalimentar. \nPela nossa parte, entendemos que também deveria ser dada uma ênfase especial ao setor da pesca, aos \nrecursos da aquacultura, uma vez que os mesmos são, neste momento, não só a nível mundial mas também a \nnível nacional, uma das peças fundamentais da dieta e da estrutura da alimentação dos portugueses. De facto, \nsomos os primeiros consumidores de pescado da Europa, somos os terceiros consumidores de pescado do \nmundo, consumimos 57 kg/per capita/ano de pescado e, neste setor, também há um desperdício significativo. \nMas aqui é talvez ainda mais grave, porque aqui os recursos são claramente finitos. Estão perfeitamente \nidentificados os problemas que resultam da sobrepesca, sendo os alertas em relação a muitas espécies são \nevidentes para todos nós. E, em muitos casos, há ainda a impossibilidade de reposição de stocks. \nPor isso, nesta área dos produtos da pesca e da aquacultura e do meio aquático em geral, é necessário ter \numa atenção especial. Claramente, não vamos poder pescar mais, claramente vamos ter de pescar menos, \nmas, sobretudo, temos de pescar melhor, de forma mais inteligente e seletiva, peixes, moluscos, crustáceos, \nenfim, toda a variedade daquilo que consumimos nesta área. \nNo norte da Europa, 20% a 60% das capturas, logo na fase da captura, sobretudo da pesca de \nprofundidade e da pesca do arrasto, são devolvidas, são rejeitadas. \nEm Portugal, 15% das capturas — são dados da FAO, de um estudo feito no âmbito do projeto PERDA, um \nestudo credível apoiado pela Fundação Calouste Gulbenkian —, isto é, 30 000 t de pescado, por ano, daquilo \nque designamos como «o melhor peixe do mundo», são devolvidas (devolvidas, ou seja, não utilizadas), a \nsaber: carapau, verdinho, sarda, cavala, pescada, faneca, etc. E porquê? Por várias razões: ou porque \nultrapassamos as quotas, ou porque não têm a dimensão mínima aceitável, ou porque a deterioração a bordo \né muito grande, ou porque não há condições de bom tratamento do pescado nas nossas embarcações. \nEm 2014, a frota portuguesa descarregou o mais baixo volume de pescado dos últimos 45 anos: 120 000 t, \nisto é, menos 17,5% do que em 2013. E a aquacultura, apesar de todo este discurso, não saiu, nos últimos \nquatro anos, das 10 000 t/ano. \nA balança comercial do setor agravou-se, significativamente, em mais de 40 milhões de euros de prejuízo, \nnum total de 660 milhões de euros/ano de balança comercial deficitária. Se não combatermos o desperdício e \nas devoluções, no setor da pesca, uma parte significativa dos portugueses não terá acesso, a curto prazo, ao \nconsumo de pescado. \nVou terminar, chamando a atenção para o facto de a nova política comum das pescas, aprovada em 1 de \njaneiro de 2014, estabelecer, entre outros grandes objetivos, o combate ao desperdício. Desde logo, a redução \ndas capturas indesejáveis, a eliminação das devoluções, cuja regulamentação já se iniciou no início de 2015, e \nainda a obrigatoriedade do desembarque de todas as capturas. \nPortanto, a pesca tem de ser mais inteligente e nós temos de reduzir a captura ao rendimento máximo \nsustentável. É por isso indispensável, no setor da pesca, reduzir também o desperdício. \nPara isso, é necessário mais conhecimento e investigação e, sobretudo, tecnologia seletiva nas capturas; \nplaneamento plurianual das pescarias; técnicas de manuseamento a bordo mais sofisticadas; condições de \nconservação e congelação melhoradas; circuitos de processamento melhorados; rede de frio e conservação; \ne, sobretudo, promoção do consumo de espécies de menor valor."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Luís Fazenda. \nas"
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 13,
+      "speaker": {
+        "id": 1320,
+        "name": "Luís Emídio Lopes Mateus Fazenda",
+        "party": "BE",
+        "string": "O Sr. Luís Fazenda (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr. e Srs. Deputados: O combate ao desperdício de \nrecursos, em geral, é um fortíssimo argumento contra o facto de que o mercado, por si só, não resolve \nespontaneamente os seus desequilíbrios. Por isso, deve prevalecer o poder público sobre o mercado. \nÉ assim em relação ao combate à desigualdade dos rendimentos, é assim em relação ao combate que tem \nde ser feito relativamente aos objetivos sociais, à exacerbada competição, mas também em relação ao \ncombate ao desperdício de recursos. \nPortanto, o mercado não é meramente regulado; ele deve estar subordinado a um poder que regula, mas \nestrategicamente delineia o seu futuro. Por isso, o Bloco de Esquerda é adepto de um Estado estratego, e o \ncombate ao desperdício é obviamente uma componente essencial desse combate político, dessa visão e \nconceção do Estado e da sua relação com a sociedade. \nFocando agora o desperdício alimentar, direi que esta iniciativa do Partido Ecologista «Os Verdes» é bem-\nvinda. Ela não se centra nas questões da desigualdade de acesso, quer etária quer social, em relação aos \nalimentos, não se centra até noutros aspetos que poderíamos hoje aqui debater, mas centra-se numa questão \nprévia, a montante, acerca do equilíbrio de recursos, no caso, dos recursos alimentares. \nE nós acompanhamos esta iniciativa exatamente porque está descrito, está estudado que há um elevado \ngrau de perda destes recursos, o que, aliás, se vem somar a outros recursos elementares que são perdidos \ncomo a água e outros, mas que hoje não estamos a tratar. \nEntendemos que deve haver um combate a este efeito, que é difícil porque o problema da existência de \ndesperdício alimentar é correlativo com o facto de haver programação por parte da grande distribuição e da \ngrande produção. É que a produção e a distribuição em escala promovem desperdício porque eliminam a \nconcorrência. Portanto, o desperdício é apenas uma fatura marginal do mecanismo de eliminação da \nconcorrência, que já fizeram anteriormente. Esta é a lógica do funcionamento do mercado capitalista atual. \nSobre isto — e já hoje ouvimos alguns ecos —, a direita entende que há um problema de responsabilidade \nsocial das empresas e que deve haver uma corresponsabilização na cadeia alimentar. Isso está a fazer-se \ncomo? As grandes superfícies, mais ou menos no limite do prazo de validade de um conjunto de produtos \nalimentares, transferem-nos para instituições particulares de solidariedade social, para escolas públicas, etc., \ntentando obviar a existência de desperdícios. Não contestamos, mas isto dá bem a noção de que o combate \nao desperdício, longe de ser um programa económico, é um programa assistencialista. Na verdade, não \nacompanhamos a conceção nem a ideia de sociedade que está inerente a esse programa. \nNestas circunstâncias, relevamos bastante, no projeto de resolução apresentado pelo Partido Ecologista \n«Os Verdes», a questão da educação ambiental, que é marcante, porque ela insere em si mesma uma ideia \nde cidadania, de partilha, de responsabilidade coletiva, de responsabilidade social acerca da utilização de \nrecursos finitos, como é o caso dos alimentos, quer eles sejam pouco ou bastante elaborados. \nPortanto, acompanhamos essa ideia, até porque não há políticas públicas que venham a dominar qualquer \nfase deste processo na cadeia alimentar se não houver uma consciência cultural bastante forte. \nAs políticas públicas têm de ter aquisições culturais fortes na população para que elas não sejam, pura e \nsimplesmente, um epifenómeno, um fogacho de momento, sem conduzirem a nada de objetivo."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente (Teresa Caeiro)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Bruno Inácio. \nas"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 14,
+      "speaker": {
+        "id": 2180,
+        "name": "Bruno Miguel Martins Inácio",
+        "party": "PSD",
+        "string": "O Sr. Bruno Inácio (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr. e Srs. Deputados: Gostaria de saudar, em primeiro \nlugar, o Partido Ecologista «Os Verdes» pelo projeto de resolução que nos traz hoje. \nTrata-se de um tema fundamental nos dias de hoje e a nossa capacidade de encontrar soluções para este \nproblema é fundamental para concretizarmos em conjunto uma marca distintiva da nossa capacidade de \norganização, enquanto sociedade solidária. \nDirijo, em primeiro lugar, uma primeira palavra, que ainda não foi dita neste debate e que me parece \nextremamente importante e justa, a todas as IPSS (instituições particulares de solidariedade social), ONG \n(organizações não-governamentais) e múltiplas organizações que, neste País, do Algarve até ao Minho, \npassando pelas regiões autónomas, trabalham de uma forma voluntária e altruísta para combater o \ndesperdício alimentar. Essas pessoas devem ser enaltecidas por todos nós hoje, nesta Câmara. \nEste projeto de resolução que o Partido Ecologista «Os Verdes» traz hoje vai ao encontro daquelas que \ntêm sido as políticas do Governo nesta área e, portanto, só temos de o enaltecer. \nCentrando o debate na questão do desperdício alimentar, devo dizer que este projeto de resolução \napresenta múltiplos paralelismos com o Plano Nacional de Combate ao Desperdício Alimentar, que, como \nsabem, foi lançado em outubro, e que pode ser sintetizado no documento Prevenir Desperdício Alimentar —\nUm compromisso de todos. Importa sublinhar estes paralelismos, porque é importante para este debate falar \ndeste Plano Nacional e referir algumas dessas medidas. \nEm primeiro lugar, este Plano reconhece a existência deste problema, tal como o refere o projeto de \nresolução hoje apresentado, e procura entender as suas causas. \nDepois centra, e bem, muita da sua atenção na educação e na sensibilização. É fundamental dar aos mais \nnovos a informação necessária para que possam desenvolver uma consciência deste problema e que sejam \neles os contribuintes ativos da mudança de mentalidade, que se impõe nesta matéria. \nEste Plano trata, e bem, na área da produção, com o estabelecimento de protocolos para a boa gestão da \ndoação de excedentes da agricultura, nomeadamente com a criação na plataforma do Banco Alimentar de um \nbanco de excedentes agrícolas; na área da transformação, que também já foi aqui referida hoje, com a \nelaboração de códigos de boas práticas que minimizem o desperdício alimentar no sector e promovam uma \ngestão sustentável dos recursos; na área da distribuição e comercialização, com o encaminhamento de \nprodutos excedentes para as IPSS; na área da comunicação, com a elaboração de folhetos de informação e \nde sensibilização, a realização de um e-book com dicas e sugestões para o combate ao desperdício alimentar, \na elaboração de conteúdos programáticos para a formação avançada de professores dos 1.º e 2.º ciclos — de \nresto, também já foi referida nesta Câmara a importância de dotar os professores de ferramentas para \npoderem trabalhar com os mais novos — ou, ainda, ações de iniciativa académica, empresarial e social que \ntêm sido implementadas, nomeadamente em cantinas escolares e universitárias, de resto com excelentes \nresultados."
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente (Teresa Caeiro)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Ivo Oliveira. \nas"
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 15,
+      "speaker": {
+        "id": 2212,
+        "name": "Ivo Dinis De Oliveira",
+        "party": "PS",
+        "string": "O Sr. Ivo Oliveira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr. e Srs. Deputados: Combater e reduzir o desperdício \nalimentar é também melhorar a saúde. \nO estado de saúde de uma população está intrinsecamente ligado ao tipo de alimentação e ao estilo de \nvida adotado. As alterações no estilo de vida e no tipo de alimentação têm provocado o abandono de dietas \nricas em vegetais, naturalmente mais saudáveis e implicando menos desperdício alimentar e ambiental. \nNa Europa, a Organização Mundial de Saúde (OMS) declarou a obesidade como a epidemia do século XXI. \nPela falta de tempo e de controlo sobre o que se come — e já foi abordada a questão da segurança alimentar \n—, o crescimento do fast food tem sido uma realidade. Pensa-se que se ganha tempo, mas, na verdade, \ndesperdiçamos saúde e qualidade de vida. \nO excesso de consumo de embalagens, que também se relaciona com esta situação, piora o ambiente. \nEm Portugal, metade da população tem excesso de peso. Os encargos económicos relacionados com a \nobesidade são cerca de 3,5% do total das despesas com a saúde. \nDe acordo com uma notícia recente, publicada esta semana, 93% das crianças portuguesas ingerem sal \nacima das recomendações da OMS e mais de metade ingere sal acima do tolerável. \nCombater o desperdício alimentar e melhorar a saúde é valorizar também a nossa cultura gastronómica e a \ndieta mediterrânica, que é até Património Imaterial da Humanidade, que tem na sua génese os valores \ntradicionais do convívio à mesa, a unificação da família e a redução do desperdício alimentar. \nCombater o desperdício alimentar é também gerir melhor e mais equitativamente os recursos e perceber \nque têm impacto nos determinantes sociais de saúde. \nAo contrário do que foi dito neste debate pelo Sr. Deputado Bruno Coimbra, este não foi o Governo do \ncombate ao desperdício; pelo contrário, desperdiçou uma boa oportunidade de atuar nas variáveis críticas de \nmelhoria da qualidade de vida das populações: na resposta à crise, na precariedade, na pobreza e na \ndesigualdade. \nResposta à crise — este Governo ignorou que a crise criou mudanças de hábitos nas famílias portuguesas: \npassou a consumir-se menos carne e peixe e mais fast food e, relativamente aos alimentos, os mais saudáveis"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente (Teresa Caeiro)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Artur Rêgo."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 16,
+      "speaker": {
+        "id": 2178,
+        "name": "Artur José Gomes Rêgo",
+        "party": "CDS-PP",
+        "string": "O Sr. Artur Rêgo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, queria começar por agradecer ao Sr. Deputado Miguel \nFreitas a gentil referência que fez ao meu nome na sua intervenção — aliás, o tom da intervenção do Sr. \nDeputado Miguel Feitas eu subscrevo plenamente —, mas é uma medalha pela pior das razões. \nNestes quatro anos, o tema do desperdício alimentar não tem sido uma prioridade nesta Casa, e devia ser. \nE eu não consigo dissociar o desperdício alimentar das situações de carência das pessoas. Penso que não faz \nsentido falarmos em desperdício se não o associarmos a situações de carência e de necessidade das \npessoas. \nDe facto, temos milhões de pessoas em todo o mundo que não conseguem assegurar diariamente o \nmínimo alimentar para a sua sobrevivência e temos milhões de pessoas em todo o mundo que o conseguem \nsó com ajuda alimentar externa, não o conseguem com os seus próprios meios, seja porque vivem em regiões \nque, com o tempo — e aqui temos também uma questão ambiental —, se desertificaram e perderam a aptidão \npara produzir os alimentos necessários a sustentar as populações que nelas residem, seja porque vivem em \nregiões devastadas pela guerra e foram forçadas a fugir, vivendo em campos de refugiados sem condições \nmínimas de sobrevivência e dependentes de países e instituições para proverem o seu sustento diário. \nTambém nos países industrializados milhões de pessoas vivem na pobreza por força do desemprego e da \nmarginalização social, em muitos casos associada ao desemprego. \nNo entanto, há desperdício alimentar. Esse desperdício alimentar é grave não só do ponto de vista \nambiental pelo que significa de desperdício de recursos, mas também do ponto de vista humanitário pelo que \nsignifica de privação e de desperdício de recursos alimentares para esses milhões de pessoas que a eles não \ntêm acesso e deles necessitam desesperadamente. \nO desperdício tem causas várias, entre elas: excesso de produção desses recursos em regiões mais ricas, \nrecursos, esses, que não são devidamente canalizados para as regiões e populações mais carenciadas; redes \nde distribuição e cadeia longa de intermediários que provocam perdas ao longo desse percurso e encarece os \nbens quando estes chegam ao consumidor final; más práticas por parte das empresas produtoras e das"
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 17,
+      "speaker": {
+        "id": 1320,
+        "name": "Luís Emídio Lopes Mateus Fazenda",
+        "party": "BE",
+        "string": "O Sr. Luís Fazenda (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por unanimidade!?"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 17,
+      "speaker": {
+        "id": 2178,
+        "name": "Artur José Gomes Rêgo",
+        "party": "CDS-PP",
+        "string": "O Sr. Artur Rêgo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sim, por unanimidade. \nDesse plano destaco os seguintes pontos de convergência: \nCriação de uma rede alimentar solidária com cobertura geográfica em toda a cidade, com base na \ndistribuição de refeições resgatadas; \nCriação do combate ao desperdício alimentar, em ligação já protocolada com mais de 70 entidades, com \n24 juntas de freguesia, IPSS, universidades, confissões religiosas e organizações não-governamentais; \nRealização de uma abordagem multidimensional social, económica e ambiental do desperdício alimentar;"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente (Teresa Caeiro)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Ramos."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 18,
+      "speaker": {
+        "id": 2046,
+        "name": "João Augusto Espadeiro Ramos",
+        "party": "PCP",
+        "string": "O Sr. João Ramos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Srs. Deputados: Discutir desperdício alimentar e gestão \neficiente dos alimentos remete-nos em primeira mão para uma abordagem às formas de produção e aos \nsetores produtivos. \nA verdade é que, hoje em dia, em Portugal e na Europa, ao mesmo tempo que muitos têm dificuldade em \nfazer uma alimentação adequada ou sequer alimentarem-se, muita produção fica nas explorações por \nrecolher. \nA primeira abordagem que tem de ser feita é no sentido de saber como funciona, com que orientação e \ncom que objetivos a produção em Portugal. Será que os agricultores estão a produzir alimentos em função das \nnecessidades do País? Que estratégia existe orientada nesse sentido? Depressa chegamos a uma conclusão: \nnão existe uma estratégia ou, pior, existe a estratégia de não ter estratégia para permitir que sejam os ditos \nmercados — que é como quem diz os interesses económicos — a orientar a produção."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 18,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 18,
+      "speaker": {
+        "id": 2046,
+        "name": "João Augusto Espadeiro Ramos",
+        "party": "PCP",
+        "string": "O Sr. João Ramos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os exemplos que confirmam o que dizemos são vários, como, por exemplo, \no maior investimento público de sempre que foi feito no setor agroalimentar, o projeto do Alqueva. Foi o facto \nde empresários espanhóis quererem produzir azeite que orientou para a instalação, em Alqueva, da massa de \nolival que lá existe. \nOutro exemplo da falta deliberada de estratégia é o objetivo do Governo de assumir o equilíbrio da balança \nagroalimentar, mas apenas em valor. Isto é, o Governo só se preocupa que aquilo que o País exporta seja em \nvalor suficiente para cobrir os custos do que importa. \nPara o Governo e para que este objetivo seja atingido basta que o País se especialize na produção de dois \nou três produtos, que o resto comprar-se-á ao exterior. O único problema é que esta estratégia põe em causa, \nem larga escala, a soberania do País. \nA verdade é que para quem tanto se verga a Bruxelas sem ousar levantar um dedo conceitos como \nsoberania alimentar devem dizer muito pouco."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 18,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 19,
+      "speaker": {
+        "id": 2046,
+        "name": "João Augusto Espadeiro Ramos",
+        "party": "PCP",
+        "string": "O Sr. João Ramos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É muito claro que para o Governo, o atual e os anteriores, a função da \nagricultura não é, em primeira mão, a satisfação das necessidades alimentares do País; a agricultura é apenas \nmais um setor económico. \nEstas opções e estas políticas não são as que o País precisa. O País, apesar de um grau de \nautossuficiência alimentar que rondará os 70% e apesar de ser autossuficiente em meia dezena de produtos, é \naltamente deficitário em alguns produtos estratégicos. \nO País importa cerca de 50% da carne de bovino, 35% da carne de suíno — da qual já produziu 90% —, \n55% da batata, 30% das frutas, 93% do feijão seco, 90% do grão-de-bico, 88% dos cereais e entre estes 96% \ndo trigo. O exemplo do trigo é flagrante nesta relação de dependência do exterior: o País só produz 4% do \ntrigo que consome e o principal fornecedor de trigo era, em 2013, a Ucrânia. Isto dá-nos a dimensão da \nfragilidade deste modelo. \nOutra opção que é necessário implementar tem a ver com a sustentabilidade dos recursos. A terra para \nprodução agrícola é limitada e a superfície agrícola utilizável tem vindo a reduzir, pelo que uma adequada \nutilização do solo não só é necessária como fundamental para assegurar o futuro do País. \nModelos de produção assentes em exploração intensiva e superintensiva que procuram lucro rápido, \nelevado e com alta capacidade de esgotamento do solo, ou o assunto da introdução da produção florestal em \nterrenos de cultivo e de regadio que se tem vindo a falar e a potenciar, nomeadamente com a lei da \neucaliptização, são bons contributos para o esgotamento do solo e para a redução da área agricultável. \nNeste contexto, a agricultura familiar, a pequena e a média agricultura são as que utilizam de forma mais \nequilibrada os recursos, quer através de uma vasta diversificação cultural e de rendimentos, quer porque \nproduz localmente o que é consumido localmente e quase sempre produtos de melhor qualidade, para além \ndo seu potencial fixador de populações. \nMas à produção e ao aproveitamento alimentar está ligada outra matéria: a distribuição. \nA distribuição dá um contributo grande para promover a agricultura de cariz industrial, uma vez que, ao \naniquilar a pequena e a média produção através do esmagamento de preços, deixa apenas espaço para a \nprodução industrial. E a grande distribuição representa 70% desta atividade no nosso País. \nO Governo foi obrigado a assumir a existência deste problema da predação da produção por parte da \ndistribuição pela evidência que ela apresentava, mas não o resolveu. O Governo continua com a PARCA \n(Plataforma de Acompanhamento das Relações na Cadeia Agroalimentar) na boca e a grande distribuição \ncom as mãos livres para pagar e impor o que quiser e quando quiser. \nPara além disso, a grande distribuição é a face visível da normalização dos produtos, em que o calibre e o \nbrilho valem mais do que a qualidade ou a origem do produto. Este processo de normalização tem sido \nresponsável por deixar fora dos circuitos comerciais e dos circuitos de consumo quantidades significativas de \nalimentos. \nAssim, medidas de venda direta de produção permitem ao consumidor o acesso a produtos mais frescos, \ntendencialmente de melhor qualidade e dos quais se sabe a origem. Estas medidas não serão a solução para \ntodos os problemas de escoamento da pequena e média agricultura, mas dariam o seu contributo. \nO Grupo Parlamentar do PCP acompanha as preocupações e as propostas do Partido Ecologista «Os \nVerdes». \nUm país organizado, moderno e soberano tem de garantir a alimentação dos seus cidadãos, procurando \natingir a autossuficiência tanto quanto for possível. Medidas de aproveitamento de todos os recursos que \nimplicam a rejeição de imposições que limitem a possibilidade de consumo fazendo prevalecer o aspeto ao \nconteúdo têm de ser combatidas. \nA soberania, nas suas diversas vertentes, não dispensa a soberania alimentar e ela é incompatível com \numa visão exclusivamente economicista da agricultura que deixe de fora a sua importância para a satisfação \ndas necessidades alimentares do País; incompatível com uma definição da política agrícola e logo de \nprodução de alimentos, definida a partir do exterior e por princípios de mercado que deixam de fora as \npreocupações atrás expostas; e incompatível com a não existência de uma política agrícola nacional, com uma \nabordagem estratégica e que deverá ser orientadora das definições e decisões em matéria de produção \nagroalimentar."
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente (Teresa Caeiro)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Antes de dar a palavra ao Sr. Deputado Nuno Serra, queria pedir às as\nSr. e aos Srs. Deputados que fizessem silêncio na Câmara, pois está muito ruído e torna-se muito difícil ouvir \nos Srs. Deputados que estão no uso da palavra. \nPara uma intervenção, tem a palavra o Sr. Deputado Nuno Serra. \nma as"
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. NunoSerra (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ex. Sr.ª Presidente, Sr. e Srs. Deputados: Quero começar por \ncumprimentar o Partido Ecologista «Os Verdes» pelo tema trazido hoje a debate, assinalar a sua importância e \nreconhecer o consenso que este assunto alcança quer nesta Câmara quer na nossa sociedade. \nTenho a certeza de que estamos todos de acordo sobre a necessidade de combater o desperdício \nalimentar. Contudo, apesar desta consciência, as ações individuais e coletivas do Homem mantêm elevados \nníveis de desperdício alimentar. O problema continua a resistir e a persistir e por essa razão a importância \ndeste debate aqui hoje, a importância da visibilidade que hoje trazemos a este tema, que tem uma enorme \nrelevância na sensibilização da sociedade para o combate ao desperdício alimentar. \nUma universidade norte-americana estimou que em 2012, a nível mundial, cada habitante desperdiçava, \nem média, 300 kg de alimentos. \nNo mesmo sentido, a FAO aponta que em 2013 o total de alimentos desperdiçados representou, \naproximadamente, 30% da superfície agrícola útil mundial, com um custo anual de 750 000 milhões de \ndólares. São números impressionantes. E mais impressionantes porque são referências médias, o que \nsignifica que em certas zonas do Globo o desperdício é ainda maior. \nNa verdade, enquanto certas regiões do mundo lutam pelo aumento de alimentos para as suas populações \nsubnutridas, a Europa e os Estados Unidos da América desperdiçam 30% e 50%, respetivamente, dos \nalimentos comestíveis ao longo de toda a cadeia, desde o produtor ao consumidor. \nOutra publicação alerta para que menos de um quarto dos alimentos que são atualmente desperdiçados na \nEuropa e nos Estados Unidos seriam suficientes para alimentar os cerca de 800 milhões de pessoas que \nsofrem de fome crónica em todo o mundo. \nNa União Europeia, a perda anual é de cerca de 89 milhões de toneladas, equivalendo a 179 kg por \nhabitante, distribuídos por: consumidores — 42%; indústria — 39%; restauração — 14%; e distribuição — 5%. \nEm Portugal, os cálculos conhecidos são menores, mas nem por isso menos graves. Estudos de 2012 \napontam que ao longo da cadeia o desperdício representa 17% da produção alimentar anual, num valor \neconómico de cerca de 1 milhão de toneladas. as\nSr. e Srs. Deputados, os atuais níveis de desperdício alimentar, mais do que uma questão económica, \nambiental e político-social, são acima de tudo uma questão moral e de ética. \nPerante a pressão crescente na produção de alimentos de modo eficiente, isto é, produzir mais com menos \nrecursos, para satisfazer o aumento da população mundial que se estima em mais de 9000 milhões em 2050, \né essencial que os níveis de desperdício alimentar sejam reduzidos. \nA par do desafio da humanidade em alimentar uma população mundial em forte ritmo de crescimento, cada \nvez mais distanciada do mundo rural e concentrada em zonas urbanas, está a tornar a alimentação acessível \na todos os habitantes, independentemente da região onde se habita. \nNa verdade, o atual volume de desperdício contribui para a forte pressão nos recursos e no preço dos \nalimentos, dificultando o acesso a estes por parte dos mais desfavorecidos. \nPor isso, combater o desperdício alimentar é também combater o problema da fome e das desigualdades \nsociais no acesso a bens de primeira necessidade, como são os produtos alimentares."
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente (Teresa Caeiro)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Miguel Freitas. \nas"
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 21,
+      "speaker": {
+        "id": 2252,
+        "name": "Miguel João Pisoeiro De Freitas",
+        "party": "PS",
+        "string": "O Sr. Miguel Freitas (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr. e Srs. Deputados: «Só há liberdade a sério quando \nhouver a paz, o pão, habitação, saúde, educação». \nCito a canção de Sérgio Godinho e interrogo-me: por que será que de todos os direitos fundamentais \napenas o «direito à alimentação» não ficou inscrito na nossa Constituição?"
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente (Teresa Caeiro)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Heloísa \nApolónia. \nas"
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 23,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Presidente, Sr. e Srs. Deputados: Ouvi com muita atenção \nas intervenções que foram produzidas pelas diversas bancadas e há uma questão que sinto necessidade de \nesclarecer. Quando estamos a falar de combate ao desperdício alimentar, é preciso que todos tenhamos \nconsciência de que não estamos a falar da caridadezinha e do assistencialismo."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 23,
+      "speaker": {
+        "id": 2180,
+        "name": "Bruno Miguel Martins Inácio",
+        "party": "PSD",
+        "string": "O Sr. Bruno Inácio (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Claro!"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 24,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vejo vários Sr. e Srs. Deputados a acenar que sim, com a \ncabeça, e isto é importante. É que combater o desperdício alimentar não é dar as sobras aos pobres — é \nimportante que isto fique muito claro! —, é fazer com que todas as pessoas tenham condições de acesso aos \nbens alimentares que já existem. E por isso é que é tão importante nós, na Assembleia da República, \ndiscutirmos o combate ao desemprego, as condições salariais dos portugueses ou o fornecimento das \nrefeições escolares nas escolas, enfim, todo um conjunto de questões que se relacionam com esta matéria do \ndesperdício alimentar e da segurança alimentar. E, portanto, gostava de deixar aqui vincado neste debate este \npequeno ou grande esclarecimento. as\nDepois, Sr. e Srs. Deputados, houve várias bancadas que salientaram a questão de, nesta Legislatura, a \nmatéria do combate ao desperdício alimentar não ter entrado na agenda parlamentar. Pois foi justamente a \nessa questão que Os Verdes, hoje, procuraram também atalhar: trazer à agenda parlamentar uma matéria \nextraordinariamente importante para a questão da sustentabilidade. \nMas quero dizer que Os Verdes já têm apresentado vários projetos conexos com esta matéria, \ndesignadamente os projetos para a realização do inquérito alimentar nacional, para a regulação da publicidade \na produtos alimentares dirigidos a crianças e jovens, para o fornecimento das cantinas públicas com produtos \nalimentares locais ou para o fornecimento de pequeno-almoço nos apoios alimentares escolares. as\nDe qualquer modo, Sr. e Srs. Deputados, considerámos que era importante estruturar um projeto no \nsentido de que esta matéria entrasse na agenda parlamentar. \nPor outro lado, Sr. Deputado Miguel Freitas, tenho de me penalizar ou penitenciar, talvez, porque, \nentretanto, reparei que o Sr. Deputado Jorge Fão respondeu de uma forma muito mais objetiva e direta à \nprimeira pergunta que me tinha feito, no sentido de saber porquê a criação de um Ano Nacional do Combate \nao Desperdício Alimentar. É que, algures, na sua intervenção, o Sr. Deputado Jorge Fão disse: «Há muito para \nfazer nesta matéria». Eis a razão de ser desta proposta de Os Verdes! \nGostava também de dizer ao PSD o seguinte: falaram muito do plano de ação, que é o guia de que eu falei, \nque não omiti, neste debate, naturalmente, nem o poderia fazer, mas, atenção, porque isso, a que chamam \n«plano de ação», é, antes, um plano de princípios, uma vez que não estabelece metas concretas, nem anuais \nnem plurianuais, e é preciso dar esse passo. É aquilo que eu dizia há pouco, ou seja, temos de nos transportar \ndo plano dos princípios para o plano da prática, e é isso que Os Verdes vêm propor à Assembleia da \nRepública. as\nDepois, Sr. e Srs. Deputados, queria também dizer que foram aqui dados contributos que me parecem \nprofundamente relevantes, como a questão da pesca, da necessidade de artes mais seletivas, da necessidade \nda aposta em melhores condições de conservação, entre outros conjuntos de questões que aqui foram \nreferidos, e, sim, é importante termos a perceção de todas as dimensões da produção alimentar para os \nobjetivos de combate ao desperdício alimentar que temos em mente. \nGostava de realçar apenas mais dois aspetos, um dos quais se prende com a afronta que precisamos de \nfazer à União Europeia relativamente às suas inconsistências e incongruências nesta matéria do desperdício \nalimentar, como já aqui foi referido. Também declararam um qualquer ano como Ano Europeu do Desperdício \nAlimentar e pouco ou nada foi feito nesta matéria. \nPor outro lado ainda, tomam-no como objetivo, mas estipulam determinadas regras para a presença de \ndeterminados alimentos no mercado como frutas e hortícolas, onde associam a qualidade do produto à sua \ndimensão e calibragem, coisa que não tem rigorosamente nada a ver e que contribui extraordinariamente para \ngrandes lógicas de desperdício alimentar. Isto é uma coisa que tem de ser combatida, na nossa perspetiva, as\nSr. e Srs. Deputados,…"
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente (Teresa Caeiro)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada, peço desculpa mas tenho de a interromper. as\nSr. e Srs. Deputados, peço que façam algum silêncio para podermos ouvir a Sr.ª Deputada nestas suas \nconclusões. \nQueira prosseguir, Sr.ª Deputada Heloísa Apolónia."
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 24,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito obrigada, Sr.ª Presidente. as\nComo estava a dizer, Sr. e Srs. Deputados, é importante apelar e, mais do que apelar, agir, no seio da \nUnião Europeia, no sentido de que estas normas, que, no fundo, vêm contribuir para o engrandecimento do"
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente (Teresa Caeiro)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, não havendo mais inscrições e utilizando os autores \nda iniciativa a prerrogativa de procedermos à votação do projeto de resolução no final do debate, peço aos \nserviços que acionem o sistema eletrónico para podermos proceder à verificação do quórum de deliberação. \nPausa. \nOs Srs. Deputados, que, por qualquer razão, não o puderem fazer, terão de o sinalizar à Mesa e \nagradecemos que, depois, assinem junto dos serviços para fazerem o registo presencial, de modo a que seja \nconsiderada a respetiva presença na reunião. \nPausa. \nO quadro eletrónico regista 181 presenças, às quais se acrescentam 20, perfazendo 201 Deputados, pelo \nque temos quórum para proceder às votações. \nAgradecemos aos Srs. Deputados que não se tenham inscrito que assinem, junto dos serviços, para que \nnão seja contada a falta na reunião. \nVamos proceder à votação do projeto de resolução n.º 1506/XII (4.ª) — Combater o desperdício alimentar \npara promover uma gestão eficiente dos alimentos (Os Verdes). \nSubmetido à votação, foi aprovado por unanimidade. \nFica, assim, concluída a nossa agenda de hoje, mas ainda não os trabalhos. \nSrs. Deputados, reuniremos, amanhã, dia 4 de junho, pelas 15 horas. A ordem do dia resulta de uma os\nmarcação do PSD e serão apreciados, conjuntamente, na generalidade, as propostas de lei n. 338/XII (4.ª)"
+    }
+  ]
+}

@@ -1,0 +1,3274 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "13",
+    "legislative_session": "4",
+    "number": "101",
+    "date": "2019-06-27"
+  },
+  "debate_id": "r3_13_4_101_2019-06-27",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as e Srs. Deputados, vamos dar início à sessão plenária. \nEram 15 horas e 3 minutos. \nPeço aos Srs. Agentes da autoridade o favor de determinarem a abertura das portas das galerias ao público \ne ao Sr. Deputado Secretário Duarte Pacheco o favor de dar conta à Câmara dos diplomas que deram entrada \nna Mesa. \nTem a palavra."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Duarte Pacheco)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, informo que o Sr. Presidente \nadmitiu os Projetos de Resolução n.os 2229/XIII/4.ª (CDS-PP) — Recomenda ao Governo que promova medidas \nespecíficas para a defesa do montado de sobro e azinho, que baixa à 7.ª Comissão, 2230/XIII/4.ª (PAN) — Pela \ncriação da carreira especial de psicólogo clínico, que baixa à 9.ª Comissão, e 2231/XIII/4.ª (PAN) — Pela criação \nda carreira especial de nutricionista, que baixa à 9.ª Comissão. \nÉ tudo, Sr. Presidente."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "A ordem do dia de hoje consta de uma marcação do PSD, subordinado \nao tema «Dificuldades no acesso dos cidadãos à saúde». \nPara abrir o debate, tem a palavra o Sr. Deputado do PSD Ricardo Baptista Leite."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 2,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O Ministro das Finanças, \nMário Centeno, afirmou esta semana que hoje há um investimento de mais 1600 milhões de euros por ano no \nServiço Nacional de Saúde (SNS) do que havia no Governo anterior. \nDisse ainda o Ministro, em entrevista, e passo a citar, que «são mais 11 800 profissionais na saúde, o que \nrepresenta um aumento na despesa com pessoal de 25%». \nPergunto a esta Câmara: se há mais dinheiro e mais profissionais, por que razão é que o Serviço Nacional \nde Saúde está pior? Por que razão é que os hospitais dizem que têm menos profissionais disponíveis do que \nem 2015? Por que razão é que todos os indicadores demonstram uma degradação da qualidade dos cuidados \nde saúde, em Portugal? Por que razão é que os doentes esperam cada vez mais tempo por uma consulta, uma \ncirurgia ou um exame? \nSó pode haver uma resposta: se há mais dinheiro, se há mais profissionais e o SNS continua a degradar-se \nà vista de todos, então, só pode ter falhado uma coisa, falhou o Governo."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 2,
+      "speaker": {
+        "id": 1145,
+        "name": "Adão José Fonseca Silva",
+        "party": "PSD",
+        "string": "O Sr. Adão Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Claro!"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 2,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Falhou o Governo, e falhou a vários níveis."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 2,
+      "speaker": {
+        "id": 1550,
+        "name": "António José Santinho Pacheco",
+        "party": "PS",
+        "string": "O Sr. Santinho Pacheco (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Que vergonha!"
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 2,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Falhou o Governo na gestão do dia a dia do nosso Serviço Nacional \nde Saúde."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 2,
+      "speaker": {
+        "id": 2034,
+        "name": "Joana Fernanda Ferreira Lima",
+        "party": "PS",
+        "string": "A Sr.ª Joana Lima (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é isso que os portugueses dizem!"
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 2,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para além de ter sido incapaz de dar autonomia às administrações \nhospitalares e às direções dos centros de saúde, o Governo encontra formas de cativar os orçamentos na saúde, \nrazão pela qual estamos em junho e dois terços dos hospitais públicos nem contrato-programa têm para 2019."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 2,
+      "speaker": {
+        "id": 1145,
+        "name": "Adão José Fonseca Silva",
+        "party": "PSD",
+        "string": "O Sr. Adão Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 2,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mais: o Governo e falhou porque desinvestiu no Serviço Nacional \nde Saúde. Ao longo destes quatro anos, foram prometendo investimentos em áreas necessitadas e nos"
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 3,
+      "speaker": {
+        "id": 2034,
+        "name": "Joana Fernanda Ferreira Lima",
+        "party": "PS",
+        "string": "A Sr.ª Joana Lima (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E bem!"
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 3,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… foram incluindo verbas para esse investimento, permitindo até \nque o Sr. Primeiro-Ministro viesse a afirmar, aos quatro ventos, que nunca se investiu tanto na saúde. \nMas, ano após ano, depois de olharmos para a execução desses mesmos Orçamentos, percebemos que a \nregra foi a do não investimento, ficando a execução das verbas sistematicamente abaixo dos 50%."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 3,
+      "speaker": {
+        "id": 1145,
+        "name": "Adão José Fonseca Silva",
+        "party": "PSD",
+        "string": "O Sr. Adão Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 3,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mais: prometeu o Governo que iria investir em novos hospitais e na \nmodernização dos outros. Nem uma coisa nem outra, nada aconteceu. Que o digam as populações do Algarve, \ndo Alentejo, do Seixal, de Lisboa, de Coimbra ou de Viseu. Em quatro anos, depois de tantas promessas, nem \num novo hospital saiu do papel. \nÉ caso para o Governo dizer: olhem para o que o Governo orçamenta, mas não olhem para o que o Governo \nfaz."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 3,
+      "speaker": {
+        "id": 2034,
+        "name": "Joana Fernanda Ferreira Lima",
+        "party": "PS",
+        "string": "A Sr.ª Joana Lima (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Olhem para o retrovisor!"
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 3,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Governo falhou, ao não perceber que os profissionais de saúde \nsão o pilar estruturante da qualidade do SNS. Destratados ao longo destes quatro anos, dos médicos aos \nenfermeiros, dos farmacêuticos aos técnicos de saúde, todos estão revoltados pelas sucessivas faltas de \nconsideração de que têm sido alvo. \nNão há memória de tantas greves e de tamanha tensão social no setor público da saúde — e 2019 já promete \nbater todos os recordes. \nTrata-se de um Governo que não aposta nos seus profissionais, nem faz qualquer planeamento das suas \nnecessidades. \nVeja-se agora o caso do encerramento rotativo das maternidades de Lisboa. Basta os profissionais de saúde \ncomeçarem as tirar as suas férias normais de verão e o sistema entra em colapso."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 3,
+      "speaker": {
+        "id": 1145,
+        "name": "Adão José Fonseca Silva",
+        "party": "PSD",
+        "string": "O Sr. Adão Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 3,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E o que faz o Governo? Começa por ocultar essa informação. E \ndepois de a informação se tornar pública, demonstra em todas as suas intervenções uma absoluta falta de \npreparação. \nNão eram encerramentos, mas, afinal, já o são. Eram apenas encerramentos temporários, mas, afinal, vão \nmanter-se, pelo menos, até ao final do verão. Não havia obstetras disponíveis, mas, de repente, há obstetras \npara todos os lados. \nÉ o modus operandi deste Governo: desinvestem no SNS na esperança de que ninguém repare; se \nrepararem, começam com o spin mediático e remendam a situação temporariamente até que ninguém esteja a \nolhar outra vez. E os doentes, as grávidas, que aguentem. \nNa essência, estamos perante um Governo que falhou na saúde, porque é um Governo que falhou às \npessoas. \nOs portugueses desesperam perante os inaceitáveis tempos de espera para consultas, cirurgias ou até para \na realização de simples exames de diagnóstico. \nAté os doentes com situações que carecem de intervenção urgente, como é o caso dos doentes com \npatologia oncológica, não têm resposta, ficam literalmente à espera. \nVejam-se os números: 34%, um terço dos doentes com cancro neste País, a precisarem de uma cirurgia com \ncaráter prioritário ou muito prioritário, não têm acesso a essa intervenção, nos tempos máximos de resposta \ngarantida. São tratados, quando sobrevivem, para além dos tempos clinicamente aceitáveis."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "E é!"
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 4,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É absoluta a inconsciência deste governante. Não há, hoje, em \nPortugal, uma família que não tenha alguém no seu meio social que não esteja a sofrer perante a degradação \ndo Serviço Nacional de Saúde. \nÉ um Ministro que gere as finanças do SNS sentado atrás do seu computador, agarrado à folha Excel. \nPortanto, com estas declarações do Ministro das Finanças, hoje compreende-se melhor por que razão falhou \no Governo de forma tão clamorosa na saúde. \nQuem não vai ao terreno, quem não fala com os doentes, quem não ouve os profissionais, nunca poderá ter \nnoção das dificuldades dos cidadãos, nem de como governar adequadamente o País. \nSó assim se compreende a desfaçatez do Ministro das Finanças, que fala ao País em excedente orçamental, \nsem perceber que o dinheiro arrecadado e guardado nos cofres públicos foi obtido, de forma cruel, à conta da \nsaúde, do bem-estar e da vida dos portugueses. \nO PSD tem vindo a apelar ao Governo para que estabeleça um plano de emergência de salvação do SNS. \nPorém, ao invés disso, desde o Primeiro-Ministro à Ministra da Saúde, ao Ministro das Finanças mantêm-se \ntodos num estado de negação. Para eles, a saúde vai muito bem! Para o Partido Socialista, o SNS nunca esteve \nmelhor. Não precisa de melhor gestão, nem precisa de mais investimento. \nE a governação socialista é isto… Ficando claro para todos que, com o PS, não podemos contar com \nabsolutamente mais nada. \nO País precisa, urgentemente, de mudar de rumo. Precisamos de investir mais e melhor na saúde. \nPrecisamos de um Governo que atribua um médico de família para todos os portugueses. São hoje 700 000 \nos cidadãos que não têm acesso."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveram-se, para pedir esclarecimentos, cinco Srs. Deputados. \nO Sr. Deputado \nRicardo Baptista Leite informou a Mesa que responderá, primeiro, em conjunto, a dois Srs. Deputados, depois, \ntambém em conjunto, a outros dois Srs. Deputados e, finalmente, a um Sr. Deputado. \nTem a palavra o Sr. Deputado Luís Soares, do Grupo Parlamentar do Partido Socialista."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 5,
+      "speaker": {
+        "id": 2078,
+        "name": "Luís Miguel De Freitas Marques Carvalho Soares",
+        "party": "PS",
+        "string": "O Sr. Luís Soares (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, confesso que, quando soube qual era o \nteor do agendamento do PSD, pensei que iríamos ter, finalmente, um pedido formal de desculpas do PSD pela \nsituação em que deixou o Serviço Nacional de Saúde. Confesso também que me enganei. \nÉ que falar de dificuldades no acesso ao Serviço Nacional de Saúde é falar de infraestruturas e de \nequipamentos, de custos no acesso e de recursos humanos. \nE o que é que fez o PSD entre 2012 e 2015? Enfraqueceu o SNS, deu força ao setor privado! O que é fez o \nPSD? O PSD desinvestiu nos equipamentos, nas infraestruturas e nos recursos humanos, aumentou os custos \nde acesso com as taxas moderadoras e com o transporte de doentes. É esse o legado do PSD. \nVejamos o que fez o Partido Socialista, nestes últimos quatro anos, Sr. Deputado. \nO Sr. Deputado falou da \nRede Nacional de Cuidados Continuados Integrados. Então, Melgaço e Caminha dizem-lhe alguma coisa, Sr. \nDeputado? É que havia aí duas instituições que tinham unidades de cuidados continuados concluídas, prontas \npara os cidadãos, mas que estavam como que em «sacos de plástico» porque não tinham autorização do \nanterior Governo para funcionar. Ora, o Partido Socialista resolveu esse problema. \nDescemos um pouco mais, até ao distrito de Braga, e verificamos que as obras de requalificação do serviço \nde urgência no hospital de Guimarães, há 20 anos à espera, estão em curso. \nVamos até Bragança e vejamos quais foram os investimentos nos hospitais de Bragança, Mirandela e \nMacedo de Cavaleiros. Os senhores não os concretizaram, mas eles estão em curso, estão executados pelo \nGoverno do Partido Socialista."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem agora a palavra o Sr. Deputado Moisés Ferreira, do Bloco \nde Esquerda."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 6,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, Sr. Deputado Ricardo Baptista Leite, \ngostaria, em primeiro lugar, de cumprimentar e de saudar o Grupo Parlamentar do Partido Social Democrata \npelo tema que agendou para o debate de hoje. \nNa intervenção inicial, o Sr. Deputado Ricardo Baptista Leite disse, e cito, «não podemos contar com o PS \npara nada». Esta afirmação entra em contradição com o que o Sr. Deputado Ricardo Baptista Leite tem dito fora \ndo Plenário, nomeadamente no que toca à abertura e às negociações que o PSD está a fazer com o PS para a \nlei de bases da saúde. Ora, creio que o facto de dizer que não conta com o PS para nada, mas, depois, dizer \nque está a negociar com o PS uma lei de bases que é estruturante para o Serviço Nacional de Saúde e para a \nsaúde desmente-o um pouquinho. Entra em contradição o Deputado Ricardo Baptista Leite, no Plenário, com o \nDeputado Ricardo Baptista Leite, fora do Plenário. \nCreio que a grande pergunta a que deveria responder é a seguinte: afinal, conta com o Partido Socialista \npara quê? \nSabemos que o Partido Socialista parece estar a contar com o Partido Social Democrata para manter as \nparcerias público-privadas inalteradas na lei de bases, para ter a hipótese de manter parcerias público-privadas. \nAquilo que se pergunta é, então, o que é que o PSD está a fazer nesta negociação com o Partido Socialista, por \nrazão faz esta negociação com o Partido Socialista e se, afinal, conta com alguma coisa por parte do Partido \nSocialista. \nO acesso à saúde, digo-lhe já, não se faz única e exclusivamente com a negociação sobre parcerias público-\nprivadas. Aliás, se a discussão sobre o acesso à saúde ficar reduzida às parcerias público-privadas, será um \npéssimo serviço que estarão a prestar aos utentes. E digo-lhe porquê. Porque, por exemplo, sabe o que é que \ndiz o relatório de Monitorização Mensal da Lista de Inscritos para Cirurgia da ARS Norte (Administração Regional"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 7,
+      "speaker": {
+        "id": 2056,
+        "name": "Jorge Paulo Da Silva Oliveira",
+        "party": "PSD",
+        "string": "O Sr. Jorge Paulo Oliveira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso é mentira! Não significa isso!"
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 7,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso, não sei se esta negociação entre o PSD e o PS se cinge apenas a \nesta ideia de proteger as parcerias público-privadas, de proteger os grupos económicos que estão por detrás \ndelas ou se se cinge a algo mais. \nSr. Presidente, Sr.as e Srs. Deputados, para sintetizar, a pergunta é a seguinte: afinal, o que espera o PSD \ndo Partido Socialista e que negociação é esta que está a ter com o Partido Socialista para salvar as parcerias \npúblico-privadas? Se, efetivamente, aquilo que une o PSD e o PS são apenas as parcerias público-privadas, \npergunto o que é que está aqui em cima da mesa. É um negócio, apenas? É um negócio que, no final da \nLegislatura, veio unir estes dois partidos? O que é, Sr. Deputado? Elucide a Câmara sobre este assunto."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queria apenas dar conta à Câmara de que, entretanto, houve \numa pequena alteração. Houve mais inscrições de Srs. Deputados para pedir esclarecimentos ao Sr. Deputado \nRicardo Baptista Leite, passando de cinco para nove, pelo que o Grupo Parlamentar do Partido Social Democrata \ndeu indicações à Mesa no sentido de o Sr. Deputado responder por grupos de três, o que, como é evidente, a \nMesa aceitou. \nPortanto, em vez de dar já a palavra ao Sr. Deputado Ricardo Baptista Leite para responder aos dois \nprimeiros Deputados, como inicialmente eu tinha referido, vou dar a palavra à Sr.ª Deputada Galriça Neto, do \nCDS-PP, para pedir esclarecimentos."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 7,
+      "speaker": {
+        "id": 2027,
+        "name": "Isabel Maria Mousinho De Almeida Galriça Neto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Isabel Galriça Neto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, queria felicitar o PSD por \nvoltarmos a debater o tema da saúde, mas, infelizmente, e lamento-o profundamente, acontece pelas piores \nrazões. \n\nO Sr. Deputado traçou um retrato que é doloroso e penoso de ouvir. É, sobretudo, doloroso para os \nportugueses que, em cada dia, não têm acesso atempado aos cuidados de saúde de qualidade; em cada dia, \nveem os seus tratamentos e o follow-up da sua situação oncológica atrasados; em cada dia, têm atrasos nas \ncirurgias; em cada dia, não veem, por parte deste Governo, uma prioridade efetiva aos cuidados de saúde, uma \nprioridade efetiva ao bem-estar e às condições de trabalho dos profissionais, nomeadamente dos profissionais \ndo SNS, que este Governo tem destratado e que, com grande paciência e resiliência, têm sabido andar para a \nfrente. De qualquer forma, está à vista a conflituosidade que se tem arrastado, por inépcia e incompetência deste \nGoverno, ao longo de toda a Legislatura. \nPoderíamos questioná-lo sobre um conjunto enorme de situações, porque a preocupação é grande, a \nincompetência do Governo é ainda maior e estão a descoberto um conjunto de áreas muito, muito, \nproblemáticas. \nO CDS tem falado, desde sempre, da questão dos doentes frágeis e vulneráveis, nomeadamente daqueles \nque podem estar em situação de doença crónica e de doença terminal, em fim de vida, que deveriam merecer \noutro tipo de atenção por parte deste Governo. Mas não! Precisamente porque se referiu aos cuidados \ncontinuados, gostava que nos ajudasse a clarificar, de alguma forma, se é efetiva prioridade aos cuidados \ncontinuados, como ainda agora disse o Sr. Deputado do Partido Socialista, ter uma lista de espera de mais de \n1500 pessoas para estas unidades."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem agora a palavra, para responder, o Sr. Deputado Ricardo \nBaptista Leite."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 8,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, agradeço aos Srs. Deputados \nLuís Soares, Moisés Ferreira e Isabel Galriça Neto pelas questões que me colocam. \nDe facto, o Partido Socialista vem fazer uma intervenção sobre o investimento na saúde e, depois, ao tentar \nconsubstanciar a sua própria intervenção, diz «é um investimento, vai acontecer», mas ainda não aconteceu. \n«Está em curso», mas ainda não apareceu!"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 8,
+      "speaker": {
+        "id": 1145,
+        "name": "Adão José Fonseca Silva",
+        "party": "PSD",
+        "string": "O Sr. Adão Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está quase!"
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 8,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É um investimento que está quase, quase, quase, mas ainda não \nchegamos lá! Mas para o ano é que é, dizem, na próxima Legislatura é que é! \nIsto já não vai lá assim, Sr. Deputado! \nOiça os portugueses sabem bem, os doentes sabem bem qual é o resultado da gestão socialista na saúde. \nPortanto, o Sr. Deputado respondeu àquilo que eu disse: investiram menos do que aquilo que prometeram. \nOs senhores orçamentavam, de facto, com o apoio do Bloco de Esquerda e do PCP, mas, quando chegou a \nhora de executar, os portugueses não viram nada. \nDepois, vem o Sr. Deputado, desesperado para encontrar argumentos, falar de taxas moderadoras. É preciso \nlembrar o seguinte: quem é que isentou 1,4 milhões de portugueses da taxa moderadora durante uma crise \nfinanceira que os senhores trouxeram para Portugal? \nFoi o PSD! \nÉ agora, no final do mandato, que os senhores estão a tentar resolver a questão das taxas moderadoras!"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 8,
+      "speaker": {
+        "id": 2078,
+        "name": "Luís Miguel De Freitas Marques Carvalho Soares",
+        "party": "PS",
+        "string": "O Sr. Luís Soares (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O quê?!"
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 8,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Aliás, ninguém se esquece que, quando vocês eram Governo, \nCorreia de Campos queria até que os doentes que ficavam internados nos hospitais pagassem taxas \nmoderadoras,…"
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 9,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… queriam moderar o acesso ao internamento hospitalar. \nFalou o Sr. Deputado nos recursos humanos. É, de facto, impressionante, porque dizem todos o mesmo. \nDizem que são mais de 11 000 profissionais de saúde contratados para o Serviço Nacional de Saúde, mas \nninguém sabe onde estão!"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 9,
+      "speaker": {
+        "id": 1145,
+        "name": "Adão José Fonseca Silva",
+        "party": "PSD",
+        "string": "O Sr. Adão Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Onde estão?!"
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 9,
+      "speaker": {
+        "id": 2078,
+        "name": "Luís Miguel De Freitas Marques Carvalho Soares",
+        "party": "PS",
+        "string": "O Sr. Luís Soares (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Têm de ir aos hospitais!"
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 9,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nós olhamos para a lista dos profissionais e há quase 2000 \nprofissionais em falta para conseguirmos ter o número de horas de trabalho equiparado a 2015. \nMais: em 2021, à conta das vossas políticas, vamos ter 4000 médicos sem especialidade, e os senhores \nnada fizeram para preparar isso."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 9,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E também à conta da vossa política!"
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 9,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mais: os Srs. Deputados prometeram, através do Governo, que iriam \nacabar com o recurso aos médicos tarefeiros, aquilo que o PCP dizia que era o trabalho precário."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 9,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E é!"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 9,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em 2015, gastámos 80 milhões de euros em tarefeiros e, no ano \npassado, gastámos 104 milhões de euros. Deveriam ter vergonha, Sr.ª Deputada!"
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 9,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Moisés Ferreira, queria só dizer-lhe que, de facto, \nquatro anos volvidos, a política do Bloco de Esquerda reduz-se a três palavras: lei de bases."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 9,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Seriam cinco palavras: lei de bases da saúde!"
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 9,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Porque os senhores não defenderam mais nada. Até relativamente \nao fim das PPP (parcerias público-privadas) são incoerentes, porque, quando olhamos para o Orçamento do \nEstado de 2018, lá está uma PPP aprovada com o voto favorável do Bloco de Esquerda!"
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 9,
+      "speaker": {
+        "id": 1145,
+        "name": "Adão José Fonseca Silva",
+        "party": "PSD",
+        "string": "O Sr. Adão Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 9,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E quanto aos privados estamos conversados. Nunca os privados \nganharam tanto dinheiro como quando os senhores apoiaram este Governo, durante estes três anos. \nSr.ª Deputada Isabel Galriça Neto, do que o País precisa é de mais investimento em áreas críticas, onde as \npopulações sofrem, como disse, e bem. \nNa área dos cuidados paliativos e dos cuidados continuados, aquilo a que assistimos hoje é vergonhoso. Só \nnos cuidados paliativos temos pouco mais de 100 camas, quando precisaríamos de ter entre 800 e 1000 camas, \ne este Governo nada fez ao longo deste anos."
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 10,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O PSD e o CDS nunca fundamentaram a lei dos paliativos!"
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 10,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Deputada, do que precisamos não é que venham para aqui com \npedidos de desculpa, mas, sim, que governem."
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Passamos, então, à segunda ronda, com três Srs. Deputados \npara pedir esclarecimentos. \nTem a palavra o Sr. Deputado João Dias."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 10,
+      "speaker": {
+        "id": 2037,
+        "name": "João Manuel Ildefonso Dias",
+        "party": "PCP",
+        "string": "O Sr. João Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, Sr. Deputado Ricardo Baptista Leite, tenho de \ncomeçar logo por lhe perguntar o seguinte: com todos estes arrufos, como é que justifica as negociações que \ntêm com o PS sobre a lei de bases da saúde? É que, de facto, os senhores são mestres no disfarce. É o que \nsão!"
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 10,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 10,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 10,
+      "speaker": {
+        "id": 2037,
+        "name": "João Manuel Ildefonso Dias",
+        "party": "PCP",
+        "string": "O Sr. João Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A vossa preocupação não é com a saúde dos portugueses, muito menos com o \nacesso à saúde e com o SNS."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 10,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ora, aí está!"
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 10,
+      "speaker": {
+        "id": 2037,
+        "name": "João Manuel Ildefonso Dias",
+        "party": "PCP",
+        "string": "O Sr. João Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A vossa grande preocupação é com os lucros do privado — essa é que é a vossa \nverdadeira preocupação. Para o PSD o que importa é o negócio da saúde, não temos dúvidas sobre isso. Por \nisso, para o PSD, quanto pior melhor! O PSD tudo faz para fragilizar o SNS, para descredibilizá-lo e para passar \na ideia da sua absoluta ineficiência. \nMas se o SNS passa por dificuldades — e é verdade que passa, nunca o escondemos e apresentámos \npropostas para as corrigir! — é consequência da política de direita que os senhores defendem, que os senhores \nimpuseram e com que o atual Governo não rompeu totalmente. Os seus impactos no funcionamento dos serviços \nde saúde estão à vista! Estão à vista nas listas de espera para cirurgias, nos inaceitáveis tempos de espera para \nrealização de exames, na demora na realização de consultas e no atendimento desesperante nas urgências. \nAinda assim, podemos dizer que muito tem resistido o SNS a tão grande e violenta ofensiva de que tem sido \nalvo pelos sucessivos Governos de PSD/CDS e também do PS, que opta por não corrigir a situação e por não \ntomar as medidas eficazes. Apesar disso, no nosso SNS, no qual os portugueses muito confiam, consegue-se \ngarantir uma elevada qualidade e segurança. \nNo SNS, estão excelentes profissionais a quem os senhores congelaram carreiras, a quem os senhores \nreduziram o valor das horas de qualidade, a quem os senhores aumentaram das 35 para as 40 horas de trabalho \nsemanais,…"
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 10,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 10,
+      "speaker": {
+        "id": 2037,
+        "name": "João Manuel Ildefonso Dias",
+        "party": "PCP",
+        "string": "O Sr. João Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… o que, felizmente, por proposta e intervenção do PCP, se conseguiu reverter. \nOs senhores, como bons aniquiladores do desenvolvimento dos profissionais de saúde votaram contra, assim é \nque foi."
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 10,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 11,
+      "speaker": {
+        "id": 2037,
+        "name": "João Manuel Ildefonso Dias",
+        "party": "PCP",
+        "string": "O Sr. João Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas também votaram contra as propostas do PCP do fim das taxas moderadoras, \nvotaram contra o fim das PPP, votaram contra a alteração aos critérios de atribuição do transporte aos doentes \nnão urgentes, o que permitiria dar mais transporte a quem dele necessita. O PSD vota contra tudo o que melhora \no acesso dos portugueses à saúde. \nOs senhores não têm problemas em prejudicar as pessoas para benefício dos grupos económicos da saúde."
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 11,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 11,
+      "speaker": {
+        "id": 2037,
+        "name": "João Manuel Ildefonso Dias",
+        "party": "PCP",
+        "string": "O Sr. João Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Ricardo Baptista Leite, do PSD, os portugueses só podem esperar \nmais ataques ao Serviço Nacional de Saúde e aos seus profissionais. \nSr. Deputado Ricardo Baptista Leite, assuma! Assuma, de uma vez por todas, aqui e hoje, que a estratégia \ndo PSD é fragilizar o SNS. É isso que os senhores querem?"
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem agora a palavra, em nome do Grupo Parlamentar do \nPartido Ecologista «Os Verdes», o Sr. Deputado José Luís Ferreira."
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 11,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, Sr. Deputado Ricardo \nBaptista Leite, ouvi-o com toda a atenção e ocorrem-me, para já, três notas prévias. \nA primeira para lhe dizer «bem-vindo ao clube», porque, finalmente nesta Legislatura, o PSD acordou para \nos problemas da saúde. \nÉ verdade! \nA segunda nota é para registar o desplante do Sr. Deputado, porque, face àquilo que o Governo anterior fez \nem matéria de saúde, vir agora dizer o que diz é, de facto, preciso ter muito desplante. \nEm terceiro lugar, queria registar que, ao ver o Sr. Deputado tão zangado e num tom tão agressivo com o \nPS, estou a imaginar como devem decorrer as negociações, ou os arranjinhos, da nova Lei de Bases da Saúde. \nSr. Deputado, é verdade que as coisas não estão bem. O acesso aos cuidados de saúde por parte dos \nportugueses continua com graves problemas, o que nos leva, aliás, até a dizer que o estado da saúde é pouco \nrecomendável. Sobre esta matéria, Sr. Deputado, acho que é, também, de inteira justiça referir que os problemas \nda saúde não são novos, não são problemas de agora, o PSD é que só despertou para eles nesta Legislatura. \nOs problemas da saúde já vêm de trás, porque, de facto, o subfinanciamento que o Serviço Nacional de Saúde \nconheceu, ao longo de décadas, por parte de vários Governos, fossem do PS, do PSD, ou, mais recentemente, \ndo PSD e do CDS, tem, certamente, um peso significativo na situação atual da saúde, muito particularmente em \nfunção do Governo anterior, PSD/CDS. Como sabemos, foram quatro anos de orientações claramente \nindisfarçáveis e, diria até, inseparáveis de uma linha ideológica que colocou em causa o acesso dos portugueses \naos cuidados de saúde, o acesso dos utentes ao Serviço Nacional de Saúde, tendo tido, aliás, repercussões \nnão só a curto mas também a médio e a longo prazo, como estamos a ver. Levou, por exemplo, a uma carência \ngeneralizada e evidente de meios humanos no Serviço Nacional de Saúde, nas unidades hospitalares e nas \nunidades de cuidados primários de saúde. \n\nO Sr. Deputado fez referência às palavras do Sr. Ministro das Finanças. Vou, também, utilizar palavras do \nSr. Ministro das Finanças para dizer que concordo com ele quando diz que as coisas hoje estão melhores do \nque estavam com o Governo anterior. Mas isso não era difícil! Face ao estado em que os senhores deixaram o"
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 12,
+      "speaker": {
+        "id": 2037,
+        "name": "João Manuel Ildefonso Dias",
+        "party": "PCP",
+        "string": "O Sr. João Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 12,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Podemos dizer que o Governo atual está a contratar pouco, mas \ntemos também de dizer que o Governo anterior despediu 7000 profissionais. \nPor isso, Sr. Deputado Ricardo Baptista Leite, a pergunta que lhe deixo é muito objetiva e exige uma reposta \ntambém objetiva: na perspetiva do Sr. Deputado, a passagem do Governo anterior contribuiu, ou não, para a \natual situação do estado da saúde? E falo ao nível da falta de recursos humanos, tendo presente que o Governo \nanterior passou quatro anos a despedir profissionais de saúde; ao nível do acesso dos portugueses aos cuidados \nde saúde, já que o Governo anterior passou quatro anos a encerrar serviços por todo o País, tendo, até, o \nMinistro da Saúde dito que encerrava serviços para melhorar o acesso dos portugueses aos cuidados de saúde!"
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 12,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 12,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Na altura, até lhe recomendei que colocasse uma placa nos \nserviços encerrados a dizer que estavam encerrados para melhorar os serviços de saúde! \nE falo, também, ao nível da situação dos profissionais de saúde, porque o Governo anterior passou, \nigualmente, quatro anos a cortar direitos aos profissionais de saúde. \nPor isso lhe pergunto, com toda a objetividade: na sua perspetiva, a passagem do anterior Governo PSD/CDS \ncontribuiu, ou não, para o estado atual da saúde?"
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 12,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Dou, agora, a palavra à Sr.ª Deputada Elza Pais para, em \nnome do Grupo Parlamentar do Partido Socialista, formular um pedido de esclarecimento."
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 12,
+      "speaker": {
+        "id": 1989,
+        "name": "Elza Maria Henriques Deus Pais",
+        "party": "PS",
+        "string": "A Sr.ª Elza Pais (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, Sr. Deputado Ricardo Baptista Leite, começo \npor perguntar onde é que o senhor esteve na última governação. Se alguma dificuldade houve no acesso à \nsaúde foi quando os senhores foram Governo. Houve um desinvestimento total, um apagão. A Rede Nacional \nde Cuidados Continuados Integrados, a que se juntou a rede de cuidados domiciliários, definhou por completo. \nSão redes centrais para apoiar as populações dependentes, as populações carenciadas, as populações idosas, \nas populações que precisam, sim, de um acesso aos cuidados de saúde. \nQuer exemplos, Sr. Deputado? Os que ali apresentou não são exemplos corretos. A unidade de cuidados \ncontinuados integrados, hoje, tem 90% da população abrangida na zona Centro, 1,5 milhões de habitantes, \nsegundo dados do primeiro semestre de 2019. Há 600 profissionais envolvidos, 6000 pessoas com cuidados \nem casa, onde precisam. Há mais 142 camas, 65 unidades de internamento, 66 equipas ao domicílio, com 846 \nlugares. É disto que as pessoas precisam! É isto que as pessoas estão a ter."
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem, agora, a palavra, para responder, o Sr. Deputado Ricardo \nBaptista Leite."
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 13,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, agradeço as perguntas \ncolocadas. \nComeçando por responder ao Sr. Deputado João Dias, devo dizer que, de facto, havia alguma esperança de \nque o Partido Comunista, ao fazer parte de um Governo, pudesse trazer todas as suas promessas de décadas \ne que estas se fossem, finalmente, concretizadas. Mas foi a desilusão, foi o falhanço. \nVolvidos quatro anos, promovemos um debate sobre o acesso à saúde, sobre as dificuldades que as pessoas \nestão a sentir, e o foco do Sr. Deputado é uma lei de bases que não vai resolver problema algum. Digo mais, \nSr. Deputado: se o Sr. Deputado, que eu saiba, é enfermeiro, porque é que não diz uma palavra sobre os \nenfermeiros? Porque é que não fala até de algo que lhe é caro, que são os enfermeiros de família? É que havia \n35 programas-piloto para criar enfermeiros de família e os senhores acabaram com todos! Os senhores, \njuntamente com o Partido Socialista, não permitiram que estes programas continuassem. \nSabe, Sr. Deputado, quando fala em carreiras, é muito curioso, porque, quando olhamos para a história do \nServiço Nacional de Saúde, é muito claro que foi o Partido Social Democrata que as criou e que, no último \nGoverno, com todas as dificuldades, as desbloqueou. Se hoje estamos a avançar, ainda foi graças a isso. \nRespondendo agora ao Sr. Deputado José Luís Ferreira, do Partido Ecologista «Os Verdes», dou-lhe as \nboas-vindas porque, em quatro anos, é a primeira vez que me questiona sobre saúde. Bem-vindo ao debate!."
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 13,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Falo sempre de saúde!"
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 13,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Aquilo que diz é particularmente relevante, entroncando, aliás, \nnaquilo de que a Sr.ª Deputada Elza Pais aqui falou, que são os cuidados de saúde primários. É que, de facto, \nos Srs. Deputados fazem parte de uma coligação que prometeu acabar com as dificuldades no acesso ao médico \nde família."
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É verdade! Bem lembrado!"
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 14,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Diziam que todos os portugueses iam ter acesso ao médico de \nfamília, mas hoje há 700 000 portugueses sem acesso ao médico de família. Os senhores prometeram investir \nnas unidades de saúde familiar, mas abrem menos unidades de saúde familiar do que no tempo da assistência \nfinanceira — imagine-se só! \nE os profissionais, onde andam? Hoje temos, em horas de trabalho, menos do que tínhamos em 2015! \nDeviam ter vergonha, Srs. Deputados! \nSr.ª Deputada Elza Pais, podemos falar do Centro do País, podemos falar do interior. Mas vamos falar de \nViseu. Onde está o centro oncológico? Está lá escondido no meio do mato, onde está a placa que os senhores \npuseram? É que ninguém sabe dele. \nNo que diz respeito ao apoio domiciliário, em termos de resposta, reduziram-se todos os números. \nPortanto, Sr.ª Deputada, respondendo diretamente à sua pergunta, sobre onde é que eu estava na \nLegislatura anterior, queria dizer-lhe que estava nesta bancada, a apoiar um Governo que estava a recuperar a \nsoberania, e não me esqueço onde estava a Sr.ª Deputada: num Governo que nos levou à bancarrota."
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Passamos, agora, à terceira ronda de questões, todas elas do \nGrupo Parlamentar do Partido Socialista. \nA primeira vai ser colocada pela Sr.ª Deputada Eurídice Pereira, a quem dou a palavra."
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 14,
+      "speaker": {
+        "id": 1996,
+        "name": "Eurídice Maria De Sousa Pereira",
+        "party": "PS",
+        "string": "A Sr.ª Eurídice Pereira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, Sr. Deputado Ricardo Baptista Leite, \ntanto gesto, tanta entoação! Não tememos comparações! Repito: não tememos comparações! \nOs meus dois colegas que intervieram anteriormente já tiveram oportunidade de lhe dar notas sobre o Norte \ne sobre o Centro do País. Eu vou falar-lhe da zona de Lisboa e Vale do Tejo, porque também aqui existem \nresultados positivos, uma área territorial que tem mais de 27% da população portuguesa e onde os senhores \naplicaram a receita habitual: o desinvestimento. O ponto de partida que deixaram para esta Legislatura foi muito, \nmuito confrangedor. \nGostava de dizer-lhe o seguinte: em termos de cuidados de saúde primários — estou a fazer comparações \nentre 2015 e 2018 —, há mais 270 000 utentes que passaram a ter médico de família."
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 14,
+      "speaker": {
+        "id": 1953,
+        "name": "António Lacerda Sales",
+        "party": "PS",
+        "string": "O Sr. António Sales (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 14,
+      "speaker": {
+        "id": 1996,
+        "name": "Eurídice Maria De Sousa Pereira",
+        "party": "PS",
+        "string": "A Sr.ª Eurídice Pereira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Reduziu-se para 170 000 os utentes sem médico de família, realizaram-se \nmais 200 000 consultas em 2018…"
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 14,
+      "speaker": {
+        "id": 1953,
+        "name": "António Lacerda Sales",
+        "party": "PS",
+        "string": "O Sr. António Sales (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem! Bem lembrado!"
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 14,
+      "speaker": {
+        "id": 1996,
+        "name": "Eurídice Maria De Sousa Pereira",
+        "party": "PS",
+        "string": "A Sr.ª Eurídice Pereira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e decorre quase meia centena de processos para a construção de novos \ncentros de saúde. Já pode ir a alguns deles, porque as obras estarão a ficar concluídas e algumas até já ficaram \nconcluídas. \nSe é assim nos cuidados primários, vamos falar dos cuidados hospitalares. Em 2018, obviamente em \ncomparação com 2015, verificaram-se cerca de mais 85 000 consultas. Estou a falar-lhe de Lisboa e Vale do \nTejo, a área que os senhores dizem permanentemente que não tem respostas, ou que as respostas são"
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem, agora, a palavra o Sr. Deputado Norberto Patinho, do \nGrupo Parlamentar do PS."
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 15,
+      "speaker": {
+        "id": 2113,
+        "name": "Norberto António Lopes Patinho",
+        "party": "PS",
+        "string": "O Sr. Norberto Patinho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, Sr. Deputado Ricardo Baptista Leite, \nassistimos, hoje, à continuação de um discurso negativista e alarmista, injustificável e demagógico, que pautou \na intervenção do PSD nos últimos quatro anos no meu distrito e na minha região. \nContrariamente ao que o PSD pretende transmitir às pessoas, no Alentejo e no distrito de Évora os números \ndemonstram uma realidade totalmente diferente daquela que os senhores pretendem caracterizar. Há melhores \nresultados nos cuidados de saúde primários, onde, entre 2015 e 2019, se reduziu para quase metade o número \nde utentes sem médicos de família. Apesar da grande dificuldade em fixar médicos na região, verificou-se, entre \n2015 e 2019, um aumento de 52 profissionais médicos e um aumento de 100 profissionais enfermeiros. \nNo hospital de Évora, realidade que tenho acompanhado com maior proximidade, e contrariamente ao que \npretendem fazer crer, tem sido dada uma resposta muito positiva: mais cirurgias, mais consultas, reduziram-se \nos tempos de espera. É uma realidade que, por muito que vos custe — e custa! — não pode ser contrariada. \nEstes resultados têm sido conseguidos apesar do brutal desinvestimento concretizado pelo vosso \nGoverno,… \n… quer em recursos humanos, quer nos edifícios, quer nos equipamentos. Interromperam o processo de \nconstrução do novo hospital central de Évora e retiraram-no dos vossos objetivos. Não acautelaram, no atual \nquadro comunitário, qualquer verba para a sua concretização, mas também não realizaram qualquer \ninvestimento nas instalações atuais. \nEm termos de investimento, a realidade é, hoje, bem diferente. Estão em curso, concluídas: uma segunda \nsala de hemodinâmica e a remodelação da urgência pediátrica do hospital de Évora; a clínica de alta resolução \ne a remodelação de todo o equipamento de imagiologia do hospital de Beja; a construção da nova urgência do \nHospital do Litoral Alentejano; a construção dos centros de saúde de Ourique, Vidigueira, Crato e Nisa; a \npreparação do concurso para a construção do novo hospital central do Alentejo, que deverá acontecer no \npróximo mês de julho. \nSr. Deputado, se, como tem afirmado, sempre pretenderam construir o hospital central do Alentejo, como \njustifica o facto de, no Portugal 2020, não terem incluído qualquer verba para financiar a sua construção?"
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 15,
+      "speaker": {
+        "id": 2034,
+        "name": "Joana Fernanda Ferreira Lima",
+        "party": "PS",
+        "string": "A Sr.ª Joana Lima (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pois claro! Essa é que é essa!"
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 16,
+      "speaker": {
+        "id": 2113,
+        "name": "Norberto António Lopes Patinho",
+        "party": "PS",
+        "string": "O Sr. Norberto Patinho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pergunto-lhe, Sr. Deputado: quantas vezes Deputados do PSD reuniram \nou contactaram com o conselho de administração do hospital para se inteirarem dos problemas,…"
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 16,
+      "speaker": {
+        "id": 1953,
+        "name": "António Lacerda Sales",
+        "party": "PS",
+        "string": "O Sr. António Sales (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 16,
+      "speaker": {
+        "id": 2113,
+        "name": "Norberto António Lopes Patinho",
+        "party": "PS",
+        "string": "O Sr. Norberto Patinho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… perceberem eventuais dificuldades,…"
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Zero!"
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 16,
+      "speaker": {
+        "id": 2113,
+        "name": "Norberto António Lopes Patinho",
+        "party": "PS",
+        "string": "O Sr. Norberto Patinho (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… sugerirem soluções, manifestarem descontentamento ou simplesmente \nmostrarem disponibilidade para construir soluções?"
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para formular o último pedido de esclarecimento ao Sr. \nDeputado Ricardo Baptista Leite, tem a palavra o Sr. Deputado Luís Graça, também do Partido Socialista."
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 16,
+      "speaker": {
+        "id": 2074,
+        "name": "Luís Miguel Da Graça Nunes",
+        "party": "PS",
+        "string": "O Sr. Luís Graça (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, Sr. Deputado Ricardo Baptista Leite, muitas \nvezes, há uma grande diferença entre a política do caso, a política da exploração da dor e do sentimento alheios \ne as questões relacionadas com o reconhecimento de que há ainda muito por fazer para melhorar o SNS e para \ntermos o SNS que tanto o Partido Socialista como os portugueses desejam e querem. \nLembro-me bem, já que falou de acessibilidade ao Serviço Nacional de Saúde e do Algarve, de o Presidente \nda Câmara Municipal de Loulé e o Presidente da Câmara Municipal de São Brás de Alportel estarem sentados \nà porta do serviço de urgência básica, a despachar os assuntos da câmara, porque, Sr. Deputado, não tinham \nmédico escalado. Estavam, dias, dia após dia, sem médico escalado no serviço de urgência básica! \nSabe, Sr. Deputado, apesar das muitas dificuldades que temos de enfrentar todos dias, no Algarve, e que os \nseus colegas médicos ultrapassam com uma dedicação ímpar, reorganizámos o serviço de urgência. E, apesar \nde termos hoje mais de 20 doentes urgentes por dia no CHUA (Centro Hospitalar Universitário do Algarve), o \ntempo médio de espera é menor do que o referido na triagem de Manchester. \nA produção do CHUA aumentou 10% por mês, nos primeiros cinco meses de 2019, em consultas e cirurgias \nprogramadas. Em 2019, o CHUA fez mesmo mais de 9000 consultas do que no ano anterior. Também nos \nserviços de saúde básicos a resposta melhorou. O número de médicos de família atribuídos aos algarvios \naumentou, no Barlavento, 27% e, no ACES (Agrupamento de Centros de Saúde) Central, 24%. \nÉ claro que temos muitos problemas no Algarve. Temos problemas, desde logo, porque temos uma pressão \nimensa da resposta privada, devido à existência de 10 unidades privadas no Algarve. Uma questão que lhe \ncoloco, porque tem a ver com o que, nos próximos dias, vamos discutir, é no sentido de saber se o Sr. Deputado \nconcorda…"
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Luís Graça, não leve a mal a distração da Mesa, \nmas já ultrapassou largamente o tempo de que dispunha."
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 16,
+      "speaker": {
+        "id": 2074,
+        "name": "Luís Miguel Da Graça Nunes",
+        "party": "PS",
+        "string": "O Sr. Luís Graça (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço desculpa, Sr. Presidente. \nSr. Deputado Ricardo Baptista Leite, pergunto-lhe se concorda que o setor público tem de ter uma liderança \nforte no SNS e se está disponível, então, para rever a lei que diz que o Estado deve favorecer os privados, \nporque, no Algarve, eles estão a esmagar o Serviço Nacional de Saúde. Era esta a questão que lhe queria \ncolocar sobre a região do Algarve e sobre o futuro da saúde em Portugal."
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Luís Graça, a sua bancada fez-me notar, por \ngestos, que o tempo que utilizou resultou de uma acumulação de tempos atribuídos aos Deputados do Partido \nSocialista, em vez de a contagem do tempo ter sido feita a partir do zero para cada um. Peço-lhe, pois, desculpa \npela chamada de atenção que fiz. \nPara responder, tem agora a palavra o Sr. Deputado Ricardo Baptista Leite, do Partido Social Democrata."
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 17,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Eurídice Pereira, agradeço as suas \nperguntas. De facto, é importante falar de pontos de partida, como dizia, e o ponto de partida do Governo anterior \nfoi o de pagar a vossa bancarrota. Disso, todos nos lembramos bem!"
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 17,
+      "speaker": {
+        "id": 1943,
+        "name": "Ângela Maria Pinheiro Branquinho Guerra",
+        "party": "PSD",
+        "string": "A Sr.ª Ângela Guerra (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pois é!"
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 17,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Também é preciso olharmos para os dados e, de facto, quando \nolhamos para os dados da Entidade Reguladora da Saúde (ERS), só em 2017, comparando com 2018, o número \nde queixas aumentou 20%. Portanto, Sr.ª Deputada, isto diz tudo sobre aquilo que se vive!"
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 17,
+      "speaker": {
+        "id": 1996,
+        "name": "Eurídice Maria De Sousa Pereira",
+        "party": "PS",
+        "string": "A Sr.ª Eurídice Pereira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não somos nós que temos os «cofres cheios»! Lembra-se dos «cofres \ncheios»?!"
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 17,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Porém, a Sr.ª Deputada fez pior: veio falar da Região de Lisboa e \nVale do Tejo. O encerramento rotativo das maternidades não foi suficiente para a Sr.ª Deputada?! O não terem \nconseguido fazer o hospital de Todos-os-Santos não foi suficiente, Sr.ª Deputada?! A urgência daquilo que se \nestá a viver no Garcia de Orta e no serviço de pediatria do Estefânia, que, neste momento, está em risco de \nfechar portas, não é suficiente, Sr.ª Deputada?! \nFalemos dos tempos de espera e das pessoas. Sr.ª Deputada, quando olhamos para os dados, a verdade é \nque as pessoas estão a esperar cada vez mais, particularmente em situações prioritárias e muito prioritárias. E \nnão é um tempo de espera qualquer, é para além dos tempos máximos de resposta garantidos, para além do \nclinicamente aceitável. Isto não é aceitável, Sr.ª Deputada! \n\nO Sr. Deputado Norberto Patinho, do Partido Socialista, veio falar de Évora. De facto, a primeira pergunta a \nfazer é esta: onde é que está o tão prometido novo hospital?"
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 17,
+      "speaker": {
+        "id": 2079,
+        "name": "Fernando Luís De Sousa Machado Soares Vales",
+        "party": "PSD",
+        "string": "O Sr. Luís Vales (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pois é!"
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Os senhores pararam-no!"
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 17,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não tivesse sido o calor do Alentejo, bem tinham sofrido mais os \ndoentes com a água fria do vosso hospital!"
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Ricardo Baptista Leite, dê-me licença. \nAgradecia, em particular às bancadas do Partido Social Democrata e do Partido Socialista, que criassem \ncondições para o Sr. Deputado se fazer ouvir, porque eu próprio tenho dificuldade em ouvi-lo. \nFaça favor de continuar, Sr. Deputado."
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 17,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, agradeço o interesse no debate. \nSr. Deputado Norberto Patinho, repito: se não tivesse sido o calor do Alentejo, os doentes tinham passado \nmuito mais frio no hospital de Évora, onde até a água quente faltou! A verdade é que o Sr. Deputado, quando \nveio falar do investimento em Évora, disse: «Vai haver, em junho que vem, uma nova urgência, uma nova \npediatria, imagiologia…!» Vem tudo, mas é só a seguir! Quando é que vem? Depois das eleições! Nestes quatro \nanos, não fizeram nada!"
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 18,
+      "speaker": {
+        "id": 2074,
+        "name": "Luís Miguel Da Graça Nunes",
+        "party": "PS",
+        "string": "O Sr. Luís Graça (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não faça isso! Fica-lhe tão mal!"
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 18,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado veio falar do serviço de ortopedia no Algarve. Sr. \nDeputado, com um tempo de espera de mais de 1000 dias por uma consulta e de centenas de dias por uma \ncirurgia, é inacreditável a insensibilidade social! \n\nO Sr. Deputado perguntou ainda: «O Partido Social Democrata assume que o setor público deve ser \nprimordial e deve ser o centro do Serviço Nacional de Saúde?» Eu digo-lhe que sim, Sr. Deputado! O que eu \nesperava do Partido Socialista, que está sempre a bater com a mão no peito, era que tivesse construído o novo \nhospital do Algarve, porque andam a prometê-lo, Governo após Governo, e nunca o fizeram."
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as e Srs. Deputados, passamos à fase das intervenções. \nAntes de dar a palavra, para o efeito, ao Sr. Deputado António Sales, do Grupo Parlamentar do Partido \nSocialista, pedia aos grupos parlamentares que procedessem às respetivas inscrições, porque a única inscrição \nque a Mesa regista é precisamente a do Sr. Deputado António Sales. \nTem a palavra, Sr. Deputado António Sales."
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 18,
+      "speaker": {
+        "id": 1953,
+        "name": "António Lacerda Sales",
+        "party": "PS",
+        "string": "O Sr. António Sales (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Se existe tema de que o PSD pode falar \ncom propriedade é, sem dúvida, o das dificuldades de acesso dos portugueses à saúde."
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 18,
+      "speaker": {
+        "id": 1145,
+        "name": "Adão José Fonseca Silva",
+        "party": "PSD",
+        "string": "O Sr. Adão Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 18,
+      "speaker": {
+        "id": 1953,
+        "name": "António Lacerda Sales",
+        "party": "PS",
+        "string": "O Sr. António Sales (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O PSD sabe bem como deixou o País, nesta matéria, em 2015. Não temos \nprazer em relembrar esses tempos de má memória, mas aceitamos, naturalmente, o repto que nos fazem com \nresponsabilidade. \nO acesso é a função da procura, da produção assistencial, dos recursos disponíveis e do financiamento em \ntodos os setores. Falemos, então, de acesso ao SNS. \nCuidados primários: em 2015, havia 1 milhão e 300 mil portugueses sem médico de família, ou seja, 13% \ndos portugueses sem acesso a médico de família; em 2018, tínhamos 96% de taxa de cobertura, 31 milhões de \nconsultas realizadas nos cuidados primários, pagamento de transporte a doentes não urgentes, programas de \nsaúde oral e rastreio visual, aumento de consultas não urgentes em 1,5% em relação a 2015. \nCuidados hospitalares: em 2018, tínhamos mais 600 000 consultas e 30 000 cirurgias do que em 2015, uma \ntaxa de ambulatório de mais 8% do que em 2015, tempos máximos de resposta para cirurgia respeitados em \nrelação a 76% dos doentes e um aumento de 3,5% nas primeiras consultas hospitalares. \nCuidados continuados: mais 1500 lugares do que em 2015, criação de lugares de cuidados continuados em \nsaúde mental para adultos, crianças e jovens, evolução favorável do número de acordos e camas contratadas \nna Rede Nacional de Cuidados Continuados Integrados. \nSr.as e Srs. Deputados, mais com mais não dá menos, dá mais! Dá mais acesso, porque mais procura \nsignifica, hoje, mais produção assistencial, mais recursos disponíveis e mais financiamento. \nSr.as e Srs. Deputados, equidade no acesso é o princípio que norteia as funções distributivas do Estado, \ntendo como objetivo compensar e superar as desigualdades individuais consideradas socialmente injustas e \nevitáveis. \nPor isso, esta iniciativa do PSD é um embuste, uma tentativa de isolar situações, tentando fomentar um \nafastamento da realidade, evitando um retrato e uma análise globais, em favor de excertos cirurgicamente \nescolhidos, de forma a produzir resultados eleitorais. Estéril demagogia e eleitoralismo prosaico!"
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 19,
+      "speaker": {
+        "id": 1550,
+        "name": "António José Santinho Pacheco",
+        "party": "PS",
+        "string": "O Sr. Santinho Pacheco (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 19,
+      "speaker": {
+        "id": 1953,
+        "name": "António Lacerda Sales",
+        "party": "PS",
+        "string": "O Sr. António Sales (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Com a aproximação da data das eleições, o frenesim demagógico do PSD \naumenta todos os dias e multiplicam-se os atos políticos com que procura manter-se na crista da onda mediática. \nO que pretende, portanto, o PSD, com o debate potestativo de hoje? Por um lado, fazem críticas avulsas, \nsem estratégia, sem soluções, sem propostas, sem ideias — nada de novo! —, e, por outro, de forma bizarra, \nprocuram mimetizar iniciativas e ideias do Partido Socialista. \nParece-me até, Srs. Deputados, que o PSD, como sempre, a olhar para o copo meio vazio, já não esconde \na colagem disfarçada que pretende fazer às boas medidas e às prioridades anunciadas pelo Partido Socialista \ne pelo Sr. Primeiro-Ministro relativamente à área da saúde, a manter em futuras legislaturas. \nSr.as e Srs. Deputados, com o esforço e a consciência das melhorias efetuadas, olhamos para o futuro com \nvontade de fazer muito mais: mais e melhor qualidade nos serviços públicos prestados; mais e maior motivação \ndos profissionais; mais e maior satisfação dos utentes; reforço em áreas como a saúde mental; prioridade à \nhospitalização domiciliária; promoção da saúde e prevenção da doença; políticas de envelhecimento; políticas \nde integração dos diferentes níveis de cuidados de saúde; investimento em áreas como a telemedicina e em \nnovas tecnologias; carreiras atrativas para profissionais e investimento na formação; acesso oportuno aos \ndoentes, com tempos de resposta clinicamente responsáveis e socialmente aceitáveis para consultas, exames \ne cirurgias. \nSrs. Deputados, temos pela frente, entre outros, dois grandes desafios: demografia e desigualdades. É \nfocados nestas prioridades que teremos de obter os amplos e necessários consensos parlamentares. Se não o \nfizermos, perderemos uma oportunidade e os portugueses nunca nos perdoarão. \nÉ aqui que, finalmente, encontramos um propósito para este debate. Estão disponíveis, Srs. Deputados, para \npôr a partidarite de lado, esquecer as eleições e ajudar a melhorar o acesso dos portugueses à saúde? Digam, \nsem rodeios! \nEstão disponíveis para reforçar o SNS? Têm aqui a vossa oportunidade! Estão disponíveis para aprovar uma \nlei de bases que, todos reconhecemos, é melhor do que a que está em vigor? Assumam a vossa \nresponsabilidade!"
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado António Sales, a Mesa regista as inscrições de \nquatro Srs. Deputados para pedir esclarecimentos e foi informada de que pretende responder em conjunto. \nTem a palavra, em primeiro lugar, o Sr. Deputado Moisés Ferreira, do Bloco de Esquerda."
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 19,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, Sr. Deputado António Sales: «O País \nsabe bem como o PSD deixou o Serviço Nacional de Saúde em 2015.» Esta foi uma frase proferida, há pouco, \nda tribuna, pelo Sr. Deputado António Sales. \nÉ verdade, sabemos bem que o Orçamento diminuiu 1000 milhões de euros passados quatro anos, que o \nnúmero de profissionais diminuiu em 4400 passados cinco anos,… \n… e também sabemos o porquê de toda esta destruição causada pelo PSD. Sabemos como é que o PSD \ndeixou o SNS em 2015 e sabemos as motivações por trás disso."
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 20,
+      "speaker": {
+        "id": 2134,
+        "name": "Pedro Filipe Gomes Soares",
+        "party": "BE",
+        "string": "O Sr. Pedro Filipe Soares (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É bem verdade!"
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 20,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e para salvar o negócio dos privados que vivem à custa do orçamento do \nServiço Nacional de Saúde? \nÉ que, muito sincera e muito honestamente, esta parte final da intervenção do Sr. Deputado António Sales \nfez do PS assim um pouco a carochinha, que está à janela a perguntar «Quem quer casar com a carochinha?» \ne lança, assim, o seu tapete ao PSD,…"
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 20,
+      "speaker": {
+        "id": 1953,
+        "name": "António Lacerda Sales",
+        "party": "PS",
+        "string": "O Sr. António Sales (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é só ao PSD!"
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 20,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… perguntando diretamente se o PSD está disponível a casar com a \ncarochinha, que é o Partido Socialista. \nO PS já teve oportunidade de fazer uma lei de bases à esquerda, na verdade. Estávamos disponíveis para \no fazer, tínhamos feito um caminho, havia um acordo, depois deixou de haver acordo porque o PS não o quis \ncumprir, mas, portanto, essa possibilidade existiu e foi concreta. \nNeste momento, o Partido Socialista, por causa de uma questão que tem que ver com as parcerias público-\nprivadas, com o Grupo Mello, com a Luz Saúde e quem está por detrás das parcerias público-privadas, decidiu \nvoltar à sua janela e fazer-se novamente carochinha, lançando agora a cantiga apenas ao PSD."
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 20,
+      "speaker": {
+        "id": 1145,
+        "name": "Adão José Fonseca Silva",
+        "party": "PSD",
+        "string": "O Sr. Adão Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nós não somos o João Ratão!"
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 20,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, o que queremos saber é o porquê desta alteração de postura do \nPartido Socialista, o porquê de agora tentar lançar um namoro ao PSD para salvar parcerias público-privadas, \no porquê de, em final de Legislatura, escolher, ou tentar escolher, o Partido Social Democrata, sabendo, como \no Sr. Deputado disse e toda a gente sabe, como o PSD deixou o Serviço Nacional de Saúde. Ora, sabendo que \nnão é recomendável que se volte a esses tempos, mesmo assim, o Partido Socialista, neste momento, parece \nestar disposto a avançar nesse namoro com o Partido Social Democrata. A questão é porquê e o que estão, \nneste momento, a negociar com o Partido Social Democrata."
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada \nÂngela Guerra, do PSD."
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 20,
+      "speaker": {
+        "id": 1943,
+        "name": "Ângela Maria Pinheiro Branquinho Guerra",
+        "party": "PSD",
+        "string": "A Sr.ª Ângela Guerra (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, Sr. Deputado António Sales, falou \nde instantâneos. Pois eu vou dar-lhe alguns instantâneos para lhe reavivar a memória. \nFaltam 150 obstetras de Norte a Sul do País, as urgências em Santa Maria têm escalas incompletas em 17 \ndias do mês de agosto, e, ao que parece, amanhã vão reunir-se vários conselhos de administração hospitalar \nporque parece que o caos está instalado em Lisboa."
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 21,
+      "speaker": {
+        "id": 1996,
+        "name": "Eurídice Maria De Sousa Pereira",
+        "party": "PS",
+        "string": "A Sr.ª Eurídice Pereira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está a falar do vosso passado?!"
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 21,
+      "speaker": {
+        "id": 1943,
+        "name": "Ângela Maria Pinheiro Branquinho Guerra",
+        "party": "PSD",
+        "string": "A Sr.ª Ângela Guerra (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É a palavra de ordem, certamente inspirada ali nos vossos companheiros \ndo Partido Comunista!"
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 21,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 21,
+      "speaker": {
+        "id": 1943,
+        "name": "Ângela Maria Pinheiro Branquinho Guerra",
+        "party": "PSD",
+        "string": "A Sr.ª Ângela Guerra (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Face a tudo isto, que se vive quotidianamente, não se estranha, pois, que o \nSr. Primeiro-Ministro e o Dr. Mário Centeno andem de mãos dadas pelo País, de terra em terra, a prometer tudo \na todos, prometendo mais profissionais, mais direitos laborais, mais hospitais e deixando toda a gente à sua \nsorte, completamente ao abandono, e as pessoas a morrerem à espera de cirurgias. \nSr. Deputado, V. Ex.ª poderá responder-me que esta Câmara, hoje, não traz nada de novo ao debate. \nInfelizmente, digo eu, Sr. Deputado! É a desgraça absoluta a que este Governo deixou chegar o SNS e o acesso \ndos cidadãos a consultas e a cirurgias — infelizmente, é exemplo disso a ULS (Unidade Local de Saúde) do \nmeu distrito —, é a desorganização, é a desordem absoluta que se vive na ULS da Guarda por estes dias."
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 21,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É claro! Da Guarda!"
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 21,
+      "speaker": {
+        "id": 1943,
+        "name": "Ângela Maria Pinheiro Branquinho Guerra",
+        "party": "PSD",
+        "string": "A Sr.ª Ângela Guerra (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "As notícias, infelizmente, falam por nós, refletem que há escassez de \nmédicos e agora falta também material. E chegamos ao ponto de prepararem doente oncológicos para as \ncirurgias sem previamente verificarem se o respetivo material cirúrgico lá está, se está disponível e se é o \nnecessário para aquele doente. \nPortanto, ali, Sr. Deputado, falta tudo: faltam ortopedistas, e por isso há cinco bombeiros da corporação de \nCelorico da Beira, que vinham de um incêndio na A25, que têm um acidente e têm de ser evacuados para \nTondela/Viseu; faltam macas a estes bombeiros, que se queixam junto da Liga que ficam 4, 5, 6 horas à espera \nque a ULS lhes liberte as macas porque não têm camas disponíveis para colocar os doentes; faltam também \nmédicos — cardiologistas, otorrinos, oftalmologistas —, médicos estes que apenas fazem urgências uma vez \npor mês e, por isso, percebemos perfeitamente como é que há pessoas que esperam quatro anos pela primeira \nconsulta. \nPor tudo isto, eu diria que há um corrupio absoluto no distrito da Guarda, com transporte de doentes que \nsucessiva e consecutivamente têm de deslocar para Coimbra e para Viseu para receber os seus tratamentos, \ntransportes estes, veja-se lá, que a Sr.ª Ministra da Saúde não paga… \n… e vem o Sr. Primeiro-Ministro aqui dizer que está tudo pago! Srs. Deputados, já lhes disse, e volto a dizer, \nque são 35 milhões que estão em dívida, e só para as corporações do distrito da Guarda a dívida é de 1,5 \nmilhões. \nPortanto, face a tudo isto, Sr. Deputado, a única coisa que me ocorre perguntar-lhe é se, depois de quatro \nanos de Governo, de quatro Orçamentos aprovados pelos senhores e por aqueles senhores que ali se sentam \nà esquerda, o senhor não sente uma profunda vergonha das declarações clamorosas que o Sr. Ministro Mário \nCenteno produziu por estes dias, tecendo maravilhas sobre o estado atual do SNS? Eu teria, Sr. Deputado, \nmuita vergonha."
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem agora a palavra a Sr.ª Deputada Ana Rita Bessa, do \nGrupo Parlamentar do CDS-PP, também para pedir esclarecimentos."
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 22,
+      "speaker": {
+        "id": 1937,
+        "name": "Ana Rita Barreira Duarte Bessa",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Ana Rita Bessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, Sr. Deputado António Sales, \nouvi com atenção aquilo que disse, tendo colocado o debate no acesso ao SNS. Gostava só de trazer o debate \npara os dias de hoje, em vez de discutirmos o que aconteceu há quatro anos, porque me parece mais pertinente. \nE sobre isso…"
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 22,
+      "speaker": {
+        "id": 2134,
+        "name": "Pedro Filipe Gomes Soares",
+        "party": "BE",
+        "string": "O Sr. Pedro Filipe Soares (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pois, pois! É a vossa falta de memória!"
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 22,
+      "speaker": {
+        "id": 1937,
+        "name": "Ana Rita Barreira Duarte Bessa",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Ana Rita Bessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pois, eu sei que os senhores não gostam, mas, infelizmente, é hoje \nque vivemos. \nSegundo dados da Autoridade Central do Sistema de Saúde (ACSS), em 2018 foram realizadas à volta de \n670 000 cirurgias programadas no SNS, menos 3500 do que em 2017, mas isso é justificado, em parte, pela \ngreve cirúrgica e, portanto, não será por aí a questão. Só que, ao mesmo tempo e factualmente, o SNS não está \na responder a toda a procura que lhe é dirigida porque as cirurgias realizadas através do SIGIC (Sistema \nIntegrado de Gestão de Inscritos para Cirurgia), ou seja, as que são referenciadas para os hospitais privados \nconvencionados, têm vindo também a aumentar. Em janeiro de 2016 o número era de 125 000 doentes inscritos \nno SIGIC, número que tem vindo a aumentar todos os meses, e, em janeiro de 2019, está em 241 000 doentes \ninscritos. E por que é que isto acontece? Acontece porque as listas de espera no SNS estão a aumentar…"
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 22,
+      "speaker": {
+        "id": 2027,
+        "name": "Isabel Maria Mousinho De Almeida Galriça Neto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Isabel Galriça Neto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vejam lá! Sem acesso!"
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 22,
+      "speaker": {
+        "id": 1937,
+        "name": "Ana Rita Barreira Duarte Bessa",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Ana Rita Bessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e estão a aumentar porque os tempos máximos de resposta não são \ncumpridos."
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 22,
+      "speaker": {
+        "id": 2027,
+        "name": "Isabel Maria Mousinho De Almeida Galriça Neto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Isabel Galriça Neto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso!"
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 22,
+      "speaker": {
+        "id": 1937,
+        "name": "Ana Rita Barreira Duarte Bessa",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Ana Rita Bessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "17% dos doentes estavam à espera de uma cirurgia há mais de 270 \ndias, Sr. Deputado, coisa que, em termos de avaliação da capacidade de resposta do SNS me parece \nfrancamente irrazoável. Portanto, a única forma de dar cumprimento àquilo que é um direito constitucional \ngarantido pelo SNS é, de facto, recorrer aos privados convencionados. \nE estaria tudo muito bem não fosse o facto de haver o problema tão bem descrito pelo Sr. Ministro das \nFinanças ontem: é que retiraram as cativações no orçamento da Saúde, mas preencheram de cativações todo \no sistema ao longo de todo o processo."
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 22,
+      "speaker": {
+        "id": 2027,
+        "name": "Isabel Maria Mousinho De Almeida Galriça Neto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Isabel Galriça Neto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Que esperteza!"
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 22,
+      "speaker": {
+        "id": 1937,
+        "name": "Ana Rita Barreira Duarte Bessa",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Ana Rita Bessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, neste momento, o SNS não está a pagar aos hospitais \nconvencionados estas cirurgias do SIGIC. E o que acontece? Acontece que, com atrasos de pagamento de mais \nde dois anos, há muitos médicos que dizem já não estar em condições de continuar a realizar as cirurgias e, \nportanto, no final da linha quem fica prejudicado são os cidadãos, que nem no SNS nem através do SIGIC \nconseguem ver as suas situações resolvidas. \nSr. Deputado, pergunto-lhe se lhe parece que esta é uma boa solução em termos de acesso. Parece-lhe que \nfechar os cordões à bolsa é a melhor solução? Ainda por cima com o excedente orçamental tão significativo, é \nassim que devem fazer? É preconceito ideológico ou é simplesmente incapacidade de gerir um sistema que \nestá montado há muitos anos em proveito dos utilizadores? \nJá agora — e porque não posso deixar de fazer esta nota, Sr. Deputado —, gostava de lhe falar de taxas \nmoderadoras, que parece ser um tema estranhamente omisso neste debate, não se percebe porquê."
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 23,
+      "speaker": {
+        "id": 1943,
+        "name": "Ângela Maria Pinheiro Branquinho Guerra",
+        "party": "PSD",
+        "string": "A Sr.ª Ângela Guerra (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vá-se lá saber porquê?!"
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 23,
+      "speaker": {
+        "id": 1937,
+        "name": "Ana Rita Barreira Duarte Bessa",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Ana Rita Bessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, eu devia ter jogado na lotaria no dia em que tivemos aqui \no debate, em 14 de junho,…"
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 23,
+      "speaker": {
+        "id": 1937,
+        "name": "Ana Rita Barreira Duarte Bessa",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Ana Rita Bessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… porque, na altura, aquilo que eu disse foi que o que se previa era \nque, quando o processo chegasse à especialidade, ia haver, de certeza, um volte-face. \nAliás, perguntei à Sr.ª Deputada Jamila Madeira como é que essa convergência tão repentina entre PS e \nBloco como ia resultar na especialidade, e veja lá que, apesar de a Sr.ª Deputada Antónia Almeida Santos ter \ndito que votavam favoravelmente, que estava tudo muito bem, que a única coisa que, eventualmente, havia para \nafinar era a data de entrada em vigor em 2020, dias depois soubemos que, afinal, há um tema de faseamento \nque nós, telepaticamente, devíamos ter percebido porque estava implícito no discurso do PS, e nós, claro, meros \nmortais,…"
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 23,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não somos Centeno!"
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 23,
+      "speaker": {
+        "id": 1937,
+        "name": "Ana Rita Barreira Duarte Bessa",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Ana Rita Bessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… não conseguimos alcançar essa leitura. De resto, até tem graça, \nporque o faseamento que os senhores propõem já está até incluído nas isenções. Dizem que os doentes \nreferenciados através da Linha Saúde 24 não vão ter de pagar. Já está, já está! Mas não faz mal, Sr. Deputado, \npensarão em qualquer coisa a tempo da especialidade, em qualquer coisa nova que, entretanto, vai aparecer. \nA minha pergunta é, simplesmente, esta: sobre taxas moderadora, qual é a convicção do PS? Afinal, não \nquerem acabar com as taxas moderadoras e eu não percebo se é porque, finalmente, entenderam para o que \nelas servem, que é para moderar a procura e evitar congestionamentos adicionais do sistema,…"
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 23,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nada mais falso!"
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 23,
+      "speaker": {
+        "id": 1937,
+        "name": "Ana Rita Barreira Duarte Bessa",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Ana Rita Bessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… ou se terão sido os 160 milhões de euros que falaram mais alto e o \nSr. Ministro das Finanças que, afinal, pôs juízo na bancada do PS e lhes disse: «Meus senhores, é melhor \ninventarem uma boa desculpa na especialidade, porque não pode ser»."
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "A última pergunta ao Sr. Deputado António Sales é do PCP, \natravés da Sr.ª Deputada Paula Santos. \nFaz favor, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 23,
+      "speaker": {
+        "id": 2123,
+        "name": "Paula Alexandra Sobral Guerreiro Santos Barbosa",
+        "party": "PCP",
+        "string": "A Sr.ª Paula Santos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, Sr. Deputado António Sales, antes de \nlhe dirigir a pergunta, não posso deixar de fazer uma referência neste debate porque, estando nós em final de \nLegislatura, aquilo que verificamos é que o PSD e o CDS, pura e simplesmente, passaram uma borracha de \n2015 para trás… \n… e puseram o conta quilómetros a zero no ano de 2016, como se tudo aquilo que aconteceu a partir desse \nano não resultasse daquilo que aconteceu anteriormente. \nPercebemos perfeitamente que querem esconder todas as vossas responsabilidades na situação em que se \nencontra o Serviço Nacional de Saúde mas nós não vamos deixar porque os senhores foram responsáveis, de \nfacto, por uma degradação brutal a que chegou o Serviço Nacional de Saúde, responsabilidades que também \nnão tiramos ao Partido Socialista,…"
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Então, porque é que votou os Orçamentos?"
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 24,
+      "speaker": {
+        "id": 2123,
+        "name": "Paula Alexandra Sobral Guerreiro Santos Barbosa",
+        "party": "PCP",
+        "string": "A Sr.ª Paula Santos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… porque é verdade que o Governo do Partido Socialista não tomou as \nmedidas que deveria ter tomado para reforçar, efetivamente, a capacidade de resposta ao nível do Serviço \nNacional de Saúde. \nA pergunta que queria deixar, desde já, ao Sr. Deputado António Sales é a seguinte: o que impede o Partido \nSocialista e o Governo de tomarem as medidas para dar a resposta, agora, às necessidades dos utentes? O \nque impede o Partido Socialista de promover a contratação dos profissionais de saúde em falta para que se \npossa reforçar o Serviço Nacional de Saúde?"
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 24,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ora bem!"
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 24,
+      "speaker": {
+        "id": 2123,
+        "name": "Paula Alexandra Sobral Guerreiro Santos Barbosa",
+        "party": "PCP",
+        "string": "A Sr.ª Paula Santos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os últimos dados da execução orçamental ou os dados que conhecemos \nagora do primeiro trimestre demonstram não só que existem condições, demonstram que há mais do que \ncondições para investir e reforçar o Serviço Nacional de Saúde."
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 24,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 24,
+      "speaker": {
+        "id": 2123,
+        "name": "Paula Alexandra Sobral Guerreiro Santos Barbosa",
+        "party": "PCP",
+        "string": "A Sr.ª Paula Santos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E qual é a opção do Partido Socialista? Esta é a questão. Querem, de facto, \ndar uma resposta eficaz ao Serviço Nacional de Saúde, inclusivamente concretizando as recomendações que \nforam aprovadas nesta Assembleia da República, por proposta do PCP, no plano de emergência para o Serviço \nNacional de Saúde, no que diz respeito à contratação de profissionais, ao investimento em centros de saúde e \nnos hospitais, seja para equipamentos, seja ao nível das suas infraestruturas, no que diz respeito à redução da \nlista de utentes por médico de família, ao reforço dos cuidados paliativos e dos cuidados continuados, ou \npreferem optar por continuar subjugados à ditadura do défice e aos critérios da União Europeia… \n… no que diz respeito às questões orçamentais? \nEsta é a questão de fundo que estamos aqui a colocar relativamente a este debate…"
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 24,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 24,
+      "speaker": {
+        "id": 2123,
+        "name": "Paula Alexandra Sobral Guerreiro Santos Barbosa",
+        "party": "PCP",
+        "string": "A Sr.ª Paula Santos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e não há nada neste Orçamento do Estado, como nos anteriores, que \nimpeça o Partido Socialista e o Governo de tomarem todas estas medidas. Por que não o fazem? Se não o \nfazem, só podemos considerar que é por opção política de não querer, de facto, reforçar o Serviço Nacional de \nSaúde e para contribuir também para o negócio dos privados. \nJá agora, Sr. Deputado, queria também focar os seguintes aspetos: neste Orçamento do Estado foram \naprovadas várias propostas que ainda não foram concretizadas e têm de o ser, tais como a inclusão das vacinas \nno Plano Nacional de Vacinação, questões relacionadas com a saúde mental e questões relacionadas com as \ncontratações profissionais. Estão lá normas que têm de ser concretizadas."
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para responder, o Sr. Deputado António Sales."
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 24,
+      "speaker": {
+        "id": 1953,
+        "name": "António Lacerda Sales",
+        "party": "PS",
+        "string": "O Sr. António Sales (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, agradeço aos Srs. Deputados Moisés Ferreira, Ângela Guerra, \nAna Rita Bessa e Paula Santos as questões que me colocaram. \nPermitam-me que, para dar um aspeto conjuntural das respostas, comece por responder ao Sr. Deputado \nMoisés Ferreira e Paula Santos, em conjunto."
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 25,
+      "speaker": {
+        "id": 1937,
+        "name": "Ana Rita Barreira Duarte Bessa",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Ana Rita Bessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ah! Não é?!"
+    },
+    {
+      "utterance_id": 166,
+      "order": 166,
+      "page_start": 25,
+      "speaker": {
+        "id": 1953,
+        "name": "António Lacerda Sales",
+        "party": "PS",
+        "string": "O Sr. António Sales (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso, temos de dar passos seguros e consistentes de maneira a não fazer \nretrocessos nestes diferentes aspetos do acesso. \nAssim, se me permite, nesta minha resposta inclua esta ideia de gradualismo e de progressividade e de não \ntermos a veleidade de querer que a nossa agenda política — e quando digo nossa digo dos diferentes partidos \n— se sobreponha a esta realidade. Portanto, precisamos de duas coisas: de realismo e de compromisso, e de \nirmos para além, no momento próprio, no atual momento, com honestidade política. \nSr.ª Deputada Ângela Guerra, não tenho vergonha nenhuma daquilo que o Sr. Ministro Mário Centeno disse; \neu tenho vergonha é de como o PSD deixou o Serviço Nacional de Saúde em 2015. Disso é que tenho vergonha, \nSr.ª Deputada! \n\nA Sr.ª Deputada deu grande ênfase à questão das maternidades, mas vou relembrá-la que, no dia 10 de abril \nde 2012, podia ler-se o seguinte na comunicação social: «Passos Coelho justifica encerramento da Maternidade \nAlfredo da Costa com melhor aproveitamento de pessoal». E Paulo Macedo até afirmava que o encerramento \nda Maternidade aconteceria durante a Legislatura."
+    },
+    {
+      "utterance_id": 167,
+      "order": 167,
+      "page_start": 25,
+      "speaker": {
+        "id": 1943,
+        "name": "Ângela Maria Pinheiro Branquinho Guerra",
+        "party": "PSD",
+        "string": "A Sr.ª Ângela Guerra (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E?"
+    },
+    {
+      "utterance_id": 168,
+      "order": 168,
+      "page_start": 25,
+      "speaker": {
+        "id": 1953,
+        "name": "António Lacerda Sales",
+        "party": "PS",
+        "string": "O Sr. António Sales (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Deputada, qual é a coerência agora? Na altura, os Srs. Deputados do PSD \nconcordavam, agora já não concordam."
+    },
+    {
+      "utterance_id": 169,
+      "order": 169,
+      "page_start": 25,
+      "speaker": {
+        "id": 1943,
+        "name": "Ângela Maria Pinheiro Branquinho Guerra",
+        "party": "PSD",
+        "string": "A Sr.ª Ângela Guerra (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não encerrou pois não?"
+    },
+    {
+      "utterance_id": 170,
+      "order": 170,
+      "page_start": 25,
+      "speaker": {
+        "id": 1953,
+        "name": "António Lacerda Sales",
+        "party": "PS",
+        "string": "O Sr. António Sales (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Será porque, na altura, o encerramento era definitivo e agora é transitório? \nMas, Sr.ª Deputada, já que estamos a falar em encerramentos, quero ainda dizer que os Srs. Deputados \nestavam tão determinados em fazer encerramentos que decidiram dar a machadada fatal e final no acesso dos \nportugueses ao Serviço Nacional de Saúde e encerrar 11 serviços de urgência a nível nacional. \nQue o digam as populações de Póvoa de Varzim, Chaves, Mirandela, Barcelos, Coruche, Montijo e tantos \noutros, os senhores estavam mesmo determinados a acabar com o Serviço Nacional de Saúde."
+    },
+    {
+      "utterance_id": 171,
+      "order": 171,
+      "page_start": 25,
+      "speaker": {
+        "id": 1943,
+        "name": "Ângela Maria Pinheiro Branquinho Guerra",
+        "party": "PSD",
+        "string": "A Sr.ª Ângela Guerra (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E quantos abriram? Diga lá!"
+    },
+    {
+      "utterance_id": 172,
+      "order": 172,
+      "page_start": 25,
+      "speaker": {
+        "id": 1953,
+        "name": "António Lacerda Sales",
+        "party": "PS",
+        "string": "O Sr. António Sales (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Espere, Sr.ª Deputada, espere! \nMas, Sr.ª Deputada, tinha de haver uma explicação para isto tudo e a explicação fomos encontrá-la na OCDE, \nque dizia que Portugal cortou na saúde o dobro daquilo que os senhores tinham negociado com a troica. Estava"
+    },
+    {
+      "utterance_id": 173,
+      "order": 173,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, uma vez que a Mesa não regista inscrições, \npergunto ao Partido Social Democrata se está em condições de encerrar o debate."
+    },
+    {
+      "utterance_id": 174,
+      "order": 174,
+      "page_start": 26,
+      "speaker": {
+        "id": 1145,
+        "name": "Adão José Fonseca Silva",
+        "party": "PSD",
+        "string": "O Sr. Adão Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estamos em condições, estamos, Sr. Presidente."
+    },
+    {
+      "utterance_id": 175,
+      "order": 175,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem."
+    },
+    {
+      "utterance_id": 176,
+      "order": 176,
+      "page_start": 26,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra, para uma intervenção."
+    },
+    {
+      "utterance_id": 177,
+      "order": 177,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Há ameaças que produzem imediatamente consequências. \nPara uma intervenção, tem a palavra o Sr. Deputado Moisés Ferreira, do Bloco de Esquerda."
+    },
+    {
+      "utterance_id": 178,
+      "order": 178,
+      "page_start": 26,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O acesso à saúde deve ser célere e \nnão deve haver dúvidas sobre isto. Tempos de espera de vários meses para consultas ou cirurgias não devem \nexistir no Serviço Nacional de Saúde e também não deveriam existir dúvidas sobre isto. \nEsta máxima vale para o Portugal de 2013, 2014, 2015, como vale para o Portugal de 2018, 2019, 2020 e \ndaí em diante. \nPor isso, não esquecemos — mas o PSD e o CDS-PP querem sempre esquecê-lo — que, em 2014, também \nse registavam tempos de espera de mais de dois anos, 658 dias, para uma consulta, por exemplo, de \nhematologia em Aveiro, inclusivamente para doentes com cancros no sangue. Eram mais de dois anos à espera, \nem 2014. \nSabemos que, nestes debates, o PSD e o CDS-PP querem passar uma borracha sobre o passado, dizem \nque o passado não interessa nada, como se ele não condicionasse o presente e o futuro, mas esta é também a \nrealidade. Na experiência do Governo do PSD e do CDS-PP, doentes com cancro estavam dois anos à espera \nde uma consulta, como havia, também, utentes que esperavam mais de sete meses para a marcação de uma \nconsulta com o médico de família em Vila Franca de Xira, porque havia 1,5 milhão de utentes sem médico de \nfamília. Interessa não esquecer isto, como interessa também não esquecer que, em 2014, o tempo médio para \numa consulta de oftalmologia, por exemplo, em Lamego, num ano, aumentou 500%. \nE como reagiam o PSD e o CDS-PP, com o seu Governo, a tudo isto? Reagiam cortando no orçamento e \nem profissionais, como se isto fizesse algum sentido. \nNós aqui, na bancada do Bloco de Esquerda, não esquecemos este passado, não esquecemos o passado \ndo PSD e do CDS-PP, não esquecemos o que fizeram e o que não fizeram, sempre para destruir o Serviço \nNacional de Saúde. \nSr. Presidente, Sr.as e Srs. Deputados, também não ignoramos que, no presente, há muito para fazer no \nServiço Nacional de Saúde. Não passamos borrachas nem sobre o passado nem sobre o presente,…"
+    },
+    {
+      "utterance_id": 179,
+      "order": 179,
+      "page_start": 26,
+      "speaker": {
+        "id": 1943,
+        "name": "Ângela Maria Pinheiro Branquinho Guerra",
+        "party": "PSD",
+        "string": "A Sr.ª Ângela Guerra (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ai passam, passam!"
+    },
+    {
+      "utterance_id": 180,
+      "order": 180,
+      "page_start": 26,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… pelo que não esquecemos aquilo que outros partidos fizeram, como não \nesquecemos o que se passa no presente."
+    },
+    {
+      "utterance_id": 181,
+      "order": 181,
+      "page_start": 27,
+      "speaker": {
+        "id": 1943,
+        "name": "Ângela Maria Pinheiro Branquinho Guerra",
+        "party": "PSD",
+        "string": "A Sr.ª Ângela Guerra (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso é para bater palmas?!"
+    },
+    {
+      "utterance_id": 182,
+      "order": 182,
+      "page_start": 27,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Foi por isso, também, que o Bloco de Esquerda deu o seu voto para \nOrçamentos do Estado que aumentaram substancialmente o orçamento do Serviço Nacional de Saúde."
+    },
+    {
+      "utterance_id": 183,
+      "order": 183,
+      "page_start": 27,
+      "speaker": {
+        "id": 1943,
+        "name": "Ângela Maria Pinheiro Branquinho Guerra",
+        "party": "PSD",
+        "string": "A Sr.ª Ângela Guerra (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E executaram o quê?"
+    },
+    {
+      "utterance_id": 184,
+      "order": 184,
+      "page_start": 27,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "PSD e CDS-PP cortaram 1000 milhões de euros em quatro anos de \nOrçamentos, mas, com o voto do Bloco de Esquerda, aumentou-se em 1300 milhões de euros o orçamento do \nServiço Nacional de Saúde."
+    },
+    {
+      "utterance_id": 185,
+      "order": 185,
+      "page_start": 27,
+      "speaker": {
+        "id": 2134,
+        "name": "Pedro Filipe Gomes Soares",
+        "party": "BE",
+        "string": "O Sr. Pedro Filipe Soares (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 186,
+      "order": 186,
+      "page_start": 27,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estivemos sempre disponíveis para um melhor Serviço Nacional de Saúde; \no Partido Socialista é que, em final de Legislatura, parece querer abandonar esta maioria para constituir uma \noutra maioria com quem andou a cortar no Serviço Nacional de Saúde, como já aqui vimos e como tem sido \npúblico nos últimos tempos. E tudo para quê? Tudo para manter parcerias público-privadas. Apenas isto, nada \nsobre os utentes, nada sobre o Serviço Nacional de Saúde, nada sobre clarificação entre público e privado, nada \npara reforçar o SNS, tudo para as parcerias público-privadas e, porventura, mais importante do que isso, por \nquem está por trás dessas parcerias público-privadas. Conhecemos os nomes, conhecemos as caras, Grupo \nMello, Lusíadas, Luz Saúde e tantos outros. Tudo em torno das parcerias público-privadas, tudo para os grupos \neconómicos. \nAliás, em final de Legislatura, ouvimos também um discurso, que ainda há pouquinho foi repetido pelo Sr. \nDeputado António Sales, que faz lembrar muito, paradoxal e curiosamente, um certo discurso do diabo: «Não \npodemos dar tudo a todos, não pode haver agora isenção de taxas moderadoras, não podemos agora investir \ntudo na saúde, não podemos fazer agora tudo pelos serviços públicos», porque, se não, há de vir aí outra coisa \nqualquer que há de ser muito pior do que aquilo que conhecemos. \nOra, com tanto diabo nas palavras, com tanta demonização dos serviços públicos, com tanta demonização \ndo Serviço Nacional de Saúde, com tanta demonização da facilitação de acesso aos cuidados de saúde, que \nera a dispensa das taxas moderadoras, o Partido Socialista parece estar a precisar de um exorcismo, no final \ndesta Legislatura. \nEfetivamente, muito do discurso do diabo não está só nas entrelinhas, está já no discurso explícito do Partido \nSocialista. \nOra, o Bloco de Esquerda mantém aquela que sempre foi a sua posição. Não esquecemos nem o presente \nnem o passado mas olhamos para o futuro também. Queremos um Serviço Nacional de Saúde de qualidade, de \nexcelência, público e para todas as pessoas. \nPor isso, já dissemos que não aceitamos remendos como encerramentos rotativos de maternidades, \nqueremos a solução que passa pela contratação de profissionais. Não aceitamos que fiquem em standby\npolíticas que facilitam o acesso aos cuidados de saúde, como a dispensa do pagamento de taxas moderadoras, \nqueremos aumentar o acesso aos serviços de saúde. Estamos cá para isso, até ao último dia desta Legislatura \ne para a próxima Legislatura também, e não queremos desperdiçar nenhuma oportunidade para conseguir um \nServiço Nacional de Saúde que o País merece, um Serviço Nacional de Saúde de excelência. \nAgora, o Partido Socialista tem de explicar, não só a esta Câmara mas ao País, aquilo que está disponível \npara fazer até ao final da Legislatura. A política do Bloco de Esquerda é clara, mas a do PS é cada vez menos \nclara."
+    },
+    {
+      "utterance_id": 187,
+      "order": 187,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José de Matos Correia)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Moisés Ferreira, a Mesa não regista inscrições \npara pedidos de esclarecimento. \nPara uma intervenção, tem a palavra a Sr.ª Deputada Carla Cruz, do PCP."
+    },
+    {
+      "utterance_id": 188,
+      "order": 188,
+      "page_start": 28,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Com a derrota do Governo PSD/CDS e \na alteração da correlação de forças no Parlamento, foi possível interromper um dos períodos de maior \nenfraquecimento da capacidade de resposta do SNS, de corte de direitos dos utentes e dos profissionais, bem \ncomo da sua desvalorização. \nA ação e intervenção do PCP e a luta dos trabalhadores foram determinantes para se alcançar os avanços \nnos direitos dos trabalhadores, dos utentes e no reforço do SNS. \nReconhecemos e valorizamos todos os avanços registados, mas não foram suficientes para dar uma \nresposta cabal aos profissionais, aos utentes e ao SNS, não por falta de proposta do PCP mas por opção do PS \ne do seu Governo, que colocaram a opção pela redução acelerada do défice à frente dos direitos dos \nprofissionais, dos utentes e do reforço do SNS."
+    },
+    {
+      "utterance_id": 189,
+      "order": 189,
+      "page_start": 28,
+      "speaker": {
+        "id": 2037,
+        "name": "João Manuel Ildefonso Dias",
+        "party": "PCP",
+        "string": "O Sr. João Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 190,
+      "order": 190,
+      "page_start": 28,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A falta de obstetras, anestesistas e pediatras, que está há anos a condicionar e \na impedir um normal funcionamento das maternidades de Beja, Portimão, Lisboa e por toda a região Norte, teria \nsido combatida se o Governo tivesse contratado os profissionais e tivesse avançado na atribuição de incentivos \npecuniários, e outros, que permitissem a fixação de profissionais em zonas carenciadas, aliás, propostas \nprevistas no Orçamento do Estado, e outras apresentadas e aprovadas aqui, na Assembleia da República. \nO combate às listas de espera para cirurgia e consultas seria mais efetivo se o Governo tivesse concretizado \nas propostas para a contratação de profissionais em falta em diversos hospitais do SNS. \nA melhoria das instalações dos hospitais e dos centros de saúde ter-se-ia alcançado se o Governo tivesse \nconcretizado, e não atrasado, os investimentos previsto no Orçamento do Estado que preveem a construção de \nhospitais em Évora, Seixal, Lisboa, Barcelos e Algarve, assim como os investimentos na reparação e ampliação \nde estabelecimentos hospitalares e dos centros de saúde. \nA obsolescência dos equipamentos ter-se-ia resolvido com o aumento do investimento público, afetando \nverbas disponíveis no Orçamento do Estado e em fundos europeus. \nTivesse sido feita uma aposta clara na valorização dos profissionais, quer através das carreiras, quer da \nmelhoria das condições de trabalho, e ter-se-ia estancado a saída de profissionais para os grandes grupos que \noperam na saúde ou para o estrangeiro."
+    },
+    {
+      "utterance_id": 191,
+      "order": 191,
+      "page_start": 28,
+      "speaker": {
+        "id": 2037,
+        "name": "João Manuel Ildefonso Dias",
+        "party": "PCP",
+        "string": "O Sr. João Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 192,
+      "order": 192,
+      "page_start": 28,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tivesse sido aprovada a proposta do PCP para alteração do regime de internato \nmédico e concretizada a norma do Orçamento do Estado que previa a abertura do concurso extraordinário para \nacesso à especialidade dos jovens médicos e hoje, certamente, estaríamos a caminhar para o reforço do SNS \nem especialidades que estão em falta. \nSr. Presidente, Srs. Deputados. Não foi por falta de propostas do PCP que não se removeram todas as \ndificuldades de acesso dos doentes aos cuidados de saúde, nomeadamente as que decorrem das taxas \nmoderadoras, do transporte não urgente de doentes ou do acesso a medicamentos. Foi por falta de vontade do \nPS e do seu Governo, que, aliando-se a PSD e CDS, chumbaram as propostas do PCP que revogavam as taxas \nmoderadoras, atribuíam a mais utentes o transporte não urgente, os medicamentos a doentes com mais de 65 \nanos ou, ainda, a dispensa de medicamentos antipsicóticos aos doentes com doença mental. \nNão foi por falta de propostas do PCP que não se estancou a sangria de dinheiros do SNS para os grandes \ngrupos económicos que operam na saúde. Foi por falta de vontade do PS e do seu Governo, que, aliando-se, \nmais uma vez, a PSD e CDS, chumbaram as propostas do PCP que punham fim ao negócio da doença. \nNão foi por falta de propostas do PCP que não se avançou na área da saúde mental e da saúde visual, ao \nnível dos cuidados de saúde primários. Foi por falta de vontade do PS e do seu Governo, que não as aprovaram \ne que, mais uma vez, se juntaram ao PSD e ao CDS para chumbá-las."
+    },
+    {
+      "utterance_id": 193,
+      "order": 193,
+      "page_start": 29,
+      "speaker": {
+        "id": 2037,
+        "name": "João Manuel Ildefonso Dias",
+        "party": "PCP",
+        "string": "O Sr. João Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 194,
+      "order": 194,
+      "page_start": 29,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "No entanto, é preciso avançar-se na concretização das medidas previstas no \nOrçamento do Estado para reforçar a resposta pública. Ao invés de encerrar serviços, o que é preciso é contratar \nos profissionais que fazem falta. Ao invés de transferir os doentes e, consequentemente, milhões para os \ngrandes grupos privados que operam na saúde, o que é preciso é investir no SNS, é utilizar a capacidade \ninstalada e pôr fim às PPP. \nEntretanto, assumiu a presidência o Presidente, Eduardo Ferro Rodrigues."
+    },
+    {
+      "utterance_id": 195,
+      "order": 195,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe para concluir, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 196,
+      "order": 196,
+      "page_start": 29,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, estou mesmo a terminar. \nO que se impõe, claramente, é que os direitos dos utentes, os direitos dos profissionais e o reforço do SNS \nsejam colocados como prioridade. É esta a proposta do PCP. É para isso que todos os dias trabalhamos."
+    },
+    {
+      "utterance_id": 197,
+      "order": 197,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para uma intervenção, a Sr.ª Deputada Isabel Galriça Neto, do Grupo \nParlamentar do CDS-PP."
+    },
+    {
+      "utterance_id": 198,
+      "order": 198,
+      "page_start": 29,
+      "speaker": {
+        "id": 2027,
+        "name": "Isabel Maria Mousinho De Almeida Galriça Neto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Isabel Galriça Neto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: No final deste debate, \npodemos com certeza dizer que os anúncios, as promessas não cumpridas, a propaganda socialista não \nresistem ao teste da realidade. \nO Governo socialista banalizou verbos como «prometer» e «iludir», de tanto os utilizar e praticar de forma \nabusiva. Perante o desmoronar do SNS, dos serviços públicos, o Superministro Centeno e toda a governação \nsocialista revelam uma triste e penosa insensibilidade social, uma desvalorização do sofrimento das pessoas \ndoentes e das suas famílias e das condições em que trabalham os profissionais, o que, asseguro-vos, é \naltamente preocupante. \nDe facto, está patente, depois deste debate, e, dolorosamente, uma vez mais, o garrote das finanças com as \nverbas dos Orçamentos que os senhores aprovam, mas que não são executadas, e todos temos provas disso. \nEstá patente a diminuição do acesso aos cuidados de saúde seja nos tempos de espera inaceitáveis para \nconsultas, para cirurgias, seja no acesso às maternidades, aos serviços de pediatria, de norte a sul do País, \ncom ameaças de falta de qualidade na assistência aos doentes portugueses. \nEstá patente a publicidade enganosa sobre a questão dos recursos humanos. Os senhores podem vir \ndiariamente dizer que há mais profissionais de saúde contratados, mas não vêm dizer que há mais horas de \ncuidados contratadas! \nPortanto, é publicidade enganosa, é ludibriar os portugueses, é incompetência! \nA pergunta que vos deixo é esta: se há mais pessoas contratadas, por que razão é que aumentam as horas \ncom as empresas de contratação temporária?"
+    },
+    {
+      "utterance_id": 199,
+      "order": 199,
+      "page_start": 30,
+      "speaker": {
+        "id": 1266,
+        "name": "Jamila Bárbara Madeira E Madeira",
+        "party": "PS",
+        "string": "A Sr.ª Jamila Madeira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Há mais acesso!"
+    },
+    {
+      "utterance_id": 200,
+      "order": 200,
+      "page_start": 30,
+      "speaker": {
+        "id": 2027,
+        "name": "Isabel Maria Mousinho De Almeida Galriça Neto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Isabel Galriça Neto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se há mais pessoas contratadas, por que razão temos os resultados \nque temos? Só temos uma resposta: ineficiência e incompetência governativas! \nIsso também está, infelizmente, patente. \nNa saúde, os senhores têm seguido uma política que bem podiam exportar para outros ministérios, que é a \npolítica do «apaga fogos». Os senhores vão de fogo em fogo até à desgraça final! \nNão vos vislumbramos nem rumo, nem visão, nem uma política ou uma estratégia para a saúde!"
+    },
+    {
+      "utterance_id": 201,
+      "order": 201,
+      "page_start": 30,
+      "speaker": {
+        "id": 2109,
+        "name": "Paulo Miguel Da Silva Santos",
+        "party": "PSD",
+        "string": "O Sr. Miguel Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tem toda a razão! É isso mesmo!"
+    },
+    {
+      "utterance_id": 202,
+      "order": 202,
+      "page_start": 30,
+      "speaker": {
+        "id": 2027,
+        "name": "Isabel Maria Mousinho De Almeida Galriça Neto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Isabel Galriça Neto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É a completa, repito, a completa desgovernação que há quatro \nanos nos traz à situação em que estamos agora, com casos que não são mais do que um padrão instalado de \nnorte a sul do País e que a atestam. \nMas o que está também patente neste debate é que Bloco e PCP estão dentro quando aprovam o Orçamento \n— aí estão dentro! — e, depois, quando as consequências dessas aprovações se revelam já querem estar fora. \nDe facto, temos claras manobras distrativas com debates sobre taxas moderadoras ou sobre a Lei de Bases \nda Saúde que não resolvem o essencial. E o essencial ficou, Sr.as e Srs. Deputados, infelizmente, mais uma \nvez, à vista: a saúde dos portugueses está entregue a um desgoverno socialista apoiado por Bloco de Esquerda \ne PCP; a saúde dos portugueses está a desmoronar-se!"
+    },
+    {
+      "utterance_id": 203,
+      "order": 203,
+      "page_start": 30,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 204,
+      "order": 204,
+      "page_start": 30,
+      "speaker": {
+        "id": 2027,
+        "name": "Isabel Maria Mousinho De Almeida Galriça Neto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Isabel Galriça Neto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Precisamos de mudança, porque assim, de facto, são os \nportugueses que continuarão a sofrer, e nós não queremos!"
+    },
+    {
+      "utterance_id": 205,
+      "order": 205,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra a Sr.ª Deputada Jamila Madeira, do Grupo Parlamentar do PS, para uma \nintervenção."
+    },
+    {
+      "utterance_id": 206,
+      "order": 206,
+      "page_start": 30,
+      "speaker": {
+        "id": 1266,
+        "name": "Jamila Bárbara Madeira E Madeira",
+        "party": "PS",
+        "string": "A Sr.ª Jamila Madeira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, menos de um mês depois de promover \numa interpelação ao Governo, ditada pela sua já muito conhecida bitola de «quanto pior, melhor», o PSD, hoje, \nvoltou a trazer a debate o tema da saúde. \nNa prática, é um tema muito pertinente porque fala da relação mais direta com os cidadãos no acesso à \nsaúde. E este debate deveria ser sobre o acesso à saúde. \nDe facto, para o PS, este tema é muito pertinente e sobre ele temos trabalhado para que as dificuldades de \nacesso, a universalidade e a qualidade do SNS sejam cada vez mais uma garantia para todos os cidadãos. \nNesta lógica das conhecidas dificuldades de acesso ao SNS existem muitos dados."
+    },
+    {
+      "utterance_id": 207,
+      "order": 207,
+      "page_start": 30,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pois existem!"
+    },
+    {
+      "utterance_id": 208,
+      "order": 208,
+      "page_start": 30,
+      "speaker": {
+        "id": 1266,
+        "name": "Jamila Bárbara Madeira E Madeira",
+        "party": "PS",
+        "string": "A Sr.ª Jamila Madeira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas, sobretudo, existem muitos dados que revelam uma profunda \nreestruturação e uma evolução positiva no cumprimento deste objetivo."
+    },
+    {
+      "utterance_id": 209,
+      "order": 209,
+      "page_start": 30,
+      "speaker": {
+        "id": 2027,
+        "name": "Isabel Maria Mousinho De Almeida Galriça Neto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Isabel Galriça Neto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Onde é que ela está?!"
+    },
+    {
+      "utterance_id": 210,
+      "order": 210,
+      "page_start": 31,
+      "speaker": {
+        "id": 1266,
+        "name": "Jamila Bárbara Madeira E Madeira",
+        "party": "PS",
+        "string": "A Sr.ª Jamila Madeira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estão aquém do que o PS gostaria? Sim, estão aquém, mas muito além de \nqualquer dos cenários miserabilistas que têm vindo aqui a ser empolados e que aqui foram semeados numa \nlógica puramente eleitoralista. \nSabemos que os recursos são finitos, tanto os financeiros quanto os humanos. Sabemos onde carece que \neles estejam, mas também sabemos que precisamos de os redirecionar de outras áreas para a saúde de forma \nsustentável para que, mais à frente, não ocorram novamente retrocessos que penalizem os portugueses e, \nsobretudo, os utentes. \nPor isso, a minha expectativa era a de que viessem hoje dar a mão à palmatória e assumir os erros do \npassado, como, por exemplo, a redução de mais de 4400 profissionais ou o corte de mais de 1000 milhões de \neuros no SNS, e, em jeito de contributo, ajudar a construir soluções. \nSabemos que, em véspera de eleições, isso não fica muito bem relativamente à bitola que é pedida. Assumi \npor isso que vislumbrariam uma forma diferente de contribuírem para a salvaguarda do direito à proteção da \nsaúde. Infelizmente, não foi assim. \nNós e os portugueses mantemo-nos expectantes e acreditamos numa atitude consonante com aquilo que \nseria de esperar de um partido que alega ser defensor do SNS. \nPara este debate, esperar-se-ia que o PSD valorizasse os mais 10 800 profissionais de saúde que foram \nintegrados no SNS desde 2015, mais 6400 desde o início do Programa de Assistência Financeira que os \nsenhores levaram a cabo. Esperar-se-ia que fosse valorizada a redução de 40 para 35 horas, promovendo a \nqualidade de vida destes profissionais e, já agora, a qualidade de serviço prestado aos utentes."
+    },
+    {
+      "utterance_id": 211,
+      "order": 211,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Acha mesmo?! Acredita mesmo nisso?!"
+    },
+    {
+      "utterance_id": 212,
+      "order": 212,
+      "page_start": 31,
+      "speaker": {
+        "id": 1266,
+        "name": "Jamila Bárbara Madeira E Madeira",
+        "party": "PS",
+        "string": "A Sr.ª Jamila Madeira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esperar-se-ia que reconhecesse uma maior exigência em termos dos tempos \nmáximos de espera garantidos, com a redução de 30 dias e 90 dias dos tempos máximos previstos para a \nespera da primeira consulta hospitalar e da cirurgia de prioridade 1, respetivamente,…"
+    },
+    {
+      "utterance_id": 213,
+      "order": 213,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não parece!"
+    },
+    {
+      "utterance_id": 214,
+      "order": 214,
+      "page_start": 31,
+      "speaker": {
+        "id": 1266,
+        "name": "Jamila Bárbara Madeira E Madeira",
+        "party": "PS",
+        "string": "A Sr.ª Jamila Madeira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… aliás, como se vê no SIGIC (Sistema Integrado de Gestão de Inscritos \npara Cirurgia)."
+    },
+    {
+      "utterance_id": 215,
+      "order": 215,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Obrigado, Sr.ª Deputada. Peço-lhe para concluir."
+    },
+    {
+      "utterance_id": 216,
+      "order": 216,
+      "page_start": 31,
+      "speaker": {
+        "id": 1266,
+        "name": "Jamila Bárbara Madeira E Madeira",
+        "party": "PS",
+        "string": "A Sr.ª Jamila Madeira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Gostava de terminar, dizendo, Sr. Presidente, que as mais 590 000 consultas \nnos cuidados primários, as mais 180 000 consultas nos cuidados hospitalares e as mais 18 000 cirurgias são \noutro sinal de que recuperámos e andámos no bom caminho. \nO PS, hoje, como em 1979, não desiste nem abdica do SNS e lutará com os portugueses e em nome destes \npela sua defesa."
+    },
+    {
+      "utterance_id": 217,
+      "order": 217,
+      "page_start": 31,
+      "speaker": {
+        "id": 2076,
+        "name": "Luís Valentim Pereira Monteiro",
+        "party": "BE",
+        "string": "O Sr. Luís Monteiro (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Aprovem a lei do Arnaut!"
+    },
+    {
+      "utterance_id": 218,
+      "order": 218,
+      "page_start": 31,
+      "speaker": {
+        "id": 1266,
+        "name": "Jamila Bárbara Madeira E Madeira",
+        "party": "PS",
+        "string": "A Sr.ª Jamila Madeira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O PS espera, por isso, que outros se juntem neste combate."
+    },
+    {
+      "utterance_id": 219,
+      "order": 219,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para encerrar o debate, tem a palavra o Sr. Deputado Miguel Santos, do Grupo \nParlamentar do PSD."
+    },
+    {
+      "utterance_id": 220,
+      "order": 220,
+      "page_start": 32,
+      "speaker": {
+        "id": 2109,
+        "name": "Paulo Miguel Da Silva Santos",
+        "party": "PSD",
+        "string": "O Sr. Miguel Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Ir ao engano, vender a ilusão, um \nlogro, um zero à esquerda, digo eu, mas também o diz o Sr. Bastonário da Ordem dos Médicos, que acusa o \nMinistério da Saúde de mentir e de criar ilusão — semelhante aos termos que usei. \nÉ mais uma inabilidade, mais uma notícia falsa do Ministério da Saúde para enganar os portugueses, é mais \numa mentira — isto, diz o Bastonário da Ordem dos Médicos!"
+    },
+    {
+      "utterance_id": 221,
+      "order": 221,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É um pirata, um malfeitor!…"
+    },
+    {
+      "utterance_id": 222,
+      "order": 222,
+      "page_start": 32,
+      "speaker": {
+        "id": 2109,
+        "name": "Paulo Miguel Da Silva Santos",
+        "party": "PSD",
+        "string": "O Sr. Miguel Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sindicato Independente dos Médicos fala em publicidade enganosa, \nreferindo-se também a anúncios por parte do Governo. Eu digo que é ir ao engano, que é um zero à esquerda. \nE é um zero à esquerda porquê e onde? Srs. Deputados, nas taxas moderadoras. É um zero à esquerda! \nNum primeiro momento deixaram que, na opinião pública, se criasse a ilusão de que as taxas moderadoras \nestavam eliminadas, coisa que não é verdade. Só estavam eliminadas nos cuidados de saúde primários e seriam \neliminadas em MCDT (meios complementares de diagnóstico e terapêutica) ou consultas, quando \nencaminhados pelo SNS, mas deixaram que houvesse esse entendimento na opinião pública. A isto chama-se \n«ir ao engano»! \nMas as taxas moderadoras estão mesmo eliminadas? Não! É o paso doble! É o segundo passo! É ir ao \nengano, é um zero à esquerda! Isto, porque, passada uma semana, descobriram que havia um problema com \no financiamento dos 150 milhões das taxas moderadoras, nomeadamente de onde vinham, como iam ser \ncobertos e como é que o SNS os ia suplantar. \nVou explicar-vos, Srs. Deputados: é, mais ou menos, como os senhores juntarem-se todos e irem a um \nrestaurante; sentam-se à mesa, pegam na ementa e começam a pedir; banqueteiam-se, tiram fotografias, \nmandam-nas para os amigos, colocam-nas nas redes sociais; é uma festa, é uma alegria! \nNão pedem a conta e o funcionário do restaurante, estranhando que nunca mais a peçam, vem com a fatura \nno pratinho que coloca em cima da mesa. E os senhores?! Os senhores olham para a conta e começam a \nempurrar de uns para os outros… \nOlham para a conta muito espantados e começam a empurrá-la de uns para os outros! \nPronto, já se está a ver que alguém vai ficar a berrar, tal como o Sr. Deputado António Sales já está a berrar \nneste momento, porque não gosta de ouvir determinadas músicas, não está habituado! No restaurante também \nficariam a berrar porque ninguém pagaria a conta! \nOs senhores empurram de uns para os outros! \nPortanto, a história das taxas moderadoras resume-se assim: é ir ao engano, é um zero à esquerda. E \nnenhum dos senhores teve a coragem de o dizer publicamente aos portugueses e de pedir desculpa por \nandarem a enganá-los."
+    },
+    {
+      "utterance_id": 223,
+      "order": 223,
+      "page_start": 32,
+      "speaker": {
+        "id": 1953,
+        "name": "António Lacerda Sales",
+        "party": "PS",
+        "string": "O Sr. António Sales (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os senhores é que têm de pedir desculpa!"
+    },
+    {
+      "utterance_id": 224,
+      "order": 224,
+      "page_start": 32,
+      "speaker": {
+        "id": 2109,
+        "name": "Paulo Miguel Da Silva Santos",
+        "party": "PSD",
+        "string": "O Sr. Miguel Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não! O presidente do PS, Carlos César, empurra para o Bloco e diz que o \nBloco não manda; o Bloco empurra para o PS e diz que o PS é que anda a enganar as pessoas. Enfim, é ir ao \nengano, é um zero à esquerda!"
+    },
+    {
+      "utterance_id": 225,
+      "order": 225,
+      "page_start": 33,
+      "speaker": {
+        "id": 1953,
+        "name": "António Lacerda Sales",
+        "party": "PS",
+        "string": "O Sr. António Sales (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ainda bem para os portugueses!"
+    },
+    {
+      "utterance_id": 226,
+      "order": 226,
+      "page_start": 33,
+      "speaker": {
+        "id": 2109,
+        "name": "Paulo Miguel Da Silva Santos",
+        "party": "PSD",
+        "string": "O Sr. Miguel Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… mas, ao fim desses quatro anos, os Srs. Deputados descobriram que têm \num problema ideológico. Não têm acordo! Não conseguem acordar na base dos princípios e de uma lei de bases. \nConseguem acertar para onde vai o dinheiro, onde colocam o financiamento, onde carregam nos impostos, \nmas, ao fim de quatro anos, os Srs. Deputados do Bloco e do PS descobrem que têm um problema ideológico. \nLá em casa, na casa do PS, na casa do Bloco e na casa do PCP, há um problema ideológico. \nPortanto, é evidente que pode haver lei de bases, mas é preciso regressar à realidade, adotar um espírito \nsério, de responsabilidade, abandonar esses experimentalismos sociais que o mundo e o tempo já há muito \nrenegaram e, com isso, ter um sentido de responsabilidade que possa, de facto, levar a saúde em frente. \nSrs. Deputados, mais uma vez, é ir ao engano, é um zero à esquerda! Querem mais um exemplo? A ADSE. \nA ADSE está com problemas, cruz-credo! A esquerda, com 1,3 milhões de portugueses na ADSE, diz que é um \nproblema grave, mas aí já não têm problemas ideológicos. Estes senhores não sabem, mas nós sabemos e \nPortugal inteiro sabe que os beneficiários da ADSE estão contentes com o serviço que a ADSE lhes presta. \nPagam 3,5% dos seus ordenados e recorrem aos serviços que a ADSE lhes presta. Onde? Nos privados! Aí já \nnão há problema ideológico nenhum! Mas é verdade que a ADSE precisa de adotar medidas de sustentabilidade \ncomo as que estão no parecer do conselho geral…"
+    },
+    {
+      "utterance_id": 227,
+      "order": 227,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe para concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 228,
+      "order": 228,
+      "page_start": 33,
+      "speaker": {
+        "id": 2109,
+        "name": "Paulo Miguel Da Silva Santos",
+        "party": "PSD",
+        "string": "O Sr. Miguel Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou já terminar, Sr. Presidente. \nReferia que a ADSE precisa de adotar medidas de sustentabilidade como as que estão no parecer do \nConselho Geral, onde estão representados os sindicatos, o qual foi entregue ao Governo em dezembro do ano \npassado, e nos estudos do Conselho Diretivo da ADSE, no sentido de que é preciso alargar o número de \nbeneficiários e dar sustentabilidade financeira à ADSE. O que é que os senhores fizeram durante quatro anos? \nZerinho! Nada! Zero!"
+    },
+    {
+      "utterance_id": 229,
+      "order": 229,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, peço-lhe para concluir."
+    },
+    {
+      "utterance_id": 230,
+      "order": 230,
+      "page_start": 33,
+      "speaker": {
+        "id": 2109,
+        "name": "Paulo Miguel Da Silva Santos",
+        "party": "PSD",
+        "string": "O Sr. Miguel Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou terminar, Sr. Presidente. \nProvavelmente estão à espera de que o problema se coloque efetivamente para depois, aí, sim, voltarem \naos experimentalismos sociais e rebentarem com um sistema que favorece e dá apoio na saúde a 1,3 milhões \nde portugueses. Enfim! \nSr. Presidente, para terminar,…"
+    },
+    {
+      "utterance_id": 231,
+      "order": 231,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem mesmo de terminar, Sr. Deputado."
+    },
+    {
+      "utterance_id": 232,
+      "order": 232,
+      "page_start": 33,
+      "speaker": {
+        "id": 2109,
+        "name": "Paulo Miguel Da Silva Santos",
+        "party": "PSD",
+        "string": "O Sr. Miguel Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É o que vou fazer, Sr. Presidente. \nSão quatro anos perdidos e vai ser muito complicado recuperá-los."
+    },
+    {
+      "utterance_id": 233,
+      "order": 233,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, chegámos, assim, ao final da nossa ordem do dia de hoje. \nLembro os Srs. Deputados de que amanhã teremos plenário, às 10 horas, com a seguinte ordem do dia: \nInterpelação ao Governo n.º 32/XIII/4.ª (PS) — Sobre o tema «Ciência e Inovação»."
+    }
+  ]
+}

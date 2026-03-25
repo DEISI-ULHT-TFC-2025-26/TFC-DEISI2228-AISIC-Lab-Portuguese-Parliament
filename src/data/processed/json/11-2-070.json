@@ -1,0 +1,2994 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "11",
+    "legislative_session": "2",
+    "number": "70",
+    "date": "2011-03-30"
+  },
+  "debate_id": "r3_11_2_70_2011-03-30",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão. \nEram 15 horas e 07 minutos. \nDeputados presentes à sessão: \nPartido Socialista (PS) \nAcácio Santos da Fonseca Pinto \nAlberto Bernardes Costa \nAna Catarina Veiga Santos Mendonça Mendes \nAna Maria Ribeiro Gomes do Couto \nAna Paula Mendes Vitorino \nAnabela Gaspar de Freitas \nAntónio Alves Marques Júnior \nAntónio José Martins Seguro \nAntónio Ramos Preto \nAntónio Ribeiro Gameiro \nArtur Miguel Claro da Fonseca Mora Coelho \nAurélio Paulo da Costa Henriques Barradas \nCarlos Filipe de Andrade Neto Brandão \nCatarina Marcelino Rosa da Silva \nDefensor Oliveira Moura \nDeolinda Isabel da Costa Coutinho \nEduardo Arménio do Nascimento Cabrita \nEurídice Maria de Sousa Pereira \nFernando Manuel de Jesus \nFrancisco José Pereira de Assis Miranda \nFrederico de Oliveira Castro \nGlória Maria da Silva Araújo \nHorácio André Antunes \nInês de Saint-Maurice de Esteves de Medeiros Vitorino de Almeida \nJaime José Matos da Gama \nJamila Bárbara Madeira e Madeira \nJorge Filipe Teixeira Seguro Sanches \nJorge Manuel Capela Gonçalves Fão \nJorge Manuel Gouveia Strecht Ribeiro \nJorge Manuel Rosendo Gonçalves \nJosé Carlos Bravo Nico \nJosé Carlos Correia Mota de Andrade \nJosé Duarte Piteira Rica Silvestre Cordeiro \nJosé Eduardo Vera Cruz Jardim \nJosé João Pinhanços de Bianchi \nJosé Manuel Lello Ribeiro de Almeida \nJosé Manuel Pereira Ribeiro \nJosé Miguel Abreu de Figueiredo Medeiros \nJosé Rui Alves Duarte Cruz \nJoão Barroso Soares \nJoão Miguel de Melo Santos Taborda Serrano \nJoão Paulo Feteira Pedrosa \nJoão Paulo Moreira Correia \nJoão Pedro de Aleluia Gomes Sequeira"
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a Sr.ª Secretária vai proceder à leitura do expediente, que hoje é numeroso."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados, deram entrada na Mesa, e foram admitidas, 87 iniciativas legislativas.\nRefiro, em primeiro lugar, os projectos de lei n.os 576/XI (2.ª) — Consagra o direito a ter médico de família e aprova o programa nacional de emergência para atribuição de médico de família (BE), que baixa à 10.ª Comissão, 577/XI (2.ª) — Consagra a cativação pública das mais-valias urbanísticas, prevenindo a corrupção e o abuso do poder (BE), que baixa à 5.ª Comissão, 578/XI (2.ª) — Introduz uma taxa sobre as transferências para paraísos fiscais (BE), que baixa à 5.ª Comissão, 579/XI (2.ª) — Introduz um limite na dedução de prejuízos fiscais de 50% dos lucros tributáveis (BE), que baixa à 5.ª Comissão, 580/XI (2.ª) — Introduz uma taxa sobre as operações em bolsa (BE), que baixa à 5.ª Comissão, 581/XI (2.ª) — Altera a Lei n.º 12/97, de 21"
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Secretário para continuar a leitura do expediente."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Duarte Pacheco)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, deram ainda entrada na Mesa, e foram admitidos, os projectos de resolução n.os 499/XI (2.ª) — Recomenda ao Governo a concretização do projecto global de estabilização das encostas de Santarém (BE), que baixa à 12.ª Comissão, 500/XI (2.ª) — Propõe medidas que garantam a construção do novo hospital de Évora (PCP), que baixa à 10.ª Comissão, 501/XI (2.ª) — Visa o reforço dos meios e competências da Autoridade para as Condições do Trabalho e a garantia da eficácia da sua intervenção (PCP), que baixa à 11.ª Comissão, 502/XI (2.ª) — Recomenda ao Governo a elaboração de um Programa Nacional de Prevenção de Acidentes de Trabalho e Doenças Profissionais (PCP), que baixa à 11.ª Comissão, 503/XI (2.ª) — Recomenda a equiparação contributiva das tripulações no âmbito do regime específico aplicável à pesca artesanal (PSD), que baixa à 11.ª Comissão, 504/XI (2.ª) — Recomenda ao Governo o estabelecimento urgente de um regime de preços máximos para os medicamentos hospitalares (BE), que baixa à 10.ª Comissão, 505/XI (2.ª) — Recomenda ao Governo que promova medidas contra a crise económica e social no Algarve (BE), que baixa à 6.ª Comissão, 506/XI (2.ª) — Recomenda ao Governo que, através da Águas de Portugal, interrompa o processo de fusão das empresas Águas do Mondego e SIMLIS (BE), que baixa à 12.ª Comissão, 507/XI (2.ª) — Recomenda ao Governo a publicação com maior celeridade e detalhe da informação sobre medicamentos (BE), que baixa à 10.ª Comissão, 508/XI (2.ª) — Recomenda ao Governo a suspensão do adiamento da revisão anual do preço dos medicamentos (BE), que baixa à 10.ª Comissão, 509/XI (2.ª) — Recomenda ao Governo a regulamentação urgente da actividade e do exercício do outro pessoal devidamente habilitado do quadro não farmacêutico, previsto no artigo 24.º do Decreto-Lei n.º 307/2007, de 31 de Agosto (BE), que baixa à 10.ª Comissão, 510/XI (2.ª) — Recomenda ao Governo que inicie um processo de discussão participada que conduza a uma reforma curricular da escolaridade básica e secundária (BE), que baixa à 8.ª Comissão, 511/XI (2.ª) — Recomenda ao Governo que promova critérios de justiça no acesso aos serviços de apoio social e aos equipamentos sociais (BE), que baixa à 11.ª Comissão, 512/XI (2.ª) — Recomenda ao Governo que altere o Código do Trabalho a fim de proteger os trabalhadores dos fenómenos de assédio moral (BE), que baixa à 11.ª Comissão, 513/XI (2.ª) — Recomenda ao Governo a manutenção de formas de pagamento manual em todas as portagens de auto-estradas concessionadas (BE), que baixa à 9.ª Comissão, 514/XI (2.ª) — Recomenda ao Governo a alteração do projecto da variante à estrada nacional n.º 14 (BE), que baixa à 9.ª Comissão, 515/XI (2.ª) — Recomenda ao Governo a extinção da concessão à Companhia de Banhos de Vizela da exploração das Termas de Vizela e adopte os procedimentos necessários à reabertura da actividade (BE), que baixa à 6.ª Comissão, 516/XI (2.ª) — Recomenda a autonomização dos dados estatísticos relativos a homicídios cometidos em contexto conjugal (BE), que baixa à 1.ª Comissão, 517/XI (2.ª) — Recomenda a ratificação da Convenção do Conselho da Europa, de 25 de Outubro de 2007, contra a exploração e o abuso sexual de crianças (BE), que baixa à 2.ª Comissão, 518/XI (2.ª) — Recomenda a suspensão da aplicação da renda apoiada nos bairros sociais e a revisão deste regime (BE), que baixa à 12.ª Comissão, 519/XI (2.ª) — Recomenda a comparticipação a 100% das despesas de crianças e jovens acolhidos em centros de acolhimento temporário (CAT) (BE), 520/XI (2.ª) — Recomenda a regulamentação do pagamento de honorários aos advogados inscritos no Sistema de Acesso ao Direito e aos Tribunais (BE), que baixou à 1.ª Comissão, 521/XI (2.ª) — Recomenda ao Governo a regulamentação da Lei n.º 45/2003, de 22 de Agosto, relativa ao enquadramento base das terapêuticas não convencionais (BE), que baixou à 10.ª Comissão, 522/XI (2.ª) — Recomenda a elaboração de um estudo sobre a realidade portuguesa de disponibilização e cópias não autorizadas de obras protegidas por direitos de autor através da Internet (BE), que baixou à 13.ª Comissão, 523/XI (2.ª) — Recomenda a protecção do monumento nacional Jardim Botânico de Lisboa (BE), que baixou à 13.ª Comissão, 524/XI (2.ª) — Recomenda ao Governo o reconhecimento do tempo de serviço prestado no ensino superior para efeitos de concurso nacional de colocação de docentes da educação pré-escolar e dos ensinos básico e secundário (BE), que baixou à 8.ª Comissão, 525/XI (2.ª) — Recomenda a revisão da política de arrendamentos do Ministério da Justiça (BE), que baixou à 1.ª Comissão, 526/XI (2.ª) — Recomenda ao Governo que considere a abordagem das doenças respiratórias uma prioridade política e que adopte as medidas necessárias para uma maior sensibilização para estas doenças (CDS-PP), que baixou à 10.ª Comissão, 527/XI (2.ª) — Recomenda ao Governo que integre um representante do Instituto de Medicina"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a ordem do dia de hoje consta da apreciação do Decreto-Lei n.º 40/2011, de 22 de Março, que estabelece o regime da autorização da despesa inerente aos contratos públicos a celebrar pelo Estado, institutos públicos, autarquias locais, fundações públicas, associações públicas e empresas públicas [apreciações parlamentares n.os 97/XI (2.ª) (PSD), 98/XI (2.ª) (CDS-PP) e 99/XI (2.ª) (BE)].\nTrata-se de uma marcação do PSD, mas, por sua anuência, subiram também a Plenário as respectivas apreciações parlamentares do CDS-PP e do BE.\nPara uma intervenção, tem a palavra o Sr. Deputado Fernando Negrão."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 9,
+      "speaker": {
+        "id": 1228,
+        "name": "Fernando Mimoso Negrão",
+        "party": "PSD",
+        "string": "O Sr. Fernando Negrão (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: O País está económica, social e moralmente de pantanas! A expressão não é agradável, mas a situação do País é bem pior.\nHá mais de 150 anos que não tínhamos uma dívida pública, em percentagem do PIB, tão elevada.\nA dívida externa é a mais elevada dos últimos 120 anos."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Pedro Mota Soares."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 10,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: O Governo do Partido Socialista, num conjunto de medidas expressas em vários PEC e em vários orçamentos do Estado, entendeu aumentar as contribuições sociais de quem trabalha a recibos verdes, pondo-os a pagar mais 5%; entendeu congelar todas as pensões, incluindo as pensões mínimas, pensões de quem recebe 189 €, 227 € ou 246 € por mês; e entendeu aumentar todos os impostos e aumentá-los quatro vezes — os"
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 11,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Foi assim no Decreto-Lei n.º 34/2009, que permitiu que um conjunto de obras, na área da educação, na área da saúde, na área da justiça, pudesse ser feito por ajuste"
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 12,
+      "speaker": {
+        "id": 3075,
+        "name": "Emanuel Dos Santos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e do Orçamento (Emanuel Augusto Santos)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não seja demagógico!"
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 12,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Uma última questão: não se compreende por que é que o Governo, que deveria ter feito este diploma até ao final do ano passado, aguardou até ao último dia do prazo, demorou mais de dois meses a enviar este diploma para promulgação, para ele ser publicado já no final do primeiro trimestre de 2011, quando a autorização, como todos sabemos, caducava no final de 2010. Não se compreende como é que o Governo esperou até ao último dia do prazo e demorou tanto tempo (mais de um mês!) a enviá-lo para o Sr. Presidente da República.\nPor todos estes argumentos, a Câmara, hoje, deveria suspender a vigência deste diploma, porque ele é totalmente inaceitável."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Gusmão."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 12,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Ontem ficámos a conhecer as previsões do Banco de Portugal para 2011 e 2012. Ficámos a saber que a economia portuguesa vai entrar em recessão, como era desmentido pelo Governo aquando do debate do Orçamento do Estado para 2011, e que o desemprego vai afectar mais de 60 000 portugueses.\nToda esta política recessiva, que assentou no corte de salários, que assentou no corte das prestações sociais e das pensões, no aumento dos impostos sobre o consumo, que são impostos regressivos sobre quem trabalha, as consequências recessivas de toda esta política, que o Governo justificou com o único objectivo de promover o ajustamento orçamental, dizia eu que toda esta política é levada a cabo ao mesmo tempo que o Governo preparava e aprovava em Conselho de Ministros um diploma que aumenta os limites de autorização da despesa para milhares de titulares de cargos públicos."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 12,
+      "speaker": {
+        "id": 3075,
+        "name": "Emanuel Dos Santos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e do Orçamento",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não seja demagógico!"
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 12,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esse diploma aumenta os limites para a autorização da despesa não para fazer uma actualização, como foi dito já por vários membros do Governo, porque uma actualização da despesa, entendemos nós, deveria constituir um aumento dos limites da autorização da despesa em consonância com o que tem sido a inflação. Este parece-nos o critério mais racional para uma alteração desta natureza.\nNo entanto, as alterações dos limites que aqui estão previstas oscilam entre os 50%, que se situam bem acima da inflação acumulada desde 1999, até cerca de 500%, que pressuporia uma inflação média anual, desde 1999, de 16%. Ora, uma inflação de 16%, Srs. Ministros e Srs. Secretários de Estado, nem no Peru!"
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 12,
+      "speaker": {
+        "id": 3075,
+        "name": "Emanuel Dos Santos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e do Orçamento",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não seja demagógico!"
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 12,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, do que se trata aqui não é de uma actualização pura e simples dos limites para a autorização de despesa, do que se trata é de aumentos extraordinários desses limites num"
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Luís Ferreira."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 13,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Procedemos hoje à apreciação parlamentar do Decreto-Lei n.º 40/2011, de 22 de Março, que veio consagrar o novo regime da autorização da despesa inerente aos contratos públicos a celebrar pelo Estado, institutos públicos, autarquias locais, fundações públicas, associações públicas e empresas públicas.\nEste Decreto-Lei vem assim revogar os sete artigos que ainda se mantinham em vigor do Decreto-Lei n.º 197/99, de 8 de Junho, uma vez que os restantes artigos deste diploma já tinham sido revogados, em 2008, pelo novo Código dos Contratos Públicos.\nCom a entrada em vigor prevista para o próximo dia 1 de Abril, o Decreto-Lei que agora apreciamos é orientado por três objectivos centrais: introduzir normas gerais relativas à delegação de competências em matéria de autorização de despesa; harmonizar as regras da autorização de despesa com o novo Código dos Contratos Públicos; e, finalmente, actualizar os montantes dos limites da autorização de despesa que actualmente se encontram fixados no referido Decreto-Lei.\nOra, é exactamente este último objectivo — que, aliás, no Decreto-Lei em apreciação surge no meio dos outros dois objectivos, assim em jeito de passar despercebido — que ninguém compreende.\nE ninguém compreende, desde logo, porque, ao contrário daquilo que o Governo afirma na exposição de motivos ou no preâmbulo do Diploma, esta actualização dos montantes relativos aos limites da autorização da despesa, nada tem a ver com a evolução dos preços dos últimos anos, o que é, aliás, reconhecido pelo próprio Governo quando, mais à frente, acaba por afirmar que os limites agora fixados são substancialmente superiores aos que vigoravam anteriormente.\nO Governo diz substancialmente superiores mas podia bem dizer exageradamente superiores. De facto, um director-geral, que actualmente pode autorizar despesa que nem chega sequer aos 100 000 €, passa a poder autorizar despesas até 150 000 €; tratando-se de despesas relativas à execução de planos ou programas plurianuais, os directores-gerais podem autorizar despesa atç 750 000 €, quando no regime anterior apenas podiam autorizar despesa atç 500 000 €."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 13,
+      "speaker": {
+        "id": 3075,
+        "name": "Emanuel Dos Santos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e do Orçamento",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Qual é o problema?!"
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 13,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Secretário de Estado, é o que consta do Decreto-Lei! Tive o cuidado de o ler! Os ministros vêem o limite da sua autorização para despesa alterada para valores que quase duplicam, o Primeiro-Ministro passa de 7 milhões para 11 milhões de euros, e o mesmo exagero dos números estende-se também à administração autárquica.\nOra, na nossa perspectiva estamos perante números que não encontram qualquer justificação possível, a não ser a verdadeira tentativa de fuga aos concursos públicos, porque, ao autorizar-se despesa com estes valores, são muitos os contratos que o Estado celebra e que legalmente escapam à necessidade de proceder às regras do concurso público. Tudo passa a ser feito por ajuste directo."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 14,
+      "speaker": {
+        "id": 3075,
+        "name": "Emanuel Dos Santos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e do Orçamento",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não percebe nada disto!"
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 14,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas não é só, é necessário ter também em conta as vantagens que decorrem do facto dos contratos do Estado serem feitos por via do concurso público, vantagens em termos de transparência das contas públicas mas também em termos de se poder optar pela proposta que ofereça melhores condições e, sobretudo, o melhor preço, para o Estado proceder à adjudicação das suas obras.\nPara pouca transparência e numa prática que deixa interrogações já basta o regime actual, com alguns Ministérios a recorrerem sistematicamente ao ajuste directo, como é o caso do Ministério do Ambiente, no que se refere às Administrações das Regiões Hidrográficas — e outros exemplos poderia ser dados — , em que 84% dos cerca de 9 milhões de euros foram gastos na aquisição de bens e serviços sem haver qualquer concurso público. E, pior, quase 80% desses 9 milhões de euros foram gastos com uma única entidade, uma conhecida sociedade de advogados que me dispenso de identificar, porque creio que toda a gente sabe a que entidade me estou a referir.\nPortanto, em conclusão, Os Verdes consideram injustificável e a todos os títulos intolerável que o Governo pretenda agora alargar os limites para a autorização da despesa com a celebração de contratos públicos nos termos e nos moldes em que o pretende fazer, e, por conseguinte, na defesa do interesse público e da transparência que deve nortear a celebração dos contratos do Estado, Os Verdes vão votar a favor das iniciativas legislativas que pretendem revogar o Decreto-Lei n.º 40/2011, de 22 de Março, que agora estamos a apreciar. Consideramos inaceitável e injustificável esta pretensão do Governo, que mais não visa do que fugir às regras da transparência e da objectividade que norteiam os concursos públicos. Chega de descaramento!"
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Bernardino Soares."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 14,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: As apreciações parlamentares que hoje debatemos podem ser analisadas sob duas perspectivas: a jurídica e a política.\nDo ponto de vista jurídico, não queria deixar de levantar aqui um problema, que sei que é controvertido na doutrina mas que, do nosso ponto de vista, configura uma ilegalidade: é que não é aceitável, do nosso ponto de vista, a utilização de uma autorização legislativa que caducou em 31 de Dezembro.\nSei que o Governo vai dizer que aprovou este diploma num dos últimos Conselhos de Ministros de Dezembro,»"
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 14,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "São uns habilidosos!"
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 14,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» sei tambçm que os governos o que fazem, quando não têm ainda soluções definitivas para os diplomas autorizados, é aprovar e incluir nas conclusões dos Conselhos de Ministros essa aprovação, mas, depois, muitas vezes, só vários meses após essa aprovação é que o dito diploma vê a luz do dia."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 15,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 15,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Depois, é preciso também dizer que a parte que tem a ver com a norma invocada do Orçamento para 2010 só cobre a parte das alterações do ponto de vista autárquico. Essa é a sua filosofia, constante do artigo 42.º, salvo erro, do Orçamento do Estado para 2010.\nQueria ainda dizer que o problema fundamental aqui é, sem dúvida, político, porque o que o Governo faz neste diploma é aumentar, de uma forma inaceitável, os limites para autorização de despesas, e não vou referir-me a qual é o método para atribuir essas empreitadas, questão essa que não foi levantada pelo PCP.\nSr. Presidente, uma regra básica para a transparência na gestão dos dinheiros públicos é a de que os limites para a autorização, sobretudo por órgãos individuais, sejam razoáveis e não estamos de acordo que os limites sejam elevados, quer para o Sr. Primeiro-Ministro, quer para os Ministros, quer para altos cargos da Administração Pública, quer para presidentes de câmara, sobretudo com aquelas competências que podem ser delegadas pelas câmaras municipais nos presidentes, como, por exemplo, o facto de se permitir que haja delegações nos presidentes de câmara que podem ir até 2,5 milhões de euros — adjudicações de 2,5 milhões de euros! — , o que está totalmente fora do que são as exigências de transparência.\nAliás, no caso do Sr. Primeiro-Ministro o limite vai atç 7,5 milhões de euros»"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 15,
+      "speaker": {
+        "id": 3075,
+        "name": "Emanuel Dos Santos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e do Orçamento",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "11 milhões de euros! 11,250 milhões de euros!"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 15,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sim, 7,5 milhões de euros era o valor anterior. Peço desculpa, tem toda a razão, Sr. Secretário de Estado. É bem mais! Sabe qual foi a minha confusão, Sr. Secretário de Estado? É que já protestámos contra os 7,5 milhões de euros! Já eram excessivos e o Governo, em vez de corrigir, aumentou ainda esse limite para os 11,250 milhões de euros.\nPor isso, Sr. Presidente, a nossa oposição a este diploma tem a ver com o facto de que não podemos ter limites tão altos para a adjudicação de despesas e de que devem ser os órgãos colegiais as entidades que devem ser privilegiadas na adjudicação de despesas com estes montantes. Isso é que favorece a transparência e o justo exercício dos poderes públicos no uso de tão grandes montantes do dinheiro que é de todos nós.\nDepois, Sr. Presidente, também não é possível olhar para este decreto-lei sem pensar que estamos a aproximar-nos de um período muito particular da vida política e do funcionamento das instituições de soberania, que é o período em que vamos ter um governo de gestão, e, assim, é ainda mais grave que estes limites entrem agora em vigor.\nPara ilustrar a gravidade do que se está aqui a passar, podia referir, entre outros casos, o caso de uma escola em Cabeceiras de Basto, que tinha uma obra anunciada de 4 milhões, com dísticos colocados junto à escola; depois do contacto com uma empresa que estava interessada na obra, foi aberto um concurso em três dias e essa obra foi adjudicada por 3,8 milhões de euros com a justificação de que as obras já estariam feitas e era preciso andar com este concurso."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 16,
+      "speaker": {
+        "id": 2235,
+        "name": "Manuel António Gonçalves Mota Da Silva",
+        "party": "PS",
+        "string": "O Sr. Manuel Mota (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É falso! Não é a mesma obra!"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 16,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É este tipo de negócio que não podemos aceitar e aumentar os limites para decisões individuais só vai abrir mais campo à desconfiança, à falta de transparência e à pouca transparência do exercício dos cargos públicos e da aplicação dos dinheiros do Estado."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Ministro dos Assuntos Parlamentares."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 16,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares (Jorge Lacão)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Pode parecer mais um normal agendamento no normal funcionamento da Assembleia da República, mas, verdadeiramente, o que este agendamento, da iniciativa do PSD, revela não é a vontade de contribuir para qualquer procedimento que ajude ao controlo da despesa pública, é, sim, o propósito de trazer à Assembleia da República mais um momento de chicana política, completamente inconsistente, completamente infundamentado e, como se demonstrará, completamente contraditório e incoerente em relação ao próprio proponente da iniciativa.\nO que seria normal esperar num momento como aquele que o País atravessa era que a Assembleia da República e os seus grupos parlamentares estivessem preocupados com os efeitos aqui gerados pela rejeição do Programa de Estabilidade e Crescimento.\nO que seria normal esperar era que os Srs. Deputados, particularmente os dos partidos que rejeitaram PEC e, muito especialmente, ainda, o principal partido da oposição, nos dissessem o que pensam dos aumentos dos juros da dívida pública verificados nos últimos dias, da preocupante quebra de confiança em relação ao País, que se traduz na diminuição dos ratings da República, no agravamento da confiança dos mercados e na própria perplexidade das instituições e das autoridades da União Europeia sobre o que ocorreu em Portugal no exacto momento em que o País tinha obtido a solidariedade das instituições da União Europeia para garantir a consolidação orçamental e a estabilização do euro.\nO que seria expectável nos dias que correm era que, finalmente, soubéssemos a contribuição dos grupos parlamentares da oposição e, principalmente, do principal partido da oposição, sobre as medidas que, efectivamente, têm para apresentar de forma a garantir a concretização dos objectivos da consolidação orçamental e do Programa de Estabilidade e Crescimento.\nAcerca disso nada ouvimos dizer, apenas vagas afirmações sobre estratégias, pensamentos sistémicos, ideias de aprofundamento de programas que qualquer dia, por razões eleitorais, hão-de poder aparecer, mas, em verdade, nenhuma solução concreta e, mais uma vez, para resolver um único problema concreto do País.\nMas, Srs. Deputados, esta persistente ausência de alternativa, esta persistente ausência de contributo construtivo poderia, aliás, deixar-nos na expectativa de que, mais momento menos momento, finalmente, aparecesse a grande justificação pela qual, particularmente, o PSD assumiu a responsabilidade de rejeitar o Programa de Estabilidade e Crescimento.\nTalvez o tenhamos sabido agora, talvez o tenhamos sabido pela boca do líder do PSD quando, nas declarações — mais uma vez, na versão inglesa — ao The Wall Street Journal, nos vem agora dizer, e cito: «O PSD votou contra as últimas medidas de austeridade não por causa de irem longe de mais, mas por causa de não terem ido suficientemente longe».\nFicamos, pois, a perceber o desígnio do PSD. O PSD acha que as medidas não eram suficientemente austeras, que não impunham suficiente gravidade à vida dos portugueses, o que o PSD afinal quer, e ficámolo a saber da noite de ontem para hoje, é, mais uma vez, criar condições para desmantelar o sistema público de educação e o sistema público de saúde no nosso País.\nE eram estas as questões que, verdadeiramente, deveriam estar a ocupar o nosso debate político, mas, ao contrário, aquilo que o PSD aqui nos quis trazer foi uma recusa de vigência de um decreto-lei, alegando, como"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 17,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E foi!"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 17,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É falso, Sr. Deputado Bernardino Soares! O senhor andou voluntariamente a enganar as pessoas e, se não foi voluntariamente, então, aproveite e peça aqui desculpa aos portugueses por aquilo que, ontem, andou a dizer e que não tem a mínima razão de ser.\nDepois, Srs. Deputados — e esta é provavelmente a questão decisiva — , pasme-se, pasme-se com aquilo a que estamos a assistir: mais uma vez, a manifestação de uma coligação negativa, liderada pelo PSD, acolitada pelo CDS, pelo Bloco de Esquerda e pelo PCP, mas esta coligação negativa, Srs. Deputados, já não é uma coligação negativa contra o Governo, é uma coligação negativa contra os próprios!"
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 17,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Oh! Que medo!"
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 17,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É uma atitude dos próprios em relação às suas próprias opções, porque aquilo que os Srs. Deputados não vieram dizer a esta Câmara, nas vossas intervenções, foi a verdade cristalina, a realidade. E a verdade é a seguinte: este Decreto-Lei é o resultado, em parte, de um exercício de competência própria do Governo, em matéria que tem a ver com a definição das competências de"
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 18,
+      "speaker": {
+        "id": 2223,
+        "name": "Jorge Manuel Capela Gonçalves Fão",
+        "party": "PS",
+        "string": "O Sr. Jorge Fão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 18,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» nos termos que acabei de referir.\nSrs. Deputados, este artigo teve uma votação, a qual tem um significado. Quem é que votou contra estas normas aqui, na Assembleia da República? Nem um voto contra, Srs. Deputados!"
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 18,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Diga lá a votação!"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 18,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Desde o Partido Ecologista «Os Verdes» até ao PS, maior partido com assento parlamentar, passando pelo PCP, pelo Bloco de Esquerda, pelo CDS, pelo PSD, não houve um voto contra esta autorização legislativa. E querem saber um pouco mais, Srs. Deputados? Estas normas, tal como acabei de as ler, foram votadas favoravelmente pelo PS, naturalmente, como apoiante do Governo, mas não apenas pelo PS, Srs. Deputados. As normas que acabei de vos ler foram votadas a favor pelo Bloco de Esquerda, que veio hoje aqui rebelar-se contra aquilo que, antes, votou a favor. Mais: o partido interpelante, o PSD, que veio «dizer cobras e lagartos» deste Decreto-Lei e aqui manifestar a sua indignação, Srs. Deputados, em relação a estas normas, votou a favor da autorização legislativa."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Deu a «cambalhota»!"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 18,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O PSD, hoje, é um adversário de si próprio, o PSD, hoje, tal como em outras matérias, deu outra enorme «cambalhota».\nQue nome é que isto tem, Srs. Deputados? Falta de responsabilidade? Falta de decência democrática? Falta de coerência mínima? Digo-vos: completa falta de preparação para assumirem responsabilidades governativas, porque os senhores, hoje, dizem uma coisa e, amanhã, fazem totalmente o contrário daquilo que dizem.\nSrs. Deputados, é aqui que identificamos o vosso comportamento: o partido que vem interpelar para a recusa da vigência de um Decreto-Lei quer recusar a vigência de um Decreto-Lei cuja autorização legislativa foi votada favoravelmente por ele próprio."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 19,
+      "speaker": {
+        "id": 2223,
+        "name": "Jorge Manuel Capela Gonçalves Fão",
+        "party": "PS",
+        "string": "O Sr. Jorge Fão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Uma vergonha!"
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 19,
+      "speaker": {
+        "id": 2272,
+        "name": "Ricardo Manuel De Amaral Rodrigues",
+        "party": "PS",
+        "string": "O Sr. Ricardo Rodrigues (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ao que chegámos!"
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 19,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está tudo dito acerca desta matéria e desta atitude."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Cecília Meireles."
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 19,
+      "speaker": {
+        "id": 1974,
+        "name": "Cecília Felgueiras De Meireles Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Cecília Meireles (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Ministro dos Assuntos Parlamentares, ouvi-o atentamente e tive até de esperar uns longos minutos para que começasse a falar do que, de facto, aqui nos trouxe, porque a primeira parte da sua intervenção foi interessante, sem dúvida — dirigida, sobretudo, creio eu, ao PSD — , mas, em todo o caso, nada teve a ver com aquilo que aqui nos trouxe.\nGostava de lhe colocar algumas questões sobre o Decreto-Lei que estamos a apreciar, visto que estamos a realizar uma apreciação parlamentar e, portanto, o mais pertinente é debruçarmo-nos sobre o tema.\nSr. Ministro, já o ouvi falar muito do que este Decreto-Lei não altera, ou seja, disse que não altera a forma, não altera os procedimentos, não altera o visto prévio do Tribunal de Contas, mas falou muito pouco daquilo que, de facto, é alterado. E o que, de facto, é alterado são os limites, sobretudo, devo dizer-lhe, na Administração Pública e na administração do Estado. Estes limites, de uma forma geral e grosso modo, para além de serem ampliados, no sentido de que há mais entidades que passam a ter competência, são também aumentados em 50%. E parece-me que a questão essencial que importa colocar aqui é a de perceber para quê. O que é que o Governo pretende fazer, exactamente, com isto? É que, primeiro, li que se tratava de uma actualização de preços, mas parece-me que já todos chegámos à conclusão de que não é, porque a inflação ronda os 30%»"
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 19,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "24%!"
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 19,
+      "speaker": {
+        "id": 1974,
+        "name": "Cecília Felgueiras De Meireles Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Cecília Meireles (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» e não os 50%, nestes õltimos 10 anos; por outro lado, li no Decreto-Lei que isto conferia «(») uma maior autonomia em matçria de autorização de despesa, atendendo a que os limites ora fixados são substancialmente superiores aos anteriormente vigentes». Ora, penso que autonomia para realizar despesa é tudo o que não precisamos, é exactamente aquilo que não é preciso nesta altura.\nQuando tantas famílias portuguesas passam a ter menos autonomia para realizar despesas, porque, naturalmente, se lhes diminuem os salários, se lhes diminuem as pensões, se têm de pagar mais impostos, têm bastante menos autonomia para irem ao supermercado, para pagarem a conta da luz, etc., o Sr. Ministro considera natural que, na Administração Pública, haja mais autonomia para realizar despesa?! Isto parece-lhe pertinente? A mim, não me parece, de todo!"
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 19,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não faz sentido!"
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 19,
+      "speaker": {
+        "id": 1974,
+        "name": "Cecília Felgueiras De Meireles Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Cecília Meireles (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por último — e sei que a questão é diferente, pelo que escusa de vir com o argumento de que é igual — , em relação à execução orçamental e, neste caso, sim, em relação às formas de procedimento, e porque sabemos que o ajuste directo é utilizado abundantemente e, muitas vezes, de forma irregular e da forma que não deveria ser utilizado, quero perguntar-lhe, exactamente, para que é que o Governo pretende que, em situações excepcionais, o Ministro das Finanças ou o Ministro do Trabalho e da Solidariedade Social possam autorizar que sejam enquadrados em ajuste directo procedimentos que não"
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Ministro dos Assuntos Parlamentares."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 20,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Cecília Meireles, o meu colega Secretário de Estado Adjunto e do Orçamento terá ainda ocasião de intervir para demonstrar, ainda com mais detalhe, a consistência técnica do Decreto-Lei que estamos a apreciar.\nMas há um ponto, Sr.ª Deputada, em relação ao qual a convido a concentrarmos a nossa atenção, que é o seguinte: quando, também os senhores, participaram na votação a que, há pouco, aludi e concederam a autorização legislativa ao Governo, concederam-na para que pudesse ser executada, aumentando para o dobro os limites de autorização de despesa então em vigor."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 20,
+      "speaker": {
+        "id": 1974,
+        "name": "Cecília Felgueiras De Meireles Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Cecília Meireles (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não, não, não!"
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 20,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E concederam-na para que esse limite pudesse aumentar até três vezes, em situações urgentes devidamente demonstradas."
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 20,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Leia a lei! O Decreto-Lei vai além!"
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 20,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O CDS absteve-se nessa votação e a minha questão é esta, Sr.ª Deputada: se as vossas posições eram tão negativas em relação a esta possibilidade, como, supostamente, agora parecem ser, por que é que os senhores não votaram contra esta autorização legislativa?! Por que é que os senhores, agora, vêm recusar a vigência de um Decreto-Lei que procede de uma autorização legislativa em relação à qual não se rebelaram, politicamente falando, na altura em que o podiam ter feito?! Consequentemente, Sr.ª Deputada Cecília Meireles e Srs. Deputados do CDS, a questão política fundamental aqui, se me permitem, é uma questão de lealdade nos procedimentos institucionais."
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 20,
+      "speaker": {
+        "id": 1974,
+        "name": "Cecília Felgueiras De Meireles Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Cecília Meireles (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso ç de uma desonestidade intelectual!»"
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 20,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A Assembleia da República, que concedeu uma autorização legislativa ao Governo para que o Governo legislasse de determinado modo, tendo o Governo cumprido escrupulosamente os limites dessa autorização legislativa,»"
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 20,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tenha vergonha!"
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 20,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» vem agora recusar a vigência de um diploma que o próprio Parlamento autorizou o Governo a fazer. Isto não faz qualquer sentido e esta é a questão fundamental que está em causa neste debate."
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para interpelar a Mesa, tem a palavra o Sr. Deputado Pedro Mota Soares."
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 20,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, a minha interpelação vai no sentido de solicitar à Mesa que proceda à distribuição de um documento. E o documento que peço que seja distribuído é uma cópia do artigo 42.º da Lei de Orçamento do Estado para 2010, que estabelece, muito claramente, que a autorização legislativa se refere, única e exclusivamente, às autarquias locais."
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 21,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Lealdade no debate político, Sr. Presidente, é sermos muito precisos nos termos e não virmos aqui fazer acusações falsas às bancadas parlamentares."
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 21,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Escusava de ouvir isto!"
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para interpelar a Mesa, tem a palavra o Sr. Ministro dos Assuntos Parlamentares."
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 21,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, também posso entregar à Mesa o registo histórico da votação do aludido artigo»"
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Autarquias locais!"
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 21,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» e aproveito para dizer ao Sr. Deputado Pedro Mota Soares que comecei a minha intervenção, na parte relevante para este efeito, dizendo o seguinte: o Governo fez um Decreto-Lei, em parte, no uso da competência própria»"
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ah!"
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 21,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» relativamente aos órgãos da Administração Põblica e no uso da competência autorizada no que diz respeito às autarquias locais."
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 21,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Deslealdade!"
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 21,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado Pedro Mota Soares estava distraído, porventura estava nervoso e não ouviu o que eu disse, pelo que aquilo que o Sr. Deputado deve fazer é pedir desculpa, porque me fez uma imputação que nada, rigorosamente nada tem a ver com aquilo que eu disse, com total objectividade, e que, como tal, mantenho inteiramente."
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Paulo Correia."
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 21,
+      "speaker": {
+        "id": 2043,
+        "name": "João Paulo Moreira Correia",
+        "party": "PS",
+        "string": "O Sr. João Paulo Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: O País está mergulhado numa crise política provocada pelo PSD, com a natural ajuda do CDS e as «muletas» da extrema-esquerda, Bloco e PCP.\nAconteceu o que o nosso País menos precisava: a oposição empurrou Portugal para uma crise política, numa altura absolutamente delicada para o País, sabendo de antemão que uma crise política só iria agravar a vida das empresas e das famílias."
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 21,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Fugiram outra vez!"
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 21,
+      "speaker": {
+        "id": 2043,
+        "name": "João Paulo Moreira Correia",
+        "party": "PS",
+        "string": "O Sr. João Paulo Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "No momento mais decisivo na defesa dos interesses do nosso País, ou seja, no momento crucial do processo de estabilização do financiamento da nossa economia, a oposição «tirou o tapete» ao País, agravando ainda mais a actual situação financeira."
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 22,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é a mesma!"
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 22,
+      "speaker": {
+        "id": 2043,
+        "name": "João Paulo Moreira Correia",
+        "party": "PS",
+        "string": "O Sr. João Paulo Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que é isto senão uma «cambalhota», senão falta de credibilidade?! É caso para se dizer que a oposição, sem excepção, já faz oposição a si própria!\nFaz sentido crispar ainda mais o clima político do País acerca de uma matéria que só avançou porque mereceu a concordância da oposição, exactamente a mesma oposição que hoje está contra?!\nO que está em causa é uma actualização dos preços dos valores máximos para a autorização da despesa nos contratos públicos. E isso, ao contrário do que diz a oposição, não aumenta a despesa nem altera as regras concursais e não dispensa o visto prévio do Tribunal de Contas! Acontece que a vontade de atacar o Governo é tanta que leva os partidos da oposição a perder identidade política.\nÉ caso para perguntar ao PSD, principal partido da oposição: é assim que querem ser poder em Portugal?! É com «cambalhota» atrás de «cambalhota» que oferecem qualquer tipo de credibilidade aos portugueses?!"
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 23,
+      "speaker": {
+        "id": 2043,
+        "name": "João Paulo Moreira Correia",
+        "party": "PS",
+        "string": "O Sr. João Paulo Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Este PSD não está à altura das especiais responsabilidades de governação. Para além de dizer uma coisa hoje e amanhã o seu contrário, o PSD é incapaz de dizer frontalmente quais são as suas alternativas,»"
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 23,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O PSD parece o PS!"
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 23,
+      "speaker": {
+        "id": 2043,
+        "name": "João Paulo Moreira Correia",
+        "party": "PS",
+        "string": "O Sr. João Paulo Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» as suas propostas, as suas ideias e o que quer para o País.\nNa verdade, o PSD esconde ao País uma agenda liberal e, no meio da azáfama e da trapalhada da sua política populista, lá deixa cair involuntariamente umas folhas dessa agenda.\nFoi assim com o projecto de revisão constitucional, quando o País soube que é intenção do PSD desmantelar o Estado social privatizando a saúde, a educação e a segurança social e liberalizando o despedimento por justa causa.\nFoi assim no encerramento das suas últimas jornadas parlamentares, quando o País soube que o PSD quer encerrar as empresas públicas de transportes.\nFoi assim no comunicado enviado aos mercados, em inglês, quando o País soube que o PSD quer avançar com despedimentos na função pública.\nE foi assim, há poucos dias, quando o líder do PSD admitiu aumentar impostos, a principal razão que levou o PSD a abrir esta crise política com a rejeição das linhas gerais de revisão do Programa de Estabilidade e Crescimento.\nPode dizer-se que de «cambalhota» em «cambalhota» lá vai o PSD em processo de descredibilização contínua! Os portugueses já sabem o que no fundo mobiliza o PSD: governar com o FMI. A agenda escondida do PSD é igualzinha à agenda pública do FMI. O PSD comporta-se como o cartão de visita do FMI em Portugal."
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 23,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E o PS!"
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 23,
+      "speaker": {
+        "id": 2043,
+        "name": "João Paulo Moreira Correia",
+        "party": "PS",
+        "string": "O Sr. João Paulo Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Srs. Deputados, se a direita está sedenta de poder, e tudo vale para lá chegar, a extrema-esquerda está sempre contra tudo, independentemente do governo, da governação e da conjuntura.\nA habitual indisponibilidade da extrema-esquerda para dialogar significa que, quer o Bloco de Esquerda quer o PCP, não são solução. O País sabe que entre o radicalismo e o moralismo do Bloco de Esquerda e o imobilismo do PCP não há contributo possível. Por todas estas razões, defender Portugal é mais imperioso que nunca! É isso que о Governo tem feito, desde que foi eleito em Setembro de 2009.\nPode parecer despropositado, mas, neste contexto de fraca memória reinante na nossa classe política, há que relembrar dois aspectos essenciais.\nPrimeiro, a situação que vivemos, portugueses e europeus, é fruto da crise internacional que abalou o mundo e atingiu toda a União Europeia de igual forma,»\n» tanto ao nível dos défices excessivos como ao nível do aumento da dívida pública.\nSegundo, o Governo está a desenvolver uma resposta em consonância com os países da União Europeia, ou seja, consolidar as contas públicas reduzindo o défice orçamental sucessivamente até 2013 e diminuindo consideravelmente a despesa pública.\nSó assim será possível vencermos o desafio da recuperação da confiança dos mercados e da consequente estabilização da nossa economia. Um desafio que passa por reduzir o défice orçamental até 2013.\nSabemos que são medidas duras e impopulares, mas são medidas necessárias, nomeadamente para a defesa do Estado social."
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 24,
+      "speaker": {
+        "id": 2043,
+        "name": "João Paulo Moreira Correia",
+        "party": "PS",
+        "string": "O Sr. João Paulo Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os tempos são de enorme responsabilidade e a responsabilidade aponta para a defesa dos interesses do País. Infelizmente, a oposição preferiu o assalto ao poder, em detrimento da defesa dos interesses do País. Defender Portugal deve ser a única centralidade da actividade política nacional.\nE no meio desta crise política, absolutamente desnecessária, defender Portugal já não se resume ao exterior, junto dos mercados e das instituições internacionais. Hoje, defender Portugal significa também estar contra o populismo e o radicalismo desenfreado da oposição; defender Portugal significa estar também contra a falta de credibilidade do PSD e contra a permanente indisponibilidade do CDS e da extrema-esquerda.\nO Governo do Partido Socialista continua totalmente empenhado na defesa do País e estamos certos de que os portugueses assim o saberão ajuizar."
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado João Pinho de Almeida para pedir esclarecimentos."
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 24,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado João Paulo Correia, trouxe-nos aqui mais uma edição de um guião que já percebemos que é o guião de campanha do Partido Socialista, mas que corre o risco de ficar totalmente gasto antes atç das próprias eleições estarem convocadas,»\n» tal ç a repetição e tal ç a fragilidade dos argumentos que aqui são apresentados.\nE o pior da fragilidade desses argumentos é que eles não resistem a uma prova de credibilidade, a prova da total ausência de credibilidade do Partido Socialista, que ainda hoje de manhã — e é essa a pergunta muito objectiva que quero fazer ao Sr. Deputado — ficou, mais uma vez, afirmada na Comissão de Orçamento e Finanças.\nNessa mesma Comissão, o Partido Socialista teve uma posição muito clara relativamente à actividade da Unidade Técnica de Apoio Orçamental (UTAO), que, como sabemos, tem sido uma entidade isenta, uma entidade independente e uma entidade apartidária, essencial no esclarecimento do ponto de situação das finanças públicas em Portugal. O que diz o Partido Socialista sobre a UTAO? A partir do momento em que haja dissolução da Assembleia, nem mais um relatório, nem mais um parecer, nem mais uma informação! Cale-se toda a verdade, porque a verdade não interessa ao Partido Socialista!"
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 24,
+      "speaker": {
+        "id": 1405,
+        "name": "Sónia Ermelinda Matos Da Silva Fertuzinhos",
+        "party": "PS",
+        "string": "A Sr.ª Sónia Fertuzinhos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso não é verdade!"
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 24,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, isto diz tudo sobre a credibilidade dessa tese que os senhores têm insistido em repetir, mas que não tem qualquer credibilidade."
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 24,
+      "speaker": {
+        "id": 1405,
+        "name": "Sónia Ermelinda Matos Da Silva Fertuzinhos",
+        "party": "PS",
+        "string": "A Sr.ª Sónia Fertuzinhos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso não é verdade!"
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para responder, o Sr. Deputado João Paulo Correia."
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 25,
+      "speaker": {
+        "id": 2043,
+        "name": "João Paulo Moreira Correia",
+        "party": "PS",
+        "string": "O Sr. João Paulo Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado João Pinho de Almeida, agradeço a sua pergunta.\nRespondendo directa e objectivamente, devo dizer-lhe o seguinte: o CDS tem habituado o País e os portugueses a grandes sessões de populismo nesta Assembleia da República."
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 25,
+      "speaker": {
+        "id": 2043,
+        "name": "João Paulo Moreira Correia",
+        "party": "PS",
+        "string": "O Sr. João Paulo Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quem veio aqui, agora, impor exigência nas contas públicas e contenção na despesa põblica»"
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 25,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Transparência!"
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 25,
+      "speaker": {
+        "id": 2043,
+        "name": "João Paulo Moreira Correia",
+        "party": "PS",
+        "string": "O Sr. João Paulo Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» foi o mesmo partido que numa manhã nebulosa, há uns meses, veio exigir que o Governo descesse as receitas do PEC e aumentasse a despesa social. Foi esse o contributo que o CDS quis dar ao País: aumentar o défice orçamental descendo as receitas e aumentando a despesa!"
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 25,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E sobre a UTAO?!"
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 25,
+      "speaker": {
+        "id": 2043,
+        "name": "João Paulo Moreira Correia",
+        "party": "PS",
+        "string": "O Sr. João Paulo Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, habitualmente o CDS recorre ao discurso do pessimismo e ao discurso depressivo, tentando fragilizar a acção política do Governo. Só que não conhecemos nenhuma crise que se vença com posturas e discursos pessimistas, conforme o CDS tem feito desde que está nesta Assembleia da República!"
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 25,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E sobre a UTAO?!"
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 25,
+      "speaker": {
+        "id": 2043,
+        "name": "João Paulo Moreira Correia",
+        "party": "PS",
+        "string": "O Sr. João Paulo Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Do vosso lado, não conhecemos nenhuma proposta em concreto, nenhuma ideia relativamente à crise que assolou a Europa e o nosso País.\nNum momento em que o País se debate com grandes dificuldades no exterior,»"
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 25,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E sobre a UTAO?!"
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 25,
+      "speaker": {
+        "id": 2043,
+        "name": "João Paulo Moreira Correia",
+        "party": "PS",
+        "string": "O Sr. João Paulo Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» muitas delas á custa de intervenções escritas, como, recentemente, fez o líder do PSD num jornal norte-americano, tentando fragilizar as condições de financiamento do nosso País no exterior, era importante que o Sr. Deputado aproveitasse o debate de hoje para obtermos uma palavra do CDS em relação a isso. Mas sobre isso o CDS e o Sr. Deputado calaram-se e mantêm-se me silêncio!"
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 25,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sobre a UTAO, não respondeu, como é evidente!"
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Bernardino Soares."
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 25,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Este debate já teve, pelo menos, dois momentos muito interessantes.\nO primeiro foi quando — imagine-se! — o Governo veio acusar o PCP de enganar voluntariamente os portugueses. Imagine-se: o Governo a acusar o PCP de enganar voluntariamente os portugueses. É preciso ter descaramento."
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 25,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 26,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O segundo, mais à frente, foi quando o mesmo Governo disse — imagine-se, mais uma vez! — que o Governo procedeu e procede com total lealdade nos procedimentos institucionais.\nÓ Srs. Deputados, se o assunto que estamos a debater não fosse tão sério, era quase caso para darmos aqui todos uma sonora gargalhada.\nMas, sobre a questão que está em cima da Mesa, Sr. Ministro dos Assuntos Parlamentares, quero dizer-lhe o seguinte: a autorização legislativa que os senhores invocam tinha caducado. Portanto, na parte relativa às autarquias locais, que é aquela que depende desta autorização legislativa — bem sei que o resto não depende — , há uma ilegalidade. Se o Sr. Ministro acha que não foi dito há pouco com toda a clareza, é dito agora, porque, se não fosse dessa maneira, atribuíamos ao Governo um poder discricionário de protelar as autorizações legislativas invocando o desenvolvimento do processo legislativo. Isso não é aceitável, e nós não aceitamos essa interpretação da lei! Em relação ao artigo do Orçamento, sabe, Sr. Ministro, é preciso ver as coisas com atenção: em primeiro lugar, ele é só sobre as autarquias; em segundo lugar, é mais uma das dezenas de autorizações legislativas que os senhores puseram no Orçamento do Estado.\nÉ certo que o PCP se absteve, não votou a favor, mas este artigo não dizia que se iriam aumentar desta forma os limites, estabelecia um limite máximo e continha também outras normas com as quais até estávamos de acordo. Por exemplo, no que respeita à possibilidade de poder haver, pelas assembleias municipais, órgão deliberativo, aprovação de verbas que tinham incidência em vários anos, porque, às vezes, há projectos que implicam essas autorizações. E, no cômputo geral destas várias normas, muitas delas vagas, o nosso resultado foi a abstenção.\nMas é curioso que o Sr. Ministro não tenha querido falar do problema fundamental, que é sabermos o que justifica que a autorização para despesas no que respeita ao Sr. Primeiro-Ministro aumente, neste momento, 50%. O que justifica isto, Sr. Ministro? É essa a resposta que o senhor tem que dar ao País e não perder-se aqui com acusações que não têm qualquer sentido."
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 26,
+      "speaker": {
+        "id": 1169,
+        "name": "António Filipe Gaião Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. António Filipe (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Claro! Exactamente!"
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 26,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É de 50% o aumento da autorização de despesas por parte do Primeiro-Ministro."
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 26,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Ministro."
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 26,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, solicito a V. Ex.ª que, através da Mesa, possam ser distribuídos à Câmara dois documentos.\nO primeiro ç o Comunicado do Conselho de Ministros, de 23 de Dezembro de 2010,»"
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 26,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Já vimos!"
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 26,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» dado que o Sr. Deputado Bernardino Soares acabou de reiterar que o uso da autorização legislativa teria sido com base numa autorização entretanto caducada, o que é inteiramente falso dado que essa autorização tinha validade até 31 de Dezembro do ano 2010 e ela, através deste documento, foi aprovada a 23 de Dezembro.\nDepois, Sr. Presidente, um segundo documento: o Acórdão n.º 187/2000, do Tribunal Constitucional, que muito claramente diz que, para que se considere respeitado o prazo de autorização legislativa, basta que ocorra dentro desse prazo a aprovação pelo Conselho de Ministros do decreto-lei emitido no uso dessa autorização."
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 27,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Então e sobre os 50%?"
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 27,
+      "speaker": {
+        "id": 1274,
+        "name": "João Rodrigo Pinho De Almeida",
+        "party": "CDS-PP",
+        "string": "O Sr. João Pinho de Almeida (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E sobre a UTAO?!"
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Miguel Macedo."
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 27,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Sr. Miguel Macedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Queria começar por dizer que convinha que intervenções feitas no Plenário da Assembleia da República fossem um pouco mais além daquilo que, provavelmente, é exigido no plenário de uma qualquer federação do Partido Socialista."
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 27,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Sr. Miguel Macedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E ainda que, se se pretender dignificar a democracia, talvez convenha pôr alguma racionalidade no debate político e, sobretudo, também, de vez em quando, alguma inteligência.\nSr. Presidente e Srs. Deputados: Quero começar por trazer a este debate alguns dos valores que tive oportunidade de apurar e que decorrem da aprovação deste decreto-lei do Governo.\nEste decreto-lei, que foi publicado em Março de 2011, revoga um decreto-lei de 1999. Neste decreto-lei de 1999, estava previsto o seguinte: que os directores-gerais podiam autorizar despesas até 100 000 euros. Fiz as contas à inflação, de 1999 até 2011, e o resultado que obtive foi o de que, se o Governo tivesse seguido aquilo que seria normal, hoje, este decreto-lei devia dizer que os directores-gerais podiam autorizar despesas, nos termos da lei, até 131 400 euros. O decreto-lei que o Governo acabou de publicar diz que os directoresgerais podem autorizar despesas até 750 000 euros.\nTambém fiz as contas relativamente aos presidentes de câmara. O raciocínio é idêntico: em 1999, no decreto-lei que foi agora revogado, o presidente da câmara podia autorizar despesas até 150 000 euros; com a correcção da inflação teríamos, hoje, na lei, um valor de 197 000 euros. O Governo autoriza, agora, até ao valor correspondente a 900 000 euros.\nQuanto aos ministros, estava previsto que pudessem autorizar despesas até 3 750 000 euros; com a inflação, teríamos, agora, 4,9 milhões de euros. O Governo autoriza 5,6 milhões de euros.\nPara o Primeiro-Ministro, tínhamos autorização para 7,5 milhões de euros; com a inflação teríamos, hoje, 9,9 milhões de euros. O Governo autoriza, agora, 11,3 milhões de euros."
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 27,
+      "speaker": {
+        "id": 1410,
+        "name": "Maria Teresa Da Silva Morais",
+        "party": "PSD",
+        "string": "A Sr.ª Teresa Morais (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está esclarecido?!"
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 27,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Sr. Miguel Macedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A questão, Sr. Presidente e Srs. Deputados, é exactamente esta que vou enunciar: o que justifica, em nome do interesse público, da transparência, que o Governo, hoje, com este decreto-lei, tenha superado, largamente, aquilo que seriam os limites admissíveis de autorização para cada um destes cargos da Administração Pública que acabei de enunciar? Esta é a questão-chave a que este debate deve dar resposta — curiosamente, esta questão-chave não foi abordada, nem na intervenção do Ministro dos Assuntos Parlamentares nem, muito menos, na intervenção da bancada do Partido Socialista — , porque, era o que mais faltava, mesmo na situação em que nos encontramos e no período em estamos, que o Governo se isentasse de explicar ao País a racionalidade, a lógica, a bondade, a sensatez e a ponderação de uma medida como esta."
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 28,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Sr. Miguel Macedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sobretudo, vindo esta medida de um Governo, como o Governo do Partido Socialista, que tem, ainda — e vou repetir uma expressão que tenho usado, várias vezes, nesta Assembleia da República — , a «lata de apontar os dedos» aos partidos da oposição, em particular, ao Partido SocialDemocrata,»\n» interpelando-o por responsabilidades que, manifestamente, não temos."
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 28,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Algumas têm»!"
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 28,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Sr. Miguel Macedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quem tem, hoje, de dar uma explicação ao País é, evidentemente, o Partido Socialista e é este Governo! Porque, Sr. Presidente e Srs. Deputados (eu não quero desviar a conversa do que é essencial, neste debate), é essa a explicação que queremos do Governo, neste debate; foi essa a explicação que não obtivemos do Governo, neste debate.\nMas, Sr. Presidente e Srs. Deputados, quero também dizer que a crise em que nos encontramos não nasceu ontem, nem nasceu com a recusa deste PEC 4, que sucedeu ao PEC 3, que sucedeu ao PEC 2, que sucedeu ao PEC 1, e que sucedeu a duas execuções falhadas de Orçamentos do Estado da responsabilidade deste Governo!»"
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 28,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 28,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Sr. Miguel Macedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Porque essa é que é a questão central do debate político! Quanto ao mais, já percebemos que há um «disco« para repetir atç ás eleições»!"
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Claro!"
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 28,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Sr. Miguel Macedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas vou fazer um pedido a todos os Deputados e responsáveis do Partido Socialista: repitam muito esse «disco». Acho que, quanto mais o repetirem, mais os portugueses vão perceber como são ocas as vossas palavras»\n» e a total descolagem do Partido Socialista em relação á realidade. Sabem porquê, Srs. Deputados?\nPode enganar-se alguém uma vez, mas não se pode enganar toda a gente todas as vezes!"
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Ricardo Rodrigues."
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 28,
+      "speaker": {
+        "id": 2272,
+        "name": "Ricardo Manuel De Amaral Rodrigues",
+        "party": "PS",
+        "string": "O Sr. Ricardo Rodrigues (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Ministro dos Assuntos Parlamentares, Srs.\nSecretários de Estado, Sr.as e Srs. Deputados: Ainda bem que o Sr. Deputado Miguel Macedo, o líder parlamentar do PSD, veio a jogo.\nAquilo que eu gostava de afirmar, nesta fase, é o seguinte: quem tem de explicar esta discussão que estamos, hoje, a ter aqui é o PSD! É porque os senhores usaram de um agendamento potestativo, alteraram a agenda normal do Parlamento, para virem discutir uma «questão muito importante». E a «questão muito importante» é a de dizer o seguinte: «Nós, PSD, aprovámos uma autorização legislativa que permitia que o"
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É, ç»!"
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 29,
+      "speaker": {
+        "id": 2272,
+        "name": "Ricardo Manuel De Amaral Rodrigues",
+        "party": "PS",
+        "string": "O Sr. Ricardo Rodrigues (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Será a conjuntura política, de agora, que fez com que os senhores venham querer enganar o povo português?\nÓ Sr. Deputado, aplica-se muito bem à vossa bancada: um pouco de inteligência, um pouco de sensatez, um pouco de racionalidade, Sr. Deputado, faria muito bem à bancada do PSD! Nós estamos a cumprir aquilo que é a nossa obrigação. O Governo fez um decreto-lei que os senhores impuseram e que autorizaram. E foi nesse âmbito que o Governo agiu.\nMas, Srs. Deputados, pior do que isso é quererem enganar, agora, o povo. Então, aumentámos o valor do ajuste directo?! Não, não aumentámos!\nDisseram-no: «Querem aumentar a despesa». Mas, então, a despesa não tem de estar contida nos limites do Orçamento? Só se pode fazer despesa contida nos limites do orçamento! Não tem de ir ao Tribunal de Contas? Claro que tem de ir ao Tribunal de Contas!"
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 29,
+      "speaker": {
+        "id": 2272,
+        "name": "Ricardo Manuel De Amaral Rodrigues",
+        "party": "PS",
+        "string": "O Sr. Ricardo Rodrigues (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O ajuste directo teve algum aumento? Não, não teve! É igual! O concurso público tem as mesmas regras? Sim, tem, tem as mesmas regras! Tudo tem as mesmas regras, Srs. Deputados! Qual é o vosso espanto? Virem para aqui achar que tinham «descoberto a pólvora«»?! Que queriam, agora, quase no último dia do Plenário do Parlamento, dizer aos portugueses que, afinal, o PS tinha uma coisa escondida para mostrar»?! Não, os senhores ç que a tinham e queriam enganar!"
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 29,
+      "speaker": {
+        "id": 2272,
+        "name": "Ricardo Manuel De Amaral Rodrigues",
+        "party": "PS",
+        "string": "O Sr. Ricardo Rodrigues (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas desta vez, de facto, «saiu-vos o tiro pela culatra». E a verdade é que os senhores mudam de opinião, consonante a conjuntura."
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 30,
+      "speaker": {
+        "id": 2272,
+        "name": "Ricardo Manuel De Amaral Rodrigues",
+        "party": "PS",
+        "string": "O Sr. Ricardo Rodrigues (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Há um ano, eram pelo «branco«; agora, querem o «preto«» Porquê?!» Nada mudou, no País! A crise, de há um ano a esta parte, era a mesma, Sr. Deputado! Era a mesma crise que está agora, um bocadinho mais agravada. E a culpa, enfim, veremos: os portugueses verão de quem foi esse agravamento da crise.\nMas, Sr. Deputado, de facto, vou retribui-lhe o conselho: um pouco mais de inteligência, Sr. Deputado!"
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado José Gusmão."
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 30,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente: Quem tivesse ouvido o Sr. Deputado João Paulo Correia fazer a intervenção que fez, há pouco, dizendo como os juros da dívida subiram, depois de ter sido rejeitado o Programa de Estabilidade e Crescimento, e como desceram os ratings das agências de notação financeira» Srs. Deputados, por acaso, os juros da dívida estavam a descer, antes de ter sido rejeitado o Programa de Estabilidade e Crescimento?!\nNão, não estavam estáveis, não senhor!! Quando foi aprovado o PEC 1, os juros eram de 4,3%; depois, subiram para 4,7%; depois, para 6,2%; e, depois, para 7,1%» E continuaram a subir! Foi a vossa política de fragilização da economia portuguesa, de recessão económica, que colocou os juros da dívida pública a subirem, continuamente, desde que os senhores têm aplicado essas medidas."
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 30,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E, portanto, dizer agora que os juros da dívida pública estão no ponto em que estão, porque foi rejeitado o Programa de Estabilidade e Crescimento — ou seja, mais um dos «pacotes» de austeridade que vieram aumentar os juros da dívida pública, durante todo este tempo — , é de um descaramento e de uma falta de memória»! É pensar que os portugueses são parvos,»"
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não! Pensam pela sua cabeça»!"
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 30,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» que os portugueses não têm visto a evolução dos juros da dívida põblica, ao longo dos últimos dois anos!\nQue não têm visto os cortes sucessivos, nos ratings das agências em relação à dívida pública portuguesa.\nÉ pensar que as pessoas não têm memória!! A mesma coisa, em relação ao argumento das mentiras: é preciso ter descaramento! O Governo repetiu, várias vezes, que o estava em causa, aqui, era uma mera actualização dos valores em relação a 1999. Vamos admitir que essa actualização fazia sentido. Já foram feitas aqui, por vários grupos parlamentares, as contas em relação ao que seria uma actualização por vários grupos parlamentares. Nem o Governo nem o Partido Socialista querem falar sobre o assunto — que, por acaso, é o assunto da ordem de trabalhos — que é o facto de haver actualizações para Primeiro-Ministro, para ministros, para directores-gerais, que excedem, e em muito, o que seria uma actualização desses valores."
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 31,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E isso não constava da autorização legislativa que foi votada, aquando do Orçamento do Estado para 2010."
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do BE",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 31,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, quem tem de pedir desculpas por enganar os portugueses são os senhores do Partido Socialista!"
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Luís Menezes."
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 31,
+      "speaker": {
+        "id": 2233,
+        "name": "Luís Filipe Valenzuela Tavares Menezes Lopes",
+        "party": "PSD",
+        "string": "O Sr. Luís Menezes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: A meio que estamos deste debate, conseguimos ver com clareza que a publicação deste decreto-lei é mais uma grande «trapalhada» deste Governo.\nInfelizmente, temos vindo a ser habituados a esta situação.\nMas este decreto-lei, em particular, é imoral e é uma falta de respeito para com milhões de portugueses que vivem, hoje, com menos, fruto da situação económica e social a que este Governo Socialista trouxe o País.\nJá aqui foi dito, e repetimo-lo com firmeza: os senhores puseram o País «em pantanas»!!\nOntem, o Sr. Primeiro-Ministro, com a falta de humildade democrática do costume, veio «apontar o dedo» à oposição, dizendo «que se ‘deitou ao lixo’ o trabalho do Governo para credibilizar as contas põblicas«."
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 31,
+      "speaker": {
+        "id": 2233,
+        "name": "Luís Filipe Valenzuela Tavares Menezes Lopes",
+        "party": "PSD",
+        "string": "O Sr. Luís Menezes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Srs. Deputados, são contas públicas que levaram os juros aos 8%, muito antes da apresentação do PEC 4; contas públicas que estavam tão bem, tão bem, que não precisavam de mais medidas de austeridade, mas afinal precisavam; contas públicas, que, soubemos ontem, podem vir a ter um deficit de 2010 revisto, em alta, para cima dos 8%. E não é dito por nós, é dito pelo INE."
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 31,
+      "speaker": {
+        "id": 2039,
+        "name": "João Saldanha De Azevedo Galamba",
+        "party": "PS",
+        "string": "O Sr. João Galamba (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O INE não diz isso, não diz que é revisto em alta!"
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 31,
+      "speaker": {
+        "id": 2233,
+        "name": "Luís Filipe Valenzuela Tavares Menezes Lopes",
+        "party": "PSD",
+        "string": "O Sr. Luís Menezes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E, por isso, é preciso dizer, com clareza: não foi a oposição que «deitou ao lixo» o trabalho do Governo; foi o Governo, que, com a sua incompetência, com a sua falta de rigor e transparência, arrasou a credibilidade do País, juntos dos mercados e dos investidores internacionais.\nNo meio desta perda de credibilidade, que começou há mais de seis anos, quem é que tem pago a factura? Os Portugueses, como é costume, com o Governo socialista! Todos os dias, este Governo pede mais e mais sacrifícios aos portugueses: foi no PEC 1, foi no PEC 2, foi no PEC 3, no Orçamento do Estado e, agora, no PEC 4.\nO ajustamento das contas põblicas ç sempre feito á custa dos portugueses»"
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 32,
+      "speaker": {
+        "id": 1405,
+        "name": "Sónia Ermelinda Matos Da Silva Fertuzinhos",
+        "party": "PS",
+        "string": "A Sr.ª Sónia Fertuzinhos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não tem a ver com isso!"
+    },
+    {
+      "utterance_id": 166,
+      "order": 166,
+      "page_start": 32,
+      "speaker": {
+        "id": 2233,
+        "name": "Luís Filipe Valenzuela Tavares Menezes Lopes",
+        "party": "PSD",
+        "string": "O Sr. Luís Menezes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Com este decreto-lei o Governo não está a agilizar processos de decisão, está a agilizar mecanismos para a criação de mais despesa com menos rigor, e isso o PSD não deixará passar."
+    },
+    {
+      "utterance_id": 167,
+      "order": 167,
+      "page_start": 32,
+      "speaker": {
+        "id": 1405,
+        "name": "Sónia Ermelinda Matos Da Silva Fertuzinhos",
+        "party": "PS",
+        "string": "A Sr.ª Sónia Fertuzinhos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Que falta de seriedade!"
+    },
+    {
+      "utterance_id": 168,
+      "order": 168,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Ricardo Rodrigues."
+    },
+    {
+      "utterance_id": 169,
+      "order": 169,
+      "page_start": 32,
+      "speaker": {
+        "id": 2272,
+        "name": "Ricardo Manuel De Amaral Rodrigues",
+        "party": "PS",
+        "string": "O Sr. Ricardo Rodrigues (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Luís Menezes, na sua intervenção começou por afirmar que o decreto-lei em apreciação é imoral. Não acha que a autorização legislativa também era imoral? Porque é que votou a favor? É que a autorização legislativa é igual ao decreto-lei no que tem a ver com as autarquias! Ou, então, o Sr. Deputado acha que para as autarquias há uma razão especial, diferente, para que se possam aumentar estes valores, mas que para o Governo não há nenhuma razão em especial"
+    },
+    {
+      "utterance_id": 170,
+      "order": 170,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Luís Menezes para responder."
+    },
+    {
+      "utterance_id": 171,
+      "order": 171,
+      "page_start": 33,
+      "speaker": {
+        "id": 2233,
+        "name": "Luís Filipe Valenzuela Tavares Menezes Lopes",
+        "party": "PSD",
+        "string": "O Sr. Luís Menezes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Ricardo Rodrigues, obrigado pela questão que me colocou.\nSr. Deputado, fala da questão da autorização legislativa, mas eu volto à questão que interessa: a autorização legislativa foi aprovada? Muito bem, mas porquê aumentar em mais de 3000% essa autorização? Porque é que o Sr. Primeiro-Ministro precisa de gastar mais 4 milhões de euros?"
+    },
+    {
+      "utterance_id": 172,
+      "order": 172,
+      "page_start": 33,
+      "speaker": {
+        "id": 2272,
+        "name": "Ricardo Manuel De Amaral Rodrigues",
+        "party": "PS",
+        "string": "O Sr. Ricardo Rodrigues (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Só agora é que se lembra?"
+    },
+    {
+      "utterance_id": 173,
+      "order": 173,
+      "page_start": 33,
+      "speaker": {
+        "id": 2233,
+        "name": "Luís Filipe Valenzuela Tavares Menezes Lopes",
+        "party": "PSD",
+        "string": "O Sr. Luís Menezes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Porque é que os Srs. Ministros precisam de gastar mais 2 milhões de euros? É isto que os senhores não querem explicar-nos. Porque é que há estes aumentos de repente? Não há um motivo concreto! Podiam ter dito que tinha a ver com a inflação e, então, aumentaríamos os valores em função da inflação, e isto era razoável, mas o porquê de isto acontecer desta forma é que os senhores não nos explicam.\nMas não é só isto que os senhores não explicam. Os senhores não explicam também uma questão que já foi levantada e que volto a trazer à colação: hoje, na Comissão de Orçamento e Finanças, o PS manifestou, com clareza, a vontade de querer calar a Unidade Técnica de Apoio Orçamental (UTAO) durante a campanha eleitoral."
+    },
+    {
+      "utterance_id": 174,
+      "order": 174,
+      "page_start": 33,
+      "speaker": {
+        "id": 2272,
+        "name": "Ricardo Manuel De Amaral Rodrigues",
+        "party": "PS",
+        "string": "O Sr. Ricardo Rodrigues (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se o Parlamento vai estar fechado!»"
+    },
+    {
+      "utterance_id": 175,
+      "order": 175,
+      "page_start": 33,
+      "speaker": {
+        "id": 2233,
+        "name": "Luís Filipe Valenzuela Tavares Menezes Lopes",
+        "party": "PSD",
+        "string": "O Sr. Luís Menezes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É preciso dizer isto com clareza, porque a UTAO é um órgão que vai continuar a trabalhar e que tem trabalho para produzir. Esperemos que o PS não queira ver este trabalho inviabilizado e que isto não signifique que o PS não quer ver este trabalho publicitado, não quer que a verdade sobre as contas públicas chegue aos portugueses pelo trabalho de uma comissão técnica feito nesta Assembleia.\nDevolvo-lhe a pergunta, Sr. Deputado: quem tem de dar explicações sobre estes aumentos completamente imorais e inusitados é o Sr. Deputado, a sua bancada e este Governo, mas, até agora, ninguém o explicou."
+    },
+    {
+      "utterance_id": 176,
+      "order": 176,
+      "page_start": 33,
+      "speaker": {
+        "id": 2039,
+        "name": "João Saldanha De Azevedo Galamba",
+        "party": "PS",
+        "string": "O Sr. João Galamba (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 177,
+      "order": 177,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 178,
+      "order": 178,
+      "page_start": 33,
+      "speaker": {
+        "id": 2039,
+        "name": "João Saldanha De Azevedo Galamba",
+        "party": "PS",
+        "string": "O Sr. João Galamba (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço à Mesa que faça distribuir pelos Srs. Deputados informação do que se passou esta manhã na Comissão de Orçamento e Finanças, e que está em acta.\nÉ porque aquilo que o Sr. Deputado Luís Menezes acabou de dizer é falso, porque não foi só o PS que protestou contra a continuidade dos trabalhos e da publicação normal por parte da UTAO, o Bloco de Esquerda teve a mesma posição. Portanto, aquilo que o Sr. Deputado aqui disse é mentira!"
+    },
+    {
+      "utterance_id": 179,
+      "order": 179,
+      "page_start": 33,
+      "speaker": {
+        "id": 2233,
+        "name": "Luís Filipe Valenzuela Tavares Menezes Lopes",
+        "party": "PSD",
+        "string": "O Sr. Luís Menezes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 180,
+      "order": 180,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 181,
+      "order": 181,
+      "page_start": 34,
+      "speaker": {
+        "id": 2233,
+        "name": "Luís Filipe Valenzuela Tavares Menezes Lopes",
+        "party": "PSD",
+        "string": "O Sr. Luís Menezes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço desculpa, mas o que eu disse não é mentira; eu não disse, talvez, de forma completa, o que são duas coisas totalmente diferentes!"
+    },
+    {
+      "utterance_id": 182,
+      "order": 182,
+      "page_start": 34,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 183,
+      "order": 183,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 184,
+      "order": 184,
+      "page_start": 34,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é para esclarecer que a posição do BE não foi igual nem à do PS nem à do PSD."
+    },
+    {
+      "utterance_id": 185,
+      "order": 185,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Então, pede a palavra para uma interpelação aclaratória»"
+    },
+    {
+      "utterance_id": 186,
+      "order": 186,
+      "page_start": 34,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente, é uma interpelação aclaratória."
+    },
+    {
+      "utterance_id": 187,
+      "order": 187,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Já agora, todos temos curiosidade de saber qual foi a posição do Bloco de Esquerda."
+    },
+    {
+      "utterance_id": 188,
+      "order": 188,
+      "page_start": 34,
+      "speaker": {
+        "id": 2416,
+        "name": "José Guilherme Figueiredo Nobre De Gusmão",
+        "party": "BE",
+        "string": "O Sr. José Gusmão (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, a posição do BE foi no sentido de que a UTAO deveria continuar os seus trabalhos, mas não deveria torná-los públicos durante o período de campanha eleitoral."
+    },
+    {
+      "utterance_id": 189,
+      "order": 189,
+      "page_start": 34,
+      "speaker": {
+        "id": 2233,
+        "name": "Luís Filipe Valenzuela Tavares Menezes Lopes",
+        "party": "PSD",
+        "string": "O Sr. Luís Menezes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Então, é igual à do PS!"
+    },
+    {
+      "utterance_id": 190,
+      "order": 190,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Secretário de Estado Adjunto e do Orçamento."
+    },
+    {
+      "utterance_id": 191,
+      "order": 191,
+      "page_start": 34,
+      "speaker": {
+        "id": 3075,
+        "name": "Emanuel Dos Santos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e do Orçamento",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Responsabilidade, objectividade e inteligência — sim, é isto que os portugueses querem, mas, com alguma tristeza, nada do que ouvi, nesta Câmara, por parte do PSD augura bons resultados. Diria que se o fruto corresponde à semente, os portugueses não podem, de facto, esperar grandes resultados do lado do PSD.\nResponsabilidade. O PSD, na passada semana, cometeu uma imensa irresponsabilidade, que causou, e está a causar, imensos prejuízos ao País! A rejeição do PEC 4 levou ao aumento das taxas de juro, levou ao downgrade do rating da República, o que traz gravíssimas consequências para a população portuguesa.\nObjectividade. Onde é que está a objectividade do Sr. Deputado Fernando Negrão quando debita aqui alguns números macroeconómicos sobre a governação do PS e não tem a humildade de olhar para a última oportunidade que teve na governação?! Vou dar apenas dois dados muito objectivos, porque é objectividade que queremos.\nO PSD e o CDS entraram no governo, em meados de 2002, com uma taxa de desemprego de 4,5%; quando o PSD e o CDS saíram do governo deixaram uma herança, em termos de taxa de desemprego, de 7,5%, ou seja, mais 67% do que a taxa que herdaram."
+    },
+    {
+      "utterance_id": 192,
+      "order": 192,
+      "page_start": 34,
+      "speaker": {
+        "id": 1145,
+        "name": "Adão José Fonseca Silva",
+        "party": "PSD",
+        "string": "O Sr. Adão Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E agora?"
+    },
+    {
+      "utterance_id": 193,
+      "order": 193,
+      "page_start": 34,
+      "speaker": {
+        "id": 3075,
+        "name": "Emanuel Dos Santos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e do Orçamento",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "No domínio que mais me compete, quando o PSD entrou no governo havia um dçfice abaixo de 3%, concretamente de 2,9%,»"
+    },
+    {
+      "utterance_id": 194,
+      "order": 194,
+      "page_start": 35,
+      "speaker": {
+        "id": 2233,
+        "name": "Luís Filipe Valenzuela Tavares Menezes Lopes",
+        "party": "PSD",
+        "string": "O Sr. Luís Menezes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ahhh!»"
+    },
+    {
+      "utterance_id": 195,
+      "order": 195,
+      "page_start": 35,
+      "speaker": {
+        "id": 3075,
+        "name": "Emanuel Dos Santos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e do Orçamento",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» mas quando entregou o governo ao PS o défice tinha duplicado, tendo passado para 6%.\nSrs. Deputados, continuando nesta linha de objectividade, peguemos nos resultados — porque é disto que se trata, de uma avaliação objectiva — do primeiro governo do PS antes da maior crise dos últimos 80 anos, crise que tivemos de combater.\nE os resultados são estes, Srs. Deputados: o Governo do PS herdou um défice de 6%, mas em 2008 deixou um défice abaixo dos 3%, portanto, reduziu para metade esse défice.\nMas, atenção, em termos macroeconómicos, vamos usar um único indicador: a taxa de desemprego. No segundo trimestre de 2008, precisamente antes da crise, qual era a taxa de desemprego que o Governo do PS conseguiu atingir, tendo herdado uma taxa de 7,5%? Pois, Srs. Deputados, objectivamente, a taxa era inferior a 7,5%, era de 7,2%.\nEstes são os resultados macroeconómicos! Esta é a objectividade que os portugueses merecem!"
+    },
+    {
+      "utterance_id": 196,
+      "order": 196,
+      "page_start": 35,
+      "speaker": {
+        "id": 1145,
+        "name": "Adão José Fonseca Silva",
+        "party": "PSD",
+        "string": "O Sr. Adão Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E agora?"
+    },
+    {
+      "utterance_id": 197,
+      "order": 197,
+      "page_start": 35,
+      "speaker": {
+        "id": 3075,
+        "name": "Emanuel Dos Santos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e do Orçamento",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para concluir, gostava de me referir brevemente ao decreto-lei em apreciação.\nHá uma questão — e esta é uma questão de inteligência — a que não consigo, de facto, responder: como é que o PSD aprova uma norma que autoriza o Governo a duplicar os limites de autorização de despesa para os presidentes de câmara e, depois, nos pergunta porque é que isto aconteceu, quando nós, no que diz respeito ao Governo, apenas aumentámos metade do valor autorizado pelo PSD?! Onde é que está a inteligência? Ó Sr. Deputado, diga-me onde está a inteligência! Portanto, Srs. Deputados, está aqui a prova provada da falta de responsabilidade, da falta de objectividade e também do desafio que estão a fazer à inteligência dos portugueses."
+    },
+    {
+      "utterance_id": 198,
+      "order": 198,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Miguel Macedo."
+    },
+    {
+      "utterance_id": 199,
+      "order": 199,
+      "page_start": 35,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Sr. Miguel Macedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: Quero fazer uma declaração solene — rigor igual ao do Governo nós não queremos!\nO rigor que, há três meses, previa que, em 2011, teríamos um crescimento de 0,2% e que, três meses depois, corrige para uma recessão de 0,9% nós não queremos! O rigor de quem previa, há três meses, que a taxa de desemprego ficaria em 10,6% e que, três meses depois, corrige para 11,2% nós não queremos! Sr. Presidente e Srs. Deputados, o rigor de quem previa, há três meses, que a taxa de inflação era a prevista no Orçamento do Estado, ou seja, 2,2%, sendo que, agora, o Banco de Portugal vem dizer que não, que a taxa de inflação para 2011 vai ser de 3,6% nós não queremos! De facto, Sr. Presidente e Srs. Deputados, rigor é aquilo que o Governo não tem tido, por isso é extraordinário que se venha responsabilizar a crise política do downgrading do rating da República, como fez agora o Sr. Secretário de Estado.\nVou citar alguns factos: a Standard & Poor’s, em 13 de Janeiro de 2009, passou a nota de Portugal de «AA» para «AA com observação negativa»; em 21 de Janeiro de 2009, passou a nota de Portugal de «AA com"
+    },
+    {
+      "utterance_id": 200,
+      "order": 200,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Ministro dos Assuntos Parlamentares."
+    },
+    {
+      "utterance_id": 201,
+      "order": 201,
+      "page_start": 36,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Afinal o que quis o PSD deste debate? Afinal o que quis? O PSD veio aqui propor, e vai certamente votar a seguir, a rejeição de um Decreto-Lei que definiu determinados parâmetros para autorização da despesa pública. De cada vez que, do lado do Governo ou do lado da bancada do PS, perguntámos ao PSD porque vai rejeitar agora uma solução legislativa que votou favoravelmente nas suas implicações, alguém ouviu a resposta do PSD, Srs. Deputados? O PSD deu resposta a esta pergunta? Ouvimos, entretanto, um Deputado do PSD dizer que se trata de um Decreto-Lei imoral. Srs. Deputados, se o Governo estivesse convencido de que estava a praticar uma imoralidade, obviamente que a não praticaria.\nMas como os senhores consideram o Decreto-Lei uma imoralidade e o votaram a favor, só há uma consequência: a maior imoralidade é a de quem a pratica em acto completo de consciência dela! Esta atitude, Srs. Deputados, é completamente incompreensível à luz dos princípios mais elementares da ética política. Os senhores vêm rejeitar o que aprovaram e, mais, que aprovaram numa situação muito curiosa: a autorização legislativa admitiu passar para o dobro e, em certos casos, para o triplo as autorizações de despesa em relação aos órgãos das autarquias locais. Quando o Governo, ao abrigo da sua competência própria, legislou na sua área, esses aumentos forma de 50%.\nSe, porventura, houvesse imoralidade, Srs. Deputados, a vossa teria sido muito maior do que a nossa, porque fomos muito mais equânimes no aumento das autorizações de despesa para o Governo do que os senhores foram ao votarem favoravelmente o aumento das despesas para as autarquias locais.\nÉ isso que não se entende! Esta vossa atitude é completamente incompreensível e, como tal, nós vimos o que se passou hoje aqui: o esforço desesperado do líder da bancada do PSD tentando fazer manobras de diversão, tentando chamar a atenção para qualquer coisa, para que se iludisse o facto essencial.\nO PSD veio pedir lã e sai daqui completamente tosquiado!\nSai daqui completamente tosquiado porque não teve um único argumento de credibilidade.\nE quanto ao rigor, Srs. Deputados, »"
+    },
+    {
+      "utterance_id": 202,
+      "order": 202,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Ministro, queira concluir."
+    },
+    {
+      "utterance_id": 203,
+      "order": 203,
+      "page_start": 37,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Termino já, Sr. Presidente.\nQuanto ao rigor, Srs. Deputados, rigor era não terem votado contra ao PEC dizendo aos portugueses: «Que espanto! O País já não precisa de mais medidas no âmbito de um Programa de Estabilidade e Crescimento». Começaram por dizer isso. E que vieram dizer depois, à luz do vosso rigor? Afinal já estão de acordo em apresentar medidas, sabe-se lá quando, porque estão de acordo com os objectivos do Programa de Estabilidade e Crescimento.\nRigor, Srs. Deputados, era sabermos quais são as vossas medidas para concretizar esse Programa de Estabilidade e Crescimento que rejeitaram. Onde é que elas estão? Não existem! E os Srs. Deputados, dia após dia, continuam a recusá-las inteiramente! Rigor, Srs. Deputados, era terem metido a mão na consciência e terem verificado que, do dia 23 para cá, em cada dia que passa, estão a fazer o nosso País mergulhar numa crise económica e de consequências políticas cujo resultado final estamos todos longe, muito longe, de saber as suas consequências!\nRigor, Srs. Deputados, era os senhores pedirem desculpa aos portugueses por terem metido o País numa aventura, em relação à qual não sabem dar a mínima resposta."
+    },
+    {
+      "utterance_id": 204,
+      "order": 204,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Bernardino Soares."
+    },
+    {
+      "utterance_id": 205,
+      "order": 205,
+      "page_start": 37,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, porque tenho pouco tempo, passo a abordar duas questões muito rápidas.\nEm primeiro lugar, o Sr. Ministro pode invocar o que quiser, mas o que é certo é que o Conselho de Ministros se realizou em 23 de Dezembro, que o Sr. Presidente da República tem 40 dias para promulgar os decretos do Governo e que, para além desses 40 dias — imaginando que eram usados na totalidade — , sobram ainda outros 49 dias. Explique-nos lá, Sr. Ministro, onde andou o Decreto-Lei, que demorou 49 dias para aparecer à luz do dia, e se isto não é um subterfúgio para prolongar abusivamente as autorizações legislativas. É por isso que é uma ilegalidade.\nEm segundo lugar, o Sr. Ministro pode falar à vontade dessas coisas todas, dessas declarações grandiloquentes. O que o Sr. Ministro não explica é a razão deste aumento dos limites. Qual é a razão? Dênos uma razão, Sr. Ministro, só uma, para percebermos porque nesta altura se tem que aumentar em 50% o limite de autorização de despesas do Primeiro-Ministro! Dê-nos uma razão, Sr. Ministro! Ao fim de todo este tempo, acho que já era tempo de nos dar essa razão. Pelos vistos, até agora, ainda não foi apresentada pelo Governo."
+    },
+    {
+      "utterance_id": 206,
+      "order": 206,
+      "page_start": 37,
+      "speaker": {
+        "id": 1256,
+        "name": "José Honório Faria Gonçalves Novo",
+        "party": "PCP",
+        "string": "O Sr. Honório Novo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não será campanha eleitoral?"
+    },
+    {
+      "utterance_id": 207,
+      "order": 207,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Não havendo mais oradores inscritos, passamos ao período regimental de votações, para o que iremos proceder à verificação do quórum, utilizando o cartão electrónico.\nPausa.\nEncontram-se presentes 218 Deputados, sendo 89 do PS, 77 do PSD, 21 do CDS-PP, 16 do BE, 13 do PCP e 2 de Os Verdes, pelo que há quórum de deliberação.\nInformo que deram entrada na Mesa quatro projectos de resolução sobre a matéria que esteve em debate, que são os seguintes: n.os 558/XI (2.ª) (PSD) — relativo à apreciação parlamentar n.º 97/XI (2.ª) — , 559/XI"
+    },
+    {
+      "utterance_id": 208,
+      "order": 208,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Presidentes, a solicitação da 3.ª Secção do 4.º Juízo Criminal de Lisboa, Processo 3882/06.9TAVNG, a Comissão de Ética, Sociedade e Cultura decidiu emitir parecer no sentido de autorizar o Sr. Deputado João Rebelo (CDS-PP) a prestar depoimento por escrito, como testemunha, no âmbito dos autos em referência."
+    },
+    {
+      "utterance_id": 209,
+      "order": 209,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as e Srs. Deputados, vamos proceder à votação do parecer.\nSubmetido à votação, foi aprovado por unanimidade."
+    },
+    {
+      "utterance_id": 210,
+      "order": 210,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, a solicitação do 2.º Juízo Cível do Tribunal de Família e Menores da Comarca de Cascais, Processo 6026/05.0TBCSC, a Comissão de Ética, Sociedade e Cultura decidiu emitir parecer no sentido de autorizar a Sr.ª Deputada Cecília Honório (BE) a prestar depoimento por escrito, como testemunha, no âmbito dos referidos autos."
+    },
+    {
+      "utterance_id": 211,
+      "order": 211,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as e Srs. Deputados, vamos votar este parecer.\nSubmetido à votação, foi aprovado por unanimidade."
+    },
+    {
+      "utterance_id": 212,
+      "order": 212,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, a solicitação do 1.º Juízo de Competência Criminal do Tribunal de Comarca e de Família e Menores de Almada, Processo 2133/08.6TALRA, a Comissão de Ética, Sociedade e Cultura decidiu emitir parecer no sentido de autorizar o Sr. Deputado José Miguel Medeiros (PS) a prestar depoimento por escrito, como testemunha, no âmbito dos referidos autos."
+    },
+    {
+      "utterance_id": 213,
+      "order": 213,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as e Srs. Deputados, vamos votar o parecer.\nSubmetido à votação, foi aprovado por unanimidade.\nSrs. Deputados, por hoje, estão concluídos os nossos trabalhos.\nA próxima reunião plenária realiza-se amanhã, dia 31 de Março, às 15 horas, e terá como ponto único da ordem do dia uma marcação do BE: a discussão do projecto de resolução n.º 545/XI (2.ª) — Recomenda ao Governo que adopte um procedimento especial de combate à precariedade e aos falsos recibos verdes (BE), cuja eventual votação terá lugar no final do debate.\nSr.as e Srs. Deputados, está encerrada a reunião."
+    }
+  ]
+}

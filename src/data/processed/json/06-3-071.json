@@ -1,0 +1,852 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "6",
+    "legislative_session": "3",
+    "number": "71",
+    "date": "1994-05-12"
+  },
+  "debate_id": "r3_6_3_71_1994-05-12",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2320,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.\nEram 15 horas e 45 minutos.\nEstavam presentes os seguintes Srs. Deputados:\nPartido Social-Democrata (PSD):\nAdão José Fonseca Silva.\n\nAdérito Manuel Soares Campos.\n\nAdriano da Silva Pinto.\n\nAlberto Cerqueira de Oliveira.\n\nAlberto Monteiro de Araújo.\n\nAlípio Barrosa Pereira Dias.\n\nÁlvaro Roque de Pinho Bissaia Barreto.\n\nAmérico de Sequeira.\n\nAnabela Honório Matias.\n\nAntónio Augusto Fidalgo.\n\nAntónio Costa de Albuquerque de Sousa Lara.\n\nAntónio da Silva Bacelar.\n\nAntónio de Carvalho Martins.\n\nAntónio do Carmo Branco Malveiro.\n\nAntónio Esteves Morgado.\n\nAntónio Fernando Couto dos Santos.\n\nAntónio Germano Fernandes de Sá e Abreu.\n\nAntónio Joaquim Correia Vairinhos.\n\nAntónio Manuel Fernandes Alves.\n\nAntónio Moreira Barbosa de Melo.\n\nAntónio Paulo Martins Pereira Coelho.\n\nAristides Alves do Nascimento Teixeira.\n\nArmando de Carvalho Guerreiro da Cunha.\n\nArménio dos Santos.\n\nBelarmino Henriques Correia.\n\nCarlos Alberto Lopes Pereira.\n\nCarlos de Almeida Figueiredo.\n\nCarlos Lélis da Câmara Gonçalves.\n\nCarlos Manuel de Oliveira da Silva.\n\nCarlos Manuel Marta Gonçalves.\n\nCarlos Miguel de Valleré Pinheiro de Oliveira.\n\nCecília Pita Catarino.\n\nCipriano Rodrigues Martins.\n\nDelmar Ramiro Palas.\n\nDomingos Duarte Lima.\n\nDuarte Rogério Matos Ventura Pacheco.\n\nEduardo Alfredo de Carvalho Pereira da Silva.\n\nEma Maria Pereira Leite Lóia Paulista.\n\nFernando Carlos Branco Marques de Andrade.\n\nFernando dos Reis Condesso.\n\nFernando José Antunes Gomes Pereira.\n\nFernando José Russo Roque Correia Afonso.\n\nFernando Monteiro do Amaral.\n\nFernando Santos Pereira.\n\nFilipe Manuel da Silva Abreu.\n\nFrancisco João Bernardino da Silva.\n\nGuido Orlando de Freitas Rodrigues.\n\nGuilherme Henrique Valente Rodrigues da Silva.\n\nHilário Torres Azevedo Marques.\n\nJaime Carlos Marta Soares.\n\nJaime Gomes Milhomens.\n\nJoão Alberto Granja dos Santos Silva.\n\nJoão Álvaro Poças Santos.\n\nJoão Carlos Barreiras Duarte.\n\nJoão Domingos Fernandes de Abreu Salgado.\n\nJoão Granja Rodrigues da Fonseca.\n\nJoão José Pedreira de Matos.\n\nJoão Maria Leitão de Oliveira Martins.\n\nJoaquim Cardoso Martins.\n\nJoaquim Maria Fernandes Marques.\n\nJoaquim Vilela de Araújo.\n\nJorge Avelino Braga de Macedo.\n\nJorge Paulo de Seabra Roque da Cunha.\n\nJosé Agostinho Ribau Esteves.\n\nJosé Alberto Puig dos Santos Costa.\n\nJosé Albino da Silva Peneda.\n\nJosé Álvaro Machado Pacheco Pereira.\n\nJosé Ângelo Ferreira Correia.\n\nJosé Augusto Santos da Silva Marques.\n\nJosé de Almeida Cesário.\n\nJosé Fortunato Freitas Costa Leite.\n\nJosé Guilherme Pereira Coelho dos Reis.\n\nJosé Guilherme Reis Leite.\n\nJosé Júlio Carvalho Ribeiro.\n\nJosé Leite Machado.\n\nJosé Luís Campos Vieira de Castro.\n\nJosé Manuel Álvares da Costa e Oliveira.\n\nJosé Manuel Borregana Meireles.\n\nJosé Manuel da Silva Costa.\n\nJosé Manuel Nunes Liberato.\n\nJosé Mário de Lemos Damião.\n\nJosé Pereira Lopes.\n\nLuís António Carrilho da Cunha.\n\nLuís António Martins.\n\nLuís Carlos David Nobre.\n\nLuís Filipe Garrido Pais de Sousa.\n\nLuís Manuel Costa Geraldes.\n\nManuel Acácio Martins Roque.\n\nManuel Albino Casimiro de Almeida.\n\nManuel da Silva Azevedo.\n\nManuel de Lima Amorim.\n\nManuel Filipe Correia de Jesus.\n\nManuel Joaquim Baptista Cardoso.\n\nManuel Maria Moreira.\n\nMaria da Conceição Figueira Rodrigues.\n\nMaria da Conceição Ulrich de Castro Pereira.\n\nMaria José Paulo Caixeiro Barbosa Correia.\n\nMaria Luísa Lourenço Ferreira.\n\nMaria Manuela Aguiar Dias Moreira.\n\nMarília Dulce Coelho Pires Morgado Raimundo.\n\nMelchior Ribeiro Pereira Moreira.\n\nMiguel Bento Martins da Costa de Macedo e Silva.\n\nMiguel Fernando Cassola de Miranda Relvas.\n\nNuno Francisco Fernandes Delerue Alvim de Matos.\n\nNuno Manuel Franco Ribeiro da Silva.\n\nPedro Augusto Cunha Pinto.\n\nPedro Domingos de Souza e Holstein Campilho.\n\nRui Alberto Limpo Salvada.\n\nRui Carlos Alvarez Carp.\n\nRui Fernando da Silva Rio.\n\nRui Manuel Lobo Gomes da Silva.\n\nRui Manuel Parente Chancerelle de Machete.\n\nSimão José Ricon Peres.\n\nVasco Francisco Aguiar Miguel.\n\nVirgílio de Oliveira Carneiro.\n\nVítor Pereira Crespo.\nPartido Socialista (PS):\nAcácio Manuel de Frias Barreiros.\n\nAlberto Bernardes Costa.\n\nAlberto da Silva Cardoso.\n\nAlberto de Sousa Martins.\n\nAlberto Manuel Avelino."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 2321,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o Sr. Secretário vai dar conta dos diplomas que deram entrada na Mesa."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 2321,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (João Salgado)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, deram entrada na Mesa, e foram admitidos, os seguintes diplomas: projectos de lei n.ºs 410/VI - Utilização de cartões de pagamento automático (PS, PSD, PCP e CDS-PP), que baixou à 6.ª Comissão, e 411/VI - Elevação da vila da Lixa a cidade (PSD), que baixou à 5.ª Comissão.\n\nEntretanto, informa-se a Câmara de que irão reunir a Comissão de Petições e a Comissão Eventual para a Reforma do Ordenamento Administrativo."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 2321,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, verificou-se o trágico desaparecimento do líder do Partido Trabalhista inglês, Sr. John Smith.\n\nDe manhã, quando tive conhecimento do ocorrido, escrevi à Sr.ª Betty Buthroy, a speaker do parlamento inglês, dizendo-lhe que acabava de tomar conhecimento do trágico desaparecimento do líder do Partido Trabalhista inglês, Sr. John Smith, e exprimindo-lhe, bem como ao Parlamento britânico, em meu nome e no da Assembleia da República, a maior consternação pela perda de tão insigne político e parlamentar. Pedi também a Sua Excelência para transmitir à família enlutada a expressão do nosso profundo pesar.\n\nEntretanto, deu entrada na Mesa o voto n.º 106/VI - De pesar pelo falecimento do líder do Partido Trabalhista inglês John Smith, subscrito por Deputados do PS, do PSD e do PCP, que é do seguinte teor:\nMorreu John Smith, líder do Partido Trabalhista inglês.\n\nQuando uma família política da importância do Labour está de luto, todas as demais o estão.\n\nA Assembleia da República exprime ao Partido Trabalhista inglês e à família de John Smith o seu profundo pesar.\nSrs. Deputados, está em apreciação.\n\nNão havendo inscrições, vamos passar à votação.\nSubmetido à votação, foi aprovado por unanimidade, registando-se as ausências de Os Verdes e do Deputado independente Mário Tomé.\nSrs. Deputados, estão em aprovação os n.ºs 54 a 61 do Diário da Assembleia da República, respeitantes às reuniões plenárias dos dias 6 a 21 de Abril.\n\nNão havendo objecções, consideram-se aprovados.\n\nDa ordem do dia de hoje consta a apreciação da proposta de lei n.º 98/VI - Autoriza o Governo a alterar o artigo 26.º do Código de Processo do Trabalho e as"
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 2322,
+      "speaker": {
+        "id": 2860,
+        "name": "Álvaro Laborinho Lúcio",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto do Ministro da Justiça (Borges Soeiro)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: O Governo vem apresentar à Assembleia da República uma proposta de lei no sentido de ser alterado o artigo 26.º do Código de Processo do Trabalho, sugerindo a seguinte redacção:\n«1. As citações e notificações que não devam ser feitas por via postal, bem como quaisquer outras diligências, quando tenham de ser efectuadas em comarca diferente daquela em que o tribunal tem a sua sede, são solicitadas ao tribunal do trabalho com sede naquela comarca, se o houver, e, não o havendo, ao tribunal de competência genérica que naquela comarca tenha sede, ou ainda, em qualquer destes casos, à autoridade administrativa ou policial territorial competente.\n\n2. Quando exista mais de um tribunal do trabalho na mesma comarca, a competência de cada um, para efeitos do disposto no número anterior, é determinada de acordo com a área de jurisdição dentro da comarca».\n\nA redacção que, neste momento, está em vigor no tocante à mesma disposição difere da ora proposta, a qual passo a citar: «As citações e notificações que não possam ou não devam ser feitas por via postal e quaisquer outras diligências, quando tenham de ser efectuadas em comarca diferente daquela em que o tribunal da causa tem a sua sede, são solicitadas ao tribunal competente em matéria de trabalho na respectiva área ou à autoridade administrativa ou policial territorialmente competente.\n\nA diferença existente entre o teor da proposta de lei apresentada à Assembleia da República e o actual artigo 26.º deu origem, na nossa jurisprudência - estou a pensar em vários acórdãos do Supremo Tribunal de Justiça -, a diversos entendimentos.\n\nHavia decisões jurisprudenciais que consideravam competentes os tribunais de competência genérica para a prática dos actos em questão (citações, notificações ou outros actos processuais), salvo se na sua sede houvesse um tribunal do trabalho.\n\nOutra tese considerava competentes os tribunais do trabalho em cuja área de competência territorial se incluísse a comarca onde devia ser realizada a diligência.\n\nOu seja, considerava-se que, por exemplo, se houvesse um tribunal do trabalho que pedisse à comarca, por hipótese, de Pombal, que praticasse um determinado acto, ou essa comarca era competente segundo a primeira tese ou, então, de acordo com a segunda, seria o Tribunal do Trabalho de Leiria o competente por Pombal não ser sede de tribunal do trabalho.\n\nA nova redacção que propomos, nesta proposta de lei, vem dirimir um conflito de jurisprudência que radica fundamentalmente numa alteração legislativa em sede de organização judiciária que o processo do trabalho tem de acompanhar.\n\nComo os Srs. Deputados sabem, anteriormente à Revolução de 1974 e aos diplomas emergentes da primeira Constituição da República, os tribunais do trabalho tinham uma jurisdição autónoma dos tribunais comuns. Pertenciam ao Ministério das Corporações e nada tinham a ver com a administração da justiça tout court. Faziam parte de uma administração judiciária autónoma não inserida numa orgânica judiciária.\n\nNo período pós-Revolução, nomeadamente, com a primeira Lei Orgânica dos Tribunais Judiciais democrática, vieram os tribunais do trabalho - que foram criados em várias zonas do país - a ser inseridos na organização judiciária com competência própria. Mais: muitos dos tribunais de competência genérica vieram a ter também jurisdição laboral no âmbito das suas competências, o que sucedeu com a Lei n.º 82/77, de 6 de Dezembro, e, depois, com o decreto que a veio regulamentar.\n\nPosteriormente, em 1987, mais exactamente com a Lei n.º 38/87, de 23 de Dezembro, ocorreu uma mutação substancial na jurisdição laboral que se prendeu com o facto de os tribunais do trabalho, de alguma forma, pulverizarem-se pelo todo nacional perdendo os tribunais de competência genérica a competência que até aí tinham também na área da jurisdição laboral.\n\nIsto significou que os tribunais a que hoje podemos chamar tribunais de ingresso ou, mesmo, alguns tribunais de primeiro acesso que até aí tinham jurisdição laboral deixaram de a ter, não obstante manterem o seu figurino de tribunais de competência genérica.\n\nOra, o actual Código de Processo do Trabalho, aprovado em 30 de Setembro de 1981, entrou apenas em vigor em 1 de Janeiro de 1982 e sucede que a Lei Orgânica dos Tribunais Judiciais de 1987, ao entrar em vigor, encontrou no Código de Processo do Trabalho um figurino que não era exactamente igual àquele que a própria Lei Orgânica dos Tribunais Judiciais configurava como competência dos tribunais de competência genérica versus tribunais do trabalho. Por essa razão, o artigo 26.º do Código de Processo do Trabalho não está em sintonia com a referida lei, uma vez que pressupõe que todos os tribunais de competência genérica têm competência laboral. Isso era o que se pressupunha em 1982, porque vigorava na altura um determinado modelo no tocante à organização judiciária, o qual foi alterado radicalmente, como referi, com a Lei Orgânica dos Tribunais Judiciais de 1987 que veio retirar a competência laboral aos tribunais de competência genérica, vulgo tribunais de comarca.\n\nEste é o motivo da alteração proposta para o artigo 26.º do Código de Processo do Trabalho - permitir que um tribunal do trabalho depreque, peça, requeira, a um tribunal de comarca, se aí não estiver sediado um tribunal do trabalho, a prática de qualquer acto judiciário, uma citação, uma notificação, uma penhora, uma inquirição de testemunhas, etc.\n\nHouve uma alteração substancial, como disse, das leis orgânicas judiciárias e o Código de Processo do Trabalho tende a acompanhar essa evolução."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 2323,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Odete Santos."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 2323,
+      "speaker": {
+        "id": 819,
+        "name": "Maria Odete Dos Santos",
+        "party": "PCP",
+        "string": "A Sr.ª Odete Santos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, não sei se foi por qualquer das questões de inconstitucionalidade se ter suscitado na área do tribunal de Pombal ou se foi por pendor de reverência de V. Ex.ª para com o Sr. Ministro da Justiça, que foi candidato à Assembleia Municipal de Pombal, que trouxe a situação do tribunal de Pombal à colação."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 2323,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Nazaré! Nazaré!"
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 2323,
+      "speaker": {
+        "id": 819,
+        "name": "Maria Odete Dos Santos",
+        "party": "PCP",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ou Nazaré! É na mesma zona!\n\nDe qualquer forma, registei a leitura que fez do Código de Processo do Trabalho. Realmente, fazer leitura de artigos é uma boa maneira de preencher o tempo da intervenção, mas há questões por detrás desta iniciativa legislativa que, penso, são de muito mais interesse levantar aqui.\n\nV. Ex.ª não confessou, mas devia tê-lo feito, que, para além de outras questões, a alteração ao artigo 26.º surge porque o Ministério da Justiça vem legislando «aos bochechos», retalhando decretos-lei, retalhando e alterando a organização judiciária diversas vezes, sem fazer uma modificação legislativa global. Esta proposta de alteração surge porque, aquando da alteração à Lei Orgânica dos Tribunais Judiciais, que englobou a estrutura dos tribunais do trabalho, não mediram nem tiveram em conta as consequências que daí advinham para o Código de Processo do Trabalho. E as consequências resultantes deste artigo não são tão pequenas como isso.\n\nO facto de ser ter legislado muito mal em relação à orgânica dos tribunais judiciais veio a ter incidência sobre demoras processuais e sobre problemas que se levantavam relativamente ao artigo 26.º. Sr. Secretário de Estado, esses problemas não são apenas referentes à hesitação dos juízes e advogados na aplicação da lei, como V. Ex.ª disse, mas também aos direitos dos trabalhadores e à demora dos processos, que os trabalhadores conheceram, por força de uma alteração legislativa «feita a martelo», de qualquer maneira e sem ter em vista o todo.\n\nSr. Secretário de Estado, reconhece ou não que houve menos cuidado quando lhe propuseram alterações à Lei Orgânica dos Tribunais Judiciais e que, por terem andado todos a girar em torno do círculo, se esqueceram do Código de Processo do Trabalho, o que, aliás, não é inocente?\n\nA última pergunta que coloco a V. Ex.ª, que vem aqui com uma proposta de alteração a um artigo do Código de Processo do Trabalho, é a seguinte: não julga ser já tempo de se fazer uma reforma profunda e global do Código de Processo do Trabalho? Do que está à espera?\n\nPressuponho que me vai responder que espera a reforma do Código de Processo Civil. Acha que a alteração do Código de Processo do Trabalho tem de esperar pelo Código de Processo Civil, tendo em conta que, efectivamente, através daquele se prosseguem objectivos muito específicos e diferentes dos que se prosseguem com este?"
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 2324,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o desejar, tem a palavra o Sr. Secretário de Estado Adjunto do Ministro da Justiça."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 2324,
+      "speaker": {
+        "id": 2860,
+        "name": "Álvaro Laborinho Lúcio",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto do Ministro da Justiça",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Odete Santos, a prova de que a Lei Orgânica dos Tribunais Judiciais é uma lei coerente e consistente e de que houve todo o cuidado em, antes de a apresentar a aprovação, ver as tangências que poderiam existir com outros códigos ou com outra legislação, é o facto de, aliás, conforme diz o Tribunal Constitucional, virmos apresentar uma nova versão para o artigo 26.º do Código de Processo do Trabalho, que toda a gente considera ser uma interpretação ou um diploma interpretativo.\n\nNão houve, de forma alguma, uma omissão por parte do legislador mas, sim, depois, a nível da prática jurisprudencial, questões doutrinais que se levantaram, tendo então sido necessária uma clarificação do legislador, de maneira a mostrar qual era o sentido rigoroso de uma reforma judiciária. Portanto, não houve qualquer forma mais apressada de ver os problemas. Surgiu a necessidade, de facto, de interpretar a lei de uma forma autêntica. É isso o que nos propomos fazer, com a apresentação desta proposta de lei.\n\nSr.ª Deputada, falei do tribunal de Pombal como poderia ter falado do tribunal da Caldas da Rainha ou de Faro. Referi-o porque de manhã, no Ministério da Justiça, vi alguns dossiers e recordei que o juiz do tribunal de Pombal, o do Tribunal de Trabalho das Caldas da Rainha e talvez os de outras comarcas, levantaram o problema ao Ministério da Justiça. Por isso retive o nome do tribunal de Pombal, não havendo para o facto qualquer outra razão.\n\nA Sr.ª Deputada falou nos interesses e direitos dos trabalhadores. Julgo que conviria mostrar algo que no mundo do Direito do Trabalho é óbvio: nós temos particular atenção a esses interesses e direitos.\n\nPosso dizer-lhe que se compararmos os dados de 1987 e os de 1992, concluímos que, em 1992, o número de processos pendentes é menor nos tribunais do trabalho. Lembro à Sr.ª Deputada que, em 1987, tínhamos 67 000 processos pendentes e, em 1992, temos 39 913 processos.\n\nPor outro lado, a propósito da morosidade dos processos laborais, lembro à Sr.ª Deputada que, em 1992, o tempo médio de duração de um processo era, na jurisdição laboral portuguesa, de 14 meses. Claro que ainda é bastante tempo, mas lembro também que esta duração média do processo laboral está a par da duração média do processo crime e está aquém da do processo cível. Temos de tornar a justiça mais célere, mas se compararmos os anos de 1992 e de 1986/87, em termos de duração média dos processos, chegaremos à mesma conclusão da diminuição considerável da duração média dos processos na jurisdição laboral.\n\nEm resposta à última questão colocada pela Sr.ª Deputada Odete Santos, Código de Processo do Trabalho versus Código de Processo Civil, posso dizer-lhe que consideramos, e sempre o considerámos, que como o Código de Processo do Trabalho tem o Código de Processo Civil como legislação subsidiária, só se justifica uma alteração profunda daquele quando houver essa alteração profunda deste.\n\nNeste momento, estamos a trabalhar afincadamente na alteração profunda do Código de Processo Civil e, por uma questão de metodologia - com que a Sr.ª Deputada pode ou não concordar, é absolutamente livre disso -, por uma opção política do Ministério da Justiça, só alteraremos o Código de Processo do Trabalho depois de termos um novo Código de Processo Civil. Esta é a nossa metodologia e as pessoas que temos ouvido, especialistas nesta área, dizem que este é o bom caminho e é o que vamos trilhar.\n(O Orador reviu)."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 2324,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Odete Santos."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 2324,
+      "speaker": {
+        "id": 819,
+        "name": "Maria Odete Dos Santos",
+        "party": "PCP",
+        "string": "A Sr.ª Odete Santos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Não obstante o Sr. Secretário de Estado ter dedicado uma especial atenção aos votos de vencido do Acórdão do Tribunal Constítucional, a primeira constatação é a de que, de facto, esta matéria vem à Assembleia porque, mais uma vez, o Governo cometeu uma inconstitucionalidade e tentou retirar poderes à Assembleia da República.\n\nQuero fazer uma outra referência que tem a ver com uma questão relativamente à qual as opiniões não são unânimes. A verdade é que esta questão a que vou referir-me nunca foi analisada pelo Tribunal Constitucional, pelo que nem sequer há votos de vencido a que recorrer...\n\nComo disse, penso que esta questão é discutível, tendo nós uma determinada opinião sobre ela, de resto, abalizada por questões doutrinárias. Quanto a nós, esta matéria obriga também à consulta pública das organizações dos trabalhadores, porque a Lei n.º 16/79, ao fazer o elenco das matérias que devem ser sujeitas à consulta pública, refere-o a título exemplificativo. Por isso mesmo entendemos que, em matéria processual de trabalho, estão em causa os meios jurídicos para dar efectividade aos direitos dos trabalhadores. Assim, entendemos que, pela razão de ser que leva aquela lei a referir as questões relativas ao contrato individual de trabalho, os meios jurídicos que conduzem a essa efectividade dos direitos devem ser sujeitos a consulta pública, devendo os trabalhadores participar na elaboração desta legislação.\n\nPasso agora ao terceiro ponto. Para nós fica evidente - o Sr. Secretário de Estado não conseguiu escamotear esta questão e este é um belíssimo exemplo - que, de facto, no nosso país, se vem legislando parcelarmente. Há uma imensa profusão legislativa, a toda a hora saem decretos a alterar um ou outro artigo de outros decretos, saem leis a alterar outras e, segundo dizem todos os profissionais do foro com prática neste domínio, a nossa legislação é uma manta de retalhos onde é difícil as pessoas entenderem-se.\n\nNesta proposta de lei de autorização legislativa fica patente que a orgânica dos tribunais judiciais, que, quanto a nós, é muito má no que respeita aos tribunais de trabalho, foi alterada. Digo que é muito má porque colocou os trabalhadores a quilómetros e quilómetros de distância da sede dos tribunais de trabalho e porque, sendo o delegado do Ministério Público aquele que, pelo seu estatuto, tem o dever de defender os direitos dos trabalhadores e de propor acções, há tribunais sediados tão longe da residência dos trabalhadores que estes têm de gastar dois dias em viagens, de comboio ou de camioneta, se quiserem recorrer ao patrocínio do Ministério Público. Recordo que há exemplos famosos acer-"
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 2325,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Octávio Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 2325,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o Sr. Secretário vai dar conta das escolas cujos alunos e professores se encontram a assistir a esta sessão plenária."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 2325,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Caio Roque)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados, encontram-se a assistir à sessão 40 alunos do Instituto de Tecnologias Náuticas de Lisboa; 49 alunos da Escola Secundária D. Filipa de Lencastre de Lisboa; 50 alunos da Escola C+S D. Carlos I de Sintra; um grupo de agricultores da Direcção Regional de Agricultura do Algarve; 12 alunos do Colégio de S. José de Coimbra; 20 alunos da Escola Primária da Casa Pia de Lisboa - Instituto Jacob Rodrigues Pereira; 70 alunos da Escola Secundária Dr. António Carvalho Figueiredo de Loures; 24 jovens luso-franceses da região de Paris e 56 alunos da Escola Preparatória das Caldas da Rainha."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 2325,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "A todos, os nossos cumprimentos.\nPara pedir esclarecimentos, tem a palavra o Sr. Deputado Correia Afonso."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 2325,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Sr. Correia Afonso (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Odete Santos, vou pedir-lhe um esclarecimento muito breve mas muito importante.\n\nComeço por dizer que não estou de acordo em que a nova redacção proposta para este artigo 26.º põe em causa o direito dos trabalhadores - mas não é sobre isso que vou questioná-la -, até porque é praticamente igual à anterior. Na verdade, gostava era de apurar uma questão de princípios e daí fazer esta pergunta à Sr.ª Deputada.\n\nO Sr. Secretário de Estado disse que a reforma do Código do Processo Civil era prioritária porque as normas do processo civil são, no fundo, a trave-mestra do funcionamento dos tribunais e operam como regras subsidiárias do funcionamento de todos os tribunais, nomeadamente dos do trabalho. Ora, na sua intervenção, pareceu-me que a Sr.ª Deputada tinha posto isso em dúvida..."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 2325,
+      "speaker": {
+        "id": 819,
+        "name": "Maria Odete Dos Santos",
+        "party": "PCP",
+        "string": "A Sr.ª Odete Santos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Eu não disse isso!"
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 2325,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está a dizer-me que não. Mas é esta a pergunta que lhe faço: acha que não deve ser prioritária a reforma do processo civil e que, só depois, deve-"
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 2326,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 2326,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra a Sr.ª Deputada Odete Santos, que dispõe de um minuto."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 2326,
+      "speaker": {
+        "id": 819,
+        "name": "Maria Odete Dos Santos",
+        "party": "PCP",
+        "string": "A Sr.ª Odete Santos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Correia Afonso, agradeço as suas perguntas, que são importantes.\n\nEm relação à sua primeira afirmação, gostaria de dizer-lhe que não disse que esta proposta punha em causa direitos dos trabalhadores, não critiquei a solução. \nO Sr. Deputado talvez tenha feito a sua afirmação baseado nas minhas palavras quando eu disse que, em nossa opinião, isto também é legislação de trabalho para efeito de consulta pública. Mas repito que não critiquei a solução proposta pelo Governo.\n\nQuanto à segunda questão que colocou, a resposta é muito simples. O Código de Processo Civil é prioritário mas não em relação ao Código de Processo do Trabalho porque, em nossa opinião, este último pode, efectivamente, ser autonomizado do Código de Processo Civil e ter regras próprias, sem necessidade de estar à espera da reforma deste. Nós não aceitamos a dependência das regras processuais do trabalho relativamente às regras processuais civis e, repito, pensamos que podem perfeitamente autonomizar-se e que pode fazer-se já a alteração do Código de Processo do Trabalho."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 2326,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Laurentino Dias."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 2326,
+      "speaker": {
+        "id": 1312,
+        "name": "Laurentino José Monteiro Castro Dias",
+        "party": "PS",
+        "string": "O Sr. Laurentino Dias (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Esta proposta de lei de autorização legislativa tem oportunidade e cabimento, pelo que, em correspondência, colherá, naturalmente, o voto favorável do PS. Diria mesmo que se, porventura, fosse possível ceder algum do meu tempo de intervenção para que esta proposta de lei pudesse entrar em vigor mais depressa, fá-lo-ia com toda a boa vontade.\n\nNo fundo, o que o Governo pretende com esta alteração legislativa - e daí, naturalmente, o voto maioritário desta Assembleia - é clarificar e, deste modo, pôr fim a uma série, demasiadamente grande, de controvérsias jurisprudenciais nos tribunais, situação que acabou, aliás, por ser apreciada em termos finais na declaração de inconstitucionalidade orgânica pelo Tribunal Constitucional, com repercussões sérias e graves para aqueles que, por via disto ou daquilo, são forçados a recorrer aos tribunais do trabalho.\n\nEstamos convictos de que esta alteração legislativa, clarificando os níveis de competência e conferindo aos tribunais do trabalho a competência de expedirem as solicitações de citação e notificação, nomeadamente para os tribunais de comarca, tem o seu cabimento e para os cidadãos que recorrem a estes tribunais terá a utilidade de lhes ser, por esta via, garantida uma celeridade que, ao longo destes últimos anos, foi seriamente perturbada.\n\nCreio mesmo não ser esta a hora para, a pretexto de uma alteração que, sendo pequena em termos de alteração legal, é grande em termos de efeitos práticos para o cidadão, discutirmos a globalidade do direito processual do trabalho ou das normas processuais que regem estas matérias.\n\nValerá a pena fazê-lo noutras circunstâncias, mas este especial pedido de autorização legislativa tem um enfoque específico e justifica-se por si mesmo, colhendo, portanto, em nosso entender, o benefício da aprovação da Assembleia da República, pelo que terá o voto favorável do PS.\n\nComo disse no princípio da minha intervenção, se fosse possível ceder tempo para que este diploma entrasse mais rapidamente em vigor, cedê-lo-ia. Por hoje, a nossa discussão ficar-se-á por estes termos."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 2326,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Miguel Macedo."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 2326,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Sr. Miguel Macedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Quase me apetecia corresponder a esse desejo do Sr. Deputado Laurentino Dias e dizer-lhe que, se tal fosse possível, os 18.6 minutos de que dispomos para intervir nesta matéria seriam, porventura, mais proveitosos se cedidos para a entrada em vigor da lei agora proposta pelo Governo, que visa, como todos sabem, a alteração do artigo 26.º do Código de Processo do Trabalho.\n\nO que está aqui em causa, aliás, não corresponde, em rigor, a nenhuma alteração do texto actual, texto esse que é controvertido e que foi objecto de várias decisões de tribunais, designadamente do Tribunal Constítucional. Como os Srs. Deputados sabem, tratou-se de uma decisão discutida e tomada, aliás, contra a opinião do relator designado para esta matéria.\n\nFace às dificuldades e ao exposto no Acórdão do Tribunal Constitucional, entendemos quão difícil e quão controvertida é esta questão e esta matéria.\n\nPor isso, queria aqui frisar bem o seguinte: o que está em causa no Acórdão do tribunal Constitucional é uma questão de inconstitucionalidade orgânica, isto é, decidir sobre se a alteração feita pelo Governo a vários artigos do Código de Processo do Trabalho podia ser feita por decreto-lei ou se ela era da competência reservada da Assembleia da República, nos termos da Constituição.\n\nO Tribunal Constitucional entendeu, maioritariamente, que esta é uma matéria da competência reservada da Assembleia da República e, por isso, justifica-se, inteiramente, esta proposta de lei de autorização legislativa, quer em termos de relacionamento e de respeito institucional do Governo para com a Assembleia da República e para com o poder judicial, quer pelos interesses já aqui alegados dos trabalhadores face a esta questão.\n\nSr. Presidente e Srs. Deputados, não queria deixar de salientar que quanto mais controvertida e quanto maior for a perpetuação deste tipo de situações nos tribunais, por uma mera questão de inconstitucionalidade orgânica, mais prejudicados ficam os trabalhadores, uma vez que estão constantemente a ser confrontados com incidentes processuais que atrasam o julgamento, delongam as decisões dos tribunais judiciais e, naturalmente, prejudicam os interesses daqueles que têm querelas e demandas em tribunal, designadamente nos tribunais do trabalho.\n\nE note-se que não estamos aqui a debater uma coisa tão substancial quanto isso, o que está em causa é sa-"
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 2327,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Não havendo mais inscrições para debater a proposta de lei n.º 98/VI, que autoriza o Governo a alterar o artigo 26.º do Código do Processo do Trabalho, declaro encerrado o debate. Esta proposta de lei será votada no final dos debates previstos para hoje.\n\nSrs. Deputados, passamos agora à discussão conjunta das propostas de resolução n.ºs 61/VI - Aprova, para ratificação, o Acordo Europeu que cria uma Associação entre as Comunidades Europeias e os seus Estados membros, por um lado, e a República Checa, por outro, e respectivos Protocolos e Anexos, bem como a Acta Final com as Declarações, assinado em Bruxelas em 4 de Outubro de 1993, e 62/VI - Aprova, para ratificação, o Acordo Europeu que cria uma Associação entre as Comunidades Europeias e os seus Estados membros, por um lado, e a República Eslovaca, por outro, e respectivos Protocolos e Anexos, bem como a Acta Final com as Declarações, assinado em Bruxelas em 4 de Outubro de 1993.\n\nNão há, na verdade, diferenças entre os dois acordos, pelo que, feita uma auscultação ao Governo e aos líderes parlamentares, foi considerado mais prático que se fizesse a sua discussão conjunta.\n\nNão se encontra presente o relator das duas propostas de resolução..."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 2327,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Sr. Rui Carp (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 2327,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 2327,
+      "speaker": {
+        "id": 1124,
+        "name": "Rui Carlos Alvarez Carp",
+        "party": "PSD",
+        "string": "O Sr. Rui Carp (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, queria apenas dizer que o relator da Comissão de Assuntos Europeus é o Sr. Deputado Fernando Condesso, que viu as\n\nsuas propostas de resolução serem aprovadas, por unanimidade, na Comissão."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 2327,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado Rui Carp pretende que o Sr. Deputado Fernando Condesso use da palavra como relator. Contudo, há também um relatório da Comissão dos Negócios Estrangeiros, Comunidades Portuguesas e Cooperação que tem prioridade na ordem das comissões parlamentares, pelo que era a esse Sr. Relator que daria a palavra.\n\nContudo, em virtude da ausência do Sr. Deputado António Maria Pereira, tem a palavra o Sr. Deputado Fernando Condesso, por um período de 5 minutos, para apresentar a síntese dos dois relatórios."
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 2327,
+      "speaker": {
+        "id": 434,
+        "name": "Fernando Dos Reis Condesso",
+        "party": "PSD",
+        "string": "O Sr. Fernando Condesso (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Os Acordos Europeus de Associação hoje em debate têm, por um lado, o Estado Checo e, por outro, o Estado Eslovaco e estão construídos em termos semelhantes no seu articulado e nos objectivos que visam prosseguir.\n\nAo fim e ao cabo, esses objectivos são, essencialmente, a liberdade do comércio entre a Comunidade Europeia e estas repúblicas associadas e o estabelecimento permanente e institucionalizado do diálogo político.\n\nComo dizia, estes dois Acordos têm como objectivos, além do estreitamento do diálogo e da cooperação política e, portanto, da criação de um espaço de livre comércio, a cooperação em vários domínios, designadamente no plano cultural, industrial e dos serviços financeiros. Em geral, estes Acordos também procuram criar mecanismos de assistência financeira a estes países.\n\nRelativamente a algumas questões mais sensíveis, ligadas à agricultura, ao domínio têxtil e à siderurgia, estes Acordos construíram regimes especiais, que constam de protocolos anexos.\n\nNo que respeita a Portugal, tal como no que se refere a Espanha, há também um regime comercial específico que visa respeitar os Tratados de Adesão. Nos termos deste regime especial, Portugal não irá conceder aos produtos originários das repúblicas associadas um tratamento mais favorável do que aquele que concede às importações originárias de outros Estados membros. E as importações de produtos originários dessas Repúblicas podem ser sujeitos a restrições quantitativas, até finais de 1995, no que diz respeito aos produtos do Anexo B do Tratado de Adesão.\n\nEm conclusão, no seu todo, os Acordos procuram estabelecer uma cooperação permanente, tendo presente os interesses de todas as partes envolvidas e, por isso, o relator deu parecer no sentido da sua aprovação.\n\nResta-me aproveitar a presença dos Srs. Embaixadores do Estado Checo e do Estado Eslovaco para os felicitar, neste momento em que procedemos a este importante debate, e desejar todo o êxito aos seus Governos legítimos, em face dos desafios difíceis que têm de vencer nesta época de profundas e penosas transformações rumo à construção de novos Estados e de novas sociedades de plena liberdade e de bem-estar para os seus povos.\n\nAproveito para destacar, mais uma vez, o significado, em termos portugueses, do modo como unanimemente todos os grupos parlamentares perspectivaram, em Comissão, a posição de Portugal, manifestando de forma clara a nossa solidariedade para com os povos checo e eslovaco."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 2328,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Suponho que o voto feito e a saudação dirigida pelo Sr. Deputado Fernando Condesso aos Srs. Embaixadores das Repúblicas Checa e Eslovaca foram partilhados por toda a Câmara, sendo de todos as saudações e os votos de que o futuro ingresso das duas Repúblicas na Comunidade Europeia seja útil para os vossos povos.\nPara uma intervenção, tem a palavra o Sr. Secretário de Estado dos Assuntos Europeus."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 2328,
+      "speaker": {
+        "id": 2822,
+        "name": "Vitor Martins",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Assuntos Europeus (Vítor Martins)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ªs e Srs. Deputados: A minha intervenção centrar-se-á em quatro pontos destes Acordos: os antecedentes, os objectivos principais, os princípios que lhes estão na base e, finalmente, o seu conteúdo.\n\nOs antecedentes destes dois Acordos com as Repúblicas Checa e Eslovaca têm a sua génese no Conselho Europeu de Estrasburgo, quando os Doze decidiram estabelecer uma nova rede de acordos de associação, então designados por acordos europeus, com os países do Centro e Leste europeu. Na altura, o objectivo era o de apoiar, de uma forma directa, as grandes reformas em curso nos países do Centro e Leste europeu, mas também o de criar as condições para uma reintegração progressiva desses países na grande família democrática europeia. Então, foi possível avançar, desde logo, com as negociações com os três países do chamado Grupo de Visogrado, nessa altura, a Checoslováquia, a Polónia e a Hungria. Nos finais de 1991, esses acordos estavam negociados com estes três países, incluindo a então República Federativa Checa e Eslovaca. A dissolução da Checoslováquia, que fez emergir dois novos Estados, a República Checa e a República Eslovaca, obrigou formalmente a rever esses acordos para que eles fossem estabelecidos com esses dois novos Estados soberanos. De resto, foi por essa razão que estes dois acordos de associação não acompanharam o mesmo calendário dos estabelecidos com a Polónia e a Hungria.\n\nPorém, gostaria aqui de sublinhar - aliás, o Sr. Deputado Fernando Condesso já o fez - que estes Acordos, agora submetidos à apreciação da Assembleia, seguem rigorosamente a estrutura, a natureza, os objectivos e o conteúdo essencial dos firmados com a Polónia e a Hungria. Apenas relativamente a um ponto, há uma alteração com um significado político próprio. É que os acordos com as Repúblicas Checa e Eslovaca incluem já uma disposição de condicionalidade mais forte que a existente relativamente à Polónia e à Hungria, o que se deveu não a qualquer especificidade desses dois Estados mas a uma decisão, entretanto tomada pela União Europeia, de que as suas relações externas deveriam estar vinculadas de uma forma mais firme ao respeito pelos direitos humanos e pelos valores democráticos e ao bom funcionamento das relações externas. Repito - e gostava de acentuá-lo bem aqui - que isso nada teve a ver com a situação específica das duas Repúblicas em causa, mas, ao fim e ao cabo, com um patamar de exigência ao nível das relações externas comunitárias, que, na altura, os Doze entenderam vincar.\n\nOs objectivos destes dois Acordos com as Repúblicas Checa e Eslovaca são conhecidos. A saber: apoiar as transformações políticas no sentido de consolidar a democracia; proporcionar a estes dois Estados uma perspectiva de adesão à União Europeia, criando um quadro de referência a longo prazo para as suas reformas internas, quer no plano político quer no plano económico - e sublinho aqui que os acordos de associação, funcionam, hoje, como verdadeiras antecâmaras da integração desses Estados na União Europeia; apoiar a constituição de um tecido económico e social apto a funcionar com os mecanismos de mercado; sustentar o progresso económico e social das populações checa e eslovaca; integrar esses Estados no diálogo político europeu, assegurando-lhes um estatuto de parceria política no que releva das grandes questões do continente e das relações internacionais; numa palavra, e por fim, contribuir por essa forma para a estabilidade e a segurança no continente europeu, superando um certo vácuo económico e político, gerado após os acontecimentos de 1989.\n\nNestes Acordos há três princípios, que lhes estão subjacentes e que não poderia deixar de sublinhar: um primeiro relacionado com o funcionamento das instituições democráticas, tal como existem no mundo ocidental e na União Europeia; um segundo é o princípio do funcionamento da economia de mercado baseado na livre iniciativa e numa formação de preços, que tem sobretudo em conta o correcto e transparente funcionamento do mercado e, finalmente, como terceiro princípio, o conjunto de disposições relativas aos Direitos do Homem, que, aliás, como disse há pouco, constituem, hoje, um patamar de exigência horizontal nas relações externas da União Europeia.\n\nEstes princípios são exactamente aqueles que fornecem a base para a condicionalidade a que, há pouco, me referi. O artigo 117.º destes Acordos traduz essa exigência de condicionalidade, que, de resto, será também ponderada quando se passar da primeira para a segunda fase, isto é, quando estiverem cumpridos os primeiros cinco anos dos Acordos, se fizer uma avaliação e se procurar passar para a segunda fase.\n\nUma última referência, Sr. Presidente e Srs. Deputados, diz respeito ao conteúdo destes Acordos. Como já foi dito, eles têm um pilar fundamental no diálogo político e esta é a grande novidade destes Acordos relativamente a outros, firmados a nível de cooperação e de comércio livre. Esse diálogo será estabelecido ao mais alto nível das instâncias políticas e permitirá preparar a integração desses Estados na União Europeia.\n\nUm segundo elemento tem a ver com a vertente comercial. O comércio livre é o objectivo marcado e assumido por ambas as partes num futuro não muito longínquo. Obviamente, salvaguardaram-se aqui certos produtos mais sensíveis, como os têxteis e o aço, já citados, e alguns produtos agrícolas, mas a meta final será sempre a do estabelecimento de uma zona de comércio livre com esses Estados. Existe também uma cláusula de salvaguarda, que pode ser invocada se houver ruptura de mercado de uma ou outra parte do acordo.\n\nEstão igualmente previstas uma cooperação financeira, relacionada sobretudo com o funcionamento do"
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 2329,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Helena Torres Marques."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 2329,
+      "speaker": {
+        "id": 675,
+        "name": "Helena De Melo Torres Marques",
+        "party": "PS",
+        "string": "A Sr.ª Helena Torres Marques (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, na generalidade, concordo com a sua intervenção, o que terei oportunidade de dizer-lhe aquando da minha intervenção.\n\nPara já, gostaria de fazer-lhe duas perguntas muito directas.\n\nO Quinto Protocolo diz respeito às relações especiais de Portugal e Espanha, quer com a República Checa quer com a República Eslovaca. Aí prevê-se um tratamento especial para um conjunto de produtos relativamente a Portugal - um conjunto de produtos, aliás, bastante maior, cerca de cinco vezes maior, em relação à Espanha.\n\nEm primeiro lugar, gostaria de saber quando é que, em sua opinião, este Acordo entrará em vigor. O Parlamento português vai aprová-lo agora, mas não sabemos o que está a passar-se nos outros parlamentos. O problema é que a duração prevista para a concessão desse tratamento especial é só até ao final de 1995 e, portanto, o período especial de que beneficiarão as diversas actividades económicas em Portugal pode vir a ser extremamente reduzido - se calhar, reduzir-se-á a um ano.\n\nA minha segunda questão é esta: como se explica que, depois dos acordos prévios já subscritos por Portugal nesta matéria, as relações económicas entre Portugal e a anterior Checoslováquia, actuais, Repúblicas Checa e Eslovaca, tenham vindo não a incrementar-se mas a reduzir-se?"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 2329,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Secretário de Estado dos Assuntos Europeus."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 2329,
+      "speaker": {
+        "id": 2822,
+        "name": "Vitor Martins",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Assuntos Europeus",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Helena Torres Marques, a sua primeira questão permite-me introduzir uma nota, que não referi na minha intervenção, para dizer que o Acordo já está em funcionamento no capítulo comercial, dado que esse não careceria sequer da\n\nratificação por ser uma competência da política comercial comum. Por isso, houve um entendimento - aliás, relativo não apenas a estes dois Estados, mas também à Polónia, à Hungria, à Roménia e à Bulgária, ou seja, ao conjunto dos países da Europa Central e de Leste -, segundo o qual o capítulo comercial vigora desde 1 de Março de 1992.\n\nPortanto, só o conjunto das disposições que efectivamente relevam de uma competência nacional e da ratificação dos parlamentos é que ainda não está em vigor.\n\nNaturalmente, a especificidade para o caso de Portugal e da Espanha releva, sobretudo, para uma exigência que os dois países apresentaram, na altura, de não haver discriminações entre o relacionamento que estes dois Estados tinham com os seus parceiros da União e os países do Centro e Leste Europeu. Só por absurdo se poderia admitir que Portugal e Espanha acabassem por ter um relacionamento comercial com esses Estados do Centro e do Leste Europeu em situações de maior favor do que aquela que é concedida no espaço europeu. Daí, a especificidade do tratamento a Portugal e Espanha.\n\nAs previsões de entrada em funcionamento não são fáceis de fazer, mas admito que é perfeitamente credível supor que este acordo entre em vigor ainda este ano, provavelmente no primeiro dia do segundo mês após a última ratificação. Infelizmente, tem havido algum atraso nas ratificações, mas creio que Portugal será o terceiro ou quarto Estado a ratificar esses acordos. Faltam ainda muitos outros, mas será perfeitamente possível que, dentro de alguns meses, se consagre a ratificação pelos Doze e, portanto, que a sua entrada em vigor se dê ainda este ano.\n\nEfectivamente, não posso deixar de concordar com o facto de que essas disposições específicas não venham a ter já uma aplicação muito importante, porque elas relevam de uma recta final da nossa própria transição.\n\nA segunda questão, posta pela Sr.ª Deputada Helena Torres Marques, tem a ver com o fraco nível de relacionamento entre Portugal e as Repúblicas Checa e Eslovaca.\n\nDirei que esse fraco relacionamento vem já do passado e radica, sobretudo, num grande distanciamento, até político, que existiu entre estas duas regiões. Estamos a reencontrarmo-nos. Esses Estados estão a reintegrar o grande espaço aberto e concorrencial da Europa Ocidental, mas isso não exclui - e gostaria de o dizer de uma forma muito clara - que algum voluntarismo seja necessário a todos os níveis, da Administração, do Governo, da diplomacia e a nível dos meios económicos e sociais para encontrar projectos e programas que possam levar as nossas relações a um patamar muito mais importante do que aquele que têm hoje.\n\nEsse é um trabalho que estará facilitado logo que este acordo entre em vigor e que, portanto, novas ferramentas possam ser usadas pelos meios económicos e sociais em Portugal para fazer negócios, promovendo a cooperação com esses dois Estados."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 2329,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 2329,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Helena Torres Marques."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 2329,
+      "speaker": {
+        "id": 675,
+        "name": "Helena De Melo Torres Marques",
+        "party": "PS",
+        "string": "A Sr.ª Helena Torres Marques (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, Srs. Deputados: O Partido"
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 2330,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 2330,
+      "speaker": {
+        "id": 675,
+        "name": "Helena De Melo Torres Marques",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em segundo lugar, porque se prevê que haja nestes Acordos um estreitamento das relações políticas e um avanço, não só nos domínios comerciais mas também no diálogo político. Acreditamos que este é um ponto essencial na criação de um sistema diferente de relações entre a União Europeia e os países candidatos a membros futuros desta União. É, pois, necessário não só estreitar as relações comerciais, mas também as relações políticas.\n\nPor isso, saudamos os princípios de relacionamento, assim como os órgãos previstos nos Acordos, quer ao nível do Conselho de Ministros, quer ao nível diplomático, quer ao nível parlamentar. Além disso, o PS gostaria muito que se viessem a institucionalizar relações entre os Parlamentos das Repúblicas Checa e Eslovaca e o Parlamento Português.\n\nPortugal é um país que, pelo ser grau de evolução económica e pela sua evolução política, pode ser um interessante interlocutor para estes países, pela experiência que teve, pela forma como foi evoluindo a democracia, pelas dificuldades que tivemos que ultrapassar. Somos um País com uma experiência que pode ser interessante para ser seguida pela República Checa e pela República Eslovaca.\n\nNeste sentido, dando o nosso acordo a estas duas propostas de lei, gostaria de referir - e voltando à questão que, há pouco, coloquei ao Sr. Secretário de Estado - que tive o cuidado de ir ver qual era o estado das relações comerciais entre Portugal e as Repúblicas Checa e Eslovaca e, sobretudo, ver se depois dos Acordos essas relações se tinham ou não incrementado. Infelizmente, assim não aconteceu: de 1992 para 1993, as relações comerciais, que são positivas para ambos os países e negativas para nós, passaram a ser menores, quando já eram muito pequenas. Desta forma, penso que não basta fazer estes Acordos para se incentivarem as relações comerciais.\n\nDado o grau de desenvolvimento desses países e o nosso, penso que era possível e interessante que houvesse relações ao nível de investimentos externos portugueses, de desenvolvimento das relações comerciais bastante mais intensas com qualquer destes países. As nossas relações são bastante mais importantes com a República Checa do que com a República Eslovaca, mas, em conjunto, são muito pequenas e, sobretudo, têm vindo a decair.\n\nEm conclusão, damos o nosso acordo, mas devemos reforçar politicamente as relações com estes países, porque é importante para toda a União Europeia e para eles mesmos, assim como tentar reforçar as relações comerciais entre Portugal e as Repúblicas Checa e Eslovaca, dizendo-lhes que esperamos que o seu desenvolvimento se possa processar a um ritmo tão elevado que, no final do século, venham a poder integrar a União Europeia."
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 2330,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 2330,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Fernando Condesso."
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 2330,
+      "speaker": {
+        "id": 434,
+        "name": "Fernando Dos Reis Condesso",
+        "party": "PSD",
+        "string": "O Sr. Fernando Condesso (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: A Europa da década de 90 será, sem dúvida, rica em acontecimentos de grande relevo, marcantes do seu futuro. Basta reparar que, nestes primeiros anos, ela já pode averbar alguns eventos ímpares. Refiro-me não só à União Europeia, entre os Doze e, no seguimento do Tratado da criação do Espaço Económico Europeu, à extensão desta União a outros Estados da EFTA, quer do Centro, quer do Norte da Europa, como ainda à conquista de todo o continente para os princípios democráticos e da economia social de mercado. Tudo isto também veio propiciar, no Centro e no Leste, uma ampla cooperação e progressiva aproximação entre a União Europeia e estes Estados, que, hoje, se traduz precisamente na celebração destes acordos de associação. Ou seja, estamos num período em que os Estados ocidentais não só criam instrumentos jurídicos para a sua unificação de facto como preparam uma união à escala da grande Europa, repondo a visão arquitectónica natural de um continente, que, sem dúvida, não pode marginalizar o Centro e o Leste da Europa.\n\nOs Acordos que agora iremos aprovar, resultantes do facto de a Checoslováquia se ter cindido, em Janeiro de 1993, em dois Estados independentes e que vêm substituir o acordo de comércio e cooperação concluído em 1990, são, no essencial, iguais e recolocam o texto assinado, em Dezembro de 1991, com a anterior federação, que se havia constituído, aliás, não muito longinquamente, em Abril de 1990, sendo certo que as suas disposições comerciais estão em vigor, como o Sr. Secretário de Estado já aqui lembrou, desde 1 de Março de 1992, por força dos acordos transitórios vigentes, e correspondem ao conjunto de soluções consagradas nos restantes acordos com a Hungria, a Polónia, a Roménia e a Bulgária. Diria que, em relação ao Acordo com a anterior federação, as modificações são poucas mas, e referindo mais uma vez a intervenção do Sr. Secretário de Estado dos Assuntos Europeus, há alterações significativas, desde logo a introdução da cláusula relativa ao respeito pelos direitos do homem, os princípios democráticos,..."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 2330,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 2330,
+      "speaker": {
+        "id": 434,
+        "name": "Fernando Dos Reis Condesso",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... além, enfim, da importância que em geral assumem algumas adaptações de ordem técnica, jurídica, designadamente no domínio da repartição, agora entre as duas repúblicas, das concessões comerciais quantitativas, das regras de origem, vindo permitir uma acumulação entre os países de colaboração regional,"
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 2331,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Rui Gomes da Silva."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 2331,
+      "speaker": {
+        "id": 1401,
+        "name": "Rui Manuel Lobo Gomes Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Rui Gomes da Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Será uma intervenção muito curta, no fundo, limitada ao conteúdo do relatório da Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação, na impossibilidade de poder ser feita pelo presidente da Comissão, que foi quem subscreveu o referido relatório.\n\nComeço por realçar o acompanhamento, por parte da Assembleia da República, das matérias relativas à participação de Portugal na União Europeia e o facto de, quando essas questões forem de política internacional, a Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação ser chamada a intervir sobre elas e a intervir no debate em Plenário. É o que sucede com as propostas de resolução que aprovam para ratificação os Acordos Europeus que criam duas associações entre, por um lado, as Comunidades Europeias e os seus Estados membros e, por outro, as Repúblicas Eslovaca e Checa, respectivamente. Da parte da Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação, haverá que salientar o período intermédio de preparação destes dois países para, num hipotético alargamento, a futura integração na União Europeia e a importância destes Acordos em termos políticos, culturais, económicos e também, porque não dizê-lo, em termos de segurança."
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 2331,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 2331,
+      "speaker": {
+        "id": 1401,
+        "name": "Rui Manuel Lobo Gomes Da Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "São países europeus, as Repúblicas Checa e Eslovaca, em relação aos quais a Europa, muito especificamente Portugal, tem obrigações. No entanto, é uma realidade, estes países não dispõem de estruturas e níveis económicos compatíveis.\n\nPortanto, se se pretende admitir a hipótese de, no futuro, optar por um alargamento da Comunidade a estes dois países, existe a necessidade de os preparar. É este o conteúdo, em termos sucintos, dos Acordos sobre os quais somos chamados a ratificar, pretendendo-se, de alguma maneira, chamar a atenção, por um lado, para o «Diálogo Político» estabelecido nos termos dos Acordos - diálogo político regular sobre política internacional - e, por outro, para a existência do Comité Parlamentar de Associação e para a importância da função que os Parlamentos nacionais desses países estão destinados a desempenhar no seio da futura União Europeia. Para isso, o próprio relator da Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação, Deputado António Maria Pereira, neste momento presente, chamou a atenção no seu relatório, referindo-se à Declaração relativa à Conferência dos Parlamentos, anexa ao Tratado de Maastricht, quanto à possibilidade de se reunirem em assises.\n\nAs grandes orientações da União Europeia definem as grandes linhas da sua política. Em termos de alargamento da União Europeia a estes diferentes países, há que salientar no conteúdo das propostas de resolução o respeito pelos princípios dos direitos humanos, já referido pelo Sr. Deputado Fernando Condesso. É para nós extremamente relevante que essa mesma matéria conste dos Acordos, que aqui somos chamados a ratificar.\n\nPor essa mesma razão, o PSD, como já foi referido, votará favoravelmente as duas propostas de resolução."
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 2331,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Nogueira de Brito."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 2331,
+      "speaker": {
+        "id": 813,
+        "name": "José Luis Nogueira De Brito",
+        "party": "CDS-PP",
+        "string": "O Sr. Nogueira de Brito (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Secretários de Estado, Srs. Deputados: Em primeiro lugar, queria congratular-me, embora o elogio em boca própria possa parecer vitupério, com o colectivo da Comissão de Assuntos Europeus por ter tomado a iniciativa de convidar para assistir a esta cerimónia as embaixadas dos dois países signatários dos acordos que hoje somos chamados a aprovar. Iniciativa que considero positiva, dado que implica em si própria a ideia de"
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 2332,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP e do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 2332,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Octávio Teixeira."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 2332,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Octávio Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: De uma forma breve e pragmática, queria referir que, pela análise que fizemos dos Acordos que estão em discussão, não vislumbramos que interesses específicos de Portugal sejam prejudicados pela sua aprovação e ratificação.\n\nPor outro lado, as duas partes contratantes, a República Checa e a República Eslovaca, ao pretenderem, proporem e acordarem, consideram que estão igualmente defendidos os seus interesses de acordo com os seus representantes, dos seus governos legítimos.\n\nNeste sentido, como estes acordos de associação têm por fim um aprofundamento da cooperação entre Estados livres e soberanos, de acordo com interesses mútuos, e não estão previstas quaisquer - nem seriam, logicamente, admissíveis - ingerências ilegítimas de uns Estados nos negócios e interesses dos outros Estados, pela nossa parte, iremos dar o nosso voto favorável à aprovação, para ratificação, dos acordos de associação da Comunidade e dos doze países comunitários com a República Checa e com a República Eslovaca."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 2332,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 2332,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Dado que não há mais inscrições, declaro encerrado o debate sobre os dois Acordos europeus de associação entre as Comunidades e seus Estados membros e as duas repúblicas, recentemente constituídas na margem do Danúbio.\n\nFormulo, perante os representantes desses dois povos, os meus votos de que a associação assim acordada, como se verá neste Parlamento sem discrepância, seja ocasião para o progresso e o desenvolvimento democrático dos vossos povos, sendo certo que é, seguramente, uma vantagem para a Europa. A Europa é um espaço tão diferenciado que só se enriquece com a participação de muitas nações.\n\nSrs. Deputados, vamos aguardar algum tempo pela chegada de alguns Deputados, que se encontram em trabalho de Comissões, para procedermos às votações agendadas para hoje, às quais acrescem estas propostas que acabámos de discutir.\n\nSrs. Deputados, vamos proceder à votação do projecto de resolução n.º 111/VI - Recusa de ratificação do Decreto-Lei n.º 26/94, de 1 de Fevereiro, que estabelece o regime de organização e funcionamento das actividades de segurança, higiene e saúde no trabalho [ratificação n.º 116/VI (PCP)].\nSubmetido à votação, foi rejeitado, com votos contra do PSD e do CDS-PP, votos a favor do PS, do PCP, de Os"
+    }
+  ]
+}

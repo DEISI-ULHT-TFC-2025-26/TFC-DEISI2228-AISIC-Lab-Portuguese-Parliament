@@ -1,0 +1,796 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "4",
+    "legislative_session": "2",
+    "number": "81",
+    "date": "1987-06-26"
+  },
+  "debate_id": "r3_4_2_81_1987-06-26",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2969,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a reunião.\nEram 15 horas e 50 minutos.\n\nEstavam presentes os seguintes Srs. Deputados:\nFernando Monteiro do Amaral (PSD).\n\nJosé Vargas Bulcão (PSD).\n\nAntónio Alves Marques Júnior (PRD).\n\nJosé Rodrigues Vitoriano (PCP').\n\nJoão Abreu Salgado (PSD).\n\nJosé Guilherme Coelho dos Reis (PSD).\n\nRui Salvada (PSD).\n\nFernando Manuel Cardoso Ferreira (PSD).\n\nVasco Francisco Aguiar Miguel (PSD).\n\nGuido Orlando de F. Rodrigues (PSD).\n\nDinah Alhandra (PSD).\n\nAntónio Poppe Lopes Cardoso (PS).\n\nAntónio Manuel Azevedo Gomes (PS).\n\nHermínio Palma Inácio (PS).\n\nMiranda Calha (PS).\n\nEduardo Ribeiro Pereira (PS).\n\nHermínio Paiva Fernandes Martinho (PRD).\n\nJoaquim Jorge Magalhães Mota (PRD).\n\nJosé Carlos Torres M. Vasconcelos (PRD).\n\nVictor Àvila (PRD).\n\nJerónimo de Sousa (PCP).\n\nJoão António Gonçalves do Amaral (PCP).\n\nJorge Manuel Abreu de Lemos (PCP).\n\nHenrique Manuel Soares Cruz (CDS).\n\nNarana Sinai Caissoró (CDS)."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 2969,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vai proceder-se à leitura do expediente.\nDeu-se conta do seguinte\nExpediente\nOfícios\nDa Assembleia Municipal de Vidigueira, que envia cópia de uma moção aprovada pela Assembleia Municipal e do ofício recebido da Direcção-Geral dos Registos e do Notariado, respeitante às instalações do Cartório Notarial daquela localidade.\nDa Câmara Municipal de Resende, que informa ter sido aprovado um voto de protesto contra a implantação do laboratório de resíduos nucleares em Aldeavila e solicita que se façam diligências junto do Governo Espanhol no sentido de jamais consentir a instalação do respectivo laboratório."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 2969,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, penso que hoje não haverá período de antes da ordem do dia, tanto mais que esta reunião foi convocada com a preocupação específica da apreciação do recurso da não admissibilidade das propostas de resolução apresentadas na reunião de ontem e, também, tal como havíamos combinado, da apreciação do texto da"
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 2970,
+      "speaker": {
+        "id": 230,
+        "name": "Jorge Manuel Abreu De Lemos",
+        "party": "PCP",
+        "string": "O Sr. Jorge Lemos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, reporto-me à nota n.º 41/87, dos Srs. Assessores Jurídicos. Do nosso ponto de vista, são de aceitar todas as observações, excepto a última que se inicia por \"[...] artigo 9.° (Nova redacção) [...]\". Somos de parecer que se deve manter no texto a redacção que foi aprovada, quer na votação na especialidade em comissão, quer na votação final global no Plenário da Assembleia da República.\nNo texto que foi distribuído aos Srs. Deputados está a indicação da redacção aprovada pelo Plenário, que é a seguinte: \"A presente lei entra em vigor, nos termos do artigo 170.°, n.º 2, da Constituição da República.\""
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 2970,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Portanto, Srs. Deputados, este diploma vai sofrer as alterações que vêm previstas no n.º 2 do parecer dos Srs. Assessores Jurídicos, com excepção da parte respeitante ao artigo 9.º, cuja redacção será a seguinte:\nA presente lei entra em vigor, nos termos do artigo 170 °, n.º 2, da Constituição da República."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 2970,
+      "speaker": {
+        "id": 230,
+        "name": "Jorge Manuel Abreu De Lemos",
+        "party": "PCP",
+        "string": "O Sr. Jorge Lemos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, há Lima outra alteração a fazer, pois deve ter havido uma falha dactilográfica. No artigo 2 °, alínea c), onde se lê \"[...] cujo agregado familiar aufira per capita não superior a 50 %\" deve ler-se \"[...] cujo agregado familiar aufira per capita um rendimento não superior a 50%\"."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 2970,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Há alguma objecção, Srs. Deputados?\nPausa.\nComo não há, subscreverei o diploma com as alterações que agora foram aprovadas.\nSrs. Deputados, vamos entrar no ponto da nossa ordem de trabalhos respeitante à apreciação e votação do relatório e parecer sobre o recurso da não admissibilidade dos projectos de resolução, apresentados na reunião de ontem da Comissão Permanente.\n\nO Sr. Deputado João Amaral foi designado relator e, portanto, pergunto-lhe se está em condições de proceder à leitura do relatório."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 2970,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, embora esteja em condições de ler o relatório, penso que, uma vez que ele foi distribuído por todos os grupos parlamentares, a sua leitura poderá ser dispensada, caso não haja objecções por parte de nenhum grupo parlamentar."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 2970,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Há alguma objecção, Srs. Deputados?\nPausa.\nComo não há objecções, podemos dispensar a leitura do relatório e parecer.\nTem a palavra o Sr. Deputado Cardoso Ferreira."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 2970,
+      "speaker": {
+        "id": 94,
+        "name": "Fernando Manuel Alves Cardoso Ferreira",
+        "party": "PSD",
+        "string": "O Sr. Cardoso Ferreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, provavelmente por lapso dos serviços, não me foi fornecido esse documento."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 2970,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Penso que os serviços terão cópia que, de imediato, lhe entregarão. V. Ex.ª certamente precisará de alguns minutos para o ler."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 2970,
+      "speaker": {
+        "id": 94,
+        "name": "Fernando Manuel Alves Cardoso Ferreira",
+        "party": "PSD",
+        "string": "O Sr. Cardoso Ferreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito obrigado, Sr. Presidente, mas isso não será necessário; vou ler o parecer durante o decurso do debate e, entretanto, julgo que o Sr. Deputado João Amaral fará uma exposição sobre esta matéria."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 2970,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado João Amaral deseja intervir?"
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 2970,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, o relatório e parecer não tem exposição, é o que é; o que cabe agora fazer, nos termos regimentais, é a fundamentação do recurso por parte dos Srs. Deputados que o apresentaram.\nNesse quadro, visto que, nos termos regimentais, a fundamentação do recurso só pode ser feita por um Sr. Deputado, penso que o melhor é que seja o Sr. Deputado Magalhães Mota a fazê-lo."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 2970,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Magalhães Mota, para esse efeito, se assim o desejar."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 2970,
+      "speaker": {
+        "id": 283,
+        "name": "Joaquim Jorge De Magalhães Saraiva Da Mota",
+        "party": "PRD",
+        "string": "O Sr. Magalhães Mota (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Gostaria de começar por salientar que a revisão constitucional de 1982 introduziu no sistema .jurídico-constitucional português um princípio que já estava assente, mas que ficou expresso, qual seja o da permanência de funcionamento das assembleias.\nDe facto, o regime da assembleia parlamentar intermitente, que tem alguma tradição nalguns direitos constitucionais, não corresponde ao próprio princípio democrático, que é o da continuidade das assembleias. Isso ficou expresso na revisão constitucional de 1982 e ficou ainda expresso que não só se mantém todos os poderes inerentes ao mandato dos deputados, como se mantêm todos os poderes da Comissão Permanente, mesmo no caso de dissolução da Assembleia.\nO n.º 3 do artigo 175.° da Constituição diz:\nA dissolução da Assembleia não prejudica a subsistência do mandato dos deputados, nem da competência da Comissão Permanente, até à primeira reunião da Assembleia após as subsequentes eleições.\nEstá assim expresso na Constituição que a Comissão Permanente mantém a plenitude das suas competências, mesmo no caso de dissolução da Assembleia da República.\nAssim sendo, resta saber se a matéria em análise cabe ou não na competência da Comissão Permanente da Assembleia da República.\nA Comissão Permanente corresponde, do ponto de vista jurídico-constitucional, a um prolongamento da Assembleia"
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 2972,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Cardoso Ferreira para formular pedidos de esclarecimento. Devo referir que é uma transigência por parte da Mesa, porque o artigo 134.º do Regimento determina que cada grupo parlamentar tem o direito de fazer uma intervenção de dez minutos; no caso de não a querer fazer tem o direito de fazer uma declaração de voto de três minutos.\nNo entanto, para esclarecimento da situação - e todos ficaremos porventura a ganhar - a Mesa concede que V. Ex.ª faça os pedidos de esclarecimento porque parte do pressuposto que os Srs. Deputados não levantarão qualquer objecção."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 2972,
+      "speaker": {
+        "id": 94,
+        "name": "Fernando Manuel Alves Cardoso Ferreira",
+        "party": "PSD",
+        "string": "O Sr. Cardoso Ferreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Magalhães Mota, ouvi com todo o interesse a sua exposição, onde se esforçou bastante por fazer vingar o seu ponto de vista, de que, efectivamente, a Comissão Permanente tem competência para aprovar resoluções.\nDa série de considerações que teceu, algumas, contudo, merecem ser contraditadas, de forma a que o Sr. Deputado possa explicar a esta Comissão como resolve algumas contradições.\nPor exemplo, o artigo 169.º da Constituição diz no n.º 4:\nRevestem a forma de resolução os demais actos da Assembleia da República, bem como os actos da Comissão Permanente previstos nas alíneas e) e f) do n.º 3 do artigo 182.º.\nOu seja, muito claramente, o legislador constitucional, no que toca à Comissão Permanente, limitou a forma e limitou a aprovação de resoluções a estas duas competências da Assembleia da República. Portanto, este argumento parece-me suficientemente sólido, a par de outros que poderei invocar, para mostrar que há de facto limitações quanto à competência de a Comissão Permanente aprovar resoluções. Tanto assim é que o legislador sentiu necessidade de explicar que só nestas duas competências da Comissão Permanente, por razões que facilmente se compreendem, caberá a aprovação de uma resolução.\n\nO Sr. Deputado também referiu a questão da competência da Assembleia da República para acompanhar - e neste caso concreto da Comissão Permanente - a actividade do Governo. Gostava que o Sr. Deputado me explicasse porque é que o legislador constitucional, quanto à competência da Comissão Permanente, sentiu a necessidade de referir na alínea a) do n.º 3 do artigo 182.° \"acompanhar a actividade do Governo\" e em relação à competência de fiscalização por parte da Assembleia da República surge no artigo 165.° \"vigiar o cumprimento da Constituição e apreciar os actos do Governo\".\nSr. Deputado, porque é que o legislador constitucional sentiu esta necessidade de estabelecer uma diferença, falando em \"apreciar os actos do Governo\" em relação à competência de fiscalização da Assembleia da República e, por outro lado, quanto à Comissão Permanente vir falar em \"acompanhar a actividade do Governo\". Ora não pudemos imputar ao legislador que se tenha servido de termos relativamente equívocos, pois parte-se do princípio que cada conceito tem uma expressão técnico-jurídica correcta e adequada e que, portanto, houve aqui uma intenção, não é um lapso, não é uma diversificação.\nSr. Deputado, muitas outras questões poderiam ser postas sobre esta discussão como forma de ir contra a sua interpretação. Entendemos de facto, e já exprimimos várias vezes a nossa opinião com bastantes argumentos, de que não cabe a esta Comissão Permanente competência para aprovar resoluções, pelo que, naturalmente, não nos coibiremos de ir tão longe quanto os mecanismos, nomeadamente de apreciação constitucional desta questão, nos permitem para fazer vingar a nossa tese.\nAliás, no texto do recurso ontem interposto não se falava claramente na aprovação de resolução. De alguma forma o subscritor tinha envolvido e tentado tornear essa questão, o que por si só indicia, também, algumas dúvidas e algumas preocupações quanto à constitucional idade desta questão."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 2972,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "PS",
+        "string": "O Sr. Lopes Cardoso (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, desejava fazer uma interpelação."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 2972,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 2972,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "PS",
+        "string": "O Sr. Lopes Cardoso (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado Cardoso Ferreira está a fazer uma intervenção, não está a pedir esclarecimentos. Não temos por hábito, ao contrário de outros, levantar questões meramente processuais e regimentais, mas também não andamos aqui ... Portanto, o mínimo é que quando se aceita que, à revelia do regimento se façam pedidos de esclarecimento, os Srs. Deputados se cinjam no pedido de esclarecimento e não venham fazer intervenções, que até têm direito a elas."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 2972,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, tem toda a razão. Sr. Deputado Cardoso Ferreira, faça favor de limitar a sua intervenção."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 2972,
+      "speaker": {
+        "id": 94,
+        "name": "Fernando Manuel Alves Cardoso Ferreira",
+        "party": "PSD",
+        "string": "O Sr. Cardoso Ferreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Com certeza, Sr. Presidente.\nJulgo que está tudo dito sobre esta matéria. Podia ter transformado este pedido de esclarecimento em intervenção, e, porventura, o Sr. Deputado Lopes Cardoso sentir-se-ia muito mais tranquilizado, embora sendo, rigorosamente, a mesma coisa.\nQuanto à questão dos expedientes processuais, já ontem aqui foi dito - e hoje reafirmo-o novamente - que o regimento não pode servir quando interessa e deixar de servir quando não interessa."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 2972,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "PS",
+        "string": "O Sr. Lopes Cardoso (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente, Sr. Deputado!"
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 2972,
+      "speaker": {
+        "id": 94,
+        "name": "Fernando Manuel Alves Cardoso Ferreira",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É que certamente o Sr. Deputado não estará nas melhores condições para fazer esse tipo de referências."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 2973,
+      "speaker": {
+        "id": 283,
+        "name": "Joaquim Jorge De Magalhães Saraiva Da Mota",
+        "party": "PRD",
+        "string": "O Sr. Magalhães Mota (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, em relação às duas questões que foram colocadas pelo Sr. Deputado Cardoso Ferreira tenho muito gosto em lhe responder.\n\nO Sr. Deputado interrogou-se, com algum esforço, se a Comissão Permanente tinha ou não competência para votar resoluções. Digo-lhe que sim. Tem competência para votar resoluções, tal como estabelece o n.º 4 do artigo 169.º da Constituição, que passo a ler: \"Revestem a forma de resolução os demais actos da Assembleia da República, bem como os actos da Comissão Permanente [...]\", ou seja, expressamente, a Comissão tem competência para votar resoluções, e agora leio \"[...] previstos nas alíneas e) e f) do n.º 3 do artigo 182.°\".\nAlém disso, o artigo 199 ° da Constituição diz o seguinte:\nMovido procedimento criminal contra um membro do Governo e indiciado este definitivamente por despacho de pronúncia ou equivalente, salvo no caso de crime punível com pena maior, a Assembleia da República decide se o membro do Governo deve ou não ser suspenso para efeito do seguimento do processo.\nQual é a forma que deve revestir esta situação? \nO Sr. Deputado verificará na forma dos actos que é a forma de resolução. Ou seja, a enumeração feita no artigo 182.º não é taxativa, o artigo 199.° acrescenta-se às competências previstas no artigo 182.° e isto equivale a dizer duas coisas: primeiro, que a Comissão Permanente tem a competência para votar resoluções como está expresso na Constituição; segundo, que para além das competências enumeradas no artigo 182.º, tem também aquelas que resultam da própria Constituição, logo, a que tínhamos em apreciação. Penso que com isto ficará esclarecido.\nPor outro lado, o Sr. Deputado pergunta-me o que significa a palavra \"acompanhar\". Digo-lhe, desde já, aquilo que não significa. A Assembleia da República e, designadamente, a Comissão Permanente não teria capacidade para acompanhar fisicamente todas as deslocações feitas pelos membros deste Governo neste período cm que exerce funções de gestão. Essa matéria fica, desde já, esclarecida. O acompanhar não significa esse acompanhamento físico das inaugurações, repetições de inaugurações, etc. Depois desta matéria esclarecida vamos ver, então, quais serão as diferenças entre \"o acompanhar\", \"o vigiar\" e \"o apreciar\".\nTive há pouco ocasião de dizer que, sob pena de subvertermos completamente a Constituição e de, portanto, a actividade do um governo de gestão não ter qualquer espécie de controle, o acompanhamento exercido por esta Comissão deveria significar um acréscimo das suas competências de vigilância e de apreciação. Se o Sr. Deputado quiser conferir toda a teorização feita a propósito do exercício de um governo de gestão -e na doutrina portuguesa tem, por exemplo, uma tese do candidato à Presidência da República apoiado pelo PSD, o Prof. Freitas do Amaral --, convém referir que o Prof. Freitas do Amaral diz num opúsculo sobre a matéria em causa que os governos de gestão, após a revisão de 1982, têm uma competência estritamente reduzida, não podem fazer nenhuns actos inovatórios na ordem legislativa e, também, nenhuns actos chamados de alta administração, ou seja, os actos que têm a ver com a chamada jurisdicionalidade ou com a política dentro da administração. E a dado passo, diz-se aí que a nomeação e a exoneração de gestores é, por exemplo, uma das matérias excluídas da competência de um governo em actividade de gestão.\nComo o Sr. Deputado está a ver, estamos longe da aplicação prática daquilo que é a doutrina, nomeadamente a portuguesa, sobre a competência dos governos de gestão e como ela é exorbitada com grande rigor todos os dias.\nDiz ainda o Prof. Freitas do Amaral, por exemplo, que o expediente fácil para aquele tipo de governo é a utilização da legislação por portaria, esquecendo-se que a portaria também funciona no campo administrativo. É que quando um governo de gestão utiliza a portaria, para se eximir ao controle do próprio Presidente da República, através da promulgação, está a criar uma forma enviesada de actos legislativos que introduzem inovações na ordem jurídica.\nE conclui, \"por tudo isto, é necessário que os poderes de fiscalização sejam acrescidos\". É necessário -e estou a utilizar uma expressão do próprio opúsculo do Prof. Freitas do Amaral - que o órgão político acompanhe, rigorosamente, a actividade do governo, que já não se exerce apenas por via legislativa, que podia ser sujeita a ratificação, mas exerce-se, também, através de um conjunto de actos que têm a ver com o próprio exercício corrente clãs suas funções e que, por isso, necessita de poderes acrescidos.\nDaí que os poderes de fiscalização de um parlamento, nessa altura, não possam ser apenas os poderes de fiscalização legislativa ou de fiscalização do controle da jurisdicionalidade de alguns actos, mas tenha a ver com a própria prática quotidiana desse governo. É a tese que tem em curso e creio que isso lhe explica o sentido da palavra \"acompanhar\". Aliás, nos debates operados em sede de Constituição verificará que se utilizou precisamente uma expressão, dizendo até um Sr. Deputado que ela significava precisamente a mesma coisa."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 2973,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Algum Sr. Deputado pretende usar da palavra?\nPausa\nComo ninguém quer usar da palavra, vamos passar à votação do relatório e parecer que foi apresentado pelo Sr. Deputado João Amaral.\nSubmetido à votação, foi aprovado, com votos a favor do PS, do PRD e do PCP e votos contra do PSD e do CD S.\nÉ o seguinte:\nParecer da Comissão Permanente da Assembleia\n\nda República\n1 -Foi escrita na ordem de trabalhos das reuniões da Comissão Permanente a apreciação dos cinco relatórios elaborados e aprovados pela Comissão Parlamentar de Inquérito aos actos do Ministério da Agricultura quanto à Reforma Agrária.\nNo âmbito dessa apreciação foram apresentados quatro projectos de resolução.\n\nO Sr. Presidente da Assembleia da República decidiu não admitir esses projectos de resolução, designadamente por entender que, dissolvida a Assembleia, a votação desses projectos de resolução pela Comissão Permanente excederia a sua competência constitucional.\nFoi interposto recurso do despacho de não admissão, emitido pelo Presidente da Assembleia da República, com o fundamento de que nada obsta expressamente na Constituição a que a Comissão Permanente aprecie e vote os projectos de resolução."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 2974,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, levanta-se agora aqui a questão de saber se entramos desde já na votação dos respectivos projectos de resolução, dado que o recurso teve o seu vencimento, ou se há alguma objecção.\nTodos os Srs. Deputados estão de acordo que se processe, de imediato, a votação dos projectos de resolução?\nTem a palavra o Sr. Deputado Cardoso Ferreira."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 2974,
+      "speaker": {
+        "id": 94,
+        "name": "Fernando Manuel Alves Cardoso Ferreira",
+        "party": "PSD",
+        "string": "O Sr. Cardoso Ferreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, ontem tínhamos manifestado a nossa intenção de fazer cumprir o Regimento e, portanto, só poderíamos votar cinco dias após a distribuição desses documentos. No entanto, dado que no próximo sábado se inicia a campanha eleitoral, não seria muito razoável obrigar todos os Srs. Deputados a, novamente, estarem aqui presentes para se proceder a votações. Nesse sentido, damos o nosso acordo a que se passe imediatamente à votação."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 2974,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Assim sendo, Srs. Deputados, vamos proceder à votação dos projectos de resoluções, que oportunamente foram apresentados e objecto do recurso que acabou de ser julgado procedente.\nVai ser lido o primeiro projecto de resolução."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 2975,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos votar.\nSubmetido à votação, foi aprovado, com votos a favor do PS, do PRD e do PCP e votos contra do CDS.\nO PSD não manifestou a sua vontade. Certamente será por lapso meu, Srs. Deputados!..."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 2975,
+      "speaker": {
+        "id": 94,
+        "name": "Fernando Manuel Alves Cardoso Ferreira",
+        "party": "PSD",
+        "string": "O Sr. Cardoso Ferreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é por lapso de V. Ex.ª Na realidade, não emitimos qualquer sentido de voto sobre esta matéria."
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 2975,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS, do PRD e do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "O que é isto?!... Isto não pode ser!..."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 2975,
+      "speaker": {
+        "id": 283,
+        "name": "Joaquim Jorge De Magalhães Saraiva Da Mota",
+        "party": "PRD",
+        "string": "O Sr. Magalhães Mota (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra Sr. Presidente."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 2975,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 2975,
+      "speaker": {
+        "id": 283,
+        "name": "Joaquim Jorge De Magalhães Saraiva Da Mota",
+        "party": "PRD",
+        "string": "O Sr. Magalhães Mota (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, uso da palavra para invocar o n.º 2 do artigo 99 ° do Regimento, que diz que \"nenhum deputado presente pode deixar de votar, sem prejuízo do direito de abstenção\"."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 2975,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PRD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Claro!"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 2975,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Então, sai da Sala! Também é uma resolução!"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 2975,
+      "speaker": {
+        "id": 94,
+        "name": "Fernando Manuel Alves Cardoso Ferreira",
+        "party": "PSD",
+        "string": "O Sr. Cardoso Ferreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 2975,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 2975,
+      "speaker": {
+        "id": 94,
+        "name": "Fernando Manuel Alves Cardoso Ferreira",
+        "party": "PSD",
+        "string": "O Sr. Cardoso Ferreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Nós conhecemos tão bem o Regimento quanto o Sr. Deputado Magalhães Mota.\nEsta foi uma forma de acentuar a nossa total discordância face a este processo que, por razões que têm pouco a ver com o normal e credível funcionamento desta instituição, leva a que se atropelem as mais elementares regras constitucionais.\nNeste sentido, agora, o Sr. Presidente fará o favor de assentar, para que fique registado em acta, que o PSD vota contra."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 2975,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 2975,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado João Amaral."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 2975,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, acho que o respeito pela instituição obrigaria o PSD a cumprir o Regimento. Era isso que se lhe exigia.\nO PSD resolveu fazer uma rábula, uma simples rábula, mas agora já sabemos que vota contra. De todo o modo, a rábula era desnecessária porque, designadamente, ela significou que o PSD não cumpre as mais elementares regras regimentais e, nesse quadro, não cumpre o quadro constitucional que está definido."
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 2975,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, podia ter sido, porventura, por lapso meu, dada uma certa precipitação que houve nestas votações, mas o incidente está colmatado.\nVai proceder-se à leitura do segundo projecto de resolução.\nFoi lido. É o seguinte:\nProjecto de resolução\nA Comissão Permanente da Assembleia da República, tendo apreciado o relatório da Comissão Eventual de Inquérito sobre a Actuação do Ministério da Agricultura, Pescas e Alimentação quanto à Reforma Agrária relativo à execução do acórdão da 1.ª Secção do Supremo Tribunal Administrativo proferido no recurso n.º 23 902-A (publicado no Diário da Assembleia da República, 2.ª série, n.º 25, de 23 de Dezembro de 1986), delibera o envio desse mesmo relatório e respectivo processo à Procuradoria-Geral da República para os efeitos que esta tiver por legalmente convenientes.\nPalácio de São Bento, 24 de Junho de 1987. - Os Deputados: Lopes Cardoso (PS) - Magalhães Mota (PRD) - João Amaral (PCP)-José Manuel Tengarrinha (MDP/CDE)."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 2975,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos votar.\nSubmetido à votação, foi aprovado, com votos a favor do PS, do PRD e do PCP e votos contra do PSD e do CDS.\nVai proceder-se a leitura do terceiro projecto de resolução.\nFoi lido. É o seguinte:\nProjecto de resolução\nA Comissão Permanente da Assembleia da República, tendo apreciado o relatório da Comissão Eventual de Inquérito sobre a Actuação do Ministério da Agricultura, Pescas e Alimentação quanto à Reforma Agrária relativo à execução do acórdão da 1.ª Secção do Supremo Tribunal Administrativo, proferido no recurso n.º 15 275-A (publicado no Diário da Assembleia"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 2976,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos votar.\nSubmetido a votação, foi aprovado, com votos a favor do PS, do PRD e do PCP e votos contra do PSD e do CDS.\nSrs. Deputados, vai ler-se o quarto projecto de resolução.\nFoi lido. É o .seguinte:\nProjecto de resolução\nA Comissão Permanente da Assembleia da República, tendo apreciado o relatório da Comissão Eventual de Inquérito sobre a Actuação do Ministério da Agricultura, Pescas e Alimentação quanto à Reforma Agrária relativo à portaria derrogatória da expropriação do Vale de Lama pertencente à UCP Poder Popular (publicado no Diário da Assembleia da República, 2.ª série, n.º 49, de 18 de Fevereiro de 1987), deliberou o envio do referido relatório e respectivo processo à Procuradoria-Geral da República para os efeitos que esta tiver por legalmente convenientes.\nPalácio de São Bento, 24 de Junho de 1987. - Os Deputados: Lopes Cardoso (PS) -Magalhães Mota (PRD)-João Amaral (PCP)-José Manuel Tengarrinha (MDP/CDE)."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 2976,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos votar.\nSubmetido a votação, foi aprovado, com votos a favor do PS, do PRD e do PCP e ,votos contra do PSD e do CDS.\nSrs. Deputados, penso que, no cumprimento do Regimento, não haverá reuniões da Comissão Permanente durante o período da campanha eleitoral, pelo que a nossa próxima reunião se verificará certamente depois do processo eleitoral."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 2976,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 2976,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 2976,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, ia inscrever-me para uma declaração de voto, mas, antes disso, já que o Sr. Presidente disse que não podia haver reuniões da Comissão Permanente, gostaria de sublinhar que não haverá reuniões ordinárias, no sentido de que não haverá reuniões à quinta-feira, podendo haver qualquer reunião extraordinária que V: Ex.ª entenda convocar, por sua iniciativa ou a requerimento dos grupos parlamentares."
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 2976,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Certo, Sr. Deputado. Mas tudo leva a crer que não haverá. No entanto, se eu reconhecer essa necessidade, com certeza que o farei antes da próxima reunião da Assembleia da República."
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 2976,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ou então, Sr. Presidente, se qualquer grupo parlamentar entender necessário requerer a V. Ex.ª tal convocação, dado que - já agora permito-me sublinhar - estaremos atentos à actuação do Governo ao longo deste período."
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 2976,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, tenho algumas dúvidas, mas não vale a pena entrarmos no esclarecimento dessa matéria.\nTem V. Ex.ª a palavra, Sr. Deputado, para uma declaração de voto."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 2976,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é uma declaração de voto muito breve só para dizer que nos congratulamos, naturalmente, com o facto de a Assembleia, através da Comissão Permanente, ter remetido estes processos relativos à Reforma Agrária e da autoria do Ministério da Agricultura, Pescas e Alimentação à Procuradoria-Geral da República, para os efeitos legais; designadamente a apreciação de responsabilidades que existam neste quadro.\nMas sublinhamos, ainda, que neste tempo em que está a decorrer a campanha eleitoral, desde que o governo é governo de gestão, governo demitido, continuam a ser praticados actos contra a Reforma Agrária em processos idênticos àqueles que conduziram a estas resoluções da Assembleia da República. E sublinhamos isto com intensidade sobretudo neste campo, Sr. Presidente, já que algumas das acções que estão a ser tomadas quanto à Reforma Agrária, nomeadamente através de processos de. notificação, respeitam a processos que estavam em apreciação na própria Comissão Parlamentar de Inquérito.\nSrs. Deputados, quero citar a este propósito um caso -o da família Holstein- que tem a ver com posse de gado e que estava em apreciação na Comissão de Inquérito. E que o Ministério decidiu, sem mais nem menos, quando a questão era a da posse de gado, confiá-lo, através ele um despacho, à própria família reservatária. Isto é, o Ministério, em vez de entregar definitivamente gado à família, deu-o apenas em posse precária.\nSr. Presidente, situações como esta são inadmissíveis.\nNós temos levantado aqui na Comissão Permanente este tipo de questões e sabem o Sr. Presidente e os Srs. Deputados que achamos inadmissível que tais situações continuem a verificar-se."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 2976,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Antes de dar por terminados os nossos trabalhos, desejo boa campanha eleitoral para todos os Srs. Deputados e até à próxima reunião.\nEstá encerrada a reunião."
+    }
+  ]
+}

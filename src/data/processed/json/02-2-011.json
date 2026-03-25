@@ -1,0 +1,26 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "2",
+    "legislative_session": "2",
+    "number": "11",
+    "date": "1981-11-06"
+  },
+  "debate_id": "r3_2_2_11_1981-11-06",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 325,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quorum. Declaro aberta a sessão."
+    }
+  ]
+}

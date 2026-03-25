@@ -1,0 +1,26 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "6",
+    "legislative_session": "2",
+    "number": "84",
+    "date": "1993-06-17"
+  },
+  "debate_id": "r3_6_2_84_1993-06-17",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2676,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Presidente (Leonor Beleza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados temos quórum, pelo que declaro aberta a sessão."
+    }
+  ]
+}

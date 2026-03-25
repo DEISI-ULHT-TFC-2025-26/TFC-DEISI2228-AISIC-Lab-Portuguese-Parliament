@@ -1,0 +1,2728 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "13",
+    "legislative_session": "3",
+    "number": "49",
+    "date": "2018-02-15"
+  },
+  "debate_id": "r3_13_3_49_2018-02-15",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as e Srs. Deputados, está aberta a sessão. \nEram 15 horas e 4 minutos. \nPeço aos Srs. Agentes da autoridade o favor de abrirem as portas das galerias. \nAntes de entrarmos na ordem do dia — e chamo a atenção dos Srs. Deputados para o facto de hoje haver \nvotações regimentais no final do debate —, peço ao Sr. Secretário Duarte Pacheco o favor de proceder à leitura \ndo expediente."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Duarte Pacheco)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, deu entrada na Mesa, e foi \nadmitido pelo Sr. Presidente, o projeto de resolução n.º 1329/XIII (3.ª) — Recomenda ao Governo que valorize \ne apoie a fileira da castanha (BE), que baixa à 7.ª Comissão. \nDeram ainda entrada na Mesa vários votos, quer de saudação quer de pesar, que serão votados \noportunamente."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos agora entrar na ordem do dia, cujo primeiro ponto \nconsta da interpelação ao Governo n.º 17/XIII (3.ª) — Sobre política geral centrada nas necessidades de \ninvestimento nos serviços públicos, nomeadamente nos setores da saúde, da educação, dos transportes e das \ncomunicações (PCP). \nPara intervir na fase de abertura do debate, tem a palavra o Sr. Deputado Bruno Dias, do PCP."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 3,
+      "speaker": {
+        "id": 1187,
+        "name": "Bruno Ramos Dias",
+        "party": "PCP",
+        "string": "O Sr. Bruno Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: O PCP \npromoveu o agendamento desta interpelação ao Governo porque a vida das pessoas e a situação de empresas \nestratégicas para o País exigem uma discussão séria e uma resposta concreta que passe das palavras aos atos. \nO investimento público é apontado pelo PCP, há muitos anos — mais uma vez o dizemos —, como um \nproblema central da política económica e do desenvolvimento do País. Portugal precisa de uma aposta \ndeterminada e efetiva no investimento público, que dinamize o investimento privado, o crescimento e o emprego \ne que dê resposta às necessidades do País, da modernização das suas infraestruturas e dos serviços públicos, \ndesde logo para travar e inverter a sua degradação. \nO que está em causa são as opções políticas e as prioridades assumidas ou não na defesa do interesse \npúblico, das condições de vida das pessoas, mas também dos modelos de desenvolvimento que queremos para \no País. \nAnos e anos de desinvestimento nos serviços públicos e nas funções sociais do Estado traduziram-se no \nencerramento de escolas, extensões e centros de saúde ou serviços desconcentrados da administração central, \nna degradação de equipamentos sociais, no abandono do património cultural e na enorme carência de \ntrabalhadores em funções públicas e sociais. \nÉ preciso romper com esta política de cortes orçamentais nas empresas, de agravamento da exploração dos \ntrabalhadores e de redução de quadros operacionais, de desinvestimento em frotas e equipamentos, de \nabandono dos serviços de manutenção, de privatizações e concessão de serviços a grupos económicos, de \nencerramento de linhas e carreiras, de aumento dos preços e das tarifas. Tudo isto contribuiu para uma realidade \nem que os problemas da mobilidade são dos mais sentidos por parte das populações. \nDe acordo com o Eurostat, há um país na Europa que tem mais quilómetros de autoestradas do que de \nferrovia, um único: é Portugal. É assim desde 2012, quando ficaram mais evidentes as consequências dessa \npolítica de desmantelamento do setor ferroviário nacional e do serviço público e de negócios ruinosos de PPP \nrodoviárias. \nHá poucos dias, o PCP realizou as suas jornadas parlamentares no distrito de Portalegre, onde o caminho \nde ferro teve morte sentenciada pelo anterior Governo. É, até agora, o único caso de um serviço ferroviário que \nfoi encerrado e que reabriu, fruto da luta das populações e dos trabalhadores, num processo notável que deve \nser exemplo a seguir no nosso País e em que deve ser registado o papel decisivo que o Partido Ecologista «Os \nVerdes» assumiu nessa reabertura da linha ferroviária."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 3,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 4,
+      "speaker": {
+        "id": 1187,
+        "name": "Bruno Ramos Dias",
+        "party": "PCP",
+        "string": "O Sr. Bruno Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas se é preciso travar e inverter o encerramento de vias férreas e investir de \nforma decidida na reabertura e entrada ao serviço de linhas que fazem falta às populações, da Funcheira a \nLeixões, passando pelo Ramal da Lousã, não é menos evidente e incontornável a urgência da manutenção e \nmodernização da rede ferroviária e do material circulante, para que se possa garantir o transporte em segurança, \na qualidade e a fiabilidade. É um fator de desenvolvimento e é um direito das populações."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 4,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 4,
+      "speaker": {
+        "id": 1187,
+        "name": "Bruno Ramos Dias",
+        "party": "PCP",
+        "string": "O Sr. Bruno Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "As pessoas não podem continuar a viajar na incerteza do que irá acontecer em \ncomboios obsoletos, como acontece na Linha de Cascais ou em todo o serviço regional do caminho de ferro. As \npessoas não podem continuar a viajar como sardinhas em lata no metropolitano ou a ser confrontadas com \ntempos de espera insuportáveis ou supressão de carreiras por avarias nos barcos. \nA situação a que se chegou reclama um programa de emergência para investimento nos transportes públicos \ne nas infraestruturas, garantindo as condições de funcionamento eficaz, servindo as populações e criando \ncondições para o desenvolvimento e a qualidade de vida. \nAs infraestruturas de transportes e logística têm de ser integradas numa visão de médio e longo prazo de \ndesenvolvimento nacional, com a garantia da sua natureza e gestão públicas e da incorporação de produção \nnacional na sua construção e manutenção. \nNa CP (Comboios de Portugal), na EMEF (Empresa de Manutenção de Equipamento Ferroviário), no Metro, \nna Transtejo e na Soflusa, é preciso garantir os meios humanos e técnicos nos serviços de operação e \nmanutenção destas empresas, autorizar a reposição dos stocks de sobressalentes, iniciar um plano de \nreparação das frotas. \nÉ preciso avançar com as obras de modernização da infraestrutura e lançar os concursos para a aquisição \nde material circulante para a ferrovia em diversas linhas da rede nacional e reforçar a presença nas estações, \npara que utentes e populações não fiquem ao abandono. \nAinda recentemente, no debate orçamental, o PCP interveio propondo o fim das restrições à contratação de \nmais trabalhadores, proposta que valorizamos e que deve ser concretizada. Propôs também o fim do recurso às \nchamadas «cativações», que limitam a resposta por parte das empresas, e o reforço do investimento público \nem mais 23 milhões de euros quer no Metro de Lisboa, quer nas empresas de transporte fluvial, proposta que \nviria a ser recusada porque não teve o voto favorável nem do PSD, nem do PS, nem do CDS. \nNo serviço público postal, assiste-se ao aprofundar do caminho desastroso aberto com a privatização dos \nCTT, com os grupos económicos que hoje controlam a empresa a descapitalizá-la, a alienar património, a \ndegradar o serviço a níveis escandalosos. \nQuando os portugueses são confrontados com a situação insustentável do serviço postal, as constantes \nfalhas na distribuição, o atraso sistemático do correio, a lentidão e a falta de pessoal no atendimento, a resposta \nda gestão privada foi o anúncio da destruição de mais 800 postos de trabalho na área operacional, bem como a \nvenda de mais património e o encerramento de mais estações. \nNenhum Governo pode assistir passivamente a esta degradação e depredação de uma empresa \ninsubstituível para o País e para as populações."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 4,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 4,
+      "speaker": {
+        "id": 1187,
+        "name": "Bruno Ramos Dias",
+        "party": "PCP",
+        "string": "O Sr. Bruno Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O País não pode aceitar a desintegração de empresas estratégicas fundamentais \npara a economia, antes deve lutar pela defesa destas empresas e pela sua integridade, modernização e \ndesenvolvimento ao serviço do interesse nacional, o que passa, de forma incontornável, pela sua reversão para \na esfera pública. É o caso também da PT (Portugal Telecom), que deve ser responsabilizada e confrontada pelo \nGoverno e pelas autoridades competentes com o cumprimento das suas obrigações, sem que se apague essa \nquestão central da gestão pública. \nO que está a assistir-se nas zonas afetadas pelos incêndios de 2017, em particular os de outubro, é \nverdadeiramente intolerável. As pessoas tinham ligações telefónicas nas suas casas, deixaram de as ter com \nos incêndios, e a PT/Altice pura e simplesmente está a deixar famílias sem o serviço resposto, alegando que a"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Nesta fase de abertura, tem também a palavra, em nome do Governo, o \nSr. Ministro do Planeamento e das Infraestruturas, Pedro Marques."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro do Planeamento e das Infraestruturas (Pedro Jesus Marques)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e \nSrs. Deputados: Esta interpelação ao Governo, requerida pelo Grupo Parlamentar do PCP, apresenta-nos uma \nboa oportunidade de discutir, com profundidade, a situação do investimento público. \nEste debate tem lugar quando já se conhecem os dados da execução orçamental do ano de 2017, que \nrevelam um crescimento do investimento público em 20%. \nA administração local, em particular, registou o maior crescimento, que se explica pela aceleração do Portugal \n2020 e pela vontade e determinação das autarquias em fazer os investimentos territoriais essenciais para as \nsuas populações, resolvendo o Governo — essa foi a parte que nos coube — a paralisia em que encontrámos \no Portugal 2020, no que respeita aos investimentos territoriais e regionais. \nApesar de, nessa altura, terem passado dois anos desde o início desse programa comunitário, não tinham \nsido praticamente lançados concursos dirigido às autarquias, o que bloqueava o seu investimento. Resolvemos \nos entraves burocráticos e administrativos, lançámos concursos e contratualizámos programas de investimento, \ntendo disponibilizado mais de 2800 milhões de euros para investimento nos territórios por parte das autarquias. \nEste dinamismo resultou no aumento da contratação pública, que, depois de ter atingido o seu ponto mais \nbaixo em 2015, cresceu 14% em 2016, o que, por sua vez, sustentou o crescimento referido de 20% no \ninvestimento público em 2017. \nTrata-se de dados que vêm robustecer a confiança dos agentes económicos na situação do País, mas \nreforçam também a confiança de que, tendo-se seguido, em 2017, um crescimento de 38% na contratação, no \nâmbito do investimento público, poderemos, assim, almejar atingir os ambicionados 40% de crescimento no \ninvestimento público que estão previstos no Orçamento do Estado para 2018. \nEsta discussão é também oportuna, Sr. Presidente, Sr.as e Srs. Deputados, porque ocorre quando \npercorremos cerca de metade deste mandato. Tivemos, por isso, a possibilidade de inverter o caminho de \ndegradação de serviços públicos, de desinvestimento e de privatizações. \nSe me refiro ao que fez o Governo anterior, é porque pretendo que fique absolutamente claro, para esta \nAssembleia e para os portugueses, quais as opções que então tomou e como elas prejudicaram o País, e a \nopção que, desde então, tivemos de fazer pela recuperação do investimento público de forma atempada. \nSr.as e Srs. Deputados, no setor dos transportes o anterior Governo, com a sua obsessão pelas privatizações, \nnão cuidou do que era verdadeiramente melhor para o País e para o interesse público. \nJustifica-se, assim, o bizarro de ter prometido, no PETI (Plano Estratégico dos Transportes e Infraestruturas), \nobras na rodovia e na ferrovia e até de ter anunciado o seu financiamento com fundos comunitários, mas poucos \nprojetos técnicos realizou. Verdadeiramente, o anterior Governo não tencionava realizar aquelas obras e a opção \nera a de privatizar a própria empresa Infraestruturas de Portugal. \nEsse bizarro, Sr. Presidente, Sr.as e Srs. Deputados, fez com que tivessem aprovado o Plano Estratégico dos \nTransportes e Infraestruturas, mas com que tivessem saído do Governo com apenas dois projetos técnicos, que \nrepresentavam menos de 1,5% do investimento que veio a ficar previsto no Ferrovia 2020. \nPerante este cenário, o que fizemos? Concentrámos esforços na execução dos projetos, na realização dos \nestudos ambientais, que também não estavam feitos, e no lançamento de concursos para podermos iniciar as \nobras. \nConseguimos, assim, ter hoje importantes obras no terreno, como a modernização da Linha do Norte ou a \neletrificação da Linha do Minho. Nos próximos 30 dias, daremos início também à modernização do troço entre \nElvas e a fronteira, bem como à modernização da Linha da Beira Baixa, entre a Covilhã e a Guarda, o que \npermitirá reabrir a ligação entre essas duas cidades, que estava encerrada há cerca de uma década. \nMarcaremos, assim, um momento de viragem na ferrovia portuguesa, que há várias décadas apenas \nregistava o encerramento de linhas ferroviárias. Em breve, poderemos celebrar a reabertura de uma importante \nlinha ferroviária no interior do País, onde ela mais falta faz. \nSr. Presidente, Sr.as e Srs. Deputados, mais marcante ainda será, estou certo, também nos próximos 30 dias, \no lançamento do concurso para a construção do maior troço de linha férrea dos últimos 100 anos em Portugal, \na linha entre Évora e Elvas, que, assim, permitirá, finalmente, ter uma ligação competitiva do porto de Sines a \nEspanha, alargando o hinterland ibérico e europeu."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, entramos agora na fase de debate, iniciando os pedidos \nde esclarecimento ao partido interpelante. \nA Mesa registou a inscrição de dois Srs. Deputados para formularem pedidos de esclarecimento ao Sr. \nDeputado Bruno Dias, que responderá em conjunto. \nEm primeiro lugar, tem a palavra o Sr. Deputado Miguel Santos."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 8,
+      "speaker": {
+        "id": 2109,
+        "name": "Paulo Miguel Da Silva Santos",
+        "party": "PSD",
+        "string": "O Sr. MiguelSantos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados, Sr. \nDeputado do Partido Comunista…"
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. BrunoDias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "O meu nome é Bruno Dias! Muito prazer!"
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 8,
+      "speaker": {
+        "id": 2109,
+        "name": "Paulo Miguel Da Silva Santos",
+        "party": "PSD",
+        "string": "O Sr. MiguelSantos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Bruno Dias, a circunstância que o traz a este debate, deixe-me \nque lhe diga, é de um cinismo político enorme. \n\nO Sr. Deputado e o seu partido fizeram, tal como o Bloco de Esquerda, há dois anos e dois meses, um acordo \nde governação, no qual o seu partido estabeleceu os princípios, os dossiers e as matérias que entendeu. Neste \nmomento, passado este período, o que o Sr. Deputado nos traz, através da sua intervenção — e já tem \nacontecido várias vezes —, é um rol de reivindicações, uma lista de protestos sobre várias matérias que gostava \nque estivessem a ser tratadas e não estão. \nA pergunta que lhe deixo, Sr. Deputado, é a seguinte: regressando o PCP à figura do protesto, para quem é \nque dirige o seu protesto e as suas reivindicações? Isto porquê? Porque, durante um ano e meio, os Srs. \nDeputados não se ouviram nessa fórmula, antes pelo contrário. Assistimos ao elogio mútuo, nos debates \nquinzenais com o Sr. Primeiro-Ministro, sobre temas e assuntos mais ou menos combinados entre perguntas e \nrespostas. Agora, de facto, são indisfarçáveis todos os problemas que o País atravessa. \nSr. Deputado, no caso da saúde, faltam médicos, não há concursos para psicólogos, faltam enfermeiros, \nfaltam técnicos de diagnóstico e terapêutica, não há a abertura, que era previsível, de novas USF (unidades de \nsaúde familiar), faltam equipamentos, as listas de espera para cirúrgicas e consultas aumentam, falta resposta \ndo INEM (Instituto Nacional de Emergência Médica), falta resposta nas urgências hospitalares, os concursos \nque o Sr. Ministro da Saúde continuamente promete cada vez que vem à Assembleia não existem, não são \nabertos, as PPP (parcerias público-privadas) são renovadas ou são novamente concursadas. \nDe resto, Sr. Deputado, a dívida total do SNS a fornecedores externos, entre novembro de 2015 e novembro \nde 2017, aumentou 37,1% e a dívida vencida aumentou 63,2%. Isto significa mais 588 milhões de euros, no \ncaso da dívida total, e mais 573 milhões de euros, no caso da dívida vencida. \nEm matéria de investimento, que os Srs. Deputados sempre diabolizaram na altura do anterior Governo, é \npreciso afirmar aqui claramente que o investimento no SNS, entre 2015 e 2017, caiu 27,5%. \nPortanto, Sr. Deputado, agora que os problemas se agigantam, o PC…"
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 9,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "PCP!"
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 9,
+      "speaker": {
+        "id": 2109,
+        "name": "Paulo Miguel Da Silva Santos",
+        "party": "PSD",
+        "string": "O Sr. MiguelSantos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e o Bloco de Esquerda não assumem qualquer responsabilidade. \nApresentam-se com a denúncia, como se nada fosse da sua responsabilidade. É um enorme cinismo político! \nO PC…"
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 9,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "PCP!"
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 9,
+      "speaker": {
+        "id": 2109,
+        "name": "Paulo Miguel Da Silva Santos",
+        "party": "PSD",
+        "string": "O Sr. MiguelSantos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e o Bloco apoiam este Governo e apoiam esta política."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 9,
+      "speaker": {
+        "id": 1187,
+        "name": "Bruno Ramos Dias",
+        "party": "PCP",
+        "string": "O Sr. Bruno Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Que nível!"
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 9,
+      "speaker": {
+        "id": 2109,
+        "name": "Paulo Miguel Da Silva Santos",
+        "party": "PSD",
+        "string": "O Sr. MiguelSantos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Este Governo só existe porque o PC…"
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 9,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por acaso o senhor é do PS?!"
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 9,
+      "speaker": {
+        "id": 2109,
+        "name": "Paulo Miguel Da Silva Santos",
+        "party": "PSD",
+        "string": "O Sr. MiguelSantos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e o Bloco de Esquerda o viabilizam. \nO PC e o Bloco de Esquerda aprovam os Orçamentos, o PC e o Bloco de Esquerda aprovam as Grandes \nOpções do Plano. É de um enorme cinismo político!"
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 9,
+      "speaker": {
+        "id": 1933,
+        "name": "Ana Cristina Cardoso Dias Mesquita",
+        "party": "PCP",
+        "string": "A Sr.ª AnaMesquita (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O senhor não tem nível nenhum!"
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 9,
+      "speaker": {
+        "id": 2109,
+        "name": "Paulo Miguel Da Silva Santos",
+        "party": "PSD",
+        "string": "O Sr. MiguelSantos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, esta sua intervenção de «bate-bate coração» e este choro \ncompulsivo que os senhores agora apresentam…"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 9,
+      "speaker": {
+        "id": 1187,
+        "name": "Bruno Ramos Dias",
+        "party": "PCP",
+        "string": "O Sr. Bruno Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Que chungaria!"
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 9,
+      "speaker": {
+        "id": 2109,
+        "name": "Paulo Miguel Da Silva Santos",
+        "party": "PSD",
+        "string": "O Sr. MiguelSantos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… são da responsabilidade do Governo, como da sua bancada e da bancada \nque se encontra ao seu lado. \nPergunto-lhe, Sr. Deputado: para quem se dirige esse protesto? De quem é que o Sr. Deputado espera \nsoluções para todas as perguntas que colocou na sua intervenção? Este alívio de consciência, que foi a sua \nintervenção, vai continuar ou vamos ter mesmo uma atitude política séria em que os senhores assumem as \nvossas efetivas responsabilidades nesta governação?"
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 9,
+      "speaker": {
+        "id": 1187,
+        "name": "Bruno Ramos Dias",
+        "party": "PCP",
+        "string": "O Sr. Bruno Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Que intervenção de chungaria!"
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, permitam-me recordar que, quando há tempos globais \natribuídos, como, aliás, é o caso deste debate, a Conferência de Líderes considerou que os tempos para pedidos \nde esclarecimento podem ir até ao dobro do tempo regimentalmente estabelecido. Este é um fator indicativo que \npeço aos Srs. Deputados que levem em consideração. \nAinda para pedir esclarecimentos ao Sr. Deputado Bruno Dias, tem a palavra o Sr. Deputado Ricardo Bexiga."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 9,
+      "speaker": {
+        "id": 1393,
+        "name": "Ricardo Manuel Da Silva Monteiro Bexiga",
+        "party": "PS",
+        "string": "O Sr. RicardoBexiga (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados, Sr. \nDeputado Bruno Dias, saudamos o PCP por ter trazido a esta Assembleia a discussão sobre o setor do \ninvestimento público e dos transportes, porque se há setor onde há diferença entre as políticas do anterior \nGoverno e as políticas do Governo suportado por esta maioria parlamentar é, efetivamente, no dos transportes \ne no da área da mobilidade urbana. \nÉ verdade, Sr. Deputado: este Governo teve uma herança muito pesada, uma herança de desinvestimento \ndo setor público como nunca tínhamos visto até então, designadamente nas empresas públicas de transportes, \nnão só do ponto de vista do desinvestimento do material circulante, mas também das condições de trabalho das"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Bruno Dias."
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 10,
+      "speaker": {
+        "id": 1187,
+        "name": "Bruno Ramos Dias",
+        "party": "PCP",
+        "string": "O Sr. Bruno Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, agradecendo as questões que foram colocadas, \nqueria apenas registar que, da parte do Sr. Deputado Ricardo Bexiga, do PS, há um conjunto de questões \nobjetivas em que são visíveis, até mesmo na Comissão Parlamentar, as divergências que temos manifestado \nem relação a opções, que permanecem, de restrição, por exemplo, à contratação de pessoal nas empresas, \npessoal que tanta falta faz, no plano operacional, ao desenvolvimento da resposta necessária — e temos vindo \na debater essa questão —, mas também no que diz respeito ao incremento substancial do investimento \nnecessário, quer nas infraestruturas, quer no desenvolvimento do setor dos transportes. \nAinda há dias, tínhamos a informação de um investimento de cerca de 7 milhões de euros na Linha de \nCascais, investimento que, para nós, é profundamente insuficiente face às necessidades gritantes que se \nverificam naquela Linha em relação ao material circulante que está obsoleto, havendo mesmo problemas na \nprópria infraestrutura. Mas, perante aquilo que se passou no Governo anterior, o Sr. Ministro e o Governo \naparecem a dizer «bom, mas estes 7 milhões são 100 vezes mais do que o proposto pelo Governo anterior para \naquela Linha». O problema é que a verba de 7 milhões não é maior pelo facto de, antes disso, o investimento \nser de 78 000 €. Até parece maior, mas não é, as necessidades é que ficam maiores e, portanto, os 7 milhões \ntornam-se menos suficientes face às necessidades. \nEm relação à contratação de pessoal, continuamos a manifestar preocupação e discordância perante \nrestrições à contratação, por exemplo, de trabalhadores para a manutenção do Metropolitano, quando agora, \nem fevereiro de 2018, decorre um concurso para a contratação de 10 trabalhadores, mas, entretanto, avança-\nse para a subcontratação de oito trabalhadores por via de uma empresa prestadora de serviços, evidentemente \nnuma falsa prestação de serviços. \nEstas são matérias concretas que exigem alguma discussão mais aprofundada e não este chorrilho de \ninsultos e de provocações de baixo nível com que o PSD nos brindou e que não merecem qualquer resposta, \nporque queremos manter um debate com elevação, não queremos responder a provocações. \nSe é isto que o PSD é capaz para responder aos problemas das pessoas, estão apresentados, Srs. \nDeputados."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos passar à fase de perguntas ao Governo. \nA Mesa tem a inscrição, para pedir esclarecimentos, de 12 Srs. Deputados e o Governo informou que deseja \nresponder por grupos de quatro. \nE, veja-se bem, para pedir esclarecimentos, tem a palavra, em primeiro lugar, o Sr. Deputado Bruno Dias, do \nPCP."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 11,
+      "speaker": {
+        "id": 1187,
+        "name": "Bruno Ramos Dias",
+        "party": "PCP",
+        "string": "O Sr. Bruno Dias (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados, Sr. Ministro do \nPlaneamento e das Infraestruturas, como está bem de ver, a preocupação que colocamos de forma subjacente \na este debate tem a ver com a defesa dos serviços públicos e com a condição do setor público, das empresas \ndo setor empresarial do Estado, como pilar fundamental para a garantia dessa capacidade de resposta que o \nPaís deve ter em relação a esta matéria. \nQuando falamos de setor empresarial do Estado como condição necessária para dar resposta às \nnecessidades do País, falamos de empresas estratégicas que devem ser defendidas e que, por não terem sido \ndefendidas e terem sido entregues aos grupos económicos e ao poder das multinacionais, têm demonstrado, de \numa forma clara e evidente, o resultado e as consequências dessa política e dessas opções. \nEstamos a falar da PT, estamos a falar dos Correios, estamos a falar da TAP, enfim, estamos a falar de \nempresas fundamentais para o País, para a economia, para a própria soberania nacional, em que aquilo que foi \na opção de sucessivos governos — seja do PS, seja do PSD e do CDS — em entregar ao capital privado o \ncontrole destas empresas, está, no terreno, a trazer para as populações, para as pessoas, para a sua vida no \ndia a dia as consequências e o resultado do que foram essas opções. \nEm relação aos CTT, já temos dito muito e vamos continuar a desenvolver essa questão da degradação \nprofunda do serviço postal e de uma empresa que está a ser desmantelada por um grupo económico que tem \numa agenda de curto prazo. \nEm relação à PT, as pessoas estão deixadas ao abandono numa situação inaceitável relativamente ao que \nestá hoje a acontecer, na sequência dos incêndios de outubro. \nEm relação à TAP, o seu percurso é cada vez mais de recurso à subcontratação de aeronaves e de \ntripulações, com encerramento de serviços, afastando as pessoas, com a continuidade de negócios altamente \nduvidosos, para não dizer ruinosos, como aconteceu com a questão da frota dos A350 e A330, pelas opções \nimpostas pelo Governo anterior. \nPortanto, a vida está a demonstrar, de uma forma clara — e essa é a nossa preocupação —, as \nconsequências e os resultados destas políticas de entrega de pilares fundamentais da nossa economia aos \ngrupos económicos. \nComo denunciámos oportunamente, andaram a vender o País às peças e agora estamos a pagar a fatura. \nEntretanto, assumiu a presidência o Vice-Presidente José Manuel Pureza."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Ângela Guerra, do PSD."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 11,
+      "speaker": {
+        "id": 1943,
+        "name": "Ângela Maria Pinheiro Branquinho Guerra",
+        "party": "PSD",
+        "string": "A Sr.ª Ângela Guerra (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados, Sr. \nSecretário de Estado Adjunto e da Saúde — dirijo a si esta pergunta —, depois daquilo que acabámos de ouvir, \ndiria que, em Portugal, vivemos, hoje em dia, uma espécie de paradigma. \nPor um lado, temos a saúde que o portal do SNS nos transmite com os dados que o Sr. Ministro da Saúde \nlá manda colocar. E, Sr. Secretário de Estado, digo «lá manda colocar», porque todos temos na memória, na \nmemória recente, a vergonha que foi o falseamento, a limpeza das listas de doentes com cirurgias em espera, \npor exemplo, no hospital da Amadora…"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 11,
+      "speaker": {
+        "id": 2056,
+        "name": "Jorge Paulo Da Silva Oliveira",
+        "party": "PSD",
+        "string": "O Sr. Jorge Paulo Oliveira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 12,
+      "speaker": {
+        "id": 1943,
+        "name": "Ângela Maria Pinheiro Branquinho Guerra",
+        "party": "PSD",
+        "string": "A Sr.ª Ângela Guerra (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… ou também os falsos anúncios, aqui, por parte do Sr. Ministro, das \ndezenas de USF que estavam abertas e que, afinal, se verificou que não era assim. \nPor outro lado, temos, no tal paradigma, a saúde dos portugueses, aquela saúde de todos os dias, aquela a \nque os portugueses todos os dias tentam aceder. \nEssa saúde, Sr. Secretário de Estado, é a seguinte: no hospital de Faro, a situação é de caos, porque, durante \ndias, há macas nos corredores no serviço de urgência, com doentes 20 horas à espera para serem atendidos; \nno hospital de Santarém, as obras no bloco operatório, por culpa do Sr. Ministro das Finanças, não são feitas, \napesar de a verba necessária estar disponível e cabimentada desde 2015; no Hospital D. Estefânia, a urgência \npediátrica — dizem os senhores médicos que lá trabalham, não sou eu — compromete a segurança dos seus \nprofissionais e dos utentes; o IPO (Instituto Português de Oncologia) de Lisboa continua à espera que o Sr. \nMinistro das Finanças liberte a verba de 5 milhões para que as obras comecem — «é já um dia destes», «é já a \nseguir»!; os 700 médicos especialistas continuam à espera da abertura dos concursos — mas era o PSD que \nmandava emigrar os jovens licenciados! —, são 700 jovens médicos à espera da abertura de concurso."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 12,
+      "speaker": {
+        "id": 1943,
+        "name": "Ângela Maria Pinheiro Branquinho Guerra",
+        "party": "PSD",
+        "string": "A Sr.ª Ângela Guerra (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas, Sr. Secretário de Estado, podemos também falar dos tempos médios \nde resposta garantidos para os doentes: 801 dias de oftalmologia, no hospital da Guarda; 476 dias na \ncardiologia, no hospital da Guarda; 832 dias na oftalmologia, nas Caldas da Rainha; 369 dias na neurologia, em \nSetúbal… É esta a realidade do País! \nE não somos só nós a dizê-lo, Sr. Secretário de Estado. Recentemente, o relatório da auditoria do Tribunal \nde Contas à Conta Consolidada do Ministério da Saúde veio dizer-nos que: «É extraordinariamente débil…» — \ne estou a citar — «… a situação económico-financeira do SNS. A sua recapitalização não tem sido suficiente, \nnem suportada num plano que garanta a sustentabilidade da prestação de cuidados de saúde à população no \nmédio e longo prazo. O valor que têm nos fundos próprios é o mais baixo desde que é efetuada a conta \nconsolidada, desde 2008.» Esta é a realidade do País, e não é o PSD a afirmá-lo! \nJá agora, Sr. Secretário de Estado, deixo-lhe uma pergunta, talvez um bocadinho retórica, mas é um desafio \npara ver se se consegue recordar quem foi o Ministro que veio a esta Casa, no dia 13 de novembro, dizer que \naté 31 de dezembro de 2017, teríamos mais 400 milhões de euros, na tesouraria dos hospitais; até 31 de \ndezembro também de 2017, teríamos um reforço do aumento do capital social dos hospitais EPE (entidade \npública empresarial) de mais 500 milhões de euros; e, no início de 2018 — este 2018 —, teríamos o lançamento \nde um novo aumento de capital, também no valor de 500 milhões de euros. \nConversa! Só conversa! É esta a realidade do País!"
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Luís \nTesta, do Partido Socialista."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 12,
+      "speaker": {
+        "id": 2077,
+        "name": "Luís David Trindade Moreira Testa",
+        "party": "PS",
+        "string": "O Sr. Luís Moreira Testa (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Ministros, Sr.ª Secretária de Estado e Srs. Secretários \nde Estado, Sr.as e Srs. Deputados, os dois anos de Governo do Partido Socialista têm sido pautados por uma \nenorme determinação na promoção de políticas públicas que respondam de forma evidente àquelas que são as \nambições das empresas, das populações e dos territórios. \nO Governo tem demonstrado que não só havia um caminho alternativo ao da austeridade cega e absurda, \ncomo esse caminho era exigido por Portugal. \nOs resultados alcançados são demonstrativos do acerto da estratégia e, sobretudo, do acerto face à \ndemanda do País. \nQuando o legado era aquele que, hoje, já todos conhecemos — ausência de projetos, inadequação dos \nfundos estruturais e persistência num modelo de País assente na sua desqualificação —, quando a resposta a \nestas dificuldades encerrava um desafio, desafio esse que hoje se constata ultrapassado, o que se tornava \npremente era mobilizar os recursos para fazer face aos problemas existentes e notórios na satisfação dos"
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos nesta ronda, tem a palavra o Sr. \nDeputado Heitor de Sousa, do Bloco de Esquerda."
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Heitor Sousa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Ministros, Srs. Secretários de Estado, Sr.as Deputadas e \nSrs. Deputados, na intervenção inicial, o Sr. Ministro do Planeamento e das Infraestruturas fez-nos um quadro \npositivo relativamente às políticas que o Governo está a adotar em matéria de infraestruturas, transportes e \ncomunicações e também em relação ao panorama que se prevê vir a acontecer em 2018 sobre a evolução do \ninvestimento público. Nomeadamente, disse que se prevê um crescimento de cerca de 40%, em valores \nagregados, no investimento público em todas as áreas onde o investimento público é chamado a intervir, não \napenas naquelas áreas que dizem diretamente respeito ao Estado social — portanto, a saúde, a educação, a \nsegurança social, etc. —, mas também as que se referem às infraestruturas de transportes e comunicações. \nE é, de facto, nas infraestruturas de transportes e comunicações onde se reclama um investimento mais \npesado por parte do Estado e onde surgem, de forma mais evidente, as perplexidades quanto à execução desse \nprograma de investimentos em transportes e comunicações, concretamente do programa Ferrovia 2020. \n\nO Sr. Ministro, com certeza, leu um artigo que veio na comunicação social no início desta semana sobre a \ndiferença gritante e evidente entre aquilo que era suposto estar neste momento em obra, no âmbito do programa \nFerrovia 2020, e o que está efetivamente em obra. Estamos a falar de um desvio de cerca de 85% em relação \nàquilo que estabelecia, inicialmente, o programa Ferrovia 2020 e aquilo que está efetivamente em obra, no \nterreno. \nPosso dizer-lhe, Sr. Ministro do Planeamento e das Infraestruturas, que tenho aqui, à minha frente, o \ncronograma da execução do programa Ferrovia 2020 e, efetivamente, o número de troços de ferrovia que deviam \nestar em obra era de cerca de 12, de acordo com aquilo que estava inicialmente previsto, mas apenas dois \nestão, de facto, em obra. \nPortanto, a primeira pergunta que lhe queria fazer, Sr. Ministro, vai no sentido de saber por que é que o \nGoverno, quando a Infraestruturas de Portugal (IP) lhe apresentou, e apresentou também aqui, nesta \nAssembleia, em fevereiro de 2016, o programa Ferrovia 2020, com aquela calendarização — estamos a falar de \nalgo que aconteceu no âmbito da gestão e da responsabilidade deste Governo —, não disse logo que havia uma \nsérie de armadilhas montadas em cima de muitos daqueles projetos de investimento, que tornavam praticamente \nimpossível a sua plena execução. \nÉ que, Sr. Ministro, lembro-me bem da discussão que houve nesta Assembleia no âmbito da preparação do \nOrçamento do Estado para 2017, e de lhe ter chamado a atenção para o facto de o conceito de transportes e \nde investimento público inerente ao programa Ferrovia 2020, que resultava, por sua vez, do PETI 3+ (Plano \nEstratégico dos Transportes e Infraestruturas 2014-2020), ser um conceito profundamente errado, porque \nprofundamente desequilibrado entre o transporte de mercadorias e o transporte de passageiros. E lembro-me \nda pergunta que lhe fiz diretamente a si, Sr. Ministro, nessa altura, sobre se não seria a hora de rever o programa \nPETI 3+, de rever as prioridades políticas de investimento, mesmo ao nível ferroviário, e de acomodar, nesse \nprograma, um programa de investimentos para os transportes ferroviários também de passageiros, além do \ntransporte de mercadorias, enfim, sobre se não seria a hora de fazer essa inversão e essa correção."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para responder, o Sr. Ministro do Planeamento e \ndas Infraestruturas."
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro do Planeamento e das Infraestruturas",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, antes de mais, com a autorização \nde V. Ex.ª, partilharei as respostas com o Sr. Secretário de Estado Adjunto e da Saúde, mas começo pelas \nperguntas que me foram dirigidas sobre as matérias de infraestruturas e, em particular, de ferrovia e \ncomunicações. \nSr. Deputado Bruno Dias e Sr. Deputado Heitor Sousa, o investimento na ferrovia foi, efetivamente, uma \nprioridade assumida por este Governo desde o primeiro momento. E tem razão, Sr. Deputado Heitor Sousa, \nconstruímos o programa Ferrovia 2020 em cima do PETI, em cima daquilo que a anterior administração da IP \nnos enunciou como prioridades e calendário de execução. Considerámos aquele calendário ambicioso mas \nexequível e tivemos vários percalços pelo caminho que não nos retiraram a determinação para continuar a \nexecutar investimentos que consideramos prioritários para o País. \nSr. Deputado Heitor Sousa, percebo a opção que refere pelo equilíbrio entre transporte de mercadorias e de \npassageiros, mas, em qualquer caso, quero recordar-lhe que, se se quiser lembrar, os investimentos em curso \nna Linha do Norte, os investimentos de eletrificação da Linha do Minho, os projetos em curso para a eletrificação \nda Linha do Algarve, só para lhe dar alguns exemplos, Sr. Deputado, e mesmo os corredores internacionais, \ntambém servirão, como temos discutido, ao transporte de passageiros. \nMas queria dizer-lhe que talvez fosse também o tempo de o Sr. Deputado, se tem outras opções que não \naquelas — e para além da linha que sabe que, infelizmente, ainda não tem financiamento assegurado, por parte \nda União Europeia —, dizer, então, quais os investimentos que não realizaríamos, de entre aqueles que estamos \na realizar. \nPela nossa parte, estamos confortáveis com os projetos que estão no terreno, aqueles que estão financiados \nno âmbito do Ferrovia 2020, dos fundos estruturais e do CEF (Connecting Europe Facility): a eletrificação da \nLinha do Minho, que está em curso, entre Nine e Viana; os dois troços que estão em curso, de RIV (renovação \nintegral de via), na Linha do Norte; o investimento que está em curso ou para lançar neste mês, designadamente \no grande investimento no corredor de ligação entre Évora e Elvas; o investimento que vai começar entre a \nCovilhã e a Guarda, o investimento que vai começar de Elvas até ao Caia… \nSr. Deputado, estamos confortáveis com os investimentos que estão priorizados, dissemos que era \nimportante manter aquele instrumento de planeamento que tinha sido consensualizado na sociedade portuguesa \ne não passar o tempo a rasgar instrumentos de planeamento e a começar de novo para executar investimento. \nGaranto-lhe que, se o senhor nos acusa de uma realização que considera insuficiente, eu também queria já \nter feito mais, mas estamos a fazer investimento com toda a energia e determinação e com as condições que \ntemos, nomeadamente, com constrangimentos, como declarações de impacte ambiental que caducam a meio \nde processos de execução de projetos, porque elas tinham muitos anos e, como não foram executadas pelo \nGoverno da direita, tivemos de fazer uma nova avaliação ambiental, com processos de entidades externas no \nâmbito da contratação pública que, como sabe, demoram meses, com opções agora diferentes, da parte da \nnova administração da IP, relativamente à questão da coincidência de obras com linhas a funcionar ou com \ninterrupções de linha. Mas, mesmo assim, mesmo nessa linha a que me estou a referir, a Linha da Beira Alta, \nas RIV também estão no terreno, Sr. Deputado."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Com certeza, Sr. Ministro. \nTem a palavra o Sr. Secretário de Estado Adjunto e da Saúde, Fernando Araújo."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e da Saúde (Fernando Araújo)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. \nDeputados, gostava de responder à Sr.ª Deputada Ângela Guerra, referindo que prevemos que o ano de 2018 \nserá, seguramente, um ano de viragem em termos de investimento nos cuidados de saúde. \nComo sabe, está orçamentada, no Orçamento do Estado, uma verba de, aproximadamente, 160 milhões de \neuros, cerca de 50% acima da que estava no ano passado. Com isso, pretendemos, seguramente, investir nas \nmais de sete dezenas de edifícios de cuidados primários que estão neste momento em construção, tratando-se \nda maior vaga de sempre de investimento nos cuidados primários, com a ajuda das autarquias e dos fundos \ncomunitários. \nQueremos também investir nos cuidados hospitalares e um pouco por todo o País vai avaliar e identificar \ninvestimentos em infraestruturas e equipamentos, isto, naturalmente, para além de outros investimentos nos \nfundos de eficiência energética e na modernização administrativa."
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 16,
+      "speaker": {
+        "id": 1943,
+        "name": "Ângela Maria Pinheiro Branquinho Guerra",
+        "party": "PSD",
+        "string": "A Sr.ª Ângela Guerra (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ui! Devem milhões aos bombeiros!"
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e da Saúde",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "… a redução dos encargos com medicamentos para \nos utentes, um maior acesso à inovação terapêutica, a criação do centro de contacto do SNS, a introdução do \nprincípio do livre acesso, de forma a que o utente, com o médico de família, possa escolher a unidade hospitalar \nonde tem a consulta. \nRecordo-lhe, igualmente, o investimento que está a ser feito no âmbito dos cuidados primários, que é de \nextrema relevância: mais de 500 000 pessoas tiveram acesso a um médico de família, e não o tinham no final \nde 2015; vão ser abertas neste ano 53 novas unidades de saúde familiar; mais de cinco dezenas de centros de \nsaúde vão ter acesso a cuidados de saúde oral —…"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 16,
+      "speaker": {
+        "id": 1943,
+        "name": "Ângela Maria Pinheiro Branquinho Guerra",
+        "party": "PSD",
+        "string": "A Sr.ª Ângela Guerra (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vamos ver!"
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e da Saúde",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "… sim, vamos ter cuidados de saúde oral nos cuidados \nprimários, aliás, amanhã mesmo irei a três locais no interior do País iniciar essa atividade; colocação de 40 \npsicólogos e 40 nutricionistas, prevista neste ano no Orçamento do Estado, representando a maior entrada \ndestes profissionais no SNS; reforço dos meios complementares de diagnóstico nos cuidados primários, seja \nem termos de saúde visual, de análises ou das várias áreas. \nRefiro, ainda, o reforço nos cuidados de saúde hospitalares, nomeadamente na taxa de ambulatorização \ncirúrgica, que é a maior de sempre, e nos transplantes. \nSaliento o reforço no capital estatutário dos hospitais-empresa. É verdade que, como tínhamos prometido, \ninjetámos, no ano passado, 500 milhões de euros no capital estatutário dos hospitais-empresa e iremos fazer \nigual neste ano. \nLembro também o reforço dos cuidados continuados, com mais de 500 novas camas neste ano. No ano \npassado, tivemos, pela primeira vez, cuidados continuados em saúde mental e a primeira unidade de cuidados \npaliativos pediátricos, que não existiam. \nHaverá um reforço profundo das unidades de cuidados paliativos e das equipas intra-hospitalares e \ncomunitárias de suporte em cuidados paliativos, bem como um reforço dos profissionais do SNS — é verdade! \n—, os tais mais de 6000 novos profissionais que temos neste momento, mais 1000 novos médicos, mais \nenfermeiros. \nTeremos também um reforço nas carreiras. Recordo-lhe que, pela primeira vez, temos uma carreira especial \nde técnico de emergência médica, uma carreira de farmacêutico hospitalar, há muito esperada, uma carreira de \ntécnicos superiores de diagnóstico. \nEnfim, diria que, acima de tudo, temos um investimento sério nas pessoas e um investimento sério nas \ninfraestruturas, que terá, seguramente, ocasião de avaliar e identificar, participando connosco nesta atitude \nnobre, que é a de dar melhores condições ao SNS para prestar melhores serviços às pessoas."
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos entrar na segunda ronda de pedidos de \nesclarecimento. \nTem a palavra, para formular pedidos de esclarecimento, o Sr. Deputado Hélder Amaral."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Ministros, Srs. Secretários de Estado, Sr.as e Srs. \nDeputados, este debate é bastante curioso, porque é uma repetição, uma vez que o Bloco de Esquerda já \npromoveu um debate similar, muito ao estilo do «agarrem-me, senão eu bato». E escolhem, ou combinam, dois \nministros que são nada mais do que os campeões das promessas não cumpridas!"
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 17,
+      "speaker": {
+        "id": 2105,
+        "name": "Marisabel Dos Santos Rocha Moutela",
+        "party": "PS",
+        "string": "A Sr.ª Marisabel Moutela (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ah!…"
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "O ministro Pedro Marques acumula mesmo com a categoria de ministro \nmais queixinhas. E porque é que digo isto? Já lá irei. \nEstes ministros vêm acompanhados por dois secretários de Estado que rivalizam naquilo que são promessas \nnão cumpridas. Explico porquê: os senhores vêm dizer, basicamente, que a culpa é do Governo anterior, das \ncircunstâncias e da herança."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Assuntos Parlamentares (Pedro Nuno Santos)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É uma injustiça!…"
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não é que seja uma injustiça, só que não é verdade. \nÉ que o Sr. Ministro do Planeamento e das Infraestruturas é o campeão das cativações."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 17,
+      "speaker": {
+        "id": 2105,
+        "name": "Marisabel Dos Santos Rocha Moutela",
+        "party": "PS",
+        "string": "A Sr.ª Marisabel Moutela (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ah!…"
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Já o Ministério do Ambiente tem 69,6 milhões de euros em cativações. \nPergunto se as cativações são culpa do Governo anterior e se as cativações são ou não a origem de termos, \nhoje, um Governo que cobra cada vez mais impostos e que presta cada vez mais pior serviço. \nOu seja, o PCP quase podia cantar aquela música «eles comem tudo e não deixam nada»."
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 17,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O senhor também pode! Não queremos ter monopólio musical!"
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Digo isto porque, de facto, os senhores prometeram investimento público. \nPrometeram, em 2016, mais 12% de investimento público, cortaram 9,9%, e a culpa é do Governo anterior?! Os \nsenhores prometiam mais 25% de investimento público em 2017, mas está muito aquém disso. \nNeste momento, os utentes, as empresas, os trabalhadores de quase todos os serviços públicos estão em \npiores circunstâncias do que estavam no passado. Bem sei que há menos greves, mas essa é uma leitura que \nnão vou aqui fazer hoje."
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 17,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É uma leitura difícil de cultivar!"
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Ministro do Ambiente, dou-lhe o exemplo do pior serviço público, \naquele em que o Partido Comunista Português não diz nada, nem sequer faz a sua luta, em que os utentes são \naconselhados a fugir da hora de ponta: Transtejo e Soflusa. \nA 18 de janeiro de 2017, dizia o Ministro: «No final de fevereiro, existirá um plano completo de operação e \nmanutenção»; a 10 de maio de 2017, já falava na renovação da frota da Transtejo e da Soflusa; a 22 de junho, \ndizia a União dos Sindicatos de Setúbal que faltavam barcos — até falavam num barquinho de papel; ontem \nmesmo, dizia o Sr. Ministro — vejam a diferença de tempo — «a Soflusa terá, até ao final do ano, a frota \nrenovada». Cá estaremos para ver. \nMas o Sr. Ministro do Planeamento, que eu chamo de queixinhas, diz: «Encontrei quase nada do Governo \nanterior. Nas PPP (parcerias público-privadas), apenas processos de intenção, nenhum acordo feito ou \nfechado.» Sr. Ministro, ao fim de três Orçamentos do Estado, é capaz de dizer quantos acordos já fechou? \nDepois, o Ministro afirma que as obras estão todas no terreno, desmentindo, aliás, o Bloco de Esquerda, mas \nfala sempre nas mesmas obras. No caso do troço Covilhã-Guarda, é um troçozinho pequenino, Sr. Ministro, \nconvenhamos, não é uma obra de grande monta. \nSabe o que dizia na apresentação do Orçamento para 2016? Que a obra começava em 2017, ou até ainda \nem 2016. Já está no terreno, Sr. Ministro?"
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 18,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Então, afinal sempre há luta!"
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Bem sei que o Partido Comunista nada diz sobre esta matéria."
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 18,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tem de se decidir, ou há luta ou não há luta!"
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Falei de utentes, não falei de sindicatos. \nOntem mesmo — e com isto termino —, os senhores ficaram caladinhos quanto a um aumento inusitado de \nhoras extraordinárias no porto de Lisboa. Explicarei a seguir por que motivo."
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para formular pedidos de esclarecimento, a Sr.ª \nDeputada Heloísa Apolónia."
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 18,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Ministro, não deixa de ser interessante ouvir as \nintervenções até agora produzidas, sendo muito provável que venham a ser repetidas durante a interpelação ao \nGoverno feita pelo PSD e pelo CDS, que quase pedem por favor que se apague o passado,…"
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "O da troica?!"
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 18,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… que se passe uma borracha sobre o passado, que se esqueça \no passado, de modo a que não assumam as suas próprias responsabilidades e ponham agora uma máscara a \nfingir aquilo que verdadeiramente não são. \nTendo em conta as responsabilidades que tiveram no passado, não podemos esquecer-nos que a máxima \ndo PSD e do CDS na área dos transportes foi privatização, foi encerramento de carreiras de transportes e \nencerramento de linhas ferroviárias, e poderíamos continuar por aí adiante. \nPorque é importante não nos esquecermos do passado? É que estamos a pugnar por uma política alternativa, \nde mudança, e por isso em tudo contrária àquilo que foi realizado pelo PSD e pelo CDS, designadamente na \nárea dos transportes."
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem agora a palavra, para formular pedidos de esclarecimento, \na Sr.ª Deputada Paula Santos."
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 20,
+      "speaker": {
+        "id": 2123,
+        "name": "Paula Alexandra Sobral Guerreiro Santos Barbosa",
+        "party": "PCP",
+        "string": "A Sr.ª Paula Santos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, Srs. Membros do Governo, Sr. Ministro, \nPSD e CDS queriam, mas não conseguiram privatizar a EMEF e agora a questão que se coloca é a de não \ndeixar que esta empresa prossiga um caminho de desmantelamento. \nEstá em curso uma reestruturação da empresa que passa pela sua segmentação, alegadamente para dar \nresposta ao Tribunal de Contas, que não aprovou os contratos de manutenção por adjudicação direta entre a \nEMEF e a CP, porque se tratava de uma prestação de serviços e exigia concurso público. Vem agora o Tribunal \nde Contas dar visto negativo a esta perspetiva de reestruturação. \n\nO Sr. Ministro terá afirmado que a reestruturação da EMEF era a solução e que quem conhecesse outra \nsolução que o informasse. Sr. Ministro, a solução para a EMEF passa pela sua integração na CP. A pergunta é: \nde que está à espera para pôr fim à destruição da EMEF? \nSr. Ministro, não foi por falta de informação que a integração da EMEF na CP não avançou, até porque este \nfoi um dos cenários apontados, mas sim por falta de vontade política. \nA falta de investimento na EMEF está a conduzir à perda de trabalho, que poderia, e deveria, realizar na \nmanutenção do material circulante, considerando o seu enorme potencial, incluindo a existência de \ntrabalhadores altamente especializados, embora com uma média etária já bastante elevada, o que demonstra a \nnecessidade urgente de se contratarem mais trabalhadores. \nO investimento na ferrovia tem estado muito aquém do que é necessário para o desenvolvimento do País. \nAinda nesta semana foi noticiado que dos 528 km de ferrovia que deveriam estar em obra estão somente 79 \nkm. O que justifica tais atrasos? E para quando a sua concretização? \nO Governo não está a dar a prioridade que deveria ser dada à ferrovia, designadamente à sua modernização \ne eletrificação, de forma a incentivar o desenvolvimento do transporte ferroviário de passageiros e de \nmercadorias. E poderia ainda referir aqui a necessidade de dar prioridade ao seu alargamento e à reabertura \ndas linhas que foram encerradas. \nSr. Ministro, em 2019, termina o contrato de concessão da Fertagus. Vai o Governo integrar este serviço na \nCP? \nÉ isto que se impõe para pôr fim a um negócio ruinoso para o Estado, que foi iniciado por um Governo do \nPartido Socialista e em que o próprio impediu que a CP concorresse, que só beneficia o privado, que nem as \ntaxas de circulação às Infraestruturas de Portugal paga, enquanto a CP o faz, e que penaliza duramente as \npopulações, com custos de tarifa muito superiores aos da CP. \nSr. Ministro, o material circulante, as estações e as linhas são públicas, por isso não há nenhuma razão que \njustifique que seja o privado a ficar com os proveitos e que se mantenha esta parceria público-privada. \nQueria ainda colocar uma outra questão, sobre a fusão da REFER com a Estradas de Portugal, que levou à \nsobrecarga de encargos financeiros, à paralisia do investimento e degradação das infraestruturas, afastando as \nempresas do setor público da realização da sua natureza operacional e colocando-as como intermediárias entre \no Estado e os grupos económicos. \nClaramente, este não é o caminho. O caminho passa não só pela valorização das empresas que são \nestratégicas para o nosso desenvolvimento, mas também pelo reforço do investimento público."
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para terminar esta ronda de pedidos de esclarecimento, tem a \npalavra a Sr.ª Deputada Sara Madruga da Costa. \n\nA Sr.ª Sara Madruga da Costa (PSD) — Sr. Presidente, Srs. Ministros, Srs. Secretários de Estado, Sr.as e \nSrs. Deputados, vou começar por falar de um assunto que é prioritário para a Madeira, que é o novo hospital. \nJá todos os madeirenses perceberam que existe uma intenção partidária deste Governo em não cumprir \nagora com os compromissos assumidos para com a Região. Há até partidos que, na Madeira, dizem uma coisa \ne aqui fazem outra, virando as costas aos reais problemas dos madeirenses. \nEm todos os orçamentos inscrevem-se meras intenções de pagar 50%, criam-se grupos de trabalho que não \nreúnem, e o novo hospital e a verba necessária não aparecem, assim como a revisão do subsídio social de \nmobilidade."
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 21,
+      "speaker": {
+        "id": 2056,
+        "name": "Jorge Paulo Da Silva Oliveira",
+        "party": "PSD",
+        "string": "O Sr. Jorge Paulo Oliveira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Era bom que começasse a pagar! Pague o que deve! \n\nA Sr.ª Sara Madruga da Costa (PSD) — Quando é este Governo, que o PCP suporta, vai deixar de fazer \nnegócio com a taxa de juro da Madeira?"
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 21,
+      "speaker": {
+        "id": 2105,
+        "name": "Marisabel Dos Santos Rocha Moutela",
+        "party": "PS",
+        "string": "A Sr.ª Marisabel Moutela (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ah!… \n\nA Sr.ª Sara Madruga da Costa (PSD) — Sr.as e Srs. Deputados, estas são as questões a que os madeirenses \npretendem que este Governo e o PCP respondam. Não vale a pena tentar esconder o sol com a peneira e falar \nde défice — quem diria, falar de défice! \nSr.as e Srs. Deputados, o défice da Madeira é baixo, mas poderia ainda ser mais baixo se António Costa e o \nGoverno, que o PCP suporta, pagassem aquilo que devem aos madeirenses e porto santenses."
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 21,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que já não se suporta é esse discurso!"
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Ministro do Planeamento e \ndas Infraestruturas."
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro do Planeamento e das Infraestruturas",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, também \nneste caso pedirei a V. Ex.ª autorização para partilhar a resposta com o Sr. Ministro do Ambiente. \nSr. Deputado Hélder Amaral, vi que teve dificuldade em dizer, mas digo-o eu: sim, o investimento público \ncresceu 20% em 2017."
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 21,
+      "speaker": {
+        "id": 2056,
+        "name": "Jorge Paulo Da Silva Oliveira",
+        "party": "PSD",
+        "string": "O Sr. Jorge Paulo Oliveira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pudera! Era zero!"
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro do Planeamento e das Infraestruturas",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Cresceu 20% em 2017 e há de crescer ainda \nmais em 2018. \nSabe porquê, Sr. Deputado? Porque a contratação pública de investimento tinha crescido 18% em 2016, \npreparando o crescimento que ocorreu em 2017, e agora cresceu 38%. \nVoltámos a ter mais de 2000 milhões de euros de contratação de investimento público no fim de 2017, o que \njá não tínhamos desde 2011. Foi um trabalho duro, foi preciso fazer aquilo que os senhores não deixaram feito \ndo ponto de vista da preparação da contratação de investimento público: projetos, declarações de impacto \nambiental, que caducaram seis meses depois de chegarmos ao Governo, no caso do tal importante investimento \nda ligação ferroviária entre Évora e Elvas, sim, Sr. Deputado. \nTiveram uma legislatura inteira para fazer aquele investimento, era prioritário, tinham financiamento e não o \nfizeram. Chegámos ao Governo e caducou. Com certeza, tivemos de voltar a trabalhar para podermos realizar \no investimento que vai ser lançado nos próximos 30 dias. \nSim, é o maior investimento ferroviário dos últimos 100 anos em Portugal e vai ser lançado por este Governo. \nTrabalhámos dois anos para que pudesse ser uma realidade. \nSr. Deputado Hélder Amaral, sobre PPP, vejo que não voltou a falar do relatório da UTAO (Unidade Técnica \nde Apoio Orçamental), como fez na Comissão."
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Mas posso falar!"
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro do Planeamento e das Infraestruturas",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Já percebeu que caiu o pagamento das PPP em \n14% no ano de 2017? Foi por isso que o Sr. Deputado não falou dos pagamentos das PPP? \nTínhamos referido que ia cair, efetivamente caiu, e até mais do que o valor que estava orçamentado, Sr. \nDeputado. \nSr. Deputado Hélder Amaral, quanto à pesada herança, enquanto não explicarem ao País por que é que no \napoio ao investimento das empresas estavam quatro milhões de euros pagos e hoje estão mais de 1300 milhões \npagos;… \n… enquanto não explicarem por que é que deixaram 7 milhões de euros de apoio ao investimento regional e \nautárquico e hoje estão mais de 2800 milhões de euros disponíveis; enquanto não explicarem por que é que \npararam o Portugal 2020, terão de responder pela herança política que nos deixaram! A responsabilidade política \ndo atraso do investimento público e privado é apenas vossa e do Governo que V. Ex.ª apoiou, Sr. Deputado. \nSr.ª Deputada Heloísa Apolónia, em relação à descarbonização e ao combate às assimetrias regionais, \nconsideramos isso muito importante, por isso temos investimentos relevantes na reprogramação do 2020 que \nesperamos propor e debater aqui, que vão no sentido da descarbonização do transporte pesado urbano — \ntambém importante para a coesão territorial, já agora. \nMas, Sr.ª Deputada, sim, tivemos a satisfação de poder voltar a ter um serviço diário na linha do Leste, sem \nbarulho, sem alarido, para que não nos acusassem de eleitoralismo. Está a funcionar e a nossa prioridade, Sr.ª \nDeputada, é qualificar a oferta, mas é também aumentar a procura. \nA nossa prioridade, neste momento, na linha do Leste, é reforçar, digamos, o trabalho da CP no sentido de \naumentar a procura daquele serviço para o viabilizar e para que ele também seja viável com mais qualidade e \ncom mais serviço. \nRelativamente a outras ligações importantes para a coesão territorial que referiu, quero dizer-lhe que a nossa \nprioridade foi o avanço do programa de aquisição de material circulante bi-modo para que ligações como a de \nBeja a Lisboa, por exemplo, se possam fazer ininterruptamente com uma única locomotiva, de modo a que as \npessoas não tenham de fazer transbordo, que tenham um serviço com material moderno e de mais qualidade. \nA renovação do material circulante e, já agora, a aquisição de material circulante são para avançar neste \nprimeiro trimestre do concurso, como já aqui anunciámos. \nEm relação à renovação do material circulante, devo dizer que é sempre insuficiente o esforço, mas cresceu \n40% em 2017. Não é pouco! Repito: cresceu 40% em 2017, Sr.ª Deputada! \nSr.ª Deputada Paula Santos, relativamente à integração da EMEF na CP, que referiu, e à questão da opção \nestratégica para a EMEF e para os seus serviços, a opção de integração da EMEF na CP determinaria um risco \nenorme de qualificação dos aumentos de capital da CP como ajudas de Estado. Logo, a EMEF ou deixava de \nprestar serviços para o exterior, para entidades terceiras que não a CP, ou tínhamos um problema grave de \najudas de Estado que poderia pôr em causa toda a empresa. \nPelo menos os serviços a privados, a terceiros, ficaria em causa e seriam centenas de postos de trabalho \nque estariam em risco, porque, obviamente, não podemos estar a querer concorrer em mercado e a ser \nacusados de ajudas de Estado por fazer aumentos de capital na CP. \nOs trabalhadores sabem que a nossa prioridade é reforçar a renovação de material circulante, a sua \nestabilidade e a estabilidade da empresa. Não queremos avançar com opções que sejam tão arriscadas como \no que poderia decorrer de uma situação destas. Não queremos que a EMEF deixe de ser a empresa que é: \ncompetitiva, com qualidade de serviços prestados à CP, mas também a terceiros, porque assim também \nasseguramos centenas de postos de trabalho na empresa."
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 23,
+      "speaker": {
+        "id": 2056,
+        "name": "Jorge Paulo Da Silva Oliveira",
+        "party": "PSD",
+        "string": "O Sr. Jorge Paulo Oliveira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Rasgou o compromisso!"
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro do Planeamento e das Infraestruturas",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, com a sua autorização, passava \nagora a palavra ao Sr. Ministro do Ambiente."
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Certamente que sim. \nTem a palavra, Sr. Ministro do Ambiente."
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro do Ambiente (João Pedro Matos Fernandes)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr. Deputado Hélder Amaral, \nquero dizer-lhe que, de facto, não incumpri nenhuma promessa relativamente à Transtejo. \nAquilo com que nos comprometemos foi, no ano que passou, 2017, que chegaríamos ao final com a operação \nestabilizada, investindo aproximadamente 10 milhões de euros na revisão e reparação dos navios. Foi isso que \nfizemos. \nHoje de manhã, li que estão dois navios parados na Soflusa. Não é verdade, ou melhor, fisicamente estão \nparados, porque estão ambos em manutenção, como têm de estar, e serão devolvidos ao serviço até meados \nde março, sendo que, naturalmente, logo a seguir, outros dois entrarão em manutenção, como é comum nestas \nempresas. A operação voltou à normalidade. \nNo que diz respeito à renovação da frota, aquilo que dissemos, e eu próprio disse em meados do ano \npassado, foi que o ano de 2018 seria o ano em que tal iria acontecer. Para tal, foi necessário reprogramar o PO \nSEUR (Programa Operacional Sustentabilidade e Eficiência no Uso de Recursos), porque o quadro que \nherdámos de VV. Ex.as não tinha lá dinheiro nenhum. \nTemos 17 milhões de euros que estão consignados a isso mesmo e, sim, ainda durante este primeiro \nsemestre, será lançado um concurso para a renovação de uma parte da frota da Soflusa e da Transtejo."
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos entrar na quarta ronda de pedidos de esclarecimento, \ncabendo o primeiro ao Sr. Deputado João Ramos."
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 23,
+      "speaker": {
+        "id": 2046,
+        "name": "João Augusto Espadeiro Ramos",
+        "party": "PCP",
+        "string": "O Sr. João Ramos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, Srs. Membros do Governo, Sr. Ministro \ndo Planeamento e das Infraestruturas, o desenvolvimento regional do interior menos povoado é um problema \nque tem de ser definitivamente atacado. Não resolver o problema do interior é manter custos, problemas e \nlimitações a todo o País. E não basta criar uma unidade de missão, é preciso outras políticas, diferentes daquelas \nque têm sido seguidas. \nHá muito que o PCP defende que apoios e incentivos, nomeadamente dos fundos comunitários, devem ser \nregionalizados. Isto porque as regiões, o seu nível de desenvolvimento e a sua capacidade produtiva não são \ntodos iguais. Após os incêndios de 2017, o Governo já regionalizou algumas medidas, mas esta opção deve ser \nestrutural e não apenas servir como resposta a tragédias. \nOutra coisa que é preciso fazer diferente é no apoio à atividade transversal a todo o território do interior — a \nagricultura familiar. Esta, ao contrário da agricultura de cariz industrial, tem a capacidade de fixar pessoas. Cada \nparcela não agricultada é uma parcela mais para ser consumida pelo fogo. \nPor isso, um regime específico para a agricultura familiar, como o PCP há muito propõe e exige, é necessário. \nDeve ser um regime que vá muito além das medidas propostas pelo Governo. \nO interior tem um problema grave e crónico de vias de comunicação, mobilidade e articulação territorial. Ao \ncontrário do que muitas vezes se diz, o País tem carências graves em matéria de mobilidade. Bragança, Vila"
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Heitor \nSousa."
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Heitor Sousa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, esta minha intervenção está mais focada sobre os transportes \npúblicos de passageiros nas Áreas Metropolitanas do Porto e de Lisboa, estando mais relacionada com o Sr. \nMinistro do Ambiente. Agradecia que, sobre esta matéria, o Governo respondesse às questões que vou \napresentar. \nSr. Ministro, dá a ideia que o senhor está muito mais voltado para responder aos problemas do transporte de \npassageiros na Área Metropolitana do Porto do que na de Lisboa. Permita-me que deixe esta nota, porque quem \nolha, em matéria de desenvolvimento dos investimentos públicos, para o desenvolvimento do metro do Porto e \no confronta com iguais preocupações no caso do metro de Lisboa a ideia que dá, Sr. Ministro, é que as \npreocupações e o foco estão muito mais voltados para norte do que para sul. \nMas isso, provavelmente, é um problema de origem e que dificilmente se consegue resolver. Mas consegue-\nse resolver através da discussão dos projetos estratégicos que estão em cima da mesa, quer para o \ndesenvolvimento do metro do Porto, quer para o desenvolvimento do metro de Lisboa. \nSr. Ministro, as duas perguntas que lhe queria fazer é no sentido de saber se o Governo tem estudos que \nconfirmam a possibilidade e a viabilidade de uma linha circular do metro no Porto através da construção de um \ntroço entre São Bento e a Casa da Música, que depois dará origem a uma linha circular de metro, e se tem o \nmesmo tipo de estudo de viabilidade e de fiabilidade para o desenvolvimento de uma linha circular no metro de \nLisboa. \nA solução parece ser a mesma, mas, Sr. Ministro, a escala em que estamos a falar é completamente \ndiferente. O metro do Porto transportou, em 2015, 60 milhões de passageiros e o metro de Lisboa transportou, \nem 2017, 160 milhões de passageiros. \nPortanto, Sr. Ministro, as linhas circulares, no modo de transporte pesado, são linhas que respondem a \ngrandes fluxos de procura, quando as transferências entre linhas são bastante significativas. E não me parece, \npor aquilo que conheço, que, no caso do metro do Porto, essa linha tenha suficiente justificação, atendendo até \nao facto de ser necessário continuar a desenvolver o metro do Porto sobretudo para zonas onde ainda não \nexiste, o que, aliás, estava integrado no próprio plano inicial de desenvolvimento estratégico do metro do Porto,"
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Jorge \nMachado, do PCP."
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 25,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, Sr. Ministro do Ambiente, o investimento \nprevisto com o alargamento da rede do metro do Porto, a iniciar em 2019 e a concluir em 2022, de acordo com \no que ontem mesmo foi reiterado na Comissão, é uma importante conquista de quem sempre lutou pelo \ninvestimento, pelo alargamento da rede do metro como importante instrumento da mobilidade no distrito do \nPorto. \nMas o Sr. Ministro andou ou anda mal quando parece estar mais preocupado em atacar o PCP do que em \nresolver problemas concretos das pessoas. Anda mal quando, de uma forma acintosa, desrespeita as \nresoluções aprovadas pela Assembleia da República. Anda mal quando não promove a ligação a Campo Alegre, \na Matosinhos-sul e quando não quer a ligação a Gondomar ou à Trofa. Anda mal porque estas populações \nesperam há demasiado tempo pela resolução dos seus problemas concretos de mobilidade. Gondomar espera \nhá mais de 10 anos e a Trofa há mais de 14 anos. Importa lembrar, mais uma vez, que à população da Trofa foi \nprometida a ligação de metro quando retiraram um comboio. Portanto, anda mal o Sr. Ministro ao não \nacompanhar nem cumprir as resoluções da Assembleia da República propostas pelo PCP, mas aprovadas por \nvários partidos, que visam resolver problemas concretos das populações. \n\nO Sr. Ministro não quer resolver estes problemas, fica com essa responsabilidade e atira para o PS o ónus \npolítico dessa decisão. Mas nós cá estaremos para continuar a lutar por essas mesmas soluções. \nMas, se não resolver estes problemas, veja lá se, pelo menos, diz alguma coisa quanto ao problema da \nprecariedade no metro do Porto. O modelo de concessões, de subcontratações, de saltar da empresa A para a \nempresa B, sempre com os mesmos trabalhadores a prestar o serviço, mas sem nenhuma garantia sobre os \nseus direitos, a ameaça sistemática do despedimento destes trabalhadores, o conta-quilómetros dos direitos \ndestes trabalhadores sempre posto a zero, exige uma intervenção do Governo nas concessões e nos modelos \nde concessão existentes. \nO que é que o Governo pretende fazer para resolver este problema, que é inaceitável para o Grupo \nParlamentar do PCP? \nPor fim, refiro-me ao passe social intermodal: independentemente das responsabilidades das autoridades \nmetropolitanas de transportes, o Governo não pode ficar impávido e sereno relativamente a esta matéria. É \nnecessário criar um passe social intermodal, isto é, um passe que permita o seu uso em todos os operadores, \npúblicos e privados, e esse é um aspeto fundamental para a mobilidade no Porto. Para quando a resolução \ndeste problema? Ou o Sr. Ministro vai dizer que o PCP está mal ao propor um passe social que resolve os \nproblemas e facilita a vida a milhares de pessoas no distrito do Porto?"
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para um novo pedido de esclarecimento, tem a palavra a Sr.ª \nDeputada Ana Rita Bessa, do CDS-PP."
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 26,
+      "speaker": {
+        "id": 1937,
+        "name": "Ana Rita Barreira Duarte Bessa",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Ana Rita Bessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados, o \ninvestimento público que justifica o debate de hoje, embora tenha o crescimento que já foi referido, está nos \nníveis mais baixos desde 2015, altura em que se recuperava depois da bem sentida presença da troica em \nPortugal. \nPode crescer a partir de uma base muito baixa. Com certeza, o Sr. Ministro perceberá o que se está a passar. \nTalvez estes baixíssimos níveis de investimento público, apesar do crescimento de 20% verificado,…"
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 26,
+      "speaker": {
+        "id": 1974,
+        "name": "Cecília Felgueiras De Meireles Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Cecília Meireles (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Inferior ao que o Sr. Ministro disse que havia!"
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 26,
+      "speaker": {
+        "id": 1937,
+        "name": "Ana Rita Barreira Duarte Bessa",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Ana Rita Bessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… justifiquem, apesar de tudo, situações como as que verificámos hoje, \nquando uma delegação do CDS foi visitar a Escola Secundária do Restelo, que tem estado nas notícias pelas \npiores razões: por não ter balneários, por não ter tido obras e, nos últimos dias, por ter sofrido uma praga de \nratos, o que obrigou ao seu fecho durante alguns dias. \nFalamos da Escola Secundária do Restelo porque estivemos lá hoje, mas poderíamos falar da Escola \nSecundária Ferreira Dias, em Agualva-Cacém, na EB 2/3, na Alta de Lisboa, na Escola Básica Avelar Brotero, \nem Odivelas, no Liceu Camões, no Liceu Alexandre Herculano, etc. Todas escolas que necessitam \nurgentemente de intervenções de fundo, onde faz frio, onde há amianto, onde caem bocados do teto e onde não \nhá condições para a prática da disciplina de Educação Física, a mesma que o Governo já anunciou que contará \npara a média do ensino secundário já a partir do próximo ano letivo. \nPortanto, perante este cenário, o que diz o Governo e os partidos que convocam este debate e também o \nBloco de Esquerda? Dizem que mau, mau era no tempo do Governo anterior, quando cá estava a troica, em \nque estava tudo parado e em que nada se fazia e que a culpa é da direita. Mas dizem também, como nos disse \na Sr.ª Deputada Heloísa Apolónia, que agora há um modelo alternativo. E o que vemos nós desse modelo \nalternativo, no terreno, quando vamos visitar as escolas? Vemos que, três anos depois, num cenário de \nrecuperação económica — volto a dizer três anos depois, três orçamentos do Estado depois, até com o fim dos \ncontratos de associação, tendo-nos sido foi dito que iriam libertar verbas para investir na escola pública —, não \narranca qualquer investimento no parque escolar e que as escolas estão, essencialmente, no mesmo ponto. \nPortanto, Sr.as e Srs. Deputados, Srs. Membros do Governo, três anos depois, com um Orçamento do Estado \nque ainda falta aprovar, pergunto qual é, então, esse modelo alternativo que os senhores querem apresentar \nagora, em concreto, à Escola Secundária do Restelo, à Escola Secundária Ferreira Dias, à Escola Básica Avelar \nBrotero, à Escola EB 2/3, da Alta de Lisboa e a todas as outras que os Srs. Deputados e os Srs. Membros do \nGoverno conhecem tão bem como eu."
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para um último pedido de esclarecimento, tem a palavra a Sr.ª \nDeputada Ana Mesquita, do PCP."
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 26,
+      "speaker": {
+        "id": 1933,
+        "name": "Ana Cristina Cardoso Dias Mesquita",
+        "party": "PCP",
+        "string": "A Sr.ª Ana Mesquita (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, Sr. Ministro do Ambiente, falemos da \nvida e dos problemas concretos das pessoas: pessoas que vivem autênticas odisseias diárias na Área \nMetropolitana de Lisboa para fazerem as suas deslocações nos transportes; pessoas que chegam aos terminais \nfluviais de Cacilhas, do Seixal, do Barreiro ou outros e, não raro, veem as ligações suprimidas; pessoas que \nchegam ao metro e, em plena hora de ponta, esperam mais de 12 minutos e depois ainda vão como sardinha \nem lata. A pergunta que deixamos é esta: porquê, Sr. Ministro? Porquê? \nA resposta não é para nós, PCP, é para as pessoas que todos os dias vivem este inferno."
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 27,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 27,
+      "speaker": {
+        "id": 1933,
+        "name": "Ana Cristina Cardoso Dias Mesquita",
+        "party": "PCP",
+        "string": "A Sr.ª Ana Mesquita (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Porque é que, em janeiro, a Soflusa tinha duas embarcações no estaleiro há \nmais de dois meses? Porque é que a Transtejo tinha nove embarcações operacionais e dez paralisadas? Porque \né que o São Jorge anda de um lado para o outro a fazer piscinas e a colmatar as 1001 falhas que vão ocorrendo? \nE quando se fala agora dos 50 milhões de euros anunciados para aquisição de dez embarcações e dos 17 \nmilhões de euros de fundos comunitários, para quando e com que prioridades de serviço isso será feito? E, até \nlá, que resposta vai ser dada às populações? \nPorque é que o Governo demora a autorizar contratações para o reforço do quadro de trabalhadores do \nMetropolitano? Porque preferiu, conforme bem lembrou o meu camarada Bruno Dias, o recurso a uma empresa \nexterna para a área da manutenção, o que implica um pagamento muito mais elevado a esta empresa — que \nmais não faz do que apenas colocar lá os trabalhadores e não presta qualquer serviço, na verdade — do que \nos custos que suportaria contratando diretamente — lá está! — os trabalhadores? E porque é que tudo isto \nacontece quando foi aprovada, no Orçamento do Estado para 2018, uma proposta do PCP que garante que as \nempresas públicas têm assegurada a autonomia administrativa e financeira para a execução do orçamento para \ncontratação de trabalhadores, para manutenção e para o cumprimento dos requisitos de segurança da atividade \noperacional? \nOutra matéria incontornável é esta coisa da linha circular do metro de Lisboa. A transformação das linhas \nverde e amarela num carrossel entre o Campo Grande e o Cais do Sodré, com redução da linha amarela à \nligação Telheiras-Odivelas, é um desperdício de recursos significativos numa obra que pouco ou nada \nacrescenta à rede do metropolitano e à oferta para os utentes. É uma má opção estratégica. É uma má opção \ntécnica. É uma má opção financeira. E, claro, vai adiar, uma vez mais, a prioridade que deveria ser dada à \nexpansão da rede para a zona ocidental e para Loures. \nO PCP defende que é urgente mudar esta situação. Têm de ser desbloqueados os investimentos mais \nurgentes na infraestrutura e equipamentos e na contratação de trabalhadores. Tem de haver uma redução \nimediata e significativa dos preços dos transportes e um alargamento da oferta com qualidade. É urgente o \nalargamento do passe social intermodal a toda a área metropolitana enquanto título válido em todos os \noperadores de transporte coletivo, públicos e privados. \nAs respostas que queremos, Sr. Ministro, e as soluções urgentes são para as pessoas, são para os utentes: \nutentes do metro que estão há um mês com ações diárias de protesto e luta, que vão estar em protesto hoje \nmesmo na estação de metro do Rato às 5 horas da tarde; utentes da Transtejo e Soflusa, que entregaram há \ndias uma petição com mais de 4000 assinaturas em defesa de um melhor serviço público fluvial; utentes que há \ndemasiado tempo esperam respostas para os problemas que vivem no seu dia a dia."
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Ministro do Planeamento e \ndas Infraestruturas, Pedro Marques, que depois, certamente, partilhará essa resposta com o Sr. Ministro do \nAmbiente. Mas isso ficará ao cuidado do Governo. \nFaça favor, Sr. Ministro."
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro do Planeamento e das Infraestruturas",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, é \nexatamente como acabou de dizer. \nSr. Deputado João Ramos e, já agora, também, Sr.ª Deputada Ana Rita Bessa, este Governo acredita no \npapel dos fundos comunitários para a coesão territorial, mas também na promoção dos serviços públicos \nessenciais. \nBem longe vamos, Sr.ª Deputada, do tempo da diabolização do investimento nas escolas; bem longe vamos \ndo tempo em que o Governo do PSD/CDS o fez, criando problemas graves que determinaram a incapacidade \nde orçamentar fundos comunitários para o efeito no vosso tempo. \nMesmo assim, as escolas que escolheu, Sr.ª Deputada, com todas as dificuldades que certamente teremos, \ntiveram investimento em 2017 ou, como é o caso da do Restelo, vão ter em 2018. Portanto, acertou em cheio"
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Ministro do Ambiente João Pedro Marques \nFernandes."
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro do Ambiente",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, dirijo-me particularmente à Sr.ª \nDeputada Ana Mesquita e ao Sr. Deputado Heitor Sousa. \nForam contratados para a manutenção do metro, com uma autorização do final do ano passado, 10 \ntrabalhadores. O recrutamento dessas pessoas está em curso e estará concluído em muito poucos dias. \nSim, Sr.ª Deputada Ana Mesquita, porque existem 29 UT paradas e precisamos de mais pessoas do que \nestas para as poder recuperar. Por isso, recorremos à contratação temporária de um conjunto de pessoas para \nnos darem uma ajuda na recuperação dessas mesmas composições e, dessa forma, podermos servir melhor \nos passageiros do metro de Lisboa. \nSr. Deputado Heitor Sousa, não está prevista a construção de nenhuma linha circular no Porto. O que \nacontece é o seguinte: quem projetou o início da linha de Campo Alegre, injetando os comboios em São Bento, \nprojetou mal, porque, com isso, o rio de Vila ficava numa situação insustentável e seria uma obra impossível. \nPor isso, a Linha de Campo Alegre tem de ter os seus comboios injetados a partir da Casa da Música e a linha \nrosa, que liga São Bento à Casa da Música, é uma linha que só por si faz sentido, até porque serve dois hospitais, \no Hospital de Santo António e o Centro Materno-Infantil do Norte. Mas, além disso, é, repito, o início da linha de \nCampo Alegre, e bem, e, se me pergunta, devo dizer-lhe que acho que faz sentido prolongar essa linha para \nnascente até ao Marquês e até à Avenida dos Combatentes. Acho que faz todo o sentido, mas não se trata de \numa linha circular ao longo da Constituição. \nNo que diz respeito a Lisboa, e respondendo à pergunta que foi feita, com certeza que existem todos os \nestudos de procura e de viabilidade que justificam quer as opções tomadas para o metro do Porto, quer as \nopções tomadas para o metro de Lisboa. Logo no cotejo direto entre as duas estações de prolongamento da \nlinha vermelha até Campo de Ourique e as estações de Santos e da Estrela, a estação da Estrela tem muito \nmais passageiros do que as outras duas. Esse estudo é neutro, feito de igual forma e o método é o mesmo."
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queira terminar, Sr. Ministro, por favor."
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro do Ambiente",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Para além de que, naturalmente, esta linha injeta muitos mais passageiros \nvindos de outros modos de transporte, exatamente por ir até ao Cais do Sodré. \nConcluo, dizendo que o mais difícil, numa rede de transportes coletivos, é ser capaz de aproximar a oferta \nda procura. \nEstando, com certeza, a maior parte da procura no coração da cidade de Lisboa, é aí que temos de ter uma \nlinha distribuidora com uma maior capacidade, e existe procura para isso. E só a partir daí pode ser pensada a \nexpansão do metropolitano para fora da cidade de Lisboa."
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Carlos \nPereira."
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 28,
+      "speaker": {
+        "id": 1970,
+        "name": "Carlos João Pereira",
+        "party": "PS",
+        "string": "O Sr. Carlos Pereira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: Ontem, o \nPaís ficou a saber que, em 2017, o crescimento da economia portuguesa foi o mais elevado dos últimos 17 anos. \nEm 2016, já tinha crescido de forma robusta e as previsões para 2018 apontam para a manutenção deste ciclo"
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveu-se, para pedir esclarecimentos, o Sr. Deputado António \nCosta Silva."
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 30,
+      "speaker": {
+        "id": 1947,
+        "name": "António Francisco Costa Da Silva",
+        "party": "PSD",
+        "string": "O Sr. António Costa Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Carlos Pereira, esperava que, na sua \nintervenção, nos falasse precisamente da Ferrovia 2020, que só avançou com 15% das obras prometidas há \ndois anos. E também esperava que nos falasse dos desastrosos anos de investimento que tivemos nos últimos \nanos. \nVerdade se diga que, destes 15%, algumas das obras são meros lançamentos de projetos, ou seja, nem 15% \nda vossa mentira conseguiram realizar. É que a aritmética não engana, Sr. Ministro e Sr. Deputado. De facto, o \npapel e os PowerPoints governamentais aguentam tudo e, se forem apresentados perante uma plateia cheia de \ngente, ainda melhor, aguentam mais. A realidade é que não aguenta. \nDepois, veio a solução de todos os males: a reprogramação dos fundos comunitários — com isso, tudo seria \nresolvido. Só que ela anda a ser anunciada desde 2016 e não temos nada, por agora. \nA quebra do investimento público foi um desastre nos dois últimos anos — nestes dois últimos anos e meio, \nou quase e meio — da governação do Partido Socialista, com o apoio de todas as esquerdas. \nSó em 2016, os cortes do investimento andaram na ordem dos 800 milhões de euros. Relativamente a 2017, \nos números também não são famosos, mas ainda falta serem anunciados, estamos à espera. Mas, quando a \nbase é muito má, Sr. Ministro, qualquer coisinha é bom, sabe bem disso. Esses cortes foram muito piores do \nque no tempo da troica, no tempo crítico da bancarrota que os senhores deixaram — não vos podemos deixar"
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Carlos Pereira."
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 31,
+      "speaker": {
+        "id": 1970,
+        "name": "Carlos João Pereira",
+        "party": "PS",
+        "string": "O Sr. Carlos Pereira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado António Costa Silva, devo dizer que este debate \nrevela exatamente o desinvestimento que os senhores fizeram, em particular no setor dos transportes. \nÉ que nós já dissemos e o Governo já referiu que há muita coisa para fazer na sequência daquilo que foi o \napagão na política de transportes que os senhores fizeram, na altura em que governaram este País, entre 2012 \ne 2015. \nE, Sr. Deputado, eu não queria deixar de clarificar aquilo que o Sr. Deputado referiu relativamente à execução \ndo investimento, que também já foi referido pelo Sr. Deputado Hélder Amaral e que tem de ser clarificado. Na \nverdade, em 2017, a diferença entre o investimento orçamentado e o investimento executado foi de 800 milhões \nde euros. \nMas, tanto o Sr. Deputado como o Sr. Deputado Hélder Amaral sabem que, em 2014 e 2015, o investimento \nexecutado ficou abaixo do investimento orçamentado em mais de 1000 milhões de euros. Essa era a prática. E \no que aconteceu foi que, em 2014 e 2015, o executado foi muito menos do que aquilo que os senhores \norçamentaram. Esta é a mentira que os senhores andam sempre a cavalgar. E, de facto, não faz qualquer \nsentido continuarem a insistir nisto."
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Carlos \nSantos Silva."
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 31,
+      "speaker": {
+        "id": 1971,
+        "name": "Carlos Manuel Dos Santos Batista Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Carlos Santos Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Esta interpelação do PCP \nremete-me às memórias da infância, a um poema de Augusto Gil, a Balada da Neve, que rezava assim: «Batem \nleve, levemente,/como quem chama por mim./Será chuva? Será gente?/Gente não é, certamente/e a chuva não \nbate assim (…)»"
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Deputados do PSD não, do PS!"
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 32,
+      "speaker": {
+        "id": 1971,
+        "name": "Carlos Manuel Dos Santos Batista Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Carlos Santos Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Foi o maior aumento da última década e, sobre isto, não ouvi nada da \nvossa boca, Srs. Deputados."
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "O PSD é na outra bancada!"
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 32,
+      "speaker": {
+        "id": 1971,
+        "name": "Carlos Manuel Dos Santos Batista Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Carlos Santos Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Na realidade, Sr.as e Sr.as Deputados, existe um consenso em todas as \nbancadas parlamentares, da esquerda à direita:…"
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 32,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado está desorientado!"
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 33,
+      "speaker": {
+        "id": 1971,
+        "name": "Carlos Manuel Dos Santos Batista Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Carlos Santos Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… a vida dos utentes piorou. A normalidade passou a ser o atraso, a \nexceção é quando se cumprem horários."
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Hélder \nAmaral."
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Ministros, Srs. Secretários de Estado, Sr.as e Srs. \nDeputados: Este debate, de facto, confirma o simulacro da oposição que temíamos no início. \nNós não escondemos que há dados positivos na economia portuguesa."
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não nos apanharão a desvalorizar aquilo que é o esforço das empresas, \ndos portugueses e, obviamente, mérito do Governo. Nessa matéria, não queremos ser demagógicos."
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 33,
+      "speaker": {
+        "id": 2039,
+        "name": "João Saldanha De Azevedo Galamba",
+        "party": "PS",
+        "string": "O Sr. João Galamba (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nessa matéria! Só nessa matéria! E mesmo nessa…!"
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Agora, é evidente e é completamente claro que, em matéria de serviços \npúblicos, nas áreas de soberania ou nas áreas da responsabilidade do Estado as queixas e os serviços tardam \nem melhorar. \nPortanto, não precisamos de qualquer estudo. \nSr. Deputado Carlos Pereira, é verdade, ou não, que o pior setor do País, quando os senhores deixaram o \nGoverno, era, exatamente, o setor empresarial do Estado, nomeadamente a dívida no setor dos transportes?!"
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ignorar isso não é sério e não acrescenta rigorosamente nada ao debate. \nE é por isso que eu não quero ignorar nada."
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 33,
+      "speaker": {
+        "id": 2027,
+        "name": "Isabel Maria Mousinho De Almeida Galriça Neto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Isabel Galriça Neto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Olhar com atenção para a dificuldade dos portugueses, para aqueles que \nprecisam do serviço do Estado, sem dar uma explicação por que é que isso acontece é, no mínimo, falta de \nresponsabilidade. E não é de hoje, começou ontem! Quando um parceiro de Governo copia ou repete as críticas \nque o CDS faz em matéria de saúde e o Sr. Primeiro-Ministro se ri, é falta de senso,…"
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É ao contrário!"
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Heitor Sousa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É ao contrário!"
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "… é falta de responsabilidade. \nNessa matéria, o Bloco de Esquerda até pode começar primeiro, mas há uma diferença, é que do nosso lado \né sincero e verdadeiro, do vosso lado é simulação."
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 34,
+      "speaker": {
+        "id": 2027,
+        "name": "Isabel Maria Mousinho De Almeida Galriça Neto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Isabel Galriça Neto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E começámos há mais tempo!"
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Mas ainda assim lhes daremos razão, porque, de facto, há 700 000 \nutentes com falta de médico de família. É evidente que faltam médicos especialistas e esta é uma realidade que \nnão interessa quem denuncia primeiro. É uma realidade que existe, que a oposição denuncia e que, pelos vistos, \num parceiro do Governo também denuncia."
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 34,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E quantos médicos tinha antes deste Governo?! Quantos médicos faltavam?! É \nao contrário do que diz!"
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Esperava que o Governo, pelo menos, dissesse qual é a solução e não \nbrincasse ou não zombasse com a matéria. \nDepois, o Partido Comunista Português apresenta-nos, aqui, dados dizendo: «há escassez de \nfinanciamento»! Mas votam a favor do Orçamento."
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queira terminar, Sr. Deputado."
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Termino já, Sr. Presidente. \nHá insuficiência de financiamento, mas votam a favor do Orçamento. No ensino superior, o financiamento \nnem sequer chega para cobrir a gestão corrente, mas votam a favor do Orçamento."
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 34,
+      "speaker": {
+        "id": 2165,
+        "name": "Vânia Carvalho Dias Da Silva De Antas De Barros",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Vânia Dias da Silva (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ora bem!"
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem mesmo de concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, é como diz o outro: olhem para o que eu digo, não olhem \npara o que eu voto!"
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 34,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Você é um desastre! Está a afundar o País!"
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Essa responsabilidade é vossa, não é nossa."
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para uma intervenção, o Sr. Deputado Heitor de \nSousa."
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Heitor Sousa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: Queremos, \nem primeiro lugar, saudar a iniciativa do PCP em trazer a debate a situação dos serviços públicos de \ncomunicações e transportes e, por isso, quisemos, nas nossas intervenções, aprofundar alguns temas e lançar \nalgumas questões a este debate. \nO Bloco de Esquerda considera que a oferta pública de transportes de qualidade, cómodos, rápidos, \nintegrados, acessíveis e baratos é uma função central do Estado e que a democratização do acesso à mobilidade \né o seu desígnio."
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queira terminar, Sr. Deputado."
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Heitor Sousa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Uma boa rede de comunicações e de transportes públicos cria desenvolvimento, \ncombate as desigualdades sociais e territoriais e promove a sustentabilidade ambiental e a eficiência económica. \nOu seja, melhora a qualidade de vida."
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, tem de concluir."
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Heitor Sousa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Deste ponto de vista, o investimento público em transportes é condição para \nque essa qualidade de vida possa ser atingida e por isso, Srs. Membros do Governo, seria, talvez, importante \nque, atendendo ao facto de haver um atraso evidente no cumprimento do programa Ferrovia 2020, o Governo \nse comprometesse com esta Câmara a promover e a apresentar uma nova calendarização deste programa aqui, \nna Assembleia. Por fim,…"
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem mesmo de terminar, Sr. Deputado."
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Heitor Sousa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Uma última nota, Sr. Presidente, apenas para dizer que os transportes \npúblicos…"
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, peço desculpa mas tem de terminar."
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Heitor Sousa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Termino já, Sr. Presidente. \nComo eu dizia, os transportes públicos devem ser baratos e, por isso, nós continuaremos a bater-nos para \nque os descontos no serviço público de transportes sejam mais alargados e mais visíveis, sobretudo para os \njovens."
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para uma intervenção, a Sr.ª Deputada Carla \nCruz."
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 35,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: \nO Sr. Secretário de \nEstado Adjunto e da Saúde disse aqui que a aposta do Governo é o investimento nas pessoas, nos profissionais \ndo Serviço Nacional de Saúde (SNS). Isso implica, obviamente, e tem de implicar, a contratação dos \nprofissionais que fazem falta para que os cuidados de saúde sejam prestados de forma atempada e para que \nse combatam as listas de espera para consultas, pois há mais doentes a aguardar por uma consulta há mais de \ndois anos, e isto é inadmissível. \nInvestir nas pessoas é abrir os concursos para os recém-especialistas, que há cerca de meses esperam por \neste concurso. Investir no SNS, nas pessoas e nos seus profissionais é combater a existência de médicos \nindiferenciados."
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queira terminar, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 35,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Termino, Sr. Presidente. \nInvestir no Serviço Nacional de Saúde e nos seus profissionais, ou seja, o investimento público na saúde, é, \nde facto, a garantia que os utentes têm de que se cumpre o direito à saúde e de que se cumpre o direito a ter \nserviços de qualidade e atempadamente. É este o compromisso do PCP e foi isto que, hoje, estivemos aqui a \nfazer com esta interpelação."
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para a última intervenção desta ronda, tem a palavra a Sr.ª \nDeputada Susana Amador."
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 36,
+      "speaker": {
+        "id": 2157,
+        "name": "Susana De Fátima Carvalho Amador",
+        "party": "PS",
+        "string": "A Sr.ª Susana Amador (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Ministros, Srs. Secretários de Estado, Srs. Deputados: \nFalámos de investimento durante este debate e não há melhor investimento que um país possa fazer do que o \ninvestimento na educação, o investimento na escola pública como verdadeiro motor da igualdade de \noportunidades. \nContrariamente àquilo que foi dito, esse investimento na educação foi efetuado e tem vindo a ser reforçado \nnos sucessivos Orçamentos do Estado deste Governo, apoiado pelo Partido Socialista. \nUm reforço feito a três níveis: no parque escolar, com 350 milhões de euros…"
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 36,
+      "speaker": {
+        "id": 2157,
+        "name": "Susana De Fátima Carvalho Amador",
+        "party": "PS",
+        "string": "A Sr.ª Susana Amador (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e mais de 500 operações de escola em curso (300 para o pré-escolar e \n1.º ciclo, 250 para os 2.º e 3.º ciclos e secundário); numa nova dimensão na equidade do sistema de educação \nem todas as idades, com 170 novas salas no pré-escolar, com 260 milhões na ação social escolar, que também \ntem vindo a reforçar o seu valor nos orçamentos para os manuais escolares, as refeições escolares e as visitas \nde estudo, e com a apostas no ensino profissional e no ensino de adultos, que tão desprezado foi pelo anterior \nGoverno e pela direita. Portanto, são factos, são números, são dimensões em que se está a investir, diariamente, \nna escola pública. Dizer-se que não há mais investimento na escola pública é falso. Dizer-se que não foram \nvalorizados a classe docente ou os recursos humanos é falso, porque o terceiro reforço foi mesmo no capital \nhumano, com mais formação para os nossos professores, com mais 1639 professores colocados no sistema \nescolar,…"
+    },
+    {
+      "utterance_id": 166,
+      "order": 166,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queira terminar, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 167,
+      "order": 167,
+      "page_start": 36,
+      "speaker": {
+        "id": 2157,
+        "name": "Susana De Fátima Carvalho Amador",
+        "party": "PS",
+        "string": "A Sr.ª Susana Amador (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… com mais 2500 assistentes operacionais na escola pública e, sobretudo, \ncom a valorização dos nossos docentes."
+    },
+    {
+      "utterance_id": 168,
+      "order": 168,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada, tem de concluir."
+    },
+    {
+      "utterance_id": 169,
+      "order": 169,
+      "page_start": 36,
+      "speaker": {
+        "id": 2157,
+        "name": "Susana De Fátima Carvalho Amador",
+        "party": "PS",
+        "string": "A Sr.ª Susana Amador (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esta é a nossa aposta, numa escola pública de qualidade, onde ninguém \nfica para trás."
+    },
+    {
+      "utterance_id": 170,
+      "order": 170,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (José Manuel Pureza)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos agora entrar na fase das intervenções \nde encerramento do debate. \nTem a palavra o Sr. Deputado João Oliveira."
+    },
+    {
+      "utterance_id": 171,
+      "order": 171,
+      "page_start": 36,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: O PCP \nrealizou esta interpelação sobre o investimento nos serviços públicos com duas preocupações centrais. Por um \nlado, quisemos dar voz aos trabalhadores e às populações, porque conhecemos os problemas e as dificuldades \nque diariamente se sentem nos serviços públicos. Na saúde, na educação, nos transportes ou nas \ncomunicações, em muitos serviços públicos, há problemas e hoje foram aqui trazidos pelo PCP porque essas \ndificuldades têm de ser conhecidas e resolvidas. Por outro lado, os serviços públicos são um instrumento de \nconcretização de direitos sociais sem o qual não é possível desenvolver o País, são um fator essencial de \ndesenvolvimento, de progresso e de justiça social. \nBons serviços públicos, com trabalhadores valorizados e em número correspondente às necessidades, com \nedifícios e equipamentos modernizados, a funcionar com qualidade e acessíveis a todos os cidadãos são um \nfator de desenvolvimento e de progresso e pelo qual continuamos a lutar. \nA perspetiva do PCP, que trouxemos a este debate, é a de que é preciso investir nos serviços públicos para \ndesenvolver o País e não há justificação para que o Governo adie a resposta a esta necessidade. Foram \naprovados, no Orçamento do Estado para 2018, os mecanismos necessários para que essa resposta seja dada,"
+    },
+    {
+      "utterance_id": 172,
+      "order": 172,
+      "page_start": 37,
+      "speaker": {
+        "id": 1982,
+        "name": "Diana Jorge Martins Ferreira",
+        "party": "PCP",
+        "string": "A Sr.ª Diana Ferreira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 173,
+      "order": 173,
+      "page_start": 37,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para isso tudo já cá temos o PSD e o CDS. \nDa parte do PCP, mantemos o compromisso que temos com os trabalhadores e o povo, dando voz às suas \npreocupações e problemas e defendendo as soluções que lhes correspondem. \nÉ com essa determinação que temos intervindo, aproveitando todas as oportunidades para tomar medidas \nque deem resposta aos problemas dos trabalhadores e do povo. \nÉ com essa determinação que continuaremos a intervir, levando tão longe quanto possível as medidas a \nfavor dos trabalhadores e do povo e não poupando forças na defesa da política alternativa que dê resposta aos \nproblemas estruturais do País."
+    },
+    {
+      "utterance_id": 174,
+      "order": 174,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para a última intervenção de encerramento, tem a palavra o Sr. Ministro do Ambiente, \nJoão Matos Fernandes."
+    },
+    {
+      "utterance_id": 175,
+      "order": 175,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro do Ambiente",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: A aposta no transporte público é \nmesmo uma marca deste Governo, e isso começa por notar-se na assunção da mais ambiciosa meta de redução \ndas emissões de gases que produzem efeitos de estufa até 2030 (24% apenas no setor dos transportes); \nconsolida-se no facto de acreditarmos no serviço público que as empresas prestam, mantendo inalienavelmente \nno setor público essas empresas; reforça-se na entrega aos municípios da gestão das empresas de autocarros \nda Carris e da STCP, numa decisão de que nos orgulhamos, colocando a gestão de um modo flexível nas \nmesmas mãos de quem gere a via pública, e fizemo-lo depois de fazer aprovar a compra de 510 autocarros de \nelevada performance ambiental, dos quais cerca de 400 são para estas companhias, num investimento já \ncontratado de 154 milhões de euros; e complementa-se, ainda, no concurso exemplar para a exploração do \nmetropolitano do Porto, concurso que foi louvado pela Comissão Europeia, bem como nos investimentos que \nestavam completamente parados no metropolitano de Lisboa, dos quais a estação de Arroios é o mais evidente, \ne ainda a manutenção dos navios da Transtejo e da Soflusa — nestas empresas, o panorama que encontrámos \nfoi o de concursos vazios, pois os estaleiros nem a eles concorriam. \nNo caso das empresas de navios e do metropolitano de Lisboa, estamos ainda aquém do que desejávamos. \nParece claro que há uma maior confiança dos passageiros, pois de outra forma não teríamos tido o aumento de \n5% no seu número. \nAos que se recordam de, no tempo do anterior Governo, termos perdido 100 milhões de passageiros em \ntransporte público, podemos contrapor que só no último ano a procura aumentou 23 milhões, com os dois \nmetropolitanos, de Lisboa e do Porto, a baterem records absolutos do número de passageiros. \nVai ser possível recuperar os 100 milhões de passageiros perdidos numa Legislatura e, confesso, nunca \nimaginei que tal fosse possível. Na Metro de Lisboa estivemos cinco anos parados, as oficinas estavam vazias. \nSomos um muito pequeno cliente de fornecedores únicos e isto dificulta a aquisição de peças. Admitimos agora \n10 técnicos para a manutenção, mas não negamos que devemos continuar a subcontratar tarefas para \nchegarmos ao final de maio com 89 composições em funcionamento, ou seja, mais sete do que as que hoje \ntemos. \nÉ anacrónico o sistema de portas pneumáticas que ainda hoje existem em algumas composições do \nmetropolitano. Por isso, no início de março será lançado um concurso público para a substituição de todas essas \nportas, no montante de 1,6 milhões de euros, e estamos a concluir a reprogramação do PO SEUR (Programa \nOperacional Sustentabilidade e Eficiência no Uso de Recursos), que permitirá concretizar os investimentos das \nexpansões dos metropolitanos de Lisboa e do Porto, bem como dar início à remodelação das frotas da Transtejo \ne da Soflusa. \nAs obras de expansão dos metropolitanos terão início no final do 1.º semestre de 2019. Os projetos do metro \ndo Porto estão em curso e ainda este ano serão lançadas as empreitadas para a sua construção e o estudo do \nimpacto ambiental do metro de Lisboa entrará na Autoridade de AIA (Avaliação de Impacte Ambiental) já no \npróximo mês de março. \nNo metro de Lisboa, o fecho da linha circular do Cais do Sodré ao Campo Grande revolucionará o seu \nfuncionamento. A maior dificuldade de qualquer rede de transportes públicos é aproximar a oferta da procura, \nmais ainda quando falamos de modos pesados, como o metropolitano. É, assim, essencial concentrar a maior \noferta no coração da cidade de Lisboa, pensando, depois disso, na sua expansão. \nSobre o material circulante, lançaremos este ano os concursos para Lisboa e Porto e o renting das novas \ncomposições será integralmente financiado por receitas anuais do fundo ambiental, receitas essas que, recorde-\nse, são aumentadas com o fim da isenção de ISP (imposto sobre produtos petrolíferos) na produção de energia \nelétrica a partir do carvão, medida tomada por este Governo."
+    },
+    {
+      "utterance_id": 176,
+      "order": 176,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Ministro, peço desculpa por ter de o interromper, mas há um \nburburinho de fundo na Sala que impede que o ouçamos em condições. \nAssim, quero pedir aos Srs. Deputados que criem condições para que possamos ouvir a sua intervenção. \nPausa. \nFaça favor de prosseguir, Sr. Ministro."
+    },
+    {
+      "utterance_id": 177,
+      "order": 177,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro do Ambiente",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito obrigado, Sr. Presidente. \nComo eu estava a dizer, deixo três notas finais, sendo a primeira sobre a mobilidade elétrica. O número de \nveículos que entrou em circulação no ano passado mais do que duplicou o do ano anterior, que já havia sido \nrecord. Fica, assim, provado que as estratégias de apoio à aquisição de veículos e o reforço dos carregamentos \nna via pública decididas por este Governo foram acertadas. \nA segunda nota tem a ver com a mobilidade partilhada. O dia-a-dia não nos permite que a oferta de transporte \ncoletivo satisfaça a totalidade das nossas necessidades de mobilidade. Têm de existir soluções individuais, de \ncarro, de motociclo ou de bicicleta, mas estas soluções não têm de implicar a posse do veículo, o ideal seria \nelas serem feitas em veículos partilhados, e, por isso, o último Orçamento do Estado resolveu atribuir uma \nredução fiscal aos que escolherem esta opção, a qual está em fase final de conclusão e será uma realidade no \npróximo semestre. \nPor fim, a terceira nota diz respeito à justiça social e ao incentivo ao uso do transporte coletivo. Só no \nmetropolitano de Lisboa o número de viagens gratuitas feitas por meninos e meninas com menos de 12 anos \nde idade quase atingiu 1,2 milhões em 2017. \nA atribuição de descontos dos passes Sub23 e 4_18 sem condição de recursos são um sinal claro de que o \nPaís está a iniciar um novo padrão de mobilidade urbana. Não há, nem nunca haverá, sistemas acabados, mas \nestou profundamente convencido de que faltam menos de 10 anos para que nas maiores cidades portuguesas \no trânsito urbano deixe de ser um problema."
+    },
+    {
+      "utterance_id": 178,
+      "order": 178,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, concluída a interpelação ao Governo n.º 17/XIII (3.ª), \nvamos dar início ao período regimental de votações. \nAssim, peço aos serviços o favor de prepararem o sistema eletrónico para se proceder à verificação do \nquórum de deliberação e aos Srs. Deputados o favor de se registarem. \nPausa.\nSrs. Deputados, o quadro eletrónico regista 196 presenças, às quais se acrescentam as dos Srs. Deputados \nMariana Mortágua, do BE, Pedro Alves, do PSD, e Telmo Correia, do CDS-PP, perfazendo 199 Srs. Deputados \npresentes, pelo que temos quórum de deliberação. \nComeçamos com o voto n.º 484/XIII (3.ª) — De pesar pela morte de Raul Hestnes Ferreira, apresentado pelo \nBE e subscrito por Deputados do PS. \nPeço ao Sr. Secretário Moisés Ferreira o favor de proceder à leitura do voto."
+    },
+    {
+      "utterance_id": 179,
+      "order": 179,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Moisés Ferreira)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, o voto é do seguinte teor: \n«Raul Hestnes Ferreira morreu no domingo passado, em Lisboa, com 86 anos. O arquiteto, filho do escritor \nJosé Gomes Ferreira, projetou, entre outros edifícios, a Casa da Cultura de Beja, a Faculdade de Farmácia da \nUniversidade de Lisboa, o novo edifício do ISCTE, a Biblioteca de Marvila e a Casa de Albarraque. \nHestnes Ferreira fez ainda o projeto de renovação do café Martinho da Arcada e a remodelação do Museu \nde Évora. Esteve entre os finalistas a concurso para a Ópera da Bastilha, em Paris. Entre os projetos \nhabitacionais contam-se o do bairro das Fonsecas e Calçada, em Alvalade, em Lisboa, criado no âmbito das \nbrigadas SAAL, e o das Cooperativas Unidade do Povo e 25 de Abril, que remonta a 1975. \nRecebeu o Prémio Nacional de Arquitetura e Urbanismo, o Prémio Nacional de Arquitetura da antiga \nassociação de arquitetos e o Prémio Valmor. \nAssim, a Assembleia da República, reunida em sessão plenária, manifesta o pesar pela morte de Raul \nHestnes Ferreira e endereça uma mensagem de pesar à sua família»."
+    },
+    {
+      "utterance_id": 180,
+      "order": 180,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos votar o voto n.º 484/XIII (3.ª), que acabou de ser \nlido. \nSubmetido à votação, foi aprovado por unanimidade.\nPassamos ao voto n.º 485/XIII (3.ª) — De pesar pelo falecimento de Natália Nunes, apresentado pelo PS. \nPara proceder à leitura do voto, tem a palavra a Sr.ª Secretária Idália Salvador Serrão."
+    },
+    {
+      "utterance_id": 181,
+      "order": 181,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Idália Salvador Serrão)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, o voto é do seguinte teor: \n«Faleceu no passado dia 13 de fevereiro a escritora Natália Nunes. \nRomancista, memorialista, dramaturga, ensaísta e tradutora, Natália Nunes nasceu em Lisboa a 18 de \nnovembro de 1921 e estreou-se em 1952 com o livro de memórias Horas Vivas. Posteriormente, destacou-se \natravés de romances como Autobiografia de uma mulher romântica e A Vénus Turbulenta. Construiu uma das \nmais vastas obras como contista com títulos como Ao menos um Hipopótamo, As Velhas Senhoras e Loucura \npor Sapatos. \nDurante os anos da ditadura, Natália Nunes destacou-se pela sua resistência antifascista e como membro \nda direção da Sociedade Portuguesa de Escritores, que viria a ser encerrada pela PIDE, em 1965. \nAdemais, traduziu para português grandes nomes da literatura universal, como Tolstoi, Simonov ou Elsa \nTriolet, trabalhando com editoras como a Portugália ou a Edições Cosmos. \nAssim, a Assembleia da República, reunida em Plenário, no dia 15 de fevereiro de 2018, manifesta o seu \npesar pelo falecimento de Natália Nunes e endereça aos seus familiares e amigos as suas sentidas \ncondolências»."
+    },
+    {
+      "utterance_id": 182,
+      "order": 182,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Passamos à votação do voto n.º 485/XIII (3.ª), que acabou de ser lidi."
+    },
+    {
+      "utterance_id": 183,
+      "order": 183,
+      "page_start": 41,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Moisés Ferreira)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, o voto é do seguinte teor: \n«O jornal diário britânico The Guardian, em colaboração com a Global Witness, ONG internacional que \naverigua vínculos entre a exploração de recursos naturais e conflitos, pobreza, corrupção e abusos de direitos \nhumanos, tem vindo a destacar as centenas de mortes de ativistas ambientais ocorridas nos últimos anos. \nOs dados estatísticos disponibilizados por estas organizações revelam que, em 2016, foram assassinadas \n201 pessoas, tendo esta chacina continuado em 2017, com mais 197 ambientalistas a serem mortos pelo seu \nenvolvimento na defesa do ambiente. Só no Brasil, desde o início de 2015, morreram 145 pessoas que, na sua \nmaioria, tentavam combater a exploração ilegal de madeira na Amazónia. \nA maioria destes homicídios ocorrem em aldeias remotas de países em desenvolvimento, onde a abundância \nde recursos é muitas vezes proporcionalmente inversa ao cumprimento do primado da lei. Em todos estes casos, \na justiça é rara ou peca por ser tardia. Aqueles que assassinam geralmente ficam impunes, enquanto as vítimas \nsão criminalizadas e tornam-se alvo das polícias locais ou de seguranças corporativos. \nLamentavelmente, a corrupção e o poder económico têm moldado a aplicação da lei à sua vontade. Por isso, \na cegueira do lucro e a expansão desenfreada permitem que indústrias mineiras, caçadores furtivos e projetos \nde infraestrutura destruam terras, florestas, rios e vida selvagem. Esta situação tenderá a perdurar a menos que \nos governos e as indústrias passem a atuar em prol do ambiente e dos recursos do planeta. Por essa razão, é \nfundamental promover a consciencialização desta problemática que mata tantos homens e mulheres todos os \nanos. \nAssim, a Assembleia da República, reunida em sessão plenária, manifesta o pesar pelo assassinato de \ncentenas de ativistas ambientais em todo o mundo e condena o atropelo dos direitos humanos e da \nsustentabilidade ambiental»."
+    },
+    {
+      "utterance_id": 184,
+      "order": 184,
+      "page_start": 41,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos proceder à votação do voto n.º 482/XIII (3.ª), que acabou de ser \nlido. \nSubmetido à votação, foi aprovado por unanimidade. \nSrs. Deputados, passamos agora ao voto n.º 481/XIII (3.ª) — De saudação à Seleção Nacional de Futsal, por \nse ter sagrado campeã da Europa, apresentado pelo Presidente da AR, pelo PSD, pelo PS, pelo BE, pelo CDS-\nPP, pelo PCP, por Os Verdes e pelo PAN. \nApraz-me registar e informar o Plenário de que se encontram entre nós, para testemunhar este momento, o \nPresidente da Federação Portuguesa de Futebol, Fernando Gomes, o Vice-Presidente, Humberto Coelho, o \nDiretor da Secção de Futsal, Pedro Dias, o Selecionador Nacional de Futsal, Jorge Brás, e, em sua própria \nrepresentação e em representação dos jogadores da equipa de Futsal, os jogadores João Matos e Tiago Brito, \nque saúdo em nome da Mesa e do Parlamento. \nSrs. Deputados, passarei agora, em vosso nome, a ler o voto de saudação à Seleção Nacional de Futsal: \n«No passado sábado, 10 de fevereiro de 2018, fez-se história no futsal português."
+    },
+    {
+      "utterance_id": 185,
+      "order": 185,
+      "page_start": 42,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Duarte Pacheco)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, o voto é do seguinte teor: \n«Os Jogos Olímpicos de Inverno estão a decorrer em PyeongChang, na República da Coreia. \nNesta ocasião, delegações da República da Coreia e da República Popular Democrática da Coreia desfilaram \njuntas no Estádio Olímpico, sob uma única bandeira, e constituíram uma equipa para a participação conjunta \nnuma das competições. \nAlém disso, realizaram-se encontros bilaterais de alto nível e altos responsáveis políticos e desportivos da \nRPDC e um número significativo de cidadãos deste País marcam presença nestes Jogos, a decorrer na \nRepública da Coreia. \nEste acontecimento traduz os esforços das autoridades da República da Coreia e da República Popular \nDemocrática da Coreia num processo de diálogo direto, tendente a aliviar a situação de tensão que se tem vivido \nna Península da Coreia e a contribuir para uma aproximação, que possa no futuro conduzir à reunificação \npacífica da pátria coreana, uma profunda aspiração do povo coreano. \nAssim, a Assembleia da República, reunida em 9 de fevereiro de 2018, congratula-se com o gesto de \nparticipação conjunta da República da Coreia e da República Popular Democrática da Coreia na cerimónia de \nabertura dos Jogos Olímpicos de Inverno, saúda o povo coreano e os dois países pelos esforços no diálogo e \nna aproximação mútua com vista ao aliviar da tensão na Península da Coreia e faz votos para que este processo \npossa conduzir à desmilitarização e desnuclearização da região e à concretização da reunificação desejada pelo \npovo coreano»."
+    },
+    {
+      "utterance_id": 186,
+      "order": 186,
+      "page_start": 42,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos proceder à votação do voto n.º 483/XIII (3.ª), que acabou de ser \nlido. \nSubmetido à votação, foi aprovado por unanimidade."
+    },
+    {
+      "utterance_id": 187,
+      "order": 187,
+      "page_start": 42,
+      "speaker": {
+        "id": 2127,
+        "name": "Paulo Alexandre De Sousa Neves",
+        "party": "PSD",
+        "string": "O Sr. Paulo Neves (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 188,
+      "order": 188,
+      "page_start": 42,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 189,
+      "order": 189,
+      "page_start": 42,
+      "speaker": {
+        "id": 2127,
+        "name": "Paulo Alexandre De Sousa Neves",
+        "party": "PSD",
+        "string": "O Sr. Paulo Neves (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, para informar a Mesa de que entregarei uma declaração de \nvoto precisamente sobre esta última votação."
+    },
+    {
+      "utterance_id": 190,
+      "order": 190,
+      "page_start": 43,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Fica registado, Sr. Deputado. \nSegue-se a votação do projeto de resolução n.º 1224/XIII (3.ª) — Recomenda medidas de apoio a concelhos \nsignificativamente atingidos pelos incêndios do verão (BE). \nSubmetido à votação, foi aprovado, com votos a favor do PSD, do BE, do CDS-PP, do PCP, de Os Verdes e \ndo PAN e a abstenção do PS."
+    },
+    {
+      "utterance_id": 191,
+      "order": 191,
+      "page_start": 43,
+      "speaker": {
+        "id": 2036,
+        "name": "João Fernando Brum De Azevedo E Castro",
+        "party": "PS",
+        "string": "O Sr. João Azevedo Castro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 192,
+      "order": 192,
+      "page_start": 43,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 193,
+      "order": 193,
+      "page_start": 43,
+      "speaker": {
+        "id": 2036,
+        "name": "João Fernando Brum De Azevedo E Castro",
+        "party": "PS",
+        "string": "O Sr. João Azevedo Castro (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, para informar a Mesa de que o Grupo Parlamentar do \nPS apresentará uma declaração de voto em relação a esta votação."
+    },
+    {
+      "utterance_id": 194,
+      "order": 194,
+      "page_start": 43,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Fica registado, Sr. Deputado. \nVamos proceder à votação do projeto de resolução n.º 1264/XIII (3.ª) — Recomenda a suspensão das ações \nde despejo nas casas de função da Guarda Nacional Republicana em Alcântara, Lisboa (BE). \nSubmetido à votação, foi aprovado por unanimidade.\nProsseguimos com a votação do projeto de resolução n.º 1213/XIII (3.ª) — Recomenda ao Governo que \nsalvaguarde a zona húmida sazonal de água doce de Alagoas Brancas (BE). \nSubmetido à votação, foi aprovado, com votos a favor do BE, do PCP, de Os Verdes e do PAN e abstenções \ndo PSD, do PS e do CDS-PP. \nPassamos à votação do projeto de resolução n.º 1250/XIII (3.ª) — Recomenda ao Governo o \ndesenvolvimento de ações tendentes à defesa e valorização da zona húmida de Alagoas Brancas (PSD). \nSubmetido à votação, foi aprovado, com votos a favor do PSD, do CDS-PP, do PCP, de Os Verdes e do PAN \ne abstenções do PS e do BE. \nSegue-se a votação do projeto de resolução n.º 1285/XIII (3.ª) — Pela preservação e classificação das zonas \nhúmidas do Algarve (PS). \nSubmetido à votação, foi aprovado, com votos a favor do PS, do BE, do PCP, de Os Verdes e do PAN e \nabstenções do PSD e do CDS-PP.\nSrs. Deputados, não havendo mais iniciativas a votar, resta-me anunciar a agenda da próxima sessão \nplenária, que ocorrerá na quarta-feira, dia 21 de fevereiro, às 15 horas, com um primeiro ponto dedicado a \ndeclarações políticas e um segundo ponto dedicado à apreciação da petição n.º 273/XIII (2.ª) — Solicitam a \ndesvinculação de Portugal do Tratado e Protocolos Modificativos ao Acordo Ortográfico de 1990 e a revogação \nda Resolução do Conselho de Ministros n.º 8/2011 (António Duarte Arnaut e outros). \nSr.as e Srs. Deputados, antes de encerrar formalmente a sessão, cumpre-me, em meu nome e em nome da \nMesa, desejar bons trabalhos para o Congresso do PSD que vai decorrer este fim de semana. \nMuito boa tarde a todos. \nEstá encerrada a sessão."
+    }
+  ]
+}

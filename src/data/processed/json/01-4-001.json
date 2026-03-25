@@ -1,0 +1,2392 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "1",
+    "legislative_session": "4",
+    "number": "1",
+    "date": "1980-01-03"
+  },
+  "debate_id": "r3_1_4_1_1980-01-03",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 1,
+      "speaker": {
+        "id": 344,
+        "name": "Pedro Manuel Cruz Roseta",
+        "party": "PPD",
+        "string": "O Sr. Pedro Roseta (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Srs. Deputados, o uso da palavra apenas para, depois de vos saudar muito calorosamente como representantes eleitos do povo português, de acordo com o consenso, unânime dos representantes dos partidos que aqui se acham, havido em reunião há poucos dias, «convidar, propondo a todos que se associem ao meu convite, o Sr. Deputado Teófilo Carvalho dos Santos, Presidente da Assembleia na última sessão legislativa, a presidir à sessão de hoje.\nAssumiu a presidência o Sr. Deputado Teófilo Carvalho dos Santos."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 1,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, de acordo com a resolução tomada numa reunião de representantes"
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Em seguida convido o Sr. Deputado Alberto Antunes."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Em seguida o Sr. Deputado José Manuel Maia Nunes de Almeida."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Por último, convido o Sr. Deputado Manuel Baeta Neves.\nOs Deputados convidados para secretários tomaram os seus lugares na Mesa."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vai agora proceder-se à chamada.\nEram 16 horas.\nFez-se a chamada, à qual responderam os seguintes Srs. Deputados:\nPartido Social-Democrata (PSD)\nAfonso de Sousa Freire de Moura Guedes.\n\nAlcino Cabral Barreto.\n\nÁlvaro Barros Marques de Figueiredo.\n\nAmândio Anes de Azevedo.\n\nAmélia Cavaleiro Monteiro de Andrade de Azevedo.\n\nAmérico Abreu Dias.\n\nAntónio Alberto Correia Cabecinha.\n\nAntónio Augusto Lacerda de Queirós.\n\nAntónio Duarte e Duarte Ghagas.\n\nAntónio José Ribeiro Carneiro.\n\nAntónio José dos Santos Moreira da Silva.\n\nAntónio Maria Pereira.\n\nArmando Adão e Silva.\n\nArmando António Correia.\n\nArménio dos Santos.\n\nCarlos Manuel Pereira de Pinho.\n\nCarlos Matos Chaves de Macedo.\n\nCasimiro António Pires.\n\nCecília Pita Catarino.\n\nCristóvão Guerreiro Norte.\n\nDaniel Abílio Ferreira Bastos.\n\nEleutério Manuel Alves.\n\nFernando José da Costa.\n\nFernando José Sequeira Moriz.\n\nFernando Manuel Alves Cardoso Ferreira.\n\nFernando Raimundo Rodrigues.\n\nFrancisco José de Sousa Tavares.\n\nGermano da Silva Domingos.\n\nHenrique Alberto Freitas do Nascimento Rodrigues.\n\nJaime Adalberto Simões Ramos.\n\nJoão Baptista Machado.\n\nJoão Luís Malato Correia.\n\nJoaquim Manuel Cabrita Neto.\n\nJoaquim Marques Gaspar Mendes.\n\nJosé Adriano Gago Vitorino.\n\nJosé Angelo Ferreira Correia.\n\nJosé da Assunção Marques.\n\nJosé Bento Gonçalves.\n\nJosé Henrique Cardoso.\n\nJosé Manuel Cochofel da Silva.\n\nJosé Manuel Medeiros Ferreira.\n\nJosé Manuel M. Sampaio Pimentel.\n\nJosé Maria da Silva.\n\nJosé da Silva Domingos.\n\nJosé Theodoro da Silva.\n\nJúlio de Lemos de Castro Caldas.\n\nLeonardo Eugênio Ramos Ribeiro de Almeida.\n\nLuís António Martins.\n\nManuel António Araújo dos Santos.\n\nManuel António Lopes Ribeiro.\n\nManuel Henriques Pires Fontoura.\n\nManuel Maria Portugal da Fonseca.\n\nManuel Pereira.\n\nMaria Adelaide Santos de Almeida Paiva.\n\nMaria Helena do Rego da Costa Salema Roseta.\n\nMaria Manuela Simões Saraiva.\n\nMarilia Dulce Coelho Pires Morgado Raimundo.\n\nMário Dias Lopes.\n\nMário Júlio Montalvão Machado.\n\nMário Martins Adegas.\n\nMiguel Camolas Pacheco.\n\nNatália de Oliveira Correia.\n\nNicolau Gregório de Freitas.\n\nNuno Aires Rodrigues dos Santos.\n\nNuno Maria Monteiro Godinho de Matos.\n\nPedro Manuel da Cruz Roseta.\n\nPelágio Eurico Assunção Matos Lopes de Madureira.\n\nReinaldo Alberto Ramos Gomes.\n\nRui Alberto Barradas do Amaral.\n\nRui Manuel Lemos Garcia da Fonseca.\n\nValdemar Cardoso Alves.\nPartido Socialista (PS)\nAdelino Teixeira de Carvalho.\n\nAgostinho de Jesus Domingues.\n\nAlbano Pereira da Cunha Pina.\n\nAlberto Marques Antunes.\n\nAlberto Rodrigues Ferreira Camboa.\n\nAmadeu da Silva Cruz.\n\nAntónio de Almeida Santos.\n\nAntónio Cândido de Miranda de Macedo.\n\nAntónio Carlos Ribeiro Campos.\n\nAntónio Chaves Medeiros.\n\nAntónio Duarte Arnaut.\n\nAntónio Fernandes da Fonseca.\n\nAntónio Fernando Marques Ribeiro Reis.\n\nAntónio Francisco Barroso de Sousa Gomes.\n\nAntónio José Sanches Esteves.\n\nAntónio José Vieira de Freitas.\n\nAntónio Manuel Chambica de Azevedo Gomes.\n\nAntónio Manuel Maldonado Gonelha.\n\nAntónio Manuel de Oliveira Guterres.\n\nAquilino Ribeiro Machado.\n\nArmando Filipe Cerejeira Pereira Bacelar.\n\nArmando dos Santos Lopes.\n\nAvelino Ferreira Loureiro Zenha.\n\nBeatriz Magalhães de Almeida [...] Brandão.\n\nBento Elísio de Azevedo.\n\nCarlos Cardoso Lage.\n\nCarlos Manuel Natividade da Costa Candal.\n\nEdmundo Pedro."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Responderam à chamada 229 Srs. Deputados. Temos quorum, pelo que declaro aberta a sessão.\n\nEram 16 horas e 15 minutos."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, comunico à Câmara que o Sr. Prof. Freitas do Amaral, actual vice-primeiro-ministro e Ministro dos Negócios Estrangeiros, teve a amabilidade de ir ao meu gabinete cumprimentar o Presidente da Assembleia, dizendo que, mesmo antes de entrar no seu Ministério, queria praticar esse acto por consideração para com o Presidente desta Assembleia e para com a própria Assembleia. Disse-me ainda que o Sr. primeiro-ministro Sá Carneiro pretendia praticar os mesmos actos: o de vir cumprimentar a Câmara e o Presidente da mesma. Não foi cumprimentar o Presidente desta Câmara, estou convencido, pelo facto de me ter ausentado para aqui.\n\nComunico também à Câmara uma triste notícia: a morte do engenheiro Vital Rodrigues, que foi Deputado na anterior Câmara. Há que dar-lhe uma palavra de homenagem, homenagem às suas qualidades, à sua camaradagem dentro da Câmara, ao seu bom convívio. Devo dizer que o Presidente desta Assembleia manifestou já junto da família os sentimentos da mesma.\n\nAntes propriamente de continuar os trabalhos, há que dizer uma palavra sobre os acontecimentos nos Açores. Anteontem à tarde, dia 1, verificou-se, como é do conhecimento de todos, um terramoto nos Açores, nas ilhas Graciosa, Terceira e S. Jorge. Este terramoto teve aspectos trágicos, sabendo-se até agora que há já 40 mortos, 300 feridos, monumentos destruídos, haveres dos habitantes daquele torrão pátrio também destruídos. E, mais do que isso, muitíssimas construções destas três ilhas foram praticamente destruídas.\n\nA notícia do terramoto causou grande comoção em todo o País, de norte a sul, a que se seguiu, a revelar as qualidades do povo português, um movimento de fraternidade, de que é facto mais importante a deslocação quase imediata do Sr. Presidente da República para aquelas ilhas a fim de se inteirar de toda a tragédia que ali se passou e se está vivendo.\n\nO Sr. Presidente da República, foi ainda assegurar que todo o Portugal estava inteiramente solidário com as três ilhas, e, mais do que isso, que estava disposto a dar-lhes todo o auxílio necessário paira que os habitantes dessas ilhas dentro de curto prazo pudessem refazer a sua vida.\n\nQuanto aos falecidos, nada mais é possível fazer do que prestar-lhes a nossa sentida homenagem. E nessa homenagem, permito-me dizer, há que fazer uma reflexão pela tragédia que se está vivendo ali e pelo .muito que nós temos obrigação de fazer. Por isso proponho, convencido de que interpreto o sentir desta Assembleia, que lhes prestemos a homenagem de guardarmos um minuto de silêncio, pensando, aqueles que formos capazes - e espero que o sejamos todos -, na tragédia que se desenrola para melhor podermos ajudar a minorá-la.\n\nA Assembleia guardou de pé um minuto de silêncio."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos agora indicar a ordem de trabalhos, aliás muito simples, pois que é a verificação dos mandatos dos Deputados.\n\nComo é do vosso conhecimento, foi apresentada uma proposta, assinada por todos os partidos, no sentido de que para a verificação dos mandatos dos Deputados eleitos em 2 de Dezembro de 1979 se crie uma comissão eventual, cuja composição é de 11 Deputados da AD, 5 Deputados do PS, 3 Deputados do POP, 1 Deputado do MDP/CDE e 1 Deputado da UDP.\n\nVai, pois, passar-se à leitura dos nomes dos Deputados que constituirão a comissão.\nForam lidos. São os seguintes:\nJoão Pulido de Almeida,\n\nVítor Pinto da Cruz,\n\nAlexandre Carvalho Reigoto,\n\nLuís Beiroco,\n\nAfonso Moura Guedes,\n\nNuno Godinho de Matos,\n\nAntónio Duarte Chagas,\n\nAmândio de Azevedo,\n\nFernando Rodrigues,\n\nAdelaide Paiva,\n\nAugusto Ferreira do Amaral,\n\nAntónio Esteves,\n\nAlbano Pina,\n\nArmando Lopes,\n\nCarlos Caudal,\n\nHerculano Pires,\n\nÁlvaro Augusto Veiga de Oliveira,\n\nJosé Manuel Maia Nunes de Almeida,\n\nJoão Amaral,\n\nRaul de Castro,\n\nMário Tomé."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "A proposta vai ser posta à discussão para depois ser votada. Está em discussão.\nPausa.\nComo ninguém quer usar da palavra, o que aliás se compreende, visto que foi apresentada por todos os partidos, vamos passar à votação.\n\nSubmetida à votação, foi aprovada por unanimidade."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, esta Comissão terá de escolher imediatamente entre si um presidente, um relator e um secretário.\n\nVamos agora suspender esta reunião por duas horas para que a Comissão que acaba de ser eleita possa verificar os mandatos dos Deputados e apresentar o seu relatório.\n\nMas antes da suspensão convoco os representantes dos partidos para se dirigirem ao meu gabinete a fim de termos uma reunião.\n\nEstá suspensa a sessão.\nEram 16 horas e 25 minutos."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Está reaberta a reunião.\nEram 21 horas e 15 minutos."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Como relator da Comissão Eventual de Verificação de Poderes, tem a palavra o Sr. Deputado Carlos Candal para proceder à leitura do respectivo relatório e parecer."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 4,
+      "speaker": {
+        "id": 97,
+        "name": "Carlos Manuel Natividade Da Costa Candal",
+        "party": "PS",
+        "string": "O Sr. Carlos Candal (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Pretendo dar liminarmente uma explicação. É que normalmente a verificação dê pode- [...]"
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Como os Srs. Deputados acabaram de ouvir, foi lido o relatório, cuja discussão se vai iniciar.\n\nEstá, pois, em discussão."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Salgado Zenha (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, nos termos regimentais e em nome do Grupo Parlamentar do Partido Socialista, requeiro a interrupção da sessão por um período de trinta minutos, a fim de melhor apreciarmos o relatório em discussão."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O requerimento apresentado é legal. Está interrompida a sessão.\nEram 21 horas e 35 minutos."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está reaberta a sessão.\nEram 22 horas e 20 minutos."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado José Luís Nunes."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 11,
+      "speaker": {
+        "id": 251,
+        "name": "José Luís Do Amaral Nunes",
+        "party": "PS",
+        "string": "O Sr. José Luís Nunes (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Nos termos do artigo 3.º do Regimento, impugno a admissibilidade de vários candidatos cujos mandatos foram considerados válidos pela Comissão de Verificação de Poderes.\n\nNão nos foi possível, no curto espaço de tempo de que dispúnhamos, enunciar todos os candidatos que em concreto estão feridos das incompatibilidades regimentais e legais. Recordarei, no entanto, que o primeiro dos candidatos que se encontra naquela situação é o Sr. Deputado Manuel Maria Moreira, do Porto. Até ao fim da nossa intervenção diremos quais os Deputados que sofrem dos vícios de desrespeito pela lei que passo a enunciar.\n\nNos termos do artigo 156.º da Constituição, «o preenchimento das vagas que ocorrerem na Assembleia, bem como a substituição temporária de Deputados por motivo relevante, são regulados pela Lei Eleitoral». Acontece que o artigo 18.º, n.º 1, da Lei Eleitoral é muito claro ao dizer que «as vagas ocorridas na Assembleia da República são preenchidas pelo primeiro candidato não eleito, na respectiva ordem de precedência, da lista a que pertencia o titular do mandato vago e que não esteja impedido de assumir o mandato». Da mesma forma, o artigo 22.º, n.º 1, do Estatuto dos Deputados sublinha idêntica doutrina, ao dizer que «em caso de vacatura ou de suspensão de mandato, o Deputado será substituído pelo primeiro candidato não eleito, na respectiva ordem de precedência da mesma lista», acrescentando o n.º 2 do mesmo artigo que «o impedimento temporário do candidato chamado a assumir as funções de Deputado determina a subida do candidato que se seguir na ordem de precedência».\n\nSr. Presidente, Srs. Deputados: Os normativos citados pretendem significar que a lei, através de todas as disposições que acabei de ler, proíbe, formal e terminantemente, a substituição por saltos. Sendo assim, e na base de todas estas razões, nos termos do artigo 3.º do Regimento, impugno a admissibilidade dos mandatos do Sr. Deputado Manuel Maria Moreira, do Porto, do Sr. Deputado Carlos Sousa Encarnação, de Coimbra, bem como dos restantes Srs. Deputados em quem idêntico vício tiver sido detectado.\n\nSr. Presidente, Srs. Deputados: A forma clara como trouxemos este assunto ao Plenário pretende sublinhar perante a Câmara uma atitude de espírito e uma atitude política. A primeira significa que nada nos move, nem a mim nem a nenhum dos Deputados do Partido Socialista, contra qualquer dos candidatos que ora são impugnados. A segunda atitude, Sr. Presidente e Srs. Deputados, significa que a Assembleia da República tem de ser a primeira instituição do País a respeitar escrupulosamente as leis que ela própria elabora."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 11,
+      "speaker": {
+        "id": 389,
+        "name": "António De Almeida Santos",
+        "party": "PS",
+        "string": "O Sr. Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tenha a bondade, Sr. Deputado."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 11,
+      "speaker": {
+        "id": 389,
+        "name": "António De Almeida Santos",
+        "party": "PS",
+        "string": "O Sr. Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Já que esta é a minha primeira intervenção nesta Assembleia, o que muito me honra, quero saudar efusivamente V. Ex.ª, Sr. Presidente, bem como todos os Srs. Deputados, desejando-lhes, como a mim o desejo, um bom trabalho até ao termo do nosso mandato.\n\nO meu camarada José Luís Nunes já disse tudo, mas pretendo ainda sublinhar dois pontos. A impugnação que acaba de ser feita é-o porque o PS entende que esta Assembleia começaria mal os seus trabalhos se começasse por aquilo que sinceramente consideramos um acto de violação da lei. E não apenas um acto de violação da lei - implicitamente a Constituição remete para essa lei, como já foi assinalado pelo meu camarada-, mas um acto que, em nosso entender, defrauda o eleitorado. O eleitorado não votou numa lista qualquer, mas numa lista ordenada de certo modo, atribuindo a lei a esse ordenamento determinados efeitos, nomeadamente em matéria de substituições de candidatos.\n\nPodemos admitir o absurdo que seria um determinado partido que se tivesse coligado na elaboração de uma certa lista e que tivesse, por hipótese -o que"
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Amândio de Azevedo."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 12,
+      "speaker": {
+        "id": 28,
+        "name": "Amândio Anes De Azevedo",
+        "party": "PPD",
+        "string": "O Sr. Amândio de Azevedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: O problema que acaba de ser levantado aqui no Plenário foi longamente discutido na sessão da Comissão que foi encarregada da verificação dos poderes.\n\nPenso que a impugnação não tem qualquer fundamento e é exactamente com base nas razões invocadas a favor da impugnação que me parece que se deve considerar como a mais certa a interpretação que fez vencimento na Comissão.\n\nNa interpretação das leis - e recordo-me de frases aqui ditas anteriormente, e muitas vezes pelo Sr. Deputado Salgado Zenha, que nós não devemos sofrer nem de regimentalite, nem de constitucionalite, nem muito menos de formalite, devemos essencialmente tentar surpreender a vontade da própria lei."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 12,
+      "speaker": {
+        "id": 344,
+        "name": "Pedro Manuel Cruz Roseta",
+        "party": "PPD",
+        "string": "O Sr. Pedro Roseta (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 12,
+      "speaker": {
+        "id": 28,
+        "name": "Amândio Anes De Azevedo",
+        "party": "PPD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "As normas constituem uma opção, têm uma vontade própria que está muito para além da simples letra dos preceitos.\n\nOra creio que é extremamente fácil verificar-se que os preceitos 'que foram invocados na sua letra estão perfeitamente certos para a hipótese que o Partido Socialista considerou como exclusiva, que foi a de as listas apresentadas a sufrágio serem constituídas por um único partido. Mas todos sabemos que a lei permite coligações eleitorais, e meramente eleitorais, isto é, coligações que cessam os seus efeitos com a proclamação dos resultados das eleições.\n\nSendo assim, o facto de vários partidos ou forças políticas concorrerem numa mesma dista não significa que não possa ou que não deva haver uma distinção clara na sua representação parlamentar. Tanto é assim que nesta Assembleia ninguém se lembrou de identificar um grupo parlamentar da Aliança Democrática, nem da APU, mas identificaram-se, como se verificou no início da sessão de hoje, o Grupo Parlamentar do PSD, o do CDS, o do PPM, o do PCP, o do MDP/CDE. Portanto, findas as eleições, há aqui nesta Assembleia apenas Deputados de partidos.\n\nDe resto, quando se invoca o argumento de que as substituições feitas nos termos deliberados na Comissão de Verificação de Poderes iriam representar uma fraude ao eleitorado, emprega-se um elemento que prova exactamente o contrário. Ao eleitorado foram apresentadas listas, compostas por várias forças políticas, nas quais essas forças políticas aparecem numa determinada representação e proporção de que o eleitorado se pode aperceber claramente, pelo que o exemplo apresentado pelo Sr. Deputado Almeida Santos é um exemplo absurdo, porque não há uma lista, de todas as que foram apresentadas nas eleições, em que haja Deputados de um único partido apenas em primeiro lugar e ino último, sendo o resto da lista preenchido por outros partidos. O que há é um certo critério que presidiu à elaboração das listas, critério que assegura uma determinada representatividade a cada uma das forças políticas que compõem a dista. Fraude ao eleitorado seria alterar a composição das diversas forças políticas, dos grupos parlamentares, pelo simples jogo da substituição dos Deputados."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 12,
+      "speaker": {
+        "id": 28,
+        "name": "Amândio Anes De Azevedo",
+        "party": "PPD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, o respeito pelo eleitorado exige que as substituições não alterem aquilo que foi a vontade do povo português. Ora a vontade do povo português foi que estivessem nesta Assembleia 75 Deputados do PSD, 5 Deputados independentes reformadores, mais tantos de cada grupo parlamentar, e importa que esta relação se mantenha enquanto durar esta Assembleia da República. Assim, devemos evitar quaisquer soluções que venham alterar este resultado, porque é ele que traduz genuinamente a vontade do povo português."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 12,
+      "speaker": {
+        "id": 28,
+        "name": "Amândio Anes De Azevedo",
+        "party": "PPD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Trata-se, portanto, de saber entre duas interpretações teoricamente possíveis qual é aquela que corresponde melhor à substância, à razão de ser da lei, porque a letra em si mesma não pode ser nunca o elemento decisivo da interpretação das leis. A dextra de uma lei comporta vários sentidos, vários significados. A lei agora invocada comporta a interpretação defendida pelo Partido Socialista, com base na qual impugnou a deliberação da Comissão da Verificação de Poderes, mas essa seria uma interpretação meramente literal, que ignoraria a realidade que são as coligações de partidos para efeitos eleitorais, e comporta também uma outra interpretação, a qual vai ao encontro da razão de ser da lei, no sentido de que, no caso de listas em que se apresentam candidatos a Deputados de vários partidos, a substituição deve ser sempre feita pelo candidato que se seguir do mesmo partido. A não ser assim, a que viria a indicação, nas listas, à frente do nome de cada candidato, da sigla do partido a que ele pertence ou por quem se candidata?\n\nOs candidatos a Deputados são identificados com determinados partidos e os eleitores votaram numa lista que tem uma certa proporção de candidatos de"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 13,
+      "speaker": {
+        "id": 28,
+        "name": "Amândio Anes De Azevedo",
+        "party": "PPD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "De resto, o que isto implica, uma vez que no que diz respeito à Aliança Democrática existe, com carácter de prevenção, um acordo, é que os candidatos que não são do mesmo partido a que pertence o Deputado a substituir têm o compromisso de fazer uma declaração afirmando não estarem de momento dispostos a assumir o mandato e isto para que venha sempre a assumir o mandato um Deputado do mesmo partido daquele que item de ser substituído.\n\nIsto corresponde a uma solução correcta em .termos de moralidade política, isto corresponde ao respeito substancial pela vontade do eleitorado. Por isso, abreviando e sem prejuízo de outras intervenções, nós entendemos que não tem o mínimo fundamento a impugnação apresentada pelo Partido Socialista."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado José Luís Nunes."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 13,
+      "speaker": {
+        "id": 251,
+        "name": "José Luís Do Amaral Nunes",
+        "party": "PS",
+        "string": "O Sr. José Luís Nunes (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Onde está branco está branco, onde está preto está preto.\n\nO artigo 154.° da Constituição da República diz, no seu n.° 1:\n\nAs candidaturas são apresentadas, nos termos da lei, pêlos partidos políticos, isoladamente ou em coligação, podendo as listas integrar cidadãos não inscritos nos respectivos partidos.\n\nOs normativos que há pouco citei e que foram feitos ou elaborados nos termos do artigo 156.° da Constituição são, como é óbvio e como é evidente, posteriores a este normativo, posteriores à Constituição da República e destinam-se a regulamentá-la.\n\nAs questões que muito claramente se põem são as seguintes: têm os partidos que integraram a Aliança Democrática o pleníssimo direito de comporem internamente as suas alianças como muito bem entenderem. O que não podem é utilizarem-se da Assembleia da República e dos mecanismos legais para, por via administrativa, imporem essa composição. Dito de outra forma: o acto de renúncia ao mandato é um acto individual dos Srs. Deputados. Portanto, se qualquer Deputado desejar renunciar ou pedir a suspensão do mandato, tem todo o direito de o fazer.\n\nOs Srs. Deputados ora impugnados poderão, evidentemente, ser admitidos nesta Casa com todos os direitos e deveres próprios do seu múnus ou do seu estatuto. O que não é possível atropelar e pôr-se em causa é esse carácter pessoal do acto de renúncia ou do acto de suspensão do mandato e, através de uma pseudo-interpretação da lei ou de um combate ao positivismo jurídico, ultrapassando todas as marcas, dizer que onde a lei quis dizer sim quis dizer não c vice-versa."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Teresa Ambrósio (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 13,
+      "speaker": {
+        "id": 251,
+        "name": "José Luís Do Amaral Nunes",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Além do mais, o Sr. Deputado Amândio de Azevedo não está hoje muito feliz nas interpretações da lei, porque, segundo o que creio ter ouvido dizer, o Sr. Deputado falou em votação, dizendo que a Câmara - não sei se ouvi mal - iria votar o que quer que fosse. Ora a Câmara não vai votar coisíssima nenhuma, pelo menos neste momento, porque no artigo 3.° do Regimento se diz o seguinte:\n\n1. Os poderes dos Deputados são verificados pela Assembleia da República, precedendo parecer da Comissão de Regimento e Mandatos.\n\n2. A verificação dos poderes consiste na apreciação da regularidade formal dos mandatos e na apreciação da elegibilidade dos Deputados cujos mandatos sejam impugnados por facto que não tenha sido objecto de decisão judicial com trânsito em julgado.\n\n3. O direito de impugnação cabe a qualquer Deputado e é exercido até ao encerramento da discussão do parecer.\n\n4. O Deputado cujo mandato seja impugnado tem o direito de defesa perante a Comissão e perante o Plenário e exerce as suas funções até deliberação definitiva deste, por escrutínio secreto.\n\n5.. O prazo para instrução, no caso de ter havido impugnação, não poderá exceder trinta dias, improrrogáveis."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 13,
+      "speaker": {
+        "id": 251,
+        "name": "José Luís Do Amaral Nunes",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que com meridiana clareza aqui se distingue é que a Comissão de Verificação de Poderes terá de reunir novamente para instruir devidamente esta impugnação e simultaneamente também - porque não dizê-lo? - para que, através da publicidade desta sessão, os Srs. Deputados que foram ultrapassados possam, como é seu dever e direito, tomar uma posição concreta sobre este caso e só depois é que haverá votação em escrutínio secreto.\n\nÉ isto que diz a lei, é isto que está escrito e não há nenhuma votação que possa derrogar isto, a não ser em termos de revogação do Regimento.\n\nFinalmente, vou ler o nome dos Srs. Deputados cujo mandato ora é impugnado: Manuel Maria Moreira, do Porto; Carlos M. Sousa Encarnação, de Coimbra; José Baptista Pires Nunes, de Leiria; João António de Sousa Domingues, de Leiria, todos do PSD; e Luís António Gomes Moreno, de Lisboa, do CDS.\n\nMais uma vez se repete que pessoalmente nada temos contra estes Srs. Deputados, os quais terão toda [...]"
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Almeida Santos."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 14,
+      "speaker": {
+        "id": 389,
+        "name": "António De Almeida Santos",
+        "party": "PS",
+        "string": "O Sr. Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Não ficava de bem comigo se não prestasse ao meu velho amigo Sr. Deputado Amândio de Azevedo a homenagem de uma resposta.\n\nO Sr. Deputado começou por dizer que a minha hipótese é absurda. Se ela não é impossível, o possível nunca é absurdo.\n\nDisse também que o eleitorado quis que o PSD tivesse 75 Deputados. Esta afirmação parece-me difícil de entender, sobretudo a partir do conceito de que se vota numa lista unitária.\n\nDisse que a lei comporta vários sentidos. Isso é exacto, mas não comporta todos os sentidos. Perante o salto interpretativo que se pretende, ou seja, que quando a lei diz «primeiro candidato não eleito» se deve entender que pode ser o segundo, o terceiro ou mesmo o último, na tal hipótese que se pretende absurda, ou quando se diz que por precedência da lista se entende a precedência do partido, parece-me que, na verdade, iríamos longe de mais na versatilidade com que interpretaríamos a lei.\n\nPor último, queria dizer duas coisas. Nós temos a preocupação, como é óbvio, não persecutória do candidato A ou do candidato B, mas de dignificar esta Assembleia. Repito que os nossos trabalhos começariam mal se começassem por uma clara violação da lei e repito também, porque ainda não vi nada que me faça desviar dessa afirmação, que nós defraudaríamos, na verdade, a vontade do eleitorado. E até o Sr. Deputado Amândio de Azevedo me trouxe um argumento nesse sentido quando afirmou que, no âmbito da antiga AD, há uma declaração de compromisso de desistência dos candidatos «para que se possa respeitar a ordem da sua inscrição pêlos partidos e não pelas listas. Pergunto para que teve ele essa preocupação se a sua interpretação era já então aquela que nos veio trazer aqui agora.\n\nO Sr. Presidente: Tem a palavra o Sr. Deputado Rui Pena."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 14,
+      "speaker": {
+        "id": 355,
+        "name": "Rui Eduardo Ferreira Rodrigues Pena",
+        "party": "CDS",
+        "string": "O Sr. Rui Pena (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Começo precisamente pelo fim para refutar este último argumento do Sr. Deputado Almeida Santos.\n\nÉ que o próprio Regimento estabelece uma diferença profunda entre a renúncia e o impedimento temporário do Deputado. A renúncia do Deputado, como naturalmente decorre da importância desse acto, é qualquer coisa de pessoal, que o artigo 7.° do Regimento faz decorrer de uma declaração própria assinada pelo mesmo Deputado que pede a renúncia, enquanto o impedimento do Deputado, esse é, pura e simplesmente, levado ao conhecimento da Assembleia pelo respectivo grupo parlamentar.\n\nQuer dizer, os grupos parlamentares, a direcção constitutiva dos Deputados que se integram num determinado partido, têm um conjunto de poderes e, por consequência, esse conjunto de poderes deve ser naturalmente respeitado pela Assembleia. E tanto é assim que isso mesmo está consagrado no Regimento, no n.° 5 do artigo 9.°\n\nSr. Presidente, Srs. Deputados: Estamos perante uma questão que nem é questão política nem sequer é questão jurídica. Estamos perante uma questão que apenas faz perder tempo à Assembleia e, por consequência, se traduz numa manifesta perda de eficiência dos nossos trabalhos."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não apoiado!"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 14,
+      "speaker": {
+        "id": 389,
+        "name": "António De Almeida Santos",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Não está em causa ilegalidade nenhuma, muito menos está em causa qualquer inconstitucionalidade. O que está em causa são duas maneiras diferentes de interpretar a lei: uma maneira de o fazer através da sua letra, verificando o sentido da lei por aquilo que ela diz exactamente, e outra que procura interpretar a lei num sentido mais vasto, através do seu espírito.\n\nNão está em causa, de forma alguma, qualquer fraude que se pretenda fazer ao eleitorado. O eleitorado votou em listas por círculos eleitorais, listas que pressupõem a solidariedade dos candidatos que as integram. Logo, não pode haver qualquer fraude ao eleitorado quando um dos membros dessa lista é substituída por outro.\n\nÉ verdade que a nossa lei não trata devidamente das coligações, o que é certamente matéria para ser revista num futuro próximo. De qualquer maneira, a verdade é que, nos termos da lei vigente, as coligações cessam imediatamente após as eleições. Sendo assim, o que fica das coligações são precisamente os partidos e, por consequência, aquilo a que nós devemos atender é aos Deputados que integram esses mesmos partidos. Logo, fazer a substituição dos Deputados pela forma aqui preconizada pelo Grupo Parlamentar do Partido Socialista seria precisamente defraudar a lei, na medida em que seria continuar artificialmente as coligações que a própria lei diz terminarem logo após a votação.\n\nPor este e outros argumentos, o meu grupo parlamentar votará contra a impugnação feita pelo Partido Socialista.\n\nE quero ainda dizer que há dois tipos de impugnação: há realmente a impugnação que é prevista no artigo 3.° do Regimento, impugnação pessoal de um Deputado por qualquer facto ou acto directamente respeitante à sua personalidade ou ao seu passado, e há a impugnação que decorre pura e simplesmente da interpretação dos preceitos legais da Lei Eleitoral e dos preceitos regimentais, e essa, naturalmente, pode ser resolvida imediatamente através de uma resolução desta Assembleia que, apreciando desta forma que acabo de referir o problema em discussão, vote no sentido da interpretação, que em vez de, de certo modo, denegar a lei, pelo contrário, procura respeitar integralmente o espírito da própria Lei Eleitoral."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Veiga de Oliveira."
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 15,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. Veiga de Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Antes de mais, quero dizer que nós defendemos largamente na Comissão, e com vários argumentos, a interpretação que fez vencimento. Mas entendemos que neste momento não cabe ainda, por não nos parecer necessário, repetir essa argumentação e cabe antes fazer uma destrinça que é fundamental fazer-se: o Partido Socialista, através dos seus representantes no Plenário, diz que impugna a elegibilidade de alguns Deputados, mas tudo o que está a fazer é impugnar a substituição de alguns Deputados. Portanto não há lugar para nenhuma daquelas regras previstas e enunciadas, nomeadamente os n.ºs 3, 4 e 5 do artigo 3.º do Regimento. 0 que há lugar, quando muito, é à votação, se quisermos, separada, por um lado, da verificação dos mandatos dos Deputados e depois, por outro lado, das substituições propostas, e devo até lembrar que uma das substituições propostas é do Partido Socialista.\n\nPortanto propúnhamos que antes de mais se clarificasse essa questão, pois não há aqui impugnação da elegibilidade de nenhum Deputado. 0 que há é porventura que fazer distinção, passando assim à votação da verificação dos mandatos tal qual foi feita, e depois, se assim o entendermos, discutiremos se as substituições pedidas são ou não de aceitar, porque são legais porque estão de acordo com a interpretação mais correcta da lei que regula essas substituições.\n\nEra isto, que queríamos dizer para já, Sr. Presidente e Srs. Deputados."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Amândio de Azevedo."
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 15,
+      "speaker": {
+        "id": 28,
+        "name": "Amândio Anes De Azevedo",
+        "party": "PPD",
+        "string": "O Sr. Amândio de Azevedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Correspondendo à amabilidade do Sr. Deputado Almeida Santos, meu velho amigo dos tempos de Coimbra, gostaria de lhe responder a argumentos que parece que constituem a prova definitiva e cabal e que, afinal de contas, se pensarmos um bocadinho, não têm valor absolutamente nenhum.\n\nNão se trata de inverter o sentido das palavras nem de modificar coisa nenhuma. Por exemplo, aquilo que se deve entender quando a lei diz que a substituição é assegurada pelo primeiro candidato não eleito basta que se considere que corresponde à razão de ser da lei, como subentendido pela própria lei, que o teria explicitado se tivesse pensado nesta hipótese, o acrescentamento da expressão «do mesmo partido». Está o problema resolvido, são formas de interpretação da lei que são comuns a qualquer jurista. \nO Sr. Deputado Almeida Santos, na sua actividade profissional e nos seus estudos da Faculdade de Coimbra, onde eu também andei, variadíssimas vezes deparou com a interpretação de normas em que se verificam situações desta natureza. Estou a lembrar-me por exemplo, da norma que diz que «só o homem é susceptível de direitos e obrigações». Não passa pela cabeça de ninguém que o termo «homem» queira significar só o homem, pois toda a gente sabe que se trata do homem e da mulher. Há imensas normas que têm de ser interpretadas e são-no exactamente tendo em conta aquilo que o legislador quis alcançar, a vontade legislativa, verificando-se muitas vezes que a letra atraiçoa ou não traduz fielmente o pensamento do legislador e ninguém poderá contestar que a interpretação que defendo cabe perfeitamente bem dentro da letra da própria lei. Notem que não fui tão longe na argumentação como foram os Deputados do Partido Socialista, dizendo que a sua interpretação é absolutamente impossível. Reconheço que há várias interpretações possíveis, há duas interpretações possíveis. Do que se trata de saber é qual é a melhor e eu penso francamente, que a melhor é aquela que mereceu vencimento na Comissão de Verificação de Poderes.\n\nPortanto, reitero os argumentos já invocados, subscrevo inteiramente a argumentação desenvolvida, pelo Sr. Deputado Rui Pena e penso que do que se trata aqui, afinal de contas, não é da impugnação de um Deputado em atenção à sua pessoa, mas sim da interpretação de unia norma que tem a ver com a substituição dos Deputados. E a interpretação dessa norma pode e deve fazer-se, independentemente de qualquer averiguação, no Plenário desta Assembleia."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Almeida Santos."
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 15,
+      "speaker": {
+        "id": 389,
+        "name": "António De Almeida Santos",
+        "party": "PS",
+        "string": "O Sr. Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Eu sei, todos nós sabemos, que há substantivos comuns de dois e que o homem em certo sentido pode também significar a mulher. 0 que não sabia é que o primeiro possa também significar o segundo, o terceiro, ou o quarto. Já não me parece que seja possível esse salto lógico na interpretação da lei, embora concorde na generalidade com as considerações sobre a interpretação das leis. Por outro lado, o primeiro não vem apenas referido ao primeiro candidato, mas ao primeiro candidato na ordem de precedência da lista e esta é uma única, pois vota-se em listas unitárias. É portanto a precedência da lista que se considera e não a precedência dos candidatos de certos partidos nessa lista. E quanto a argumentação literal, acho que estamos entendidos. Pelo menos da minha parte, não vale talvez a pena tentarmos convencer-nos um ao outro, porque penso que isso não, será possível a partir deste momento.\n\nO Sr. Deputado Veiga de Oliveira fez uma distinção e ele já nos habituou à subtileza das suas distinções. Mas esta parece-me subtil de mais e eu tenho, como muitas vezes lhe pude afirmar da bancada do Governo, um grande respeito, um grande apreço pelo seu sentido jurídico, o que acontece normalmente às pessoas inteligentes, embora não seja formado em Direito, mas a verdade é que neste caso foi inteligente de mais. A verificação dos poderes consiste na apreciação da legalidade formal dos mandatos e na apreciação da elegibilidade dos Deputados, necessariamente dos Deputados que aparecem aqui para serem considerados eleitos. Portanto, não há que fazer a distinção que fez o Sr. Deputado Veiga de Oliveira.\n\nEra isto que fundamentalmente tinha para dizer e já agora fecho apenas com uma observação de carácter político, já que a política também tem aqui fundamentalmente o seu assento: é que não desconheço que a coligação de partidos tem as suas vantagens,"
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Vital Moreira."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 16,
+      "speaker": {
+        "id": 374,
+        "name": "Vital Martins Moreira",
+        "party": "PCP",
+        "string": "O Sr. Vital Moreira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: 0 meu camarada Veiga de Oliveira tentou fazer uma distinção e fez uma proposta de trabalhos que a meu ver, se tivesse sido seguida, nos evitaria provavelmente mais umas horas de discussão.\n\nQuero chamar a atenção para o facto de que estamos aqui a discutir duas coisas completamente diversas: uma é a verificação dos mandatos dos Deputados que aqui estamos, estes todos que aqui estamos e aqueles que, tendo sido eleitos, porventura faltarem, e são poucos; outra é a regularidade da substituição de alguns Deputados que ainda aqui não estão. Ora bem, quero chamar a atenção para o facto, de que a verificação dos, mandatos dos Deputados que aqui estão ainda não foi feita, porque a Assembleia ainda não aprovou o relatório da Comissão que diz que nós estamos aqui eleitos e bem eleitos. 15to é, o nosso mandato ainda não está perfeito. Ora nós, ainda sem termos feito isto, já estamos a discutir se alguns de nós podemos ou não ser substituídos por outros que ainda aqui não estão.\nPortanto, proponho como ponto de ordem à Mesa que se começasse por assentar se, sim ou não, estamos, aqui bem eleitos, isto é, tornar perfeito o nosso mandato aqui na Assembleia, e depois disso, tornado perfeito o nosso mandato aqui, perante a constatação, de que existe pedido de substituição por parte de\n\nvários de entre nós, verificar então a questão que o Partido Socialista na verdade está a pôr, e só essa é que ele está a pôr, que é a de impugnar a possibilidade de substituição, de certos Deputados por outros e não por outrem, por certos Deputados e não por certos outros Deputados.\n\nPropunha, pois, à Mesa que seguíssemos a seguinte metodologia: votar a parte do parecer - parecer que, a meu, ver, mistura indevidamente as duas coisas que diz que, sim senhor, nós estamos aqui bem eleitos, isto é, tornar perfeito o nosso mandato, e a partir daí pormo-nos em condições de fazer a discussão que até agora temos tido e que, a meu ver, estamos a ter ilegitimamente, porque ainda nem sequer assentámos se estamos aqui bem ou mal colocados como Deputados da Assembleia da República.\n\nEsta a proposta que faço, Sr. Presidente, e é, se me permite, um ponto de ordem à Mesa."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Veiga de Oliveira."
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 16,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. Veiga de Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: De momento, prescindo, porque me parece fundamental que o ponto de ordem proposto pelo meu camarada Vital Moreira seja de facto tomado pela Mesa ou pelo menos que a Mesa consulte a Assembleia sobre se deve ou não proceder como é proposto. É uma questão fundamental e que poupará esforços desnecessários a todos nós."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado José Luís Nunes."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "0 Sr. José Luis Nunes (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: É para dizer que até à data, que eu saiba, a figura do ponto de ordem não existe no Regimento. 0 que existe são requerimentos que podem fixar os termos do processo.\n\nPortanto, depois da originalidade do Sr. Deputado Amândio de Azevedo, lendo o que não está na lei, depois da originalidade do Sr. Deputado Rui Pena, lendo o que não está na lei, temos a originalidade do Sr. Deputado Vital Moreira, lendo o que está para além da lei.\n\nEu leio o que se diz no n.º 4 do artigo 3.º do Regimento: «0 Deputado cujo mandato seja impugnado tem o direito de defesa perante a Comissão e perante o Plenário e exerce as suas funções até deliberação definitiva deste, por escrutínio secreto», o que se conjuga com o n.º 3 do referido artigo 3.º, que diz que «o direito de impugnação cabe a qualquer Deputado e é exercido até ao encerramento da discussão do parecer». Quer dizer, na tese do Sr. Deputado Vital Moreira, que este normativo não deveria existir na Constituição nem no Regimento, porque era necessário ver se os Deputados que vão julgar o Deputado que vai ser impugnado estão ou não no pleno uso dos seus direitos e depois íamos julgar, por voto secreto, o Deputado que vai ser impugnado. Simplesmente, essa distinção especiosa não está na lei.\n\nA lei decidiu claramente no sentido que acabo de expor e que é o de que estes problemas se levantam até ao encerramento da discussão do parecer e eles foram levantados atempadamente por mim e pelo meu camarada Almeida Santos. É ainda preciso que se sublinhe com muita clareza que a figura do ponto de ordem não existe no Regimento. Se o Sr. Deputado Vital Moreira quer formular um requerimento, pois muito bem, pode fazê-lo. Até lá, a Mesa não tem que se submeter a nenhum ponto de ordem que lhe seja proposto."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Carlos Candal."
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 16,
+      "speaker": {
+        "id": 97,
+        "name": "Carlos Manuel Natividade Da Costa Candal",
+        "party": "PS",
+        "string": "O Sr. Carlos Candal (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tomo a palavra só para uma breve referência.\n\nO Sr. Deputado Vital Moreira não tem cópia do relatório e daí que tenha afirmado que no relatório se misturam as coisas. Isso não é exacto. 0 relatório faz primeiro a apreciação dos mandatos dos Deputados originários e só depois aprecia a problemática da substituição. Estes Deputados que estão a ser impugnados são referidos no ponto 9 do relatório e parcialmente depois no ponto 11, que envolve todas as substituições e não apenas aquelas que estão a ser impugnadas."
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Veiga de Oliveira."
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 16,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. Veiga de Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Era minha intenção prestar, entre outras coisas, o esclarecimento que acabou de ser prestado pelo relator da Comissão."
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Vital Moreira."
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 17,
+      "speaker": {
+        "id": 374,
+        "name": "Vital Martins Moreira",
+        "party": "PCP",
+        "string": "O Sr. Vital Moreira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, obviamente utilizei a fórmula «ponto de ordem» porque não queria fazer formalmente um requerimento, tão óbvia se me afigura esta questão, em tais termos que admiti que a Mesa e a Assembleia, em geral, admitissem como boa a minha proposta. 15to não sensibilizou o Sr. Deputado José Luís Nunes, o que me obriga de facto a fazer um requerimento.\n\nEu requeiro, pois, à Mesa que sejam separadas as duas questões e que se comece por verificar a regularidade formal e material do nosso mandato, das pessoas que aqui estão, e que depois se vá à questão da substituição de alguns desses mandatos por outros candidatos que cá não estão, e esta é uma diferença importante, porque o Partido Socialista está a impugnar não os mandatos das pessoas que cá estão, mas os mandatos de pessoas que ainda cá não estão, isto é, dos candidatos à substituição de pessoas que cá estão. Faço, pois, esse requerimento à Mesa, para que dentro do relatório se estabeleça uma distinção, que comecemos por votar os pontos relativos à verificação dos poderes dos Deputados inicialmente eleitos pela Assembleia da República e que depois passemos à outra parte do relatório, que creio ser o ponto 9 e seguintes, que tratam das substituições, porque só com estes é que tem a ver a chamada, pelo Partido Socialista, impugnação de Deputados."
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 17,
+      "speaker": {
+        "id": 389,
+        "name": "António De Almeida Santos",
+        "party": "PS",
+        "string": "O Sr. Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dá-me licença, Sr. Presidente?"
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 17,
+      "speaker": {
+        "id": 389,
+        "name": "António De Almeida Santos",
+        "party": "PS",
+        "string": "O Sr. Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Eu queria pedir um esclarecimento.\n\nQuando o Sr. Deputado Vital Moreira se refere aos Deputados que cá estão, eu não sei quem é que cá está. Quer dizer, se cá estão apenas os Deputados em relação aos quais não houve nenhuma espécie de impugnação, nós estamos de acordo quanto à votação separada. Se cá está algum dos Deputados que foi objecto de impugnação, necessariamente nós não poderemos dar o nosso acordo."
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 17,
+      "speaker": {
+        "id": 374,
+        "name": "Vital Martins Moreira",
+        "party": "PCP",
+        "string": "O Sr. Vital Moreira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não pode estar de modo algum."
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Está, está."
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 17,
+      "speaker": {
+        "id": 374,
+        "name": "Vital Martins Moreira",
+        "party": "PCP",
+        "string": "O Sr. Vital Moreira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se está, não devia estar."
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Rui Pena."
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 17,
+      "speaker": {
+        "id": 355,
+        "name": "Rui Eduardo Ferreira Rodrigues Pena",
+        "party": "CDS",
+        "string": "O Sr. Rui Pena (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Efectivamente, no meu grupo parlamentar está neste momento presente um Deputado que beneficiou da substituição."
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 17,
+      "speaker": {
+        "id": 374,
+        "name": "Vital Martins Moreira",
+        "party": "PCP",
+        "string": "O Sr. Vital Moreira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas a que propósito?"
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 17,
+      "speaker": {
+        "id": 355,
+        "name": "Rui Eduardo Ferreira Rodrigues Pena",
+        "party": "CDS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está na mesma situação em que todos nós nos encontramos.\n\nA carta de substituição já foi apresentada à Assembleia e por consequência consideramos que esse Deputado deveria ver verificado o seu mandato exactamente nos mesmos termos em que nós vimos verificado o nosso, como o fez, de resto, a própria Comissão de Verificação de Poderes eleita ad hoc que menciona no seu relatório expressamente a situação destes Deputados. Essa a razão por que este Deputado está presente.\n\nDe qualquer maneira, Sr. Presidente e Srs. Deputados, para facilitar os trabalhos eu vou pedir ao meu colega de bancada Luís Moreno para se ausentar a fim de procedermos a esta votação.\n\nO Sr. Deputado Luís Moreno abandonou o hemiciclo."
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 17,
+      "speaker": {
+        "id": 374,
+        "name": "Vital Martins Moreira",
+        "party": "PCP",
+        "string": "O Sr. Vital Moreira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estava cá ilegitimamente."
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 17,
+      "speaker": {
+        "id": 355,
+        "name": "Rui Eduardo Ferreira Rodrigues Pena",
+        "party": "CDS",
+        "string": "O Sr. Rui Pena (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não estava, não."
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos votar o requerimento apresentado pelo Sr. Deputado Vital Moreira, ou seja, vamos votar no sentido de a votação do relatório da Comissão se fazer em duas partes: se estão ou não eleitos os Deputados presentes e, em segundo lugar, o caso da substituição de alguns Deputados.\nSubmetido à votação o requerimento, foi aprovado por unanimidade."
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos, pois, votar a primeira parte do relatório: considera-se ou não que os Deputados presentes, referidos na primeira parte do relatório, estão eleitos?\nQuando se procedia à votação, verificou-se hesitação na bancada do Partido Socialista."
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Parece que há algumas dúvidas quanto ao sentido da votação, pelo que vamos recomeçar.\nPausa."
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Estão vários Srs. Deputados a pedir a palavra ao mesmo tempo e assim não sei a quem a dar em primeiro lugar. Mas concedo a palavra desde já ao Sr. Deputado Vital Moreira."
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 17,
+      "speaker": {
+        "id": 374,
+        "name": "Vital Martins Moreira",
+        "party": "PCP",
+        "string": "O Sr. Vital Moreira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente: Se bem creio, nós votámos o requerimento que eu fiz, que era um mero requerimento de ordem processual."
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Exactamente."
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 18,
+      "speaker": {
+        "id": 374,
+        "name": "Vital Martins Moreira",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "0 que vamos agora é seguir aquilo que votámos nó requerimento, isto é, vamos votar a primeira parte do relatório."
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Isso já foi votado."
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 18,
+      "speaker": {
+        "id": 374,
+        "name": "Vital Martins Moreira",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não foi porque o Partido Socialista esteve hesitante e essa votação não chegou a consumar-se."
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Isso é problema do PS."
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 18,
+      "speaker": {
+        "id": 374,
+        "name": "Vital Martins Moreira",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Srs. Deputados do CDS, creio que toda a gente está de acordo em entender que o Partido Socialista não se levantou, ou pelo menos alguns dos seus Deputados, porque não sabia verdadeiramente o que é que, estava em causa.\nEu creio que o que está em causa agora é irmos votar se aqueles Srs. Deputados que fazem parte de uma lista de duzentos e cinquenta, que foi apresentada pelo Sr. Deputado Carlos Candal, que são os que estão aqui e mais os que estão no Governo, os duzentos e cinquenta, os originários, digamos assim - se quiserem uma palavra que signifique tudo - estão ou não bem eleitos.\n\nVamos, portanto, votar, creio eu, os oito primeiros pontos do relatório, que tratam disto: estão ou não verificados como legítimos os poderes desses duzentos e cinquenta Deputados originários? Creio que é isto que o Sr. Presidente deve pôr à votação."
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos então votar a primeira parte do relatório, que é esta: se estão ou não verificados os poderes dos Deputados eleitos.\nPausa.\nQuerem que empregue a expressão empregue pelo Sr. Deputado Vital Moreira «os Deputados originários»?\n\nTem a palavra o Sr. Deputado Almeida Santos."
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 18,
+      "speaker": {
+        "id": 389,
+        "name": "António De Almeida Santos",
+        "party": "PS",
+        "string": "O Sr. Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Eu continuo ainda a alimentar, decerto por defeito meu, alguma confusão. Se nós estamos apenas a pronunciar-nos sobre os Deputados antes da substituição, nós impugnamos quê?\n\nAinda não há substituições, ao que parece."
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, dá-me licença? Nós vamos votar assim: quem concorda aprova; quem não concorda rejeita."
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos votar, Srs. Deputados, a primeira parte do relatório.\nSubmetida à votação, foi aprovada por maioria, com a abstenção da UDP."
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 18,
+      "speaker": {
+        "id": 374,
+        "name": "Vital Martins Moreira",
+        "party": "PCP",
+        "string": "O Sr. Vital Moreira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Agora é que o mandato está perfeito."
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Carlos Candal."
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 18,
+      "speaker": {
+        "id": 97,
+        "name": "Carlos Manuel Natividade Da Costa Candal",
+        "party": "PS",
+        "string": "O Sr. Carlos Candal (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é apenas para esclarecer que esta questão da impugnação da entrada, por substituição de Deputados originários, dos Deputados indigitados do PSD Manuel Maria Moreira, do Porto, Carlos M. Sousa Encarnação, de Coimbra, José Baptista Pires Nunes, de Leiria, João António Sousa Domingues, de Leiria, e do Deputado indigitado do CDS Luís António Gomes Moreno, de Lisboa, se confina às substituições propostas no ponto 9 do relatório e não contamina os pontos 10 e 11, que se referem a outras substituições que não foram impugnadas. Assim sendo, também subsiste a parte do ponto 12 que se refere às substituições, não impugnadas, dos pontos 10 e 11 acabados de referir."
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Portanto, resumindo ..."
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 18,
+      "speaker": {
+        "id": 97,
+        "name": "Carlos Manuel Natividade Da Costa Candal",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, porque não houve impugnação, devem ser votados os pontos 10 e 11 e, com reserva à referência implícita que aí se faz ao ponto 9, também o ponto 12."
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Amândio de Azevedo."
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 18,
+      "speaker": {
+        "id": 28,
+        "name": "Amândio Anes De Azevedo",
+        "party": "PPD",
+        "string": "O Sr. Amândio de Azevedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, em nome do Grupo Parlamentar do PSD, discordo dessa proposta, que contraria frontalmente o requerimento há pouco apresentado e aprovado por esta Assembleia. O que foi aprovado é que se votasse primeiramente a verificação dos poderes dos Deputados que constam da acta, da Comissão Nacional de Eleições e, depois, que se passasse à apreciação dos pedidos de substituição que deve ser feita pela ordem por que eles constam do parecer da Comissão de Verificação de Poderes, independentemente dos casos concretos que se verifiquem em relação a cada um deles, das impugnações ou não impugnações que venham a ser feitas no Plenário."
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Carlos Candal."
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 18,
+      "speaker": {
+        "id": 97,
+        "name": "Carlos Manuel Natividade Da Costa Candal",
+        "party": "PS",
+        "string": "O Sr. Carlos Candal (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tem razão o Sr. Deputado Amândio de Azevedo, porque do sucesso da impugnação às substituições referidas no ponto 9 pode haver sequelas para a substituição concreta dos Deputados propostos para entrarem em troca nos pontos 10 e 11."
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, nós estamos a apreciar a segunda parte do relatório. Falou nos pontos 10, 11 e 12. Tenho a convicção de que a grande maioria dos Deputados presentes, se não todos, não se lembra agora do que dizem os pontos 10, 11 e 12."
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Sr. Carlos Candal (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Posso repetir a leitura.\n\nO ponto 9 diz o seguinte:\nTendo em conta as disposições legais aplicáveis, a Comissão de Verificação de Poderes, em harmonia aliás com os pedidos formulados a tal pro-"
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Portanto, trata-se da substituição de Srs. Deputados.\n\nVamos, pois, votar esta segunda parte do relatório. Mas antes tem a palavra o Sr. Deputado José Luís Nunes."
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 19,
+      "speaker": {
+        "id": 251,
+        "name": "José Luís Do Amaral Nunes",
+        "party": "PS",
+        "string": "O Sr. José Luís Nunes (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Nos termos do artigo 3.º do Regimento, na base do qual foi feita a impugnação, é necessário que a Assembleia fixe um prazo para este caso ser devidamente instruído pela Comissão de Verificação de Poderes. É o que diz o artigo 3.º, n.º 5:\n0 prazo para instrução, no caso de ter havido impugnação, não poderá exceder trinta dias, improrrogáveis.\nEsta votação que vamos fazer agora não tem sentido. A única coisa que cabe à Assembleia é fazer baixar à Comissão de Verificação de poderes este caso e fixar-lhe um prazo para que sobre ele se pronuncie."
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não apoiado!"
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 19,
+      "speaker": {
+        "id": 251,
+        "name": "José Luís Do Amaral Nunes",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E eu que me importo que digam «não apoiado»!"
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Amândio de Azevedo."
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 19,
+      "speaker": {
+        "id": 28,
+        "name": "Amândio Anes De Azevedo",
+        "party": "PPD",
+        "string": "O Sr. Amândio de Azevedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Eu creio que é tempo de terminar com uma deliberação apropriada a longa discussão que precedeu a votação da primeira parte do relatório.\n\nNos termos, das declarações dos próprios Deputados do Partido Socialista, não está aqui minimamente em causa o exercício do mandato, por razões pessoais, de qualquer dos candidatos apontados. Do que se trata, única e exclusivamente, é de saber se a Comissão de Verificação de Poderes agiu bem quando interpretou a lei no sentido de que as substituições, no caso de listas coligadas, deviam fazer-se pelo Deputado não eleito, que imediatamente se segue na lista, do mesmo partido, ou se porventura deve preferir-se a interpretação perfilhada pelo Partido Socialista, como consta aliás da sua declaração de voto na Comissão, de que a substituição se deve fazer pelo Deputado não eleito imediatamente a seguir, qualquer que seja a sua filiação partidária, não tendo, portanto, nada que haver correlação entre a filiação do Deputado a substituir e a do Deputado substituto. 0 que está aqui em causa é pura e simplesmente uma interpretação da lei. Não está em causa a impugnação de qualquer mandato nem é necessário fazer qualquer averiguação. Ninguém aponta aqui um único facto, relativo ao exercício do mandato, que esteja relacionado com a pessoa de qualquer dos candidatos das listas apresentadas pela Aliança Democrática.\n\nPortanto o que a Assembleia deve fazer - e creio que a discussão já foi suficiente sobre esta matéria - é deliberar sobre se, na substituição de Deputados pertencentes a listas apresentadas em coligação, deve ou não fazer-se essa substituição pelo primeiro candidato não eleito da lista pertencente ao mesmo partido do Deputado a substituir, ou se, pelo contrário, deve fazer-se a substituição pelo primeiro Deputado não eleito, independentemente de se saber se ele pertence ou não ao mesmo partido do Deputado a substituir.\n\nEsta é a questão. \nO Sr. Deputado José Luís Nunes não tem qualquer razão na invocação do artigo 3.º do Regimento, que manifestamente se prende com impugnações que têm que ver com razões atinentes à pessoa de cada um dos candidatos. Nessa altura é que é necessário averiguar as razões da impugnação e é necessário dar voz ao candidato.\n\nMas aqui creio que todos estaremos inteiramente de acordo em que os candidatos não têm de ser ouvidos nem achados sobre esta questão. A única coisa que tem de ser decidida é qual é a interpretação correcta da Constituição, do Estatuto dos Deputados e do Regimento."
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, dá-me a impressão - e é o entendimento que eu estou a fazer - de que do que se trata é de votar a substituição em causa, a substituição que consta do relatório da Comissão, e não o princípio da substituição. De maneira que será isso aquilo que eu estou a pensar em pôr à votação.\n\nEntretanto, V. Ex.ª dirá se é assim ou não."
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 19,
+      "speaker": {
+        "id": 28,
+        "name": "Amândio Anes De Azevedo",
+        "party": "PPD",
+        "string": "O Sr. Amândio de Azevedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Penso que a Assembleia deve agir de acordo com critérios uniformes e, uma vez que o problema se põe, não devemos fugir à sua resolução. Importa fixar a interpretação da lei e, em função da interpretação que a Assembleia considerar mais correcta, fazer as substituições. Foi assim que a Comissão procedeu e pede ao Plenário que ratifique ou não a sua deliberação.\n\nPortanto, há que fixar um princípio e em função da deliberação que for tomada no Plenário se saberá se tem razão de ser ou não a impugnação das substituições feita pelo Partido Socialista."
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 19,
+      "speaker": {
+        "id": 251,
+        "name": "José Luís Do Amaral Nunes",
+        "party": "PS",
+        "string": "O Sr. José Luís Nunes (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem V. Ex.ª a palavra."
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 19,
+      "speaker": {
+        "id": 251,
+        "name": "José Luís Do Amaral Nunes",
+        "party": "PS",
+        "string": "O Sr. José Luís Nunes (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Se o Sr. Deputado Amândio de Aze-"
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 20,
+      "speaker": {
+        "id": 333,
+        "name": "Narana Sinai Coissoró",
+        "party": "CDS",
+        "string": "O Sr. Narana Coissoró (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é esse o problema."
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 20,
+      "speaker": {
+        "id": 251,
+        "name": "José Luís Do Amaral Nunes",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Já sei!"
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 20,
+      "speaker": {
+        "id": 389,
+        "name": "António De Almeida Santos",
+        "party": "PS",
+        "string": "O Sr. Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": " Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tenha a bondade."
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 20,
+      "speaker": {
+        "id": 389,
+        "name": "António De Almeida Santos",
+        "party": "PS",
+        "string": "O Sr. Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: É só para um esclarecimento, talvez mais para mim do que para os Srs. Deputados.\n\nO Sr. Deputado Amândio de Azevedo disse que não há aqui nenhum facto, a querer significar talvez que tudo se resume a uma questão de direito. A verdade é que há um facto. O facto que fundamenta a impugnação é que os candidatos apresentados como substitutos não são os imediatos na lista a que pertencem. 15to é um facto.\n\nPor outro lado, a lei diz «cujos mandatos sejam impugnados por facto que não tenha sido objecto de decisão judicial com trânsito em julgado». É o caso, dando-se ainda ao Deputado cuja mandato seja impugnado o direito de defesa. O direito de defesa não se refere apenas a factos, necessariamente, mas é mais amplo do que isso. Não vejo como é que se possa saltar por cima dos n.ºs 3 e 4 do artigo 3.º do Regimento, que, na verdade, estabelece todo um ritual processual que, a meu ver, tem, obviamente, de ser respeitado."
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 20,
+      "speaker": {
+        "id": 355,
+        "name": "Rui Eduardo Ferreira Rodrigues Pena",
+        "party": "CDS",
+        "string": "O Sr. Rui Pena (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tenha a bondade."
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 20,
+      "speaker": {
+        "id": 355,
+        "name": "Rui Eduardo Ferreira Rodrigues Pena",
+        "party": "CDS",
+        "string": "O Sr. Rui Pena (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, nos termos do artigo 93.º do Regimento, cada Deputado só pode intervir, seja na generalidade seja na especialidade, na discussão da ordem do dia duas vezes. Nós estamos aqui a assistir a um debate que se eterniza e, por consequência, peço a V. Ex.ª que use dos poderes regimentais para pôr termo a esta situação."
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Foi aprovado um requerimento que entendia que se devia passar à votação dos dois pontos do relatório. Foi já votado um dos pontos. Dando cumprimento à votação que se fez sobre esse requerimento, vou pôr a segunda parte à votação."
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 20,
+      "speaker": {
+        "id": 108,
+        "name": "Carlos Martins Robalo",
+        "party": "CDS",
+        "string": "O Sr. Carlos Robalo (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Eureka!"
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Portanto, o que agora está em causa é a substituição dos Deputados.\n\nÉ esta segunda parte do relatório que vamos votar.\nSubmetida à votação, foi aprovada, com votos a favor do PSD, do PCP, do CDS, do PPM e dos Deputados independentes reformadores, votos contra do PS e abstenções do MDP/CDE e da UDP."
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma declaração de voto, tem a palavra o Sr. Deputado Salgado Zenha."
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Salgado Zenha (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: O Partido Socialista votou contra o ponto 9 do relatório e não vai entrar no pormenor das razões jurídicas, mas vai explicar sucintamente as razões políticas por que está em discordância com a votação que fez aqui vencimento e até com o modo processual como essa votação se efectuou.\n\nComo é do conhecimento geral, cerca de dois terços dos Deputados aqui presentes foram eleitos com base em alianças ou coligações eleitorais a Aliança Povo Unido (APU) e a Aliança Democrática (AD). A partir de determinado momento, essas alianças eleitorais deliberaram passar aqui a trabalhar com base em agrupamentos à parte, com o que nós nada temos a ver. Mas a sua pretensão vai mais longe. Pretendem agora que essa sua deliberação tenha a eficácia retroactiva de apagar o modo coligado como foram eleitos. Isso é que se me afigura uma perfeita violação da lei e uma ofensa à democracia.\n\nAs alianças eleitorais têm o seu regime, têm os seus efeitos, têm as suas normas jurídicas. E essas normas jurídicas vêm reguladas na lei com inteira clareza. Que a partir de determinado momento os Deputados que foram eleitos por via dessas alianças eleitorais passem a trabalhar com base em agrupamentos de tipo separado, nada temos a ver com isso. Mas, que se pretenda que nem sequer se possa invocar o regime jurídico, decorrente da própria coligação com base na qual o povo foi chamado a exprimir o seu voto, isso é que é um perfeito sofisma, uma violação da lei, uma violação da Constituição.\n\nFica assim defraudado o processo democrático, o que em nada dignifica a Assembleia.\n\nO problema que se põe é o seguinte: as listas apresentadas pelas alianças eleitorais, fossem quais fossem"
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 21,
+      "speaker": {
+        "id": 374,
+        "name": "Vital Martins Moreira",
+        "party": "PCP",
+        "string": "O Sr. Vital Moreira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não apoiado!"
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Amândio de Azevedo."
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 21,
+      "speaker": {
+        "id": 28,
+        "name": "Amândio Anes De Azevedo",
+        "party": "PPD",
+        "string": "O Sr. Amândio de Azevedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Muito serenamente para dizer que o PSD votou conscientemente no sentido que considera o mais razoável e o mais certo quanto à interpretação dos textos da Constituição, do Regimento e do Estatuto dos Deputados, e o Sr. Deputado Salgado Zenha escusava bem de imputar aos outros culpas que o seu partido tem muito no cartório."
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 21,
+      "speaker": {
+        "id": 28,
+        "name": "Amândio Anes De Azevedo",
+        "party": "PPD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nós, na última sessão legislativa, assistimos, por parte do PS, a violações flagrantíssimas da Constituição que nada tinham, nem sequer o benefício da dúvida, a poder socorrê-las e portanto o Sr. Deputado Salgado Zenha não está em condições de vir dar lições a propósito de uma questão que é discutível - aceito que seja discutível."
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 21,
+      "speaker": {
+        "id": 251,
+        "name": "José Luís Do Amaral Nunes",
+        "party": "PS",
+        "string": "O Sr. José Luís Nunes (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito obrigado!\nO Orador - Sim, pode agradecer, mas eu já não tenho que lhe agradecer a\n\nmesma atitude ..."
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 21,
+      "speaker": {
+        "id": 251,
+        "name": "José Luís Do Amaral Nunes",
+        "party": "PS",
+        "string": "O Sr. José Luís Nunes (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pois não!"
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 21,
+      "speaker": {
+        "id": 28,
+        "name": "Amândio Anes De Azevedo",
+        "party": "PPD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "..., uma vez que o PS considera que as suas opiniões são as únicas boas e que os outros, quando têm uma opinião diferente, violam a Constituição.\n\nNós tomámos uma posição com base em argumentos sólidos, que explicitámos devidamente. A solução que defendemos é aquela que está mais de acordo com os\n\nprincípios, com as regras constitucionais, com a moralidade política e\n\nconstitucional.\n\nSempre foi este o nosso comportamento e continuará a sê-lo e sobretudo\n\nnão temos lições nenhumas a receber da parte do PS.\n\nreformadores,"
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Veiga de Oliveira."
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 21,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. Veiga de Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Votámos pela legalidade das substituições e queremos deixar claras algumas das razões por que o fizemos, sem termos de repetir, desnecessariamente, o que já dissemos na Comissão de Verificação de Poderes.\n\nA primeira questão que quero abordar é a da chamada inconstitucionalidade, arguida pelo Sr. Deputado Salgado Zenha. 15to é manifestamente inaceitável porque tudo o que a Constituição diz é que a lei regulará a forma como os Deputados são substituídos e, quando muito, o que poderia haver era uma violação da lei e não da Constituição."
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP e do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 21,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, a primeira questão que fica clara para nós é que neste caso não pode haver, quaisquer que sejam as interpretações que se queira fazer, nenhuma inconstitucionalidade.\n\nÉ óbvio que para nós existe na Lei Eleitoral a possibilidade de formação de coligações eleitorais e que esta determina expressamente no n.º 2 do artigo 22.º, que essas coligações eleitorais cessam com a publicação dos resultados eleitorais. 15to é, após a publicação dos resultados eleitorais emergem das eleições os partidos, que, como diz a Constituição, concorreram isoladamente ou em lista conjunta às eleições referidas. E a expressão «lista conjunta» tem também aqui grande importância porque se trata, afinal, do conjunto de várias listas de vários partidos, e é por isso que na lei está expressamente «lista conjunta» e não «lista unitária», como o Sr. Deputado"
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Rui Pena para uma declaração de voto."
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 22,
+      "speaker": {
+        "id": 355,
+        "name": "Rui Eduardo Ferreira Rodrigues Pena",
+        "party": "CDS",
+        "string": "O Sr. Rui Pena (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A minha declaração de voto é muito simples.\n\nEstamos finalmente constituídos como Assembleia da República. Este facto merece naturalmente o devido realce, porquanto põe termo ao longo hiato que precedeu esta constituição desde a dissolução da Assembleia no Verão passado.\n\nÉ por isso para nós motivo de grande alegria encontrarmo-nos hoje aqui.\n\nGostaria que todos nós, Deputados eleitos pelo povo português, que constituímos esta Assembleia da República, neste momento em que nos sentamos firmes nos lugares que os Portugueses nos destinaram, fizéssemos um voto; um voto democrático pelo bom trabalho desta Assembleia, pela perenidade do nosso país e pela melhoria da situação de todos os portugueses. Desde já devo dizer que a constituição desta Assembleia é um bom indício, acrescentado pela tomada de, posse do VI Governo Constitucional, acontecida esta manhã."
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Mário Tomé, também para uma declaração de voto."
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 22,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Sr. Mário Tomé (UDP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Eu não iria ler qualquer declaração de voto enquanto elas se mantiveram ao nível que o Sr. Deputado Rui Pena agora ultrapassou. Mas, dado que foi feita uma declaração que considero eminentemente política, como é o caso da declaração expressa pelo Sr. Deputado Rui Pena congratulando-se com a situação em que nos encontramos, eu não posso deixar de fazer uma declaração de voto, até porque me abstive e portanto também votei.\n\nAtravés do Deputado independente que aqui a representa, a União Democrática Popular, embora não aceitando a legitimidade constitucional de certas elegibilidades, algumas há pouco referidas por outros partidos, não votou contra o parecer da Comissão de Verificação de Poderes.\n\nEntretanto, teremos de acrescentar alguma coisa mais, de modo que a nossa posição sobre a composição da Assembleia fique claramente expressa, pois desta posição decorrerão necessariamente atitudes e comportamentos futuros que desejamos ver compreendidos por todos, que não compartilhados, como aliás será de esperar.\n\nEm primeiro lugar, deixaremos bem expresso que a vontade maioritária desta câmara não corresponde à vontade maioritária do povo português que nos elegeu."
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 22,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "As forças de direita agrupadas na aliança reaccionária não obtiveram a maioria dos votos."
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, desculpe interrompê-lo, mas tenho de lhe chamar a atenção para o facto de que se está a desviar do problema em causa, que é a declaração de voto referente ao relatório que foi discutido e votado."
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 22,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, eu comecei por referir, antes de ler a minha declaração, que só o fazia depois de ter ouvido a declaração feita pelo Sr. Deputado Rui Pena."
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Está certo, Sr. Deputado, mas o problema não é esse.\n\nNós estivemos a discutir um relatório da Comissão de Verificação de Poderes, procedeu-se à sua votação e agora estamos a fazer as declarações de voto referentes a esse relatório.\n\nO problema que o Sr. Deputado está a tratar deveria ser objecto de uma intervenção, que poderá fazer oportunamente numa outra reunião."
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 22,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, se é legítimo o Sr. Deputado Rui Pena congratular-se da forma como o fez pela composição desta Assembleia e pelos sucessos sucessivos que levaram à situação que agora estamos a Viver, também é absolutamente legítimo que eu declare aquilo que penso sobre esta situação."
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, o que pretende fazer é perfeitamente legítimo, desde que seja na altura própria, isto é, quando o Regulamento estabelece que assim seja. Foi isto o que eu há pouco disse ao"
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 23,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como eu estava dizendo, as forças da direita agrupadas na aliança reaccionária não obtiveram a maioria dos votos."
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 23,
+      "speaker": {
+        "id": 35,
+        "name": "José Ângelo Ferreira Correia",
+        "party": "PPD",
+        "string": "O Sr. Ângelo Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, mas o que é isto?!"
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 23,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não somos tentados a pensar que isso constitua obstáculo à ofensiva reaccionária que irá ser desencadeada a partir deste lugar."
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Mário Tomé, peço desculpa de o interromper novamente, mas pedia-lhe o favor de ter em atenção o que diz o n.º 3 do artigo 102.º do Regimento, que é o seguinte: «O orador será advertido pelo Presidente quando se desviar do assunto em discussão ou quando o discurso se torne injurioso ou ofensivo ... »\n\nPortanto, como vê, não posso permitir que o Sr. Deputado se alongue nesse assunto, visto que está fora da ordem de trabalhos."
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 23,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, então não me vou alongar. Em meu nome e em nome do partido que represento aqui na Assembleia vou apenas dizer que não me posso congratular de forma alguma com a composição desta Assembleia."
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, tenho muita pena que logo na primeira vez que usa da palavra eu tenha de o interromper, mas efectivamente o Sr. Deputado está completamente fora da ordem de trabalhos.\n\nPortanto pedia-lhe um pouco de compreensão. A Assembleia tem um Regimento e nós temos de obedecer ao que ele diz. Neste sentido, pedia-lhe que terminasse as suas considerações.\n\nO Sr. Deputado pode perfeitamente, aliás tem toda a legitimidade para isso fazer essa declaração numa outra ocasião que seja mais propícia."
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 23,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Então o Sr. Presidente não me permite que eu continue no uso da palavra?"
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, eu até tinha vontade de permitir, simplesmente a lei não me deixa. Não sou eu que não permito, é a lei desta Casa. O Regimento no n.º 3 do artigo 102.º, não permite que o Sr. Deputado continue no uso da palavra para tratar de um assunto que está fora da ordem de trabalhos."
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 23,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Então eu terei de obedecer à determinação do Sr. Presidente."
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Parece-me que é o melhor.\n\nTem agora a palavra o Sr. Deputado Pedro Roseta."
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 23,
+      "speaker": {
+        "id": 344,
+        "name": "Pedro Manuel Cruz Roseta",
+        "party": "PPD",
+        "string": "O Sr. Pedro Roseta (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Eu tinha pensado pedir a palavra para protestar, mas vou fazer apenas um apelo. Um apelo que vai no sentido de se manter nesta Câmara, em que evidentemente há muitos Deputados que não estavam na Assembleia anterior, a praxe que tinha sido acordada de se tratarem os partidos e as alianças pelos nomes reconhecidos legalmente. E isto para que não haja entre nós um clima de insulto que não prestigia as instituições e creio que todos nós estaremos interessados em prestigiar as instituições democráticas."
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 23,
+      "speaker": {
+        "id": 35,
+        "name": "José Ângelo Ferreira Correia",
+        "party": "PPD",
+        "string": "O Sr. Ângelo Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 23,
+      "speaker": {
+        "id": 344,
+        "name": "Pedro Manuel Cruz Roseta",
+        "party": "PPD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade que nós poderíamos retorquir com outros insultos mais ou menos horríveis sobre o seu partido ou outros partidos e sobre as teorias que defendem, mas não pretendemos enveredar por esse caminho.\n\nInteressa, pois, que se mantenha a cordialidade nas relações entre Deputados que foi praxe nas assembleias anteriores, pelo menos, poderia dizer quase sempre. Neste sentido, apelo para que os partidos sejam efectivamente chamados pela sua designação própria e não por invenções de ocasião, subjectivas, de cada um."
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Informo os Srs. Deputados de que a eleição do Presidente da Assembleia da República, dos Vice-Presidentes e dos Secretários e Vice-Secretários fica marcada para o próximo dia 8. A reunião far-se-á à hora normal, começando portanto às 15 horas.\n\nAviso os Srs. Deputados de que as candidaturas têm de ser apresentadas com quarenta e oito horas de antecedência, como manda o Regimento e como todos sabemos. O prazo termina amanhã, sexta-feira.\n\nPortanto, a ordem de trabalhos para a próxima reunião é a eleição que acabei de anunciar."
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 23,
+      "speaker": {
+        "id": 355,
+        "name": "Rui Eduardo Ferreira Rodrigues Pena",
+        "party": "CDS",
+        "string": "O Sr. Rui Pena (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 166,
+      "order": 166,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tenha a bondade, Sr. Deputado."
+    },
+    {
+      "utterance_id": 167,
+      "order": 167,
+      "page_start": 23,
+      "speaker": {
+        "id": 355,
+        "name": "Rui Eduardo Ferreira Rodrigues Pena",
+        "party": "CDS",
+        "string": "O Sr. Rui Pena (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Deu entrada na Mesa uma série de iniciativas dos grupos parlamentares que integram a Aliança Democrática. Eu gostaria que V. Ex.ª, como é do uso regimental, anunciasse essas iniciativas."
+    },
+    {
+      "utterance_id": 168,
+      "order": 168,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Rui Pena, o que foi estabelecido na reunião dos representantes dos grupos parlamentares foi que a Mesa não desse entrada a nenhuma documentação na reunião de hoje. Querem continuar a respeitar o que foi estabelecido?"
+    },
+    {
+      "utterance_id": 169,
+      "order": 169,
+      "page_start": 23,
+      "speaker": {
+        "id": 355,
+        "name": "Rui Eduardo Ferreira Rodrigues Pena",
+        "party": "CDS",
+        "string": "O Sr. Rui Pena (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Naturalmente, Sr. Presidente."
+    },
+    {
+      "utterance_id": 170,
+      "order": 170,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Está, portanto, encerrada a sessão."
+    }
+  ]
+}

@@ -1,0 +1,3526 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "2",
+    "legislative_session": "3",
+    "number": "25",
+    "date": "1982-12-16"
+  },
+  "debate_id": "r3_2_3_25_1982-12-16",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 889,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.\nEram 15 horas e 30 minutos.\nEstavam presentes os seguintes Srs. Deputados:\nPartido Social-Democrata (PSD):\nAdérito Manuel Soares Campos. \n\nAfonso de Sousa Freire Moura Guedes. \n\nÁlvaro Barros Marques Figueiredo. \n\nAmândio Anes de Azevedo. \n\nAmadeu Afonso Rodrigues dos Santos. \n\nAmélia Cavaleiro M. Andrade Azevedo."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 891,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o Sr. Secretário Reinaldo Gomes vai ler o expediente.\nDeu-se conta do seguinte\nExpediente\nCarta\nDe Silvério Domingues, residente em Vagos, solicitando que sejam prestados esclarecimentos quanto à anunciada proposta de lei que permitirá legalizar os registos daqueles que se encontram como filhos de pai incógnito.\nOfícios\nDas Câmaras Municipais de Almada e Grândola, remetendo fotocópias de moções aprovadas pelos reformados daqueles concelhos em reuniões realizadas no passado dia 27 de Novembro.\n\nDo Sindicato dos Trabalhadores da Indústria de Conservas do Norte do País, remetendo em anexo uma moção aprovada pelos trabalhadores da firma GELMAR, delegação de Matosinhos, no plenário geral realizado no passado dia 24 de Novembro.\n\nDo Sindicato dos Jornalistas com sede em Lisboa, lembrando aos Srs. Deputados o direito de estes exigirem que o próximo Orçamento Geral do Estado para 1983, contenha as necessárias verbas para o funcionamento da ANOP/E.P.\n\nDa Federação dos Sindicatos da Metalúrgica, Metalomecânica e Minas de Portugal, com sede em Lisboa, enviando um exemplar contendo as conclusões do 1.º Encontro de Higiene e Segurança no Trabalho e Prevenção, que realizou no passado dia 16 de Outubro.\n\nDa União dos Sindicatos de Vila Franca de Xira, remetendo moção sobre a República Popular de Angola, datada de 10 de Novembro findo.\n\nDo Sindicato dos Operários Corticeiros do Norte, com sede em Santa Maria de Lamas, remetendo duplicados dos moções aprovadas em plenário dos reformados pensionistas e idosos, que se realizou nos dias 21 e 27 de Novembro findo.\n\nDa Junta de Freguesia de Romariz, remetendo em anexo fotocópia de um outro enviado ao presidente da assembleia daquela freguesia, sobre a construção da denominada «Variante de Romariz».\n\nDa Assembleia Municipal de Loures, incluindo fotocópia de moção aprovada por unanimidade na sessão extraordinária que se realizou no dia 16 de Novembro findo, sobre a agressão de que foi vítima o Sr. Vereador da Câmara Municipal de Loures arquitecto António Carvalho.\n\nDa Assembleia de Freguesia de Venteira, concelho da Amadora, enviando fotocópias de moções que foram aprovadas na reunião realizada no passado dia 16 de Novembro, exigindo que o Governo mande proceder à instalação naquele concelho dos serviços de finanças e Tribunal Judicial."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 892,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Reinaldo Gomes)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, na anterior reunião plenária foram apresentados os seguintes requerimentos: ao Governo, formulado pelo Sr. Deputado Jorge Lemos; ao Ministério dos Assuntos Sociais, formulado pelo Sr. Deputado António Arnaut; ao Ministério dos Negócios Estrangeiros, formulado pela Sr.» Deputada Teresa Ambrósio e outros; ao Governo, a diversos Ministérios e à Radiotelevisão Portuguesa (9), formulados pelo Sr. Deputado Magalhães Mota, e ao Centro de Estudos Judiciários, formulados pelos Srs. Deputados José Manuel Mendes, Lino Lima, Zita Seabra e Vidigal Amaro."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 892,
+      "speaker": {
+        "id": 230,
+        "name": "Jorge Manuel Abreu De Lemos",
+        "party": "PCP",
+        "string": "O Sr. Jorge Lemos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 892,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Jorge Lemos, o seu pedido de palavra é para que efeito?"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 892,
+      "speaker": {
+        "id": 230,
+        "name": "Jorge Manuel Abreu De Lemos",
+        "party": "PCP",
+        "string": "O Sr. Jorge Lemos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é para fazer uma sugestão à Mesa.\n\nNa sequência de uma deliberação unânime assumida ontem na Comissão de Cultura e Ambiente e depois de uma auscultação dos dirigentes dos grupos parlamentares, verifica-se que há consenso para que seja discutido - ainda que não abrindo precedente de ordem de entrada - o voto de protesto pendente na Assembleia sobre a prisão do nosso compatriota Sérgio Godinho, no Brasil.\n\nPedi, portanto, a palavra para comunicar isto a V. Ex.ª"
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 892,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, peço-lhe que aguarde alguns momentos enquanto o serviço de apoio ao Plenário faz chegar à Mesa o texto desse voto de protesto.\nPausa.\nPor razões meramente de ordem formal, peço aos restantes grupos parlamentares a confirmação do que foi referido pelo Sr. Deputado Jorge Lemos, obviamente sem que isto represente pôr em dúvida o que o Sr. Deputado disse."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 892,
+      "speaker": {
+        "id": 107,
+        "name": "Carlos Cardoso Lage",
+        "party": "PS",
+        "string": "O Sr. Carlos Lage (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, por razões que já expusemos pormenorizadamente em ocasião anterior equivalente a esta, nós estamos de acordo em que se agende e vote imediatamente esse voto de protesto pela prisão de Sérgio Godinho."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 892,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Américo de Sá (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, o CDS também dá o seu acordo quanto ao agendar desse voto, independentemente da orientação de voto."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 892,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Qual é a posição do PSD?"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 892,
+      "speaker": {
+        "id": 28,
+        "name": "Amândio Anes De Azevedo",
+        "party": "PSD",
+        "string": "O Sr. Amândio de Azevedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Desculpe-me, Sr. Presidente, mas eu estava exactamente neste momento a ler o voto e não sei qual é a sua pergunta."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 892,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, na sequência da informação prestada pelo Sr. Deputado Jorge Lemos, segundo a qual em sede de Comissão de Cultura e Ambiente se estabeleceu consenso no sentido de o voto ser discutido e votado hoje, sem que isso constitua precedente em relação à ordem de precedência dos votos anteriormente entrados e que estão por discutir e votar, gostaria de saber qual é a posição do Grupo Parlamentar do PSD."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 892,
+      "speaker": {
+        "id": 28,
+        "name": "Amândio Anes De Azevedo",
+        "party": "PSD",
+        "string": "O Sr. Amândio de Azevedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, se assim foi, naturalmente o PSD mantém a sua posição e não levanta qualquer obstáculo."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 892,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "E o PPM?"
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 892,
+      "speaker": {
+        "id": 878,
+        "name": "António Cardoso Moniz",
+        "party": "PPM",
+        "string": "O Sr. António Moniz (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, O PPM concorda, simplesmente o que parece que ficou combinado foi que não seria um voto de protesto. Seria, sim, um voto a pedir a libertação de Sérgio Godinho, o que é diferente."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 892,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Esse é um aspecto formal a resultar já do próprio debate do voto, Sr. Deputado.\n\nEntretanto, quer a UEDS, quer a ASDI, manifestaram já a sua concordância. O MDP/CDE e a UDP não estão presentes, pelo que não se podem manifestar.\n\nForam assim ouvidos todos os partidos presentes, razão por que ponho em debate o voto de protesto.\nPausa.\nComo não há inscrições, vamos votar."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 892,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, se me permite, ao abrigo das disposições regimentais, o meu grupo parlamentar requer a suspensão da sessão por 15 minutos."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 892,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Com certeza, Sr. Deputado. Recomeçaremos os nossos trabalhos às 15 horas e 55 minutos. Está suspensa a sessão.\nEram 15 horas e 40 minutos."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 892,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está reaberta a sessão.\nEram 16 horas."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 892,
+      "speaker": {
+        "id": 107,
+        "name": "Carlos Cardoso Lage",
+        "party": "PS",
+        "string": "O Sr. Carlos Lage (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente"
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 892,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 892,
+      "speaker": {
+        "id": 107,
+        "name": "Carlos Cardoso Lage",
+        "party": "PS",
+        "string": "O Sr. Carlos Lage (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é só para comunicar à Mesa e à Câmara que fizemos uma"
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 893,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Uma vez que, tal como foi afirmado pelo Sr. Deputado Carlos Lage, este voto reúne consenso de todos os partidos, vamos continuar o debate do voto mesmo sem possuirmos ainda o texto, que será distribuído logo que seja possível."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 893,
+      "speaker": {
+        "id": 434,
+        "name": "Fernando Dos Reis Condesso",
+        "party": "PSD",
+        "string": "O Sr. Fernando Condesso (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 893,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 893,
+      "speaker": {
+        "id": 434,
+        "name": "Fernando Dos Reis Condesso",
+        "party": "PSD",
+        "string": "O Sr. Fernando Condesso (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Pedi a palavra para desde já declarar que prescindimos da distribuição de cópia do texto e também para informar -para que fique registado no Diário - que a direcção da minha bancada decidiu dar liberdade de voto aos deputados do Partido Social-Democrata sobre esta matéria."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 893,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Américo de Sá (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Peço também a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 893,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 893,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Américo de Sá (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, é também para declarar que nós prescindimos igualmente da distribuição do texto do voto, uma vez que já temos conhecimento dele, e que também da nossa parte há liberdade de voto para os deputados do meu partido, que podem votar conforme entenderem e de acordo com a sua consciência."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 893,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Foi manifestado à Mesa pelos restantes grupos parlamentares a dispensa da distribuição do texto do voto, portanto podemos continuar o debate.\nPausa.\nComo ninguém pede a palavra, vamos proceder à votação do voto de protesto.\nSubmetido à votação, foi aprovado, com 76 votos a favor (do PSD, do PS, do CDS, do PCP, da ASDI, da UEDS e do MDP/CDE), 5 votos contra (do PSD) e 7 abstenções (do PSD e do CDS), registando-se a ausência da UDP."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 893,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma declaração de voto, tem a palavra o Sr. Deputado Manuel Alegre."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 893,
+      "speaker": {
+        "id": 285,
+        "name": "Manuel Alegre De Melo Duarte",
+        "party": "PS",
+        "string": "O Sr. Manuel Alegre (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Naturalmente votámos a favor deste voto de protesto subscrito por diversas bancadas e congratulamo-nos com o larguíssimo consenso que ele mereceu nesta Assembleia.\n\nComo se sabe, Sérgio Godinho foi preso em condições que não estão esclarecidas, mas o que se sabe através das suas próprias declarações é que ele foi submetido a maus tratos e à tortura, o que representa uma violação dos direitos do homem.\n\nSabe-se ainda que sua mulher, aqui em Lisboa, tem sido submetida a pressões, ameaças e mesmo a intimidações, o que é verdadeiramente intolerável e requer uma atitude enérgica por parte das autoridades portuguesas.\n\nSérgio Godinho é, antes de mais, um cidadão português, mas não é um cidadão qualquer: é uma grande figura da música ligeira portuguesa e a sua situação está a causar naturais preocupações nos meios culturais portugueses e brasileiros.\n\nForam feitos 2 requerimentos por deputados de diferentes bancadas desta Assembleia dirigidos ao Sr. Ministro dos Negócios Estrangeiros, mas estranhamente não foi recebida ainda qualquer resposta, de modo que nós continuamos sem saber quais as diligências que foram feitas pela diplomacia portuguesa - se é que algumas diligências foram feitas!...\n\nEsta situação corre o risco de afectar, de ensombrar e de deteriorar gravemente as relações culturais luso-brasileiras, tanto mais que as autoridades brasileiras parecem indiferentes a apelos subscritos por figuras destacadas da cultura dos 2 países.\n\nNós renovamos aqui a nossa preocupação. Fez-se já sentir a voz de grandes figuras da cultura portuguesa, de Miguel Torga a Agustina Bessa Luís, passando por muitos outros nomes da literatura e dos meios artísticos nacionais. O Brasil não pode continuar indiferente a este nosso apelo e nós renovamos aqui, em nome da bancada do Partido Socialista, o nosso apelo para uma rápida solução deste caso e a urgente libertação de Sérgio Godinho, isto a fim de que a fraternidade luso-brasileira não seja uma figura de retórica e seja capaz de estar"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 894,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Costa Pereira."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 894,
+      "speaker": {
+        "id": 899,
+        "name": "Bernardino Da Costa Pereira",
+        "party": "PSD",
+        "string": "O Sr. Costa Pereira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É para uma declaração de voto, Sr. Presidente.\nSr. Presidente, Srs. Deputados: Eu abstive-me nesta votação em virtude de a direcção do meu grupo parlamentar ter dado..."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 894,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "UEDS",
+        "string": "O Sr. Lopes Cardoso (UEDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra para interpelar a Mesa, Sr. Presidente.\n\nÉ que o Sr. Deputado pediu a palavra para fazer uma declaração de voto em nome do seu grupo parlamentar, intervém, mas se a pediu para fazer uma declaração de voto individual, enviá-la-á para a Mesa por escrito."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 894,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Um momento, Sr. Deputado Lopes Cardoso. A Mesa vai informar-se dessa questão.\n\nEntretanto, chamo a sua atenção -e a dos outros deputados- para o facto de que só usarão da palavra quando a Mesa lhe a conceder."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 894,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "UEDS",
+        "string": "O Sr. Lopes Cardoso (UEDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dá-me a palavra, Sr. Presidente?"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 894,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Não, Sr. Deputado. Não dou porque vou examinar a situação que V. Ex.ª levantou e que pode ser pertinente.\nPausa.\nSr. Deputado Costa Pereira, a sua declaração de voto, se for a título individual, nos termos do artigo 100.º do Regimento, deve ser enviada por escrito à Mesa, visto que as declarações de voto a prestar oralmente são de facto dos grupos parlamentares."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 894,
+      "speaker": {
+        "id": 899,
+        "name": "Bernardino Da Costa Pereira",
+        "party": "PSD",
+        "string": "O Sr. Costa Pereira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Assim farei, Sr. Presidente."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 894,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Estavam inscritos a seguir, para declarações de voto em nome dos respectivos grupos parlamentares, os Srs. Deputados Carlos Robalo e Vítor Crespo, que, entretanto, fizeram saber à Mesa que prescindiam do uso da palavra.\n\nAssim sendo, tem agora a palavra o Sr. Deputado César Oliveira."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 894,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. César Oliveira (UEDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: A UEDS congratula-se com a aprovação deste voto de protesto, que tem por objectivo, por um lado, a manifestação das preocupações desta Câmara pela situação em que se encontra o cantor Sérgio Godinho, pelo modo como tem sido tratado pelas autoridades brasileiras, e, por outro lado, a solicitação ao Governo Português de que redobre os esforços que porventura já tenha encetado, mas que se desconhece se resultaram nalgum benefício para Sérgio Godinho.\n\nA UEDS quer ainda salientar que, sempre e em todas as circunstâncias, tem votado coerentemente nesta Assembleia pela liberdade dos cidadãos, pelo exercício dos seus direitos, e, sobretudo, em situações em que tais direitos e garantias têm sido postos em causa. É o caso concreto do cantor Sérgio Godinho, que declarou num tribunal que tinha sido objecto de torturas e sevícias, factos a que a UEDS não pode ficar insensível, manifestando por isso o seu protesto.\n\nNa verdade, Sr. Presidente e Srs. Deputados, não se compreende o encarniçamento de que as autoridades brasileiras dão mostras no caso de Sérgio Godinho. Não se compreende por que é que Sérgio Godinho tem sido objecto das medidas que contra ele têm sido perpetradas. A este propósito, recordarei que, aqui há alguns anos, quando Jorge Amado veio a Lisboa e foi obrigado pela PIDE a não sair do aeroporto, permanecendo lá, também nessa altura vários intelectuais portugueses, vários cidadãos portugueses, protestaram contra essa medida arbitrária da polícia política portuguesa, protesto esse que encontrou eco nos intelectuais e no povo brasileiro, que então teve ocasião de se manifestar.\n\nO nosso voto foi, pois, um voto coerente pela liberdade e pela democracia e concretamente pela libertação imediata de Sérgio Godinho."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 894,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra a Sr.ª Deputada Helena Cidade Moura."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 894,
+      "speaker": {
+        "id": 446,
+        "name": "Helena Tâmega Cidade Moura",
+        "party": "MDP/CDE",
+        "string": "A Sr.ª Helena Cidade Moura (MDP/CDE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: O MDP/CDE congratula-se também pela forma como esta Assembleia assumiu a responsabilidade de criticar uma violação dos direitos do homem. Neste momento esse homem é um cantor, e é português, e é uma voz do 25 de Abril.\n\nPor tudo isso a nossa sensibilidade está mais apurada e os movimentos de protesto foram mais unânimes.\n\nA verdade é que, infelizmente, o povo brasileiro - para além de Sérgio Godinho- sofre de há muito a tortura nas cadeias. E também a esse povo brasileiro que neste momento eu quero juntar a minha voz de protesto pela prisão de Sérgio Godinho, como símbolo das ditaduras que não dão a liberdade de expressão às pessoas."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 894,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 894,
+      "speaker": {
+        "id": 876,
+        "name": "Amadeu Afonso Rodrigues Dos Santos",
+        "party": "PSD",
+        "string": "O Sr. Amadeu dos Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 894,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado Amadeu dos Santos pede a palavra para que efeito?"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 894,
+      "speaker": {
+        "id": 876,
+        "name": "Amadeu Afonso Rodrigues Dos Santos",
+        "party": "PSD",
+        "string": "O Sr. Amadeu dos Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É para anunciar que irei entregar na Mesa uma declaração de voto por escrito sobre o porquê do meu voto favorável."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 894,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Perfeitamente, Sr. Deputado."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 895,
+      "speaker": {
+        "id": 230,
+        "name": "Jorge Manuel Abreu De Lemos",
+        "party": "PCP",
+        "string": "O Sr. Jorge Lemos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente, Sr. Presidente.\nSr. Presidente, Srs. Deputados: Também o Grupo Parlamentar do PCP quer congratular-se com a aprovação pela Assembleia da República deste voto de protesto contra a prisão pelas autoridades brasileiras do cantor e figura da cultura portuguesa, que é o Sérgio Godinho.\n\nNós pensamos que, mais do que a posição que, como deputados, acabamos de assumir, demos expressão, na Assembleia da República, ao grito do povo português e do povo brasileiro, das suas mais altas figuras da cultura e da intelectualidade, pela libertação deste nosso compatriota. Compatriota nosso que, em Portugal e no Brasil, sempre esteve ao lado da luta pela democracia e da luta pela liberdade. E, talvez por isso mesmo, a ditadura brasileira o tenha submetido - como ele próprio o referiu - a sevícias e a torturas, tentando obter, como tenta obter dos patriotas brasileiros, determinado tipo de confissões.\n\nQueríamos também aproveitar esta oportunidade para referir que a prisão de Sérgio Godinho está inserida numa linha de violações das liberdades e dos direitos fundamentais do povo brasileiro praticadas pela ditadura, a qual as continua a praticar apesar da severa derrota que sofreu nas últimas eleições realizadas no Brasil.\nma palavra não pode deixar de ser aqui proferida sobre a atitude antidemocrática e ilegal da prisão dos dirigentes do Comité Central do Partido Comunista Brasileiro pelos agentes da ditadura.\n\nPortanto, a atitude que acabámos de assumir neste momento, para além de representar a nossa vontade e determinação para que o nosso compatriota Sérgio Godinho seja posto em liberdade, é também uma manifestação de solidariedade para com a luta do povo brasileiro pelas liberdades, contra a ditadura."
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 895,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Sr. Mário Tomé (UDP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 895,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado Mário Tomé pede a palavra para que efeito?"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 895,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Sr. Mário Tomé (UDP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 895,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, apreciaremos essa questão na reunião dos grupos parlamentares, a qual está convocada para as 17 horas e 30 minutos."
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 895,
+      "speaker": {
+        "id": 230,
+        "name": "Jorge Manuel Abreu De Lemos",
+        "party": "PCP",
+        "string": "O Sr. Jorge Lemos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Penso que não terá outro efeito útil senão..."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 895,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Com certeza, Sr. Deputado. Discutiremos o alcance e as consequências do voto nessa mesma reunião.\n\nO Sr. Deputado Mário Tomé pede a palavra para que efeito?"
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 895,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Sr. Mário Tomé (UDP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Era para solicitar que, em virtude de não poder ter estado presente à votação por me encontrar na Comissão de Inquérito ao caso de Camarate, a Mesa fizesse o favor de considerar a UDP como tendo apoiado esse voto..."
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 895,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado não pode prestar declaração de voto sobre um voto que não prestou! Pode, sim, enviar para a Mesa uma qualquer comunicação que entenda e a Mesa considerará depois a sua aceitabilidade. O que não posso é dar-lhe a oportunidade de prestar uma declaração de voto ou de, neste momento, fazer uma intervenção equivalente em relação a um voto que V. Ex.ª não pôde prestar, ainda que pelas mais louváveis ou justificáveis razões."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 895,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Sr. Mário Tomé (UDP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente..."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 895,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Não lhe dou a palavra!"
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 895,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Sr. Mário Tomé (UDP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas estou a interpelar a Mesa!\nHá aqui um equívoco. Não estou a fazer nenhuma declaração de voto, Sr. Presidente. Estava a solicitar à Mesa que considerasse que a UDP se associa..."
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 895,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "A UDP não pode, posteriormente a um voto, associar-se-lhe senão em termos de declaração de voto.\nNão aceito a sua declaração. Não lhe dou a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 895,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Sr. Mário Tomé (UDP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Oh, Sr. Presidente!..."
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 895,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Não lhe dou a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 895,
+      "speaker": {
+        "id": 230,
+        "name": "Jorge Manuel Abreu De Lemos",
+        "party": "PCP",
+        "string": "O Sr. Jorge Lemos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço também a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 895,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Um momento, Sr. Deputado Mário Tomé.\nPara que efeito pede a palavra, Sr. Deputado Jorge Lemos?"
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 895,
+      "speaker": {
+        "id": 230,
+        "name": "Jorge Manuel Abreu De Lemos",
+        "party": "PCP",
+        "string": "O Sr. Jorge Lemos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, embora já não faça parte da declaração de voto, gostaria de comunicar à Mesa que é nosso entendimento que o voto irá ser de imediato comunicado à Embaixada Brasileira e ao Governo Brasileiro. Apesar de tal não constar do voto, penso ter sido esse o sentido da Assembleia da República."
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 895,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Sr. Mário Tomé (UDP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não sei se o Sr. Presidente está mal disposto! Eu não estava a fazer nenhuma declaração de voto!"
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 895,
+      "speaker": {
+        "id": 251,
+        "name": "José Luís Do Amaral Nunes",
+        "party": "PS",
+        "string": "O Sr. José Luís Nunes (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 895,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 895,
+      "speaker": {
+        "id": 251,
+        "name": "José Luís Do Amaral Nunes",
+        "party": "PS",
+        "string": "O Sr. José Luís Nunes (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: \nO Sr. Deputado Mário Tomé, como esclareceu a esta Assembleia, encontrava-se presente na Comissão de Inquérito ao caso de Camarate. Não estava,"
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 896,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, a Mesa já decidiu que nestas circunstâncias, encerrado o debate e feita a votação, qualquer intervenção é pura e simplesmente uma declaração de voto. Chamem VV. Ex.as o que chamarem, o que é certo é que não passa de uma declaração de voto."
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 896,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 896,
+      "speaker": {
+        "id": 251,
+        "name": "José Luís Do Amaral Nunes",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Estar a esclarecer as razões por que se votou ou não votou, a circunstância por que foi obrigado a estar ausente e não pôde, portanto, tomar parte numa votação, é, para mim, no fundo, uma declaração de voto. Essa é a razão por que a Mesa tomou aquela deliberação, a qual não altera, mas que, como todas, é passível de recurso."
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 896,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Sr. Mário Tomé (UDP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, queria recorrer dessa decisão para o Plenário, pois considero que não estava a fazer, nenhuma declaração de voto; estava apenas a prestar um esclarecimento à Mesa e a solicitar que a Mesa considerasse que a minha ausência..."
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 896,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado interpôs recurso da decisão da Mesa. A Mesa submeterá o recurso à votação do Plenário, o qual decidirá. Se o recurso for provido, V. Ex.» prestará imediatamente a declaração de voto que pretende. Agora, o que a Mesa não altera é a interpretação que deu à sua pretensão de uso da palavra.\nPausa.\nSrs. Deputados, há um recurso da decisão da Mesa interposto pelo Sr. Deputado Mário Tomé. Vamos votar esse recurso.\n\nSubmetido à votação, foi aprovado, com 71 votos a favor (do PS, do PCP, da ASDI, da UEDS, do MDP/CDE, da UDP, de alguns deputados do CDS e do Sr. Deputado PPM, Barrilaro Ruas), 40 votos contra (do PSD e do Sr. Deputado do PPM Borges de Carvalho) e 4 abstenções (de alguns deputados do CDS e do Sr. Deputado do PPM Sousa Lara)."
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 896,
+      "speaker": {
+        "id": 416,
+        "name": "António José Borges Gonçalves De Carvalho",
+        "party": "PPM",
+        "string": "O Sr. Borges de Carvalho (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 896,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 896,
+      "speaker": {
+        "id": 416,
+        "name": "António José Borges Gonçalves De Carvalho",
+        "party": "PPM",
+        "string": "O Sr. Borges de Carvalho (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É apenas para informar que, dos deputados presentes do meu partido, houve um voto a favor, um contra e uma abstenção."
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 896,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, muito obrigado pela sua informação, mas a Mesa já tinha registado.\nSr. Deputado Mário Tomé, como o seu recurso fez vencimento, tem V. Ex.ª a palavra para uma declaração sobre as circunstâncias por que esteve impedido de votar. Tem V. Ex.ª 3 minutos."
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 896,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Santana Lopes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 896,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado Santana Lopes pede a palavra para que efeito?"
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 896,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Santana Lopes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Desejava fazer uma declaração de voto."
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 896,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado Veiga de Oliveira pede a palavra também para uma declaração de voto?"
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 896,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. Veiga de Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente, Sr. Presidente."
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 896,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "E o Sr. Deputado Lopes Cardoso?"
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 896,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "UEDS",
+        "string": "O Sr. Lopes Cardoso (UEDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É igualmente para uma declaração de voto."
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 896,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, um momento porque a Mesa tem de verificar qual a ordem dos pedidos de palavra.\nPausa.\nA primeira inscrição para declaração de voto foi a do Sr. Deputado Lopes Cardoso. Tem V. Ex.ª a palavra durante 3 minutos."
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 896,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "UEDS",
+        "string": "O Sr. Lopes Cardoso (UEDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Votámos favoravelmente o recurso interposto pelo Sr. Deputado Mário Tomé pela simples razão de que ele tinha pretendido usar da palavra, no uso de um seu legítimo direito, para interpelar a Mesa e dela solicitar a possibilidade de prestar um esclarecimento e a consignação em acta desta sessão das circunstâncias que tinham impedido de estar presente a esta votação.\n\nCreio que é um direito que não lhe pode ser retirado e nenhuma interpretação do Regimento, por mais estreita e tacanha, podia ter conduzido a outra solução que não fosse conceder a palavra ao Sr. Deputado Mário Tomé.\n\nCongratulo-me pelo facto de a Assembleia assim o ter reconhecido e assim ter decidido."
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 896,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, a Mesa toma as suas decisões, as quais são passíveis de recurso, e assiste com interesse à decisão desses mesmos recursos. Todavia, a Mesa não se considera vencida nem vencedora, qualquer que seja a orientação que se tome.\n\nA Mesa não considera que, em circunstâncias"
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 897,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "UEDS",
+        "string": "O Sr. Lopes Cardoso (UEDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 897,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 897,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "UEDS",
+        "string": "O Sr. Lopes Cardoso (UEDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 897,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tenha a bondade, Sr. Deputado."
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 897,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "UEDS",
+        "string": "O Sr. Lopes Cardoso (UEDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Começaria por dizer ao Sr. Presidente que pode remeter a quem quiser, porque remeto da mesma forma!"
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 897,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS e do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 897,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "UEDS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Queria saber ao abrigo de que figura regimental é que a Mesa se permite fazer comentários - e já não é a primeira vez - às intervenções dos deputados."
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 897,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, porque a Mesa é presidida por um..."
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 897,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "UEDS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Presidente permite-me que acabe de interpelar a Mesa?"
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 897,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Eu explico-lhe, Sr. Deputado..."
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 897,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "UEDS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, se me permite que termine a interpelação à Mesa, eu termino. Se não me permite, obviamente que não termino!"
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 897,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Com certeza que permito, Sr. Deputado."
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 897,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "UEDS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se há uma nova figura -protesto da Mesa em relação às intervenções dos deputados -, então reivindico o direito para os deputados de contraprotestarem em relação aos comentários da Mesa.\n\nQueria, portanto, saber ao abrigo de que disposição do Regimento o Sr. Presidente comenta largamente as intervenções dos Srs. Deputados."
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 897,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, desde que V. Ex.ª se permitiu adjectivar a conduta e a interpretação do deputado que preside a esta Assembleia (que por ser Presidente da Assembleia não perdeu a sua qualidade de deputado e que não se considera -como ele próprio repetidamente o tem dito - mais do que alguém que se mantém entre os seus pares), considero que tenho todo o direito de reapreciar qualquer qualificação - sobretudo quando a considere injusta- que VV Ex.as façam às interpretações que a Mesa, no uso das suas competências, faça do Regimento."
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 897,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 897,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Foi no uso deste direito sagrado e inalienável que usei da palavra e me dirigi a V. Ex.ª\nSrs. Deputados, encerrado este incidente, tem a palavra o Sr. Deputado José Luís Nunes."
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 897,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "UEDS",
+        "string": "O Sr. Lopes Cardoso (UEDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É que não está encerrado o incidente! Não o considero encerrado!"
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 897,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado desculpe, mas tem a palavra o Sr. Deputado José Luís Nunes. V. Ex.ª interpelou a Mesa, teve a resposta."
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 897,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "UEDS",
+        "string": "O Sr. Lopes Cardoso (UEDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se o Sr. Presidente não me dá a palavra, registo que não me a quer dar!"
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 897,
+      "speaker": {
+        "id": 416,
+        "name": "António José Borges Gonçalves De Carvalho",
+        "party": "PPM",
+        "string": "O Sr. Borges de Carvalho (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Inscreva-se!"
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 897,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado José Luís Nunes."
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 897,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "UEDS",
+        "string": "O Sr. Lopes Cardoso (UEDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Registe-se que o Sr. Presidente não me concede a palavra."
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 897,
+      "speaker": {
+        "id": 416,
+        "name": "António José Borges Gonçalves De Carvalho",
+        "party": "PPM",
+        "string": "O Sr. Borges de Carvalho (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Você não é mais do que os outros! Inscreva-se!"
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 897,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "UEDS",
+        "string": "O Sr. Lopes Cardoso (UEDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tenha calma, Sr. Deputado!"
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 897,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, tenham a bondade de não estabelecer diálogo.\n\nO Sr. Deputado José Luís Nunes pediu a palavra para que efeito?"
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 897,
+      "speaker": {
+        "id": 251,
+        "name": "José Luís Do Amaral Nunes",
+        "party": "PS",
+        "string": "O Sr. José Luís Nunes (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é também para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 897,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 897,
+      "speaker": {
+        "id": 251,
+        "name": "José Luís Do Amaral Nunes",
+        "party": "PS",
+        "string": "O Sr. José Luís Nunes (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado Lopes Cardoso ao usar a expressão «estreita e tacanha» não se referiu, obviamente, à intervenção da Mesa; referiu-se simplesmente a uma interpretação in abstractum.\nSe por acaso a Mesa pensa que a sua intervenção foi «estreita e tacanha» tem, evidentemente, V. Ex.ª toda a capacidade para protestar em relação àquilo que foi dito pelo Sr. Deputado Lopes Cardoso e para esclarecer os seus pontos de vista."
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 897,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. César Oliveira (UEDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 897,
+      "speaker": {
+        "id": 251,
+        "name": "José Luís Do Amaral Nunes",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nós pensamos que o Sr. Deputado Lopes Cardoso estava aqui a fazer aquilo a que nós chamamos em Direito «uma mera hipótese jurídica»."
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 898,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado José Luís Nunes, não tenho nada a dizer-lhe que não seja agradecer a decisiva colaboração que V. Ex.ª prestou à atitude que a Mesa anteriormente tomou."
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 898,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 898,
+      "speaker": {
+        "id": 251,
+        "name": "José Luís Do Amaral Nunes",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tem a palavra o Sr. Deputado Santana Lopes, para uma declaração de voto."
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 898,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Santana Lopes (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, o Grupo Parlamentar do PSD votou contra o recurso da decisão da Mesa porque considera que apesar de o Sr. Deputado Mário Tomé não se ter podido pronunciar sobre o voto em apreço, e que foi alvo de votação nesta Assembleia, isso deveu-se a um facto que pode acontecer a todos e qualquer deputado. O que nem a Mesa nem a Assembleia têm a culpa é que o eleitorado só tenha colocado l deputado da UDP nesta mesma Assembleia.\n\nPor isso mesmo, o Sr. Deputado Mário Tomé pôde usar da palavra para interpelar a Mesa, fê-lo e só quando pretendia alargar as suas considerações para além da interpelação é que o Sr. Presidente lhe retirou a palavra."
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 898,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Sr. Mário Tomé (UDP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É mentira!"
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 898,
+      "speaker": {
+        "id": 251,
+        "name": "José Luís Do Amaral Nunes",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Assim, o Grupo Parlamentar do PSD apoiou a decisão da Mesa e considera estranha a decisão da Assembleia no sentido de abrir um precedente, mais um, de que quando um deputado não se pode pronunciar seja em que matéria for, por estar numa qualquer Comissão, quando chega ao Plenário passa a poder fazer considerações sobre as matérias que tenham sido discutidas.\nÉ um precedente que registamos. Não temos é culpa de que a UDP só tenha um deputado nesta Assembleia. Quanto a isso, o Sr. Deputado Mário Tomé que fale com o eleitorado.\n\nO Sr. Presidente: Veiga de Oliveira.\nTem a palavra o Sr. Deputado"
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 898,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. Veiga de Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nós, antes de tudo, queremos esclarecer que o nosso voto não pode ser entendido como nenhum precedente seja para quem for, que faça declaração de voto por votos em que não participou. Mas, em nosso entender, não era isso que estava em causa.\n\nO que estava em causa -e talvez tenha havido um mal-entendido por parte do Sr. Presidente da Assembleia- é que ficasse registado em acta, e que a Mesa assim o permitisse, e para esse efeito foi interpelada, pois foi o que nós entendemos, que a UDP, que não é um simples deputado, mas um partido aqui representado, que é um pouco mais do que ser um deputado, não estava na Sala porque estava presente em trabalhos de uma comissão de inquérito sobre o caso de Camarate. E isto porque não estando na Sala, naturalmente que não quereria ver essa ausência como uma interpretação falaciosa da sua posição quanto ao voto que tinha decorrido.\n\nQue eu saiba isto não é uma declaração de voto, mas é simplesmente a explicação de uma ausência não de um deputado qualquer, mas de um partido que faz parte dos partidos que estão representados nesta Assembleia."
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 898,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP, do PS e da UEDS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 898,
+      "speaker": {
+        "id": 251,
+        "name": "José Luís Do Amaral Nunes",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isto dito, entendemos que, efectivamente, há interpelações que muitas vezes são feitas com um sentido de declaração de voto, como também há declarações de voto que muitas vezes são feitas mais com um sentido de interpelação.\n\nEm todo o caso cabe, naturalmente, a todos nós e em especial ao Presidente da Assembleia da República velar para que os trabalhos decorram com alguma normalidade e, sobretudo, com o tempero e com o sossego que será sempre proveitoso para os trabalhos da Assembleia da República."
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 898,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 898,
+      "speaker": {
+        "id": 251,
+        "name": "José Luís Do Amaral Nunes",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Foi por isso que nós votámos a favor do recurso e congratulamo-nos por que através do recurso tenha sido permitido que a questão fosse sanada."
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 898,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP e da UEDS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 898,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Américo de Sá."
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 898,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Américo de Sá (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: Para dizer que Lês bons esprits se ren-contrent.\n\nEstamos realmente e perfeitamente de acordo neste caso, paradoxalmente, com o PCP.\n\nO nosso voto não foi, naturalmente, no sentido de entender, contra o Presidente, que não era possível fazer uma declaração de voto sobre um voto que se não fez. Estamos perfeitamente de acordo com essa interpretação. \nO Sr. Deputado Mário Tomé não esteve presente na votação, não votou e, por isso mesmo, não pode fazer uma declaração de voto, visto que esta é a explicação do voto.\n\nPortanto, nessa parte estamos inteiramente de acordo com o Sr. Presidente e com a decisão da Mesa.\n\nVotámos favoravelmente um pouco no mesmo sentido daquilo que foi referido pelo PCP. Entendemos que era um pouco chocante que ao Sr. Deputado Mário Tomé, estando ausente no momento da votação por razões que pretendia explicar e naturalmente querendo acrescentar qual o sentido do seu voto, não lhe fosse permitido fazê-lo. É certo que esta posição não seria a mesma se fosse um deputado de qualquer partido, que até nem podia fazer uma declaração de voto individualmente, pois que, nos termos regimentais, teria de a fazer por escrito. Mas o Sr. Deputado Mário Tomé representa, enfim, um certo sector da população portuguesa que tem que ter voz e a quem nós temos que a dar.\n\nNaturalmente que nos arrependeríamos deste nosso voto favorável ao recurso interposto pelo Sr. Deputado Mário Tomé se ele se excedesse naquilo que pretende dizer.\n\nVotámos, pois, favoravelmente no sentido de permitir ao Sr. Deputado Mário Tomé que diga a razão por que não esteve e qual seria o sentido do seu voto."
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 899,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Mário Tomé, também para uma declaração de voto."
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 899,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Sr. Mário Tomé (UDP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Quase me sentia tentado a exceder aquilo que requeri à Mesa para ver o CDS arrependido, porque gosto sempre de o ver arrependido.\nMas não o vou fazer e apenas vou dizer que, de facto, a Mesa não tinha razão, porque eu não estava a fazer nenhuma declaração de voto. \nO Sr. Presidente é que considerou como declaração de voto qualquer declaração posterior a um voto havido - eu não votei e não tinha, portanto, que fazer qualquer declaração.\n\nA minha interpelação à Mesa estava mais do que justificada e estava a ser feita dentro dos trâmites regimentais, pois estava a dizer à Mesa que tinha estado ausente da Sala por motivos de serviço da Assembleia numa comissão de inquérito, que considerava que era um caso demasiadamente grave e que poderia prestar-se a interpretações ambíguas o facto de o voto da UDP, e não de um deputado, não ter sido aqui feito publicamente. Dessa forma, queria compensá-lo pedindo à Mesa que considerasse a posição da UDP como de apoio ao voto que aqui tinha sido apresentado e não queria, portanto, fazer uma declaração de voto.\n\nAssim, congratulo-me com a posição que a Câmara assumiu e quero dizer que a tacanhez que o Sr. Presidente rejeitou foi agarrada pelo Sr. Deputado Santana Lopes, pela forma como interpretou o sucedido. Não foi, neste caso, só tacanhez, mas ignorância, porque o Regimento impõe que as reuniões das comissões não se façam durante o funcionamento do Plenário, a não ser por decisão unânime dos componentes da Comissão e o deputado da UDP, para não inviabilizar a celeridade e o funcionamento da referida Comissão, viu-se obrigado, por isso, a não estar presente no Plenário, porque de outra forma poderia ter inviabilizado o funcionamento da Comissão durante o Plenário.\n\nFoi, por isso, que não estive aqui. Mais uma razão para que me tivesse sido dada a palavra para explicar os motivos por que não pude estar presente na votação de voto."
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 899,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, antes de dar a palavra ao Sr. Deputado Magalhães Mota e porque tinha entrado já na Mesa um requerimento subscrito por vários senhores deputados do PCP, no sentido da prorrogação do período de antes da ordem do dia nos termos regimentais, submeto-o à votação da Câmara.\n\nSubmetido à votação, foi aprovado por unanimidade."
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 899,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "A partir deste momento, como os Srs. Deputados sabem, cada partido tem direito a 5 minutos.\n\nQuer ainda o Sr. Deputado Magalhães Mota usar o seu tempo para se pronunciar sobre o voto que votámos?"
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 899,
+      "speaker": {
+        "id": 283,
+        "name": "Joaquim Jorge De Magalhães Saraiva Da Mota",
+        "party": "ASDI",
+        "string": "O Sr. Magalhães Mota (ASDI)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quero sim, Sr. Presidente."
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 899,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem então a palavra o Sr. Deputado. O tempo de que dispunha no período de prorrogação fica esgotado com esta intervenção."
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 899,
+      "speaker": {
+        "id": 283,
+        "name": "Joaquim Jorge De Magalhães Saraiva Da Mota",
+        "party": "ASDI",
+        "string": "O Sr. Magalhães Mota (ASDI)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Votámos, naturalmente, a favor do voto apresentado e de que também fomos subscritores.\n\nE votámo-lo porque, como muitas vezes aqui temos dito, sempre que estejam em causa os direitos e as liberdades e onde quer que elas estejam em causa, nós votaremos nesta Assembleia para que os direitos do homem, os direitos e as liberdades fundamentais sejam respeitados, onde quer que elas sejam violadas. E nem precisamos de liberdade de voto quando em causa as liberdades. Nós, sociais-democratas, estamos sempre contra aquelas que violam as liberdades e os direitos fundamentais, onde quer que esses direitos e essas liberdades sejam violadas.\n\nO que se passa com a prisão de Sérgio Godinho tem importância, a mais do que um título, porque se trata da tentativa de abafar uma voz livre e isso merece sempre a nossa condenação.\n\nMesmo que muita gente distinga, naturalmente, a situação de Sérgio Godinho da de muitas outras pessoas que também sofrem na sua carne das mesmas violações dos direitos do homem, para nós, se todas as pessoas valem muito e, portanto, colocamos todas as pessoas em pé de igualdade, não podemos deixar de dizer que alguns casos assumem valor simbólico e o caso de Sérgio Godinho é claramente um caso em que a violação dos direitos corresponde, no sentido mais simbólico da palavra - como eu dizia há pouco -, a abafar uma voz.\n\nEm segundo lugar, votámos este voto pelas responsabilidades particulares em que a nossa amizade pelo Brasil nos coloca. E este é o momento e o lugar apropriado para dizer como a amizade é exigente. E tem necessariamente que o ser. Quem poderá ser mais exigente do que os amigos. É em nome dessa amizade que exigimos do Brasil, em nome dessa amizade e de uma solidariedade que por sangue e língua há muito nos une, que os direitos do homem sejam no Brasil, em particular, respeitados.\n\nEm terceiro lugar, porque a prisão de Sérgio Godinho é particularmente reveladora sobre um problema político que, como tal, interessa necessariamente a uma assembleia política. É que não basta a existência de uma oposição: é necessário que as oposições tenham direitos para que se possa falar de um clima de liberdade e de um clima democrático. Se as oposições tivessem uma existência, mas essa existência fosse meramente teórica e no quotidiano as violações prosseguissem, os direitos do homem continuassem abafados ou manietados, então o progresso poderia ter sido meramente formal, poderíamos interrogar-nos se haveria uma real abertura ou um real movimento de democratização da sociedade brasileira, mas teríamos com certeza que pôr essa questão.\n\nE porque também esse é o cerne do problema suscitado pela prisão de Sérgio Godinho, aqui associámos a nossa voz às outras vozes de protesto."
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 899,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, pelo período de 5 minutos, tem a palavra o Sr. Deputado Mário Tomé."
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 899,
+      "speaker": {
+        "id": 545,
+        "name": "Mário António Baptista Tomé",
+        "party": "UDP",
+        "string": "O Sr. Mário Tomé (UDP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Vou aproveitar os meus 5 minutos para"
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 900,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Borges de Carvalho."
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 900,
+      "speaker": {
+        "id": 416,
+        "name": "António José Borges Gonçalves De Carvalho",
+        "party": "PPM",
+        "string": "O Sr. Borges de Carvalho (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A propósito de direitos humanos, a propósito de homens que cantam e defendem a liberdade, a propósito de coerência política, a propósito de ditaduras, peço a VV. Ex.as licença para ler uma notícia que vem nos jornais da tarde de hoje e que é a seguinte:\n\nO dirigente sindical polaco Lech Walesa foi novamente detido hoje de manhã, no seu domicílio de Gdansk, no bairro Zaspa, segundo informaram amigos seus. Os polícias entraram em sua casa empunhando pistolas-metralhadoras e pouco depois levavam-no a bordo de um Mercedes, preto, com matrícula de Varsóvia. Segundo uma informação não confirmada, os polícias eram acompanhados pelo procurador.\n\nA prisão de Walesa surge horas antes de uma manifestação convocada para esta tarde para homenagear as vítimas das revoltas operárias de Dezembro de 1970, e na qual Walesa ia participar.\n\nA manifestação tem também por objectivo assinalar o primeiro aniversário da morte de 9 mineiros ocorrida numa mina da Silésia, aquando da imposição da lei marcial.\n\nNote-se que desde ontem a residência de Lech Walesa, em Gdansk, encontra-se cercada por pelotões da polícia de choque polaca, anunciou a sua mulher, Danuta. A mulher do dirigente sindical polaco disse pelo telefone ao correspondente da Reuter, em Varsóvia, que pode ver da janela do seu apartamento muitos elementos das «Zomo» (polícia de choque) ao redor da casa.\n\nNo texto do seu discurso, que foi entregue antecipadamente aos jornalistas, Walesa dizia a certa altura: «devemos trabalhar, de todas as maneiras possíveis -publicamente, abertamente, democraticamente-, para o regresso dos nossos sindicatos [...] e com algumas correcções que nós próprios faremos, derivadas das nossas experiências. A nossa causa não se orienta contra ninguém. Ao mesmo tempo, não derrubaremos o poder, aceitamos as realidades políticas que o mundo criou, que a história criou. É nestas condições que queremos simplesmente servir, a bem da nossa pátria», dizia ainda o texto de Walesa.\n\nPara não vos cansar mais com a citação do que os jornais publicam esta tarde, Sr. Presidente e Srs. Deputados, apenas queria chamar a atenção da Câmara para o facto de, mais uma vez, o regime ditatorial polaco, os regimes do Pacto de Varsóvia, os regimes pró-soviéticos, violarem desta maneira, incrivelmente aberrante, as liberdades e os direitos humanos. E não será demais que esta Câmara também vote por unanimidade, hoje e aqui, um voto de protesto contra mais esta inacreditável violação desses direitos."
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 900,
+      "speaker": {
+        "id": 230,
+        "name": "Jorge Manuel Abreu De Lemos",
+        "party": "PCP",
+        "string": "O Sr. Jorge de Lemos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 900,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 900,
+      "speaker": {
+        "id": 230,
+        "name": "Jorge Manuel Abreu De Lemos",
+        "party": "PCP",
+        "string": "O Sr. Jorge Lemos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, a iniciativa de apresentar um requerimento de pedido de prolongamento do período de antes da ordem do dia partiu do meu grupo parlamentar, porque tínhamos preparada uma intervenção que o meu camarada Manuel Matos irá produzir."
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 900,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, tal como V. Ex.ª sabe, requerida a prorrogação do período de antes da ordem do dia, cada um dos partidos dispõe de 5 minutos para produzir uma intervenção.\n\nAssim, fica registada a inscrição do Sr. Deputado Manuel Matos, que produzirá a sua intervenção a seguir à do Sr. Deputado Guerreiro Norte, que tinha pedido a palavra anteriormente.\n\nPortanto, tem a palavra o Sr. Deputado Guerreiro Norte, para uma intervenção."
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 900,
+      "speaker": {
+        "id": 117,
+        "name": "Cristóvão Guerreiro Norte",
+        "party": "PSD",
+        "string": "O Sr. Guerreiro Norte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Esta minha intervenção tem por exclu-"
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 902,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Manuel Matos."
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 902,
+      "speaker": {
+        "id": 958,
+        "name": "Manuel Dos Santos E Matos",
+        "party": "PCP",
+        "string": "O Sr. Manuel Matos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Em carta aberta, dirigida recentemente ao Sr. Ministro da Educação pelo Sindicato dos Professores da Grande Lisboa, podia ler-se esta nota alarmante:\n900000 contos deve o Ministério da Educação aos professores do ensino primário.\nE pormenorizando, referia aquele documento:\nConforme é do conhecimento do Sr. Ministro, milhares de docentes do ensino primário há já alguns anos que vêm sendo prejudicados nos seus legítimos direitos.\n\nAssim, quando ao fim de 5, 11 e 18 anos de serviço atingem a 2.ª, 3.ª e 4.º fases, verificam que, por responsabilidade da Administração, os seus vencimentos não são actualizados. Nestas condições, mês após mês, o Estado acumula uma dívida para com os professores que, nalguns casos, tem atingido largas dezenas de milhares de escudos.\n\nPara além dos prejuízos resultantes da não actualização dos salários, de acordo com as fases a que têm direito, os professores vêem-se espoliados do montante correspondente às fases em atraso, anos e anos seguidos.\n\nAinda segundo a carta aberta dirigida ao Sr. Ministro, o titular da pasta \n\nter-se-ia comprometido a resolver o impasse. Só que até agora nada se alterou e, como de há quatro anos a esta parte, sucedem-se os dias sem esperança.\n\nBasta lembrar, a este propósito, que a situação que agora se denuncia já foi aqui oportunamente colocada pelo meu grupo parlamentar, tendo o Sr. Ministro, em Comissão, assumido o compromisso de a resolver imediatamente. Por aqui se vê, que há boas razões para estarmos prevenidos quanto às promessas, agora renovadas.\n\nSr. Presidente, Srs. Deputados: Estamos perante uma situação verdadeiramente escandalosa que não permite mais dilações. Importa resolvê-la urgentemente. E mesmo assim, uma vez resolvida, a justiça devida aos professores jamais será reposta, porquanto não são já reparáveis os danos decorrentes dos custos da inflação."
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 902,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 902,
+      "speaker": {
+        "id": 958,
+        "name": "Manuel Dos Santos E Matos",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nestes termos, não podemos deixar de associar a nossa voz ao sentimento crescente de indignação e de vivo protesto que os professores vêm exprimindo por muitos modos contra este procedimento do Ministério, a todos os títulos irresponsável.\n\nSr. Presidente, Srs. Deputados: É claro que a situação que acaba de denunciar-se é apenas uma das expressões do estado de verdadeira calamidade em que os ministérios da AD têm vindo a mergulhar o nosso sistema de ensino, com resultados particularmente negativos no sector do ensino primário. Neste domínio e seja qual for o ângulo para que nos voltemos, a panorâmica é desoladora: desde uma rede escolar que se mantém anos e anos seguidos por redimensionar, e cujas instalações se degradam mais e mais, até à política de formação de professores, tanto inicial como contínua, que se arrasta penosamente no meio do maior improviso e inanição, tudo continua por equacionar.\n\nIncapaz de mobilizar o grande potencial de vontade e empenhamento que o professorado do ensino primário comporta, o Ministério limita-se a gerir a crise através de medidas de emergência que, em última análise, redundam no reforço da centralização de funções e burocratização do aparelho escolar, em detrimento claro das condições de participação, de criatividade de empenhamento dos professores, o que, por sua vez, se traduz inequivocamente na degradação das suas condições de trabalho, no abaixamento da qualidade de ensino, donde, em consequência, surgem a frustração, o sentido de impotência que se vem registando em muitos dos melhores profissionais do ensino que começam a encarar como alternativa de realização pessoal o abandono da carreira ou a busca de situações de pluriemprego."
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 902,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 902,
+      "speaker": {
+        "id": 958,
+        "name": "Manuel Dos Santos E Matos",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É hoje uma convicção generalizada que, após o grande esforço de renovação que se seguiu ao 25 de Abril, o ensino primário tende a cair de novo no marasmo, na rotina, na «apagada e vil tristeza» que o caracterizaram ao longo do salazarismo.\n\nOs professores recusam abertamente esta perspectiva de recuo e rejeitam frontalmente o modelo de sacerdócio laico que durante longo tempo lhe quiseram impor para mais habilmente os explorarem.\n\nReconhecer a dignidade do seu trabalho é também remunerar pronta e adequadamente o salário merecido. Reparar rapidamente a injustiça que o atraso na atribuição de fases representa é uma exigência que esta Assembleia deve incondicionalmente apoiar.\n\nPor nós, Grupo Parlamentar do PCP, aqui o fazemos."
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 902,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Carlos Lage."
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 902,
+      "speaker": {
+        "id": 107,
+        "name": "Carlos Cardoso Lage",
+        "party": "PS",
+        "string": "O Sr. Carlos Lage (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Talvez a minha intervenção durante estes 5 minutos pudesse, com vantagem, ser substituída por um requerimento dirigido ao Governo, se este respondesse aos requerimentos e se estes tivessem algum efeito que correspondesse a qualquer iniciativa sua.\n\nComo assim não acontece, e para restituir a este período destinado a intervenções de carácter sectorial, regional e local o seu devido lugar, vou utilizar os 5 minutos de que disponho para colocar na Câmara um caso relacionado com os subsídios que a Secretaria de Estado da Cultura concede às companhias de teatro.\n\nCriou-se no Porto, há 4 anos, um grupo de teatro chamado «O Realejo» que tem desenvolvido uma actividade enriquecedora do teatro nacional e do teatro nesta cidade. Esse grupo teve o itinerário heróico de todos os pequenos grupos que se iniciam modestamente em salas"
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 903,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Soares Cruz."
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 903,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Soares Cruz (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: É do conhecimento de todos que são os regentes agrícolas elementos de uma classe que tem prestado inestimáveis serviços ao País, não só no domínio da investigação, como também no da extensão, para a qual se sentem fundamentalmente vocacionados.\n\nOs elementos desta classe estão hoje confrontados com uma situação que não discutimos nem pomos em causa, mas que tem a ver com a extinção da sua casa-mãe, pois, por força do Decreto-Lei n.º 347/82, de 2 de Setembro, são extintas as escolas de regentes agrícolas.\n\nÉ evidente que esta é uma atitude que se percebe facilmente porque tem a ver com a reestruturação do ensino agrícola, isto é, as escolas agrícolas passam a institutos superiores agrícolas ou a escolas superiores agrárias. No entanto, pomos em dúvida o método que foi seguido para a extinção destas escolas.\n\nPor não querermos que a administração da Aliança Democrática seja considerada uma administração impessoal, começamos por manifestar a nossa discordância pelo facto como este decreto-lei surge, pela forma mais ou menos enviezada como ele aparece. Entendemos que a classe também se devia manifestar em relação à forma como aparecem extintas as suas casas-mães.\n\nPor isso mesmo, e como entendemos que os métodos seguidos não foram os mais correctos, os mais aceitáveis por parte dos regentes agrícolas que aqui me honro de representar, gostaria de anunciar que o meu grupo parlamentar está a estudar a forma de substituir o decreto-lei agora em vigor, apresentando um projecto de lei que visa a revogação deste decreto-lei.\n\nA razão de assim proceder é simples: entendemos que os agentes de ensino academicamente qualificados com o curso de regentes agrícolas não podem ser afastados da contribuição que poderão dar à formação de novos técnicos para o sector da agricultura e entendemos também que, de uma forma consentânea com as realidades do País e com as necessidades da nossa agricultura, devem ser estudadas formas de pôr todos estes técnicos ao serviço da causa da agricultura e ao serviço da classe dos regentes agrícolas."
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 903,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Não havendo mais inscrições, considero encerrado o período de antes da ordem do dia.\nORDEM DO DIA"
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 903,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, estamos a 10 minutos do intervalo regimental. Se VV. Ex.as não vêem nisso inconveniente, faríamos imediatamente esse intervalo e recomeçaríamos daqui a 30 minutos.\n\nLembro que desde a passada terça-feira ficou convocada uma conferência dos líderes dos grupos parlamentares, que se realizará imediatamente no meu gabinete, na qual será estabelecido o calendário para as próximas sessões. Peço, portanto, às direcções dos grupos parlamentares o favor de comparecerem no meu gabinete.\n\nEstá suspensa a sessão.\nEram 17 horas e 20 minutos.\nApós o intervalo, assumiu a presidência o Sr. Vice-Presidente Amândio de Azevedo."
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 904,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Está reaberta a sessão. Eram 18 horas e 15 minutos.\nEntretanto, toma assento na bancada do Governo o Sr. Secretário de Estado da Justiça (Azevedo Soares)."
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 904,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vamos entrar no primeiro ponto do período da ordem do dia, que consta da discussão, na generalidade e na especialidade, da proposta de lei n.º 126/11, que concede ao Governo autorização para legislar em matéria de definição de crimes de tráfego ilícito de diamantes em bruto ou não lapidados, apreensão e venda dos mesmos.\n\nEstá em discussão, na generalidade, a proposta de lei.\n\nPara uma intervenção, tem a palavra o Sr. Deputado Lino Lima."
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 904,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Lino Lima (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: O Governo pede uma autorização para legislar em matéria de definição de crimes de tráfego ilícito de diamantes em bruto ou não lapidados, apreensão e venda dos mesmos e regime de legalização de actos que os tenham por objecto, designadamente através de alterações a introduzir na legislação vigente.\n\nDesde logo se vê, pela leitura do projecto de diploma que acompanha o pedido, que o Governo pretende não só definir crimes, mas também fixar penas, o que não consta do respectivo pedido de autorização.\n\nVamos abster-nos em relação a este pedido do Governo. E a nossa posição deriva do facto de pensarmos que não se devem geralmente conceder autorizações ao Governo para legislar em matéria da competência da Assembleia da República quando esta está em funcionamento.\n\nPor outro lado, verificamos que não era difícil ao Governo apresentar o diploma sob a forma de proposta de lei, visto que ele dispõe de uma maioria que lhe garantia que a sua discussão e respectiva votação fosse rapidamente agendada. Á questão de urgência que o Governo invoca, dada a circunstância de os tribunais porem em dúvida a validade da legislação incriminatória existente, resolveria a questão sem delongas. Não há, portanto, nenhuma razão que justifique o pedido desta autorização por parte do Governo.\n\nPor outro lado, a autorização legislativa envolve sempre alguma confiança política ao Governo. É também sabido que esta bancada não concede a este Governo 10 réis de confiança política."
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 904,
+      "speaker": {
+        "id": 862,
+        "name": "António José Monteiro Vidigal Amaro",
+        "party": "PCP",
+        "string": "O Sr. Vidigal Amaro (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 166,
+      "order": 166,
+      "page_start": 904,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Assim, estas razões levar-nos-iam a recusar, pura e simplesmente, o pedido de autorização.\n\nMas atendendo a que se invocam razões que se prendem com o desenvolvimento das relações com a República Popular de Angola, que está interessada, segundo se diz, na publicação deste diploma para acabar com o escandaloso tráfego de diamantes que se tem verificado no nosso país, portanto, como eu ia dizendo, atendendo a estas situações de pró e contra, vamos abster-nos em relação ao pedido do Governo."
+    },
+    {
+      "utterance_id": 167,
+      "order": 167,
+      "page_start": 904,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavrão Sr. Deputado Almeida Santos."
+    },
+    {
+      "utterance_id": 168,
+      "order": 168,
+      "page_start": 904,
+      "speaker": {
+        "id": 389,
+        "name": "António De Almeida Santos",
+        "party": "PS",
+        "string": "O Sr. Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Estava destacado um colega nosso para se pronunciar sobre este tema, mas infelizmente ele não está presente. Direi alguma coisa, em sua substituição.\n\nTemos a informação de que, de algum modo, na génese deste projecto estará o interesse e, até de certo modo, a manifestação de um desejo de manifestação de vontade do Governo de Angola.\n\nO Governo Português não é indiferente a esta problemática, na medida em que, não sendo nós, neste momento, produtores de diamantes, somos, em todo o caso, seus lapidadores.\n\nEstas duas circunstâncias bastar-nos-iam para termos uma atitude de abertura relativamente a este problema, até porque temos também conhecimento de que se desenha aquilo que poderia qualificar como a exploração, no plano da cooperação bilateral com Angola, de uma futura utilização desse filão de know how, que é a circunstância de termos durante muitos anos explorado diamantes a céu aberto e sermos considerados em todo o mundo como o país, ainda hoje, possuidor da melhor técnica neste domínio, ou seja, não no diamante de aluvião chamado kimberlites, mas, como o referi, na exploração a céu aberto.\n\nSe assim é, se essas perspectivas existem e se este diploma pode, na verdade, facilitar a exploração desse potencial, que está neste momento em bruto, mas conservado e preservado, nós entendemos que este diploma, com esta redacção - ou outra qualquer que se considere mais ajustada às circunstâncias-, poderá, na verdade, vir a criar boas perspectivas neste domínio.\n\nPor essa razão, o nosso voto será favorável sem que isso implique, obviamente, um cheque em branco ao Governo para legislar sem a consideração do melindre que também há em todo este domínio, nomeadamente o tratar-se de matéria penal e, portanto, de fixação e determinação de penas.\n\nMas como esta Assembleia tem sempre a faculdade de chamar à ratificação os diplomas aprovados pelo Governo, se o que se referir a esta matéria não nos vier a dar satisfação -e devo dizer que a proposta que vem junta não nos cria grandes problemas, mesmo do ponto de vista técnico-jurídico -, nessa altura, se virmos que é caso disso, chamaremos o diploma a ratificação.\n\nNeste momento, pelas razões que enunciei, votaremos favoravelmente."
+    },
+    {
+      "utterance_id": 169,
+      "order": 169,
+      "page_start": 904,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Não havendo mais inscrições, declaro o debate encerrado.\n\nPassamos à votação, na generalidade, da proposta de lei n.º 126/II.\nSubmetida à votação, foi aprovada, com votos a favor do PSD, do PS, do CDS, do PPM e da ASDI e a abstenção do PCP, registando-se as ausências da UEDS, do MDP/CDE e da UDP."
+    },
+    {
+      "utterance_id": 170,
+      "order": 170,
+      "page_start": 904,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Não havendo inscrições para declarações de voto, passamos à discussão e votação na especialidade.\n\nEsta proposta de lei consta de 2 artigos, que vão ser lidos.\nForam lidos. São os seguintes:"
+    },
+    {
+      "utterance_id": 171,
+      "order": 171,
+      "page_start": 905,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Estão em discussão. Não havendo inscrições e se não houver oposição da Câmara, estes 2 artigos serão votados em conjunto.\nSubmetidos à votação, foram aprovados, com votos a favor do PSD, do PS, do CDS, do PPM e da ASDI e a abstenção do PCP, registando-se as ausências da UEDS, do M DP/CDE e da UDP.\n\nEntretanto, tomou assento na bancada do Governo o Sr. Secretário de Estado do Fomento Cooperativo (Bento Gonçalves)."
+    },
+    {
+      "utterance_id": 172,
+      "order": 172,
+      "page_start": 905,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Estão assim concluídas as votações, na generalidade e na especialidade, da proposta de lei n.º 126/II.\n\nO segundo ponto consta das ratificações n.ºs 2/II, pedida pelo PCP, e 8/II, pedida pelo PS, sobre o Decreto-Lei n.º 454/80, de 9 de Outubro, que aprova o Código Cooperativo, e n.ºs 100/II, pedida pelo PCP, e 101/II, pedida pelo PS, sobre o Decreto-Lei n.º 238/81, de 10 de Agosto, que dá nova redacção a vários artigos do Código Cooperativo.\n\nPara ler o relatório da Subcomissão Permanente de Cooperativismo sobre o Decreto-Lei n.º 454/80, de 9 de Outubro, com as alterações introduzidas pelo Decreto-Lei n.º 238/81, de 10 de Agosto, dou a palavra ao Sr. Deputado Araújo dos Santos."
+    },
+    {
+      "utterance_id": 173,
+      "order": 173,
+      "page_start": 905,
+      "speaker": {
+        "id": 506,
+        "name": "Manuel António Araújo Dos Santos",
+        "party": "PSD",
+        "string": "O Sr. Araújo dos Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O relatório é do seguinte teor:\n\nEm reunião plenária da Assembleia da República de 5 de Outubro de 1981 foram concedidas as ratificações n.ºs 2/II (PCP) e 8/II (PS), por um lado, e n.ºs 100/11 (PCP) e 101/11 (PS), incidindo as primeiras sobre o Decreto-Lei n.º 450/80, de 9 de Outubro, e as segundas sobre o Decreto-Lei n.º 238/81, de 10 de Agosto.\n\nBaixaram os referidos documentos à Comissão de Economia, Finanças e Plano, para discussão e votação, na especialidade, com o prazo de 30 dias.\n\nA 11 de Novembro de 1981 a Comissão de Economia, Finanças e Plano deliberou remeter a esta Subcomissão os documentos acima referidos, bem como as diversas propostas de alteração que sobre os mesmos incidiram, e foram presentes nos termos regimentais.\n\nA 18 do mesmo mês iniciaram-se os trabalhos da Subcomissão.\n\nDos mesmos se referem, ainda que sucintamente, os principais passos:\n\nl - Numa 1.ª fase e ao longo de vários meses promoveram-se 24 reuniões, tendo-se efectuado 18.\n\nNelas se discutiram todos os textos em presença. Os partidos ora emitiram posições definitivas, ora afirmaram reservar as suas posições para momento posterior.\n\nDados os trabalhos da Comissão Eventual da Revisão Constitucional e a vontade expressa pelo Partido Socialista em requerer a avocação da votação, na especialidade, para o Plenário, com todas as suas consequências, veio a estabelecer-se metodologia que, procurando tornar dispensável para o partido referido, tal requerimento de avocação possibilitasse uma breve aprovação final global.\nAceitou-se unanimemente a metodologia que ditou a segunda parte dos trabalhos da Subcomissão.\n\n2 -Os mesmos podem esquematizar-se assim:\n\na) Os trabalhos da Subcomissão passariam a ser gravados e deles se extrairiam as actas que seriam na sua totalidade publicadas no Diário da Assembleia da República, 2.ª série;\n\nb) Acabados os trabalhos, o documento final seria votado independentemente da ocorrência ou não da publicação de todas as actas.\n\n3 - Esta metodologia veio a sofrer alteração, conforme posições expressas em acta. Ficou definitivamente assente que a votação final global apenas aconteceria após a publicação de todas as actas.\n\n4 -Das actas das diversas reuniões constarão todos os documentos apresentados. As mesmas constituem anexos ao relatório.\n\n5 - A discussão e votação fez-se artigo a artigo.\n\n6 - Na reunião dos presidentes dos grupos parlamentares que agendou a votação final e global dispensou-se a publicação prévia e nos termos regimentais. Assim, juntam-se ao relatório todos os anexos referidos para publicação no Diário da Assembleia da República.\n\n7 -Nesta 2.ª fase, efectivada quase totalmente em simultaneidade com a revisão constitucional, ocorreram 15 reuniões.\n\n8 - Salvo ausências ocasionais, participaram nos trabalhos da Subcomissão os seguintes partidos: Partido Social-Democrata, Partido Socialista, Centro Democrático Social, Partido Comunista Português e Partido Popular Monárquico.\n\n9 - O relatório e seus anexos constarão do Diário da Assembleia da República. Se possível, solicita-se a sua publicação em suplemento.\n\nPalácio de S. Bento, 25 de Novembro de 1982."
+    },
+    {
+      "utterance_id": 174,
+      "order": 174,
+      "page_start": 905,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos proceder à votação final global das alterações que estão em apreciação.\nSubmetidas à votação, foram aprovadas, com os votos a favor do PSD, do CDS, do PPM e da ASDI e os votos contra do PS, do PCP e da UEDS, verificando-se as ausências do MDP/CDE e da UDP."
+    },
+    {
+      "utterance_id": 175,
+      "order": 175,
+      "page_start": 905,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma declaração de voto, tem a palavra o Sr. Deputado Joaquim Miranda."
+    },
+    {
+      "utterance_id": 176,
+      "order": 176,
+      "page_start": 905,
+      "speaker": {
+        "id": 470,
+        "name": "Joaquim António Miranda Da Silva",
+        "party": "PCP",
+        "string": "O Sr. Joaquim Miranda (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Na ausência do meu camarada Carreira Marques, que está impossibilitado de estar presente"
+    },
+    {
+      "utterance_id": 177,
+      "order": 177,
+      "page_start": 906,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também, para uma declaração de voto, tem a palavra o Sr. Deputado Braga Barroso."
+    },
+    {
+      "utterance_id": 178,
+      "order": 178,
+      "page_start": 906,
+      "speaker": {
+        "id": 160,
+        "name": "Francisco Braga Barroso",
+        "party": "ASDI",
+        "string": "O Sr. Braga Barroso (ASDI)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Votámos a favor destas ratificações não porque julguemos que fique uma obra perfeita, mas porque julgamos, sim, que a necessidade de regulamentar esta matéria tornava urgente a sua publicação. Assim, votámos a favor das ratificações que, repito, não tornando esta matéria perfeita, pelo menos a melhorou no mínimo possível.\n\nApesar de termos votado a favor destas ratificações, temos sérias reservas quanto ao artigo 3.º, alíneas e) e h), respectivamente quanto ao direito de voto das cooperativas de 1.º grau.\n\nJulgamos que nesta matéria deveria ser atendida a proposta do PS e que deveria ser suprimida toda a parte relativa à participação no capital social das empresas.\n\nTemos ainda sérias reservas quanto ao voto por correspondência, por julgarmos que tal pode permitir um certo caciquismo nas cooperativas, o que queremos ver banido.\n\nEsperamos também que o INSCOOP proceda de maneira eficaz ao pedido de dissolução das pseudocooperativas, que abundam um pouco por todo o País, e gostaríamos que isto fosse da competência da Federação de Cooperativas e não da competência da União, porque nos parece que seria bastante reduzida a participação das uniões. As federações, essas sim, deviam ter poder suficiente para propor a dissolução das pseudocooperativas, que, em muitos casos, só actuam para desprestígio de um movimento forte, que é o movimento cooperativo em todo o País."
+    },
+    {
+      "utterance_id": 179,
+      "order": 179,
+      "page_start": 906,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma declaração de voto, tem a palavra o Sr. Deputado Oliveira e Sousa."
+    },
+    {
+      "utterance_id": 180,
+      "order": 180,
+      "page_start": 907,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Oliveira e Sousa (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: Mais de l ano depois da sua discussão na sua generalidade, em Novembro de 1981, voltou ao Plenário da Assembleia da República, agora para votação final global, o diploma de ratificação, com alterações, do Código Cooperativo.\n\nTão dilatado período para a discussão, na especialidade, do texto das alterações ao Código, quando o requerimento de baixa à Comissão de Economia, Finanças e Plano dava um prazo de 30 dias, mostra bem as dificuldades, desencontros de opiniões e acidentes de percurso em todo este processo, com manifesto prejuízo para a estabilidade de funcionamento e a programação de actividades das estruturas cooperativas.\n\nE o manuseamento das actas da Subcomissão Permanente de Cooperativismo, a quem a Comissão de Economia delegou o trabalho prévio de redacção do diploma agora em apreço, onde um espesso volume espelha as múltiplas reuniões, com longas horas de gravação, as quais, por singular curiosidade, se alongaram mais que a própria revisão constitucional, terminando no dia imediato ao da discussão desta -30 de Julho-, dizia eu que essa consulta das actas e do relatório final da Subcomissão dá-nos a prova real de quanto foi laboriosa esta gestação legislativa de mais de 13 meses.\n\nNeste intervalo ouviram-se os representantes das estruturas cooperativas, avançaram-se, retiraram-se e reformularam-se propostas de alteração, puseram-se em causa e alteraram-se métodos de trabalho, mas se existe uma qualidade inequívoca de todo este processo é a de que, pela latitude dos prazos e pela abertura dos procedimentos, ninguém poderá acusar o resultado final de mal informado, ou pouco ponderado por pressas conjunturais."
+    },
+    {
+      "utterance_id": 181,
+      "order": 181,
+      "page_start": 907,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 182,
+      "order": 182,
+      "page_start": 907,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ao longo deste período, o CDS, bem como todos os outros partidos intervenientes, analisou as alternativas decorrentes do texto do Código em vigor e das propostas de alteração formuladas, quer na fase de discussão na generalidade, quer apresentadas posteriormente e, sempre em coerência com a sua doutrina, defendeu os princípios da liberdade de iniciativa e da não estatização das actividades, sejam do sector privado ou do sector cooperativo, balizados pelo imperativo constitucional de apoio e estímulo à criação e actuação das cooperativas.\n\nE de referir, como reflexo desta preocupação de não ceder às tendências de uma uniformidade por decreto ou de massificação socializante, onde a igualdade não é tanto de direitos e oportunidades, mas, sim, de formas e processos, a defesa que o CDS fez da não consagração legal, na prática, da unicidade das federações de cooperativas.\n\nNão se pode inferir daí a intenção de pulverizar e menos ainda de partidarizar as estruturas cooperativas de nível superior. Mas a confiança que temos nos actuais e futuros cooperadores e nas virtualidades dos princípios cooperativos levam-nos a supor que saberão assumir, de modo próprio e em cada momento, as posições mais conformes com os interesses do seu movimento e da comunidade nacional.\n\nA aprovação de um código cooperativo estável, ratificado pela competência política e pela força moral desta Câmara, é, na sequência das disposições constitucionais aplicáveis, a consagração do sector cooperativo como\n\nagente fundamental das actividades sociais, sejam no domínio económico da produção e distribuição, sejam no campo cultural ou outros.\n\nA forma de iniciativa cooperativa, sendo aquela em que todos participam de forma igual, evitando a divisão de grupos sociais e mais ainda a sua confrontação, insere-se, em pleno, na nossa doutrina democrata-cristã.\n\nPor esse motivo, o CDS, na sequência do sentido de voto tomado quando da discussão, na generalidade, desta ratificação, e assumindo inteiramente o processo de especialidade em sede de Subcomissão, em que participou de parte inteira, votou agora positivamente o presente texto."
+    },
+    {
+      "utterance_id": 183,
+      "order": 183,
+      "page_start": 907,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Ainda, para uma declaração de voto, tem a palavra o Sr. Deputado Bento de Azevedo."
+    },
+    {
+      "utterance_id": 184,
+      "order": 184,
+      "page_start": 907,
+      "speaker": {
+        "id": 88,
+        "name": "Bento Elísio De Azevedo",
+        "party": "PS",
+        "string": "O Sr. Bento de Azevedo (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: No momento em que sobe ao Plenário desta Assembleia da República o Decreto-Lei n.º 454/80, de 9 de Outubro, vulgarmente conhecido como o «Código Cooperativo», para votação global final do processo de ratificação oportunamente desencadeado, o PS gostaria de deixar bem claro perante VV. Ex.as e perante o País os motivos do seu voto contrário ao texto ora presente à apreciação deste Plenário.\n\nPara tal terá o PS que, no breve lapso de tempo disponível para esta declaração, apresentar a VV. Ex.as, ao movimento cooperativo e ao País alguns dados sobre a génese do Código Cooperativo, bem assim como sumariar as razões de ordem política, de natureza técnica e do foro moral que justificaram o seu voto contrário ao texto final apresentado para ratificação.\n\nPara aqueles mais interessados no conhecimento exaustivo das nossas posições, quer de crítica construtiva, quer de formulação alternativa, remetemos para a próxima publicação no Diário da Assembleia da República do texto integral das intervenções por nós produzidas na Subcomissão de Cooperativismo, bem assim como para o teor integral do «protesto do representante do grupo parlamentar do Partido Socialista na Subcomissão de Cooperativismo», atempadamente entregue ao Coordenador e à Comissão de Economia, Finanças e Plano, com o pedido de ser anexado à última acta da Subcomissão, na qual, em resumo, o PS protestava por se ver afastado da discussão e votação de cerca de 30% do articulado, através de um estranho procedimento contrário à ética parlamentar que deveria presidir aos trabalhos desta Assembleia e que, pessoal ou partidariamente, ainda não havia sido utilizado e que frontalmente contraria o artigo 62.º do Regimento.\n\nAssim, o PS não poderia, até por esta simples razão, deixar de se dissociar de um texto legal produzido por processos metodológicos menos claros, já oportunamente denunciados em nossas anteriores intervenções neste Plenário e através de claras tomadas de posição públicas de altos responsáveis de estruturas representativas do movimento cooperativo português.\n\nFoi exactamente por não pactuar com este tipo de comportamento que o PS pediu a ratificação deste Código... Pelas mesmas razões diz agora «não» a este simulacro de Código... E, finalmente, é pelo respeito que lhe merece o cooperativismo e pelo respeito pela luta de século e meio dos socialistas na defesa dos princípios Cooperativos que o PS procurou, na especialidade, dar o"
+    },
+    {
+      "utterance_id": 185,
+      "order": 185,
+      "page_start": 909,
+      "speaker": {
+        "id": 416,
+        "name": "António José Borges Gonçalves De Carvalho",
+        "party": "PPM",
+        "string": "O Sr. Borges de Carvalho (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Eh!..."
+    },
+    {
+      "utterance_id": 186,
+      "order": 186,
+      "page_start": 909,
+      "speaker": {
+        "id": 88,
+        "name": "Bento Elísio De Azevedo",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Simplesmente não resiste à análise serena e objectiva daqueles que não pactuam com a falta de dignidade política.\n\nPara calar o Sr. Secretário de Estado de uma vez para sempre remeto-o, por exemplo, para a leitura do Diário da Assembleia da República que, na 2.ª sessão legislativa, em 4 e 6 de Novembro de 1981, aí se registam as frontais e desasombradas tomadas de posição dos Sr. Deputados do PS Eduardo Pereira e Almeida Santos.\n\nA propósito, permitimo-nos citar, a título de exemplo, estes lapidares excertos da intervenção do Sr. Deputado Eduardo Pereira Diário da Assembleia da República, l. ª série, n.º 9, a p. 278:\n\nSr. Presidente, Srs. Deputados: Este Decreto-Lei n.º 454/80, de 9 de Outubro, o actual Código Cooperativo, lei fundamental do movimento, foi cozinhado num canto escondido e, seguramente, sem sol, de um gabinete de adjuntos do actual Primeiro-Ministro; foi, como o anterior, mexido e remexido pelo actual Secretário de Estado do Fomento Cooperativo, foi promulgado sem que deste fosse dado conhecimento prévio às cooperativas e deve ser hoje o único código cooperativo do mundo que foi imposto por decreto-lei.\nOu este:\nEste decreto-lei entra hoje na Assembleia da República e sobe ao Plenário meio envergonhado, não com a preocupação de sossegar o coro de protestos que o movimento vem há l ano a levantar contra ele, não porque a maioria queria dar satisfação aos partidos da oposição, que desde o final de 1980 vem solicitando a sua ratificação, mas porque o Governo se viu obrigado a introduzir as primeiras 45 modificações nos seus 100 artigos, embora não tenha feito mais do modificar alguns aspectos formais do diploma, algumas vezes para pior.\nOu ainda este outro:\nO Partido Socialista considera o desenvolvimento do cooperativismo em Portugal como uma opção política básica e quer deixar aqui, e agora, muito claro que não desistirá desta luta [...]\nE mais este:\nNunca pela nossa parte considerámos que estivéssemos confrontados num despique cooperativo com a AD. Podem os actuais responsáveis por este decreto-lei pôr-se em bicos de pés que não conseguirão chegar onde chegou a luta de século e meio dos socialistas na defesa dos princípios cooperativos, nem superam o esforço por estes feito para engrandecimento deste sector económico."
+    },
+    {
+      "utterance_id": 187,
+      "order": 187,
+      "page_start": 909,
+      "speaker": {
+        "id": 127,
+        "name": "António Duarte Arnaut",
+        "party": "PS",
+        "string": "O Sr. António Arnaut (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 188,
+      "order": 188,
+      "page_start": 909,
+      "speaker": {
+        "id": 88,
+        "name": "Bento Elísio De Azevedo",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E ainda este, do deputado Almeida Santos:\n\nMas o que quero significar é que, em meu entender, continua a não existir o diploma de regulamentação do cooperativismo que o País precisa. Fazer aquilo que o Governo fez é fácil. Foi, pois, fazer um diploma apressado, que não merece o nome de código, que só deslustra o actual Primeiro-Ministro, quando ele consentiu que fosse chamado o «Código Balsemão». Não vejo por que é que poderia imputar-se-lhe a paternidade de um projecto que é tão mau. Acho que foi uma malfeitoria em relação ao actual Primeiro-Ministro e continuamos a necessitar de um verdadeiro código cooperativo, porque esse não pode ser feito à pressa.\n\nComo se verifica pela simples leitura destas citações de 2 líderes do Partido Socialista, o Sr. Secretário de Estado errou completamente o alvo ao fazer insinuações, estas sim, aleivosas e indignas de um membro do Governo, de um ex-deputado e de um cooperativista que afirma «ter uma vivência prática no exercício das funções para que foi eleito»."
+    },
+    {
+      "utterance_id": 189,
+      "order": 189,
+      "page_start": 910,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS e do PPM",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Que ideia!"
+    },
+    {
+      "utterance_id": 190,
+      "order": 190,
+      "page_start": 910,
+      "speaker": {
+        "id": 88,
+        "name": "Bento Elísio De Azevedo",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Trata-se, apenas, de ilustrar de uma forma concludente e paradigmática todo o espírito de arrogância política e de falta de humildade cooperativa que o Sr. Secretário de Estado introduziu na discussão do Código Cooperativo, pervertendo-a, quer de um ponto de vista técnico, quer de um ponto de vista ético.\n\nDurante a discussão e votação na especialidade, o PS procurou, baldadamente, defender a seguinte linha de orientação:\na) Noção e definição correcta de cooperativa;\n\nb) Defesa dos princípios cooperativos;\n\nc) Defesa da autonomia do direito cooperativo em relação ao comercial;\n\nd) Definição programática dos princípios a consignar em legislação cooperativa de acordo com a Resolução n.º 127 da organização do trabalho;\n\ne) Apresentação e defesa de propostas que apresentámos e melhorámos de acordo com o anteprojecto inicial aprovado pelo movimento cooperativo e posteriormente adulterado. Igualmente procurámos tomar em consideração sugestões e propostas que nos foram entretanto apresentadas pelas estruturas representativas do movimento cooperativo, tais como a AGROCOOP, FENACOOP, FENACHE, UNIURBA, CHE's, UNINORTE, etc.;\n\nf) Crítica da excessiva horizontalização das cooperativas de 2.º grau e excessiva verticalização das federações (artigos 78.º e seguintes);\n\ng) Condenação da óptica excessivamente «comercialista» imprimida ao Código, como se pode verificar através da análise do artigo 2.º (Noção); artigo 3.º (Princípios cooperativos);"
+    },
+    {
+      "utterance_id": 191,
+      "order": 191,
+      "page_start": 911,
+      "speaker": {
+        "id": 416,
+        "name": "António José Borges Gonçalves De Carvalho",
+        "party": "PPM",
+        "string": "O Sr. Borges de Carvalho (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ei!!!"
+    },
+    {
+      "utterance_id": 192,
+      "order": 192,
+      "page_start": 911,
+      "speaker": {
+        "id": 88,
+        "name": "Bento Elísio De Azevedo",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ainda na generalidade se dirá que, sem pôr em causa a indiscutível competência constitucional desta Assembleia da República para ratificar decretos-leis do Governo, pena é que esta, por pura irreflexão misturada com uma enorme dose de oportunismo pessoal dos novos caciques cooperativos, não tenha sequer conseguido fixar uma aparência do texto definitivo de Código, passando todo o tempo a alterá-lo, de acordo com as conveniências pessoais e políticas, sem sequer conseguir eliminar os erros técnicos mais patentes e oportunamente denunciados, quer por nós, quer pelo movimento cooperativo, introduzidos sob o patrocínio e a directa responsabilidade do actual Secretário de Estado do Fomento Cooperativo.\n\nNão defendendo a imutabilidade das leis, não há dúvida que é preciso chamar a atenção dos cooperativistas portugueses para a instabilidade legislativa resultante das contínuas alterações sem sentido técnico a algo que, na fase aberta da sua concepção e redacção - refiro-me, como é óbvio, à fase em que, após 18 meses de trabalho contínuo, foi preparado o chamado «anteprojecto de código cooperativo português», elaborado pela denominada «Comissão do Código Cooperativo» -, foi concebido para durar e dar ao sector cooperativo um tratamento jurídico codificado, ordenado por forma bastante mais precisa, segura e harmónica.\n\nE ao mesmo tempo que à actual «confusão cooperativa», caracterizada pela instabilidade e desagregação das normas de convivência ínsitas nos princípios de\n\nRochdale, se contrapõe a serenidade dos trabalhos preparatórios conduzidos pelo INSCOOP -numa fase em que este Instituto público ainda não tinha sido tomado de assalto-, há que, no momento histórico em que esta maioria aprova este simulacro de Código Cooperativo, chamar a atenção dos cooperativistas do meu país para a gravidade da situação cooperativa, degradada, apontando a dedo os seus verdadeiros responsáveis. Um dia a história os julgará."
+    },
+    {
+      "utterance_id": 193,
+      "order": 193,
+      "page_start": 911,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma declaração de voto, tem a palavra o Sr. Deputado António Moniz."
+    },
+    {
+      "utterance_id": 194,
+      "order": 194,
+      "page_start": 911,
+      "speaker": {
+        "id": 878,
+        "name": "António Cardoso Moniz",
+        "party": "PPM",
+        "string": "O Sr. António Moniz (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Secretário de Estado, Srs. Deputados: Lamento que não esteja aqui presente o Sr. Deputado Carreira Marques, do Partido Comunista Português, que deu um alto contributo às alterações introduzidas na especialidade ao Código Cooperativo e que viu consagradas muitas das suas propostas de alteração."
+    },
+    {
+      "utterance_id": 195,
+      "order": 195,
+      "page_start": 911,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. Veiga de Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nem todas!"
+    },
+    {
+      "utterance_id": 196,
+      "order": 196,
+      "page_start": 911,
+      "speaker": {
+        "id": 878,
+        "name": "António Cardoso Moniz",
+        "party": "PPM",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Apesar disso, o Partido Comunista Português votou contra. Não percebo!\nQuanto à presença do Sr. Deputado do Partido Socialista na Subcomissão, ela foi apenas um rosário de manobras dilatórias conducentes a demorar a publicação das alterações na especialidade, apresentando sucessivamente propostas contraditórias entre si, algumas ferozmente centralizadoras e demonstrando uma perspectiva de cooperativismo absolutamente fossilizada e burocratizada, esquecendo-se que o cooperativismo deve ser um movimento participado, que não pode ser visto de uma forma estática nem pode -sob pena de graves consequências - respeitar modelos rigorosos.\n\nApelo ao movimento cooperativo para ler as actas e ver as discussões de cada uma das alterações apresentadas pelo Partido Socialista. O Partido Socialista devia ter tentado modificar o conteúdo do Código, apresentando propostas claras - como fizeram as restantes forças políticas representadas na Subcomissão - e depois da intervenção do Sr. Deputado Bento de Azevedo só espero que ele não descubra, como fez o primeiro Partido Socialista, pela voz de Azevedo Gneco, que as cooperativas atrasam a revolução social e que não comece a aconselhar os cooperativistas a saírem das cooperativas.\n\nMeus senhores, acerca das «ventanias cooperativas» nada tenho com isso, nem nada tenho com as tentativas de politizar as direcções dos organismos cooperativos.\n\nSr. Presidente, Sr. Secretário de Estado, Srs. Deputados: A aprovação na especialidade do Código Cooperativo é sem dúvida alguma um passo decisivo na institucionalidade de um modus vivendi ansiado pelos milhões de cooperativistas que a essa forma de participação têm, ao longo de gerações, dado o melhor do seu esforço. Perante a crise que vivemos, perante as interrogações que se nos põem, decorrentes das mutações planetárias acontecidas no mundo da economia, é lícito aos Portugueses fazerem a si próprios a simples pergunta: que tipo de sociedade desejamos? Como vamos viver com as crescentes dificuldades da era industrial? A essa justíssima e oportuna questão a classe política terá que dar resposta"
+    },
+    {
+      "utterance_id": 197,
+      "order": 197,
+      "page_start": 912,
+      "speaker": {
+        "id": 88,
+        "name": "Bento Elísio De Azevedo",
+        "party": "PS",
+        "string": "O Sr. Bento de Azevedo (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso foi saneado!"
+    },
+    {
+      "utterance_id": 198,
+      "order": 198,
+      "page_start": 912,
+      "speaker": {
+        "id": 878,
+        "name": "António Cardoso Moniz",
+        "party": "PPM",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Aliás, não fazemos mais do que seguir a doutrina de Alexandre Herculano e de Andrade Corvo, que defenderam à outrance o municipalismo interligado com o cooperativismo.\n\nEsta a razão, Sr. Presidente e Srs. Deputados, por que não aceitamos que se continue a compartimentar as iniciativas locais, acabando com a interligação entre as iniciativas de diverso tipo e impedindo o estabelecimento de um diálogo que possibilite a criação de uma linguagem uniforme em toda uma região. Não deveremos cair em erros passados, que impediram mesmo António Sérgio, na sua exagerada defesa do racionalismo, de conhecer completamente o homem integrado na sua vida.\n\nForam, igualmente, estas as essenciais motivações que forçaram o PPM a votar contra a redacção do n.º l do artigo 79.º, que define as uniões como resultantes do agrupamento, a nível regional, de, pelo menos, 3 cooperativas de 1.º grau do mesmo ramo do sector cooperativo. As uniões, deste modo, não constituem resposta completa às necessidades regionais, cerceando-se com a disposição aprovada a intercooperação horizontal e empurrando-a para o insuficiente artigo 7.º como única saída para as iniciativas de carácter polivalente exigidas pelos interesses de uma região.\n\nMas, bem ao contrário, a disposição regulamentadora das federações, sofreu melhorias significativas, por proposta do meu partido, pois consideramos que tais agrupamentos não podiam somente ser constituídos por uniões, situação essa que iria conduzir a uma prática de democracia indirecta, facilmente manipulável. A presença, nas federações, das uniões ao lado das cooperativas deverá ter apenas um efeito ponderador dos interesses regionais e nunca poderá ser um modo de representação das cooperativas de base.\n\nJá quanto às confederações, a nossa perspectiva não foi consagrada, podendo estes agrupamentos de cúpulas, atendendo à sua constituição, afastar as cooperativas da participação directa por via de sucessivas representações, se bem que -reconhecemos- esse «pecado original tenha sido seriamente mitigado pelas alterações introduzidas na composição das federações.\n\nSr. Presidente, Srs. Deputados: Apesar de tudo, consideramos que este Código constitui uma alavanca dinamizadora do movimento cooperativo e os erros já apontados poderão facilmente, no futuro, ser objecto das correcções que a prática, sensata e construtivamente, indicar.\n\nNão quero deixar de saudar o trabalho imenso levado a cabo pelo Sr. Deputado Araújo dos Santos que, ao longo de l ano, incentivou toda a actuação da Subcomissão de Cooperativismo, que foi elemento preponderante em todo este longo percurso do Código Cooperativo em sede da especialidade, sem perda de ânimo e demonstrando um elevado espírito de sacrifício.\n\nSr. Presidente, Srs. Deputados: Diga o que se disser do Código Cooperativo, ele, no seu conjunto, é um marco essencial para quem vê o movimento cooperativo como um paradigma de esperança. Temos que nos congratular por esse facto e saudar, por isso, os responsáveis pela sua elaboração.\n\nO movimento cooperativo está de parabéns!"
+    },
+    {
+      "utterance_id": 199,
+      "order": 199,
+      "page_start": 912,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma declaração de voto, tem a palavra o Sr. Deputado Araújo dos Santos."
+    },
+    {
+      "utterance_id": 200,
+      "order": 200,
+      "page_start": 912,
+      "speaker": {
+        "id": 506,
+        "name": "Manuel António Araújo Dos Santos",
+        "party": "PSD",
+        "string": "O Sr. Araújo dos Santos (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Antes de produzir a declaração de voto em nome do PSD, permita-se-me fazer uma confissão.\n\nAcreditava que o representante do Partido Socialista viesse hoje aqui produzir uma declaração de voto sobre o"
+    },
+    {
+      "utterance_id": 201,
+      "order": 201,
+      "page_start": 913,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Uma voz do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 202,
+      "order": 202,
+      "page_start": 913,
+      "speaker": {
+        "id": 506,
+        "name": "Manuel António Araújo Dos Santos",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: São decorridos mais de 2 anos sobre o Decreto-Lei n.º 454/80, da autoria do VI Governo Constitucional - primeiro governo da co-responsabilidade do PSD-, que criou o Código Cooperativo.\n\nCulminando todo um processo de ratificação, esta Assembleia conferiu, hoje, dignidade de lei a tal diploma.\n\nNão fossem as vicissitudes porque passou todo o processo; não fossem as constantes, visíveis e incorrectas tentativas de certos partidos em chamarem a si, despudoradamente, tal como fazem no sindicalismo, a exclusividade da representação, orientação e defesa do movimento cooperativo - tentativas, de resto, ao arrepio das características fundamentais desse movimento que apenas admite como proprietários e condutores os cooperadores e a sua força criativa; não fossem as constantes ofensas que ao longo de todo o processo certos partidos dirigiram, pelas suas tomadas de posição, aos puros ideais programáticos que sempre animaram os pioneiros do movimento cooperativo, próximos ou longínquos, nacionais ou estrangeiros; não fossem declarações já aqui hoje proferidas, reafirmando múltiplas, estafadas e menos cuidadas afirmações produzidas, quer em Comissão, quer fora dela, e o PSD limitar-se-ia, após a votação que esta Assembleia acabou de efectuar, a uma manifestação sincera de profundo júbilo por haver contribuído para algo de bom e fundamental ao aprofundamento da justiça social, ao fortalecimento deste sector de actividade, ao proporcionar o estabelecimento de condições para a melhoria cultural e económica da vida de milhões de portugueses, enfim, à aplicação concreta das normas constitucionais.\n\nNão fosse a angústia, pela incerteza, vivida por todo o movimento cooperativo ao longo deste período e as tentativas de alguns partidos em alijar responsabilidades, atribuindo-as em exclusivo a outros, e o PSD não traria ao presente a sua declaração de voto factos passados e comprováveis.\n\nSr. Presidente, Srs. Deputados: Os condicionalismos atrás expostos levam-nos, para justificar o nosso voto, a ser mais longos do que desejaríamos e a reafirmar mais uma vez que, pela nossa parte, vivemos essencialmente da acção balizada por princípios programáticos. Não passamos, como outros, todo o tempo a debitar princípios e só princípios.\n\nAssim não acontece com outros, nomeadamente com o Partido Socialista, que ainda hoje só falou de princípios: o I Governo Constitucional é que lançou as bases do Código; o I Governo socialista é que lançou o Instituto António Sérgio; o Partido Socialista é o único que conhece os princípios de Rochdale, etc...\n\nSr. Presidente, Srs. Deputados: Em 18 de Fevereiro de 1977, aquando da ratificação do Decreto-Lei n.º 902, de 31 de Dezembro de 1976, que criou o Instituto António Sérgio do Sector Cooperativo, um ilustre deputado socialista, perscutando as razões que levaram o PSD a sujeitar tal diploma a ratificação, acusava assim:\n\nPorém, admitimos que o pedido da ratificação vise o continuar ao desfraldar de bandeiras partidarias para mais umas críticas indirectas ou infundadas ao Governo, e tememos que essas mesmas bandeiras partidárias pretendem demonstrar que o cooperativismo possível é só o cooperativismo que defendem, segundo ópticas próprias. O que acabo de referir poderá ser o objectivo primeiro; o segundo, admitimos que seja o da crítica pela crítica, qualquer deles nocivo para o desenvolvimento e consolidação do movimento cooperativo, ainda incipiente em Portugal.\n\nO PSD na altura votou a concessão da ratificação, apresentou propostas de alteração e votou na especialidade a lei correspondente. Lei aprovada por unanimidade.\n\nTudo decorreu em 4 meses. Ninguém protelou discussões e conclusões.\n\nNuma plena demonstração de que sabia ser oposição construtiva e patriótica, o PSD, com os olhos postos nos interesses do movimento cooperativo, manifestou a maleabilidade suficiente para votar uma lei que, não sendo nem sua, nem inicialmente perfeita, era necessária ao desenvolvimento do sector cooperativo. Hoje o Partido Socialista não mostrou cultivar tal maleabilidade, tão essencial à democracia.\n\nNa discussão então travada não deixaram os vários partidos de proclamar mais uma vez a necessidade do aparecimento do Código Cooperativo.\n\nUns procuraram fazê-lo surgir de mãos dadas com o movimento cooperativo; outros, apenas apressados quando saídos da governação e desde aí menos confiantes nesse movimento que tanto incensaram, fizeram pseudocongressos, apresentaram iniciativas legislativas desligadas dos cooperativistas."
+    },
+    {
+      "utterance_id": 203,
+      "order": 203,
+      "page_start": 913,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 204,
+      "order": 204,
+      "page_start": 913,
+      "speaker": {
+        "id": 506,
+        "name": "Manuel António Araújo Dos Santos",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Era já tempo do VI Governo Constitucional; era já tempo em que no INSCOOP se ultimava um anteprojecto; era já tempo em que a AD, no seguimento do seu programa eleitoral e de governo afirmava a proximidade da promulgação do Código através do seu Ministro Adjunto, hoje Primeiro-Ministro."
+    },
+    {
+      "utterance_id": 205,
+      "order": 205,
+      "page_start": 913,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 206,
+      "order": 206,
+      "page_start": 913,
+      "speaker": {
+        "id": 506,
+        "name": "Manuel António Araújo Dos Santos",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas novas iniciativas legislativas surgiram, ao arrepio do movimento cooperativo.\n\nO Partido Socialista que, quando governo, quase só proclamou, neste e noutros aspectos, princípios que a prática se encarregava de desmentir, quis transformar-se do dia para a noite - só porque oposição - no paladino do movimento cooperativo, apresentando mais uma, e não ainda a última, versão do Código Cooperativo."
+    },
+    {
+      "utterance_id": 207,
+      "order": 207,
+      "page_start": 913,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 208,
+      "order": 208,
+      "page_start": 913,
+      "speaker": {
+        "id": 506,
+        "name": "Manuel António Araújo Dos Santos",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Partido Comunista seguiu-lhe os passos.\nE chegamos ao Decreto-Lei n.º 454/80, de 10 de Outubro, fruto de larga participação das estruturas cooperativas em trabalho no INSCOOP ao longo de mais de 18 meses - e não da forma como acabou de referir o Sr. Deputado Bento Elísio de Azevedo. Passado pouco mais de l mês, a 18 de Novembro de 1980, os Partidos Socialista e Comunista apresentaram requerimentos de ratificação."
+    },
+    {
+      "utterance_id": 209,
+      "order": 209,
+      "page_start": 914,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 210,
+      "order": 210,
+      "page_start": 914,
+      "speaker": {
+        "id": 506,
+        "name": "Manuel António Araújo Dos Santos",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O PCP, apesar de ver aceites muitas das suas propostas, manteve o seu voto negativo. De facto, apresentou 20 propostas de alteração sobre 20 artigos. Participou em 140 das 144 votações que incidiram sobre o articulado aprovado. Votou favoravelmente 111 desses preceitos, absteve-se em 17 e contrariou 12."
+    },
+    {
+      "utterance_id": 211,
+      "order": 211,
+      "page_start": 914,
+      "speaker": {
+        "id": 416,
+        "name": "António José Borges Gonçalves De Carvalho",
+        "party": "PPM",
+        "string": "O Sr. Borges de Carvalho (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Doze!..."
+    },
+    {
+      "utterance_id": 212,
+      "order": 212,
+      "page_start": 914,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. Veiga de Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os mais importantes, Sr. Deputado."
+    },
+    {
+      "utterance_id": 213,
+      "order": 213,
+      "page_start": 914,
+      "speaker": {
+        "id": 506,
+        "name": "Manuel António Araújo Dos Santos",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O PCP só não votou os artigos que impedem a construção do seu modelo de cooperativismo, modelo que não é cooperativista por ser estatal e por impeditivo da liberdade, autonomia e criatividade dos cooperadores.\n\nQuanto ao PS -que além de projectos anteriores apresentou 109 propostas de alteração incidindo sobre 61 artigos - participou em 104 votações, sendo favorável a 47 preceitos, contra 35 e abstendo-se em 22. \n\nDiga-se, por fim, e de forma categórica, que o PS não se viu afastado de 30% do Código. Afastou-se voluntariamente quando sentiu que não eram possíveis mais protelamentos.\n\nSr. Presidente, Srs. Deputados: Vale a pena, ainda que sucintamente, deixar para a história alguns dados sobre estes itinerários.\n\nAssim, mais de um ano após a apresentação dos primeiros pedidos de ratificação, foram presentes propostas de alteração na especialidade.\n\nTanto tempo passado induzia obrigatoriamente a acreditar que tais propostas de alteração correspondiam a estudo aturado visando melhorar construtivamente o Código.\n\nAssim não veio, lamentavelmente, a suceder.\n\nO Partido Socialista, apresentante do maior número de documentos, logo deixou antever que poderia haver mais.\n\nO seu representante na Subcomissão sempre adiou as decisões definitivas sobre os vários artigos; muitas vezes demonstrou menos concordância e até menor conhecimento do conteúdo daquilo que se propunha defender.\n\nDeixou até a ideia de que esse lote de propostas fora redigido à pressa para marcar presença.\n\nNo meio de múltiplas exigências, apesar das reclamações de todo o mundo cooperativo face ao atraso, o Partido Socialista exigiu a gravação e descodificação de todas as discussões travadas na Subcomissão. Tais operações, sempre morosas, acontecem pela primeira vez nesta Assembleia numa Subcomissão.\n\nAté que em Maio do corrente ano um novo e volumoso lote de propostas foi apresentado pelo Partido Socialista.\n\nAlgumas dessas propostas eram contraditórias com as passadas, outras perfilhavam consensos já obtidos na Comissão, mas que o PS chamava da sua lavra, e ainda outras incidiam pela primeira vez sobre vários artigos! É verdade. A discussão voltaria ao zero, enquanto os cooperativistas sofreriam mais um pouco!"
+    },
+    {
+      "utterance_id": 214,
+      "order": 214,
+      "page_start": 914,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 215,
+      "order": 215,
+      "page_start": 914,
+      "speaker": {
+        "id": 506,
+        "name": "Manuel António Araújo Dos Santos",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Na procura do maior consenso possível - que, de resto, foi conseguido, mas não aqui hoje reconhecido pela oposição, por razões que transcendem a lei e que não atendem aos ideais tantas vezes proclamados-, o PSD aceitou tudo discutir com a maior abertura.\n\nOuvimos igualmente as estruturas cooperativas apresentadas no conselho coordenador do INSCOOP. Julgo poder afirmar, com verdade, que se sentiram satisfeitas com o articulado, pois fomos ao encontro das suas propostas de alteração.\n\nO texto final é a prova disso. Do mesmo retiramos como afirmações: serve o movimento cooperativo, incentiva a liberdade criadora dos cooperativistas, aprofunda a sua independência face ao Estado e à sua autonomia, face ao sector público e privado, facilita e fomenta o aparecimento de novas cooperativas e clarifica os termos em que as mesmas se fazem representar e representam.\n\nSr. Presidente, Srs. Deputados: Acabámos de votar a lei do Código Cooperativo.\n\nApesar de entendermos que ao ideal social-democrático que professamos são fundamentais as suas componentes sindical e cooperativa, nunca deixaremos de proclamar bem alto que não animam o PSD quaisquer sentimentos hegemónicos desses movimentos; não nos animam intenções dirigistas ou de controle; não queremos quebrar-lhe a sua independência e autonomia."
+    },
+    {
+      "utterance_id": 216,
+      "order": 216,
+      "page_start": 914,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 217,
+      "order": 217,
+      "page_start": 914,
+      "speaker": {
+        "id": 506,
+        "name": "Manuel António Araújo Dos Santos",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso queremos repartir as virtudes e defeitos da presente lei no seu articulado concreto, na certeza de que pela nossa parte sempre temos estado e estaremos receptivos ao diálogo permanente com os cooperativistas, sempre na perspectiva de melhorar e aprofundar as medidas legislativas necessárias ao sector.\n\nPor isso, e enquanto uns sê vão satisfazendo com o propalar de princípios, os governos da Aliança Democrática vão praticando o que é essencial ao fortalecimento do movimento.\nAssim, foram aprovadas medidas para a implementação da formação cooperativa e profissional a desenvolver pelo INSCOOP, com a colaboração das organizações cooperativas de grau superior do respectivo ramo e o Instituto do Emprego e Formação Profissional; do programa denominado «Coopemprego», que visa criar empregos para jovens à procura de primeiro emprego e"
+    },
+    {
+      "utterance_id": 218,
+      "order": 218,
+      "page_start": 915,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, não havendo mais declarações de voto sobre as ratificações relativas ao Código Cooperativo, vai ser lido pela Mesa um relatório e parecer da Comissão de Regimento e Mandatos.\nFoi lido. É o seguinte:\nRelatório e parecer da Comissão de Regimento e Mandatos\nEm reunião realizada no dia 16 de Dezembro de 1982, pelas 14 horas e 30 minutos, foram observadas as seguintes substituições de deputados:\n1) Solicitadas pelo Partido Social-Democrata:\nValdemar Cardoso Alves (círculo eleitoral de Aveiro) por Carlos Dias Ribas (esta substituição é pedida para os próximos dias 17 a 20 de Dezembro corrente, inclusive;\n\nMário Martins Adegas (círculo eleitoral de Aveiro) por Carlos Dias Ribas (esta substituição é pedida por um período não superior a 3 meses, a partir do próximo dia 21 de Dezembro corrente, inclusive;\n\n2) Solicitada pelo Partido do Centro Democrático Social:\n\nJosé Eduardo Fernandes de Sanches Osório (círculo eleitoral de Santarém) por Duarte Nuno da Silva e Correia de Vasconcelos (esta substituição é pedida por um período não superior a l mês, a partir do próximo dia 20 de Dezembro corrente, inclusive;\n\n3) Solicitada pelo Partido da União de Esquerda para a Democracia Socialista:\n\nAntónio César Gouveia de Oliveira (círculo eleitoral de Faro) por Dorilo Jaime Figueiredo Seruca Inácio (esta substituição é pedida para o período de 4 a 31 de Janeiro de 1983, inclusive.\n\nAnalisados os documentos pertinentes de que a Comissão dispunha, verificou-se que os substitutos indicados são realmente os candidatos não eleitos que devem ser chamados ao exercício de funções, considerando a ordem de precedência das respectivas listas eleitorais apresentadas a sufrágio pelos aludidos partidos nos concernentes círculos eleitorais.\n\nForam observados os preceitos regimentais e legais aplicáveis.\n\nFinalmente, a Comissão entende proferir o seguinte parecer:\n\nAs substituições em causa são de admitir, uma vez que se encontram verificados os requisitos legais.\n\nO presente relatório foi aprovado por maioria, com a abstenção do deputado da União Democrática Popular.\nO Vice-presidente, António Cândido Miranda Macedo (PS) - Secretário, Alexandre Correia de Carvalho Reigoto (CDS) - Secretário, José Manuel Maia Nunes de Almeida (PCP) - António Duarte e Duarte Chagas (PSD) - Cristóvão Guerreiro Norte (PSD) - Maria Adelaide S. de Almeida e Paiva (PSD) - Valdemar Cardoso Alves (PSD) - Jaime Adalberto Simões Ramos (PSD) - Bento Elísio de Azevedo (PS) - Alfredo Pinto da Silva (PS) - Manuel de A. de Almeida e Vasconcelos (CDS) - Victor Afonso Pinto da Cruz (CDS) - Álvaro Augusto Veiga de Oliveira (PCP) - Lino Carvalho de Lima (PCP) - António Cardoso Moniz (PPM) - Manuel Cardoso Vilhena de Carvalho (ASDI) - António Manuel de Carvalho F. Vitorino (UEDS)."
+    },
+    {
+      "utterance_id": 219,
+      "order": 219,
+      "page_start": 915,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está em apreciação o relatório e parecer da Comissão de Regimento e Mandatos que acaba de ser lido.\n\nNão havendo pedidos de palavra, vamos proceder à sua votação.\nSubmetido à votação, foi aprovado por unanimidade, verificando-se a ausência da UDP."
+    },
+    {
+      "utterance_id": 220,
+      "order": 220,
+      "page_start": 915,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos passar ao terceiro ponto da ordem do dia, a discussão na generalidade do projecto de lei n.º 370/II, apresentado pela ASDI, sobre a publicação, identificação e formulário dos diplomas.\n\nTem a palavra o Sr. Deputado Magalhães Mota."
+    },
+    {
+      "utterance_id": 221,
+      "order": 221,
+      "page_start": 915,
+      "speaker": {
+        "id": 283,
+        "name": "Joaquim Jorge De Magalhães Saraiva Da Mota",
+        "party": "ASDI",
+        "string": "O Sr. Magalhães Mota (ASDI)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, pedi a palavra para interpelar a Mesa.\n\nCom efeito, há pouco, na reunião dos presidentes dos grupos parlamentares, suscitei ao Sr. Presidente da Assembleia a questão de saber se a Madeira e os Açores tinham sido consultados sobre esta matéria, visto que tomámos o cuidado de anunciar esta obrigatoriedade na"
+    },
+    {
+      "utterance_id": 222,
+      "order": 222,
+      "page_start": 916,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado Magalhães Mota importa-se de me invocar a disposição regimental ou legal que diz que, não havendo esse parecer, o projecto não pode ser discutido?"
+    },
+    {
+      "utterance_id": 223,
+      "order": 223,
+      "page_start": 916,
+      "speaker": {
+        "id": 283,
+        "name": "Joaquim Jorge De Magalhães Saraiva Da Mota",
+        "party": "ASDI",
+        "string": "O Sr. Magalhães Mota (ASDI)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, isso resulta da própria Constituição; se não se fizer essa consulta cometer-se-á uma inconstitucionalidade e creio que a Assembleia deve evitar praticar inconstitucionalidades."
+    },
+    {
+      "utterance_id": 224,
+      "order": 224,
+      "page_start": 916,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, não me parece totalmente clara a sua explicação, pois não acompanhei o processo. Em todo o caso, o Sr. Deputado Magalhães Mota já está devidamente informado sobre a não existência desse parecer. Portanto, o problema que se põe agora é o de saber se pode fazer-se a discussão deste projecto de lei na generalidade e corrigir-se essa falha enquanto não se aprova o diploma na votação final global - que presumo virá a ser feita depois da sua votação na especialidade-, ou se, pura e simplesmente, não deve começar-se a discussão na generalidade, devendo passar-se ao ponto seguinte."
+    },
+    {
+      "utterance_id": 225,
+      "order": 225,
+      "page_start": 916,
+      "speaker": {
+        "id": 283,
+        "name": "Joaquim Jorge De Magalhães Saraiva Da Mota",
+        "party": "ASDI",
+        "string": "O Sr. Magalhães Mota (ASDI)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dá-me licença, Sr. Presidente?"
+    },
+    {
+      "utterance_id": 226,
+      "order": 226,
+      "page_start": 916,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Um momento, Sr. Deputado. Tem primeiro a palavra o Sr. Deputado Veiga de Oliveira."
+    },
+    {
+      "utterance_id": 227,
+      "order": 227,
+      "page_start": 916,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. Veiga de Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, eu pretendia dar a nossa opinião, mas não quero tolher o Sr. Deputado Magalhães Mota -uma vez que ainda está no uso da palavra, se assim se quiser entender - de continuar a sua intervenção."
+    },
+    {
+      "utterance_id": 228,
+      "order": 228,
+      "page_start": 916,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado Magalhães Mota."
+    },
+    {
+      "utterance_id": 229,
+      "order": 229,
+      "page_start": 916,
+      "speaker": {
+        "id": 283,
+        "name": "Joaquim Jorge De Magalhães Saraiva Da Mota",
+        "party": "ASDI",
+        "string": "O Sr. Magalhães Mota (ASDI)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é minha sugestão, uma vez que se confirma a inexistência do parecer, que esta matéria passe para final da ordem do dia, visto que tal permitirá colhê-lo, ainda. E sendo assim, entraríamos de imediato na discussão do ponto seguinte da nossa ordem dos trabalhos."
+    },
+    {
+      "utterance_id": 230,
+      "order": 230,
+      "page_start": 916,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, pergunto, há alguma oposição a esta proposta do Sr. Deputado Magalhães Mota?"
+    },
+    {
+      "utterance_id": 231,
+      "order": 231,
+      "page_start": 916,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. Veiga de Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, dá-me licença?"
+    },
+    {
+      "utterance_id": 232,
+      "order": 232,
+      "page_start": 916,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Veiga de Oliveira, tem a palavra."
+    },
+    {
+      "utterance_id": 233,
+      "order": 233,
+      "page_start": 916,
+      "speaker": {
+        "id": 26,
+        "name": "Álvaro Augusto Veiga De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. Veiga de Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, a proposta do Sr. Deputado Magalhães Mota é um princípio de solução, mas pode não bastar. Em nosso entender, uma vez começada a discussão, segue-se a votação na generalidade e nada obriga a que a votação na especialidade não se faça de imediato, como também nada obriga a que não haja, logo a seguir, a votação final global, agora exigida nos termos da Constituição revista. Ora isto, a verificar-se, conduziria a que o processo legislativo, se não fosse interrompido, culminasse numa deliberação inconstitucional da Assembleia, porque violaria, designadamente, o artigo 231.º da Lei Fundamental.\n\nPor isso, nós entendemos que não se deve começar a discutir este projecto de lei - que é muito importante e urgente- sem que haja o parecer das regiões autónomas. Na verdade, existe matéria que especificamente lhes diz respeito, como a matéria contida no artigo 2.º, e não só. Por isso, e pelo nosso lado, entendemos que este projecto de lei deve ser remetido para último lugar da ordem do dia, como princípio de solução. Mas esse princípio de solução poderá abrir caminho para um final que será este: enquanto não tivermos os pareceres da Madeira e dos Açores, exigíveis pela Constituição, não deveremos começar a discutir esta proposta de lei.\n\nDurante esta intervenção, tomaram lugar na bancada do Governo o Sr. Ministro da Cultura e Coordenação Científica (Lucas Pires) e o Sr. Secretário de Estado da Cultura (Gomes de Pinho)."
+    },
+    {
+      "utterance_id": 234,
+      "order": 234,
+      "page_start": 916,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Perguntei há pouco se não havia oposição à proposta apresentada pelo Sr. Deputado Magalhães Mota.\n\nInscreveram-se, entretanto, vários senhores deputados para usarem da palavra, pelo que dou a palavra à Sr.ª Deputada Helena Cidade Moura."
+    },
+    {
+      "utterance_id": 235,
+      "order": 235,
+      "page_start": 916,
+      "speaker": {
+        "id": 446,
+        "name": "Helena Tâmega Cidade Moura",
+        "party": "MDP/CDE",
+        "string": "A Sr.ª Helena Cidade Moura (MDP/CDE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, esta proposta, que me parece justa e oportuna, obriga a que se comece de imediato a discutir a autorização legislativa sobre o património cultural. Ora, acontece que o Sr. Ministro da Cultura não está presente.\n\nAh, o Sr. Ministro Lucas Pires já chegou, e eu não reparei. Terei, então, muito prazer em ouvi-lo no início desta discussão."
+    },
+    {
+      "utterance_id": 236,
+      "order": 236,
+      "page_start": 916,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, verifica-se que não há oposição à proposta apresentada pelo Sr. Deputado Magalhães Mota. Procederemos, pois, de acordo com ela, tornando-se evidente que não é da responsabilidade de quem preside à reunião a inclusão na agenda deste projecto de lei.\n\nTem a palavra o Sr. Deputado José Manuel Mendes."
+    },
+    {
+      "utterance_id": 237,
+      "order": 237,
+      "page_start": 916,
+      "speaker": {
+        "id": 737,
+        "name": "José Manuel De Melo Antunes Mendes",
+        "party": "PCP",
+        "string": "O Sr. José Manuel Mendes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, desejava interpelar a Mesa relativamente à questão da ordem de trabalhos que vai seguir-se. \nO Sr. Presidente ia anunciá-la e talvez eu tenha sido excessivamente rápido na produção do sinal com o qual habitualmente se pede a palavra. Por isso, se V. Ex.ª pretender ser formal, anunciaria primeiro e eu interpelaria a Mesa em seguida."
+    },
+    {
+      "utterance_id": 238,
+      "order": 238,
+      "page_start": 916,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, naturalmente que aceito a proposta do Sr. Deputado Magalhães Mota. Entraríamos, pois, no ponto quarto da ordem do dia, discussão e votação da proposta de lei n.º 106/II, que autoriza o Governo a legislar sobre o património cultural português."
+    },
+    {
+      "utterance_id": 239,
+      "order": 239,
+      "page_start": 917,
+      "speaker": {
+        "id": 737,
+        "name": "José Manuel De Melo Antunes Mendes",
+        "party": "PCP",
+        "string": "O Sr. José Manuel Mendes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, desejava interpelar a Mesa nos seguintes termos: esta matéria tem vindo a ser adiada sucessivamente pelas razões mais diversas, mas o que não pode negar-se é que constitui, ela mesma, algo de extremamente relevante do ponto de vista da dignidade de que se reveste..."
+    },
+    {
+      "utterance_id": 240,
+      "order": 240,
+      "page_start": 917,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, vai desculpar-me, mas as interpelações à Mesa são de ordem processual e devem ser feitas com brevidade. Por isso, agradecia-lhe que a fizesse nesses termos."
+    },
+    {
+      "utterance_id": 241,
+      "order": 241,
+      "page_start": 917,
+      "speaker": {
+        "id": 737,
+        "name": "José Manuel De Melo Antunes Mendes",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, permitir-me-á que fundamente a interpelação. Nunca gostei de ser tão célere e tão sintético que deixasse buracos pelo caminho daquilo que vou dizendo. V. Ex.ª compreenderá, certamente, e, dando-me o benefício da dúvida, facultar-me-á que diga alguma coisa mais."
+    },
+    {
+      "utterance_id": 242,
+      "order": 242,
+      "page_start": 917,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Está concedido o benefício da dúvida, Sr. Deputado. A única coisa que pretendo, é que se paute pelas normas regimentais."
+    },
+    {
+      "utterance_id": 243,
+      "order": 243,
+      "page_start": 917,
+      "speaker": {
+        "id": 737,
+        "name": "José Manuel De Melo Antunes Mendes",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente, Sr. Presidente.\n\nAfirmava eu que se trata de uma matéria de grande dignidade, como, aliás, é reconhecido por todos. E estou a defendê-lo com particular à-vontade uma vez que, na qualidade de presidente da Comissão de Cultura, pude aquilatar da opinião genérica de quantos nela têm lugar. Creio que alguma coisa ocorreu nesta tarde de Plenário que justifica o que passo a enunciar.\n\nContava-se que fosse discutir o diploma que antecedia este e, no momento presente, estão ausentes desta Câmara, pessoas que teriam todo o interesse em intervir sobre a matéria -basta-me olhar as bancadas para o confirmar. Por outro lado, uma significativa massa de deputados está também ausente. Suponho que a escassos minutos do fim da sessão e dada a dignidade do diploma em apreço, seria de todo em todo curial que não se entrasse hoje no debate e que ele se transferisse para o primeiro ponto da ordem de trabalhos de amanhã.\n\nAssim, a interpelação que faço é no sentido de saber se a Mesa coonesta este desejo e vê possibilidade de, através de uma rápida consulta aos grupos parlamentares, se lhe dar cobertura e aplauso."
+    },
+    {
+      "utterance_id": 244,
+      "order": 244,
+      "page_start": 917,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. César Oliveira (UEDS) e vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 245,
+      "order": 245,
+      "page_start": 917,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, qualquer alteração da ordem do dia pressupõe, necessariamente, o acordo de todos os grupos parlamentares. Se assim acontecer - embora as razões que invocou não sejam inteiramente procedentes porque esta proposta de lei consta da ordem de trabalhos de hoje e, como tal, os Srs. Deputados têm obrigação de saber que ela poderia ser hoje discutida-, se os grupos parlamentares manifestarem o desejo unânime de que este ponto não seja discutido hoje, evidentemente que a Mesa não levantará qualquer objecção.\n\nTem a palavra o Sr. Deputado Armando de Oliveira."
+    },
+    {
+      "utterance_id": 246,
+      "order": 246,
+      "page_start": 917,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Armando de Oliveira (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: A bancada do CDS concorda que o debate se inicie amanhã, dado o curto espaço de tempo de que dispomos até às 20 horas. Possivelmente, nem sequer haveria tempo para o Sr. Ministro fazer a apresentação do projecto de lei."
+    },
+    {
+      "utterance_id": 247,
+      "order": 247,
+      "page_start": 917,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, para evitar muitos pedidos de palavra deste teor, pergunto se há alguma oposição a que se termine imediatamente a nossa reunião de hoje e a que não se entre na apreciação da proposta de lei n.º 106/II, passando, portanto, esta proposta para primeiro ponto da ordem do dia de amanhã.\n\nTem a palavra o Sr. Deputado Borges de Carvalho."
+    },
+    {
+      "utterance_id": 248,
+      "order": 248,
+      "page_start": 917,
+      "speaker": {
+        "id": 416,
+        "name": "António José Borges Gonçalves De Carvalho",
+        "party": "PPM",
+        "string": "O Sr. Borges de Carvalho (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 249,
+      "order": 249,
+      "page_start": 917,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 250,
+      "order": 250,
+      "page_start": 917,
+      "speaker": {
+        "id": 416,
+        "name": "António José Borges Gonçalves De Carvalho",
+        "party": "PPM",
+        "string": "O Sr. Borges de Carvalho (PPM)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, não é para aduzir qualquer oposição. E simplesmente para dizer que esta decisão -com a qual não concordamos, embora não a inviabilizemos- não deve constituir precedente.\n\nA Câmara já tem demasiado tempo perdido e penso que, apesar de pouco, todo o tempo deve ser aproveitado produtivamente. Assim julgo, não haver razão, por um quarto de hora que seja, para encerrar os trabalhos.\n\nDe qualquer maneira, não inviabilizaremos uma decisão nesse sentido, já que tal parece ter a concordância da esmagadora maioria dos senhores deputados."
+    },
+    {
+      "utterance_id": 251,
+      "order": 251,
+      "page_start": 917,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, esta decisão tem de ser tomada por unanimidade. Desde que haja um só senhor deputado que discorde, tal inviabilizará a proposta.\n\nPergunto, portanto, uma vez mais, se há alguma objecção à proposta de adiamento para amanhã da discussão e apreciação da proposta de lei n.º 106/II.\nPausa.\nNão havendo objecções, resta-me anunciar que deu entrada na Mesa a proposta de lei n.º 138/II, sobre alteração à Lei n.º 40/81, de 31 de Dezembro, que aprova o OGE para 1982, com pedido de prioridade e urgência.\n\nEsta proposta de lei baixa à Comissão de Economia, Finanças e Plano. Deu também entrada na Mesa o projecto de lei n.º 383/II sobre a criação da freguesia de Portela, no concelho de Loures, apresentado pelos Srs. Deputados do PSD, Santa Rita Pires, Correia de Jesus e outros, e ainda a proposta de lei n.º 137/II, sobre as grandes opções do Plano para 1983, a qual baixa à Comissão de Economia, Finanças e Plano.\n\nSrs. Deputados, como é habitual, amanhã haverá reunião às 10 horas, com período de antes da ordem do dia e sendo a ordem do dia a continuação da agenda de hoje.\n\nSrs. Deputados, está encerrada a sessão."
+    }
+  ]
+}

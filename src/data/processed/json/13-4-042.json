@@ -1,0 +1,3330 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "13",
+    "legislative_session": "4",
+    "number": "42",
+    "date": "2019-01-23"
+  },
+  "debate_id": "r3_13_4_42_2019-01-23",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as Deputadas e Srs. Deputados, Srs. Membros do Governo, Sr.as Funcionárias e Srs. \nFuncionários, Sr.as e Srs. Jornalistas, vamos dar início à sessão plenária. \n\nEram 15 horas e 5 minutos. \n\nPeço aos Srs. Agentes da autoridade para abrirem as galerias ao público. \nTem a palavra o Sr. Secretário Duarte Pacheco para proceder à leitura do expediente."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Duarte Pacheco)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as Deputadas e Srs. Deputados, informo que deram \nentrada na Mesa, e foram admitidas, as Propostas de Lei n.os 175/XIII/4.ª (GOV) — Autoriza o Governo a aprovar \num regime jurídico do exercício da atividade de segurança privada armada a bordo de navios que arvorem \nbandeira portuguesa e que atravessem áreas de alto risco de pirataria, que baixa a 1.ª Comissão em conexão \ncom a 7.ª Comissão, e 176/XIII/4.ª (GOV) — Altera o Código de Processo do Trabalho, adequando-o ao Código \nde Processo Civil, que baixa à 10.ª Comissão. \nDeram também entrada na Mesa os Projetos de Lei n.os 1075/XIII/4.ª (CDS-PP) — Fim do prazo de um ano \npara desmantelar veículos em centros certificados, que baixa à 11.ª Comissão, 1076/XIII/4.ª (PAN) — Altera o \nDecreto-Lei n.º 58/2004, de 19 de março, assegurando a acessibilidade efetiva das pessoas com capacidade \ndiminuída aos veículos pesados de passageiros, que baixa à 6.ª Comissão, 1077/XIII/4.ª (PAN) — Altera a Lei \nn.º 52/2018, de 20 de agosto, que estabelece o regime de prevenção e controlo da doença dos legionários, que \nbaixa à 11.ª Comissão, em conexão com a 6.ª Comissão, 1078/XIII/4.ª (BE) — Altera o Decreto-Lei n.º 123/2009, \nde 21 de maio, introduzindo o modelo de entidades certificadoras, 1079/XIII/4.ª (BE) — Altera a Lei n.º 14/2015, \nde 16 de fevereiro, promovendo o acesso à atividade de Entidade Inspetora de Instalações Elétricas de serviço \nparticular, que baixa à 6.ª Comissão, e 1080/XIII/4.ª (PCP) — Estabelece o regime de recuperação do controlo \npúblico dos CTT, que baixa à 6.ª Comissão. \nDeram ainda entrada na Mesa os Projetos de Resolução n.os 1945/XIII/4.ª (CDS-PP) — Recomenda ao \nGoverno a adoção de medidas para reduzir a desigualdade existente na rede de distribuição de energia, que \nbaixa à 6.ª Comissão, 1946/XIII/4.ª (PCP) — Consagra o dia 31 de janeiro como Dia Nacional do Sargento, que \nbaixa à 3.ª Comissão, e 1947/XIII/4.ª (BE) — Extinção da concessão da atividade turística da serra da Estrela \npor incumprimento, que baixa à 6.ª Comissão. \nÉ tudo, Sr. Presidente."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as Deputadas e Srs. Deputados, o primeiro ponto da ordem do dia da sessão de hoje \nconsta da discussão conjunta, na generalidade, da Proposta de Lei n.º 171/XIII/4.ª (GOV) — Aprova a Lei de \nBases da Saúde e dos Projetos de Lei n.os 1029/XIII/4.ª (PCP) — Lei de Bases da Política de Saúde, 1065/XIII/4.ª \n(PSD) — Lei de Bases da Saúde e 1066/XIII/4.ª (CDS-PP) — Lei de Bases da Saúde. \nEm primeiro lugar, tem a palavra, para uma intervenção, a Sr.ª Ministra da Saúde, Marta Temido, que \naproveito para cumprimentar, tal como os restantes membros do Governo presentes na bancada."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr. Ministra da Saúde (Marta Temido)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: A proposta de nova lei de bases \nda saúde que o Governo hoje apresenta tem quatro eixos fundamentais que me permito destacar. \nEm primeiro lugar, afirma-se como uma lei de bases para o século XXI. Trata-se de uma lei que reflete as \ntendências internacionais das políticas de saúde, suscita resposta às mudanças demográficas e epidemiológicas \ne à necessidade de novos modelos assistenciais, concitando as potencialidades das tecnologias de informação \ne comunicação como instrumentais da prestação. \nEm segundo lugar, afirma-se como uma nova lei de bases que centra a política de saúde nas pessoas. A \nproposta reflete cidadãos mais informados e exigentes e atualiza o seu catálogo de direitos e deveres, afirmando, \nexpressamente, que um dos objetivos do sistema de saúde é a proteção das pessoas face aos riscos financeiros \nda doença, que os requerentes de proteção internacional e os migrantes são beneficiários do Serviço Nacional \nde Saúde e que a participação das pessoas na definição, no acompanhamento e na avaliação das políticas de \nsaúde é essencial. \nEm terceiro lugar, esta proposta afirma-se como uma lei de bases que reforça o papel do Estado e clarifica \nas relações com os setores privado e social. Com efeito, reitera o princípio constitucional de que o direito à"
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 3,
+      "speaker": {
+        "id": 1520,
+        "name": "Maria Antónia Moreno Areias De Almeida Santos",
+        "party": "PS",
+        "string": "A Sr.ª Maria Antónia de Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exato!"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr. Ministra da Saúde",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "E que a política de recursos humanos para a saúde visa facilitar a mobilidade \nde profissionais entre o setor público e o setor privado?"
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 3,
+      "speaker": {
+        "id": 1520,
+        "name": "Maria Antónia Moreno Areias De Almeida Santos",
+        "party": "PS",
+        "string": "A Sr.ª Maria Antónia de Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Já se esqueceram!"
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 3,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr. Ministra da Saúde",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "O que se pretende, afinal? Mudar tudo, para que tudo fique como está, como \nparecem pretender alguns? \nSr. Presidente e Srs. Deputados, somos claros naquilo que queremos. Queremos aquilo que sempre \nafirmámos ao longo da nossa história: um sistema de saúde centrado no SNS, financiado por impostos, com \nprestação preferencialmente pública — insisto, preferencialmente pública —, porque reconhecemos a \ncomplexidade e a diversidade do mundo que nos rodeia e os limites do nosso poder transformador da realidade. \nO que não nos impede de afirmar qual o caminho que queremos percorrer. \nMas também somos claros naquilo que não queremos: não queremos que a separação das funções de \nfinanciador e prestador seja o alibi para privatizar, não queremos ser sangrados dos profissionais que formamos, \nnão queremos concessionar pela simples dificuldade em reformar. \nA liberdade de iniciativa e a concorrência têm um papel no setor da saúde — conhecemo-lo e respeitamo-lo \n—, mas não nos peçam que alinhemos na falácia de que o mercado da saúde é como qualquer outro, que não \ntem falhas que importa corrigir, em nome do interesse geral, sendo a Lei de Bases da Saúde um dos mecanismos \npara o fazer. \nSr. Presidente e Srs. Deputados, em Portugal percorremos um longo caminho. Cinco anos depois da \nRevolução, em setembro de 1979, era criado o Serviço Nacional de Saúde, mas, mesmo antes, o II Governo \nConstitucional já deliberara abrir os postos da Previdência e os hospitais a toda a população, um gesto \nfundamental no caminho da universalidade da cobertura. \nA partir de 1979, o SNS foi-se consolidando e ganhou a simpatia dos portugueses. Os notáveis ganhos em \nsaúde que se conseguiram nas últimas décadas são bem conhecidos e as suas razões também: a melhoria do \nrendimento das pessoas e das suas condições de vida, a democracia, e a existência do SNS. Mas o que é hoje \nevidente nem sempre o foi. Importa não esquecer a história. Não para remexer nas feridas ou para colher louros, \nmas para evitar erros."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 4,
+      "speaker": {
+        "id": 1520,
+        "name": "Maria Antónia Moreno Areias De Almeida Santos",
+        "party": "PS",
+        "string": "A Sr.ª Maria Antónia de Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr. Ministra da Saúde",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Estou certa, Srs. Deputados, Sr.as Deputadas, que esta Câmara saberá, agora, \ncolocar-se do lado certo da história!"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Ministra, inscreveram-se cinco Deputados para lhe pedirem esclarecimentos. \nComo pretende responder?"
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr. Ministra da Saúde",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, vou responder aos cinco em conjunto."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem, então, a palavra, para um pedido de esclarecimento, a Sr.ª Deputada Paula \nSantos, do Grupo Parlamentar do PCP."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 4,
+      "speaker": {
+        "id": 2123,
+        "name": "Paula Alexandra Sobral Guerreiro Santos Barbosa",
+        "party": "PCP",
+        "string": "A Sr.ª Paula Santos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Ministra, o que está em confronto neste debate sobre a \nLei de Bases da Saúde é se se avança por um caminho de reforço do Serviço Nacional de Saúde ou se se \naprofunda o caminho de favorecimento dos grandes grupos privados na área da saúde. \nA questão fundamental é saber se a opção passa pela defesa do caráter universal, geral, gratuito para todos \ndo Serviço Nacional de Saúde, dotando-o de meios que deem resposta às necessidades de prestação de \ncuidados de saúde com qualidade a que os utentes têm direito ou se a opção passa pela progressiva \ntransferência da prestação de cuidados para os grupos privados, tornando a saúde um negócio altamente \nlucrativo. \nPara assegurar o direito constitucional à saúde, não é indiferente quem presta os cuidados de saúde. E a \ngrande diferença encontra-se no facto de o Serviço Nacional de Saúde tratar todos por igual e ter como objetivo \na saúde. Para os grupos privados, contrariamente ao serviço público, o que importa não é saúde, é a doença e \na prioridade não são os cuidados de saúde, mas, sim, a maximização do lucro. \nPor isso, Sr.ª Ministra, é importante que fique clarificado neste debate o que defende o Governo. \n\nA Sr.ª Ministra afirmou, no final da sua intervenção, quem é que está do lado certo. Por isso, pergunto-lhe se \no Governo vai estar do lado certo, a defender e reforçar o Serviço Nacional de Saúde e a gestão pública, dando \nassim concretização ao direito constitucional à saúde ou se quer manter e aumentar as PPP (parcerias público-\nprivadas), transferir serviços e cuidados para os grupos privados, que olham para a saúde somente como mais \numa oportunidade de negócio."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 4,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, também para um pedido de esclarecimento, o Sr. Deputado Moisés \nFerreira, do Grupo Parlamentar do Bloco de Esquerda."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 4,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Ministra, não há dúvida de que é preciso uma nova lei de \nbases da saúde, que, ao contrário da atual, reforce o SNS, garanta que os seus recursos são efetivamente"
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 5,
+      "speaker": {
+        "id": 2061,
+        "name": "José Manuel Marques Da Silva Pureza",
+        "party": "BE",
+        "string": "O Sr. José Manuel Pureza (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 5,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vimos o Governo a preparar a renovação das parcerias público-privadas em \nCascais e em Braga, e, por isso, é preciso clarificação. Vai privilegiar a gestão pública ou manter tudo como \nestá? \n\nA Sr.ª Ministra diz que é preciso clarificar, e bem, a relação entre o público e o privado. Então, consideramos \nque deve estar, de forma muito clara, em qualquer proposta que venha a ser apresentada e aprovada que o \nprivado e o social é meramente complementar do público. Não é uma relação de cooperação, é uma relação de \ncomplementaridade. \n\nA Sr.ª Ministra já disse que as taxas moderadoras não servem para financiar o SNS, que não são um \ncopagamento, mas a verdade é que, tal como existem atualmente, são um copagamento!"
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 5,
+      "speaker": {
+        "id": 2134,
+        "name": "Pedro Filipe Gomes Soares",
+        "party": "BE",
+        "string": "O Sr. Pedro Filipe Soares (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 5,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso, é clareza que se exige e é clareza que queremos ter neste debate. \nSr.ª Ministra, o Governo tem uma proposta. A proposta que o Governo tem, nestes aspetos essenciais, é \ndúbia. Está o Governo preparado para negociar a proposta, para alterar a proposta? Se sim, saiba que, da parte \ndo Bloco de Esquerda, não faltaremos à chamada do Serviço Nacional de Saúde e, por nós, o Serviço Nacional \nde Saúde terá um futuro longo e será muito melhor do que foi nos últimos 28 anos."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Ana Rita Bessa."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 5,
+      "speaker": {
+        "id": 1937,
+        "name": "Ana Rita Barreira Duarte Bessa",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Ana Rita Bessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Ministra, a senhora tomou posse há precisamente \n100 dias. E, nestes 100 dias, tivemos: uma greve de enfermeiros, com milhares de cirurgias adiadas; demissões \nna direção de serviços de vários hospitais, por falta de segurança clínica; cuidados continuados em risco; \nfarmácias hospitalares a encerrar; acesso a consultas e tratamentos prejudicado, com aumentos expressivos \ndos tempos de espera. E poderia continuar… \nMas, hoje, ao centésimo dia, a Sr.ª Ministra vem ao Parlamento para apresentar a sua lei de bases da saúde. \nE a sua lei de bases merece-nos três grandes críticas. A primeira é quanto ao timing. \nA Sr.ª Ministra deixa a sua \nmarca na pasta da saúde não pelo pragmatismo da solução para os problemas que enunciei, mas por uma \nproposta de lei de bases que a nada a vincula e nada resolve. \nA segunda crítica é quanto ao processo. \nA Sr.ª Ministra deita fora a proposta amplamente desparticipada do \nseu antecessor e apresenta outra, que não colhe à direita, mas também não agrada à esquerda, e que até a \ndeixa isolada de grande parte do seu próprio partido, do Partido Socialista."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 5,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 5,
+      "speaker": {
+        "id": 1937,
+        "name": "Ana Rita Barreira Duarte Bessa",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Ana Rita Bessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A terceira crítica é quanto à substância, pois a Sr.ª Ministra propõe uma \nlei que é omissa e estatizante, um retrocesso de décadas, em vez de dar respostas para o futuro, uma lei que \nparece nem ter força para ser levada a votação."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 6,
+      "speaker": {
+        "id": 1937,
+        "name": "Ana Rita Barreira Duarte Bessa",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Ana Rita Bessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Diz a Sr.ª Ministra que «não discute com predadores do SNS, mas \napenas com aqueles que o defendem». \nPergunto-lhe, por isso, Sr.ª Ministra: o que é para si defender o SNS? Será uma execução do investimento \npúblico de 58% em 2017 e de 40% em 2018?"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ora bem!"
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 6,
+      "speaker": {
+        "id": 1937,
+        "name": "Ana Rita Barreira Duarte Bessa",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Ana Rita Bessa (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ou será agravar a dívida em 52% em relação a 2014, isto é, em mais \n2000 milhões de euros? \nOu serão, nas palavras do Prof. Correia de Campos, ainda ontem mesmo, aqui, no Parlamento, pagamentos \nem atraso, nos hospitais EPE, de 837 milhões de euros, valor só ultrapassado no ano de 2011? \nOu será diminuir as transferências do Estado para o SNS em 6%, face aos anos da troica? \nÉ que, se defender o SNS é isto, Sr.ª Ministra, se é, como dizia hoje o Sr. Secretário de Estado num artigo \nno Público, ter «o peito dorido de tanto bater com a mão em juras de amor ao SNS», então mantenha a sua \ninsistência no discurso ideológico para nos distrair da realidade. Mas saiba que não conta connosco, porque, \nsim, Sr.ª Ministra, o CDS está do lado certo, está do lado das pessoas, está do lado dos doentes. E não estamos \npreocupados com qual é a melhor configuração do sistema, desde que ela melhor responda às necessidades \ndos cidadãos."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Igualmente para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Maria Antónia \nde Almeida Santos."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 6,
+      "speaker": {
+        "id": 1520,
+        "name": "Maria Antónia Moreno Areias De Almeida Santos",
+        "party": "PS",
+        "string": "A Sr.ª Maria Antónia de Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Ministra, este debate demonstra à \nevidência a necessidade de uma nova lei de bases. Se não bastasse este debate, bastava revisitar algumas das \ndisposições que estão em vigor e que a Sr.ª Ministra, muito oportunamente, fez o favor de lembrar. \nTodos os grupos parlamentares têm iniciativas e o Grupo Parlamentar do Partido Socialista — desenganem-\nse, Sr.as Deputadas e Srs. Deputados — revê-se convictamente na proposta de lei do Governo. \n\nSim, Sr.ª Deputada Ana Rita Bessa, não vale a pena ver fantasmas onde não existem. \nA proposta de lei do Governo é ideologicamente coerente, defende o reforço do papel do Estado como redutor \ndas desigualdades, defende os serviços públicos. Sim, Sr.ª Ministra, é nisto que estamos a falar e é nisto que \nestamos de acordo. \nSegundo a melhor tradição humanista e solidária dos portugueses, importa preservar o direito à saúde e não \npermitir que ele se transforme num privilégio só de alguns."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 6,
+      "speaker": {
+        "id": 2043,
+        "name": "João Paulo Moreira Correia",
+        "party": "PS",
+        "string": "O Sr. João Paulo Correia (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 6,
+      "speaker": {
+        "id": 1520,
+        "name": "Maria Antónia Moreno Areias De Almeida Santos",
+        "party": "PS",
+        "string": "A Sr.ª Maria Antónia de Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A proposta de lei do Governo clarifica, entre outras coisas, \nas relações entre setores, reitera a responsabilidade do Estado como promotor e garante do direito à saúde, à \nproteção da saúde, através do Serviço Nacional de Saúde. \nA proposta de lei do Governo define, entre outras coisas, as relações entre os setores público, privado e \nsocial, os quais se regem pela cooperação, transparência e prevenção de conflitos de interesses."
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Ainda para pedir esclarecimentos, tem a palavra o Sr. Deputado Ricardo Baptista Leite."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 7,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Ministra da Saúde: «Demasiado vaga», \n«minimalista» e que abre a porta «a tudo e ao seu contrário» — é deste modo que a Dr.ª Maria de Belém Roseira \nqualifica a proposta de lei de bases da saúde que o Governo apresenta à Assembleia da República. \n\nA Dr.ª Maria de Belém foi Ministra da Saúde e Presidente do Partido Socialista. Mas, mais relevante para \neste debate, a Dr.ª Maria de Belém foi a responsável pelo trabalho produzido por uma comissão nomeada por \nesteGoverno para se rever a atual Lei de Bases da Saúde. \nE o que fez este Governo? Descartou, despudoradamente, todo o trabalho deste grupo de cidadãos. \nE para quê? Para nos apresentar, em alternativa, uma proposta de lei que não contém um pensamento claro \nnem uma linha política sistematizada para o sistema de saúde português. \nCom efeito, com esta proposta de lei, o Governo optou por ignorar as realidades e os desafios que se colocam \nhoje ao sistema de saúde português, sejam os fenómenos da baixa natalidade e do envelhecimento \ndemográfico, sejam o aumento da incidência das doenças crónicas, as exigências do papel tido pelos cuidadores \ninformais e a própria sustentabilidade do Serviço Nacional de Saúde. \nSr.ª Ministra da Saúde, o Governo apresenta-nos uma proposta de lei que assenta num equívoco central e \ncapital: ao mesmo tempo que tentou agradar à extrema-esquerda estatizante, acabou por reconhecer a \ninevitabilidade e as potenciais vantagens da cooperação entre o setor público e os setores privado e social. \nNo fundo, o Governo tentou agradar a Deus e ao Diabo. E foi assim que cometeu o pecado original. Ao \nmesmo tempo que apresenta uma proposta que reconhece o papel da cooperação entre setores, o Governo \nsubordina essa mesma cooperação a um critério cego de necessidade, independentemente das vantagens que \npoderia trazer para os utentes do Serviço Nacional de Saúde. \nAo mesmo tempo que a vossa proposta admite que a gestão das unidades do SNS pode ser feita por \nentidades privadas,…"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 7,
+      "speaker": {
+        "id": 1520,
+        "name": "Maria Antónia Moreno Areias De Almeida Santos",
+        "party": "PS",
+        "string": "A Sr.ª Maria Antónia de Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quando dá jeito!"
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 7,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… defende que essa colaboração apenas pode ser temporária, seja \nlá o que isso significa, porque, na realidade, ninguém entende. \nEm suma, o Governo apresenta-nos uma proposta de lei de bases da saúde pobre, equívoca e contraditória. \nPerante a espiral de apreciações negativas feitas à proposta do Governo, não surpreende que o Sr. Primeiro-\nMinistro tenha tentado salvar a face, com a sua habitual habilidade, ao dizer que «a atual maioria tem todas as \ncondições para conseguir aprovar uma lei de bases da saúde». \nDaí que lhe pergunte, Sr.ª Ministra: vai o Governo do Partido Socialista encostar-se à extrema-esquerda e \ndefender que toda a gestão da saúde deve ser exclusivamente pública?"
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 7,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nós arranjamos-lhe um cajado!"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 8,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vai o Governo do Partido Socialista encostar-se à extrema-esquerda \ne concordar com a abolição total das taxas moderadoras no Serviço Nacional de Saúde? \nSr.ª Ministra, este é um momento que vai definir o vosso mandato. Vai o Governo escolher a via do consenso, \nao centro, com os partidos pluralistas, como o PSD, procurando consensualizar uma lei de bases inclusiva, \nflexível e moderna? Ou vai a Sr.ª Ministra manter o País e os portugueses reféns das amarras ideológicas dos \npartidos comunistas que sustentam o Governo? \n\nSejamos claros: a ideologia não dá saúde e, que se saiba, não cura nenhuma doença."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 8,
+      "speaker": {
+        "id": 1520,
+        "name": "Maria Antónia Moreno Areias De Almeida Santos",
+        "party": "PS",
+        "string": "A Sr.ª Maria Antónia de Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas faz falta!"
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 8,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso, a Sr.ª Ministra tem de responder: qual é a prioridade do \nGoverno? É a ideologia, ou são as pessoas?"
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder aos pedidos de esclarecimento, tem a palavra a Sr.ª Ministra da Saúde."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Ministra da Saúde",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as Deputadas e Srs. Deputados, a opção desta lei é, como \nnão podia deixar de ser, uma opção pelo cidadão — só não vê quem não quer ver. \n\nSão os serviços públicos que melhor defendem o cidadão. E nesta lei está claro o reforço do papel do Estado \nna prestação e na regulação, Sr.ª Deputada Paula Santos. É essa a nossa fé, é isso que defendemos com esta \nlei. \nPor outro lado, Sr. Deputado Moisés Ferreira, quero dizer-lhe que o que aqui vemos é complementaridade, \né a articulação de que fala a Constituição. E é sobre essa complementaridade e nesse sentido que nos batemos. \nÉ nessa lógica que estamos dispostos a melhorar a nossa proposta e a trabalhar conjuntamente, porque \nestamos certos de que esta Câmara tem ainda um longo trabalho de melhoria para fazer, pois isso é da lei da \nvida. \nSr.ª Deputada Ana Rita Bessa, esta é a proposta do Governo. Quanto à dívida, ela ficou, em 2018, em 50% \ndo ano anterior — e vamos falar sobre isso brevemente —, isto é, menos de 500 milhões de euros. \n\nSr.ª Deputada Antónia Almeida Santos, o que defendemos é, de facto, o reforço dos serviços públicos. Mas \nnão hostilizamos; reconhecemos e sabemos que o setor privado e o setor social estão lá. Aceitamo-los, vivemos \ncom esses setores, precisamos de trabalhar com eles, mas com total transparência. \nPor último, Sr. Deputado Ricardo Baptista Leite, a necessidade não é um critério cego, mas este é um setor \nque vale 10% do PIB e que envolve muitos negócios. E é relativamente aos negócios que não estamos dispostos \na transigir."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para apresentar o projeto de lei do PCP, tem a palavra a Sr.ª Deputada Carla Cruz."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 9,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as Deputadas e Srs. Deputados: \nO direito constitucional à saúde, conquista da Revolução de Abril, tem vindo, há décadas, a ser coartado de \ninstrumentos fundamentais para o concretizar. \nO enfraquecimento do Serviço Nacional de Saúde tem-se traduzido na redução do financiamento, de serviços \nde proximidade e de profissionais em número adequado para prestar cuidados de saúde de qualidade, em \nsegurança e de forma atempada. \nEste enfraquecimento resulta das opções políticas de sucessivos Governos da política de direita, com o \nobjetivo de diminuir a resposta pública e favorecer o privado, sobretudo os grandes grupos monopolistas que \noperam no setor da saúde. \nO direito constitucional à saúde é fragilizado na sua amplitude por via do pagamento das taxas moderadoras \ne pelo fim da gratuitidade na prestação dos cuidados de saúde. Hoje, as famílias suportam cerca de 28% dos \ncustos com a saúde. \nAs opções políticas dos sucessivos Governos da política de direita e a Lei de Bases da Saúde, de 1990, \ncontribuíram para o subfinanciamento crónico do SNS, levaram ao abandono do modelo de gestão participada, \ndemocrática,…"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 9,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É um facto!"
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 9,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… optando pela generalização da nomeação, encorajaram o não investimento \nem equipamentos e tecnologias, a degradação progressiva dos vencimentos, das carreiras e das condições de \ntrabalho dos profissionais de saúde, assim como favoreceram a promiscuidade entre os setores público e privado \ne a transferência de cuidados do SNS para os grandes grupos económicos. \nSr. Presidente, Srs. Deputados, a proposta de lei de bases da política de saúde que hoje discutimos garante \no direito à saúde e atribui a responsabilidade da sua concretização ao Estado, através do SNS. \nRetomamos os princípios fundadores do SNS, o seu caráter universal, geral e gratuito, concretizado pela \nalocação de verbas através do Orçamento do Estado, imprescindíveis ao funcionamento, à modernização e à \nmelhoria das instalações e equipamentos, à contratação e à valorização dos profissionais. \nPropomos a gestão pública, descentralizada e participada, concedendo-se autonomia administrativa e \nfinanceira às entidades e aos estabelecimentos que o compõem. \nO modelo de gestão proposto assenta na existência de órgãos colegiais, cujos membros são selecionados \npor concurso público, na eleição, pelos seus pares, dos diretores clínicos, de enfermagem e dos representantes \ndos outros profissionais de saúde. \nNa proposta do PCP não há lugar para parcerias público-privadas, para entidades públicas empresariais; por \nisso propõe-se a sua extinção. \nEsta iniciativa assume claramente a separação entre os setores público, privado e social e atribui aos setores \nprivado e social um caráter supletivo, dizendo apenas que compete ao Estado regulá-los e fiscalizar as \natividades prestadas por estes, de acordo com o interesse público. \nAssume-se também que, para o SNS funcionar, é necessária a existência de órgãos centrais, regionais e \nlocais, destacando-se de entre estes os sistemas locais de saúde. \nSr. Presidente, Srs. Deputados, o direito constitucional à saúde exige que seja o Governo a definir a política \nde saúde, a financiá-la, a prestá-la e a regulá-la. \nA política de saúde tem âmbito nacional, estando a saúde no centro de todas as políticas, permitindo-se \nassim a intervenção sobre os determinantes sociais da saúde e da produção de doença. \nA política de saúde assenta no planeamento dos recursos humanos, materiais, tecnológicos e financeiros \npara responder às necessidades identificadas e às aquisições do progresso científico e tecnológico. \nO direito constitucional à saúde exige opções claras sobre a política dos recursos humanos, política que \nassenta no correto dimensionamento das dotações de trabalhadores e na sua distribuição pelo território \nnacional, para que se satisfaça as necessidades da população. A política de recursos humanos tem também de \nassegurar condições de trabalho dignas, a integração de todos os profissionais nas carreiras, com remunerações \nadequadas, de forma a incentivar e valorizar o regime de trabalho a tempo completo e a dedicação exclusiva ao \nSNS."
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Ricardo Baptista Leite, do Grupo \nParlamentar do PSD."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 10,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as Deputadas e Srs. Deputados, Sr.ª Ministra da \nSaúde: O Grupo Parlamentar do Partido Social Democrata apresentou o seu projeto de revisão da Lei de Bases \nda Saúde. \nA atual lei, ainda em vigor, aprovada aquando de uma maioria social-democrata, manteve-se praticamente \nimutável durante quase 30 anos, uma longevidade impressionante. \nNeste longo período de tempo, é reconhecido que os indicadores de saúde dos portugueses melhoraram \nsignificativamente, desde o aumento da esperança média de vida, a diminuição dos óbitos na generalidade das \ndoenças evitáveis — seja o caso da tuberculose, do VIH ou da diabetes —, tendo também a mortalidade infantil \nregistado uma acentuada redução nas últimas décadas, apesar de oscilações mais recentes que carecem de \ncabal esclarecimento. \nMas, apesar dos sinais preocupantes mais recentes de degradação do Serviço Nacional de Saúde, é inegável \na evolução qualitativa dos cuidados de saúde no nosso País e o próprio desenvolvimento social registado entre \nnós ao longo destes últimos 30 anos."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 10,
+      "speaker": {
+        "id": 1520,
+        "name": "Maria Antónia Moreno Areias De Almeida Santos",
+        "party": "PS",
+        "string": "A Sr.ª Maria Antónia de Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Aí estamos de acordo."
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 10,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portugal foi sendo capaz de apresentar resultados positivos sempre \nque os seus agentes políticos souberam concorrer para uma finalidade comum. \nFoi assim que, nos últimos 40 anos, sucessivos governos ergueram o Serviço Nacional de Saúde e o \nsouberam estender a todo o território nacional. A elevada qualidade e a dedicação de milhares de profissionais \nque trabalharam, e trabalham, no sistema de saúde contribuíram, como ninguém, para a proteção e para a \nmelhoria do estado geral da saúde dos portugueses. \nHoje, Portugal tem mais instituições prestadoras de cuidados de saúde, incluindo nos setores social e \nprivado, que garantem aos portugueses níveis de acesso e de serviços de prestações de saúde nunca antes \nexistentes."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 10,
+      "speaker": {
+        "id": 2105,
+        "name": "Marisabel Dos Santos Rocha Moutela",
+        "party": "PS",
+        "string": "A Sr.ª Marisabel Moutela (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ah!…"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 10,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas, se tudo isto é verdade, não podemos ignorar os novos desafios \nque o País enfrenta. \nDe entre essas realidades, avultam, desde logo, o acentuado envelhecimento da população portuguesa, \nassim como a forte redução da taxa de natalidade, fatores que condicionam decisivamente a sustentabilidade"
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 11,
+      "speaker": {
+        "id": 2105,
+        "name": "Marisabel Dos Santos Rocha Moutela",
+        "party": "PS",
+        "string": "A Sr.ª Marisabel Moutela (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ah!…"
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 11,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para o Partido Social Democrata, os determinantes da saúde e as \npolíticas de saúde pública, com enfoque na promoção da saúde e na prevenção, são fulcrais na redução da \ncarga da doença e, por conseguinte, na sustentabilidade do SNS. \nPor outro lado, o sistema público tem de ser o supremo garante da proteção dos cidadãos na doença, \nassegurando eficazes políticas de diagnóstico precoce, assim como cuidados de saúde de qualidade e equidade \nno acesso aos cuidados de saúde. Mais, os modelos de financiamento devem passar a incentivar os verdadeiros \nganhos em saúde. \nComo partido personalista, pluralista e reformista, o Partido Social Democrata rejeitará sempre qualquer \nmodelo político de pendor estatizante, que nos queira obrigar à força, à foice e ao martelo,…"
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 11,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ai o fantasma!…"
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 11,
+      "speaker": {
+        "id": 2105,
+        "name": "Marisabel Dos Santos Rocha Moutela",
+        "party": "PS",
+        "string": "A Sr.ª Marisabel Moutela (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ah!…"
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 11,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… a ter no Estado o prestador único e exclusivo de todas as \nprestações públicas na saúde. \n\nPara nós, PSD, a gestão dos serviços públicos deve ser primordialmente pública, mas aceitamos o recurso \ndo SNS aos setores privado e social desde que reunidas três condições cumulativas: primeiro, esse recurso \ndeve existir sempre que a capacidade instalada dos serviços públicos o aconselhe ou torne necessário; segundo, \ndeve revelar-se vantajoso para o Estado, em termos do binómio qualidade-custo e, em terceiro lugar — talvez \na condição mais importante —, essa cooperação deve conduzir à obtenção de ganhos em saúde para os utentes \ndo SNS, principalmente para os mais fragilizados e vulneráveis. \nSr. Presidente, Sr.as Deputadas e Srs. Deputados, para o PSD, a Lei de Bases da Saúde não é uma lei \nqualquer, não é uma lei que deva durar apenas uma legislatura, mas sim várias décadas. Aqueles que assim \nnão pensarem, veem a árvore, mas não veem a floresta. Aqueles que quiserem aproveitar a discussão de hoje"
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, já ultrapassou o seu tempo."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 12,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, vou terminar. \nPara nós, PSD, é tempo de acreditar que é possível congregar todos os partidos pluralistas em torno de uma \nnova Lei de Bases da Saúde que permita alcançar um máximo denominador político comum. \nÉ tempo de nos unirmos pela saúde dos portugueses."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveu-se, para pedir esclarecimentos, o Sr. Deputado António Sales, do PS, embora \no Sr. Deputado Ricardo Baptista Leite já não disponha de tempo para a resposta. \nMas tem a palavra, Sr. Deputado António Sales."
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 12,
+      "speaker": {
+        "id": 1953,
+        "name": "António Lacerda Sales",
+        "party": "PS",
+        "string": "O Sr. António Sales (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, o Sr. Deputado Ricardo Baptista Leite não deixou tempo para \nresponder provavelmente pelo grande peso de consciência que tem. Só se justifica assim!"
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 12,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vocês é que só quiseram que o debate tivesse 1 hora. Estão cheios \nde medo!"
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 12,
+      "speaker": {
+        "id": 1953,
+        "name": "António Lacerda Sales",
+        "party": "PS",
+        "string": "O Sr. António Sales (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Ricardo Baptista Leite, esta lei é demasiado importante para \narrebites ideológicos e picardias partidárias. \nEstamos hoje, aqui, porque a Lei de Bases da Saúde em vigor carece de atualização e de clarificação. \nDefendemos o consenso, mas não recebemos lições de consensualização de quem aprovou uma lei, em \n1990, com o apoio exclusivo do PSD e do CDS e não procurou o consenso alargado, porque tal não era permitido \npela direita parlamentar. \n\nUma das razões fundamentais para a oposição do Partido Socialista teve exatamente a ver com o facto de \no PSD e o CDS, em claro afastamento da matriz constitucional, terem imposto como diretriz das políticas de \nsaúde o apoio ao setor privado e social, em concorrência com o setor público."
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 12,
+      "speaker": {
+        "id": 2025,
+        "name": "Isabel De Lima Mayer Alves Moreira",
+        "party": "PS",
+        "string": "A Sr.ª Isabel Alves Moreira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 12,
+      "speaker": {
+        "id": 1953,
+        "name": "António Lacerda Sales",
+        "party": "PS",
+        "string": "O Sr. António Sales (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É este o excesso, para não dizer o pecado original, da Lei n.º 48/90, de 24 de \nagosto, que justifica, agora, uma equilibrada correção. \nMas o PSD e o CDS, hoje, como ontem, não conseguiram libertar-se das suas visões políticas de sempre e \ncontinuam fiéis à orientação de equiparar o SNS ao setor privado e ao setor social, advogam a concorrência \nentre setores, preveem incentivos à criação de unidades privadas e defendem a privatização da gestão do SNS \natravés da generalização de parcerias público-privadas. \nSrs. Deputados, sabem muito bem que este caminho não serve a orientação constitucional e não serve os \ninteresses fundamentais dos cidadãos."
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 13,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Pede a palavra para que efeito, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 13,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, para uma interpelação à Mesa sobre a condução dos \ntrabalhos."
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 13,
+      "speaker": {
+        "id": 2105,
+        "name": "Marisabel Dos Santos Rocha Moutela",
+        "party": "PS",
+        "string": "A Sr.ª Marisabel Moutela (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ah!"
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 13,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, queria só manifestar disponibilidade para responder, \npelo Partido Social Democrata, caso o Partido Socialista nos queira ceder tempo."
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Assuntos Parlamentares (Pedro Nuno Santos)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Giram bem o vosso \ntempo!"
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Partido Socialista não é obrigado a responder, mas, se quiser, pode fazê-lo."
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 13,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Governam-se à custa dos outros!"
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 13,
+      "speaker": {
+        "id": 1520,
+        "name": "Maria Antónia Moreno Areias De Almeida Santos",
+        "party": "PS",
+        "string": "A Sr.ª Maria Antónia de Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A má gestão está à vista!"
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 13,
+      "speaker": {
+        "id": 1853,
+        "name": "Carlos Manuel Martins Do Vale César",
+        "party": "PS",
+        "string": "O Sr. Carlos César (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O nosso tempo é precioso!"
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 13,
+      "speaker": {
+        "id": 2141,
+        "name": "Ricardo Augustus Guerreiro Baptista Leite",
+        "party": "PSD",
+        "string": "O Sr. Ricardo Baptista Leite (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bastavam 30 segundos!"
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 13,
+      "speaker": {
+        "id": 1974,
+        "name": "Cecília Felgueiras De Meireles Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Cecília Meireles (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Querem fazer perguntas, mas não querem ouvir as respostas!"
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Como se diria antigamente, não há condições."
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 14,
+      "speaker": {
+        "id": 2027,
+        "name": "Isabel Maria Mousinho De Almeida Galriça Neto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Isabel Galriça Neto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as Deputadas e Srs. Deputados: Esperando que \nagora haja condições, vimos aqui dizer que o CDS, preocupado com a situação atual do País na saúde e, \nsobretudo, preocupado com as pessoas doentes, tem afirmado e posto a nu a realidade. A saúde não é uma \nprioridade para este Governo e os sucessivos erros de governação têm prejudicado claramente os portugueses. \nTemos bem claro que há um estado de emergência na saúde, em Portugal, e também temos claro que este \ndebate não nos distrai da atualidade. Este debate — seguramente importante e que teria justificado a escolha \nde uma grelha de tempos diferente por parte do Governo — não vem resolver a calamidade da saúde no País. \nLamentamos que a proposta governativa apresentada mais recentemente seja mais uma oportunidade \nperdida, mais um erro de governação, mais um prejuízo a somar para o País. \nDepois de terem deitado fora, para o caixote do lixo, uma proposta equilibrada, elaborada com base no \ntrabalho longo de múltiplos peritos e que resultou num consenso de base alargada, trazem-nos o quê? Trazem-\nnos um texto minimalista, sem visão para a saúde moderna e para o futuro, com ausência de valores e princípios \nestruturantes e claros para o sistema de saúde, uma lei que não vai para além dos precários acordos desta \nLegislatura. \nEsta proposta está distante dos desafios que o sistema de saúde já hoje enfrenta, é omissa, é pobre e \ninsuficiente em áreas fundamentais. \n\nA Sr.ª Ministra disse, há dias, em declarações, que queria uma lei para o futuro. Pois, olhe, não nos parece! \nO que o CDS faz é apresentar uma proposta que contém princípios e valores estruturantes para o sistema \nde saúde; uma proposta que põe os resultados para o doente e a qualidade dos serviços prestados ao cidadão \nno seu centro; uma proposta que garante o direito, para nós inquestionável, de proteção na saúde a todos, \nrepito, a todos os portugueses. \n\nA nossa proposta é clara, assenta em valores éticos de rigor e transparência, clarifica as funções do Estado \ne valoriza o SNS no sistema de saúde. \nAo contrário dos senhores, não nos move uma obsessão ideológica de cariz estatizante."
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 14,
+      "speaker": {
+        "id": 2061,
+        "name": "José Manuel Marques Da Silva Pureza",
+        "party": "BE",
+        "string": "O Sr. José Manuel Pureza (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pois não!"
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 14,
+      "speaker": {
+        "id": 2027,
+        "name": "Isabel Maria Mousinho De Almeida Galriça Neto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Isabel Galriça Neto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não olhamos para os parceiros do setor social ou privado como \ncoisa pouca, ao dispor ou descartáveis."
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 14,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 14,
+      "speaker": {
+        "id": 2027,
+        "name": "Isabel Maria Mousinho De Almeida Galriça Neto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Isabel Galriça Neto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ao contrário dos senhores, que esquecem os doentes e o acesso \nprecário aos cuidados de saúde, não sacrificamos resultados com qualidade para o cidadão, em nome de opções \nultrapassadas."
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 14,
+      "speaker": {
+        "id": 1974,
+        "name": "Cecília Felgueiras De Meireles Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Cecília Meireles (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 14,
+      "speaker": {
+        "id": 2027,
+        "name": "Isabel Maria Mousinho De Almeida Galriça Neto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Isabel Galriça Neto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não hipotecamos o futuro do sistema de saúde e o acesso aos \ncuidados, em nome da inflexibilidade ideológica. \nA nossa proposta, insisto, é equilibrada e não deixa de fora áreas substanciais como: o apoio aos cuidadores, \no apoio no envelhecimento, o apoio na saúde mental, a clarificação das funções do Estado."
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada, já ultrapassou o tempo de que dispunha."
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 15,
+      "speaker": {
+        "id": 2027,
+        "name": "Isabel Maria Mousinho De Almeida Galriça Neto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Isabel Galriça Neto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou concluir, Sr. Presidente. \nJá chega de erros de governação. Esta proposta de lei de bases não traduz um consenso, não é uma aposta \nnuma base alargada. Este Governo está gasto e não serve os portugueses."
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, pelo Grupo Parlamentar do Partido Ecologista «Os Verdes», \ntem a palavra o Sr. Deputado José Luís Ferreira."
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 15,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as Deputadas e Srs. Deputados: Quando falamos \nde saúde, não falamos apenas de um direito constitucional, falamos de um direito que a nossa Constituição \ninclui no elenco dos direitos fundamentais. \nTambém por isso, quando a discussão incide sobre propostas para a Lei de Bases da Saúde, não podemos \nperder de vista o que estabelece, sobre a matéria, a Lei Fundamental do País. É, portanto, à luz da Constituição \nque as várias propostas em discussão devem ser avaliadas. \nE o que diz a Constituição? Diz, de forma muito clara, que «Todos têm direito à proteção da saúde e o dever \nde a defender e promover». \nSucede que, hoje, quando olhamos para trás, percebemos que o caminho não foi nesse sentido. De facto, \nse é verdade que o SNS continua, apesar de tudo, a ser uma referência mundial, também é verdade que tem \nvindo a ser literalmente asfixiado pelo subfinanciamento a que vários Governos o sujeitaram. Subfinanciamento, \nencerramento de serviços e valências ou listas de espera absolutamente inaceitáveis são alguns dos elementos \nque marcaram as opções de vários Governos, cujo objetivo mais não visava do que engordar o mercado dos \nprivados com interesses na área da saúde. \nO resultado está bem à vista e era mais do que previsível: os portugueses têm cada vez mais dificuldades \nem aceder aos cuidados de saúde e ainda assim têm de suportar as despesas que já deveriam ter sido pagas \natravés dos impostos que entregaram ao Estado. \nChegados a este ponto, o bom senso recomenda que se olhe para as causas que levaram a esta situação e \nque se corrijam os erros. Para isso, a nosso ver, é necessário, antes de mais, olhar para a Lei de Bases da \nSaúde, de 1990 — aprovada, recorde-se, exclusivamente pela direita —, e aferir se esta Lei veio fortalecer o \nSNS ou se, pelo contrário, veio enfraquecer a resposta pública, favorecendo e potenciando a resposta privada. \nSe dúvidas houvesse, bastaria olhar para os números para ficarmos devidamente esclarecidos: hoje, existem \nmais hospitais privados do que hospitais públicos. \nÉ exatamente aqui que reside uma grande parte do problema e, por isso, Os Verdes não se revêm nas \npropostas que pretendem dar continuidade à promiscuidade instalada entre o setor público e o setor privado. \nConsideramos até que esta é uma excelente oportunidade para proceder a uma real, efetiva e clara \nseparação dos setores, colocando os setores privado e social no sítio certo, ou seja, remetendo-os para segundo \nplano, com uma natureza meramente supletiva em relação ao SNS e com o Estado a regular e a fiscalizar as \nsuas atividades, na defesa do interesse público."
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 15,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Apoiado!"
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 15,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Uma Lei de Bases que tenha presentes os preceitos constitucionais \nterá de promover uma verdadeira inversão nas opções que têm sido tomadas por vários Governos do PS, do \nPSD e do CDS, nomeadamente, em termos de financiamento, na separação clara entre o setor público e o setor \nprivado, na valorização dos profissionais de saúde e no fim das taxas moderadoras, que, como todos sabemos, \nnada moderam."
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para uma intervenção, o Sr. Deputado não inscrito, Paulo Trigo Pereira."
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 16,
+      "speaker": {
+        "id": 2131,
+        "name": "Paulo Trigo Cortez Pereira",
+        "party": "PS",
+        "string": "O Sr. Paulo Trigo Pereira (N insc.)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as Deputadas e Srs. Deputados: Que papel devem \ndesempenhar as instituições de saúde do Estado, do Serviço Nacional de Saúde, na relação com o setor social \ne o privado, para cumprir o desiderato constitucional do direito à saúde? \nQual a melhor forma de financiar a saúde e de afetar os recursos públicos para atingir esse objetivo? \nA centralidade do Estado e do Serviço Nacional de Saúde no sistema de saúde deve ser muito clara: são \nuniversidades públicas que formam os médicos e os enfermeiros; são os cidadãos que financiam, via impostos, \na maioria da despesa pública na saúde; é o Estado o «prestador de último recurso» nos cuidados de saúde, \npúblicos e privados. \nAssim, um sistema de saúde deve ser financiado, essencialmente, por impostos, para permitir a equidade no \nacesso. \nO financiamento público das entidades privadas e sociais na prestação de serviços de saúde justifica-se \nsempre que o SNS não tenha capacidade de resposta atempada às necessidades sociais. \nO setor público, enquanto financiador via SNS, deve adotar uma lógica de complementaridade entre o público \ne o privado e não de concorrência direta entre prestadores, como está mais ou menos explícito nos projetos do \nPSD e do CDS. \nA saúde como um direito está alinhada com os interesses dos prestadores públicos, mas não está alinhada \ncom os objetivos do privado."
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, pelo Grupo Parlamentar do Bloco de Esquerda, tem a palavra o \nSr. Deputado Moisés Ferreira."
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 16,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as Deputadas e Srs. Deputados: O Serviço Nacional de \nSaúde transformou a sociedade. Os cuidados de saúde passaram a estar acessíveis a todos e não só a quem \nos pudesse pagar, a saúde passou a ser um direito e não um privilégio, os indicadores de saúde melhoraram \nexponencialmente. \nAinda assim, houve sempre quem tivesse combatido o Serviço Nacional de Saúde: o PSD e o CDS. \nPSD e CDS votaram contra a sua criação, em 1979."
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 16,
+      "speaker": {
+        "id": 2027,
+        "name": "Isabel Maria Mousinho De Almeida Galriça Neto",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Isabel Galriça Neto (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Lá vêm, novamente!"
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 16,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "PSD e CDS, em 1982, à socapa, num decreto-lei sobre administrações \nregionais de saúde, tentaram revogar quase toda a lei do SNS. \nO PSD, com o apoio do CDS, criou, em 1990, uma Lei de Bases que transformou a saúde num negócio e o \norçamento do SNS numa forma de financiamento de privados. \nA Lei de 1990 é uma lei infame e tem de ser revogada."
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 16,
+      "speaker": {
+        "id": 2061,
+        "name": "José Manuel Marques Da Silva Pureza",
+        "party": "BE",
+        "string": "O Sr. José Manuel Pureza (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Apoiado!"
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 16,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É uma lei que obriga o Estado a depauperar o Serviço Nacional de Saúde \npara alimentar os privados. É a lei que abriu a porta às parcerias público-privadas, que nos custam 500 milhões \nde euros por ano. É a lei que faz com que 1200 milhões de euros do orçamento do SNS vá para convencionados \ne outros subcontratos. \nQuando nos disserem que faltam profissionais no SNS, lembremos que a lei do PSD e do CDS diz que o \nEstado deve facilitar a mobilidade de profissionais para os privados."
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 17,
+      "speaker": {
+        "id": 2061,
+        "name": "José Manuel Marques Da Silva Pureza",
+        "party": "BE",
+        "string": "O Sr. José Manuel Pureza (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 17,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E é neste aspeto que o PS e o Governo têm de ser claros. \nA gestão do SNS deve ser integralmente pública, sem frinchas nem alçapões para novas PPP (parcerias \npúblico-privadas). Está o Governo disponível para garantir este princípio? \nA relação entre o setor público e o privado deve ser de complementaridade, sendo os privados suplementares \nà ação do público. Está o Governo disponível para clarificar a relação entre setores? \nAs taxas moderadoras não podem ser uma barreira nem servir de copagamentos. Estão o Governo e o PS \ndisponíveis para alterar este aspeto? \nÉ preciso recuperar as carreiras que foram destruídas, garantir o vínculo como funcionário público e a \ndedicação plena e exclusiva. Estão o Governo e o PS disponíveis para robustecer estes aspetos?"
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 17,
+      "speaker": {
+        "id": 1520,
+        "name": "Maria Antónia Moreno Areias De Almeida Santos",
+        "party": "PS",
+        "string": "A Sr.ª Maria Antónia de Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Claro!"
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 17,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Num momento em que discutimos o futuro do SNS, exige-se clareza nos \naspetos que são fundamentais, e é por isso que, com clareza, o Bloco de Esquerda diz o seguinte: se houver \ndisponibilidade para a negociação e a convergência nestes aspetos, não faltará futuro ao Serviço Nacional de \nSaúde. Se houver disponibilidade e convergência nestes aspetos, não faltaremos a esta exigência, a de construir \numa nova lei de bases que reforce o SNS, que reforce os direitos dos utentes, que faça o País mais justo."
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Já ultrapassou o tempo de que dispunha, Sr. Deputado."
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 17,
+      "speaker": {
+        "id": 2111,
+        "name": "Moisés Salvador Coelho Ferreira",
+        "party": "BE",
+        "string": "O Sr. Moisés Ferreira (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Termino, Sr. Presidente. \nUma lei de bases que faça, novamente, da saúde um direito, não um privilégio e muito menos um negócio."
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para uma intervenção, pelo Grupo Parlamentar do PS, a Sr.ª Deputada \nJamila Madeira."
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 18,
+      "speaker": {
+        "id": 1266,
+        "name": "Jamila Bárbara Madeira E Madeira",
+        "party": "PS",
+        "string": "A Sr.ª Jamila Madeira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: O debate \nde hoje, sobre a Lei de Bases da Saúde, enaltece e honra a visão humanista e a memória de António Arnaut. \nPara o PS, para os verdadeiros defensores do SNS, as pessoas, os utentes estão no centro das nossas \npreocupações, mas sabemos, sabemos sempre, que não se consegue fazer tudo ao mesmo tempo e que \nrecuperar e reconstruir demora muito mais tempo do que destruir. \nEsta proposta de lei do Governo acentua a valorização e a modernização do SNS, mantendo o seu caráter \nuniversal, público e tendencialmente gratuito. Estamos, por isso, com estas linhas, o PS e o Governo, disponíveis \npara melhorar, sabendo de antemão que, na especialidade, com o apoio de todos os reais defensores do SNS, \npodemos sempre fazer melhor, mas importa sublinhar que não estamos disponíveis nem para privatizar a saúde \nnem para estatizar a saúde. Queremos, por isso, fazer o equilíbrio, um equilíbrio virtuoso. \nA universalidade da saúde é competência e responsabilidade do Estado, responsabilidade, essa, de que o \nPS não abdica. \nNaturalmente, não nos opomos à coexistência de respostas complementares ao nível social e privado. Esta \nlei de bases deve clarificar muito bem essa diferenciação. A similitude com o ensino é um caminho que muito \nnos apraz, assegurando, também, que essa seja uma solução estável e duradoura. \nEsta proposta de lei não é um projeto de índole ideológica ou de esquerda, é, naturalmente, uma proposta \nque tem a filosofia política presente no artigo 64.º da Constituição da República Portuguesa, que também é a do \nPS e de todos os portugueses de boa vontade, e é isso que queremos hoje, aqui, fazer cumprir. \n\nCabe-me, por isso, reiterar aquilo que António Arnaut disse nesta Câmara, durante o debate de 1979, ao \nPSD e ao CDS, que revelam hoje, como à época, «dificuldade em defender os seus projetos, que não têm \npossibilidade de defesa. Debruçaram-se mais sobre o projeto do PS…» — neste caso, sobre a proposta de lei \n— «… do que sobre a defesa do seu próprio projeto». \nNão é demais lembrar que o PSD, que gosta de se colocar, perante os portugueses — e ainda hoje o fez —\n, como grande defensor do SNS, não apoiou a sua criação."
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 18,
+      "speaker": {
+        "id": 2061,
+        "name": "José Manuel Marques Da Silva Pureza",
+        "party": "BE",
+        "string": "O Sr. José Manuel Pureza (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem! Bem lembrado!"
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 18,
+      "speaker": {
+        "id": 1266,
+        "name": "Jamila Bárbara Madeira E Madeira",
+        "party": "PS",
+        "string": "A Sr.ª Jamila Madeira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E mais: diabolizou-a, de forma vil, pela voz do, então, Ministro da Saúde, \nArlindo Carvalho, em 1990. \nComo dizia, o PSD e o CDS apresentaram-se com vergonha dos seus projetos, uma vez que não os \nexpuseram, e focaram-se na crítica puramente negativa à proposta de lei."
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 18,
+      "speaker": {
+        "id": 1957,
+        "name": "Maria De Assunção Oliveira Cristas Machado Da Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Assunção Cristas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não ouviu bem!"
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 18,
+      "speaker": {
+        "id": 1266,
+        "name": "Jamila Bárbara Madeira E Madeira",
+        "party": "PS",
+        "string": "A Sr.ª Jamila Madeira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "De facto, sabemos quais são os seus reais intentos, que mais não são do \nque assegurar o financiamento da medicina privada por dinheiros públicos. Enfim, mais uma vez, «lobo vestido \nde cordeiro». \nAo PCP, assinalo os seus contributos e, sim, temos uma visão convergente."
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ah!"
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 18,
+      "speaker": {
+        "id": 1266,
+        "name": "Jamila Bárbara Madeira E Madeira",
+        "party": "PS",
+        "string": "A Sr.ª Jamila Madeira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Podemos e devemos, obviamente, estar abertos a melhoria e \naprofundamento, em nome de um SNS mais forte."
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada, já ultrapassou o tempo de que dispunha."
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 19,
+      "speaker": {
+        "id": 1266,
+        "name": "Jamila Bárbara Madeira E Madeira",
+        "party": "PS",
+        "string": "A Sr.ª Jamila Madeira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou já terminar, Sr. Presidente. \nAcreditamos que esta proposta de lei que o Governo nos trouxe é a proposta do cumprimento de um \nimperativo constitucional, para assegurar o cumprimento da vontade dos portugueses. \nO SNS foi, em 1979, e é-o também hoje, o símbolo da coerência no campo das reformas sociais. \nAo PSD e ao CDS deixo um último repto: é claro que a medicina privada existia em 1974, em 1979, em \n1990,…"
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Vai ter de terminar, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 19,
+      "speaker": {
+        "id": 1266,
+        "name": "Jamila Bárbara Madeira E Madeira",
+        "party": "PS",
+        "string": "A Sr.ª Jamila Madeira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e existe hoje, ainda com mais fulgor. A medicina privada não carece de \ninjeções financeiras nem de incentivos do Estado. O SNS, sim, carece de todos aqueles que sejam os seus \nverdadeiros defensores e, por isso, pedimos que se levantem e lutem honrada e intransigentemente na defesa \ndo SNS."
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem, agora, a palavra, para uma intervenção, a Sr.ª Deputada Paula Santos, do Grupo \nParlamentar do PCP."
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 19,
+      "speaker": {
+        "id": 2123,
+        "name": "Paula Alexandra Sobral Guerreiro Santos Barbosa",
+        "party": "PCP",
+        "string": "A Sr.ª Paula Santos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, o PCP traz a este debate um projeto \nde lei de bases da saúde que visa um objetivo principal: assegurar, através do serviço público, através do Serviço \nNacional de Saúde, que todos os portugueses, que todos os utentes tenham direito a cuidados de saúde de \nqualidade, sem qualquer discriminação em função das condições socioeconómicas. \nImporta hoje, aqui, clarificar que aqueles que vêm dizer que defendem a saúde de todos e que defendem as \npessoas estão somente a falar daqueles que têm condições económicas para pagar os seus próprios cuidados \nde saúde. \nAbordar o sistema nacional de saúde como se os setores público e privado visassem os mesmos objetivos é \nprocurar iludir os portugueses, porque aquilo que estão claramente a expor é um serviço de saúde sem qualidade \npara aqueles que não têm condições económicas, enquanto garantem com os grupos privados um serviço de \nsaúde para aqueles que podem pagar. \nAquilo que o PSD e o CDS vieram aqui claramente defender foi a ideologia do negócio."
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 19,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 19,
+      "speaker": {
+        "id": 2123,
+        "name": "Paula Alexandra Sobral Guerreiro Santos Barbosa",
+        "party": "PCP",
+        "string": "A Sr.ª Paula Santos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A ideologia do acesso à saúde só para aqueles que têm rendimentos para o \npoder pagar. \nPara isso, não contam, naturalmente, com o PCP. \n\nSr. Presidente, para defender o Serviço Nacional de Saúde, há aspetos que são fundamentais. Aquilo que \nconsideramos ser preciso fazer para, de facto, dar concretização ao direito constitucional é pôr fim às taxas"
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada, já ultrapassou o tempo de que dispunha."
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 20,
+      "speaker": {
+        "id": 2123,
+        "name": "Paula Alexandra Sobral Guerreiro Santos Barbosa",
+        "party": "PCP",
+        "string": "A Sr.ª Paula Santos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou terminar, Sr. Presidente. \nÉ que, contrariamente àquilo que foi dito pelo PSD e pelo CDS, o papel do Estado não é o de financiar os \ngrupos privados."
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 20,
+      "speaker": {
+        "id": 1962,
+        "name": "Carla Maria Da Costa E Cruz",
+        "party": "PCP",
+        "string": "A Sr.ª Carla Cruz (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 20,
+      "speaker": {
+        "id": 2123,
+        "name": "Paula Alexandra Sobral Guerreiro Santos Barbosa",
+        "party": "PCP",
+        "string": "A Sr.ª Paula Santos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O papel do Estado é o de garantir a prestação de cuidados de saúde para \ntodos,…"
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem de terminar, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 20,
+      "speaker": {
+        "id": 2123,
+        "name": "Paula Alexandra Sobral Guerreiro Santos Barbosa",
+        "party": "PCP",
+        "string": "A Sr.ª Paula Santos (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e quem está em condições de o garantir de forma universal, geral e sem \ndiscriminações, é um Serviço Nacional de Saúde reforçado, com condições e com financiamento adequado."
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para concluirmos este ponto, tem a palavra, pelo Governo, a Sr.ª Ministra da Saúde, \nMarta Temido."
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Ministra da Saúde",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: A proposta que o Governo hoje aqui trouxe é \nideologicamente coerente com aquilo que é defendido em termos das funções sociais do Estado. \nÉ uma lei tecnicamente robusta e politicamente sólida, que não prescinde da clareza nas opções de política \nde saúde que se centram naquelas que foram aqui enunciadas: sociedade do século XXI, com as suas \nexpectativas, aspirações e valores; centralidade nas pessoas; reforço do papel do Estado; clarificação das \nrelações com os setores privado e social; fortalecimento e modernização do SNS. \nSr.as Deputadas, Srs. Deputados, esta é, provavelmente, uma oportunidade única. As hesitações, as \ntransigências benevolentes, os compromissos, tão do nosso feitio, corromperam, por vezes, várias iniciativas, \ncomo dizia Miller Guerra. Agora, manda a Assembleia da República. Saiba a Assembleia da República ser sábia."
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Chegámos, assim, ao final do primeiro ponto da ordem do dia. \nPassamos, agora, à discussão, na generalidade, da Proposta de Lei n.º 172/XIII/4.ª (GOV) — Aprova a Lei \nde Programação Militar. \nTem a palavra, para apresentar esta proposta, o Sr. Ministro da Defesa Nacional, João Gomes Cravinho."
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Defesa Nacional (João Gomes Cravinho)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: A Lei de \nProgramação Militar (LPM) é uma lei estruturante para o Estado português. Através dela, em simultâneo, damos \ncontinuidade e abrimos espaço para a renovação. Iniciamos novos caminhos, porque os tempos são novos e os \ndesafios são diferentes, mas não descuramos a necessidade de cuidar e prolongar a utilização de equipamentos \nque atualmente nos servem bem."
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Ministro da Defesa Nacional, a Mesa regista as inscrições de quatro Srs. Deputados \npara pedidos de esclarecimento e foi informada de que o Sr. Ministro responderá em conjunto. \nPara o primeiro pedido de esclarecimentos, tem a palavra o Sr. Deputado João Vasconcelos, do Grupo \nParlamentar do Bloco de Esquerda."
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 22,
+      "speaker": {
+        "id": 2049,
+        "name": "João Manuel Duarte Vasconcelos",
+        "party": "BE",
+        "string": "O Sr. João Vasconcelos (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, Sr. Ministro da Defesa Nacional, \ncom esta proposta de Lei de Programação Militar, pretende o Governo fazer um investimento, em matéria de \ndefesa, na ordem dos 4740 milhões de euros, com vista ao reequipamento e à modernização das Forças \nArmadas. São gastos muito elevados, tendo em conta as prioridades do País. \nNo conjunto de áreas da esfera militar, com destaque para os navios-patrulha oceânicos, sem dúvida que \nterão de ser feitos os investimentos necessários, tendo em conta a desadequação e a antiguidade dos meios \npara assegurar as missões de patrulha e fiscalização, vigilância, busca e salvamento. \nPorém, na opinião do Bloco de Esquerda, há outros meios que devem ser repensados, considerando os \nelevados custos que acarretam para o País, como é o caso, por exemplo, dos aviões KC-390 e do navio \npolivalente logístico, que correspondem a investimentos de 827 milhões e mais 300 milhões nos próximos 12 \nanos. \nOs portugueses não vão perceber que se façam gastos desta dimensão neste tipo de meios militares, quando \no Governo tem falhado no investimento público, quando o Governo não tem dado resposta aos serviços sociais \nimportantes, como, por exemplo, a educação e a saúde."
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 22,
+      "speaker": {
+        "id": 2127,
+        "name": "Paulo Alexandre De Sousa Neves",
+        "party": "PSD",
+        "string": "O Sr. Paulo Neves (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A culpa é vossa!"
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 23,
+      "speaker": {
+        "id": 2049,
+        "name": "João Manuel Duarte Vasconcelos",
+        "party": "BE",
+        "string": "O Sr. João Vasconcelos (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não deixa de ser um paradoxo: no investimento e na área social, este \nGoverno tem prosseguido uma política de subserviência ao défice e a Bruxelas; já no domínio militar, a \nsubserviência é à NATO (Organização do Tratado do Atlântico Norte), à Europa e a Trump, que querem gastos \nde 2% do PIB (produto interno bruto) em matéria de defesa. \nDepois, há outras questões que convém assinalar. \nA pretexto do duplo uso, muitos destes meios irão ser colocados ao serviço da NATO, que é um instrumento \nglobal de guerra e não uma organização de paz — basta ver o seu historial triste. \nSegundo o Governo, o navio polivalente logístico, além do apoio a populações sinistradas, para emergências \ncivis, para transporte e assistência humanitária, servirá para projetar forças militares e equipamentos em \noperações externas, nas chamadas Forças Nacionais Destacadas, ao serviço da NATO e da União Europeia. É \nexatamente o que se passa com os submarinos: são quase 1000 milhões ao serviço de forças e organizações \nmilitaristas estrangeiras. \nSr. Ministro, confirma, efetivamente, que o navio polivalente logístico também irá servir para integrar a força \nde reação rápida da NATO e da União Europeia? \nOutra questão, Sr. Ministro, tem a ver com os aviões KC-390, que estava previsto serem construídos nas \ninstalações das OGMA (Oficinas Gerais de Material Aeronáutico), as quais foram adquiridas pela brasileira \nEmbraer. Ao que parece, tudo isto se encontra em sério risco, porque a Boeing adquiriu grande parte da Embraer \ne Bolsonaro poderá mesmo pôr em causa as próprias OGMA em Portugal, com graves consequências para \nmilhares de trabalhadores. Para já, Sr. Ministro, parece que os brasileiros estão a pedir mais dinheiro. \nSr. Ministro, se este negócio falhar, qual o plano B do Governo? Vai avançar com mais verbas, se forem \npedidas? Se falhar, não estará em causa aquilo a que o Governo chama «consolidação de um cluster\naeronáutico nacional»? \n\nEntretanto, assumiu a presidência o Vice-Presidente Jorge Lacão."
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Jorge Machado, do PCP."
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 23,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, Sr. Ministro da Defesa Nacional, o primeiro \naspeto que queremos destacar é o facto de, uma vez mais, à semelhança do que aconteceu com propostas de \nLei de Programação Militar anteriores, esta proposta de lei não ter sido apresentada a tempo de ser aprovada \nantes do início do prazo da sua execução. \nContudo, é verdade que o atraso é significativamente inferior ao de propostas anteriores e que o Sr. Ministro \ntem a atenuante da substituição que ocorreu no Ministério da Defesa Nacional. \nO segundo aspeto que queremos destacar é o de que estamos a discutir uma proposta que, pelo menos \ndesde abril, o Governo anda a anunciar, nas visitas às unidades militares, como um facto consumado, em \ndesrespeito pela Assembleia da República, que é soberana na decisão quanto a esta Lei. Sabemos que esses \nanúncios pararam, mas fica aqui o registo. \nPor fim, Sr. Ministro, o PCP afirma a sua disponibilidade — como, de resto, sempre tem feito — para uma \ndiscussão séria, em sede de especialidade. Se há opções de equipamentos que são mais pacíficas, há outras, \ncomo a do navio polivalente logístico, que oferecem muitas reservas. \nDeixamos-lhe, pois, algumas perguntas, neste momento do debate. \nPara além das dúvidas sobre a concretização do programa KC-390, o Governo projeta que, ao longo desta \nLPM, possam vir a ser integrados novos programas de alguma envergadura financeira, nomeadamente na Força \nAérea? \nÉ possível ter uma ideia da participação da indústria nacional no total desta LPM, incluindo no eventual \nnegócio dos KC-390? \nPor fim, o Governo considera ou não possível fazer, em sede de discussão na especialidade, alterações a \nprogramas de aquisição referidos nesta mesma proposta de Lei de Programação Militar?"
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para pedir esclarecimentos, tem a palavra o Sr. Deputado Jorge \nGomes, do PS."
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 24,
+      "speaker": {
+        "id": 2054,
+        "name": "Jorge Manuel Nogueiro Gomes",
+        "party": "PS",
+        "string": "O Sr. Jorge Gomes (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, Sr. Ministro da Defesa Nacional, esta é \numa boa proposta de revisão da Lei de Programação Militar e representa um esforço significativo, por parte \ndeste Governo, de convergência e consensualização. \nEsta proposta traduz-se numa visão integrada e coerente da e para a defesa nacional e, na escolha dos \nprojetos a financiar, obedece a uma estratégia clara e fundamentada, optando por aqueles que permitem um \nretorno concreto para a economia nacional e, ao mesmo tempo, proporcionam a construção de uma política de \ndefesa comum. \nSr. Ministro, Sr.as e Srs. Deputados, esta proposta de lei tem um grau de consenso considerável, mas o \nPartido Socialista já aqui disse que este Parlamento não deixa de ter um papel relevante na sua discussão. O \nPartido Socialista enaltece a relação deste Ministério da Defesa com este Parlamento; vejamos, por exemplo, a \nrevisão do Estatuto dos Militares das Forças Armadas, onde se desenvolveu um trabalho notável e se conseguiu \na sua aprovação por unanimidade. \nSr. Ministro, o Partido Socialista reitera a sua total abertura para fazermos desta a melhor lei das Forças \nArmadas para o País, entendendo que não é impossível conseguirmos um consenso alargado na sua aprovação. \nEstá também o Governo aberto à possibilidade de melhorar esta proposta de lei?"
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para pedir esclarecimentos, tem a palavra o Sr. Deputado Marco \nAntónio Costa, do PSD."
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 24,
+      "speaker": {
+        "id": 1340,
+        "name": "Marco António Ribeiro Dos Santos Costa",
+        "party": "PSD",
+        "string": "O Sr. Marco António Costa (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados, Sr. Ministro da Defesa \nNacional, em primeiro lugar, em nome do Grupo Parlamentar do PSD, queria manifestar o nosso orgulho nas \nForças Armadas, pelo desempenho que têm tido não só nas missões internacionais mas também nos momentos \nde maior urgência e emergência nacional. \nNesse âmbito, o Sr. Ministro falou de dois objetivos que foram levados em consideração na elaboração desta \nproposta de Lei de Programação Militar. \nO primeiro desses objetivos é referido no preâmbulo, onde se afirma que foi seguida a perspetiva do duplo \nuso dos equipamentos a adquirir, perspetiva com a qual, aliás, concordamos, sem qualquer reserva. Ainda no \nn.º 4 do artigo 1.º desta proposta, pode ler-se: «Constitui também objetivo da presente lei promover o duplo uso \ndas capacidades militares, permitindo (…) responder a necessidades no âmbito de missões civis.» \nA questão que se coloca, Sr. Ministro, é a de saber se há uma lista de equipamentos classificados como de \nduplo uso, sendo, assim, perspetivada a sua aquisição. \nA segunda questão é a de saber se o Governo tem noção do valor de investimento a que essa eventual lista \npoderá corresponder. \nA terceira questão é a de saber se há uma previsão da potencial afetação de tais equipamentos ao dito uso \nmilitar e ao dito uso civil. \nA resposta a estas questões permitirá aferir com maior rigor, o que, de facto, constituirá aquisição de \nequipamento militar. A resposta a estas questões permitirá aferir para o futuro o que efetivamente é opção militar \ne com isso evitar uma descaracterização da Lei de Programação Militar e ainda perceber o real crescimento do \ninvestimento em equipamento militar. \nO segundo objetivo que o Sr. Ministro aqui também referiu, e que esta Lei consagra, está inscrito no n.º 5 do \nartigo 1.º da mesma, em que é afirmado o princípio de, respeitando as regras em matéria de concorrência, \npotenciar o investimento da economia nacional. Ora, o PSD sobre essa matéria está também de acordo. Aliás, \nse hoje temos indústria naval a servir a nossa Marinha, muito se deve à ação do Governo PSD com o que fez \npelos Estaleiros Navais de Viana."
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 24,
+      "speaker": {
+        "id": 2105,
+        "name": "Marisabel Dos Santos Rocha Moutela",
+        "party": "PS",
+        "string": "A Sr.ª Marisabel Moutela (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ah!"
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 25,
+      "speaker": {
+        "id": 1340,
+        "name": "Marco António Ribeiro Dos Santos Costa",
+        "party": "PSD",
+        "string": "O Sr. Marco António Costa (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nessa perspetiva, vínhamos perguntar como é que o Sr. Ministro e o \nMinistério da Defesa Nacional pretendem compaginar estas duas preocupações e, com isso, dar execução a \nesta estratégia."
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Ministro da Defesa Nacional."
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Defesa Nacional",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as Deputadas e Srs. Deputados, muito obrigado \npelos vários comentários e pelas perguntas. \nQueria começar por assinalar algo que julgo já ter sublinhado na intervenção inicial: a importância que atribuo \nao debate aqui, nesta Casa. Vejo esta oportunidade como um momento para a geração de consenso e, nesse \nsentido, não posso, naturalmente, deixar de estar aberto a sugestões que possam ter. \nDito isto, apresentámos uma proposta que julgamos ser coerente, racional e longamente ponderada. As \npropostas de melhoria serão sempre bem-vindas, não devendo, no entanto, descaracterizar ou contribuir para \numa manta de retalhos. \nQueria também fazer referência à problemática do duplo uso. Efetivamente, os meios que nos propomos \nadquirir para o Estado serão meios do próprio Estado, serão utilizados pelo Estado e podendo ser empregues \nem missões de diferente tipo. \nSignifica isso que, no respeito por aquilo que está estipulado na Constituição, podemos imaginar que a \naviação tática e estratégica que propomos comprar, ou o Navio Polivalente Logístico, ou os navios-patrulha \noceânicos, ou os helicópteros de proteção, qualquer um destes equipamentos poderão ser utilizados para efeitos \ncivis também. Por exemplo, em situações relacionadas com uma eventual catástrofe nas ilhas, situações \nrelacionadas com incêndios florestais, situações relacionadas com busca e salvamento, situações relacionadas \ncom o apoio ao sistema nacional de saúde. São múltiplas as possibilidades. \nQueria também fazer referência à questão do apoio à Base Tecnológica e Industrial de Defesa (BTID). Ao \nadquirirmos equipamentos novos e ao reforçarmos a manutenção de equipamentos já utilizados, precisamos de \nverificar quais são as possibilidades de, simultaneamente, estimular a nossa indústria de defesa. \nAcredito que, com as propostas aqui feitas nesta LPM, encontraremos múltiplas oportunidades de estimular \na indústria de defesa num contexto em que esse estímulo será muitíssimo importante, também, para a \ncapacidade nacional de participação nos projetos no âmbito do Fundo Europeu de Defesa e no âmbito da \nCooperação Estruturada Permanente. \nNesse sentido, olhamos para esta Lei de Programação Militar como tendo múltiplas valências e virtudes: \npermite não só equipar devidamente as nossas Forças Armadas para as missões que lhe forem confiadas mas \ntambém reforçar a competitividade da nossa indústria nacional, uma área da maior importância. Basta referir \nque, na área do cluster aeronáutico, estamos a falar em exportações na ordem dos 5000 milhões de euros, \nmaior até do que a exportação de automóveis, e, portanto, é uma área do maior interesse para a economia \nnacional."
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Informo que o Sr. Ministro beneficiou de mais 1 minuto na sua \nintervenção, tempo esse transferido pelo PS. \nEstamos, agora, em condições de dar a palavra, para uma intervenção, ao Sr. Deputado do PSD José de \nMatos Correia. \nFaça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 25,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Ministro, Sr.ª Secretária de Estado da Defesa \nNacional, Sr. Secretário de Estado dos Assuntos Parlamentares, Sr.as Deputadas e Srs. Deputados: Como tantas \nvezes sucede entre nós, seja na vida política em geral, seja na vida parlamentar em particular, o acessório torna-"
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 26,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas não é só disso!"
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 26,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E, no entanto, a matéria que aborda é essencial para o futuro das \nForças Armadas portuguesas e, consequentemente, para a defesa do interesse nacional. \nPermitam-me, por isso, que, antes de mais, aqui deixe, em nome do Grupo Parlamentar do PSD, e na \nsequência do que já foi feito pelo meu colega Marco António Costa, uma nota de admiração e de respeito pelas \nnossas Forças Armadas. \nDesde logo, pelo papel que historicamente cumpriram, e continuarão a assumir, de garantes da \nindependência nacional, mas também pelo seu contributo determinante em dois outros planos: no apoio às \npopulações, quer no continente, quer nas regiões autónomas, com destaque para o combate aos incêndios \nflorestais e para a busca e salvamento; nas missões internacionais em que, com o seu desempenho, elevam \nbem alto o nome de Portugal, como é hoje bem visível, por exemplo, na República Centro-Africana ou no \nMediterrâneo."
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 26,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas uma segunda nota se justifica, esta já não dirigida à instituição, \nmas a todos quanto nela servem, para deixar uma palavra de reconhecimento e de agradecimento sinceros pela \nforma abnegada como desempenham o seu papel, muitas vezes com limitados recursos, mas sempre com o \nobjetivo de cumprir, com honra e determinação, as tarefas que lhes são cometidas. \nSr. Presidente, Sr.as Deputadas e Srs. Deputados: Por razões de ordem diversa, a Lei de Programação Militar \nnão é uma lei qualquer. \nNo plano material, porque tem por objeto a definição e calendarização do investimento público em matéria \nde armamento e equipamento das Forças Armadas. \nNo plano temporal, porque integra um conjunto de opções que, precisamente pela sua natureza estruturante, \nse destina a vigorar por um período de 12 anos, sem prejuízo, naturalmente, das revisões de que possa ser \nobjeto. \nNo plano político, porque a própria Constituição quis qualificá-la como lei orgânica, impondo-lhe, assim, \nrequisitos de aprovação mais exigentes do que aqueles a que estão subordinadas as leis ordinárias. \nNeste contexto, justifica-se que se recorde o histórico que subjaz a este debate, isto é, o extenso e bem \nestruturado processo de reformas levado a cabo pelo anterior Governo. \nFoi um processo que se iniciou com a aprovação da reforma Defesa 2020, que se consubstanciou, depois, \nna revisão de todos os documentos estruturantes da defesa nacional, incluindo, em 2015, a Lei de Programação \nMilitar e que — nunca é demais recordá-lo —, teve lugar num período de grandes constrangimentos orçamentais, \npor força da desastrosa herança deixada pelo Governo socialista."
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 26,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Constrangimentos que, naturalmente, não poderiam deixar de afetar \nas nossas Forças Armadas, obrigando a apelar à sua capacidade de fazer muito com recursos mais limitados e \nà revisão ou eliminação de alguns dos programas então previstos. \nAinda assim, num trabalho conjunto com as chefias militares, foram, à época, definidas prioridades para a \nmodernização e equipamento das nossas Forças Armadas, em maior consonância com o interesse estratégico \nde defesa nacional, prioridades que, a nosso ver, não sofreram alterações significativas. \nPor isso mesmo, cremos que a proposta de revisão da LPM, reconhecendo implicitamente o acerto das \nreformas feitas pelo anterior Governo, acaba por se revelar, em muitos aspetos, como de continuidade \nrelativamente às decisões assumidas em 2015, conclusão consolidada, de resto, pelo facto de dois terços do \nseu valor total serem destinados a prosseguir os programas e os investimentos desenvolvidos ao longo dos \núltimos anos."
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 27,
+      "speaker": {
+        "id": 1969,
+        "name": "António Carlos Sousa Gomes Da Silva Peixoto",
+        "party": "PSD",
+        "string": "O Sr. Carlos Peixoto (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 27,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… quero destacar o acerto da formalização normativa, nesta \nproposta, de aspetos como a interoperabilidade, a flexibilidade e a adaptabilidade, os procedimentos de \ncontratação no âmbito de iniciativas multilaterais e bilaterais ou o duplo uso das capacidades militares, em ordem \na reforçar o apoio das Forças Armadas em missões de cariz civil. \nAo mesmo tempo, porém, não podemos deixar de apontar algumas preocupações que a proposta do \nGoverno suscita em aspetos centrais. \nAntes de mais, a substituição das aeronaves C-130, necessidade que se impõe há vários anos, tendo em \nconta a sua importância estratégica, não apenas para as Forças Armadas, mas para o País no seu todo, a opção \npelo projeto do KC-390 iria resolver, em definitivo, a questão. \nEis senão quando, na passada semana, em audição aqui realizada, o Sr. Chefe do Estado-Maior da Força \nAérea deixou, pela primeira vez, a indicação de que Portugal poderia abandonar este programa, face ao aumento \ndos encargos. E sublinhou, inclusive, que a Força Aérea estaria já, como é seu dever, a ponderar outras \nalternativas. \nAssim, e uma vez que o Governo o não fez por sua própria iniciativa, o Grupo Parlamentar do PSD insiste \nna necessidade de obter os esclarecimentos que são devidos. Confirma-se que a Embraer está a aumentar o \ncusto das aeronaves? O que justifica essa atitude? Que outras alternativas estão a ser ponderadas pelo \nGoverno? \nAo mesmo tempo, é determinante avaliar as implicações que o valor de 827 milhões alocados ao KC-390\npoderá trazer para outros programas da Força Aérea, em particular a modernização dos F-16, com o que isso \npode significar em termos da afetação da nossa capacidade de participação em missões internacionais. \nNo que diz respeito ao Exército, é importante obter esclarecimentos adicionais sobre aspetos como o \nadiamento dos investimentos no que toca às capacidades médias, como é o caso da modernização das viaturas \nPandur, as dificuldades que poderão surgir no que respeita ao cumprimento das nossas obrigações em matéria \nde segurança cooperativa ou as limitações em termos de desenvolvimento de meios tecnológicos. \nUma nota, ainda, acerca de notícias recentes que deram conta da alteração dos requisitos do concurso de \naquisição da arma ligeira para o Exército e de que estaria a ser equacionada a possibilidade de substituir a G3\npor uma arma em uso, apenas, num país da NATO. O que tem o Governo a dizer-nos sobre isto e que impacto \npoderá ter essa mudança de orientação num concurso que tem um valor de 42,8 milhões de euros? \nPor fim, no que tem que ver com a Marinha, a proposta inscreve verbas para seis novos navios-patrulha \noceânicos, para um novo reabastecedor e para um meio inédito em Portugal, o navio polivalente logístico, opção \nque, curiosamente, foi a razão invocada pelo Partido Socialista, em 2015, para se abster na votação da atual \nLei de Programação Militar."
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 27,
+      "speaker": {
+        "id": 2149,
+        "name": "Rui Manuel Ferreira Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Rui Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 27,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se, como esperamos, tais programas passarem pelo reforço da \nintervenção da indústria nacional, dentro do respeito, como é óbvio, pelas leis da concorrência, demonstrado \nficará, uma vez mais, que a decisão tomada pelo Executivo anterior de salvar a construção naval em Viana do \nCastelo foi a mais acertada, apesar de ter sido tão criticada pelas forças políticas que hoje integram ou que hoje \nsuportam a atual solução governativa."
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 27,
+      "speaker": {
+        "id": 2149,
+        "name": "Rui Manuel Ferreira Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Rui Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 27,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Referência especial é devida, contudo, à questão das fragatas. \n\nO Sr. Chefe do Estado-Maior da Armada deu-nos conta, ontem, que a proposta contempla o programa de \naquisição de novas fragatas destinadas a substituir a classe Vasco da Gama."
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 28,
+      "speaker": {
+        "id": 1969,
+        "name": "António Carlos Sousa Gomes Da Silva Peixoto",
+        "party": "PSD",
+        "string": "O Sr. Carlos Peixoto (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 28,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O PSD, pelo seu lado, no Governo como na oposição, guia-se pela \ncoerência e pela responsabilidade. Por isso, renovamos a nossa disponibilidade para, no respeito pelos \nprincípios que nos conduzem e pelas opções de política concreta que defendemos, contribuir para construir um \nconsenso alargado nas matérias de defesa nacional."
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Atenção ao tempo, Sr. Deputado."
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 28,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou já terminar, Sr. Presidente. \nE, em lógica consequência dessa postura, iremos, em sede de especialidade, trabalhar com o Governo e \ncom todas as outras forças políticas, no sentido de melhorar a proposta que o Governo nos apresenta para \nrevisão da LPM, vendo, nomeadamente, esclarecidas as questões que aqui lhe deixei. Porque, como sempre, \no nosso objetivo único é assegurar às nossas Forças Armadas as melhores condições possíveis para o \ncumprimento das missões que lhes são atribuídas, em nome do interesse estratégico de Portugal."
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem, agora, a palavra, para uma intervenção, o Sr. Deputado João \nRebelo, do CDS-PP."
+    },
+    {
+      "utterance_id": 166,
+      "order": 166,
+      "page_start": 28,
+      "speaker": {
+        "id": 1275,
+        "name": "João Guilherme Nobre Prata Fragoso Rebelo",
+        "party": "CDS-PP",
+        "string": "O Sr. João Rebelo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Ministro, Sr.ª Secretária de Estado da Defesa Nacional, \nSr. Secretário de Estado dos Assuntos Parlamentares, Caras Deputadas e Caros Deputados: Como ponto prévio \nnão posso deixar de lamentar o atraso na entrega da Lei de Programação Militar no Parlamento por parte do \nGoverno, quando deveria ter sido entregue muito antes, com tempo suficiente para fazer um debate sério e \nrigoroso, ainda em 2018, e, consequentemente, ter entrado em vigor no início do presente ano."
+    },
+    {
+      "utterance_id": 167,
+      "order": 167,
+      "page_start": 28,
+      "speaker": {
+        "id": 1957,
+        "name": "Maria De Assunção Oliveira Cristas Machado Da Graça",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Assunção Cristas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 168,
+      "order": 168,
+      "page_start": 28,
+      "speaker": {
+        "id": 1275,
+        "name": "João Guilherme Nobre Prata Fragoso Rebelo",
+        "party": "CDS-PP",
+        "string": "O Sr. João Rebelo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Discutimos hoje, na generalidade, uma das leis mais importante para o \ncumprimento das missões das Forças Armadas, sejam essas missões de âmbito interno, sejam essas missões \nde âmbito externo no sistema de alianças em que Portugal se encontra, e nas Forças Nacionais Destacadas. \nMissões em que o notável desempenho dos nossos militares representam diariamente um acrescento de \nsegurança e de bem-estar para o nosso País e para o povo português. \nBasta recordar todas as missões realizadas em Portugal ou no estrangeiro pelas nossas Forças Armadas, \nque têm sido muito apreciadas por todos pela competência e coragem, pondo em risco, por vezes, as suas \npróprias vidas para garantir a segurança de todos nós."
+    },
+    {
+      "utterance_id": 169,
+      "order": 169,
+      "page_start": 29,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 170,
+      "order": 170,
+      "page_start": 29,
+      "speaker": {
+        "id": 1275,
+        "name": "João Guilherme Nobre Prata Fragoso Rebelo",
+        "party": "CDS-PP",
+        "string": "O Sr. João Rebelo (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Ministro, Sr.as Deputadas e Srs. Deputados: Tão ou \nmais importante do que uma boa Lei de Programação Militar é a sua exemplar execução e aqui o atual Governo \ntem vindo a dar sinais que nos deixam preocupados e com reservas relativas ao futuro. Se verificarmos os dados \naté então disponíveis e que são só os de 2016 e 2017, pois a Conta Geral do Estado de 2018 ainda não foi \npublicada, constatamos que o grau de execução da anterior LPM tem vindo a baixar. \nSe, em 2016, o desvio de execução é mínimo, pois estava prevista uma execução de 230 milhões de euros \ne foram executados 227 milhões de euros, o mesmo já não acontece em relação a 2017, em que a execução \nprevista originalmente era de 250 milhões de euros, mas no final do ano apenas foram executados 226 milhões \nde euros, ou seja, uma execução inferior ao previsto em 10%. \nEsperamos pelos números oficiais de 2018 para perceber se foi um caso isolado ou se foi o início de um \nprocesso de insuficiente execução da LPM. \nMas indo ao concreto desta nova Lei de Programação Militar, conforme admite o próprio Ministro, dois terços \ndo investimento previsto são de continuidade e um terço refere-se a projetos estruturantes novos. \nOra, este é um facto que saudamos, porque, em primeiro lugar, este Governo, que tem o apoio de esquerdas \nradicais, não pretende cortar totalmente com o que tem vindo do anterior Executivo, como tem feito noutras \náreas, e porque, em segundo lugar, reconhece que grande parte do investimento já vinha do passado, facto que \ntambém não é comum neste Governo, que tem tido sempre muita dificuldade em reconhecer o que vinha sendo \nfeito de bom antes de tomar posse. \nNo que toca a novos investimentos, um dos mais importantes será a aquisição dos aviões KC-390 para a \nsubstituição dos C-130 da Força Aérea, com um valor de 827 milhões de euros no horizonte dos 12 anos, \nsegundo prevê o Governo e a nova Lei de Programação Militar. \nO CDS reconhece a importância desta aquisição e reconhece o papel decisivo que, até ao momento, os C-\n130 têm e que, futuramente, os KC-390 passarão a ter, quer em missões puramente militares, quer de duplo \nuso, ou em missões civis. Por isso mesmo, urge que se clarifique definitivamente se o Estado vai ou não adquirir \no KC-390, pois as informações que temos são contraditórias. \nO Chefe do Estado-Maior da Força Aérea, General Manuel Rolo, revelou, em audição na Comissão de \nDefesa, que o Estado português admite abandonar o projeto de aquisição destes mesmos aviões à Embraer se"
+    },
+    {
+      "utterance_id": 171,
+      "order": 171,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Vasconcelos, \ndo Bloco de Esquerda."
+    },
+    {
+      "utterance_id": 172,
+      "order": 172,
+      "page_start": 30,
+      "speaker": {
+        "id": 2049,
+        "name": "João Manuel Duarte Vasconcelos",
+        "party": "BE",
+        "string": "O Sr. João Vasconcelos (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as Deputadas e Srs. \nDeputados: O mundo atual encontra-se mais instável e mais perigoso do que há uns ano. Com a queda do Muro \nde Berlim, afinal o fim da história não se concretizou e as teses de Fukuyama desabaram com fragor. Teses \napadrinhadas pelas democracias liberais que, afinal, estiveram e estão na base de um mundo cada vez mais \ninstável, com o seu rol de invasões, guerras, crises financeiras, terrorismo, ciberataques, imigração em massa \ne o agravamento das alterações climáticas. \nPortugal, fazendo parte do mundo, não pode ficar isolado e precisa de ter umas Forças Armadas adaptadas \nàs novas realidades em que vivemos. Umas Forças Armadas que continuem a reger-se dentro do plano legal e \nda ordem constitucional vigente. \nNão deve ser desvirtuada a função principal das Forças Armadas, ou seja, tal como preconiza a Constituição \nda República Portuguesa, incumbe às Forças Armadas a defesa militar da República, mas, sempre que \nnecessário, as Forças Armadas podem ser incumbidas de colaborar em missões de proteção civil, em tarefas \nrelacionadas com a satisfação de necessidades básicas e com a melhoria da qualidade de vida e bem-estar das \npopulações. \nTudo isto para ir ao encontro desta Lei de Programação Militar proposta pelo Governo e que fala muito em \nduplo uso, militar e civil. Não estarão aqui subjacentes outras intenções, tão do agrado do PS, do PSD e do \nCDS? As Forças Armadas podem e devem colaborar em missões de proteção civil, sempre que para tal forem \nsolicitadas, e não devem fazer da proteção civil a sua função principal. Ou seja, a proteção civil não pode \ncaminhar para uma crescente militarização. As Forças Armadas só têm de colaborar, a pedido da proteção civil. \nSão elevados os investimentos públicos no âmbito da Defesa Nacional para os próximos anos, com as tais \nfunções de duplo uso, em que grande parte dos meios militares a adquirir ou a construir servirão para projetar"
+    },
+    {
+      "utterance_id": 173,
+      "order": 173,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Vitalino Canas, do \nPS."
+    },
+    {
+      "utterance_id": 174,
+      "order": 174,
+      "page_start": 31,
+      "speaker": {
+        "id": 1423,
+        "name": "Vitalino José Ferreira Prova Canas",
+        "party": "PS",
+        "string": "O Sr. Vitalino Canas (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as Deputadas e Srs. Deputados: \nTalvez seja banal dizer que vivemos num mundo em rápida mudança e com fluxos e dinâmicas cada vez mais \nimprevisíveis. Talvez seja banal dizer que o mundo está perigoso e mais instável e por isso mais carente de \ncontributos para a paz e segurança globais, como Portugal. \nAlém disso, Portugal está sujeito a imperativos de soberania que são previsivelmente alargados no futuro, \ncom esperada expansão da plataforma continental portuguesa. Tudo isso implica que tenhamos Forças \nArmadas modernas e equipadas para o novo ambiente de segurança e defesa que vivemos. \nEsse é o primeiro desiderato da Lei de Programação Militar para os próximos 12 anos: dotar as nossas \nForças Armadas dos meios para cumprir as missões que a Constituição lhes entrega. Nessa vertente, ela insere-\nse numa linha de continuidade com leis congéneres anteriores. \nTodavia, há outras vertentes onde a LPM tem de evoluir. \nPor um lado, Portugal está cada vez mais integrado em espaços de segurança coletiva e cooperativa que \nimplica superiores níveis de coordenação e de articulação, sendo muito relevantes os desenvolvimentos que se \ntêm verificado nos anos mais recentes ao nível da União Europeia. A aposta na interoperabilidade e na \nflexibilidade ganham relevo também nesse quadro. \nPor outro lado, o prestígio e a dedicação das Forças Armadas têm suscitado um crescente apelo por parte \nda comunidade civil no sentido de elas serem envolvidas em missões não militares, contribuindo para o bem-\nestar das populações. Daí a preocupação em garantir o investimento em programas e equipamentos suscetíveis \nde duplo uso e de multiuso — civil e militar. \nAcresce que num contexto de recursos limitados, que não se alterará significativamente nos próximos 12 \nanos, há que garantir que um esforço de quase 5000 milhões de euros se traduz num impacto positivo e \nmultiplicador na economia nacional e ao nível da participação de Portugal nos mercados globais. Merece, pois, \nrelevo um aspeto que os chefes militares destacaram nas suas audições na Comissão de Defesa Nacional: esta \nLPM contribuirá para o desenvolvimento no nosso País de clusters ao nível aeronáutico e no setor da construção \nnaval, para além de concorrer para o desenvolvimento da investigação científica nacional e da base tecnológica \nde indústrias de duplo uso. \nA LPM traduz-se num notável investimento no nosso sistema científico e tecnológico, bem como no nosso \ntecido industrial. É esse o caminho e o Partido Socialista congratula-se com esse rumo. \nSr. Presidente, sempre que se discutem propostas de lei de programação militar, é inevitável que um dos \ntemas centrais seja a repartição de verbas pelos três ramos. E, quanto a isto, não podemos deixar de atender à \nposição e aos riscos geoestratégicos de Portugal, os quais têm necessariamente de se refletir de forma \nsignificativa na distribuição de verbas."
+    },
+    {
+      "utterance_id": 175,
+      "order": 175,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem, agora, a palavra para uma intervenção o Sr. Deputado Jorge \nMachado, do PCP."
+    },
+    {
+      "utterance_id": 176,
+      "order": 176,
+      "page_start": 32,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Ministro, Srs. Deputados: Versa a Constituição da \nRepública Portuguesa, no seu artigo 273.º, n.º 1, o seguinte: «É obrigação do Estado assegurar a defesa \nnacional» e no n.º 2 desse mesmo artigo: «A defesa nacional tem por objetivos garantir, no respeito da ordem \nconstitucional, das instituições democráticas e das convenções internacionais, a independência nacional, a \nintegridade do território e a liberdade e a segurança das populações contra qualquer agressão ou ameaça \nexternas». \nO n.º 1 do artigo 275.º refere, ainda, que «Às Forças Armadas incumbe a defesa militar da República» e o \nn.º 4 do mesmo artigo diz: «As Forças Armadas estão ao serviço do povo português (…)». \nPara o PCP, é claro que a prioridade das Forças Armadas é a defesa nacional e não a defesa de outras \ncoisas, nomeadamente a NATO e as organizações no plano europeu, como aqui ficou claro."
+    },
+    {
+      "utterance_id": 177,
+      "order": 177,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 178,
+      "order": 178,
+      "page_start": 32,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, não se justifica a inversão dessa prioridade, transformando a \nsatisfação de compromissos internacionais no alfa e no ómega das Forças Armadas. Aliás, o que a vida mostra \né que quanto mais participação externa temos, mais debilidades se vão revelando em vários vetores das nossas \nForças Armadas. \nÉ neste enquadramento que a Lei de Programação Militar deve definir o nível de prioridade que assume a \ncomponente militar da defesa nacional, nomeadamente quanto às suas opções fundamentais. Nesse sentido, \nimporta sublinhar que algumas das opções constantes nesta lei revelam mais das exigências da nossa \nparticipação em missões internacionais — que envolvem despesas que, na nossa opinião, são incomportáveis \n— do que o necessário para a defesa do interesse nacional. \nA nossa discrepância e as nossas dúvidas em relação a alguns programas desta LPM não têm que ver com \na necessidade de reequipar as Forças Armadas ou, sequer, com o modelo de financiamento, como aconteceu"
+    },
+    {
+      "utterance_id": 179,
+      "order": 179,
+      "page_start": 33,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 180,
+      "order": 180,
+      "page_start": 33,
+      "speaker": {
+        "id": 1295,
+        "name": "José Manuel De Matos Correia",
+        "party": "PSD",
+        "string": "O Sr. José de Matos Correia (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Da NATO e da União Europeia!"
+    },
+    {
+      "utterance_id": 181,
+      "order": 181,
+      "page_start": 33,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Da NATO? Do exército comum, em gestação, na União Europeia? Então, \nse assim é, essas verbas são mais necessárias no SNS, na educação ou em alguns dos vários projetos que as \nForças Armadas viram amputados ou adiados, conforme verificámos nas audições dos chefes militares. \nSem prescindir de uma análise mais cuidada, quando tivermos acesso e estivermos na posse das fichas de \ncapacidades e projetos com a respetiva descrição e justificação, deixamos, então, registadas algumas das \nnossas preocupações. \nEm relação ao KC-390, independentemente de considerarmos que este modelo se adapta às nossas \nnecessidades e de termos em conta a participação da indústria nacional no projeto, preocupam-nos, por um \nlado, as consequências do processo de aquisição da maioria do capital acionista da Embraer pela americana \nBoeing e, por outro, o facto de apenas dois países — o Brasil e Portugal — terem manifestado interesse na \naquisição deste avião."
+    },
+    {
+      "utterance_id": 182,
+      "order": 182,
+      "page_start": 33,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 183,
+      "order": 183,
+      "page_start": 33,
+      "speaker": {
+        "id": 2055,
+        "name": "Artur Jorge Da Silva Machado",
+        "party": "PCP",
+        "string": "O Sr. Jorge Machado (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Temos dúvidas, como referi, relativamente ao navio polivalente logístico e, \nmais uma vez para satisfazer a nossa participação em forças multinacionais, manifestamos dúvidas quanto ao \nprojeto do helicóptero armado, o Koala, cuja configuração nesta vertente é desconhecida e, nesse sentido, \ntambém os custos o são. \nSr. Presidente, Srs. Deputados, Sr. Ministro: Para o PCP, não está em causa, como referi, a necessidade de \nreequipar as nossas Forças Armadas, conferindo-lhes capacidades para melhorarem o seu desempenho e para \ncumprirem as missões que constitucionalmente lhes estão consagradas. Daí, a nossa concordância, tanto \nquanto conseguimos, por agora, compreender, em relação às propostas e aos programas inscritos nesta lei de \nprogramação, que visam corresponder a necessidades reais e a satisfazer missões de interesse nacional. \nPor outro lado, manifestamos as nossas dúvidas quanto a propostas e programas que, significando avultados \ninvestimentos para o País, visam, essencialmente, satisfazer interesses de terceiros e que pouco ou nada \nsignificam para a defesa do nosso País. \nAssim, o Grupo Parlamentar do PCP irá optar pela abstenção, com vista a, na especialidade, promover uma \ndiscussão séria, que aprofunde e clarifique quais as prioridades que o nosso País, nesta matéria, assume."
+    },
+    {
+      "utterance_id": 184,
+      "order": 184,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para uma intervenção, o Sr. Deputado Jorge Gomes, do \nPS."
+    },
+    {
+      "utterance_id": 185,
+      "order": 185,
+      "page_start": 33,
+      "speaker": {
+        "id": 2054,
+        "name": "Jorge Manuel Nogueiro Gomes",
+        "party": "PS",
+        "string": "O Sr. Jorge Gomes (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Ministro, Sr.ª Secretária de Estado da Defesa Nacional, Sr. \nSecretário de Estado dos Assuntos Parlamentares, Sr.as Deputadas e Srs. Deputados: Esta Lei de Programação \nMilitar é boa para as Forças Armadas, é boa para o País e é melhor para a sociedade civil. \nÉ uma lei que é mais amiga dos portugueses e da sociedade civil, que garante a proteção e o apoio à diáspora \nportuguesa no mundo. É uma lei que, no seu todo, é um catalisador de emprego qualificado, que promove a"
+    },
+    {
+      "utterance_id": 186,
+      "order": 186,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, terminada a discussão, na generalidade, da Proposta \nde Lei n.º 172/XIII/4.ª, passamos à apreciação da Petição n.º 137/XIII/1.ª (Comissão de Utentes pela Abolição \ndas Portagens na A1, no concelho de Vila Franca de Xira) — Pela abolição das portagens na A1, no concelho \nde Vila Franca de Xira, juntamente com o Projeto de Resolução n.º 1868/XIII/4.ª (Os Verdes) — Abolição de \ntaxas de portagens na A1, em Vila Franca de Xira e Alverca. \nPara apresentar o projeto de resolução de Os Verdes, tem a palavra o Sr. Deputado José Luís Ferreira."
+    },
+    {
+      "utterance_id": 187,
+      "order": 187,
+      "page_start": 34,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as Deputadas e Srs. Deputados: As primeiras \npalavras são para saudar, em nome de Os Verdes, os milhares de cidadãos que, fazendo uso da petição, este \nimportante instrumento da nossa democracia, que se quer participada, se dirigem à Assembleia da República \nsolicitando medidas no sentido de abolir as portagens na A1, no concelho de Vila Franca de Xira. Uma saudação \nque, naturalmente, Os Verdes pretendem também estender à Comissão de Utentes pela Abolição das Portagens \nna A1, no concelho de Vila Franca de Xira, que dinamizou e promoveu a petição que agora discutimos e, em \nparticular, aos dirigentes que hoje, aqui, acompanham connosco os trabalhos. \nComo muito bem referem os peticionantes, o concelho de Vila Franca de Xira é atravessado pela estrada \nnacional n.º 10, ligando assim as diferentes localidades deste concelho que, segundo os Censos de 2011, é \nconstituído por uma população de mais de 136 000 habitantes. \nPara além desta estrada nacional, o concelho de Vila Franca de Xira é também servido pela A1 que, partindo \nde Lisboa, se desenvolve ao longo de algumas dezenas de quilómetros, numa malha urbana quase contínua e \nque engloba, entre outras localidades, o concelho de Vila Franca de Xira, nomeadamente Castanheira do \nRibatejo, Póvoa de Santa Iria, Alverca e Vila Franca de Xira. Sucede que esta autoestrada está, como sabemos, \nconcessionada à Brisa e é, portanto, portajada, exceto nos troços junto a Lisboa e ao Porto, como é o caso do \ntroço entre Alverca e Lisboa. \nOra, Os Verdes consideram que a mobilidade desta população dentro do seu próprio concelho, mas também \nquando pretende seguir em direção a Lisboa ou em direção ao Porto, se torna cada vez mais difícil e sem \nalternativa que não seja pela própria A1 portajada. \nNa verdade, a população sente diariamente os constrangimentos de uma estrada nacional absolutamente \ncongestionada, com particular incidência nas chamadas «hora de ponta», sendo literalmente empurrada para a \nA1, com os inerentes custos financeiros acrescidos pelo pagamento da respetiva portagem. Esta situação, aliás, \ntorna-se incomportável para quem tem diariamente de utilizar esta via para se deslocar seja para o trabalho, \nseja para a escola. \nAssim, a abolição das portagens em Alverca do Ribatejo e em Vila Franca de Xira torna-se urgente para que \na mobilidade das populações, a circulação dos veículos e a qualidade ambiental dentro destas localidades, \natravessadas pela estrada nacional n.º 10, sejam melhoradas e, por consequência, se traduzam em ganhos \neconómicos para o próprio concelho de Vila Franca de Xira, que não apresenta alternativas a esta dificuldade \nde mobilidade. \nPor tudo isto, Os Verdes, através da iniciativa que trazem hoje à discussão, propõem ao Governo que não \nsó considere a abolição das portagens na A1 em todo o concelho de Vila Franca de Xira, mas também proceda \nà construção dos nós de acesso à A1 no Sobralinho e a partir da Estrada dos Caniços, em Vialonga."
+    },
+    {
+      "utterance_id": 188,
+      "order": 188,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "De seguida, tem a palavra, para uma intervenção, o Sr. Deputado Heitor \nde Sousa, do Bloco de Esquerda."
+    },
+    {
+      "utterance_id": 189,
+      "order": 189,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Heitor de Sousa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: Queria começar por cumprimentar os \npeticionários da Petição n.º 137/XIII/1.ª, que suscita a abolição das portagens na A1 entre o troço de Alverca e \nVila Franca de Xira e, também, saudar a iniciativa legislativa que o Partido Ecologista «Os Verdes» fez a \npropósito desta iniciativa. \nEstamos de acordo com a ideia de abolição das portagens. Aliás, temos defendido o mesmo em relação a \noutras vias e autoestradas, sobretudo as que dão acesso às regiões do interior do País e que, anteriormente, \nnão eram portajadas, mas passaram a sê-lo, fruto da decisão bastante «inteligente» do Governo PSD/CDS. Esta \ndecisão fez com que se empurrassem todos os veículos para cima das estradas nacionais, aumentando com \nisto a sinistralidade rodoviária, com a qual todos nós nos preocupamos agora. Alguém que não queira perceber \npor que razão a sinistralidade rodoviária aumentou! Tirando este detalhe, de facto, e neste caso em concreto, \ncreio que não é uma decisão sensata abolir pura e simplesmente as portagens, sem tratar do efeito que tal \npoderá gerar do ponto de vista do congestionamento de uma estrada com perfil de autoestrada. \nSobretudo, não é uma decisão sensata e é um risco se não pensarmos na necessidade de garantir um \ncorredor de circulação de transportes públicos coletivos nessa via de autoestrada. Com razão os peticionários \ne as pessoas de Vila Franca se queixam do facto de o transporte ferroviário, hoje em dia, ser um transporte \ncompletamente sobrelotado, tal como se queixam do congestionamento que já existe na própria EN10. O facto \nde se abolirem as portagens sem cuidar de garantir a circulação preferencial de transportes públicos coletivos \nsignifica que vamos, pura e simplesmente, transferir o problema da EN10 para a A1. Do ponto de vista da \nmobilidade, sobretudo coletiva, não é muito boa ideia! \nCreio, também, que vale a pena pensar nesta decisão em articulação com a construção do novo nó no \nSobralinho, pois este permitirá que algum do tráfego que tem de ir até Vila Franca para depois voltar para trás, \npara o Sobralinho, possa descongestionar algum deste tráfego na A1. \nPortanto, Sr.as Deputadas e Srs. Deputados, estando o Bloco de acordo com a ideia e com o princípio, \nachamos que deve haver um plano de mobilidade e de circulação específico para cuidar da circulação de \ntransportes públicos e para evitar o sobrecongestionamento de uma estrada com perfil de autoestrada."
+    },
+    {
+      "utterance_id": 190,
+      "order": 190,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "De seguida, tem a palavra, para uma intervenção, o Sr. Deputado Hélder \nAmaral, do CDS-PP."
+    },
+    {
+      "utterance_id": 191,
+      "order": 191,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Queria começar por cumprimentar, \nem meu nome e em nome do CDS, os peticionários e dizer-lhes que têm toda a razão em apresentar esta \npetição. E porquê? Porque acreditaram — sem querer, porventura — nas promessas, que não eram para \ncumprir, eram só caça ao voto, do Sr. Primeiro-Ministro e do Governo do Partido Socialista e, já agora, do Partido \nComunista Português e do Bloco de Esquerda. \nNuma leitura atenta da imprensa, à data, o que líamos eram anúncios de fins de portagens. Trouxe, até, \nalguns recortes de jornal, cujos títulos, que passo a mostrar, são os seguintes: «PS admite eliminar portagens \nnointerior e no Algarve»; «António Costa sugere o fim das portagens no interior»; «Costa sugere, sem se \ncomprometer, fim de algumas portagens»; «António Costa promete rever portagens na via do Infante». \nTodo esse conjunto de promessas faz com que, legitimamente, as populações de várias regiões do País \nperguntem «então, afinal era a sério ou era só para inglês ver?»"
+    },
+    {
+      "utterance_id": 192,
+      "order": 192,
+      "page_start": 35,
+      "speaker": {
+        "id": 2144,
+        "name": "Rita Rato Araújo Fonseca",
+        "party": "PCP",
+        "string": "A Sr.ª Rita Rato (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E o CDS, é a sério?! Como é que vota?"
+    },
+    {
+      "utterance_id": 193,
+      "order": 193,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É evidente que, depois, quando olhamos para os orçamentos e para a \napresentação do plano nacional de investimento ou de outras matérias, temos aqui o Sr. Ministro do \nPlaneamento e das Infraestruturas a dizer que o Governo anterior enganou os portugueses, que queria rever os \ncontratos de concessão e as ex-SCUT. E veio, até, dizer que o PowerPoint aponta tudo e que agora é que vai \nser, que vão rever as concessões, que vão renegociar as rendas das PPP (parcerias público-privadas) e que \nvão, obviamente, com isso, reduzir, portagens e custos. \nPergunta: têm VV. Ex.as algum contrato, alguma renegociação terminada?"
+    },
+    {
+      "utterance_id": 194,
+      "order": 194,
+      "page_start": 36,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ora!…"
+    },
+    {
+      "utterance_id": 195,
+      "order": 195,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Preveem alguma redução na enorme fatura das PPP? Ou isto foi também \nsó conversa para ganhar votos ou para satisfazer as bancadas mais à esquerda?"
+    },
+    {
+      "utterance_id": 196,
+      "order": 196,
+      "page_start": 36,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 197,
+      "order": 197,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É evidente que, posto isto, se torna difícil reduzir portagens. E o Governo \nvem, mais uma vez — porque dá prioridade à caça ao voto, que se está a transformar numa comissão eleitoral \n—, dizer que há redução de portagens até 80% nas ex-SCUT e em territórios de baixa densidade. \nPois, mas há alguns troços, como por exemplo na A6, que estão em territórios de baixa densidade mas onde \nnão há redução de portagens. Ou seja, há tratamento desigual entre portugueses. \nPor isso, digo que devemos, de facto, discutir esta matéria, mas com alguma seriedade. Desde logo, como \nse financia? Qual é o novo modelo para se financiarem os custos das autoestradas que, num Estado de direito, \né preciso cumprir?"
+    },
+    {
+      "utterance_id": 198,
+      "order": 198,
+      "page_start": 36,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Afinal, o CDS está de acordo ou não está de acordo?"
+    },
+    {
+      "utterance_id": 199,
+      "order": 199,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É preciso encontrar, até, algum equilíbrio geracional, para que as \ngerações futuras, que também vão usar as infraestruturas, possam contribuir."
+    },
+    {
+      "utterance_id": 200,
+      "order": 200,
+      "page_start": 36,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se for para isso, temos de ir pedir dinheiro às concessionárias. Algumas já \nreceberam até quatro vezes mais!"
+    },
+    {
+      "utterance_id": 201,
+      "order": 201,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Como é que pagamos isso? \nEu podia dizer: «Bom, vamos fazer uma revisão do Orçamento do Estado, que está cheio de propostas de \nreduções e de abolições de portagens. Como o Governo não anuiu, o Bloco de Esquerda, o PCP e o Partido \nEcologista «Os Verdes» irão votar contra o Orçamento…» Mas nada disso!"
+    },
+    {
+      "utterance_id": 202,
+      "order": 202,
+      "page_start": 36,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Claro!"
+    },
+    {
+      "utterance_id": 203,
+      "order": 203,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Três Orçamentos e nada disso!"
+    },
+    {
+      "utterance_id": 204,
+      "order": 204,
+      "page_start": 36,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E o CDS vai retirar as propostas já agendadas?"
+    },
+    {
+      "utterance_id": 205,
+      "order": 205,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "O CDS está disponível para discutir um novo modelo de financiamento \ndas PPP, está disponível para discutir como é que podemos suportar essa despesa assumida pelo Estado, de \nforma a ser equilibrada, equitativa e que respeite o princípio da igualdade."
+    },
+    {
+      "utterance_id": 206,
+      "order": 206,
+      "page_start": 36,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Diga lá se está a favor ou contra as portagens em Vila Franca!"
+    },
+    {
+      "utterance_id": 207,
+      "order": 207,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Direi mais: fui até fazer um estudo para saber se era justa a pretensão, \ne digo que é. É preciso o nó de Sobralinho e são precisas alternativas naquela região, que é bastante \ncongestionada, que tem um bom impacto para a economia. São pontos que devem ser estudados."
+    },
+    {
+      "utterance_id": 208,
+      "order": 208,
+      "page_start": 37,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está a favor ou está contra?!"
+    },
+    {
+      "utterance_id": 209,
+      "order": 209,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "O plano nacional de investimentos está agora em discussão e espero \nque o Governo esteja disponível para arranjar soluções."
+    },
+    {
+      "utterance_id": 210,
+      "order": 210,
+      "page_start": 37,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas diga lá se está a favor ou se está contra."
+    },
+    {
+      "utterance_id": 211,
+      "order": 211,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sabem quanto custam as portagens em Vila Franca de Xira? Custam 3 \ncêntimos por quilómetro! Podíamos aboli-las."
+    },
+    {
+      "utterance_id": 212,
+      "order": 212,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Peço-lhe que conclua, Sr. Deputado."
+    },
+    {
+      "utterance_id": 213,
+      "order": 213,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Termino, Sr. Presidente. Tendo em conta um princípio de igualdade, \npergunto: o que é que podemos dizer às populações do Porto, que pagam 7 cêntimos por quilómetro? E às de \nVila Real, que pagam também 7 cêntimos?"
+    },
+    {
+      "utterance_id": 214,
+      "order": 214,
+      "page_start": 37,
+      "speaker": {
+        "id": 2128,
+        "name": "Paulo César Rios De Oliveira",
+        "party": "PSD",
+        "string": "O Sr. Paulo Rios de Oliveira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 215,
+      "order": 215,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Hélder Amaral (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "E às de Aveiro, que pagam 8 cêntimos? E às de Faro, que pagam 9 \ncêntimos? E às de Leiria, que pagam 9 cêntimos? Já para não falar do meu distrito, que tem portagens a toda a \nvolta! Vamos dar um benefício apenas a uma parte da população e não a todos? Acho que ficava bem se \npudéssemos, todos, encontrar um novo modelo de equidade, equilibrado e para o País inteiro."
+    },
+    {
+      "utterance_id": 216,
+      "order": 216,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para uma intervenção, o Sr. Deputado Duarte Alves."
+    },
+    {
+      "utterance_id": 217,
+      "order": 217,
+      "page_start": 37,
+      "speaker": {
+        "id": 1987,
+        "name": "Duarte Le Falher De Campos Alves",
+        "party": "PCP",
+        "string": "O Sr. Duarte Alves (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente e Srs. Deputados: Começamos por saudar os peticionários, da \nComissão de Utentes pela Abolição das Portagens na A1, no Concelho de Vila Franca de Xira, presentes nas \ngalerias. \nO PCP acompanha esta justa reivindicação das populações do concelho de Vila Franca de Xira. Estamos a \nfalar de um concelho da Área Metropolitana de Lisboa, no qual habitam mais de 136 000 pessoas, muitas delas \nutilizando a A1 todos os dias para se poderem deslocar para os seus locais de trabalho. \nSendo a A1 a autoestrada que liga as duas maiores cidades do País, esta é uma muito importante via para \na coesão nacional. Mas, além desse caráter nacional, na região de Lisboa esta autoestrada tem também um \ncaráter de via importantíssima para a ligação das populações, o que justifica que a A1 não seja portajada no \nconcelho de Loures e em parte do concelho de Vila Franca de Xira, até Alverca. \nPortanto, aquilo que a Comissão de Utentes vem solicitar não é nada de extravagante. Esta via já é, hoje, \nconsiderada como principal via de acesso, sem alternativa viável, até Alverca. Os peticionários vêm pedir que \nessa consideração seja alargada até ao limite do concelho de Vila Franca de Xira. A pergunta que se coloca é \na seguinte: faz ou não sentido esse alargamento? \nPara responder a essa pergunta, não podemos deixar de analisar as mudanças demográficas na Área \nMetropolitana de Lisboa. Para terem uma habitação adequada, muitas populações foram empurradas para \nzonas mais periféricas da região. Também com a destruição da indústria, muitos Alverquenses, Vila-franquenses \ne Castanheirenses tiveram de procurar trabalho a jusante das suas terras."
+    },
+    {
+      "utterance_id": 218,
+      "order": 218,
+      "page_start": 37,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exatamente!"
+    },
+    {
+      "utterance_id": 219,
+      "order": 219,
+      "page_start": 37,
+      "speaker": {
+        "id": 1987,
+        "name": "Duarte Le Falher De Campos Alves",
+        "party": "PCP",
+        "string": "O Sr. Duarte Alves (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os movimentos pendulares passaram a abranger uma área muito mais vasta \ndaquele território, que é, agora, de malha urbana contínua."
+    },
+    {
+      "utterance_id": 220,
+      "order": 220,
+      "page_start": 38,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ora aí está!"
+    },
+    {
+      "utterance_id": 221,
+      "order": 221,
+      "page_start": 38,
+      "speaker": {
+        "id": 1987,
+        "name": "Duarte Le Falher De Campos Alves",
+        "party": "PCP",
+        "string": "O Sr. Duarte Alves (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por cá, andamos parados e, às vezes, em contramão."
+    },
+    {
+      "utterance_id": 222,
+      "order": 222,
+      "page_start": 38,
+      "speaker": {
+        "id": 2042,
+        "name": "João Guilherme Ramos Rosa De Oliveira",
+        "party": "PCP",
+        "string": "O Sr. João Oliveira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É o sentido de progresso!"
+    },
+    {
+      "utterance_id": 223,
+      "order": 223,
+      "page_start": 38,
+      "speaker": {
+        "id": 1987,
+        "name": "Duarte Le Falher De Campos Alves",
+        "party": "PCP",
+        "string": "O Sr. Duarte Alves (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Continuamos com concessões rodoviárias que agigantam os lucros das \nmultinacionais, como a Brisa, às custas do Estado, que é chamado a pagar quando são precisas obras, e à \ncusta dos utentes, que pagam todos os dias, com preços altíssimos. O Estado, como concedente, tem todo o \ndireito de pôr em causa estas concessões leoninas, lesivas do interesse nacional, da economia e da mobilidade \ndas populações. \nA par com o reforço da oferta e da qualidade dos transportes públicos, rodoviários e ferroviários, com preços \nmais reduzidos, é de elementar justiça que se cumpra, finalmente, esta legítima aspiração de deixar de haver \nportagens na A1 em todo o concelho de Vila Franca de Xira."
+    },
+    {
+      "utterance_id": 224,
+      "order": 224,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem, agora a palavra, para uma intervenção, a Sr.ª Deputada Maria da \nLuz Rosinha."
+    },
+    {
+      "utterance_id": 225,
+      "order": 225,
+      "page_start": 38,
+      "speaker": {
+        "id": 1669,
+        "name": "Maria Da Luz Gameiro Beja Ferreira Rosinha",
+        "party": "PS",
+        "string": "A Sr.ª Maria da Luz Rosinha (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Saúdo, desde logo, os \nsubscritores da Petição n.º 137/XIII/1ª, cujo número ultrapassa os 5000. No entanto, as assinaturas poderiam \nser 50 000 ou 100 000. Saúdo, também, a iniciativa legislativa do Partido Ecologista «Os Verdes». \nEsta petição aborda um problema sentido já há muitos anos, pois em 1961 teve lugar a construção do primeiro \ntroço de autoestrada que ligou Lisboa a Vila Franca de Xira, num total de 25 km, facilitando, assim, a vida das \npessoas que diariamente fazem este trajeto e tornando-a mais segura e sem os constrangimentos sentidos no \natravessamento na estrada nacional n.º 10, que se foram agravando ao longo das últimas décadas. \nTendo em consideração que esta zona se tornou particularmente atrativa para a localização de grandes \nempresas e de habitações, os habitantes, a 31 de dezembro de 2017, eram 141 227. \nHá alguns anos, foi eliminada a praça das portagens em Sacavém, tendo sido transferida para Alverca do \nRibatejo, passando o troço Alverca-Lisboa a não exigir qualquer pagamento aos milhares de utilizadores diários. \nHouve, nesta decisão de alteração, um tratamento diferenciado para uma parte dos habitantes do concelho de \nVila Franca de Xira, mais concretamente para a zona norte do concelho, face à zona sul. \nCabe referir que sobre o território do concelho de Vila Franca de Xira pesam mais de uma dezena de \nservidões, que condicionam fortemente a mobilidade. Servidões essas que resultam, em grande parte, de \nserviços ao País e à grande Lisboa, como é o caso das linhas de alta tensão, dos adutores da EPAL (Empresa \nPortuguesa das Águas Livres, S.A.), que abastecem Lisboa e as zonas limítrofes, da servidão aeronáutica, da \nservidão militar, da estrada nacional n.º 10, para além das servidões resultantes da RAN (Reserva Agrícola \nNacional), da REN (Reserva Ecológica Nacional), do rio Tejo e das suas zonas de leito de cheia e da ampla \nlezíria, entre outras."
+    },
+    {
+      "utterance_id": 226,
+      "order": 226,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (Jorge Lacão)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para uma intervenção, o Sr. Deputado Carlos Silva."
+    },
+    {
+      "utterance_id": 227,
+      "order": 227,
+      "page_start": 39,
+      "speaker": {
+        "id": 1971,
+        "name": "Carlos Manuel Dos Santos Batista Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Carlos Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as Deputadas e Srs. Deputados, Srs. Peticionários: O \nconcelho de Vila Franca de Xira é servido pela estrada nacional n.º 10, via altamente congestionada. \nEsta via atravessa as várias localidades do concelho, nomeadamente três cidades — Póvoa de Santa Iria, \nAlverca e Vila Franca de Xira —, e serve cerca de 140.000 residentes. O concelho é ainda atravessado pela \nautoestrada, a A1, também esta em estado de saturação, dado tratar-se do principal eixo rodoviário nacional e \núnica alternativa à estrada nacional n.º 10. \nAcresce à pressão populacional e de tráfego rodoviário um muito elevado número de empresas na área \nindustrial e da logística, que leva, diariamente, ao atravessamento do concelho por milhares de veículos \npesados, o que torna a vida das populações que aí residem num inferno diário, com sérias limitações à sua \nmobilidade. \nPor este motivo, encontra-se prevista a construção, há alguns anos, de dois nós de acesso, o nó do \nSobralinho e o nó de Caniços, estando ainda, previstas as variantes a Alverca e a Vila Franca de Xira. Também \nna Póvoa de Santa Iria ficou por executar a ligação ao IC2, que liga a Lisboa pela Expo. \nEstas obras há muito são prometidas, mas tardam em sair do papel. \nQuero, ainda, recordar que as obras de alagamento da A1 foram efetuadas há muitos anos, no tempo de um \nGoverno do PSD, o então Governo do Prof. Cavaco Silva, e as portagens de então, em que o contador começava \na contar logo a partir de Sacavém, foram retiradas, passando para Alverca. Ficaram, então, beneficiadas — e \nbem! — as populações do sul do concelho, que deixaram de pagar portagens. Foi esse, aliás, até hoje, o único \nGoverno que acabou com portagens na região de Lisboa. \nEm suma, estando todas as forças políticas, ao nível local, de acordo relativamente às necessidades de mais \ne melhores acessibilidades e de melhores transportes rodoviários, e estando a governação socialista num \nmomento de apresentação de inúmeros projetos em termos de infraestruturas — diria mesmo que se trata de \numa orgia de investimento público —, não será demais lembrar os Srs. Deputados do apoio firme e indelével do \nPCP, do BE e de Os Verdes a este Governo,…"
+    },
+    {
+      "utterance_id": 228,
+      "order": 228,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Heitor de Sousa (BE)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Indelével?!"
+    },
+    {
+      "utterance_id": 229,
+      "order": 229,
+      "page_start": 39,
+      "speaker": {
+        "id": 2128,
+        "name": "Paulo César Rios De Oliveira",
+        "party": "PSD",
+        "string": "O Sr. Paulo Rios de Oliveira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Essa é que é a verdade!"
+    },
+    {
+      "utterance_id": 230,
+      "order": 230,
+      "page_start": 39,
+      "speaker": {
+        "id": 1971,
+        "name": "Carlos Manuel Dos Santos Batista Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Carlos Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… não só em termos politico-parlamentares, mas também em termos de apoio \norçamental."
+    },
+    {
+      "utterance_id": 231,
+      "order": 231,
+      "page_start": 40,
+      "speaker": {
+        "id": 2128,
+        "name": "Paulo César Rios De Oliveira",
+        "party": "PSD",
+        "string": "O Sr. Paulo Rios de Oliveira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 232,
+      "order": 232,
+      "page_start": 40,
+      "speaker": {
+        "id": 1971,
+        "name": "Carlos Manuel Dos Santos Batista Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Carlos Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "… e esquecem-se daquilo que prometeram quando estão na governação."
+    },
+    {
+      "utterance_id": 233,
+      "order": 233,
+      "page_start": 40,
+      "speaker": {
+        "id": 2128,
+        "name": "Paulo César Rios De Oliveira",
+        "party": "PSD",
+        "string": "O Sr. Paulo Rios de Oliveira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Até estão aos gritos agora!"
+    },
+    {
+      "utterance_id": 234,
+      "order": 234,
+      "page_start": 40,
+      "speaker": {
+        "id": 1971,
+        "name": "Carlos Manuel Dos Santos Batista Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Carlos Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Srs. Deputados, não será alheio a isto o facto de o Ministro que anda a efetuar \nesta orgia de anúncios ser o mesmo que não faz, que promete e vai embora."
+    },
+    {
+      "utterance_id": 235,
+      "order": 235,
+      "page_start": 40,
+      "speaker": {
+        "id": 2128,
+        "name": "Paulo César Rios De Oliveira",
+        "party": "PSD",
+        "string": "O Sr. Paulo Rios de Oliveira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 236,
+      "order": 236,
+      "page_start": 40,
+      "speaker": {
+        "id": 1971,
+        "name": "Carlos Manuel Dos Santos Batista Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Carlos Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vai abandonar o elenco governativo e entrar no leilão das eleições. \nNestas circunstâncias, Srs. Deputados, está nas vossas mãos."
+    },
+    {
+      "utterance_id": 237,
+      "order": 237,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as Deputadas e Srs. Deputados, chegámos ao fim da ordem de trabalhos de hoje. \nCumpre-me anunciar a agenda da sessão de amanhã, que terá lugar amanhã, quinta-feira, com início às 15 \nhoras. \nEm primeiro lugar, ao abrigo do artigo 72.º do Regimento, procedeu-terá lugar um debate de atualidade, \nrequerido pelo CDS-PP, sobre a Caixa Geral de Depósitos. \nSegue-se a apreciação conjunta do Projeto de Resolução n.º 1807/XIII/4.ª (PSD) — Recomenda ao Governo \na atribuição ao Provedor de Justiça da função de coordenar e monitorizar a aplicação da Convenção sobre os \nDireitos da Criança em Portugal e dos Projetos de Lei n.os 1059/XIII/4.ª (PSD) — 3.ª alteração à Lei n.º 2/2008, \nde 14 de janeiro (Regula o ingresso nas magistraturas, a formação de magistrados e a natureza, estrutura e \nfuncionamento do centro de estudos judiciários), incorporando uma área de estudo que incida sobre a \nConvenção sobre os Direitos da Criança, e 1064/XIII/4.ª (PAN) — Cria um Observatório na Comissão Nacional \nde Promoção dos Direitos e Proteção das Crianças e Jovens para monitorização do cumprimento das obrigações \nimpostas pela Convenção dos Direitos da Criança. \nDo terceiro ponto consta a apreciação do Projeto de Lei n.º 1020/XIII/4.ª (BE) — Cria a rede de teatros e \ncineteatros portugueses. \nDo quarto ponto consta a discussão conjunta dos Projetos de Resolução n.os 1846/XIII/4.ª (CDS-PP) — \nRecomenda ao Governo que reequacione o projeto de construção da Barragem do Alvito, numa lógica de uso \nmúltiplo da água e 1124/XIII/3.ª (PSD) — Recomenda ao Governo que encomende um estudo de viabilidade da \nBarragem do Alvito, como aproveitamento de fins múltiplos, incluindo a hipótese da sua edificação na respetiva \ncota máxima. \nEm quinto lugar, serão discutidas as Apreciações Parlamentares n.º 68/XIII/4.ª (PCP) e 67/XIII/3.ª (BE) — \nDecreto-Lei n.º 54/2018, de 6 de julho, que estabelece o regime jurídico da educação inclusiva."
+    }
+  ]
+}

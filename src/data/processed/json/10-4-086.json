@@ -1,0 +1,1678 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "10",
+    "legislative_session": "4",
+    "number": "86",
+    "date": "2009-05-28"
+  },
+  "debate_id": "r3_10_4_86_2009-05-28",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão. \nEram 15 horas e 11 minutos. \nSrs. Deputados presentes à sessão: \nPartido Socialista (PS): \nAgostinho Moreira Gonçalves \nAlberto Arons Braga de Carvalho \nAlberto Marques Antunes \nAlberto de Sousa Martins \nAlcídia Maria Cruz Sousa de Oliveira Lopes \nAldemira Maria Cabanita do Nascimento Bispo Pinho \nAna Catarina Veiga Santos Mendonça Mendes \nAna Maria Cardoso Duarte da Rocha \nAna Maria Ribeiro Gomes do Couto \nAntónio Alves Marques Júnior \nAntónio Bento da Silva Galamba \nAntónio José Martins Seguro \nAntónio Ramos Preto \nAntónio Ribeiro Gameiro \nArtur Miguel Claro da Fonseca Mora Coelho \nAurélio Paulo da Costa Henriques Barradas \nCarlos Alberto David dos Santos Lopes \nCláudia Isabel Patrício do Couto Vieira \nDavid Martins \nDeolinda Isabel da Costa Coutinho \nElísio da Costa Amorim \nEsmeralda Fátima Quitério Salero Ramires \nFernanda Maria Pereira Asseiceira \nFernando Manuel Amaro Pratas \nFernando Manuel de Jesus \nFernando dos Santos Cabral \nGlória Maria da Silva Araújo \nHorácio André Antunes \nHugo Miguel Guerreiro Nunes \nIsabel Maria Batalha Vigia Polaco de Almeida \nIsabel Maria Pinto Nunes Jorge \nJacinto Serrão de Freitas \nJaime José Matos da Gama \nJoana Fernanda Ferreira Lima \nJoaquim Barbosa Ferreira Couto \nJoaquim Ventura Leite \nJorge Filipe Teixeira Seguro Sanches \nJorge Manuel Capela Gonçalves Fão \nJorge Manuel Gouveia Strecht Ribeiro \nJorge Manuel Monteiro de Almeida \nJosé Adelmo Gouveia Bordalo Junqueiro \nJosé Alberto Rebelo dos Reis Lamego \nJosé Augusto Clemente de Carvalho \nJosé Carlos Correia Mota de Andrade"
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "A Sr.ª Secretária vai dar conta do expediente."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, deram entrada na Mesa, e foram admitidas, as seguintes iniciativas legislativas: propostas de lei n.os 292/X (4.ª) — Aprova o regime-quadro das contra-ordenações do sector das comunicações, que baixou à 9.ª Comissão, 293/X (4.ª) — Autoriza o Governo a criar um regime especial de aplicável às expropriações necessárias à concretização dos aproveitamentos hidroeléctricos integrados no Plano Nacional de Barragens de Elevado Potencial Hidroeléctrico (PNBEPH) e os aproveitamentos hidroeléctricos de Ribeiradio-Ermida, no rio Vouga, e do Baixo Sabor, no rio Sabor, que baixou à 6.ª Comissão, 294/X (4.ª) — Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro, e o Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro, por forma a criar um regime de tributação das indemnizações por cessação de funções ou por rescisão de um contrato antes do termo, auferidas por administradores, gestores e gerentes de pessoas colectivas residentes em território português, que baixou à 5.ª Comissão, 295/X (4.ª) — Altera o regime de concessão de indemnização às vítimas de crimes violentos e de violência doméstica, previstos, respectivamente, no Decreto-Lei n.º 423/91, de 30 de Outubro, e na Lei n.º 129/99, de 20 de Agosto, que baixou à 1.ª Comissão; e proposta de resolução n.º 136/X(4.ª) — Aprova o Acordo entre a República Portuguesa e a Organização para a Proibição das Armas Químicas sobre os Privilégios e Imunidades da Organização para a Proibição das Armas Químicas, assinado em Haia, em 5 de Julho de 2001, que baixou à 2.ª Comissão."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as e Srs. Deputados, a ordem do dia de hoje foi fixada pelo PS e consta da discussão, na generalidade, do projecto de lei n.º 768/X(4.ª) — Direitos dos doentes à informação e ao consentimento informado (PS) que, no final do debate, será objecto de votação.\nPara apresentar a iniciativa, em nome do Grupo Parlamentar do PS, tem a palavra a Sr.ª Deputada Maria de Belém Roseira."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 7,
+      "speaker": {
+        "id": 1343,
+        "name": "Maria De Belém Roseira Martins Coelho Henriques De Pina",
+        "party": "PS",
+        "string": "A Sr.ª Maria de Belém Roseira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, gostava de usar o mecanismo elevatório.\nPausa.\nMuito obrigada.\nComo vêem, estou a «crescer«»\nAliás, o Sr. Presidente, com a ironia que lhe é conhecida, várias vezes disse que este mecanismo elevatório seria estreado por mim...\nPenso que foi projectado para utilização pelos nossos antigos colegas, Marques Guedes e António Vitorino, mas chamar «pequenino» a um homem nem sempre é um elogio, enquanto que chamar «pequenina» a uma mulher pode ser um mimo....\nPortanto, Sr. Presidente, muito obrigada pelo mimo."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Só fizemos accionar o mecanismo porque a Sr.ª Deputada, a propósito deste diploma em concreto, deu o seu consentimento «elevado«»"
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 7,
+      "speaker": {
+        "id": 1343,
+        "name": "Maria De Belém Roseira Martins Coelho Henriques De Pina",
+        "party": "PS",
+        "string": "A Sr.ª Maria de Belém Roseira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito obrigada! Sr. Presidente, Sr.as Deputadas, Srs. Deputados: O projecto de lei que o Grupo Parlamentar do Partido Socialista hoje apresenta visa, conforme descrito no seu artigo 1.º, regular os direitos dos doentes no exercício da sua autonomia.\nEste conceito de autonomia decorre do direito de todos e cada um de nós à personalidade no seu todo, direito que, na feliz e expressiva definição de Orlando de Carvalho, «abrange todas as manifestações previsíveis e imprevisíveis da personalidade, pois é, a um tempo, direito à pessoa-ser e à pessoa-devir ou, melhor, à pessoa-ser-em-devir, entidade não estática mas dinàmica e com jus á sua ‘liberdade de desabrochar’ com direito ao livre desenvolvimento da personalidade«.\nEste conceito, que decorre da melhor doutrina aplicável aos Direitos Humanos, tem uma explanação muito própria na sua relação com os cuidados de saúde.\nTodos conhecemos a fantástica evolução científica e tecnológica que se verificou no domínio da biomedicina, sobretudo a partir da segunda metade do século passado, e todos conhecemos também as barreiras que essa evolução quebrou, dando origem a uma nova dimensão da ética, a bioética."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveram-se dois Deputados para fazer perguntas.\nAssim, em primeiro lugar, tem a palavra o Sr. Deputado António Montalvão Machado."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 10,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Maria de Belém Roseira, acabei de ouvir, agora, com muita atenção, a sua intervenção. V. Ex.ª utilizou a expressão «o tema é fascinante, é difícil, é controverso e a sua discussão é importantíssima».\nPois deixe-me dizer-lhe que a minha primeira palavra sobre o momento e a oportunidade em que o projecto é apresentado é de indignação, de profunda indignação!"
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 10,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como é possível apresentar, ontem, e discutir, hoje, um diploma relativo à decisão sobre a vida e a morte de um ser humano, sem o mais pequeno debate interno em comissão, sem uma nota técnica sequer, sem um relatório de comissão e, sobretudo — e esta é que é a parte decisiva — , sem um debate alargado, sem um debate amadurecido na sociedade portuguesa?!\nE ainda sem uma qualquer apreciação do Conselho Nacional de Ética das Ciências da Vida?!... É, enfim, uma iniciativa sem reflexão, sem pensamento, sem nada, Srs. Deputados! Sr. Presidente, a oito dias de um acto eleitoral, em plena campanha eleitoral, debaixo do «ruído» de uma campanha eleitoral, a um mês de acabar a Legislatura, o PS, como que «à socapa», «enquanto o diabo esfrega um olho», quer que se discuta, hoje, um diploma que passa a decidir sobre a vida e a morte do ser humano.\nCreiam, Sr. Presidente e Srs. Deputados, há 10 anos que sou Deputado e nunca assisti a tanta leviandade política, a tanta imprudência, a tanto oportunismo político, a tanto estratagema político..."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 10,
+      "speaker": {
+        "id": 1152,
+        "name": "Alberto De Sousa Martins",
+        "party": "PS",
+        "string": "O Sr. Alberto Martins (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tenha juízo!"
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 10,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... e, sobretudo, com um assunto sério como é o da vida e da morte."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 10,
+      "speaker": {
+        "id": 1152,
+        "name": "Alberto De Sousa Martins",
+        "party": "PS",
+        "string": "O Sr. Alberto Martins (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tenha juízo!"
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 10,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E o senhor não me diga para ter juízo! O senhor tem a minha idade e o senhor é que tem de ter juízo, porque não lhe reconheço nenhum! O PSD denuncia, pois, esta perfeita instrumentalização para fins político-partidários, para fins políticotácticos, que demonstram a degradação a que o PS conduziu este país."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 10,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, para terminar, direi que o PS sabe que, no seio da comissão, tem de se ouvir o Conselho Nacional de Ética para as Ciências da Vida e este diploma não tem tempo nem oportunidade de ser aprovado nesta Legislatura.\nE é por saber disso que esta iniciativa, Sr. Presidente, ou é um absurdo político ou é a prova da maior das desonestidades políticas e intelectuais a que se assistiu!"
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra a Sr.ª Deputada Maria de Belém Roseira."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 11,
+      "speaker": {
+        "id": 1343,
+        "name": "Maria De Belém Roseira Martins Coelho Henriques De Pina",
+        "party": "PS",
+        "string": "A Sr.ª Maria de Belém Roseira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Montalvão Machado, com toda a cortesia e com toda a simpatia, devo dizer que fiquei muito perplexa com a sua intervenção por um motivo. Se há coisa que gosto de fazer na vida política é respeitar os direitos de autor e quero recordar ao Sr. Deputado Montalvão Machado que foi pela mão do Sr. Dr. Mário Raposo, ex-ministro da Justiça do PSD, que criou a 1.ª Comissão, que se pronunciou e que desenvolveu pensamento no seio do Governo»\nSe o Sr. Deputado não se importa, ouvia-me com atenção, porque ouvi o Sr. Deputado Montalvão Machado com toda a atenção e com todo o interesse, porque é assim que respeito os meus colegas.\nOra, como eu dizia, o Sr. Ministro Mário Raposo criou, pela primeira vez, a comissão que, em Portugal, se debruçou sobre a análise das questões éticas face ao avanço da Medicina e à implicação desses mesmos avanços na necessidade de reformular o Direito.\n\nO Sr. Dr. Mário Raposo, depois de ter sido Ministro da Justiça, foi Deputado nesta Casa e Presidente do Conselho Nacional de Ética para as Ciências da Vida e, em 1992 — Sr. Deputado, oiça bem, foi em 1992! — , enquanto Presidente deste Conselho, promoveu um colóquio sobre o consentimento informado, cujas actas tenho comigo e de refiro um excerto: «não será, pois, assim, uma ideia ultrapassada e conservadora propor, em certos domínios como este — referia-se ao consentimento informado — , a sua transposição para o direito positivo. Isso não significará, certa e seguramente, amputar-lhe o seu sopro de eternidade e confiná-lo a uma perspectiva positivista. A vida humana e os seus problemas mudam. Como na frase de Meunier, ‘não se poderá responder à angústia dos nossos filhos com a audácia dos nossos avós, mas a pessoa, na sua essência natural, permanece incólume nos decisivos traços definidores’.« Portanto, é desde 1992 que o Conselho Nacional de Ética para as Ciências da Vida considera que é urgente e importante legislar sobre consentimento informado.\nAssim, Sr. Deputado, se alguma coisa deveria causar-nos indignação era o atraso com que estamos a fazê-lo no ordenamento jurídico português."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem de concluir, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 11,
+      "speaker": {
+        "id": 1343,
+        "name": "Maria De Belém Roseira Martins Coelho Henriques De Pina",
+        "party": "PS",
+        "string": "A Sr.ª Maria de Belém Roseira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou concluir, Sr. Presidente.\nFelizmente, consegui, na Carta dos Direitos e Deveres dos Doentes, impor esta prática nas nossas instituições. Através de circulares normativas, ela também foi imposta, já em 1998, às nossas instituições.\nO que é um facto é que, de acordo com um estudo recentemente levado a cabo pela Entidade Reguladora da Saúde, infelizmente, esta prática não está a ser aplicada e, portanto, tudo aconselha a que possamos legislar sobre esta matéria.\nNão é atrevimento, não é algo que nunca tenha sido discutido, nem é sequer algo de vanguarda! É algo profundamente atrasado e penso que se alguma coisa nos devia preocupar era recuperarmos algum desse atraso legislando bem, de forma participada sobre esta matéria e sem os preconceitos de sempre que nos amarram a um atraso que é sinónimo de subdesenvolvimento."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra a Sr.ª Deputada Teresa Caeiro."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 11,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Maria de Belém, de facto, no espaço de duas semanas o Partido Socialista faz uma reviravolta inconcebível, mas que já não nos espanta."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 12,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 12,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ora, passados apenas alguns dias sobre esta afirmação do Partido Socialista, os senhores fazem este agendamento potestativo e, partindo do princípio de que os senhores são uma só bancada (embora muitas vezes não pareça!»), ç extraordinário como ç que fazem esta reviravolta, ainda por cima para pior, contrariando uma decisão que era óbvia e sensata! Mais, os senhores fazem-no com três características terríveis: não ouviram ninguém, não deram tempo para que houvesse esse tal debate amplo e aprofundado, nomeadamente com a sociedade civil, e o projecto que apresentam não está bem feito! \nA Sr.ª Deputada diz que esta matéria carece de regulamentação, de acordo com o Conselho Nacional de Ética para as Ciências da Vida desde 1992. Mas, Sr.ª Deputada, não se trata de regulamentar e legislar a qualquer custo. É preciso que essa legislação seja feita com qualidade."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 12,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como é que os senhores apresentam um projecto sobre uma matéria desta importância e desta sensibilidade a um mês e meio do fim da Legislatura sem terem ouvido o Conselho Nacional de Ética para as Ciências da Vida, a Ordem dos Médicos, a Ordem dos Enfermeiros, a Comissão Nacional de Protecção de Dados, sem sequer terem feito uma nota técnica no âmbito da 1.ª Comissão, sem terem ouvido demais entidades e personalidades de reconhecido mérito que têm uma palavra a dar sobre esta matéria?! Como é que os senhores não aprenderam sequer com a «novela» que foi a legislação sobre divórcio, cujo autor, o estimável Dr. Guilherme d’Oliveira Martins, passados uns tempos, veio dizer que a legislação foi feita tão à pressa que está pejada de erros e de omissões?! Ele o próprio autor do projecto de lei sobre o divórcio?!"
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 12,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 12,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como é que os senhores apresentam este projecto de lei, ainda por cima, sem terem feito quaisquer audições? E mais: como é que apresentam este projecto repleto de lacunas, de omissões e de falhas — umas parecenos que voluntárias, outras certamente não o serão... Isto foi um projecto feito de um dia para o outro! Ora, o CDS está disponível para fazer um debate sério sobre esta matéria, nomeadamente sobre as declarações antecipadas de vontade que evitem as situações de obstinação terapêutica, de terapêuticas fúteis e de tratamentos desproporcionados. Estamos obviamente disponíveis para que seja respeitada a autodeterminação e o consentimento informado do doente, mas não estamos disponíveis para uma farsa, Sr.ª Deputada, ainda para mais uma farsa que, contendo estas omissões, abre portas para a eutanásia, que queremos claramente afastar deste debate!"
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra a Sr.ª Deputada Maria de Belém Roseira."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 12,
+      "speaker": {
+        "id": 1343,
+        "name": "Maria De Belém Roseira Martins Coelho Henriques De Pina",
+        "party": "PS",
+        "string": "A Sr.ª Maria de Belém Roseira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Teresa Caeiro, vou começar pela parte final da sua intervenção, considerando não me sentir ofendida por falar em farsas, porque, como sabe, não sou farsante e penso que a Sr.ª Deputada não queria dizer que eu o era.\nQuero sublinhar a sua disponibilidade para discutir esta matéria e, relativamente a tudo o que disse na primeira parte da sua intervenção, quero dizer que esta matéria não é tão nova quanto aqui se pretende fazer parecer."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 13,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas está mal legislada!"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 13,
+      "speaker": {
+        "id": 1343,
+        "name": "Maria De Belém Roseira Martins Coelho Henriques De Pina",
+        "party": "PS",
+        "string": "A Sr.ª Maria de Belém Roseira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Deputada, desculpe, mas o estar bem ou mal é uma questão de avaliação. \nA Sr.ª Deputada é jurista, tal como eu — aliás, porventura de escolas diferentes e em épocas diferentes, porque sou uma «antiguidade», como já tive oportunidade de referir á Sr.ª Deputada»— e quero referir-lhe que já temos legislação sobre esta matéria no Código Civil, no Código Penal, ratificámos, em 2001, a Convenção de Oviedo, a Convenção dos Direitos Humanos relativa às aplicações da biologia e da medicina aos seres humanos, que abrem portas quase compelindo-nos a legislar sobre esta matéria já a partir de 2001.\nPor outro lado, tem havido, como a Sr.ª Deputada sabe, muitos fora, onde provavelmente a Sr.ª Deputada não esteve presente, mas nos quais participei activamente, onde esta matéria é discutida abundantemente há anos.\nDevo dizer à Sr.ª Deputada, por exemplo, que integrei a Comissão de Ética do Instituto Português de Oncologia, em 1992, instituição na qual se praticava o consentimento informado a partir dessa data.\nPortanto, dizer-se que esta matçria ç desconhecida, que não foi debatida, que não ç praticada» Recordei na minha intervenção que as primeiras entidades a fazerem apelo à necessidade do consentimento informado foram o Código de Nuremberga de 1947 e a Declaração de Helsínquia de 1964. Sr.ª Deputada, por amor de Deus!...\nEm 1947, eu ainda não tinha nascido; em 1964, já estava quase a entrar na universidade; em 2009, com certeza que a Sr.ª Deputada compreende que, com a vida activíssima que tive, já tive oportunidade de apreciar o quanto esta matéria é debatida na sociedade portuguesa e as inúmeras vezes que o Conselho Nacional de Ética para as Ciências da Vida se pronunciou sobre a indispensabilidade de legislação sobre esta matéria.\nPortanto, Sr.ª Deputada, é uma questão de anos de vida e de experiência profissional, é uma questão de contactos, mas é também uma questão de estar aberta e de ouvir a sociedade civil.\nAliás, devo dizer-lhe que este projecto de lei, que foi entregue no dia 22 de Maio na Assembleia da República, já mereceu, por parte da Associação Portuguesa de Cuidados Paliativos e da Dr.ª Isabel Neto, da Ordem dos Médicos, da Associação Portuguesa de Bioética e do próprio Padre Feytor Pinto, referências que nos fazem recordar que, efectivamente, esta matéria tem sido objecto de profunda análise e debate nas organizações da sociedade portuguesa que têm por tradição e por imperativo ético, moral e, muitas vezes, profissional discutir estas matérias. E basta estar atento aos sinais da sociedade civil."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 13,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Devia era ter traduzido esse conhecimento no projecto de lei!"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Carlos Andrade Miranda."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 13,
+      "speaker": {
+        "id": 1191,
+        "name": "Carlos Manuel De Andrade Miranda",
+        "party": "PSD",
+        "string": "O Sr. Carlos Andrade Miranda (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: A comunicação que tenho a honra de hoje dirigir a esta Câmara versa sobre a dignidade.\nDesde logo, a dignidade da pessoa humana, aquela dignidade da pessoa humana que é proclamada logo no artigo 1.º da Constituição da República Portuguesa como o esteio maior, a trave mestra da República soberana de Portugal, ao dizer-se que «Portugal é uma República soberana, baseada na dignidade da pessoa humana e na vontade popular (»)«, proclamação esta próxima da grandeza lapidar da abertura da Constituição alemã, que refere: «A dignidade da pessoa humana é inviolável.» A pessoa como sujeito e não como objecto; como fim e não como meio de relações jurídico-sociais.\nImmanuel Kant, na Fundamentação Metafísica dos Costumes, explicitava: «No reino dos fins, tudo tem um preço ou uma dignidade. Quando uma coisa tem um preço, pode pôr-se, em vez dela, qualquer outra coisa como equivalente; mas quando uma coisa está acima de todo o preço, e portanto não permite equivalente, então ela tem dignidade»."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 13,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 14,
+      "speaker": {
+        "id": 1191,
+        "name": "Carlos Manuel De Andrade Miranda",
+        "party": "PSD",
+        "string": "O Sr. Carlos Andrade Miranda (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A pessoa tem dignidade própria, absoluta, individual, específica e, tal como o genoma humano, irrepetível. O homem é digno porque é pessoa.\nÉ essa dignidade, enquanto valor próprio, que está na base do princípio antrópico, em que a pessoa é o epicentro dos direitos fundamentais (o direito à vida, o direito ao desenvolvimento da personalidade, o direito à integridade física e psíquica, o direito à identidade pessoal, o direito à identidade genética, etc.)."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 14,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 14,
+      "speaker": {
+        "id": 1191,
+        "name": "Carlos Manuel De Andrade Miranda",
+        "party": "PSD",
+        "string": "O Sr. Carlos Andrade Miranda (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O respeito pela pessoa implica necessariamente a defesa da sua liberdade, da sua autonomia, da sua autodeterminação.\nO ordenamento jurídico português confere uma ampla tutela ao direito à autodeterminação da pessoa humana. Em consequência, o consentimento livre e esclarecido já se encontra consagrado entre nós, não só enquanto dimensão do direito à integridade pessoal, mas como corolário da autodeterminação da pessoa.\nSó um cidadão informado, devidamente esclarecido, pode beneficiar plenamente da liberdade de se autodeterminar.\nSr.as e Srs. Deputados: O debate que o Partido Socialista nos impôs, potestativamente, hoje, versa sobre consentimento informado, sem que, contudo, a Assembleia da República possua informação suficiente para emitir o seu «consentimento» sobre esta matéria."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 14,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 14,
+      "speaker": {
+        "id": 1191,
+        "name": "Carlos Manuel De Andrade Miranda",
+        "party": "PSD",
+        "string": "O Sr. Carlos Andrade Miranda (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Este projecto entrou «de mansinho» na Mesa da Assembleia, na passada sexta-feira, tendo o PS tomado as devidas precauções para que não fosse convenientemente divulgado."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 14,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 14,
+      "speaker": {
+        "id": 1191,
+        "name": "Carlos Manuel De Andrade Miranda",
+        "party": "PSD",
+        "string": "O Sr. Carlos Andrade Miranda (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Veja-se o pouquíssimo realce que os media lhe dedicaram."
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 14,
+      "speaker": {
+        "id": 1316,
+        "name": "Luís Álvaro Barbosa De Campos Ferreira",
+        "party": "PSD",
+        "string": "O Sr. Luís Campos Ferreira (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso é que é verdade!"
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 14,
+      "speaker": {
+        "id": 1191,
+        "name": "Carlos Manuel De Andrade Miranda",
+        "party": "PSD",
+        "string": "O Sr. Carlos Andrade Miranda (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Só ontem foi anunciado pela Mesa e, em menos de uma semana, o Partido Socialista coage esta Câmara a tomar decisões,»\n» contra todas as disposições cautelares previstas no Regimento desta Assembleia.\nEste simulacro de debate está, assim, viciado à partida."
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 14,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 14,
+      "speaker": {
+        "id": 1191,
+        "name": "Carlos Manuel De Andrade Miranda",
+        "party": "PSD",
+        "string": "O Sr. Carlos Andrade Miranda (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "As Sr.as e os Srs. Deputados não dispõem da informação necessária e suficiente para ponderarem, em consciência, as consequências gravíssimas que poderiam advir da aprovação deste projecto.\nÉ absolutamente inédito, nunca visto na Assembleia da República, um debate sobre um tema com esta carga ética elevadíssima vir a Plenário e ser submetido a votação sem sobre ele se pronunciar sequer o Conselho Nacional de Ética para as Ciências da Vida (CNECV). Sem informação, Srs. Deputados, a Assembleia da República não tem condições para emitir o seu consentimento informado. Portanto, este projecto, Sr.as e Srs. Deputados, é um acto indigno."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 15,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 15,
+      "speaker": {
+        "id": 1191,
+        "name": "Carlos Manuel De Andrade Miranda",
+        "party": "PSD",
+        "string": "O Sr. Carlos Andrade Miranda (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Veja-se, por exemplo, que a dispensa do consentimento, em casos de máxima urgência, tem exactamente como limite que não se verifiquem circunstâncias que permitam concluir com segurança que o consentimento seria recusado.\nQuando o médico tenha conhecimento da vontade presumível do paciente e esta seja no sentido de não consentir no tratamento ou na intervenção, não pode levar a cabo estes tratamentos, sob pena de serem punidos como arbitrários.\nSr.as e Srs. Deputados, a conflitualidade que opõe o bem jurídico legalmente protegido (a liberdade de dispor do corpo e da própria vida) a outros bens jurídicos, como a dignidade da vida e da saúde, resolve-se, nestes casos, com o sacrifício da vida e da saúde."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 16,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 16,
+      "speaker": {
+        "id": 1191,
+        "name": "Carlos Manuel De Andrade Miranda",
+        "party": "PSD",
+        "string": "O Sr. Carlos Andrade Miranda (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O consentimento necessário dos pais não é a emanação do direito de autodeterminação do próprio paciente mas do direito/dever de assistência desses mesmos pais.\nSr. Presidente, Sr.as e Srs. Deputados: Estamos, agora, em condições de concluir que o projecto do Partido Socialista representa claramente uma «camuflagem». Sob a capa e a epígrafe do consentimento informado, aqui tratado de forma, umas vezes, redundante e, outras vezes, redutora, esconde-se efectivamente o verdadeiro propósito do Partido Socialista de introduzir, camufladamente, o debate em torno do testamento vital, como forma de institucionalização da eutanásia, pelo menos sob a forma de eutanásia passiva ou por omissão.\nPara essa «camuflagem» muito contribui a própria epígrafe do projecto de lei, direitos dos doentes à informação e ao consentimento informado, sem qualquer referência ao tema que o PS verdadeiramente pretende tratar neste debate, que é o tema do testamento vital.\nEste projecto de lei visa claramente instituir o homicídio a pedido da vítima por omissão do médico a quem é ordenado que interrompa um tratamento ou desligue a máquina de reanimação artificial, fazendo letra morta do artigo 134.º do Código Penal.\nSr.as e Srs. Deputados: Estão preparados para, daqui a pouco mais de uma hora, tomarem uma decisão sobre estas questões?"
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 16,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 16,
+      "speaker": {
+        "id": 1191,
+        "name": "Carlos Manuel De Andrade Miranda",
+        "party": "PSD",
+        "string": "O Sr. Carlos Andrade Miranda (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Receberam VV. Ex.as mandato do povo que vos elegeu para legalizar a eutanásia em Portugal? Sr. Presidente, Sr.as e Srs. Deputados: O modo como o projecto de lei trata a questão da representação é mais uma vez sintomático da ligeireza, da venalidade com que o PS trata a vida humana,»\n» como coisa descartável, pura e simplesmente em uso ou abuso de uma procuração.\nSr.as e Srs. Deputados: O PSD não está disponível para dar cobertura política a este desaforo democrático e tudo fará para que este projecto de lei nunca veja a luz do dia, sem prejuízo de, na próxima legislatura, o PSD poder debater serenamente a melhor forma de regulamentar o artigo 9.º da Convenção da Oviedo."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Teresa Caeiro."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 17,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Carlos Miranda, ouvi com muita atenção a sua intervenção e devo dizer que concordo com a esmagadora maioria dos argumentos que invocou.\nDe facto, para além da falta de oportunidade e falta de debate prévio de que já falámos, encontramos neste projecto de lei uma série de falhas e lacunas muito graves.\nDestaco apenas algumas.\nNo que se refere aos artigos sobre o direito à informação ou à representação de crianças e jovens, bem como de adultos com capacidade diminuída, verificamos que esta matéria é tratada com negligência absoluta, não garantindo que as decisões sejam tomadas de forma sustentada, nomeadamente por um consenso de médicos, por mais do que um médico.\nAlém disso, as questões dos meios de prova sobre a informação que foi prestada e que o consentimento foi efectivamente dado pelo doente são tratadas com enorme superficialidade, nem sempre sendo exigida a forma escrita, como deveria ser.\nMas, Sr. Deputado, gostaria de focar um aspecto que me parece crucial neste debate e que diz respeito às declarações antecipadas de vontade.\nEm primeiro lugar, verificamos que não é estabelecido um prazo de validade para a declaração. A declaração, que obviamente pretende antecipar uma vontade que poderá ser tomada numa ocorrência grave, tem de ser actual. Ora, aqui nada se diz. Diz-se apenas que ela pode ser revogada (não se diz como) a qualquer momento.\nVamos imaginar, Sr. Deputado, que é feita uma directiva antecipada. A minha pergunta é se passados 10, 20 ou 30 anos ela ainda está válida. Isto é de uma enorme inconsciência! Mais: como é o médico sabe que um determinado doente fez uma declaração antecipada? Faço esta pergunta porque não se prevê aqui, sequer, que haja um registo nacional de declarações antecipadas de vontade. E quais as consequências no caso de o médico desrespeitar esta directiva? Diz o diploma que ela é revogável a qualquer momento e de qualquer forma, ou seja, por escrito ou verbalmente. Por isso, pergunto: se a revogação de uma declaração for verbal, como é que o médico sabe que essa declaração foi revogada? Isto porque não só não há o registo da declaração como também não há o registo da revogação verbal da mesma.\nE aqui chegamos a um aspecto crucial, onde entendemos que está aberto o caminho para a eutanásia, e passo a explicar porquê.\nÉ que não são definidas as regras, os limites, o alcance das declarações antecipadas. Ou seja, se qualquer um de nós quisesse fazer uma declaração antecipada de vontade, não saberia qual o seu alcance. No entanto, está previsto o direito à objecção de consciência, uma vez que, como diz o diploma, o disposto na presente secção não prejudica o direito à objecção de consciência. Só que, ao abrir esta possibilidade, o que se está a dizer é que é possível haver declarações de vontade que belisquem a consciência do médico. Ora, não se estando aqui a lidar com o Código Deontológico, o que é que estamos a dizer? Que os únicos actos susceptíveis de beliscar a consciência do médico são ou a eutanásia ou o encarniçamento terapêutico ou o suicídio assistido."
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada, faça favor de concluir."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 17,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Concluo, Sr. Presidente.\nOra, como a abstenção terapêutica, nos casos de incurabilidade cientificamente comprovada e demonstrada e perante a irreversibilidade rapidamente progressiva para a morte, não é susceptível de beliscar a consciência de um médico, antes fazem parte do seu Código Deontológico e Ético (é exactamente não fazer terapias fúteis), o que estamos a dizer é que pode dar-se o caso de haver declarações que, embora legais ou legalmente admissíveis, vão beliscar a consciência ética do médico, como são os casos de eutanásia ou suicídio assistido."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Carlos Andrade Miranda."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 18,
+      "speaker": {
+        "id": 1191,
+        "name": "Carlos Manuel De Andrade Miranda",
+        "party": "PSD",
+        "string": "O Sr. Carlos Andrade Miranda (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Deputada Teresa Caeiro, muito obrigado pelas questões que colocou, que são profundas, complexas e vêm dar razão à nossa posição (sua e minha) sobre a inoportunidade e sobre a extemporaneidade deste debate, aqui, nesta Assembleia.\nEfectivamente, eu próprio senti dificuldade em conseguir interpretar, em toda a sua extensão, o projecto de lei que o Partido Socialista nos traz.\nNestas coisas não basta, Sr.ª Deputada, o circuito da ciência, o circuito dos técnicos, o circuito dos especialistas de direito, não basta percorrer esse circuito fechado para que se possa falar num debate amadurecido da sociedade em torno destas questões. Não basta!"
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 18,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 18,
+      "speaker": {
+        "id": 1191,
+        "name": "Carlos Manuel De Andrade Miranda",
+        "party": "PSD",
+        "string": "O Sr. Carlos Andrade Miranda (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É preciso que seja dada voz à sociedade como um todo, à opinião pública em geral, a um debate de contraditório franco, aberto, para se poder aquilatar da bondade ou da maleficência deste diploma.\nSr.ª Deputada Teresa Caeiro, de facto, há (e V. Ex.ª notou muito bem) um defeito de base nesta proposta que eu gostaria de salientar.\nQuer no domínio do consentimento informado, quer no domínio ou na subespécie das declarações antecipadas de vontade, o que o PS nos traz aqui não contribui absolutamente nada para melhorar o sistema dogmático existente em Portugal neste momento. O regime jurídico do consentimento está perfeitamente definido em Portugal e inclui, naturalmente, a subespécie das declarações antecipadas de vontade. Portanto, isto existe na nossa lei e está perfeitamente claro na nossa lei.\nAquilo que é preciso fazer é regulamentar e densificar e não, como o PS nos propõe, fazer a substituição do regime dogmático existente por um regime mais redundante e mais redutor, como este que nos propõe.\nRepare, Sr.ª Deputada, que neste projecto de lei se repete integralmente o teor do artigo 156.º do Código Penal. Mas há algum projecto de lei desta natureza que tenha «pés e cabeça» e que venha repetir ipsis verbis, em três pontos, exactamente os mesmos números do Código Penal?!"
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 18,
+      "speaker": {
+        "id": 1171,
+        "name": "António Edmundo Barbosa Montalvão Machado",
+        "party": "PSD",
+        "string": "O Sr. António Montalvão Machado (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É sério!"
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 18,
+      "speaker": {
+        "id": 1191,
+        "name": "Carlos Manuel De Andrade Miranda",
+        "party": "PSD",
+        "string": "O Sr. Carlos Andrade Miranda (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A liberdade concedida, ou melhor, não diria liberdade, diria discricionariedade, artificialidade ou mesmo venalidade com que é redigido o artigo 14.º deste projecto de lei abre, como V. Ex.ª disse, e muito bem, a porta a todos os tipos de eutanásia passiva que são conhecidos na prática clínica desde há muitos anos e que são repudiados pela legislação portuguesa.\nEste artigo 14.º permite tudo. Como referi na minha intervenção, permite, nomeadamente, que a vítima (e por isso se fala em homicídio a pedido da vítima) solicite o auxílio do médico para que lhe desligue as máquinas que o alimentam ou que lhe controlam os sistemas vitais.\nEste diploma, Srs. Deputados (e, em particular, uma palavra especial à Sr.ª Deputada Maria de Belém Roseira), é um «cheque em branco» em relação a situações que queremos claramente afastar. Portanto, merecerá com certeza, da parte desta Câmara, um repúdio completo."
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Semedo."
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 18,
+      "speaker": {
+        "id": 2219,
+        "name": "João Pedro Furtado Da Cunha Semedo",
+        "party": "BE",
+        "string": "O Sr. João Semedo (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Com todo o respeito pelos autores deste projecto de lei, gostaria de confessar que, quando acabei de o ler, fiquei com a sensação de que me tinha enganado e que tinha acabado de ler o anteprojecto e não o projecto.\nDigo isto, mais uma vez, repito, com todo o respeito pelos autores do mesmo, porque este projecto de lei é muito primitivo, muito superficial, alimenta demasiados equívocos e contradições e é, do meu ponto de vista, redutor e facilitista, o que é muito contrastante com a complexidade dos problemas que ele pretende tratar."
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Heloísa Apolónia."
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 20,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Eu também tenho de começar esta intervenção com uma confissão, a de que estou um pouco baralhada, porque vim para este debate perfeitamente convicta de que estávamos perante uma matéria relativamente consensual. Devo confessar isso.\nNa verdade, tenho estado a ouvir atentamente as intervenções dos diferentes grupos parlamentares e há uma matéria que o Partido Socialista vai ter que esclarecer neste debate: a de saber se estamos aqui perante um projecto de lei para terminar este processo legislativo nesta Legislatura ou se apenas apresentou a iniciativa legislativa para lançar um debate no Parlamento sobre a matéria.\nConsidero que esta questão tem de ser definida, tem de ficar clara neste debate. É preciso perceber se o Partido Socialista, ao apresentar o projecto de lei, tem a intenção de que haja um trabalho intenso, de auscultação, na especialidade, para terminar na presente Legislatura ou se nada disso vai acontecer e estamos hoje, aqui, numa tarde simpática, a discutir a matéria, mas não vamos passar daqui. Entendo que o Partido Socialista deve dar este esclarecimento à Câmara.\nMas por que é que eu pensava que esta questão era consensual? Quando olhamos para a Lei de Bases da Saõde, na sua Base XIV, lemos expressamente que «Os utentes têm direito a (») b) Decidir, receber ou recusar a prestação de cuidados que lhes ç proposta (»)«. Então, nós pensamos: se, numa determinado altura, alguém fica incapaz de decidir ou de expressar a sua vontade em relação a essa decisão que lhe cabe, pode ou não manifestá-lo antecipadamente? Acho que ninguém recusará dizer que sim, que pode e deve declarar antecipadamente. E, então, estamos perante a declaração antecipada de vontade.\nOlhamos para o Código Civil, olhamos para o Código Penal, olhamos para o princípio da autodeterminação, previsto na Convenção sobre os Direitos do Homem e a Biomedicina, e nada disto é novo para nós!» Agora, teremos ou não um trabalho a fazer no sentido de tornar este princípio indicativo em vinculativo, para tornar a vontade do utente vinculativa? Sim, temos esse trabalho a fazer! Sr. Presidente, Sr.as e Srs. Deputados: Também não vale a pena virmos aqui dar argumentos perfeitamente demagógicos como se estivéssemos a discutir uma coisa que não está em discussão, que é a eutanásia! Porque, assim, as pessoas ficam a pensar que faltam argumentos para contestar, da vossa parte — neste caso, da direita — , o testamento vital. Não é, de facto, da eutanásia que se está aqui a tratar.\nO País merece ou não debater, até com alguma urgência, a questão da eutanásia? Sim! Nesta Legislatura, já percebemos que não houve grupo parlamentar que trouxesse a matéria à discussão. Provavelmente, na próxima legislatura, esse debate tem que se abrir! No Parlamento ou fora dele, provavelmente, tem que se abrir, com alguma urgência! Mas, de facto, não vale a pena estar a fazê-lo agora, porque não é isso que está em causa! Espero, evidentemente, receber resposta por parte do Partido Socialista em relação à seriedade ou ao que se visa com este processo legislativo.\nUma nota lateral ao projecto de lei. Os Verdes têm nota de que as queixas à Entidade Reguladora da Saúde aumentaram imenso no ano passado, as pessoas estão a queixar-se da forma como não têm acesso aos cuidados de saúde, as pessoas estão a queixar-se dos atrasos de atendimento no Serviço Nacional de"
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Bernardino Soares."
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 21,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: O problema que estamos a debater é muito sério e merece a atenção da Assembleia da República e a profundidade do debate.\nPenso que as discussões que já houve na sociedade, por diversos especialistas e por muitas entidades que, por razões religiosas, médicas, éticas ou de outro tipo, estão interessadas nesta matéria, aconselham a que haja uma ponderação destas questões do testamento vital e outras que estão em apreciação com este projecto de lei. A própria Comissão de Saúde já recebeu entidades que pediram a intervenção da Assembleia da República neste sentido.\nÉ evidente que há uma leitura política para, num momento como o que estamos a viver no País, o Partido Socialista agendar potestativamente este projecto de lei, mas isso não significa, para nós, desvalorização do assunto, nem vamos fazê-lo, nem significa dizermos que o assunto não merece um debate aprofundado.\nÉ evidente também que seria desejável que, antes deste agendamento, pudéssemos ter tido um maior contributo de diversas entidades que reflectem sobre esta matéria. Ele não foi inexistente, mas teremos de ir mais além, embora seja justo dizer também que o trabalho de especialidade é, porventura, um momento importante para que todos esses contributos também sejam incorporados e que não vem grande mal ao mundo o facto de — ainda por cima, sendo um legítimo direito de agendamento potestativo — o projecto de lei ter sido agendado para hoje.\nGostaria de salientar que é curioso ver que, neste debate, o projecto de lei é uma coisa para uns e é outra coisa para outros. Para uns, é um projecto de lei que, felizmente, deixa de fora a questão da eutanásia; para outros, é um projecto de lei no sentido de um primeiro passo num caminho que, desejavelmente, há-de levar à questão da eutanásia. É esta a zona cinzenta onde este projecto de lei se procura inserir e penso que não é por acaso! O Partido Socialista quis certamente, com esta iniciativa legislativa, não desmentir completamente aquilo que debateu no seu Congresso em relação ao debate sobre a eutanásia mas, sobretudo, sossegar certos sectores da sociedade portuguesa, que já estariam preocupados com o avanço mais rápido dessa matéria. É este o objectivo táctico do Partido Socialista e, aqui para nós que ninguém nos ouve, provavelmente nem está desligado do período eleitoral em que vivemos, embora à primeira vista este debate nada tivesse de eleitoral!» Dito isto, penso que este projecto de lei necessita, obviamente, de uma grande discussão e debate na especialidade. Há questões que até me parecem contraditórias no seu próprio articulado, mas não queria dedicar demasiado tempo a avaliá-las neste momento de debate na generalidade.\nPorém, a questão de fundo merece o nosso acolhimento e penso que a Assembleia da República deve legislar nesse sentido, não de uma forma redundante ou repetindo normas mas, se possível, criando um regime coerente que permita que todos saibam, com a complexidade que estas matérias têm, o que vai acontecer em cada momento, que normas existem e que normas é que se aplicam em cada situação.\nO que este debate não pode esconder é que continuamos a ter uma extrema carência em matéria de cuidados paliativos. Sem desvalorizar, nem um milímetro, a importância do consentimento informado, do testamento vital e o debate de outras matérias que também são importantes, é essencial que isso não se faça à custa do esquecimento da carência que o nosso País continua a ter em matéria de cuidados paliativos, como também em matéria — como vai tendo cada vez mais — de acesso a tratamentos de ponta, mais avançados,"
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Ainda para uma intervenção, tem a palavra o Sr. Deputado Diogo Feio."
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 22,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: A posição do CDS em relação a esta matéria já foi sendo explicada pela Sr.ª Deputada Teresa Caeiro nas duas questões que aqui colocou.\nNo entanto, quero salientar, de forma sistemática, três princípios básicos da nossa posição.\nEm primeiro lugar, o CDS é totalmente contra a eutanásia ou qualquer caminho que a ela possa levar.\nEm segundo lugar, o CDS defende e considera que se devem intensificar os cuidados paliativos."
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 22,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 22,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em terceiro lugar, entendemos que a discussão sobre a matéria do testamento vital deve ser séria e rigorosa e deve atender à enorme sensibilidade do tema, não é uma discussão que se possa fazer a correr, não se deve mesmo fazer a correr."
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 22,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 22,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Deve ser uma discussão com rigor técnico, com cuidado jurídico, volto a salientar, com cuidado jurídico, e com sensibilidade no plano humano.\nTudo isto nos parece impossível ou muito difícil com uma iniciativa que é entregue numa sexta-feira e discutida na quarta-feira seguinte,»"
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 22,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 22,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» quando estamos em plena campanha eleitoral. Aliás, os argumentos que aqui ouvimos, de que já foram feitos muitos debates, de que há muitas comissões sobre a matéria, de que há fóruns, enfim, a certa altura, quase parecia que há uma geração a partir da qual já se pode legislar sobre esta matçria,»"
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 22,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 22,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» não nos parecem bons conselheiros. Pense-se noutras situações! Também já se debateu imenso toda a legislação penal em Portugal e vejamos ao que levou uma lei que foi feita de um momento para o outro, as confusões,»"
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 22,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "As trapalhadas!"
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 22,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» as trapalhadas que começaram a existir.\nAs correrias legislativas nunca levam a bom resultado."
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 23,
+      "speaker": {
+        "id": 2115,
+        "name": "Nuno Miguel Miranda De Magalhães",
+        "party": "CDS-PP",
+        "string": "O Sr. Nuno Magalhães (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 23,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso mesmo, o CDS está a trabalhar num projecto próprio sobre esta matéria, que pretende que seja amplamente discutido na sociedade como aquela que é a nossa ideia.\nJá fizemos aqui um conjunto de críticas sobre este projecto específico, as quais foram explicadas pela Sr.ª Deputada Teresa Caeiro."
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queira concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 23,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou concluir, Sr. Presidente.\nSe o projecto for aprovado, apresentaremos propostas para a sua alteração, mas queremos dizer o seguinte: matérias como esta, independentemente de todos os fóruns, de todos os debates, dificilmente se resolvem em legislação feita a correr. Não se resolvem mesmo! Aquilo que importa saber e que ainda hoje não foi respondido é se o Partido Socialista está ou não disponível para que se acabe, nesta matéria, com uma votação que obtenha o maior consenso possível. Esta é uma questão importante, que exige uma resposta por parte do partido maioritário."
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para uma intervenção, tem a palavra o Sr. Deputado José Paulo Carvalho."
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 23,
+      "speaker": {
+        "id": 2488,
+        "name": "José Paulo Ferreira Areia De Carvalho",
+        "party": "CDS-PP",
+        "string": "O Sr. José Paulo Carvalho (N insc.)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Começo por reconhecer que a intenção da Sr.ª Deputada Maria de Belém, ao apresentar este projecto de lei, era, seguramente, a melhor. Mas, Sr.ª Deputada, não me leve a mal que lhe diga que esta iniciativa, do ponto de vista técnico, porque, repito, não ponho em causa as suas intenções, está muito mal feita, não tem mais do que a dignidade de um rascunho, e nós estamos a legislar sobre matéria muito relevante. E, para não citar anteriores intervenções da minha área política, cito aquilo que disse o Sr. Deputado Bernardino Soares sobre a diferente abordagem da matéria da eutanásia e este mesmo projecto de lei.\nA verdade é esta: legislar mal é de evitar, legislar mal sobre matérias relevantes é absolutamente inaceitável.\nPergunto: como é que se faz o controlo da existência da declaração de vontade? Aqui, não se exige rigorosamente nada! Pode ser através do procurador mas este só existe se a pessoa quiser — é uma possibilidade — , pelo que pode não existir.\nExige-se apenas forma escrita, mas qual é a dignidade desta declaração? Como é que se controla que ela existe, se o doente for internado em circunstâncias em que já não esteja capaz, ele próprio, de dizer que fez essa declaração de vontade? Como é que se controla a revogação de anteriores declarações de vontade? Depois, há conceitos que, juridicamente, não existem, como o conceito de adulto e de criança. Há adultos que se comportam como crianças e crianças que são autênticos adultos. Agora, o que sabemos é que, juridicamente, há maiores e menores. Este projecto não faz essa distinção, fala de crianças, de jovens e de adultos mas não distingue se está a falar de maiores ou de menores.\nPor outro lado, cria um direito para os menores — falam em jovens mas penso que se referem a menores — , que ç o direito de veto, mas, ao mesmo tempo,»"
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queira concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 23,
+      "speaker": {
+        "id": 2488,
+        "name": "José Paulo Ferreira Areia De Carvalho",
+        "party": "CDS-PP",
+        "string": "O Sr. José Paulo Carvalho (N insc.)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vou concluir, Sr. Presidente.\nComo estava a dizer, esta iniciativa cria o direito de veto para os menores mas, ao mesmo tempo, estabelece que a decisão é tomada pelos representantes legais. E, relativamente a este direito de veto, não se explica como é exercido, em que condições, como é que se materializa.\nPor isso, sinceramente, tendo em conta todo o processo precipitado e a má redacção, só posso votar contra este projecto de lei."
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Ainda para uma intervenção, tem a palavra a Sr.ª Deputada Maria de Belém Roseira."
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 24,
+      "speaker": {
+        "id": 1343,
+        "name": "Maria De Belém Roseira Martins Coelho Henriques De Pina",
+        "party": "PS",
+        "string": "A Sr.ª Maria de Belém Roseira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, na sequência do debate e das várias intervenções que foram feitas, gostaria de dizer algumas coisas.\nEm primeiro lugar, a Assembleia da República está na plenitude dos seus poderes e deveres. Agora, há algo muito interessante, que resultou da discussão desta tarde e relativamente ao qual, porventura, quem esteja a assistir a este debate ficará com uma enorme perplexidade. É que este projecto foi acusado, pelo PSD e pelo CDS-PP, de ser, encapotadamente, um projecto que promete e pretende promover a eutanásia e foi acusado, pelo Bloco de Esquerda, de ser um projecto que falha, precisamente porque não assume a eutanásia.\nOra, Sr.as e Srs. Deputados, gostava de referir aqui, de uma forma muito clara e sem nenhum subterfúgio, que a distorção tem limites e, hoje, foram feitas muitas distorções relativamente àquilo que está inscrito neste projecto. Por escassez de tempo, vou referir-me apenas a duas distorções.\nPrimeira distorção: a de que a representação dos menores ou a sua manifestação de vontade seriam completamente ultrapassadoras da identificação do melhor interesse para o menor. É falso! Rigorosamente falso! Lamento muito que os colegas que intervieram não tenham a noção da remissão que é feita para a decisão do pai, quando estiver em causa, por decisão do menor, algo que possa pôr em perigo a sua vida ou a sua saúde e lamento muito que não tenham presentes os poderes-deveres paternais e não saibam que o direito maternal e paternal é um direito potestativo, o que significa que é um poder-dever e implica que não possa ser exercido pelo seu titular como queira mas pelo modo exigido pela função do direito (Manuel de Andrade, Teoria Geral da Relação Jurídica).\nAliás, Srs. Deputados, devo dizer-vos que, nestas circunstâncias, e quando não é defendida a vida do menor, é sempre o Ministério Público que decide e o Ministério Público e o tribunal têm sempre decidido no sentido da vida.\nPortanto, esta distorção é completamente falsa, gravíssima e absolutamente inaceitável.\nSegunda distorção: a de que os direitos dos médicos não são respeitados. Os Srs. Deputados omitiram completamente a existência do privilégio terapêutico, omitiram completamente o direito de objecção de consciência e omitiram completamente o facto de o médico se poder recusar a seguir a vontade do doente, se ela for contrária à lei, à ordem pública e às boas práticas.\nPortanto, Srs. Deputados, há limites para a distorção, há limites para a falta de cultura e há limites para a falta de estudo. Até porque, Srs. Deputados, se estudassem, se lessem os pareceres do Conselho Nacional de Ética para as Ciências da Vida»"
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 24,
+      "speaker": {
+        "id": 1152,
+        "name": "Alberto De Sousa Martins",
+        "party": "PS",
+        "string": "O Sr. Alberto Martins (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso dá trabalho!"
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 24,
+      "speaker": {
+        "id": 1343,
+        "name": "Maria De Belém Roseira Martins Coelho Henriques De Pina",
+        "party": "PS",
+        "string": "A Sr.ª Maria de Belém Roseira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso dá muito trabalho, mas eu estou habituada a trabalhar muito, como é demonstrável e objectivável!\nEstou a falar de mim própria — penso que é um dado objectivo — e peço aos Srs. Deputados que me reconheçam o direito de falar de mim própria. Eu estudo, eu leio, eu trabalho, eu ouço e eu vejo!"
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 24,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é a única!"
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 25,
+      "speaker": {
+        "id": 1343,
+        "name": "Maria De Belém Roseira Martins Coelho Henriques De Pina",
+        "party": "PS",
+        "string": "A Sr.ª Maria de Belém Roseira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.as e Srs. Deputados: Devo dizer-vos que o Partido Socialista, com este projecto, não está, como é evidente, a discutir a eutanásia, considera, aliás, que não tem mandato para isso, e assumirá, relativamente a este diploma, as suas responsabilidades.\nAquilo que, para mim, seria expectável ouvir, Srs. Deputados, com tanta competência jurídica, com tanto ataque ao diploma pelas soluções encontradas, com a má redacção, com as redundâncias, seria o vosso contributo. Por que não contribuem, com o vosso saber, a vossa ciência, a vossa cultura, a vossa capacidade,»"
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 25,
+      "speaker": {
+        "id": 1207,
+        "name": "Diogo Nuno De Gouveia Torres Feio",
+        "party": "CDS-PP",
+        "string": "O Sr. Diogo Feio (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Vamos fazer isso!"
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 25,
+      "speaker": {
+        "id": 1343,
+        "name": "Maria De Belém Roseira Martins Coelho Henriques De Pina",
+        "party": "PS",
+        "string": "A Sr.ª Maria de Belém Roseira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» para melhorar este projecto, em sede de especialidade?! Aliás, quando se apresenta um projecto para votação, na generalidade, é isso que se pretende, é suscitar contributos, como, de resto, disse, quando terminei a minha intervenção inicial."
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para uma intervenção, tem a palavra o Sr. Deputado Carlos Andrade Miranda."
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 25,
+      "speaker": {
+        "id": 1191,
+        "name": "Carlos Manuel De Andrade Miranda",
+        "party": "PSD",
+        "string": "O Sr. Carlos Andrade Miranda (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: \nA Sr.ª Deputada Maria de Belém Roseira sabe o conceito elevado que tenho de V. Ex.ª, sabe que lhe reconheço capacidades de trabalho quase ilimitadas mas, no entanto, tem de reconhecer que este projecto de lei não é nem pode ser, de forma nenhuma, o seu «cartão-de-visita», não pode passar à história política deste País como o seu «cartãode-visita». Pelo contrário!\nEste projecto fere várias facetas da personalidade política de V. Ex.ª e isto não pode ficar sem suprimento.\nPortanto, Sr.ª Deputada, permita-me apenas que suscite questões que vão ao seu encontro, ou seja, questões com as quais V. Ex.ª, seguramente, concordará.\nA primeira tem a ver com o facto de, em conjunto, reconhecermos que as declarações antecipadas de vontade são uma espécie do género mais lato, que é o consentimento informado. V. Ex.ª também reconheceu, na sua intervenção, que, em termos dogmáticos, no ordenamento jurídico português, o consentimento informado, em todas as suas vertentes, a do consentimento presumido e a da vontade hipotética, cobre já o âmbito das declarações antecipadas de vontade. Ou seja, elas já têm, hoje, valor jurídico, já têm repercussão na vida dos nossos concidadãos — V. Ex.ª concordará com isto! O que se impunha fazer era, portanto, uma regulamentação específica do consentimento informado e das declarações antecipadas de vontade e não, como V. Ex.ª apresentou, um novo paradigma dogmático do consentimento informado e das declarações antecipadas de vontade, em que V. Ex.ª substitui, nomeadamente em sede de consentimento informado, dezenas de diplomas legais que especificam esse mesmo consentimento informado. Daí que este projecto seja claramente redutor! Em relação às declarações antecipadas de vontade, era necessário especificar a sua regulamentação e não, como VV. Ex.as fizeram, deixar a porta aberta aos maiores disparates éticos que se podem cometer neste País.\nPortanto, aquilo que dirijo ao Grupo Parlamentar do Partido Socialista é um convite a que nos dêem oportunidade de fazer tudo de novo e bem feito. Retirem este diploma! Retirem este projecto! Não é possível trabalhar na especialidade neste projecto, Sr.ª Deputada!"
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Semedo."
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 26,
+      "speaker": {
+        "id": 2219,
+        "name": "João Pedro Furtado Da Cunha Semedo",
+        "party": "BE",
+        "string": "O Sr. João Semedo (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Sr.ª Deputada Maria de Belém Roseira, registei que, na sua intervenção, quando falou de distorções, não incluiu nenhum argumento crítico apresentado pelo Bloco de Esquerda. Espero — é essa a minha expectativa — que isso signifique que o Partido Socialista está disposto para, na especialidade, introduzir neste projecto de lei aquilo de que ele precisa, e de que eu falei, no sentido de poder vir a ser uma lei que, no futuro, dê um contributo sério para a resolução de graves problemas que temos na temática que estamos a discutir.\nDisse, justamente — é essa a nossa opinião — , que uma das graves lacunas deste projecto de lei do Partido Socialista é não incluir a possibilidade de os cidadãos, no momento em que a sua morte se aproxima, terem a morte que desejem, sem sofrimentos, libertos dessa carga desnecessária e inútil de que muitos cidadãos se querem libertar! É exactamente por essa razão, pela expectativa que temos de que o Partido Socialista está na disposição de melhorar o projecto de lei, que nos vamos abster nesta votação."
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Maria de Belém Roseira."
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 26,
+      "speaker": {
+        "id": 1343,
+        "name": "Maria De Belém Roseira Martins Coelho Henriques De Pina",
+        "party": "PS",
+        "string": "A Sr.ª Maria de Belém Roseira (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Volto a intervir até porque, por falta de tempo, há pouco não dei resposta a algumas questões colocadas pelos Srs. Deputados, nomeadamente a uma pergunta que foi feita pela Sr.ª Deputada Heloísa Apolónia.\n\nA Sr.ª Deputada perguntou se era intenção do Partido Socialista legislar sobre o âmbito deste diploma tal como está, nesta Legislatura. Devo responder-lhe afirmativamente.\nEste diploma tem vindo a suscitar interesse em determinados sectores da sociedade portuguesa — há pouco referi-o, mas repito-o porque parece que as pessoas não ouvem o que não querem ouvir: a Associação Portuguesa de Cuidados Paliativos, a Associação Portuguesa de Bioética, a Ordem dos Médicos, a Igreja Católica, que considera o testamento vital legítimo, o padre Feytor Pinto, que é o coordenar da Comissão Nacional da Pastoral da Saúde, entre outros.\nDevo dizer-lhe também que no meu correio electrónico pessoal tenho recebido inúmeras manifestações sobre a importância desta temática e o atraso que Portugal tem relativamente ao seu enquadramento legal numa perspectiva coerente e abrangente.\nTambém referi — e com isto respondo ao Sr. Deputado João Semedo — que o Partido Socialista considera não ter mandato para discutir a eutanásia. Mas, ao dizer isso, não deixo de referir que os cuidados paliativos e os cuidados continuados — os Srs. Deputados reconhecerão — tiveram um avanço muito significativo durante esta Legislatura, através da acção do actual Governo, com recurso às verbas do euromilhões.\nTrata-se de canalizar a solidariedade dos portugueses para servir uma área que, apesar das poucas unidades que existiam, a primeira das quais foi inaugurada pelo Dr. Paulo Mendo enquanto Ministro da Saúde, e a segunda por mim, toda a política relativa ao controlo da dor» Srs. Deputados, tenho tantos anos disto que conheço a sua história, conheço os autores, conheço as preocupações das pessoas, conheço os problemas com que se debatem. Considero, pois, absolutamente essencial que não percamos esta oportunidade de legislar sobre uma matéria que precisa de condensação coerente, de sistematização cuidada, e que, evidentemente, poderá beneficiar muito com todos os apports que os Srs. Deputados queiram dar.\nTem que se promovida uma discussão ampla e até descentralizada. Acho que deveria fazer-se um debate alargado em Lisboa, no Porto e, porventura, noutros locais do País no sentido de o maior número possível de pessoas debaterem esta matéria, não dispensando, como é evidente, todas as organizações profissionais que já contemplam nos seus códigos as questões da obstinação terapêutica e das boas práticas nestes domínios, as quais, evidentemente, têm a maior das competências para se pronunciarem sobre esta matéria e que constituirão contributos relevantíssimos para a Assembleia da República."
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as e Srs. Deputados, não havendo mais oradores inscritos, vamos entrar no período regimental de votações.\nAntes de mais, procederemos à verificação do quórum de deliberação, utilizando o cartão electrónico. Peço que liguem os vossos computadores e se preparem para a certificação de presenças.\nOs Srs. Deputados que, por qualquer razão, não conseguirem utilizar o cartão electrónico, terão de sinalizar à Mesa a vossa presença e, depois, fazer o respectivo registo presencial.\nPausa.\nO quadro electrónico regista 199 presenças (109 do PS, 59 do PSD, 11 do PCP, 8 do CDS-PP, 8 do BE, 2 de Os Verdes e 2 de Deputados não inscritos), às quais se acrescenta a de 1 Deputado do PS, perfazendo 200 Deputados presentes, pelo que temos quórum para proceder às votações.\nSrs. Deputados, vamos proceder à votação, na generalidade, do projecto de lei n.º 788/X (4.ª) — Direitos dos doentes à informação e ao consentimento informado (PS).\nSubmetido à votação, foi aprovado, com votos a favor do PS, do PCP, de Os Verdes e de 1 Deputada não inscrita, votos contra do PSD, do CDS-PP, de 1 Deputada do PS e de 1 Deputado não inscrito e abstenções do BE e de 1 Deputada do PS."
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 27,
+      "speaker": {
+        "id": 2508,
+        "name": "Maria Matilde Pessoa De Magalhães Figueiredo De Sousa Franco",
+        "party": "PS",
+        "string": "A Sr.ª Matilde Sousa Franco (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito, Sr.ª Deputada?"
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 27,
+      "speaker": {
+        "id": 2508,
+        "name": "Maria Matilde Pessoa De Magalhães Figueiredo De Sousa Franco",
+        "party": "PS",
+        "string": "A Sr.ª Matilde Sousa Franco (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, quero anunciar que vou apresentar na Mesa uma declaração de voto por escrito."
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Fica registado, Sr.ª Deputada.\nTema a palavra a Sr.ª Deputada Maria Antónia Almeida Santos."
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 27,
+      "speaker": {
+        "id": 1520,
+        "name": "Maria Antónia Moreno Areias De Almeida Santos",
+        "party": "PS",
+        "string": "A Sr.ª Maria Antónia Almeida Santos (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é também para anunciar que eu o Sr. Deputado Marcos Sá iremos apresentar uma declaração de voto conjunta sobre esta matéria."
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Com certeza, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 27,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "É para o mesmo efeito, Sr.ª Deputada?"
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 27,
+      "speaker": {
+        "id": 1409,
+        "name": "Teresa Margarida Figueiredo De Vasconcelos Caeiro",
+        "party": "CDS-PP",
+        "string": "A Sr.ª Teresa Caeiro (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sim, Sr. Presidente, é igualmente para informar que irei entregar na Mesa uma declaração de voto por escrito."
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Fica registado, Sr.ª Deputada."
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 27,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra com o mesmo intuito."
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 28,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, informo que eu próprio e um conjunto de Deputados do PSD apresentaremos também na Mesa uma declaração de voto por escrito."
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Fica igualmente registado, Sr. Deputado.\nSrs. Deputados, está concluída a nossa ordem do dia de hoje.\nA próxima reunião plenária realiza-se amanhã, pelas 10 horas, com a seguinte ordem de trabalhos: segunda volta da eleição para o cargo de Provedor de Justiça; apreciação da proposta de lei n.º 262/X (4.ª) — Aprova a lei sobre política criminal, que define os objectivos, prioridades e orientações de política criminal para o biénio de 2009/2011, em cumprimento da Lei n.º 17/2006, de 23 de Maio (Lei Quadro da Política Criminal), do projecto de lei n.º 672/X (4.ª) — Cria, junto da Presidência do Conselho de Ministros, a Comissão de Acompanhamento e Avaliação do Novo Regime Jurídico do Divórcio (CDS-PP), dos projectos de lei n.os 658/X (4.ª) — Impõe limites à cobrança de despesas de manutenção de contas bancárias (Os Verdes) e 785/X (4.ª) — Estabelece limites à cobrança de comissões por descoberto em conta (BE), da proposta de lei n.º 265/X (4.ª) — Regula a forma de intervenção dos juízes militares e dos assessores militares do Ministério Público junto dos tribunais administrativos, no âmbito de aplicação da Lei n.º 34/2007, de 13 de Agosto, dos projectos de lei n.os 663/X (4.ª) — Institui um regime especial de aposentação para educadores de infância e professores do 1.º ciclo do ensino básico do ensino público em regime de monodocência que concluíram o curso de magistério primário e educação de infância de 1975 e 1976 (PS, PSD, PCP, CDS-PP, BE, Os Verdes e Deputados N insc.) e 764/X (4.ª) — Regime especial de aposentação para os educadores de infância e professores do 1.º ciclo do ensino básico do ensino público, em regime de monodocência possuindo, em 31 de Dezembro de 1989, 13 ou mais anos de serviço docente (PCP), da proposta de resolução n.º 120/X (4.ª) — Aprova a Convenção entre a República Portuguesa e a República da Guiné-Bissau para evitar a dupla tributação em matéria de impostos sobre o rendimento e prevenir a evasão fiscal, assinada em Lisboa, em 17 de Outubro de 2008, da proposta de resolução n.º 122/X (4.ª) — Aprova o Protocolo estabelecido ao abrigo do artigo 34.º do Tratado da União Europeia que altera, no que se refere à criação de um ficheiro de identificação dos processos de inquérito aduaneiro, a Convenção sobre a Utilização da Informática no Domínio Aduaneiro, assinado em Bruxelas, em 8 de Maio de 2003, da proposta de resolução n.º 128/X (4.ª) — Aprova o Tratado entre a República Portuguesa e a República de Cabo Verde no Domínio da Fiscalização Conjunta de Espaços Marítimos sob Soberania ou Jurisdição da República de Cabo Verde, assinado na Cidade do Mindelo, em 16 de Setembro de 2006, da proposta de resolução n.º 129/X (4.ª) — Aprova o Acordo sobre Privilégios e Imunidades do Tribunal Internacional do Direito do Mar, adoptado em Nova Iorque, em 23 de Maio de 1997; e da proposta de resolução n.º 130/X (4.ª) — Aprova a Emenda à Convenção sobre acesso à informação, participação do público no processo de tomada de decisão e acesso à justiça em matéria de ambiente, adoptada em Almaty, em 27 de Maio de 2005. Haverá também votações regimentais às 12 horas.\nSrs. Deputados, está encerrada a reunião."
+    }
+  ]
+}

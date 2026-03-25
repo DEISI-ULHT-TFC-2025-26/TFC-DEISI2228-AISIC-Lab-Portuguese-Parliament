@@ -1,0 +1,9 @@
+{
+  "debate_id": "test_04",
+  "utterances": [
+    {"speaker": {"string": "SUMÁRIO", "role": null}, "text": "inicio"},
+    {"speaker": {"string": "Presidente", "role": "president"}, "text": "fala 1"},
+    {"speaker": {"string": "Secretária", "role": null}, "text": "fala 2"},
+    {"speaker": {"string": "Deputado X", "role": null}, "text": "fala 3"}
+  ]
+}

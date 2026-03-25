@@ -1,0 +1,3974 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "11",
+    "legislative_session": "2",
+    "number": "11",
+    "date": "2010-10-07"
+  },
+  "debate_id": "r3_11_2_11_2010-10-07",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão. \nEram 15 horas e 5 minutos. \nSrs. Deputados presentes à sessão: \nPartido Socialista (PS) \nAcácio Santos da Fonseca Pinto \nAna Catarina Veiga Santos Mendonça Mendes \nAna Paula Mendes Vitorino \nAnabela Gaspar de Freitas \nAntónio Alves Marques Júnior \nAntónio José Martins Seguro \nAntónio Ramos Preto \nAntónio Ribeiro Gameiro \nArtur Miguel Claro da Fonseca Mora Coelho \nAurélio Paulo da Costa Henriques Barradas \nCarlos Filipe de Andrade Neto Brandão \nCatarina Marcelino Rosa da Silva \nDefensor Oliveira Moura \nDeolinda Isabel da Costa Coutinho \nEduardo Arménio do Nascimento Cabrita \nEurídice Maria de Sousa Pereira \nFernando Manuel de Jesus \nFrederico de Oliveira Castro \nGlória Maria da Silva Araújo \nHorácio André Antunes \nInês de Saint-Maurice de Esteves de Medeiros Vitorino de Almeida \nJaime José Matos da Gama \nJamila Bárbara Madeira e Madeira \nJorge Filipe Teixeira Seguro Sanches \nJorge Manuel Capela Gonçalves Fão \nJorge Manuel Gouveia Strecht Ribeiro \nJorge Manuel Rosendo Gonçalves \nJosé Carlos Bravo Nico \nJosé Carlos Correia Mota de Andrade \nJosé Eduardo Vera Cruz Jardim \nJosé João Pinhanços de Bianchi \nJosé Manuel Lello Ribeiro de Almeida \nJosé Manuel Pereira Ribeiro \nJosé Miguel Abreu de Figueiredo Medeiros \nJosé Rui Alves Duarte Cruz \nJoão Miguel de Melo Santos Taborda Serrano \nJoão Paulo Feteira Pedrosa \nJoão Paulo Moreira Correia \nJoão Pedro de Aleluia Gomes Sequeira \nJoão Raul Henriques Sousa Moura Portugal \nJoão Saldanha de Azevedo Galamba \nJúlio Francisco Miranda Calha \nLuiz Manuel Fagundes Duarte \nLuís Afonso Cerqueira Natividade Candal"
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a Sr.ª Secretária vai proceder à leitura do expediente."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados e Sr.as Deputadas, deu entrada na Mesa, e foi admitido, o projecto de resolução n.º 279/XI (2.ª) — Recomenda ao Governo que garanta uma solução célere e definitiva para a ligação rodoviária entre a Praia do Ribatejo e Constância Sul, enquanto investimento prioritário para a região (PS), que baixou à 9.ª Comissão."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, da nossa ordem do dia de hoje consta uma interpelação ao Governo, apresentada pelo CDS-PP, sobre educação [interpelação n.º 10/XI (2.ª)]."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 6,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Sr. Miguel Macedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, permite-me uma interpelação à Mesa?"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 6,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 6,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Sr. Miguel Macedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, a minha interpelação é simples e vai no seguinte sentido: pretendo saber, da parte do Sr. Presidente, se a Assembleia da República, através de V. Ex.ª, já recebeu as informações que foram solicitadas ao Governo, pela Comissão de Orçamento e Finanças, que, de resto, foram referidas, na última informação da UTAO, com a indicação de que não dispunha de todas as informações adicionais que haviam sido solicitadas para se avaliar a execução orçamental do trimestre anterior.\nA questão, Sr. Presidente, é muito relevante e, se me permite que justifique, um pouco, a minha interpelação, diria o seguinte: no início de Setembro, quando a Assembleia da República funcionava através da sua Comissão Permanente, o Governo antecipou, em reunião da Comissão, os dados relativos à execução orçamental do mês de Agosto. Isto sucedeu, concretamente, no dia 9 de Setembro.\nNa sequência disso, tive oportunidade de perguntar à bancada do Partido Socialista se estava disponível para, com transparência, corresponder a uma necessidade indiscutível do Parlamento, que é a de ter informação actualizada sobre a execução orçamental. A resposta do Sr. Deputado Francisco de Assis foi de inteira disponibilidade, da parte da bancada socialista."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 6,
+      "speaker": {
+        "id": 1235,
+        "name": "Francisco José Pereira De Assis Miranda",
+        "party": "PS",
+        "string": "O Sr. Francisco de Assis (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E mantém-se!"
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 7,
+      "speaker": {
+        "id": 1530,
+        "name": "Miguel Bento Martins Da Costa De Macedo E Silva",
+        "party": "PSD",
+        "string": "O Sr. Miguel Macedo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que é verdade é que a prática do Governo tem levado a que esses dados não sejam disponibilizados, ao contrário do que tem sido solicitado pela Comissão de Orçamento e Finanças.\nSr. Presidente, para terminar, hoje mesmo, o Boletim Económico de Outono do Banco de Portugal acentua preocupações que todos temos em relação à evolução da situação orçamental em Portugal. Por isso, Sr.\nPresidente, aquilo que precisamos de saber é se a Assembleia já dispõe das informações que foram solicitadas ao Governo e, caso essa resposta seja negativa, se há possibilidade de, ainda hoje, procedermos aqui à apreciação de um requerimento que pretendemos apresentar, no sentido de solicitar essas informações ao Governo, com a máxima urgência, na medida em que é absolutamente crucial que as tenhamos antes da oportunidade de apreciar, discutir e analisar o Orçamento nesta Assembleia da República."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Miguel Macedo, registei as suas palavras.\nComo sabe, a Unidade Técnica de Apoio Orçamental funciona sob a responsabilidade directa da Comissão de Orçamento e Finanças, a entidade primária da Assembleia da República que toma conhecimento dos dados que são fornecidos à Unidade Técnica de Apoio Orçamental, que, como sabe também, foi reforçada por acordo político entre o Governo e o PSD, o que implicou o aumento do nõmero dos seus elementos»"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 7,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O aumento da despesa!"
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "» e novas contratações por concurso põblico, a qual desenvolve a sua actividade com base numa lei que também foi aprovada aqui, na Assembleia da República, por larguíssima maioria, senão por unanimidade nesse ponto específico."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 7,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não, não!"
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Não por unanimidade, diz o Sr. Deputado Bernardino Soares.\nPortanto, Sr. Deputado Miguel Macedo, o que lhe posso assegurar, como Presidente da Assembleia, é que estarei disponível para reflectir e apreciar qualquer informação que me seja facultada pela Comissão e para agir em conformidade, no que se refere a fazer observar o cumprimento da legislação adoptada pela própria Assembleia da República.\nVamos, então, passar à interpelação n.º 10/XI (2.ª), apresentada pelo CDS-PP, sobre educação.\nPara a intervenção de abertura, tem a palavra o Sr. Deputado José Manuel Rodrigues."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 7,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as Deputadas, Srs. Deputados, Srs.\nMembros do Governo: A nossa visão da escola e do ensino assenta em cinco princípios.\nPrimeiro: a escola é o verdadeiro instrumento de mobilidade social. O contribuinte paga a escola para que o aluno possa formar-se e vencer na vida, mesmo que as suas circunstâncias de família sejam desfavoráveis."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 7,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Segundo princípio: só uma escola organizada permite ao País vencer dois dos seus principais desafios, o emprego dos jovens e a produtividade da nossa economia."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 7,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 7,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Terceiro: para que a escola seja bem organizada, a autoridade do professor tem de estar garantida e é um valor indiscutível."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 7,
+      "speaker": {
+        "id": 2251,
+        "name": "Michael Lothar Mendes Seufert",
+        "party": "CDS-PP",
+        "string": "O Sr. Michael Seufert (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 8,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quarto princípio: a exigência é uma condição básica e indispensável para a escola desempenhar a sua função.\nE a exigência tem consequências: exigência nos conhecimentos transmitidos, exigência na avaliação dos alunos, exigência na formação dos professores.\nQuinto princípio: só haverá maior qualidade no ensino quando o sistema premiar o mérito e a excelência dos projectos escolares, o que significa defender a autonomia das escolas e a liberdade de escolha das famílias."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 8,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 8,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Ministra da Educação, só vamos lá com o mérito! O mérito tem de ser reconhecido, só é reconhecido com a autonomia; o mérito precisa de ser preferido e só é preferido com a liberdade de escolha.\nInfelizmente, neste momento, no nosso País, só as famílias de maiores rendimentos têm essa possibilidade, essa liberdade. O que nós queremos é alargar essa escolha. Desde logo, a liberdade de escolher, de entre as escolas do Estado, entre as escolas públicas, privadas e cooperativas.\nSr. Presidente, Sr.as e Srs. Deputados, Sr.ª Ministra: A verdadeira abertura do ano escolar não se verificou com as pomposas inaugurações,»"
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 8,
+      "speaker": {
+        "id": 2251,
+        "name": "Michael Lothar Mendes Seufert",
+        "party": "CDS-PP",
+        "string": "O Sr. Michael Seufert (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 8,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» foi com a conferência de imprensa do Sr. Ministro das Finanças a retirar às famílias de classe média e de menores rendimentos quer as deduções do IRS com a educação, quer o abono de família, com a consequente redução do apoio social escolar.\nSr.ª Ministra, será que, para si, as deduções com a educação são um luxo?! Para si, um casal, em que cada um ganhe 600 €, é tão privilegiado que não tem direito a 1 cêntimo de abono de família?!"
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 8,
+      "speaker": {
+        "id": 2251,
+        "name": "Michael Lothar Mendes Seufert",
+        "party": "CDS-PP",
+        "string": "O Sr. Michael Seufert (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 8,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Então, diga-me: qual é a política de natalidade deste Governo? É Estado social reduzir a pouca liberdade dos pobres a nenhuma liberdade?"
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 8,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 8,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E, já agora, se o Ministério está sem dinheiro, se as famílias vão perder poder de compra e apoios sociais, custa-vos assim tanto aceitar a ideia do CDS do sistema de empréstimos de manuais escolares?!\nSr.ª Ministra, são perguntas concretas às quais espero que responda, neste debate."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 9,
+      "speaker": {
+        "id": 2251,
+        "name": "Michael Lothar Mendes Seufert",
+        "party": "CDS-PP",
+        "string": "O Sr. Michael Seufert (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 9,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Já vamos com um mês de aulas e há centenas de estabelecimentos de ensino onde faltam auxiliares de acção educativa e, ao mesmo tempo, há centenas de milhar de desempregados. Como é que isto não se resolve rapidamente, Sr.ª Ministra?\nSr.ª Ministra, vamos agora às suas amáveis, mas sempre assombrosas, contradições.\n\nA Sr.ª Ministra deu uma entrevista, há pouco tempo, onde disse que queria acabar com os chumbos.\nAgora, fixou objectivos quantificados para a redução desses mesmos chumbos. Primeiro ponto: entre as duas posições mediou um mês. Em que ficamos, Sr.ª Ministra?"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 9,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Para si, não há retenções ou as escolas são obrigadas a diminui-las?! Mas vamos à questão de fundo. Só há duas maneiras de reduzir os chumbos: ou aumenta o conhecimento ou baixa a exigência."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 9,
+      "speaker": {
+        "id": 2251,
+        "name": "Michael Lothar Mendes Seufert",
+        "party": "CDS-PP",
+        "string": "O Sr. Michael Seufert (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 9,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Até hoje, Sr.ª Ministra, não conhecemos a sua opção. Até hoje, não nos explicou como é que os alunos vão aprender mais e os professores ensinar melhor. De modo que a nossa suspeita, do CDS, é legítima: a Sr.ª Ministra está a sugerir aos professores que exijam menos aos alunos?!\nE por que é que, em vez de querer eliminar os chumbos, que é uma solução facilitista, não aposta em fazer uma boa revisão curricular que incida nas disciplinas nucleares, designadamente o Português e a Matemática, e dispensa coisas vagas, Sr.ª Ministra, que levam centenas de horas do ano lectivo, no ensino básico, como o Estudo Acompanhado e a Área de Projecto?"
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 9,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 9,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por que é que não aposta na antecipação da idade de acesso ao ensino profissional?"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 9,
+      "speaker": {
+        "id": 2251,
+        "name": "Michael Lothar Mendes Seufert",
+        "party": "CDS-PP",
+        "string": "O Sr. Michael Seufert (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 9,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por que é que não aposta na formação científica dos professores?"
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 9,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 10,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E, pegando precisamente neste ponto, o CDS-PP também deseja explicações sobre a avaliação dos professores. Estamos no último ano deste ciclo avaliativo. Por que é que, nesta altura, Sr.ª Ministra, os professores não conhecem os critérios, em concreto, da sua avaliação de desempenho?\nQuando é que publica estas regras, para que este processo estabilize, de uma vez por todas?! E para quando está prevista a formação de avaliadores e de avaliados, uma proposta feita pelo CDS-PP e que, infelizmente, o Partido Socialista chumbou, na última sexta-feira, neste Parlamento? Sr. Presidente, Srs. Deputados, Sr.ª Ministra: Nós sabemos que o seu dia, tal como o nosso, tem 24 horas.\nMas, pelos vistos, a Sr.ª Ministra não sabe que a classe média vai perder poder de compra, os mais pobres vão perder apoios sociais, nas escolas há coisas que não funcionam, os professores estão sem autoridade e quer acabar com os chumbos. E, nisto tudo, Sr.ª Ministra, onde é que fica o investimento no futuro de Portugal?!\nSr.ª Ministra, dê-nos, neste debate, respostas concretas e apresente uma visão. Se não o fizer, um dia destes não será apenas o seu próximo livro a ter como título Uma aventura no sítio errado,»\n» será também a sua passagem pelo Ministério da Educação."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 10,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para a intervenção de abertura, tem a palavra a Sr.ª Ministra da Educação."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 10,
+      "speaker": {
+        "id": 3078,
+        "name": "Isabel Alçada",
+        "party": "N/A",
+        "string": "A Sr.ª Ministra da Educação (Isabel Alçada)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as Deputadas, Srs. Deputados: Na verdade, no dia 5 de Outubro, inaugurámos 100 escolas novas ou requalificadas."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 10,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Sr. Miguel Tiago (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Depois de fecharem 4000!"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 10,
+      "speaker": {
+        "id": 3078,
+        "name": "Isabel Alçada",
+        "party": "N/A",
+        "string": "A Sr.ª Ministra da Educação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Foram 30 escolas secundárias e 70 centros escolares. Foi um acto simbólico, porque muito mais escolas foram construídas durante o último ano lectivo."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 10,
+      "speaker": {
+        "id": 2251,
+        "name": "Michael Lothar Mendes Seufert",
+        "party": "CDS-PP",
+        "string": "O Sr. Michael Seufert (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E muitas mais fechadas!"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 10,
+      "speaker": {
+        "id": 3078,
+        "name": "Isabel Alçada",
+        "party": "N/A",
+        "string": "A Sr.ª Ministra da Educação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Este acto simbólico pretendeu, como sabem, prestar homenagem aos valores republicanos que colocam a educação no centro da política social e reflectiu também a importância que, hoje, atribuímos à qualidade da escola pública.\nNos últimos seis anos, a política educativa tem assegurado de forma consistente uma intervenção articulada em áreas-chave do sistema com medidas cujos resultados são já visíveis e têm sido publicados tanto nos estudos nacionais como nos realizados por organizações internacionais.\nCitarei resultados concretos em sete domínios: na educação pré-escolar; no ensino básico no ensino secundário; no cumprimento dos 12 anos de escolaridade obrigatória; na modernização dos equipamentos e no reordenamento da rede escolar; na educação e formação de adultos e na valorização da profissão docente.\nMuitos outros haveria a referir, e trata-se de medidas que têm sido tomadas de forma articulada, repito."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 11,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 11,
+      "speaker": {
+        "id": 3078,
+        "name": "Isabel Alçada",
+        "party": "N/A",
+        "string": "A Sr.ª Ministra da Educação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A par desta modernização do parque escolar, também é bem conhecido o trabalho que tem sido realizado para dotar as escolas, de uma maneira geral, desde o pré-escolar até ao secundário, com equipamentos adequados às novas tecnologias de informação e comunicação. Esse trabalho tem sido realizado com base no Plano Tecnológico da Educação e, em conjunto, tem-se vindo a desenvolver e"
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 12,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Disso não há dúvida!"
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 12,
+      "speaker": {
+        "id": 3078,
+        "name": "Isabel Alçada",
+        "party": "N/A",
+        "string": "A Sr.ª Ministra da Educação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Hoje, os adultos portugueses sabem que, mesmo que tenham abandonado precocemente o sistema de ensino, podem regressar à escola e encaram de forma positiva a possibilidade de desenvolverem as suas qualificações, obterem novas certificações, que lhes dão a possibilidade de entrarem de uma forma mais segura no mercado de trabalho, e desenvolverem as suas competências básicas e profissionais. Podem seguir o exemplo de 1,3 milhões de adultos, que já se inscreveram nos Centros de Novas Oportunidades, e de 400 000 adultos, que já concluíram processos de formação e obtiveram certificações.\nO relatório do EUROSTAT de 2009 divulgou que as taxas de abandono escolar precoce dos portugueses entre 18 e 24 anos que não completaram o ensino secundário nem estavam inscritos em acções de educação e de formação tiveram uma redução de 8 pontos percentuais, entre 2005 e 2009, e de 4 pontos percentuais, entre 2008 e 2009.\nUma área que, como sabem, também tem tido uma grande atenção é a da valorização da profissão docente,»"
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 12,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP e de Os Verdes",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Oh! »"
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 12,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Sr. Miguel Tiago (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso já é um delírio!"
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 12,
+      "speaker": {
+        "id": 3078,
+        "name": "Isabel Alçada",
+        "party": "N/A",
+        "string": "A Sr.ª Ministra da Educação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» nomeadamente atravçs de uma cultura de avaliação que tem sido trabalhada no quadro da negociação com as organizações representativas dos docentes.\nSabem igualmente como a abertura do ano lectivo de 2010/2011 se processou com toda a tranquilidade nas 8500 escolas de todo o País. Hoje, o corpo docente ç estável,»"
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 12,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É estável?"
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 12,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Sr. Miguel Tiago (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Está a falar de outro país!"
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 12,
+      "speaker": {
+        "id": 3078,
+        "name": "Isabel Alçada",
+        "party": "N/A",
+        "string": "A Sr.ª Ministra da Educação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» pois os concursos realizam-se de quatro em quatro anos.\nO concurso de colocação de docentes realizou-se entre Julho e Setembro e a verdade é que, apesar das tentativas para evitar que a cultura de avaliação e de exigência estivesse presente nos critérios para a graduação dos opositores ao concurso, apesar de algumas organizações sindicais terem recorrido aos tribunais com o intuito de judicializar a questão — deram entrada três providências cautelares e cinco intimações em cinco tribunais — , todas as decisões foram no sentido de os tribunais considerarem que o critério da avaliação deveria figurar na graduação dos candidatos."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor de concluir, Sr.ª Ministra."
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 13,
+      "speaker": {
+        "id": 3078,
+        "name": "Isabel Alçada",
+        "party": "N/A",
+        "string": "A Sr.ª Ministra da Educação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Termino já, Sr. Presidente.\nAtravés de instrumentos novos que estão a ser disponibilizados às escolas (as metas de aprendizagem e o Programa Educação 2015), há todo um esforço da parte das escolas de avaliação e automonitorização dos seus próprios recursos, com o intuito de assegurarem melhores resultados dos alunos e, através desses melhores resultados, desenvolverem uma cultura de exigência em que a escola pública garanta, efectivamente, igualdade de oportunidades e a generalização de padrões de qualidade a todos os alunos."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveram-se 16 Srs. Deputados para pedirem esclarecimentos à Sr.ª Ministra, sendo que a mesma responderá, inicialmente, em grupos de 5 perguntas.\nTem a palavra, em primeiro lugar, o Sr. Deputado José Manuel Rodrigues."
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 13,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, Sr.ª Ministra da Educação, registamos que vive no mesmo País do Primeiro-Ministro Eng.º José Sócrates: a sua intervenção apenas tem auto-elogios e tributos à governação. Só que isso não serve as escolas nem as famílias portuguesas.\nSr.ª Ministra, considera que se possuíssemos um melhor sistema educativo teríamos, como temos hoje, 20 jovens em cada 100 desempregados?"
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 13,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 13,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não teve aqui uma única palavra sobre as dificuldades das famílias e os cortes nos abonos e, consequentemente, na própria acção social escolar."
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 13,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 13,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Um ano lectivo tranquilo, Sr.ª Ministra, quando nas escolas faltaram professores, psicólogos e ainda hoje faltam técnicos auxiliares de acção educativa?! Sr.ª Ministra, vou colocar-lhe uma questão muito concreta. Uma das medidas da redução da despesa que constará do orçamento do Estado para o próximo ano será o congelamento das admissões na Administração Pública e a redução do número de contratados. Sabendo nós que há 17 000 professores em situação de contrato, que há uma carência enorme de auxiliares de acção educativa, que há falta de pessoal para atender às necessidades educativas especiais e também de psicólogos, para prevenir a violência e a indisciplina, como é que ficamos na área da educação?"
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 13,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 13,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Qual vai ser o seu orçamento para o próximo ano, tendo em conta os cortes anunciados? Vamos ter congelamento de admissões? Vamos ter redução de contratados no Ministério da Educação? Sr.ª Ministra, como é que explica, designadamente, o facto de existirem tantas dificuldades em contratar auxiliares de acção educativa quando temos 600 000 pessoas no desemprego?!"
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 13,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 13,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como é que explica isso, Sr.ª Ministra?!"
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 14,
+      "speaker": {
+        "id": 2251,
+        "name": "Michael Lothar Mendes Seufert",
+        "party": "CDS-PP",
+        "string": "O Sr. Michael Seufert (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 14,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» mas trata-se de corrigir uma injustiça com mais de uma década."
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 14,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 14,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Ministra, está em condições de garantir que o Governo vai cumprir a vontade deste Parlamento, e a sua promessa, de abrir um concurso para os professores contratados com mais de 10 anos de serviço?"
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Miguel Tiago."
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 14,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Sr. Miguel Tiago (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Ministra da Educação, trouxe-nos aqui, como, aliás, já é habitual, a visão que o Governo tenta impor aos portugueses de um País com que os portugueses não se encontram no seu dia-a-dia.\n\nA Sr.ª Ministra vem falar-nos de 100 escolas que abrem, a maior parte delas tão-pouco são da responsabilidade do Governo mas, sim, das autarquias, com o investimento das autarquias, o esforço das autarquias,»"
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 14,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ahhh»!"
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 14,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Sr. Miguel Tiago (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» mas que contaram sempre com a presença de um membro do Governo para ir «cortar a fita» e se mostrar. Mas esquece-se de dizer que, ao mesmo tempo que inauguraram essas 100 escolas, acabaram um processo de encerramento, quase, de 4000.\nVeja bem a forma como nos coloca a realidade para tentar manipular a sua percepção.\nÉ extraordinário, Sr.ª Ministra, que nos venha aqui traçar esta figura do País quando, ainda hoje de manhã — não foi ontem, não foi há um mês, foi hoje de manhã! — , eu próprio estive presente, em representação do Grupo Parlamentar do PCP, numa manifestação de pais, numa escola que não tinha as condições para funcionar,»\n» em que os pais pediram para que não se pusessem os filhos ali dentro por causa da falta de condições e por causa da falta de pessoal auxiliar naquela escola!! É uma escola com quase 200 alunos que conta apenas com três auxiliares, no total, e que, como é óbvio, dificilmente, estarão todos ao mesmo tempo»! Sr.ª Ministra, gostava de colocar-lhe algumas questões.\nJá sabemos que também vão haver cortes orçamentais na educação e nas transferências para as autarquias. Pergunto-lhe o seguinte: de que forma é que a Sr.ª Ministra pode vir traçar este quadro cor-de-rosa da realidade nas escolas, e dizer que tudo vai bem, quando, ao mesmo tempo, nos anuncia «cortes orçamentais substantivos» (desta forma foram anunciados) quer no financiamento do seu ministério quer nas transferências para as autarquias, no que toca à educação? Como é que vai garantir a contratação dos"
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Queira concluir, Sr. Deputado."
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 15,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Sr. Miguel Tiago (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» porque o seu Ministério se recusa a incluir os horários temporários nas bolsas de recrutamento e a dizer a estes professores quando é que terão notícias sobre o seu futuro, quando é que saberão em que escola ficam. Além de tudo a que já estão sujeitos, estes professores ainda têm de andar agora sujeitos a mais esta instabilidade.\nUma última palavra, Sr.ª Ministra, para perguntar quais serão as medidas deste Governo para fazer face à carência de professores.\nDesde 2007, 15 216 professores saíram do sistema, por aposentação, e 300 entraram no sistema. Seria caso para dizer que «saem dois, entra um», mas no caso dos professores «saem 38, entra um».\nVou terminar, Sr. Presidente, dizendo que a própria Sr.ª Ministra diz que não se podem fazer duas coisas bem ao mesmo tempo» Qual é a outra coisa que a Sr.ª Ministra anda a fazer, além de ser Ministra da Educação?"
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 15,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para pedir esclarecimentos, tem a palavra o Sr. Deputado Pedro Duarte."
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 15,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Ministra da Educação, confesso a minha preocupação depois de ouvir a sua intervenção, hoje, neste debate.\nO Governo, de facto, manifesta-se, infelizmente, alheado dos reais problemas estruturais do nosso ensino.\nSr.ª Ministra, hoje, fez aqui a apologia das estatísticas que, terá de reconhecer, são em muitos casos enganadoras, porque em nenhuma destas estatísticas é realmente avaliada a qualidade das aprendizagens, em nenhuma dessas estatísticas é pesado o facilitismo que, muitas vezes, grassa e que, naturalmente condiciona os resultados.\nSe a Sr.ª Ministra decretar, hoje, passagens administrativas vai ter as melhores estatísticas possíveis no que diz respeito ao sucesso escolar, mas nós sabemos que isso não corresponde à realidade, ao que realmente é ensinado e é aprendido no dia-a-dia das nossas escolas."
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 15,
+      "speaker": {
+        "id": 1326,
+        "name": "Luís Filipe Montenegro Cardoso De Morais Esteves",
+        "party": "PSD",
+        "string": "O Sr. Luís Montenegro (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 15,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por isso, digo-lhe que, ao lado da apologia destas estatísticas, a Sr.ª Ministra trouxe-nos também a apologia, imagine-se, do betão, glorificando a construção designadamente de"
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Ana Drago."
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 16,
+      "speaker": {
+        "id": 1161,
+        "name": "Ana Isabel Drago Lobato",
+        "party": "BE",
+        "string": "A Sr.ª Ana Drago (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Ministra da Educação, seguindo um pouco a sua tradição, fez-nos aqui um retrato cor-de-rosa do sistema educativo. E lamento dizer-lhe, mas no início deste ano lectivo há coisas boas e há coisas suas; as coisas que são boas não são suas e as coisas que são suas, que é a sua responsabilidade no arranque deste novo ano lectivo, não são boas!\nA verdade é que iniciámos este ano lectivo sem que as famílias soubessem quais eram os apoios que existiam ao nível da acção social escolar — aliás, muitas famílias com os mesmos rendimentos perderam os apoios ao nível da acção social escolar, por causa da política do actual Governo! — ; muitas crianças iniciaram as aulas sem terem os manuais escolares; muitas crianças estão hoje nas escolas com professores em"
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 17,
+      "speaker": {
+        "id": 2235,
+        "name": "Manuel António Gonçalves Mota Da Silva",
+        "party": "PS",
+        "string": "O Sr. Manuel Mota (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é verdade!"
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 17,
+      "speaker": {
+        "id": 1161,
+        "name": "Ana Isabel Drago Lobato",
+        "party": "BE",
+        "string": "A Sr.ª Ana Drago (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Aquilo que nós queremos saber, que queremos saber com todo o rigor, é que tipo de orientações o Ministério da Educação está a dar às escolas."
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Heloísa Apolónia."
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 17,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Ministra da Educação, quem ouvisse a intervenção da Sr.ª Ministra teria ficado com a ideia de que a educação em Portugal «vai de vento em popa«», que isto ç tudo uma maravilha!» Olhe, diz ali um Sr. Deputado do PS que sim, senhor.\nOlhe, Sr.ª Ministra e Srs. Deputados do Partido Socialista, nós só tememos que os senhores não sejam verdadeiramente conhecedores da realidade.\nOs Srs. Deputados riem, mas aquilo que chega ao Grupo Parlamentar de Os Verdes chega, com certeza ao Grupo Parlamentar do PS, e as insatisfações são enormes no que concerne aos professores, no que concerne às famílias e no que concerne aos alunos, que, infelizmente, são aqueles que são as vítimas concretas desta política educativa e que sentem as dificuldades concretas no seu dia-a-dia.\nComecemos por aquilo que é essencial. Como é que as escolas do País funcionam da forma como a Sr.ª Ministra diz que funcionam, sem aquilo que é fundamental, uma coisa tão simples quanto isto: recursos humanos?! Não são suficientes, todos se queixam do mesmo, de Norte a Sul do País: auxiliares de educação, psicólogos»"
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É mentira!"
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 18,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Digam-me, Srs. Deputados e Sr.ª Ministra, em concreto, quantos psicólogos — e falamos tanto da necessidade de equipas multidisciplinares» — para isto funcionar em termos educativos, como deve ser? Sr.ª Ministra»! Sr.ª Ministra, oiça a minha pergunta!»\nSr.ª Ministra, quantos psicólogos foram colocados este ano? Quer que eu responda pela Sr.ª Ministra? Zero! Não foram colocados psicólogos nas nossas escolas!\nOra, estou a falar, Sr.ª Ministra, da necessidade de equipas multidisciplinares e do bom funcionamento dessas equipas multidisciplinares!» Falo, Sr.ª Ministra, da carência de auxiliares de acção educativa nas nossas escolas para dar apoio às nossas crianças e aos nossos jovens.\nE falo, Sr.ª Ministra, de como as crianças com necessidades educativas especiais ficam sobremaneira prejudicadas com esta tentativa do Ministério da Educação de «meter ao bolso», de poupar, só poupar, em detrimento das necessidades das nossas crianças.\nÉ isto que se quer de uma política educativa?!\n\nA Sr.ª Ministra diz que a prossecução do objectivo do défice não afectará a qualidade da educação em Portugal.\nPois, não!» Já prejudicou e continuará, seguramente, a prejudicar! Eu gostava que a Sr.ª Ministra respondesse, hoje, muito concretamente, ao que estamos fartos de perguntar, mas cuja resposta nunca obtivemos.\n\nO Sr. Primeiro-Ministro, aqui, nesta mesma Sala, garantiu à Assembleia da República que o encerramento das escolas faria poupança ao erário público. Faria poupança! Mas nós nunca conseguimos obter, por parte do Ministério da Educação, a quantificação desta poupança.\nQuanto é que o Estado poupou por fazer com que meninos, designadamente do interior do País, como nos chegaram muitas queixas, como, por exemplo, de Bragança, de meninos que se levantam às seis horas da manhã para chegar à porta da escola, antes das oito horas da manhã, e ali ficar, faça o clima que fizer, à espera que a escola abra portas para poderem entrar dentro da escola. E fazem viagens longas de manhã!\nMas os Srs. Deputados do PS acham que estas são realidades que não existem no País, tal como acham, com certeza, que não existem no País escolas superlotadas, porque se a vossa intenção — e a intenção deste Governo — fosse, de facto, a melhoria da qualidade do ensino, também tinham actuado nas escolas e turmas superlotadas, justamente para garantir essa qualidade. Só que não o fizeram, e sabem porquê? Porque iriam gastar e não iriam poupar.\nIsto é absolutamente lamentável, Sr.ª Ministra!"
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra a Sr.ª Ministra da Educação."
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 19,
+      "speaker": {
+        "id": 3078,
+        "name": "Isabel Alçada",
+        "party": "N/A",
+        "string": "A Sr.ª Ministra da Educação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, quando as escolas abriram, a esmagadora maioria dos professores estava colocada, porque são professores de carreira e, como sabem, só mudam de escola de quatro em quatro anos, o que trouxe ao sistema educativo uma grande estabilidade."
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 19,
+      "speaker": {
+        "id": 3078,
+        "name": "Isabel Alçada",
+        "party": "N/A",
+        "string": "A Sr.ª Ministra da Educação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Havia, na verdade, necessidades transitórias, mas houve tentativas sucessivas para evitar que a colocação de professores e os concursos se fizessem no quadro da lei. Aliás, já aqui referi as tentativas que foram feitas de judicialização do concurso dos professores, mas, apesar disso, no início do ano lectivo os professores estavam colocados.\nComo sabem, existe um processo de alteração dos lugares onde os professores são colocados por vontade própria e, para além disso, também há a necessidade de colocar professores para substituição de outros por motivos de doença prolongada, licenças de parto e situações diversificadas. Tudo isso foi resolvido até ao momento e, praticamente, os professores que não estão nas escolas é por estarem de baixa médica.\nForam colocados os professores por concursos nacionais, bolsas de recrutamento nacional e contratação de escola. E, apesar das vicissitudes que tentaram criar, o processo foi realizado com toda a serenidade para que as escolas trabalhem de uma forma tranquila.\nEm relação ao pessoal não docente, até temos pessoas a mais nos quadros técnicos e administrativos, que, evidentemente, se vão manter no sistema. Portanto, neste momento, não temos carência.\nEm relação aos assistentes operacionais, se tiverem a bondade de analisar o ratio que está previsto, irão concluir que está bem feito."
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não está, não!"
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 19,
+      "speaker": {
+        "id": 3078,
+        "name": "Isabel Alçada",
+        "party": "N/A",
+        "string": "A Sr.ª Ministra da Educação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade que no quadro dos agrupamentos se pode potenciar uma certa mobilidade, mas também posso dizer-vos que, muitas vezes, há situações que decorrem de absentismo. Por exemplo, em Lisboa, temos 1300 assistentes operacionais e, no mês de Setembro, houve uma semana em que se noticiou que havia carência destes técnicos, mas a verdade é que estavam a faltar 300 em 1300. Ora, isto gera situações de dificuldade e, naturalmente, o Ministério está atento e está a resolver essas situações, porque sabemos muito bem, por relação directa com as escolas e com os directores, como os auxiliares, os assistentes operacionais são importantes para assegurar o clima de segurança, a vigilância dos recreios e todo o trabalho de apoio de que as escolas carecem.\nEm situação de substituição por doença prolongada, temos recorrido, como sabem, aos contratos de emprego e inserção. Este é um recurso usado apenas para situações transitórias, mas são profissionais que têm permitido superar algumas das dificuldades.\nEm relação às questões de mérito, esforço e trabalho, convido os Srs. Deputados a analisar o nosso programa Educação 2015. Nesse programa, o que está proposto é que as escolas analisem, através da sistematização de indicadores, os resultados dos alunos e dêem atenção à efectiva aprendizagem para que os resultados possam incidir, por um lado, nas competências básicas, nomeadamente na Matemática e no Português, e, por outro lado, na repetência para verificar se, realmente, não é possível, desde o princípio do ano lectivo, trabalhar afincadamente com os alunos, mobilizar as famílias e a comunidade para que os alunos aprendam mais, estudem mais e, através do esforço e do trabalho, possam obter melhores resultados.\nNada do nosso trabalho propõe qualquer forma de facilitismo ou de abaixamento de resultados de forma administrativa!"
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 19,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Michael Seufert."
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 19,
+      "speaker": {
+        "id": 2251,
+        "name": "Michael Lothar Mendes Seufert",
+        "party": "CDS-PP",
+        "string": "O Sr. Michael Seufert (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Ministra, os nossos alunos também deviam aprender a saber ouvir o professor, a saber ouvir os colegas e, depois, a responder às perguntas que lhe são feitas na sala de aula, e aqui V. Ex.ª não deu um bom exemplo disso!"
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP e de Os Verdes",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 20,
+      "speaker": {
+        "id": 2251,
+        "name": "Michael Lothar Mendes Seufert",
+        "party": "CDS-PP",
+        "string": "O Sr. Michael Seufert (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Aliás, a Sr.ª Ministra confundiu aqui duas questões: a dos professores contratados, que são quase 20 000, como sabe, e a daqueles que agora, no âmbito dos concursos, recorreram para os tribunais das suas colocações — recursos legítimos e que não representam, de forma alguma, uma judicialização da política.\n\nA Sr.ª Ministra refere que não há problemas com esses professores contratados, mas tem de explicar-nos como é que no PEC 3, apresentado pelo seu Governo, se diz que se vai cortar nos contratados, como é que isso vai influenciar esses professores! E como é que esse corte vai influenciar os contratados, auxiliares de acção educativa e técnicos operacionais? Disse-nos que aqui, em Lisboa, havia uma ausência de 300 em 1300, o que significa que quase 25%, praticamente ¼ de todos os auxiliares de acção educativa está fora do sistema! E não faltam na lei casos para cumprir»"
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 20,
+      "speaker": {
+        "id": 2235,
+        "name": "Manuel António Gonçalves Mota Da Silva",
+        "party": "PS",
+        "string": "O Sr. Manuel Mota (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não sabe do que está a falar!"
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 20,
+      "speaker": {
+        "id": 2251,
+        "name": "Michael Lothar Mendes Seufert",
+        "party": "CDS-PP",
+        "string": "O Sr. Michael Seufert (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, se forem casos transitórios de baixa médica, vá buscar profissionais aos centros de emprego, onde tem os desempregados à espera de emprego!\nFazer isso custa zero ao Governo! Recorram aos centros de emprego e ponham-nos a trabalhar transitoriamente nas escolas, o que não custa um tostão! \nA Sr.ª Ministra, que tanto fez neste início do ano lectivo a inaugurar escolas e a apresentar programas, só tocou ao de leve aqui a questão das metas de aprendizagem, mas eu gostava de tomar algum tempo de V.\nEx.ª e da Câmara para falar-lhe dessa matéria, tal como gostava que V. Ex.ª gastasse algum tempo a responder-me a algumas questões.\nEstas metas da aprendizagem, Sr.ª Ministra — lê-se nas suas declarações e nas próprias introduções das mesmas — , são apenas uma referência para as escolas e para os professores e não substituem o programa, nem o podiam fazer, pois não têm força normativa. Mas o que se conclui, depois de ler as metas de avaliação, é que essas metas não passam de um resumo, em meia dúzia de páginas, do que já está no programa. Isto é, elas não vão para além do programa em ponto algum, nem oferecem aos professores, às escolas, às famílias uma ferramenta para as atingir.\nDe alguma maneira, quem não quer ler o programa, lê o resumo» É como aquelas sebentas de Os Maias em 20 páginas!»\nDá a ideia, aliás, de que o Ministério da Educação acha que os professores não sabem o que está no programa, ou não querem saber, o que é, do nosso ponto de vista, uma forma muito infeliz de tratar os professores, porque estas metas, Sr.ª Ministra, podiam ser boas e úteis se estivesse escrito nelas, por exemplo, o que é que os alunos têm de saber para passar de ano! Desde logo, não se percebe: a Matemática, é preciso saber a tabuada do 3 no fim do 2.º ano e a tabuada do 7 no fim do 4.º ano, mas se o aluno não sabe a tabuada do 3 pode ir tentar a tabuada do 7? Se o aluno não sabe resolver, no fim do 8.º ano, equações com uma incógnita, acha que pode ir depois para o 9.º ano aprender a fazer sistemas de equações? E a Português: no final do 6.º ano, o aluno tem de saber resumir um parágrafo» E eu pergunto: se não cumprir esse objectivo, pode ir tentar resumir um texto inteiro no 3.º ciclo?!» Estas perguntas não são aqui respondidas!"
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 21,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 21,
+      "speaker": {
+        "id": 2251,
+        "name": "Michael Lothar Mendes Seufert",
+        "party": "CDS-PP",
+        "string": "O Sr. Michael Seufert (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "V. Ex.ª, Sr.ª Ministra, voltou a não responder a esta questão e, aliás, tem governado para as estatísticas, para acabar com os chumbos. Não há neste programa nem no programa Educação 2015 uma única palavra para a exigência!"
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 21,
+      "speaker": {
+        "id": 2251,
+        "name": "Michael Lothar Mendes Seufert",
+        "party": "CDS-PP",
+        "string": "O Sr. Michael Seufert (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nem uma única palavra para que se exija na sala de aulas aos alunos mais trabalho, mais eficácia e mais conhecimento!\nO que é que V. Ex.ª pensa, Sr.ª Ministra — e com isto termino — , dos alunos que fazem quatro exames no final do 12.º ano e depois se candidatam à universidade, concorrendo em verdadeira «desigualdade de oportunidades» com colegas que não acabam o 12.º ano e que, com um único exame, lhes passam à frente?! Aliás, em Portugal, hoje é possível ter o 7.º ano, fazer o 9.º ano em seis meses, fazer o 12.º ano em mais um ano e meio, fazer um exame e entrar com 20 na universidade!!» Ora, isto está errado, subverte o sistema! V. Ex.ª criou o verdadeiro problema e o verdadeiro programa de «novas desigualdades de oportunidades» para entrar no ensino superior!\nSão estas as metas que quer mostrar aos nossos alunos?!»"
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Também para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Rita Rato."
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 21,
+      "speaker": {
+        "id": 2144,
+        "name": "Rita Rato Araújo Fonseca",
+        "party": "PCP",
+        "string": "A Sr.ª Rita Rato (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente e Srs. Deputados, é a primeira vez que temos o prazer de receber aqui, na Assembleia da República, a Sr.ª Ministra desde o fim da anterior sessão legislativa e, portanto, a questão que gostaria de colocar-lhe é esta: qual é a justificação do Governo para ter desrespeitado quatro resoluções da Assembleia da República, que propunham a suspensão do reordenamento da rede escolar durante um ano para, entre outros aspectos (segundo o projecto de resolução do PCP), fazer a definição de uma carta educativa nacional? Qual é, de facto, a justificação do Governo para ter desrespeitado quatro projectos de resolução da Assembleia da República?"
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 21,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Sr. Miguel Tiago (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É porque acha que ainda tem maioria absoluta!"
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 21,
+      "speaker": {
+        "id": 2144,
+        "name": "Rita Rato Araújo Fonseca",
+        "party": "PCP",
+        "string": "A Sr.ª Rita Rato (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ainda assim, entendemos que é inadmissível que o Governo, não apenas em matéria de educação mas sobre esta questão em concreto que lhe colocamos, tenha feito tábua rasa destas quatro resoluções aprovadas e tenha levado para a frente a sua política educativa, com a destruição e a desertificação do interior e a degradação da qualidade de vida das crianças."
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não é verdade!"
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É verdade, é!"
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 22,
+      "speaker": {
+        "id": 2144,
+        "name": "Rita Rato Araújo Fonseca",
+        "party": "PCP",
+        "string": "A Sr.ª Rita Rato (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, entendemos que houve um desrespeito profundo pela comunidade educativa e é fundamental que o Governo dê uma resposta objectiva sobre estas questões.\nTambém gostaria de colocar-lhe uma outra questão, que é muito objectiva (e ultrapassa a esfera dos 1300 funcionários e dos 300 que estão ausentes das escolas) e que se prende com a falta de funcionários nas escolas e com a falta de outros técnicos pedagógicos essenciais, como é o caso dos psicólogos.\nNo dia 20 de Setembro, o Governo autorizou a abertura de concurso para a colocação de funcionários nas escolas, mas este concurso só vai estar em vigor até dia 17 de Dezembro. Pergunto, Sr.ª Ministra, o que vai acontecer no início dos 2.º e 3.º períodos, porque se a abertura destes concursos e o contrato destes trabalhadores só vai estar em vigor até dia 17 de Dezembro, que, presumo, será o último dia de aulas do 1.º período, quem vai garantir o funcionamento das escolas em Janeiro!? Ou vamos ter de chamar outra vez a Sr.ª Ministra à Assembleia da República para dar explicações sobre esta matéria? Era, pois, fundamental que tivéssemos informação sobre esta questão.\nPor outro lado, ao analisarmos em concreto o que representam estes contratos que foram autorizados pelo Ministério da Educação, verificamos que, por exemplo, no Agrupamento de Escolas D. João II, nas Caldas da Rainha, o concurso foi aberto para um contrato de 4 horas/dia, dois contratos de 3 horas/dia, quatro contratos de 2 horas/dia e seis contratos de 1 hora/dia.\nSr.ª Ministra, não estaremos a brincar com a estabilidade e o direito ao emprego destas pessoas, ao garantir a supressão de necessidades permanentes de funcionários nas escolas com o recurso à precariedade ilegal?! Isto é brincar com a vida das pessoas, é brincar com a vida destes trabalhadores, é brincar com a segurança das crianças que estão na escola e é brincar ainda com a qualidade da escola pública, e o PCP nunca poderá deixar de ter uma palavra a dizer sobre esta matéria.\nPortanto, o que o Governo acabou por autorizar foi a abertura de concursos que vão permitir a estes trabalhadores levar para casa, ao fim do mês, um salário de 66 €. E, diga-me, Sr.ª Ministra: consegue fazer as compras de uma semana por 66 €? Penso que a maior parte dos trabalhadores e dos portugueses não consegue."
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 22,
+      "speaker": {
+        "id": 2144,
+        "name": "Rita Rato Araújo Fonseca",
+        "party": "PCP",
+        "string": "A Sr.ª Rita Rato (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, objectivamente sobre esta questão, era essa a informação que solicitava.\n\nA Sr.ª Ministra também nos falou aqui da inauguração de escolas."
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada, tem de concluir."
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 22,
+      "speaker": {
+        "id": 2144,
+        "name": "Rita Rato Araújo Fonseca",
+        "party": "PCP",
+        "string": "A Sr.ª Rita Rato (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Concluo já, Sr. Presidente.\nFoi aberto, com a totalidade das suas capacidades, o Agrupamento de Escolas da Boa Água, que tinha, até à altura, um psicólogo para mais de 1600 alunos. Como não foi aberto concurso para a colocação de psicólogos nas escolas, a pergunta que gostaria de colocar é exactamente esta: para quando a abertura deste concurso? Nem estamos a falar da abertura de concursos para ingresso na carreira, porque esses não abrem desde 1997, estamos a falar da abertura de concurso anual! Sr.ª Ministra, é esta a questão que colocamos e para a qual exigimos uma resposta objectiva e clara, porque é isso que as famílias querem."
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Amadeu Soares Albergaria."
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 23,
+      "speaker": {
+        "id": 1932,
+        "name": "Amadeu Albertino Marques Soares Albergaria",
+        "party": "PSD",
+        "string": "O Sr. Amadeu Soares Albergaria (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Ministra da Educação, o Ministério da Educação, actuando numa política de verdadeira pesca à linha, transferiu para cerca de 113 municípios novas competências em matérias de educação, assinando com cada autarquia um contrato de execução. A maioria dos municípios portugueses não assinou este contrato e muitos dos que assinaram ponderam agora denunciar os contratos, descontentes que estão com o actual modelo, nomeadamente com a insuficiência das verbas mas também com os rácios definidos para a atribuição do pessoal não docente.\nA este respeito, pergunto-lhe, Sr.ª Ministra, se já tem disponível uma avaliação interna deste processo de transferência. Tem o Ministério da Educação noção das dificuldades que as câmaras municipais estão a sentir para cumprir as responsabilidades que o Governo lhes transferiu? Por outro lado, sabemos que continua a ser intenção do Ministério prosseguir com estas transferências. É fundamental que este processo seja feito num quadro de diálogo franco e aberto com as autarquias e com a comunidade educativa. Deixo-lhe, por isso, uma pergunta concreta: está o Ministério da Educação disponível para aceitar que seja feita uma avaliação, por uma entidade independente, das obras necessárias nas escolas básicas, antes de as mesmas serem entregues às câmaras municipais, para que possamos saber quais os investimentos necessários para adequar todas as infra-estruturas à legislação vigente? Sr.ª Ministra, com a construção dos centros escolares, os municípios portugueses estão a dar o maior contributo das últimas décadas para a modernização do parque escolar do pré-escolar e do 1.º ciclo, um mçrito que deve ser reconhecido ás càmaras municipais,»"
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 23,
+      "speaker": {
+        "id": 2235,
+        "name": "Manuel António Gonçalves Mota Da Silva",
+        "party": "PS",
+        "string": "O Sr. Manuel Mota (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Eh!»"
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 23,
+      "speaker": {
+        "id": 1932,
+        "name": "Amadeu Albertino Marques Soares Albergaria",
+        "party": "PSD",
+        "string": "O Sr. Amadeu Soares Albergaria (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» que têm sabido bem aproveitar os fundos disponíveis, sem esquecer que boa parte das despesas são pagas directamente pelos seus cada vez mais magros orçamentos.\nNeste momento, todos os municípios têm as suas cartas educativas homologadas pelo Ministério da Educação. Nelas estão contabilizados os investimentos necessários para que, em cada concelho, se reduzam as assimetrias na rede de escolas do pré-escolar e do 1.º ciclo. O Ministério da Educação sabe, pois, a totalidade do investimento necessário para recuperar e ordenar toda a rede escolar do 1.º ciclo. Pergunto-lhe, Sr.ª Ministra, o seguinte: se o objectivo do Governo é reduzir estas assimetrias, garante-nos que todos os investimentos previstos nestas cartas educativas terão o seu financiamento assegurado pelas verbas do QREN? Concretizando: por exemplo, pode garantir-nos — a nós e aos autarcas — que todos os projectos apresentados pelos concelhos que formam a Área Metropolitana do Porto e que tenham um parecer favorável do Gabinete de Estatística e Planeamento da Educação (GEPE) vão ter financiamento disponível no âmbito do actual QREN? É que, a não ser assim, corremos o risco de ter escolas novas ao lado de escolas que carecem de renovação."
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Manuela Melo (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Era melhor ter todas velhas?!"
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra a Sr.ª Deputada Ana Drago."
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 23,
+      "speaker": {
+        "id": 1161,
+        "name": "Ana Isabel Drago Lobato",
+        "party": "BE",
+        "string": "A Sr.ª Ana Drago (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Ministra, estou certa de que não é uma tarefa muito difícil definirmos algumas metas para este debate. E, provavelmente, a meta principal é que as posições políticas do Governo e das diferentes bancadas fiquem relativamente claras e que, portanto, a Sr.ª Ministra possa responder pela sua responsabilidade enquanto Ministra da Educação."
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra a Sr.ª Deputada Heloísa Apolónia."
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 24,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ª Ministra, vai desculpar-me a franqueza, mas a senhora faz monólogos muito interessantes, como todos tivemos oportunidade de ouvir. Às vezes não se percebe exactamente a quem se destinam, mas são monólogos interessantes. Para o diálogo, porém, julgo que a Sr.ª Ministra não está muito virada. É que o diálogo pressupõe que as pessoas consigam conversar, ou seja, fazem perguntas e respondem sobre as matérias perguntadas — assim se vão desenvolvendo os diálogos.\nOcorre que os Deputados colocam as questões que consideram pertinentes colocar no sentido de obterem respostas sobre a política educativa e a Sr.ª Ministra — naturalmente, de propósito; só pode ser propositadamente — passa completamente ao lado e não responde absolutamente a nada. E é assim que acaba por se verificar a nulidade autêntica de uma interpelação sobre uma questão importante, sobre a política educativa, e que, depois, bem espremida, dá em nada porque a Sr.ª Ministra da Educação não quer prestar contas ao Parlamento, quando as deve! Os Verdes colocaram uma questão concreta sobre a remodelação da rede escolar e a Sr.ª Ministra não respondeu! Os Verdes colocaram questões concretas sobre as equipas multidisciplinares e a Sr.ª Ministra não respondeu! Os Verdes, agora, querem realçar uma outra questão que esteve presente na primeira intervenção da Sr.ª Ministra: o respeito pelos professores e a dignificação da carreira docente. Como se a Sr.ª Ministra tivesse"
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.ª Deputada, peço-lhe que conclua."
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 25,
+      "speaker": {
+        "id": 1251,
+        "name": "Heloísa Augusta Baião De Brito Apolónia",
+        "party": "PEV",
+        "string": "A Sr.ª Heloísa Apolónia (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Ministério da Educação deve a estes professores contratados a abertura de um concurso para ingresso na carreira. O Ministério da Educação está devedor e tem de pagar! O Ministério da Educação tem de pagar aquilo que deve a estas pessoas que andam, há anos, numa insegurança absoluta, quando são essenciais nas nossas escolas. Isto é brincar com a educação, não é seriedade na educação, Sr.ª Ministra!"
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 25,
+      "speaker": {
+        "id": 1500,
+        "name": "José Luís Teixeira Ferreira",
+        "party": "PEV",
+        "string": "O Sr. José Luís Ferreira (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Secretário de Estado Adjunto e da Educação."
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 25,
+      "speaker": {
+        "id": 3082,
+        "name": "João Trocado Da Mata",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e da Educação (Alexandre Ventura)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Antes de mais, gostaria de afirmar, de uma maneira muito clara, que o respeito pelos docentes não é um exclusivo dos partidos da oposição. Longe disso!\nNinguém pugnará mais pela valorização do corpo docente, pela valorização das Sr.as e Srs. Educadores de Infância, das Sr.as e Srs. Professores do que o Ministério da Educação e a sua tutela.\nQuanto à questão específica colocada a propósito dos docentes contratados, naturalmente que o Ministério da Educação está sensível para a situação dos docentes contratados deste País; o Ministério da Educação reputa do maior valor o papel desempenhado por estes docentes no quadro do nosso sistema educativo e tudo fará para continuar a valorizar e a credibilizar ainda mais esse tipo de apoio e de trabalho no quadro do nosso sistema educativo.\nVou agora concentrar-me em três das matérias que foram objecto, esta tarde, de questões concretas apresentadas pelas Sr.as e Srs. Deputados.\nA primeira questão diz respeito à colocação de docentes. Aquilo que o Ministério da Educação sabe a propósito da colocação de docentes — e sabe bastante! — decididamente não corresponde à descrição aqui apresentada por algumas Sr.as Deputadas e por alguns Srs. Deputados.\nCom efeito, todo o processo de colocação de docentes neste ano lectivo decorreu com uma assinalável normalidade, congratulando-se o Ministério da Educação com isso. O Ministério congratula-se com todo o trabalho desempenhado pelas diversas instâncias, quer serviços centrais quer serviços regionais, para que fosse possível atingir esse objectivo.\nSenão vejamos: tivemos um concurso de colocação de professores atribulado, como a Sr.ª Ministra da Educação já teve oportunidade de referir, mas, apesar disso, apesar do mês de atraso a que toda a logística e"
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 26,
+      "speaker": {
+        "id": 1161,
+        "name": "Ana Isabel Drago Lobato",
+        "party": "BE",
+        "string": "A Sr.ª Ana Drago (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "São quantos?"
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 26,
+      "speaker": {
+        "id": 3082,
+        "name": "João Trocado Da Mata",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto e da Educação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Finalmente, uma palavra sobre a avaliação do desempenho de docentes.\nSobre esta avaliação, nem chegamos a perceber bem a questão colocada pelo CDS-PP, através do Sr. Deputado José Manuel Rodrigues, mas o que podemos partilhar com as Sr.as e os Srs. Deputados é que está tudo a decorrer dentro da normalidade. Tudo!"
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Paulo Portas."
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 27,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: Permita-me que lhe diga, Sr. Secretário de Estado, que bem se vê que compreendeu as perguntas que foram colocadas pelo CDS.\nQueria dizer à Sr.ª Ministra que não nos esquecemos da entrevista que deu ao jornal Expresso no início do Verão. É que, para nós, para além das questões estatutárias da educação, relevam questões de conteúdo da educação. E a Sr.ª Ministra disse no Expresso, adequada ou inadequadamente, que admitia terminar com os chumbos. Um mês depois, publicou metas de redução das retenções a aplicar pelas escolas, independentemente de serem escolas com elevado ou com baixo número de retenções.\nSr.ª Ministra, queria dizer-lhe que, como há-de compreender, contra o abandono escolar somos todos, pela redução do insucesso escolar somos todos; com o que não estamos de acordo é que quando há dois caminhos para reduzir o insucesso, ou seja, aumentar o conhecimento ou baixar a exigência, sistematicamente vemos muito mais notícias que se prendem com a baixa de exigência do que com o aumento do conhecimento dos alunos."
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Manuela Melo (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não é verdade!"
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 27,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se a Sr.ª Ministra aumentar a exigência, faz bem aos jovens e faz muito bem ao País; se a Sr.ª Ministra baixar a exigência, não faz bem nenhum aos jovens e prejudica seriamente o País quanto à sua competitividade, quanto à sua produtividade e quanto à empregabilidade da sua juventude."
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 27,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDP-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 27,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É por isso, Sr.ª Ministra, que lhe proponho um caminho, que é muito menos facilitista. Gostava, pois, de conhecer a sua opinião relativamente a duas propostas do CDS.\nEm relação à revisão curricular, por si anunciada, ainda não publicada, pergunto se a Sr.ª Ministra aceita ou não que o problema nuclear está em disciplinas como o Português e a Matemática. É aí que muitos alunos têm maior dificuldade em superar a exigência que é reclamada. Portanto, Sr.ª Ministra, a revisão curricular tem de apostar nestas disciplinas, não pode sobrecarregar horários e torna dispensáveis — é aqui que quero chegar — áreas não disciplinares como a área de projecto ou o estudo acompanhado, que, se somar os anos todos, são mais de 500 horas."
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 27,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 27,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Essas horas são necessárias ao Português e à Matemática e muitas vezes perdem-se em matérias abstractas ou demasiado vagas, como a área de projecto e como o estudo acompanhado, que não precisam de existir em todos os anos, todas as semanas, Sr.ª Ministra."
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 27,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDP-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 27,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A minha pergunta é, pois, a seguinte: na sua revisão curricular, aceitando nós que não é possível sobrecarregar horários, está disponível para investir naquilo que é nuclear — Português e Matemática? E esta disponível para rever o que tem a ver com estudo acompanhado e área de"
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 28,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em segundo lugar, Sr.ª Ministra, todos nós sabemos que há alunos que, reiteradamente, têm insucesso. Esses alunos não devem perder-se para o sistema escolar, porque o sistema escolar é a única oportunidade que, provavelmente, têm para superar condições desfavoráveis do seu contexto familiar ou do seu contexto económico.\nA minha pergunta é no sentido de saber se a Sr.ª Ministra está disponível para flexibilizar, antecipando, a opção pelo ensino profissional nos casos de insucesso escolar reiterado."
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 28,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Raquel Coelho."
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 28,
+      "speaker": {
+        "id": 2434,
+        "name": "Raquel Maria Martins De Oliveira Gomes Coelho",
+        "party": "PSD",
+        "string": "A Sr.ª Raquel Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: Sr.ª Ministra da Educação, tem sido apanágio de V. Ex.ª defender que a agenda política do seu Ministério vai de encontro às efectivas e reais necessidades do nosso país.\nEm matéria de educação, diz V. Ex.ª, bem como os seus demais directos colaboradores, que as questões não se podem tratar de forma linear e que estas questões complexas não podem ser medidas a régua e esquadro. Concordamos perfeitamente.\nA defesa da escola de qualidade assenta no princípio da igualdade de oportunidades. V. Ex.ª diz que assim é, está convicta de que assim seja e está expectante de que todos acreditemos.\nMas a realidade, Sr.ª Ministra, essa realidade com que a senhora é confrontada no quotidiano, quando tem vindo a inaugurar estes 100 centros escolares, também nós conhecemos de muitas e outras vertentes. Ela conta-nos uma história, com personagens que não são de ficção, que, não tendo voz, exigem de nós que façamos aqui testemunho dos seus problemas e junto de V. Ex.ª, sensibilizando-a na sua componente solidamente humana, para que desempenhe as funções e as exigências que uma Ministra da Educação tem de assumir no seu desempenho quotidiano.\nNaturalmente que estas situações são fruto de uma política cega, surda e muda.\nNa abertura deste ano lectivo, V. Ex.ª elencou grande tranquilidade. De facto, Sr.ª Ministra, todas as notas e todo o exercício que a senhora aqui desenvolveu para demonstrar o apreço pela escola pública e o apreço que o Ministério da Educação dá à educação em Portugal e à escola pública registaram um lapso, um lapso grave: nem um único apontamento, nem uma única declaração em relação aos alunos deficientes."
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 28,
+      "speaker": {
+        "id": 2235,
+        "name": "Manuel António Gonçalves Mota Da Silva",
+        "party": "PS",
+        "string": "O Sr. Manuel Mota (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que vocês querem é escola privada!"
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 28,
+      "speaker": {
+        "id": 2434,
+        "name": "Raquel Maria Martins De Oliveira Gomes Coelho",
+        "party": "PSD",
+        "string": "A Sr.ª Raquel Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Falo, naturalmente, do apoio especializado que falta aos alunos deficientes; falo da falta de tçcnicos, falo da falta de terapeutas,»"
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 28,
+      "speaker": {
+        "id": 2404,
+        "name": "Maria Da Conceição Guerreiro Casa Nova",
+        "party": "PS",
+        "string": "A Sr.ª Conceição Casa Nova (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é verdade!"
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 28,
+      "speaker": {
+        "id": 2434,
+        "name": "Raquel Maria Martins De Oliveira Gomes Coelho",
+        "party": "PSD",
+        "string": "A Sr.ª Raquel Coelho (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» falo da falta que o Ministçrio da Educação tem vindo a assumir. E, já que falamos em psicólogos, devo dizer-lhe, Sr.ª Ministra, que só na zona Norte faltam 90 psicólogos em 90 agrupamentos, uma redução de 50%. Falo, concretamente dos centros de recurso para a inclusão, nomeadamente das CERCIS, Sr.ª Ministra, que, tendo protocolo com o Ministério da Educação e tendo o aval e o consentimento da Direcção-Geral de Inovação e Desenvolvimento Curricular, têm vindo a falhar neste apoio.\nO funcionamento desses centros, Sr.ª Ministra, está regulamentado por uma portaria que, pese embora a publicação do Decreto-Lei n.º 3/2008, se mantém em vigor e determina o modo de funcionamento e de apoios aos alunos com multideficiências. As deficiências são várias, Sr.ª Ministra. Não precisamos só de psicólogos,"
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Pedro Mota Soares."
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 29,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: Sr.ª Ministra, achei espantoso que, no seu discurso, de 10 minutos, nem por uma vez falou de um tema essencial para o nosso sistema educativo, que é o da liberdade de escolha."
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 29,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ah!"
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 29,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Hoje, só existe verdadeira liberdade de escolha para as famílias que têm rendimento. Os que não têm recursos para pôr os seus filhos numa escola social, cooperativa ou privada — e são a grande maioria — , esses, só têm uma escolha, que é a de porem os seus filhos na escola da residência, seja a escola boa ou má,»"
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 29,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem lembrado!"
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 29,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» concordem ou não com o projecto educativo.\nSinceramente, Sr.ª Ministra, nesta interpelação, gostava de perceber como é que a liberdade de escolha é encarada por este Governo. E quando falo em liberdade de escolha, não falo só da liberdade de escolha entre o ensinos público e privado, mas falo também da liberdade de escolha que as famílias têm de ter dentro do sistema público."
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 30,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem! Claro!"
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 30,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Ministra, o Governo pode estabelecer com as escolas públicas contratos de autonomia que permitam consagrar plenamente a autonomia de um projecto educativo próprio para uma escola pública."
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 30,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 30,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Diga-me, Sr.ª Ministra, quantos contratos novos, quantas escolas mais tiveram acesso a estes contratos desde que a senhora é Ministra."
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 30,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Bem perguntado!"
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 30,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Segunda questão: as escolas dos sectores social, cooperativo e público podem ter contratos simples que permitem a alunos que têm menores recursos poderem estudar nestas escolas.\nDiga-me, Sr.ª Ministra, desde que chegou ao Governo, quantos contratos novos, quantos alunos mais podem aceder a escolas não públicas com base nestes contratos. Diga-me de uma forma muito directa, Sr.ª Ministra! Terceira questão: a Sr.ª Ministra falou hoje muitas vezes em 100 novas escolas que foram inauguradas, descontando, porventura, as 701 que foram encerradas. Só que a Sr.ª Ministra é titular da Educação, não é Ministra das Obras Públicas!"
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 166,
+      "order": 166,
+      "page_start": 30,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É por isso que eu gostava que me desse, hoje, uma boa razão para que, nestes 100 casos, não tenha havido um único em que o Governo tenha feito um contrato de associação com as escolas dos sectores social, cooperativo ou privado, que também têm instalações, que também têm condições e que, curiosamente, até muitas vezes têm melhores resultados nos rankings da educação.\nIsto permite, Sr.ª Ministra, que o Estado poupe no que é a construção, no que é o equipamento, no que é a instalação e que o Estado pague, tão-só e exclusivamente, o que foi protocolado, não pagando o que é desperdício, o que é falta ou o que é má gestão.\nDê-me uma boa razão, Sr.ª Ministra, para que isto aconteça. Por que é que isto acontece? Estas escolas têm peçonha? Há um preconceito ideológico?"
+    },
+    {
+      "utterance_id": 167,
+      "order": 167,
+      "page_start": 30,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 168,
+      "order": 168,
+      "page_start": 30,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ou será porque, porventura, nestas escolas é mais difícil ter sistematicamente ministros ou secretários de Estado a inaugurá-las?!"
+    },
+    {
+      "utterance_id": 169,
+      "order": 169,
+      "page_start": 30,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado José Moura Soeiro."
+    },
+    {
+      "utterance_id": 170,
+      "order": 170,
+      "page_start": 31,
+      "speaker": {
+        "id": 2062,
+        "name": "José Borges De Araújo De Moura Soeiro",
+        "party": "BE",
+        "string": "O Sr. José Moura Soeiro (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Secretários de Estado, Sr.as e Srs. Deputados, Sr.ª Ministra, ao contrário do CDS-PP, não vou falar-lhe de negócios mas de educação.\nE, porque o Sr. Secretário de Estado se levantou para falar do respeito pelos profissionais e para invocar que o Governo também tem respeito pelos profissionais, gostava de citar uma pessoa, que certamente a Sr.ª Ministra e o Sr. Secretário de Estado conhecem muito bem, que dizia: «os professores das áreas de enriquecimento curricular (AEC) têm um estatuto inferior.» Essa mesma pessoa — continuo a citar — dizia: «o seu salário»«, o desses professores, «» ç mais baixo, o seu contrato ç a termo, de um mês a um ano, e muitas vezes são alvo de constrangimentos burocráticos, como atrasos no pagamento de salários». Fim de citação! Quem disse e escreveu estas palavras foi, precisamente, o Sr. Secretário de Estado Alexandre Ventura.\nEstará recordado disso, certamente.\nQuero trazer ao debate algo que a Sr.ª Ministra e o Sr. Secretário de Estado certamente conhecem e que tem que ver com uma das medidas mais emblemáticas do Governo e que hoje foi também aqui invocada pela Sr.ª Ministra, que é a escola a tempo inteiro.\nVou, então, dar conta de um contrato de um professor das AEC e ler um dos artigos desse contrato.\nPrimeiro ponto: «O presente contrato não confere ao segundo contraente»«, leia-se: o professor, «» a qualidade de trabalhador, funcionário ou agente da primeira contraente.», leia-se: a escola onde ele trabalha.\nSegundo ponto: «Em consequência do convencionado no n.º 1 desta cláusula, o segundo contraente»«, o professor, «» não tem direito a fçrias, subsídio de fçrias e de Natal, subsídio de refeição ou quaisquer outros subsídios ou prestações complementares, nem há lugar a descontos para a segurança social.» Isto, Sr. Secretário de Estado e Sr.ª Ministra, é desrespeito!"
+    },
+    {
+      "utterance_id": 171,
+      "order": 171,
+      "page_start": 31,
+      "speaker": {
+        "id": 2061,
+        "name": "José Manuel Marques Da Silva Pureza",
+        "party": "BE",
+        "string": "O Sr. José Manuel Pureza (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 172,
+      "order": 172,
+      "page_start": 31,
+      "speaker": {
+        "id": 2062,
+        "name": "José Borges De Araújo De Moura Soeiro",
+        "party": "BE",
+        "string": "O Sr. José Moura Soeiro (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E são mais de 15 000 os professores das AEC, da escola a tempo inteiro, que estão a trabalhar nestas condições. É desrespeito, Sr.ª Ministra e Sr. Secretário de Estado!\nEstamos a falar de pessoas que recebem entre 6 a 12 € por hora e por cada aula, que não recebem o dinheiro se têm que ir às reuniões. Um terço destas pessoas trabalha em mais de três escolas e recebe, em média, 350 €, sem nenhumas condições e sem serem, sequer, respeitadas como profissionais, que são, da escola pública. Não são respeitadas em coisas tão simples como a possibilidade de poder comer na cantina da escola onde trabalham, como qualquer outro funcionário."
+    },
+    {
+      "utterance_id": 173,
+      "order": 173,
+      "page_start": 31,
+      "speaker": {
+        "id": 2061,
+        "name": "José Manuel Marques Da Silva Pureza",
+        "party": "BE",
+        "string": "O Sr. José Manuel Pureza (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 174,
+      "order": 174,
+      "page_start": 31,
+      "speaker": {
+        "id": 2062,
+        "name": "José Borges De Araújo De Moura Soeiro",
+        "party": "BE",
+        "string": "O Sr. José Moura Soeiro (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Ministra, este é um exemplo do pior que existe na relação do Estado com as pessoas e no respeito pelos profissionais. E isto tem consequências, não apenas para aqueles profissionais mas também para as crianças na sua estabilidade emocional nas turmas, bem como na qualidade pedagógica do trabalho que é feito. Há turmas que têm mais de seis professores, porque eles vão saindo, pois ninguém aguenta estas condições.\nÉ por isso que eu gostava de perceber — porque falamos de respeito — por que razão o Governo insiste em recusar a proposta do Bloco de Esquerda no sentido de respeitar os precários e de integrar e celebrar contrato com estes professores das áreas de enriquecimento curricular."
+    },
+    {
+      "utterance_id": 175,
+      "order": 175,
+      "page_start": 31,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Michael Seufert."
+    },
+    {
+      "utterance_id": 176,
+      "order": 176,
+      "page_start": 31,
+      "speaker": {
+        "id": 2251,
+        "name": "Michael Lothar Mendes Seufert",
+        "party": "CDS-PP",
+        "string": "O Sr. Michael Seufert (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, Srs. Membros do Governo, Sr.ª Ministra, no final do debate, ainda falta responder a algumas questões que aqui deixámos."
+    },
+    {
+      "utterance_id": 177,
+      "order": 177,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 178,
+      "order": 178,
+      "page_start": 32,
+      "speaker": {
+        "id": 2251,
+        "name": "Michael Lothar Mendes Seufert",
+        "party": "CDS-PP",
+        "string": "O Sr. Michael Seufert (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas, Sr.ª Ministra, explique-nos, ainda, o seguinte: num momento em que o País precisa de poupar dinheiro, num momento em que é exigido às famílias um esforço suplementar, num momento em que o seu Governo corta nas despesas da educação, despesas essas que as pessoas podem deduzir em sede de IRS, por que razão a bancada que sustenta o seu Governo votou contra, nesta Câmara, o projecto que permitiria que aqueles alunos que recebem os seus manuais escolares de forma gratuita por via da acção social escolar os pudessem voltar a entregar no final do ano lectivo, constituindo-se, com esses manuais, uma bolsa de empréstimo para, no ano seguinte, esses manuais serem reaproveitados pela mesma escola e reutilizados, o que se pouparia?\nDeste modo, Sr.ª Ministra, pouparíamos dinheiro às famílias, porque mesmo as não carenciadas poderiam também recorrer a essa bolsa; às escolas, porque estas poderiam contribuir para essa bolsa; ao Estado central e ao seu Ministério, porque deixaria de pagar, através da acção social escolar, esses mesmos manuais.\nSr.ª Ministra, porque até agora não teve uma única palavra, tenha-a agora connosco e responda às perguntas, que já fizemos, em relação aos alunos, aos pais e às famílias que têm filhos com necessidades educativas especiais. Não custa muito. Guarde 30 segundos do seu discurso."
+    },
+    {
+      "utterance_id": 179,
+      "order": 179,
+      "page_start": 32,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Secretário de Estado da Educação."
+    },
+    {
+      "utterance_id": 180,
+      "order": 180,
+      "page_start": 32,
+      "speaker": {
+        "id": 3082,
+        "name": "João Trocado Da Mata",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado da Educação (João Trocado da Mata)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Começo a minha intervenção pelo reordenamento da rede escolar.\nO esforço que o País faz nesta matéria, a da requalificação do seu parque escolar, é ímpar e sem precedentes, é um esforço que envolve cerca de 1000 escolas de todos os níveis e ciclos de ensino. Em articulação com as câmaras municipais, estamos a construir 600 centros escolares. São escolas de uma nova geração. São escolas com biblioteca, com refeitório, com espaços com para a prática desportiva, com recursos informáticos e tecnológicos, com Internet na sala de aula, com computadores, com videoprojectores, com quadros interactivos. São escolas que permitem a concretização das actividades de enriquecimento curricular do ensino do inglês, da música, da prática desportiva, do estudo acompanhado. São escolas, de facto, de uma nova geração."
+    },
+    {
+      "utterance_id": 181,
+      "order": 181,
+      "page_start": 33,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Sr. Miguel Tiago (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Isso também se passa aqui, em Lisboa!"
+    },
+    {
+      "utterance_id": 182,
+      "order": 182,
+      "page_start": 33,
+      "speaker": {
+        "id": 3082,
+        "name": "João Trocado Da Mata",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado da Educação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» escolas que promovem o isolamento profissional dos professores, escolas que promovem o insucesso escolar,»\n» escolas que não permitem a igualdade de oportunidades de acesso á educação.\nÉ disto que estamos a falar. Estamos a falar destas escolas e da possibilidade de a escola poder continuar a cumprir a sua missão principal: reduzir as desigualdades sociais, de partida, dos alunos.\nNão queremos uma escola que reproduza as desigualdades sociais. Queremos uma escola que permita reduzir as desigualdades, que se constitua como o veículo para o desenho de trajectórias sociais ascendentes.\nÉ desta escola que estamos a falar, e estamos a ser consequentes.\nNo que respeita aos apoios sociais, o Governo toma boa nota das preocupações do CDS e diz o seguinte: é preciso passar da retórica à acção!\nEm 2004-2005,»"
+    },
+    {
+      "utterance_id": 183,
+      "order": 183,
+      "page_start": 33,
+      "speaker": {
+        "id": 2251,
+        "name": "Michael Lothar Mendes Seufert",
+        "party": "CDS-PP",
+        "string": "O Sr. Michael Seufert (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Cinco anos de Governo!"
+    },
+    {
+      "utterance_id": 184,
+      "order": 184,
+      "page_start": 33,
+      "speaker": {
+        "id": 3082,
+        "name": "João Trocado Da Mata",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado da Educação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente! Cinco anos de Governo! Em 2004-2005, tínhamos 200 000 beneficiários da acção social escolar. Temos, hoje, 500 000 beneficiários. Repito, 500 000 beneficiários!"
+    },
+    {
+      "utterance_id": 185,
+      "order": 185,
+      "page_start": 33,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tínhamos!"
+    },
+    {
+      "utterance_id": 186,
+      "order": 186,
+      "page_start": 33,
+      "speaker": {
+        "id": 3082,
+        "name": "João Trocado Da Mata",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado da Educação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não são mais 100 ou 300 beneficiários; são mais 300 000 beneficiários da acção social escolar. É preciso que fique claro que 300 000 alunos passaram a ter acesso aos apoios e aos auxílios económicos."
+    },
+    {
+      "utterance_id": 187,
+      "order": 187,
+      "page_start": 33,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr.as e Srs. Deputados, não havendo mais inscrições para pedidos de esclarecimento, passamos ao período de intervenções.\nTem a palavra o Sr. Deputado Bravo Nico."
+    },
+    {
+      "utterance_id": 188,
+      "order": 188,
+      "page_start": 34,
+      "speaker": {
+        "id": 2179,
+        "name": "José Carlos Bravo Nico",
+        "party": "PS",
+        "string": "O Sr. Bravo Nico (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as Deputadas e Srs. Deputados: Há cerca de 218 anos, mais concretamente a 20 e 21 de Abril de 1792 (menos de 3 anos após a Tomada da Bastilha), Marie-Jean Antoine Nicolas de Caritat (Marquês de Condorcet), Deputado na então Assembleia Nacional Legislativa francesa, apresenta, a essa Câmara, um projecto de organização geral da instrução pública, que ficou conhecido como Relatório Condorcet.\nO documento que, na época, vertia para o campo da educação os ideais iluministas que serviram de farol ao processo revolucionário apontava, há 200 anos, para a criação de uma escola pública, universal, laica, gratuita e tolerante para todos e em todos os níveis. Uma escola que disponibilizasse, a todos os cidadãos, em circunstâncias de equidade, uma instrução pública, entendida, à época, como condição necessária e essencial da cidadania e da liberdade."
+    },
+    {
+      "utterance_id": 189,
+      "order": 189,
+      "page_start": 34,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E, ao fim de 200 anos, o PS ainda não se apercebeu disso!"
+    },
+    {
+      "utterance_id": 190,
+      "order": 190,
+      "page_start": 34,
+      "speaker": {
+        "id": 2179,
+        "name": "José Carlos Bravo Nico",
+        "party": "PS",
+        "string": "O Sr. Bravo Nico (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se, no final do século XVIII, a afirmação do direito à instrução para todos e em todos os níveis era já um princípio verdadeiramente revolucionário, hoje, Sr. Presidente, Sr.as e Srs. Deputados, mais de 200 anos depois desse momento fundador e 100 anos após a implantação da República em Portugal, este princípio continua a ser uma profunda raiz axiológica do pensamento político democrático e republicano, qualquer que seja a geografia ideológica em que nos posicionemos."
+    },
+    {
+      "utterance_id": 191,
+      "order": 191,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 192,
+      "order": 192,
+      "page_start": 34,
+      "speaker": {
+        "id": 2179,
+        "name": "José Carlos Bravo Nico",
+        "party": "PS",
+        "string": "O Sr. Bravo Nico (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Passados 218 anos do Relatório Condorcet, aqui estamos, hoje, dia 7 de Outubro, nesta Assembleia da República, em Portugal, a posicionar-nos perante aquilo que entendemos e defendemos como sendo a escola pública. Uns e outros, com diferentes pensamentos e diferentes práticas do que é, hoje, e deve ser, no futuro, a escola pública."
+    },
+    {
+      "utterance_id": 193,
+      "order": 193,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 194,
+      "order": 194,
+      "page_start": 34,
+      "speaker": {
+        "id": 2179,
+        "name": "José Carlos Bravo Nico",
+        "party": "PS",
+        "string": "O Sr. Bravo Nico (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: A presente interpelação ao Governo, suscitada pelo CDS-PP, convoca-nos — não tenhamos qualquer dúvida — não para as questões do quotidiano mas, sim e principalmente, para um debate político da maior relevância. Um debate que — pese embora se torne visível, e por vezes se deixe aprisionar, pelas circunstâncias de um quotidiano em que os problemas e os desafios são permanentes — nasce nas mais firmes convicções da ideia de sociedade que defendemos e do papel que, nessa sociedade, uma escola pública, laica e republicana deve desempenhar, como garantia do exercício dos mais basilares direitos de cidadania: o direito à educação, em condições de equidade, como requisito indispensável para a existência de uma efectiva igualdade de oportunidades, no exercício de todos os direitos e de todos os deveres de uma cidadania livre e plural.\nPermita-me, pois, Sr. Presidente, que me dirija, imediatamente, à apresentação das nossas coordenadas, axiológica e ideológica, neste debate político, que se traduzem em três princípios muito simples.\nPrimeiro princípio: o Partido Socialista defende uma escola pública universal, que garanta, a todos e durante toda a vida, equidade no acesso e nas condições de sucesso durante os respectivos percursos de aprendizagem."
+    },
+    {
+      "utterance_id": 195,
+      "order": 195,
+      "page_start": 34,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 196,
+      "order": 196,
+      "page_start": 34,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Sr. Miguel Tiago (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Conversa!"
+    },
+    {
+      "utterance_id": 197,
+      "order": 197,
+      "page_start": 35,
+      "speaker": {
+        "id": 2179,
+        "name": "José Carlos Bravo Nico",
+        "party": "PS",
+        "string": "O Sr. Bravo Nico (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Este é o nosso farol ideológico, tem sido este o nosso discurso e, principalmente e mais importante, tem sido esta a nossa prática que tem materializado o nosso discurso e o nosso pensamento."
+    },
+    {
+      "utterance_id": 198,
+      "order": 198,
+      "page_start": 35,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 199,
+      "order": 199,
+      "page_start": 35,
+      "speaker": {
+        "id": 2179,
+        "name": "José Carlos Bravo Nico",
+        "party": "PS",
+        "string": "O Sr. Bravo Nico (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Segundo princípio: o Partido Socialista defende uma escola pública de qualidade, que garanta a disponibilização de um serviço público de máxima qualidade a todos e durante toda a vida, independentemente do local onde residam, da respectiva condição cultural, social ou económica, ou das circunstâncias físicas ou psicológicas de que sejam portadores.\nTerceiro e último princípio: o Partido Socialista defende uma escola pública eficiente, rigorosa e responsável, que promova a boa utilização dos recursos públicos colocados à sua disposição e assegure os máximos resultados, em termos das aprendizagens concretizadas e do impulso provocado no desenvolvimento humano, social, cultural e económico de Portugal.\nSão estes, Sr. Presidente, Sr.as e Srs. Deputados, os faróis ideológicos que nos têm iluminado o caminho, particularmente nos últimos seis anos, período no qual o povo português nos conferiu, democraticamente, a legitimidade e a responsabilidade para governar o nosso País. E é esta, Sr. Presidente, Sr.as e Srs. Deputados, a obra que temos edificado, uma obra com muitas e complexas frentes de obra. Permitam-me que destaque, aqui, aquelas que considero serem as principais frentes desta obra pública, actualmente em marcha, na escola pública portuguesa.\nHoje foi aqui dito, Sr. Presidente, que a Sr.ª Ministra da Educação não é Ministra das Obras Públicas. É uma meia-verdade, Sr. Deputado Pedro Mota Soares; mas também é uma meia-mentira, porque quem diz isto, se tem razão no plano formal, não a tem no plano da realidade, porque a maior obra pública, hoje em curso no nosso País, é a obra da qualificação dos portugueses que o PS está a fazer.\nSr. Presidente, Sr.as e Srs. Deputados: Quando se decide implementar o maior alargamento, das últimas décadas, na rede de salas de educação pré-escolar, promovendo a universalidade do acesso a todas as crianças com cinco anos de idade a este nível de educação, é porque se acredita que a escola pública é mesmo decisiva na garantia efectiva da igualdade de oportunidades.\nQuando se decide implementar a escola a tempo inteiro, tornando universal e gratuito o acesso a uma aprendizagem qualificada e a tempo inteiro, no 1.º ciclo do ensino básico, enriquecida com a iniciação da língua inglesa, o reforço das aprendizagens na música, nas actividades físicas e desportivas ou no apoio ao estudo, é porque se acredita que a escola pública deve proporcionar, a todos, gratuita e universalmente, um serviço público de qualidade e referencial.\nQuando se decide promover o maior alargamento de que há memória no apoio social escolar, triplicando, como já foi referido, o número de beneficiários, é porque se acredita na solidariedade social como factor fundamental de retaguarda no acesso e frequência da escola pública.\nQuando se decide democratizar e qualificar o acesso à tecnologia e ao ensino especializado das artes, é porque se acredita que todos, sem excepção, devem dispor de todas as ferramentas indispensáveis ao desenvolvimento do seu potencial.\nQuando se decide construir e implementar um programa de educação de adultos e de diversificação das ofertas formativas, ao nível do ensino secundário, que trouxe de regresso à escola mais de 1 milhão de adultos e cerca de 40 000 jovens que a haviam abandonado, sem concluir o ensino secundário, é porque"
+    },
+    {
+      "utterance_id": 200,
+      "order": 200,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 201,
+      "order": 201,
+      "page_start": 36,
+      "speaker": {
+        "id": 2179,
+        "name": "José Carlos Bravo Nico",
+        "party": "PS",
+        "string": "O Sr. Bravo Nico (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quando se decide promover uma descentralização de competências, o estabelecimento de parcerias com autarquias e sociedade civil, o envolvimento das comunidades locais ou a promoção da capacidade endógena das escolas, é porque acreditamos nos valores da cooperação e da autonomia, como elemento estruturante de uma escola pública que é construída por todos e destinada a todos.\nQuando se decide dignificar os professores e os educadores, estabilizando a sua situação profissional, valorizando o respectivo estatuto e proporcionando-lhes as melhores condições físicas e materiais para um bom exercício da sua profissão, é porque acreditamos nos professores e educadores, como verdadeiros funcionários públicos que prestam um serviço público de enorme relevo, numa escola pública de qualidade e de rigor.\nQuando se decide promover a maior requalificação infra-estrutural de sempre nas escolas, através da construção de mais de 300 salas de educação pré-escolar, de mais de 500 centros escolares, de mais de 300 escolas secundárias e mais de 500 centros Novas Oportunidades — naquela que é a maior frente de obra em educação, em todo o mundo — , é porque acreditamos, de facto, na escola pública!\nSr. Presidente, Sr.as e Srs. Deputados: Hoje, 218 anos após a apresentação do Relatório Condorcet à Assembleia Nacional Legislativa francesa, o ideal da escola pública continua vivo e aqui estamos, em Portugal, a defendê-lo e a materializá-lo, através da melhor estratégia que conhecemos: qualificar e dignificar a escola pública.\nTemos a consciência do que ainda falta fazer e do grande caminho que teremos ainda que percorrer. Mas estamos muito orgulhosos da obra que temos feito na escola pública: hoje, 100 anos após a implantação da República, aí está a escola pública a reerguer-se, a dignificar-se e a qualificar-se, prestando um serviço público de qualidade a todos os portugueses.\nUma escola pública revigorada, dinâmica e atenta, no que respeita às necessidades de um País que se desenvolve; uma escola pública sensível e inclusiva, relativamente a todos e às respectivas circunstâncias individuais; uma escola aberta e interactiva, com uma comunidade humana que, hoje, é planetária e multicultural; uma escola pública republicana, laica e universal, tal como a Revolução Francesa a forjou, tal como a República (nascida em 5 de Outubro de 1910) a sonhou e tal como aqueles que nos antecederam nesta Casa (os Constituintes da liberdade) a escreveram na Constituição da República Portuguesa."
+    },
+    {
+      "utterance_id": 202,
+      "order": 202,
+      "page_start": 36,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 203,
+      "order": 203,
+      "page_start": 37,
+      "speaker": {
+        "id": 2179,
+        "name": "José Carlos Bravo Nico",
+        "party": "PS",
+        "string": "O Sr. Bravo Nico (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Esta é, Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados, a escola pública que está na Constituição da República Portuguesa. E esta é, Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados, a escola pública que deve continuar a estar na Constituição da República Portuguesa, porque esta é a escola que garante, como mais nenhuma alguma vez garantiu, o verdadeiro e efectivo exercício do direito à educação, como infra-estrutura básica para o pleno exercício dos direitos de cidadania, da democracia e da liberdade."
+    },
+    {
+      "utterance_id": 204,
+      "order": 204,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveram-se dois Srs. Deputados para pedir esclarecimentos.\nTem a palavra, em primeiro lugar, o Srs. Deputado Pedro Duarte."
+    },
+    {
+      "utterance_id": 205,
+      "order": 205,
+      "page_start": 37,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Bravo Nico, quero fazer-lhe uma pergunta muito simples, suscitada pela sua intervenção. Diria que é uma espécie de teste à consistência e à coerência políticas do Partido Socialista.\nO Partido Socialista descobriu recentemente a apologia retórica — e friso bem, retórica — da escola pública. Vou citar uma frase e vou perguntar ao Sr. Deputado se concorda ou não com ela e, no caso de concordar, como é que a compagina com a intervenção que fez.\nA frase é a seguinte: «Concretizando a determinação de que ao Estado compete apoiar as famílias no exercício dos seus direitos e no cumprimento dos seus deveres relativamente à educação dos filhos, promovendo progressivamente»« — repito, promovendo progressivamente — «» o acesso ás escolas particulares em condições de igualdade com as públicas, o Ministério da Educação continua a apoiar as famílias que optam por estabelecimentos de ensino particular e cooperativo».\nConhece esta frase, Sr. Deputado? Ela consta de um despacho do Governo, de um documento oficial deste Governo, assinado pelo Secretário de Estado do Emprego e da Formação Profissional e ex-Secretário de Estado da Educação, Valter Lemos, em 2009.\nConcorda ou não com esta frase, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 206,
+      "order": 206,
+      "page_start": 37,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado José Manuel Rodrigues."
+    },
+    {
+      "utterance_id": 207,
+      "order": 207,
+      "page_start": 37,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Bravo Nico, o Sr. Deputado pôs uma grande ênfase na escola republicana. Isso lembra-me, Sr. Deputado, a história da ética republicana: a escola é a escola, é para ensinar e para aprender, e a ética não tem, obviamente, nem cor política, nem regime.\nSr. Deputado, quero colocar-lhe três questões muito concretas.\n\nO Sr. Deputado defende a escola pública — eu também. Então, por que é que o Partido Socialista, na sexta-feira passada, votou contra a criação nas escolas de bolsas de empréstimo de manuais e livros escolares? É que isso iria permitir uma grande poupança às famílias e responsabilizar os alunos e as próprias escolas."
+    },
+    {
+      "utterance_id": 208,
+      "order": 208,
+      "page_start": 37,
+      "speaker": {
+        "id": 1542,
+        "name": "Luís Pedro Russo Da Mota Soares",
+        "party": "CDS-PP",
+        "string": "O Sr. Pedro Mota Soares (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 209,
+      "order": 209,
+      "page_start": 37,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A segunda questão, Sr. Deputado, tem a ver com a sua opinião, que presumo seja a mesma do Governo, sobre as aulas de 90 minutos, que uma grande parte dos professores contesta. Acha ou não que é de rever esta questão das aulas, por elas se revelarem ineficientes e não produtivas para os alunos e para os professores?"
+    },
+    {
+      "utterance_id": 210,
+      "order": 210,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Deputado Bravo Nico."
+    },
+    {
+      "utterance_id": 211,
+      "order": 211,
+      "page_start": 38,
+      "speaker": {
+        "id": 2179,
+        "name": "José Carlos Bravo Nico",
+        "party": "PS",
+        "string": "O Sr. Bravo Nico (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputado Pedro Duarte, agradeço a questão tipo teste americano que me colocou. De facto, essa pergunta, da maneira como a colocou, quase que permite apenas uma resposta de «sim» ou «não»."
+    },
+    {
+      "utterance_id": 212,
+      "order": 212,
+      "page_start": 38,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 213,
+      "order": 213,
+      "page_start": 38,
+      "speaker": {
+        "id": 2179,
+        "name": "José Carlos Bravo Nico",
+        "party": "PS",
+        "string": "O Sr. Bravo Nico (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas, obviamente, não vou responder-lhe «sim« ou «não«,»"
+    },
+    {
+      "utterance_id": 214,
+      "order": 214,
+      "page_start": 38,
+      "speaker": {
+        "id": 1184,
+        "name": "Bernardino José Torrão Soares",
+        "party": "PCP",
+        "string": "O Sr. Bernardino Soares (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Porquê?"
+    },
+    {
+      "utterance_id": 215,
+      "order": 215,
+      "page_start": 38,
+      "speaker": {
+        "id": 2179,
+        "name": "José Carlos Bravo Nico",
+        "party": "PS",
+        "string": "O Sr. Bravo Nico (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» porque tambçm não a entendo como uma resposta que seja adequada á expectativa que gerou a sua questão.\nNão conheço o contexto em que essa afirmação foi produzida, mas devo dizer-lhe o seguinte: em primeiro lugar, no nosso sistema educativo, convivem pacificamente escolas públicas com escolas privadas, com escolas cooperativas, com instituições de natureza social, e todas as instituições com quem o Estado tem protocolos ou contratos têm dado o seu contributo muito decisivo para a promoção da educação e da qualificação dos portugueses. Não é isso que está em causa e nós defendemos isso. O que não defendemos nem nunca defenderemos é que a escola pública, aquela que é de todos, deixe de ser a escola que seja a referência de qualidade e a opção para todas as famílias e para todos os jovens."
+    },
+    {
+      "utterance_id": 216,
+      "order": 216,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 217,
+      "order": 217,
+      "page_start": 38,
+      "speaker": {
+        "id": 2179,
+        "name": "José Carlos Bravo Nico",
+        "party": "PS",
+        "string": "O Sr. Bravo Nico (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Queremos que a escola pública seja uma escola de extrema qualidade, referencial no sistema público de qualificação e verdadeiramente uma opção não só para a criança da família mais pobre deste país como para a criança da família mais rica deste país. É essa a nossa ambição, ou seja, que a escola pública possa servir todos em igualdade de circunstâncias e com a máxima qualidade."
+    },
+    {
+      "utterance_id": 218,
+      "order": 218,
+      "page_start": 38,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 219,
+      "order": 219,
+      "page_start": 38,
+      "speaker": {
+        "id": 2179,
+        "name": "José Carlos Bravo Nico",
+        "party": "PS",
+        "string": "O Sr. Bravo Nico (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Relativamente à nossa apologia retórica, permita-me que lhe diga, Sr. Deputado, que a sua distracção é evidente, porque, nos últimos seis anos, o que temos feito de obra pública, não só em termos de betão mas de qualificação dos portugueses, é uma obra de que não há memória que tenha sido feita.\nSe o Sr. Deputado não reparou, não observou, não notou que hoje as escolas têm mais 1,2 milhões de alunos do que tinham há seis anos,»"
+    },
+    {
+      "utterance_id": 220,
+      "order": 220,
+      "page_start": 39,
+      "speaker": {
+        "id": 2110,
+        "name": "Miguel Tiago Crispim Rosado",
+        "party": "PCP",
+        "string": "O Sr. Miguel Tiago (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O quê?! Que disparate!"
+    },
+    {
+      "utterance_id": 221,
+      "order": 221,
+      "page_start": 39,
+      "speaker": {
+        "id": 2179,
+        "name": "José Carlos Bravo Nico",
+        "party": "PS",
+        "string": "O Sr. Bravo Nico (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» que hoje as escolas estão todas em processo de requalificação, que hoje os portugueses voltaram a acreditar na sua escola pública, é porque o Sr. Deputado está bastante afastado da realidade educativa do nosso país."
+    },
+    {
+      "utterance_id": 222,
+      "order": 222,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 223,
+      "order": 223,
+      "page_start": 39,
+      "speaker": {
+        "id": 2179,
+        "name": "José Carlos Bravo Nico",
+        "party": "PS",
+        "string": "O Sr. Bravo Nico (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado José Manuel Rodrigues, agradeço também as questões que me coloca.\nRelativamente ao tempo e ao período de duração das aulas, penso que essa é uma matéria que as escolas deverão ponderar na sua organização interna. Se há ciclos de ensino onde há aulas com mais de 90 minutos e são aulas produtivas e com eficácia — é o caso do 1.º ciclo do ensino básico — , há outros níveis de ensino, noutras áreas disciplinares, em que isso não é verdade. Penso que essa deve ser uma matéria, como muitas, que hoje devemos pôr à consideração das escolas, para que sejam elas, em cada contexto, com os seus alunos, com as suas circunstâncias didácticas, a decidir qual a organização do tempo cronológico que melhor se adequa para a prossecução das suas finalidades."
+    },
+    {
+      "utterance_id": 224,
+      "order": 224,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 225,
+      "order": 225,
+      "page_start": 39,
+      "speaker": {
+        "id": 2179,
+        "name": "José Carlos Bravo Nico",
+        "party": "PS",
+        "string": "O Sr. Bravo Nico (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em relação ao apoio social escolar, Sr. Deputado, em 2008 houve a publicação de um despacho que, como já foi aqui referido, aumentou consideravelmente o universo de famílias abrangidas por apoio social,»"
+    },
+    {
+      "utterance_id": 226,
+      "order": 226,
+      "page_start": 39,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Agora baixa!"
+    },
+    {
+      "utterance_id": 227,
+      "order": 227,
+      "page_start": 39,
+      "speaker": {
+        "id": 2179,
+        "name": "José Carlos Bravo Nico",
+        "party": "PS",
+        "string": "O Sr. Bravo Nico (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» permitindo-lhes fazer com que os seus filhos tenham acesso em condições de igualdade não só na escola pública mas em toda a rede pública de qualificação e que essas crianças e esses jovens tenham verdadeiras condições para frequentar a escola com probabilidade de sucesso."
+    },
+    {
+      "utterance_id": 228,
+      "order": 228,
+      "page_start": 39,
+      "speaker": {
+        "id": 2230,
+        "name": "José Manuel De Sousa Rodrigues",
+        "party": "CDS-PP",
+        "string": "O Sr. José Manuel Rodrigues (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Agora baixa!"
+    },
+    {
+      "utterance_id": 229,
+      "order": 229,
+      "page_start": 39,
+      "speaker": {
+        "id": 2179,
+        "name": "José Carlos Bravo Nico",
+        "party": "PS",
+        "string": "O Sr. Bravo Nico (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se me pergunta se é necessário, ao nível das políticas sociais, verificar as condições de elegibilidade de todas as famílias, no sentido de aferir, de facto, quais as que necessitam deste apoio e quais as que não necessitam dele, para que os recursos que temos possam ser alocados onde verdadeiramente fazem falta, respondo-lhe com uma resposta do tipo de teste americano do Sr. Deputado Pedro Duarte: sim! Temos de verificar onde é que os recursos são verdadeiramente necessários para que não faltem onde são verdadeiramente necessários e não sejam alocados onde não são verdadeiramente necessários. Em alguns casos, verifica-se um abuso relativamente aos que deles necessitam."
+    },
+    {
+      "utterance_id": 230,
+      "order": 230,
+      "page_start": 39,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para uma intervenção, a Sr.ª Deputada Rita Rato."
+    },
+    {
+      "utterance_id": 231,
+      "order": 231,
+      "page_start": 39,
+      "speaker": {
+        "id": 2144,
+        "name": "Rita Rato Araújo Fonseca",
+        "party": "PCP",
+        "string": "A Sr.ª Rita Rato (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Tivemos hoje, aqui, dois caminhos distintos de ataque à escola pública. O caminho sugerido pelo CDS, de financiamento directo ao sector privado por parte do Estado, e o caminho do Governo do Partido Socialista, apoiado pelo PSD, de o Governo se desresponsabilizar das suas funções sociais.\nÉ claro que o caminho que o PCP defende não será nem o caminho do financiamento do sector privado nem o caminho da destruição da escola pública de Abril."
+    },
+    {
+      "utterance_id": 232,
+      "order": 232,
+      "page_start": 40,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Ana Drago."
+    },
+    {
+      "utterance_id": 233,
+      "order": 233,
+      "page_start": 40,
+      "speaker": {
+        "id": 1161,
+        "name": "Ana Isabel Drago Lobato",
+        "party": "BE",
+        "string": "A Sr.ª Ana Drago (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: O saldo deste debate não é um saldo avultado. Tivemos uma confirmação e uma surpresa. A confirmação é que a equipa governativa do Ministério da Educação, sucessivamente, foge a responder às questões mais difíceis.\nO Partido Socialista e o Governo alardearam o que foi uma medida importante, o alargamento da acção social escolar no ano de 2008, mas a verdade é que, hoje, o Ministério da Educação tem de responder quando o decreto de redução dos apoios sociais tem implicações na acção social escolar."
+    },
+    {
+      "utterance_id": 234,
+      "order": 234,
+      "page_start": 40,
+      "speaker": {
+        "id": 2204,
+        "name": "Helena Maria Moura Pinto",
+        "party": "BE",
+        "string": "A Sr.ª Helena Pinto (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Claro!"
+    },
+    {
+      "utterance_id": 235,
+      "order": 235,
+      "page_start": 40,
+      "speaker": {
+        "id": 1161,
+        "name": "Ana Isabel Drago Lobato",
+        "party": "BE",
+        "string": "A Sr.ª Ana Drago (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Há famílias que têm os mesmos rendimentos, não enriqueceram e, subitamente, deixaram de ter qualquer apoio ao nível da acção social escolar."
+    },
+    {
+      "utterance_id": 236,
+      "order": 236,
+      "page_start": 40,
+      "speaker": {
+        "id": 2061,
+        "name": "José Manuel Marques Da Silva Pureza",
+        "party": "BE",
+        "string": "O Sr. José Manuel Pureza (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 237,
+      "order": 237,
+      "page_start": 40,
+      "speaker": {
+        "id": 1161,
+        "name": "Ana Isabel Drago Lobato",
+        "party": "BE",
+        "string": "A Sr.ª Ana Drago (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Assim como não falou de como é que se vai processar a integração dos contratados. O Governo sucessivamente, sobre esta matéria, não define um projecto, não define uma ideia clara e, pior, não confirma sequer os compromissos que assumiu no passado.\n\nA Sr.ª Ministra tem andado pelo País em inaugurações — que nada tenho a criticar — , anunciando metas novas e ambiciosas de redução do abandono e do insucesso escolar, mas questionada sobre como atingir essas metas, que meios vão ser dados, como se vai articular o trabalho nas escolas e o trabalho dos professores, nada nos diz. E, do que conhecemos da vivência da escola, verifica-se que hoje os actores principais do processo de educação, que são os professores, estão atolados numa burocracia de mecanismos de controlo impostos pelo Ministério da Educação que não permitem apostar no trabalho intensivo de redução do abandono e do insucesso escolar.\n\nO Sr. Secretário de Estado apresentou números de psicólogos que estão nas nossas escolas: 400 para os projectos de educação para a saúde, 250 nos Centros Novas Oportunidades (e nem todos eles estão nas escolas, como sabe) e mais 200 que estão nas escolas. No entanto, não nos venha dizer que, no nosso panorama educativo, 850 psicólogos dão para todas as necessidades. Certamente o Sr. Secretário de Estado não sabe o que são as nossas necessidades ao nível do apoio dos psicólogos aos alunos."
+    },
+    {
+      "utterance_id": 238,
+      "order": 238,
+      "page_start": 40,
+      "speaker": {
+        "id": 2061,
+        "name": "José Manuel Marques Da Silva Pureza",
+        "party": "BE",
+        "string": "O Sr. José Manuel Pureza (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Saber, sabe!»"
+    },
+    {
+      "utterance_id": 239,
+      "order": 239,
+      "page_start": 40,
+      "speaker": {
+        "id": 1161,
+        "name": "Ana Isabel Drago Lobato",
+        "party": "BE",
+        "string": "A Sr.ª Ana Drago (BE)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, temos muito pouco que nos fique como saldo deste debate. Não se percebe como é que, daqui para a frente, o Ministério da Educação vai tentar cumprir as metas que ele próprio estabeleceu e essa era a questão fundamental.\nTivemos também uma surpresa — se calhar, uma boa surpresa, pois o Sr. Deputado Bravo Nico assumiuse aqui como tributário da Revolução Francesa. Falta, no entanto, perceber se essa inserção política terá ou não algum contributo para a valorização da escola pública no futuro."
+    },
+    {
+      "utterance_id": 240,
+      "order": 240,
+      "page_start": 41,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para uma intervenção, o Sr. Deputado Pedro Duarte."
+    },
+    {
+      "utterance_id": 241,
+      "order": 241,
+      "page_start": 41,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: Em jeito de conclusão, no Grupo Parlamentar do PSD verificamos, com algum desapontamento, infelizmente, que muitas das questões mais concretas não foram respondidas, nesta oportunidade, pelo Governo. Esperamos poder ver essas respostas surgir no Parlamento, porque aqui tentamos representar também a voz, as preocupações e os anseios de muitos portugueses que sofrem, muitas vezes, as consequências de decisões erradas do ponto de vista governamental.\nNão podemos deixar de lamentar a atitude permanente do Partido Socialista, tal como a do Governo, de enaltecimento constante do estado das coisas sem terem um gesto de humildade, reconhecendo que o nosso sistema de ensino tem problemas."
+    },
+    {
+      "utterance_id": 242,
+      "order": 242,
+      "page_start": 41,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 243,
+      "order": 243,
+      "page_start": 41,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A verdade é que os portugueses, ao contrário do que é muitas vezes aqui dito, sentem que o seu sistema de ensino está hoje pior do que estava há seis anos.\nTêm a noção clara e absoluta de que no sistema de ensino não se promove, como devia promover, os princípios da exigência, do rigor, do trabalho, do esforço, que não há qualquer cultura de mçrito»"
+    },
+    {
+      "utterance_id": 244,
+      "order": 244,
+      "page_start": 41,
+      "speaker": {
+        "id": 1160,
+        "name": "Ana Catarina Veiga Santos Mendonça Mendes",
+        "party": "PS",
+        "string": "A Sr.ª Ana Catarina Mendonça (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não conhece as escolas!"
+    },
+    {
+      "utterance_id": 245,
+      "order": 245,
+      "page_start": 41,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» e não se prepara devidamente as novas gerações para os desafios que, neste século XXI, as crianças e os jovens deste país vão ter necessária e inevitavelmente de enfrentar.\nAssim, perante esta sensação, que me parece óbvia, na sociedade portuguesa, em que vinga o desleixo, por vezes a desordem, a indisciplina e, em alguns casos, a violência, em desprimor de outro tipo de valores que deveriam ser os valores fundamentais de uma cultura de cidadania nas nossas escolas, não percebemos como o Partido Socialista e o Governo, permanentemente, querem «varrer para debaixo do tapete» esses mesmos obstáculos que ainda subsistem.\nPor isso, também manifestamos a nossa preocupação pelo facto de a primeira pergunta colocada pelo PSD neste debate não ter tido resposta. O País continua hoje sem perceber qual é o rumo que este Governo tem para a educação.\nApresenta-nos escolas inauguradas com dinheiros comunitários, com apoios das autarquias, com certeza também com o esforço da componente de obras públicas deste Ministério, mas continuamos sem perceber uma única medida que seja tomada para resolver os problemas estruturais da organização do sistema — temos um sistema profundamente centralista e opressor da qualidade de ensino — , nomeadamente para dar mais autonomia às escolas ou para se confiar mais nos professores que estão no dia-a-dia nas escolas. Não há uma ideia quanto a isso! Não percebemos também o que vai ser feito para reforçar a qualidade das aprendizagens, designadamente com mais exigência e rigor no nosso sistema de ensino. Não há uma ideia! Portanto, infelizmente, «navega-se à vista» no Ministério da Educação.\nPreocupamo-nos com esta questão, porque não entendemos a escola pública como uma bandeira para ser acenada quando nos é política ou eleitoralmente conveniente. A escola pública é algo que diz e sempre disse muito ao PSD."
+    },
+    {
+      "utterance_id": 246,
+      "order": 246,
+      "page_start": 41,
+      "speaker": {
+        "id": 2179,
+        "name": "José Carlos Bravo Nico",
+        "party": "PS",
+        "string": "O Sr. Bravo Nico (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Tem dias!»"
+    },
+    {
+      "utterance_id": 247,
+      "order": 247,
+      "page_start": 41,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O nosso conceito de escola pública é um pouco mais abrangente do que alguns querem fazer crer."
+    },
+    {
+      "utterance_id": 248,
+      "order": 248,
+      "page_start": 42,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ah»!"
+    },
+    {
+      "utterance_id": 249,
+      "order": 249,
+      "page_start": 42,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como sempre dissemos e voltamos a dizer, designadamente com as propostas mais recentes que apresentámos, acreditamos num serviço público de educação."
+    },
+    {
+      "utterance_id": 250,
+      "order": 250,
+      "page_start": 42,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 251,
+      "order": 251,
+      "page_start": 42,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Consideramos, contudo, que o princípio da igualdade de oportunidades também deve ser assegurado. Por isso, compreendemos que o Partido Socialista tenha dificuldade em, por vezes, fazer algumas evoluções, designadamente do ponto de vista retórico. Como aqui já provei, se calhar, a evolução até nem é preciso que seja muito grande, porque na prática já o fazem. No entanto, têm medo — ou um qualquer outro problema que não quero aqui qualificar — de assumir aquilo em que realmente acreditam e que defendem.\nSabemos que, hoje em dia, o serviço público de educação que é prestado, assegurado e garantido pelo Estado tem evidentemente de permanecer, mas também sabemos que temos de promover a qualidade de ensino.\nUma criança portuguesa tanto pode adquirir um ensino de qualidade numa escola pública como numa escola particular, numa escola corporativa ou, por exemplo, numa IPSS. Acreditamos nisso e confiamos na sociedade portuguesa e nos professores que, no dia-a-dia, estão nas escolas.\nRejeitamos, contudo, uma visão dirigista que, por vezes, o Partido Socialista, colando-se ao Partido Comunista e ao Bloco de Esquerda no seu ponto mais extremo da esquerda, quer fazer crer aos olhos dos portugueses, porque eleitoralmente isso lhe pode ser conveniente.\nDa nossa parte, temos uma atitude diferente. Estamos a lutar pela qualidade de ensino porque acreditamos que, ao despromover ou desqualificar a escola pública, a tal escola do ensino estatal, estamos manifestamente a causar uma desigualdade gritante na sociedade portuguesa.\nA verdade é que aqueles que podem, porque têm recursos para esse efeito, recorrem a outro tipo de apoios pedagógicos, seja a explicações, ao seu background familiar ou a algumas escolas privadas de excelência que temos no nosso país. Ora, aqueles que não têm meios e têm de ficar na escola estatal, infelizmente, por culpa do Partido Socialista, vêm-se restringidos a um ensino de segunda e é contra isso que o PSD quer, evidentemente, lutar."
+    },
+    {
+      "utterance_id": 252,
+      "order": 252,
+      "page_start": 42,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para uma intervenção, o Sr. Ministro dos Assuntos Parlamentares."
+    },
+    {
+      "utterance_id": 253,
+      "order": 253,
+      "page_start": 42,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares (Jorge Lacão)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as e Srs. Deputados: Ficou evidente, neste debate, a atitude que tanto o partido interpelante, o CDS, como o PSD assumiram em relação ao sistema público de ensino.\nFoi muito evidente que nem uma nem outra destas bancadas foi capaz de reconhecer o trabalho extraordinário que tem sido feito no que respeita à requalificação do nosso parque escolar, relativamente ao incremento do ensino pré-escolar no nosso país, na valorização da escola a tempo inteiro no 1.º ciclo do ensino básico, na intensificação do ensino profissional para os nossos jovens, no incremento do aproveitamento escolar a todos os níveis e no que tem sido feito para gerar as condições indispensáveis para estender o ensino obrigatório até ao 12.º ano.\nEstes são os nossos lemas. É deles que nos orgulhamos, mas, acerca deles, de Conrado, as bancadas da direita parlamentar fizeram o prudente silêncio.\nMas onde não se silenciaram foi verdadeiramente na demonstração do seu paradigma ideológico."
+    },
+    {
+      "utterance_id": 254,
+      "order": 254,
+      "page_start": 43,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Só os ricos!"
+    },
+    {
+      "utterance_id": 255,
+      "order": 255,
+      "page_start": 43,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas a diferença resulta muito patente na última frase que ouvimos da bancada do PSD: os que não têm recursos são os que têm de recorrer aos estabelecimentos do Estado."
+    },
+    {
+      "utterance_id": 256,
+      "order": 256,
+      "page_start": 43,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É isso que queremos combater!"
+    },
+    {
+      "utterance_id": 257,
+      "order": 257,
+      "page_start": 43,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É esta a grande questão e é este o enigma que é preciso esclarecer. É que aquilo que o CDS e o PSD nos propõem é que o Estado deixe de ser responsável pela existência de uma rede põblica de estabelecimentos de ensino,»"
+    },
+    {
+      "utterance_id": 258,
+      "order": 258,
+      "page_start": 43,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD e do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Falso!"
+    },
+    {
+      "utterance_id": 259,
+      "order": 259,
+      "page_start": 43,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» mas que continue a ser responsável por financiar tanto o esforço público de ensino como as opções privadas em relação a esse mesmo ensino."
+    },
+    {
+      "utterance_id": 260,
+      "order": 260,
+      "page_start": 43,
+      "speaker": {
+        "id": 1382,
+        "name": "Pedro Miguel De Azeredo Duarte",
+        "party": "PSD",
+        "string": "O Sr. Pedro Duarte (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O contrário disso!"
+    },
+    {
+      "utterance_id": 261,
+      "order": 261,
+      "page_start": 43,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É aqui que está a questão: estes Srs. Deputados não querem um sistema mais racional, não querem um sistema mais exigente, não querem um sistema mais austero. Eles não poupam as finanças públicas, eles querem, sim, onerar as finanças públicas entre o sistema de ensino para pobres e o sistema de ensino para ricos. E é esta a desigualdade que não aceitamos no nosso país.\nSr.as e Srs. Deputados, nós que comemorámos o centenário da Repõblica,»"
+    },
+    {
+      "utterance_id": 262,
+      "order": 262,
+      "page_start": 43,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ah!"
+    },
+    {
+      "utterance_id": 263,
+      "order": 263,
+      "page_start": 43,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "N/A",
+        "string": "O Sr. Ministro dos Assuntos Parlamentares",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "» com o 5 de Outubro, encontrámos, há 100 anos, um País com 75% de analfabetos. No primeiro ano de governo da República foi imediatamente decidida a criação de 1000 novas escolas no ensino primário.\nHoje, 100 anos depois, o analfabetismo em Portugal é, felizmente, inferior a 9% e batalhamos para que ele possa ser reduzido a zero.\nMas, para isso, é a resposta do sistema público de ensino que tem de continuar a gerar as condições para uma verdadeira igualdade de oportunidades no nosso país."
+    },
+    {
+      "utterance_id": 264,
+      "order": 264,
+      "page_start": 44,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Passamos à fase de encerramento da interpelação do CDS-PP sobre educação.\nTem a palavra o Sr. Deputado Paulo Portas."
+    },
+    {
+      "utterance_id": 265,
+      "order": 265,
+      "page_start": 44,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Ministros, Sr.as e Srs. Deputados: Não posso deixar de começar por dizer ao Sr. Ministro dos Assuntos Parlamentares que o delírio é livre."
+    },
+    {
+      "utterance_id": 266,
+      "order": 266,
+      "page_start": 44,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Exactamente!"
+    },
+    {
+      "utterance_id": 267,
+      "order": 267,
+      "page_start": 44,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E não vou cair na armadilha de responder a um delírio, porque os senhores estão aqui para responder pela realidade!\nDepois, Sr. Presidente, Srs. Ministros, esta interpelação significa, da parte do CDS, a continuação de um trabalho persistente, regular, que procuramos que seja credível, quer técnica quer politicamente, na área da educação. Não será a primeira nem será na última e exerceremos plenamente o nosso dever de fiscalização de um Governo que, em muitas matérias, falha, erra ou não tem política.\nFizemo-lo na avaliação dos professores, na questão das carreiras, na questão da autonomia, na questão da liberdade de escolha, na questão do Estatuto do Aluno, na formação dos exames e, por isso, esta interpelação é a continuação de um trabalho de defesa de uma boa educação, Sr. Ministro dos Assuntos Parlamentares."
+    },
+    {
+      "utterance_id": 268,
+      "order": 268,
+      "page_start": 44,
+      "speaker": {
+        "id": 2251,
+        "name": "Michael Lothar Mendes Seufert",
+        "party": "CDS-PP",
+        "string": "O Sr. Michael Seufert (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não é da má educação do Governo!"
+    },
+    {
+      "utterance_id": 269,
+      "order": 269,
+      "page_start": 44,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não poderia deixar de dizer, com a estima que pessoalmente tenho pela Sr.ª Ministra, que, em todo o caso, o exercício de funções deste ano a burocratizou.\nA sua intervenção inicial revela uma visão «obreirista» da educação, que investe mais no betão do que nos recursos humanos, e revela a tentação por uma visão estatística da educação, que se interessa mais pelo sucesso estatístico do que pelo sucesso verdadeiro dos conhecimentos adquiridos e da preparação para a vida dos jovens, e por uma visão estatista, ou conveniente e conjunturalmente estatista, quando sabemos que a qualidade tanto pode estar no sector público, como no privado, como no social."
+    },
+    {
+      "utterance_id": 270,
+      "order": 270,
+      "page_start": 44,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 271,
+      "order": 271,
+      "page_start": 44,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Seja, como for, registamos, Sr.ª Ministra, a sua falta de sensibilidade, neste preciso momento, para a questão muito prática e muito quotidiana do mês para a educação que as famílias portuguesas vão passar a ter a partir de agora.\nOu seja, a Sr.ª Ministra da Educação não é apenas a Ministra da escola pública. \nA Sr.ª Ministra da Educação é a Ministra da escola pública, dos pais que têm os seus filhos na escola, das crianças que estão a ser ensinadas na escola e, portanto, tem também de ser procuradora dos seus interesses, e não a ouvimos"
+    },
+    {
+      "utterance_id": 272,
+      "order": 272,
+      "page_start": 45,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 273,
+      "order": 273,
+      "page_start": 45,
+      "speaker": {
+        "id": 2251,
+        "name": "Michael Lothar Mendes Seufert",
+        "party": "CDS-PP",
+        "string": "O Sr. Michael Seufert (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ora, nenhum!"
+    },
+    {
+      "utterance_id": 274,
+      "order": 274,
+      "page_start": 45,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Finalmente, Sr.ª Ministra, falemos não «eduquês» mas português: não é justo que um jovem, no ensino secundário, tenha de fazer quatro exames para aceder à universidade e outro jovem, com a mesma idade, bastando ter o 7.º ano, possa, com dois anos de Novas Oportunidades, ter uma equiparação ao 12.º ano, fazer um exame e entrar na universidade, porque certamente estará a tirar o lugar a quem se esforçou para chegar a esse posto.\nSr.ª Ministra, nunca me viu fazer a crítica generalista das Novas Oportunidades, mas não as deixe transformar em «Novas Desigualdades de Oportunidades»!\nSr.ª Ministra, depois também reparámos na sua indefinição quanto ao ciclo avaliativo dos professores.\n\nO Sr. Secretário de Estado reconheceu que a pergunta do CDS era pertinente, que os padrões de desempenho hão-de ser publicados e que se saberá em tempo o que acontece aos avaliados e aos avaliadores."
+    },
+    {
+      "utterance_id": 275,
+      "order": 275,
+      "page_start": 46,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Paulo portas, tem de terminar."
+    },
+    {
+      "utterance_id": 276,
+      "order": 276,
+      "page_start": 46,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Terminarei, Sr. Presidente.\nSr. Ministro, nas nossas intenções não está certamente descartar ou substituir a rede pública de educação, porque ela é insubstituível, e isso está dito nos nossos documentos desde há muito tempo.\nO que me faz impressão é que haja um discurso político segundo o qual a liberdade de escolha é um financiamento à educação que não é do Estado e, depois, o Estado invente para si próprio critérios, como contratos simples, contratos de autonomia (esses com o público) e contratos de associação (esses com o sector social e com o sector privado), que permitem a centenas de milhares de portugueses terem educação que de outra maneira não teriam.\nPortanto, os senhores fazem uma desvalorização retórica da liberdade de escolha mas, depois, precisam dela «como de pão para a boca» para que o sistema de ensino seja universal."
+    },
+    {
+      "utterance_id": 277,
+      "order": 277,
+      "page_start": 46,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do CDS-PP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 278,
+      "order": 278,
+      "page_start": 46,
+      "speaker": {
+        "id": 1377,
+        "name": "Paulo Sacadura Cabral Portas",
+        "party": "CDS-PP",
+        "string": "O Sr. Paulo Portas (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Depois — e, com isso termino, Sr. Presidente — , uma coisa é a esquerda dizer que os ricos escolhem a escola privada, não tendo consideração pela liberdade de escolha de quem não tem esses rendimentos, mas, curiosamente, todos assistimos, todos os dias, a que a maioria dos responsáveis políticos escolhem as escolas privadas para colocar os seus familiares, as mesmas que negam aos cidadãos menos favorecidos, que não podem escolher a escola dos seus filhos. É curioso!\nÉ curioso, Sr. Presidente, que a liberdade de escolha das famílias em relação à escola dos filhos parece que é um pecado; só não é um pecado se for a liberdade de escolha dos responsáveis políticos em relação à escola dos seus filhos!"
+    },
+    {
+      "utterance_id": 279,
+      "order": 279,
+      "page_start": 46,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para intervir no encerramento da interpelação ao Governo, a Sr.ª Ministra da Educação."
+    },
+    {
+      "utterance_id": 280,
+      "order": 280,
+      "page_start": 46,
+      "speaker": {
+        "id": 3078,
+        "name": "Isabel Alçada",
+        "party": "N/A",
+        "string": "A Sr.ª Ministra da Educação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.as Deputadas, Srs. Deputados, trouxemos aqui uma descrição da realidade e procurámos trazer informação o mais objectiva possível sobre aquilo que é verdadeiramente o sistema educativo. Na verdade, essa informação, em muitos casos, tem de ser apresentada de forma numérica para se ter uma consciência da forma como o sistema educativo tem vindo a evoluir."
+    },
+    {
+      "utterance_id": 281,
+      "order": 281,
+      "page_start": 48,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, Sr.ª Ministra, concluímos, assim, a nossa ordem do dia de hoje.\nA próxima sessão plenária realizar-se-á amanhã, sexta-feira, às 10 horas, com a seguinte ordem de trabalhos: aprovação dos n.os 33 a 84 do Diário; eleição de um membro suplente da Delegação da Assembleia da República à Assembleia Parlamentar da NATO; discussão conjunta, na generalidade, dos projectos de lei n.os 414/XI (2.ª) — Regula o direito dos cidadãos a decidirem sobre a prestação futura de cuidados de saúde, em caso de incapacidade de exprimirem a sua vontade, e cria o Regime Nacional de Testamento Vital (RENTEV) (BE), 413/XI (2.ª) — Direito dos doentes à informação e ao consentimento informado (PS), 428/XI (2.ª) — Declarações antecipadas de vontade (PSD) e 429/XI (2.ª) — Regula as directivas antecipadas de vontade em matéria do testamento vital e nomeação de procurador de cuidados de saúde e procede à criação do registo nacional do testamento vital (CDS-PP); discussão conjunta, na generalidade, dos projectos de lei n.os 326/XI (1.ª) — Transferência de farmácias (PSD), 411/XI (2.ª) — Primeira alteração ao Decreto-Lei n.º 307/2007, de 31 de Agosto, que estabelece o regime jurídico das farmácias de oficina (Condiciona as transferências de farmácias à garantia de acesso das populações aos serviços farmacêuticos) (PCP), 415/XI (2.ª) — Altera o Regime Jurídico de Transferência de Farmácias (Os Verdes) e 430/XI (2.ª) — Fixa os procedimentos de licenciamento e de atribuição de alvará a novas farmácias e às que resultam de transferência de postos farmacêuticos permanentes, bem como da transferência da localização de farmácias (PS); discussão conjunta das apreciações parlamentares n.os 52/XI (1.ª) (BE) e 56/XI (1.ª) (PCP), ambas relativas ao Decreto-Lei n.º 75/2010, de 23 de Junho, que «Procede à décima alteração ao Estatuto da Carreira dos Educadores de Infância e dos Professores do Ensino Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de Abril»; e apreciação da petição n.º 29/XI (1.ª) — Da iniciativa da CGTP-IN (Confederação Geral dos Trabalhadores Portugueses — Intersindical Nacional) — Pelo alargamento da protecção no desemprego, pela revogação do factor de sustentabilidade e pela alteração das regras de actualização das pensões e prestações; havendo ainda lugar a votações regimentais, às 12 horas.\n\nA Sr.ª Secretária vai proceder à leitura de um documento entretanto chegado à Mesa."
+    },
+    {
+      "utterance_id": 282,
+      "order": 282,
+      "page_start": 48,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª Secretária (Celeste Correia)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, cumpre-me anunciar que foi solicitada pela CDS-PP a retirada do projecto de lei n.º 345/XI (1.ª) — Altera o regime legal da prescrição de medicamentos, no sentido de generalizar a prescrição por Denominação Comum Internacional (DCI), nos termos do artigo 21.º do Compromisso com a Saúde (CDS-PP), sendo substituído pelo projecto de lei n.º 432/XI (2.ª) — Altera o regime legal da prescrição de medicamentos, no sentido de generalizar a prescrição por Denominação Comum Internacional (DCI), nos termos do artigo 21.º do Compromisso com a Saúde (CDSPP), que já deu entrada na Mesa.\nÉ tudo, Sr. Presidente."
+    },
+    {
+      "utterance_id": 283,
+      "order": 283,
+      "page_start": 49,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está encerrada a sessão."
+    }
+  ]
+}

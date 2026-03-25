@@ -1,0 +1,69 @@
+{
+  "global": {
+    "total_files": 4,
+    "total_utterances": 16,
+    "total_words": 19,
+    "avg_words_per_utterance": 1.1875,
+    "avg_alternation_rate": 0.425,
+    "avg_unique_speakers": 2.25,
+    "avg_block_length": 1.4545454545454546
+  },
+  "roles": {},
+  "top_speakers": {
+    "A": 9,
+    "B": 3,
+    "SUMÁRIO": 1,
+    "Presidente": 1,
+    "Secretária": 1,
+    "Deputado X": 1
+  },
+  "transitions": {
+    "A -> B": 3,
+    "B -> A": 1,
+    "SUMÁRIO -> Presidente": 1,
+    "Presidente -> Secretária": 1,
+    "Secretária -> Deputado X": 1
+  },
+  "per_file": {
+    "test_01_alternancia.json": {
+      "utterances": 4,
+      "words": 4,
+      "unique_speakers": 2,
+      "avg_words_per_utterance": 1.0,
+      "alternation_rate": 0.75,
+      "avg_block_length": 1,
+      "top1_dominance": 0.5,
+      "top3_dominance": 1.0
+    },
+    "test_02_dominancia.json": {
+      "utterances": 5,
+      "words": 5,
+      "unique_speakers": 2,
+      "avg_words_per_utterance": 1.0,
+      "alternation_rate": 0.2,
+      "avg_block_length": 2.5,
+      "top1_dominance": 0.8,
+      "top3_dominance": 1.0
+    },
+    "test_03_bloco_unico.json": {
+      "utterances": 3,
+      "words": 3,
+      "unique_speakers": 1,
+      "avg_words_per_utterance": 1.0,
+      "alternation_rate": 0.0,
+      "avg_block_length": 3,
+      "top1_dominance": 1.0,
+      "top3_dominance": 1.0
+    },
+    "test_04_roles.json": {
+      "utterances": 4,
+      "words": 7,
+      "unique_speakers": 4,
+      "avg_words_per_utterance": 1.75,
+      "alternation_rate": 0.75,
+      "avg_block_length": 1,
+      "top1_dominance": 0.25,
+      "top3_dominance": 0.75
+    }
+  }
+}

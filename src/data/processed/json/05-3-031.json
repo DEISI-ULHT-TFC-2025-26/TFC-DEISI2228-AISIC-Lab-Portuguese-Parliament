@@ -1,0 +1,656 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "5",
+    "legislative_session": "3",
+    "number": "31",
+    "date": "1990-01-12"
+  },
+  "debate_id": "r3_5_3_31_1990-01-12",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 1104,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.\nEram 10 horas e 35 minutos.\nEstavam presentes os seguintes Srs. Deputados:\nPartido Social-Democrata (PPD/PSD):\nAbílio de Mesquita Araújo Guedes.\n\nAdérito Manuel Soares Campos.\n\nAlberto Cerqueira de Oliveira.\n\nAlberto Monteiro de Araújo.\n\nAlexandre Azevedo Monteiro.\n\nÁlvaro José Martins Viegas.\n\nAmândio dos Anjos Gomes.\n\nAntónio Abílio Costa.\n\nAntónio Augusto Lacerda Queirós.\n\nAntónio Augusto Ramos.\n\nAntónio de Carvalho Martins.\n\nAntónio Costa de A. Sousa Lara.\n\nAntónio Fernandes Ribeiro.\n\nAntónio Joaquim Correia Vairinhos.\n\nAntónio Jorge Santos Pereira.\n\nAntónio José Caeiro da Mota Veiga.\n\nAntónio José de Carvalho.\n\nAntónio Manuel Lopes Tavares.\n\nAntónio Maria Oliveira de Matos.\n\nAntónio Maria Ourique Mendes.\n\nAntónio Paulo Martins Pereira Coelho.\n\nAntónio Sérgio Barbosa de Azevedo.\n\nAntónio da Silva Bacelar.\n\nAristides Alves do Nascimento Teixeira.\n\nArlindo da Silva André Moreira.\n\nArmando de Carvalho Guerreiro da Cunha.\n\nArmando Lopes Correia Costa.\n\nArménio dos Santos.\n\nBelarmino Henriques Correia.\n\nCarlos Lélis da Câmara Gonçalves.\n\nCarlos Manuel Duarte Oliveira.\n\nCarlos Manuel Oliveira da Silva.\n\nCarlos Manuel P. Baptista.\n\nCarlos Miguel M. de Almeida Coelho.\n\nCasimiro Gomes Pereira.\n\nCristóvão Guerreiro Norte.\n\nDomingos Duarte Lima.\n\nDomingos da Silva e Sousa.\n\nEduardo Alfredo de Carvalho P. da Silva.\n\nErcília Domingues M. P. Ribeiro da Silva.\n\nEvaristo de Almeida Guerra de Oliveira.\n\nFernando José Antunes Gomes Pereira.\n\nFernando Monteiro do Amaral.\n\nFernando dos Reis Condesso.\n\nFilipe Manuel Silva Abreu.\n\nFrancisco Antunes da Silva.\n\nFrancisco João Bernardino da Silva.\n\nFrancisco Mendes Costa.\n\nGermano Silva Domingos.\n\nGilberto Parca Madaíl.\n\nGuido Orlando de Freitas Rodrigues.\n\nGuilherme Henrique V. Rodrigues da Silva.\n\nHilário Torres Azevedo Marques.\n\nJaime Carlos Maria Soares.\n\nJaime Gomes Mil-Homens.\n\nJoão Álvaro Poças Santos.\n\nJoão Costa da Silva.\n\nJoão Domingos F. de Abreu Salgado.\n\nJoão José Pedreira de Maios.\n\nJoão Maria Ferreira Teixeira.\n\nJoaquim Eduardo Gomes.\n\nJoaquim Fernandes Marques.\n\nJoaquim Vilela de Araújo.\n\nJorge Paulo Seabra Roque da Cunha.\n\nJosé de Almeida Cesário.\n\nJosé Álvaro Machado Pacheco Pereira.\n\nJosé Assunção Marques.\n\nJosé Augusto Ferreira de Campos.\n\nJosé Augusto Santos Silva Marques.\n\nJosé Francisco Amaral.\n\nJosé Guilherme Pereira Coelho dos Reis.\n\nJosé Júlio Vieira Mesquita.\n\nJosé Lapa Pessoa Paiva.\n\nJosé Leite Machado.\n\nJosé Luís Bonifácio Ramos.\n\nJosé Luís de Carvalho Lalanda Ribeiro.\n\nJosé Manuel Rodrigues Casqueiro.\n\nJosé Manuel da Silva Torres.\n\nJosé Pereira Lopes.\n\nJosé de Vargas Bulcão.\n\nLicinio Moreira da Silva.\n\nLuís António Martins.\n\nLuís Filipe Garrido Pais de Sousa.\n\nLuís Filipe Meneses Lopes.\n\nLuís Manuel Neves Rodrigues.\n\nLuís da Silva Carvalho.\n\nManuel Albino Casimiro de Almeida.\n\nManuel António Sá Fernandes.\n\nManuel Augusto Pinto Barros.\n\nManuel Ferreira Martins.\n\nManuel João Vaz Freixo.\n\nManuel Joaquim Baptista Cardoso.\n\nMargarida Borges de Carvalho.\n\nMaria da Conceição U. de Castro Pereira.\n\nMaria Luísa Lourenço Ferreira.\n\nMaria Manuela Aguiar Moreira.\n\nMaria Teresa Pinto Basto Gouveia.\n\nMary Patrícia Pinheiro e Lança.\n\nMário Jorge Belo Maciel.\n\nMário de Oliveira Mendes dos Santos.\n\nMateus Manuel Lopes de Brito.\n\nMiguel Fernando C. de Miranda Relvas.\n\nNuno Francisco F. Delerue Alvim de Matos.\n\nNuno Miguel S. Ferreira Silvestre.\n\nPedro Domingos de S. e Holstein Campilho.\n\nPedro Manuel Cruz Roseta.\n\nReinaldo Alberto Ramos Gomes.\n\nRui Alberto Limpo Salvada.\n\nRui Carlos Alvarez Carp.\n\nRui Gomes da Silva.\n\nRui Manuel Almeida Mendes.\n\nVasco Francisco Aguiar Miguel.\n\nVirgílio de Oliveira Carneiro.\n\nWalter Lopes Teixeira.\nParado Socialista (PS):\nAlberto Arons Braga de Carvalho.\n\nAlberto Manuel Avelino.\n\nAntónio Carlos Ribeiro Campos.\n\nAntónio José Sanches Esteves.\n\nAntónio Miguel de Morais Barreto.\n\nArmando António Martins Vara.\n\nCarlos Manuel Luís.\n\nEduardo Ribeiro Pereira."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 1105,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o Sr. Secretário vai dar conta dos diplomas que deram entrada na Mesa."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 1105,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Reinaldo Gomes)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Deu entrada na Mesa a ratificação n.º 104/V, apresentada pelos Srs. Deputados Manuel dos Santos e outros, do PS, que foi admitida e que respeita ao Decreto-Lei n.º 439-G/89, de 23 de Dezembro, que autoriza a sessão de exploração da SETENAVE, E. P.\n\nNas últimas reuniões plenárias foram apresentados na Mesa os requerimentos seguintes: ao Governo, formulado pelos Srs. Deputados Rui Vieira, João Corregedor da Fonseca e Caio Roque; ao Ministério da Educação, formulado pelo Sr. Deputado António Filipe; à Secretaria de Estado da Energia, formulado pela Sr.ª Deputada Eduarda Fernandes; a diversas câmaras municipais, formulados pelo Sr. Deputado José Apolinário; aos Ministérios do Emprego e da Segurança Social e da Defesa Nacional, formulados pelo Sr. Deputado João Amaral; ao Ministério da Defesa Nacional, formulado pelo Sr. Deputado Manuel Filipe, e ao Ministério dos Negócios Estrangeiros, formulado pelo Sr. Deputado António Mota.\n\nPor sua vez, o Governo respondeu a requerimentos apresentados pelos seguintes Srs. Deputados: José Magalhães, na sessão de 27 de Julho, na reunião da Comissão Permanente do dia 4 de Outubro e na sessão de 10 de Fevereiro; Barbosa da Costa, na sessão de 2 de Junho; Herculano Pombo, na sessão de 20 de Junho; José Apolinário, na sessão de 6 de Julho; Lino de Carvalho, na sessão de 11 de Julho; António Filipe, na reunião da Comissão Permanente do dia 7 de Setembro; Rogério Brito e Odete Santos, na sessão de 17 de Outubro; António Braga, na sessão de 2 de Novembro; Pegado Lis, na sessão de 9 de Novembro; José Rodrigues, na sessão de 11 de Novembro; Jerónimo de Sousa, na sessão de 20 de Novembro; Cristóvão Norte, na sessão de 22 de Novembro; Apolónia Teixeira, na sessão de 28 de Novembro; Julieta Sampaio, na sessão de 5 de Dezembro, e Luís Roque, na sessão de 6 de Dezembro."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 1105,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, quero informá-los de que se encontram a assistir à sessão alunos e professoras da escola O Formigueiro, para os quais peço a nossa habitual saudação."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 1105,
+      "speaker": {
+        "id": 734,
+        "name": "José Manuel Lello Ribeiro De Almeida",
+        "party": "PS",
+        "string": "O Sr. José Lello (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa,"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 1105,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 1105,
+      "speaker": {
+        "id": 734,
+        "name": "José Manuel Lello Ribeiro De Almeida",
+        "party": "PS",
+        "string": "O Sr. José Lello (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, gostaria de saber se já foi entregue na Mesa o voto n.º USA, apresentado pelo meu colega Raúl Rogo, relativo à efeméride que ontem ocorreu sobre a passagem dos 100 anos sobre o Ultimatum. Caso contrário, cie será distribuído e, se os diversos grupos parlamentares não virem inconveniente, será apreciado ainda durante este período de antes da ordem do dia."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 1105,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, na altura devida darei informações sobre esse assunto.\n\nPara uma intervenção, tem a palavra o Sr. Deputado Rui Silva."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 1106,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Rui Silva (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: Constitui uma dolorosa realidade a generalizada poluição dos nossos cursos de água. Alguns deles estão considerados como biologicamente mortos, mercê das mais díspares razões, pontificando entre elas a poluição industrial.\n\nUma avidez desenfreada de lucro conduz a uma sistemática tentativa de fuga a despesas de tratamento de efluentes, que uma legislação ainda demasiado liberal permite - e todos sabemos os dramas que tal situação cria!...\n\nÉ o abastecimento de água às populações que corre sérios riscos de qualidade mínima; é a destruição da fauna e da flora, com o consequente desequilíbrio ecológico; é, enfim, o espectro permanente do caos ambiental, de que todos nós sofremos sempre alguma coisa.\n\nUma Lei de Bases Ambiental, aprovada por esta Assembleia, ainda não devidamente regulamentada, não constitui ainda a malha apertada que as circunstâncias urgentemente aconselham.\n\nAs considerações expendidas vêm a propósito de uma notícia veiculada pela comunicação social em que se revela que uma fábrica de óleos alimentares, na pessoa de dois gestores, foi condenada a penas que, no seu conjunto, não atingem 500 contos.\n\nA razão da punição prende-se com uma descarga de óleo verificada no já distante Agosto de 1987, a qual provocou a morte de centenas de peixes junto às suas instalações, em Vila do Conde.\n\nNa circunstância, o director do Centro Aquícola de Vila do Conde, da Direcção-Geral dos Serviços Florestais, terá afirmado que espera que sejam tomadas medidas sérias que ponham fim à péssima qualidade das águas do rio Ave. Trata-se de um sério aviso lançado por quem vive, de perto, a triste realidade e que, como qualquer cidadão consciente e responsável, pretende que o afã destruidor seja firmemente travado para que um bem precioso como a água não continue a servir de inexorável cemitério.\n\nJulgo que urge criar mecanismos regulamentares que penalizem mais duramente os agentes activos da destruição para obrigá-los a tomar as medidas cautelares indispensáveis.\n\nSe se trata de unidades industriais de reduzidos meios económicos deve o Estado, através dos meios legalmente previstos, possibilitar o apoio financeiro necessário.\n\nSr. Presidente, Srs. Deputados: Já não há muito tempo para inverter o actual rumo destruidor. É, pois, fundamental agir depressa e firmemente para devolver aos nossos cursos de água a vida e a beleza que as comunidades exigem."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 1106,
+      "speaker": {
+        "id": 1054,
+        "name": "Hermínio Paiva Fernandes Martinho",
+        "party": "PRD",
+        "string": "O Sr. Hermínio Martinho (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 1106,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Raul Castro."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 1106,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Raul Castro (Indep.)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: Sc a cidade do Porto se confronta com graves problemas, que vão desde o problema da habitação ate ao estado calamitoso dos arruamentos, questões que a nova Câmara Municipal terá de enfrentar, a verdade é que outros problemas, já não da alçada do Município, mas do Governo, carecem de medidas imediatas.\n\nQuem conhece o que se passa com o trânsito e os transportes na cidade do Porto, quem vive os engarrafamentos e a incomodidade dos passageiros amontoados nos\n\nautocarros dos transportes colectivos, não pode deixar de relacionar o pandemónio dos transportes no Porto com, além de outros condicionamentos, a falta de uma nova ponte rodoviária e a forma como os Serviços de Transportes Colectivos são dirigidos pelo respectivo conselho de administração, de emanação governamental.\n\nÉ de recordar que, aquando do início da construção da segunda ponte ferroviária, no tempo do Governo da AD, este Governo, pressionado pela posição da Câmara Municipal do Porto e até da Câmara Municipal de Vila Nova de Gaia, recusando a construção de uma ponte mista, ferroviária e rodoviária, comprometeu-se, contudo, a iniciar, simultaneamente, a construção de uma ponte rodoviária.\n\nMas os anos passaram - e já são muitos! -, a ponte ferroviária vai avançando, embora mais lentamente do que foi previsto, mas da ponte rodoviária, que seria iniciada ao mesmo tempo, os sucessivos governos tem-se esquecido e não se sabe quantos anos faltarão para ela ser construída!\n\nNo entanto, é evidente que a construção de tal ponte rodoviária contribuiria poderosamente para desbloquear o trânsito na cidade, ou o que carece de a atravessar, presentemente estrangulado pelas duas outras pontes, uma delas com uma antiga e estreita faixa de rodagem.\n\nPor outro lado, os Serviços de Transportes Colectivos do Porto - até há pouco presididos pelo candidato perdedor das eleições para a Câmara Municipal, posteriormente promovido a ministro!... - tem sido geridos de tal forma que não carece de adjectivos para a classificar, porque são os próprios factos que a condenam.\n\nDurante longos meses, a obstinação do conselho de gerência em satisfazer as reivindicações dos trabalhadores provocou greves totais ou parciais, que não só criaram dificuldades acrescidas ao transporte dos utentes como agravaram as condições técnicas dos veículos pela falta da respectiva assistência.\n\nDe resto, não só os passageiros, sobretudo nas horas do almoço e de entrada e saída do emprego, são amontoados, como «sardinhas em lata», no interior dos autocarros, como estão sujeitos a uma marcha ião lenta que muitas vezes se anda mais depressa a pé!\n\nQuando o Governo tanto fala na «sua» modernização do País e em atingir os níveis de desenvolvimento da Europa, aqui fica, no que respeita à segunda cidade do País, um retrato real do que são os transportes e o trânsito que a população do Porto está condenada a suportar, situação que carece de medidas urgentes, que manifestamente, durante já tantos anos, este Governo se tem mostrado incapaz de pôr em prática."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 1106,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Lello."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 1106,
+      "speaker": {
+        "id": 734,
+        "name": "José Manuel Lello Ribeiro De Almeida",
+        "party": "PS",
+        "string": "O Sr. José Lello (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: As qualidades que melhor caracterizam o povo português serão, certamente, as da sua grande afabilidade, tolerância, moderação e complacência. Os Portugueses, ao contrário de outros povos, inclusivamente ibéricos e europeus, não são muito dados a grandes radicalismos ou descomedimentos sem sentido, tenham eles fundamentação social, política ou religiosa."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 1107,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Sérgio Ribeiro."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 1107,
+      "speaker": {
+        "id": 1131,
+        "name": "Sérgio José Ferreira Ribeiro",
+        "party": "PCP",
+        "string": "O Sr. Sérgio Ribeiro (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Talvez alguns Srs. Deputados sintam um certo enfado por, de novo, se vir falar de cheias. Não é nem pode ser esse o sentimento de um deputado eleito pelo distrito de Santarém, pois não pode esse deputado consentir que vá caindo, progressivamente, o silêncio sobre o que aconteceu há dias ou sobre os remendos que se vão atamancando, sobre o alijamento de responsabilidades.\n\nNão podem, este e outros deputados, ficar à espera da próxima cheia para que se saiba que o Governo acusa a Natureza de fenómenos raros e a meteorologia de não cumprir as médias pluviométricas, que, aliás, existem não para serem cumpridas mas como cálculo entre secas e excessos.\n\nSrs. Deputados, ainda ontem, o governador civil de Santarém convocou responsáveis autárquicos e outros na evidente tentativa de liderar o processo e de se fazer o primeiro balanço da actuação de várias entidades, balanço que faz ressaltar dificuldades de coordenação, particularmente entre a protecção civil e os bombeiros.\n\nPor outro lado, o inventário dos prejuízos causados aos agentes económicos e às populações está longe de se encontrar terminado, mas isso não pode servir de pretexto para que o auxílio indispensável não seja imediatamente disponibilizado, embora a não declaração do estado de calamidade pública que as zonas do distrito justificavam seja mau augúrio e o exemplo algarvio em nada tranquilize."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 1108,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "ID",
+        "string": "O Sr. João Corregedor da Fonseca (Indep.)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que é preciso é fazer um inquérito!..."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 1108,
+      "speaker": {
+        "id": 1131,
+        "name": "Sérgio José Ferreira Ribeiro",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quando atravessamos o distrito, a conotação imediata que se faz é a da auto-estrada Lisboa-Porto (ou vice-versa), que rasga a região. Duas questões aparecem com a maior pertinência: uma, relativa à ligação a Santarém, prevista para este ano, que tem as principais «falias» previstas no PIDDAC, ou seja, aquelas que respeitam aos acessos e à criação de uma rede efectivamente regional, orçamentadas para 1991 e 1992, assim se anunciando e denunciando atrasos inevitáveis; a outra, de natureza ambiental, diz respeito à construção dos sublanços Torres Novas-Fátima e Fátima-Leiria, e tem repercussões graves no sistema ecológico.\n\nParece evidente que são mais do que suficientes os estudos de impacte ambiental realizados e já existem provas do menosprezo - ou do desprezo - votado a tais questões por parte da Junta Autónoma de Estradas e das empresas concessionárias.\n\nEstes são problemas regionais - mesmo que região ainda não haja construída constitucionalmente ou que haja quem não a queira -, problemas que se consideram da maior relevância e que justificam perguntas directas ao Governo, o que se fará no momento oportuno.\n\nUma vez que falei de problemas ecológicos, não quero deixar de sublinhar, por um lado, a preocupação e, por outro lado, a esperança relativamente a uma ribeira da minha terra, a ribeira de Seiça.\n\nPreocupação por que, sendo reconhecido tratar-se de uma bacia hidrográfica de raras e múltiplas qualidades, há anos que se vem assistindo à sua degradação, muito por responsabilidade de quem maior a tem na sua preservação e na exploração das suas potencial idades culturais, turísticas e outras, ou seja, a autarquia, que não se poupa na poluição da ribeira com a descarga de esgotos, e com a ausência de resolução do problema de lixeiras camarárias a céu aberto.\n\nEsperança por que, para alguns ourenses, essa ribeira se tornou objecto de atenção científica, de estudo, confirmando o que era sentimento: um ecossistema ímpar, espécies zoológicas e botânicas raras. E se e grande a preocupação por se saber o que está em real perigo, grande e também a esperança, dado que um movimento está a nascer, participado, mobilizador, para defesa do que é riqueza de todos e não podem alguns delapidar por ignorância ou por irresponsabilidade.\n\nPretende esta intervenção tocar alguns aspectos do distrito cujos votos a esta Assembleia me trouxeram. Serão peças de um puzzle necessariamente incompleto, de que se deseja ter uma visão integrada, uma perspectiva de conjunto, regional. E se sobre cheias se fala no Ribatejo, se ao distrito nos referimos confundindo, por vezes, o que está em vias de deixar de ser realidade administrativa com a região que existe e não se quer reconhecer, é pertinente uma última referência ao Projecto de Operação Integrada do Vale do Tejo.\n\nQuando se esperava, com alguma ansiedade, o relatório provisório das equipas técnicas - e se sabe estar ele completo e constar de 12 volumes-, é no mínimo preocupante ler conhecimento que a CCR, essa sombria entidade, qual tentacular correia de transmissão, mandou recolher - melhor se diria apreender - exemplares distribuídos, ao que parece por considerar haver, no dito relatório, algo não coincidente com a política governamental ou com a que está no Plano de Desenvolvimento Regional, o que não é o mesmo, mas é igual.\n\nConsidera-se tal situação significativa e grave e não deixarei de, sobre ela, requerer explicações ao Governo e, obviamente, de pedir o acesso a esse relatório provisório, mesmo que tenha gralhas que justifiquem a sua recolha para revisão ...\n\nSr. Presidente e Srs. Deputados: O distrito, a região, o vale do Tejo, bem como quem lá vive e trabalha, merecem outras atenções e outro tratamento que não o de subúrbio e folclórico."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 1108,
+      "speaker": {
+        "id": 1895,
+        "name": "Júlio José Antunes",
+        "party": "PCP",
+        "string": "O Sr. Júlio Antunes (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Nesta intervenção, vou tratar de duas questões relacionadas com a saúde da população do concelho de Felgueiras.\n\nA primeira tem a ver com o deficiente funcionamento do Hospital e a segunda com o encerramento da maternidade local.\n\nSr. Presidente, Srs. Deputados: Felgueiras é um concelho do interior do distrito do Porto que tem uma população estimada em mais de 55 000 pessoas. Este concelho tem registado, nos últimos anos, um grande crescimento em vários sectores, com especial incidência no sector do calçado. Mas, apesar disso, o funcionamento do hospital local é cada vez pior.\n\nDurante vários anos, funcionaram, para além do internamento e serviço de urgência, várias especialidades.\n\nEntretanto, o hospital foi considerado pelo Governo como unidade de atendimento integrada nos centros de saúde; os serviços de especialidade foram suprimidos; os serviços de radiologia quase não funcionam; os serviços de urgência funcionam de forma precária devido a carências de vária ordem.\n\nGrande parte dos doentes, sobretudo os acidentados e os sinistrados, é enviada para outros hospitais, tais como Paredes, Penafiel e São João, servindo o hospital local quase exclusivamente como posto de primeiros socorros."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 1109,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vou ciar de imediato a palavra ao Sr. Deputado Raúl Rêgo para que proceda à leitura e apresentação do voto n.º 113/V, de saudação à memória dos patriotas que, em 11 de Janeiro de 1890, reagiram contra o Ultimatum da aliada Inglaterra."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 1109,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Raúl Rêgo (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "De facto, Sr. Presidente e Srs. Deputados, uma vez que a Assembleia ainda não conhece o voto, antes de fazer a sua apresentação, permito-me lê-lo.\nÉ do seguinte teor:\nNo dia 11 de Janeiro de 1990, a Assembleia da República, representando todo o povo português, lembra, com emoção, o brutal Ultimatum da aliada Inglaterra em 11 de Janeiro de 1890.\n\nO Ultimatum e um marco na evolução da mentalidade política nacional. O País como que estremeceu, então, e o socialista Antero de Quental tomou a presidência da Liga Patriótica do Norte, com monárquicos e republicanos unidos no mesmo sentimento de regeneração nacional. Vinte anos depois, seria a República.\n\nO Partido Socialista Português propõe à Assembleia da República um voto de saudação à memória dos patriotas de há um século e de solidariedade com todos quantos se sentem hoje animados do mesmo ideal de patriotismo e de dignidade humana que foi o dos portugueses de há cem anos."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 1109,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 1109,
+      "speaker": {
+        "id": 1131,
+        "name": "Sérgio José Ferreira Ribeiro",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Passando agora à apresentação, direi, Sr. Presidente e Srs. Deputados, que o dia 11 de Janeiro de 1890 não pode ser esquecido pela Assembleia da República, ao findar do século, em 11 de Janeiro de 1990. E só lamento que a vibração que se viu em toda a imprensa não tenha tido correspondência na Assembleia da República no próprio dia 11 de Janeiro de 1990!...\n\nQuanto a mim, há datas históricas, há datas que representam realmente o sentir do povo, e cuja tradição é necessário manter se queremos ser dignos daqueles de quem somos realmente herdeiros ou, se queremos fazer a República democrática, que foi o sonho dos homens de 1890.\n\nO Ultimatum de 1890 enquadra-se nas ambições coloniais da Europa do fim do século passado, em que se desenhavam no horizonte o imperialismo alemão e o imperialismo sul-africano e a ambição de Cecil Rhodes de ligar o Cabo ao Cairo.\n\nÉ nesse cenário político que se enquadra o Ultimatum da Inglaterra ao seu fiel aliado de cinco séculos. Mas o Ultimatum constituiu lambem a última arrancada para a República!\n\nA geração que estava na universidade em 1890 chama-se António José de Almeida, Afonso Costa, Brito Camacho. É essa geração que cobre de crepes a estátua de Camões. Será a mesma geração que, 20 anos depois, arranca, em 5 de Outubro de 1910, com o movimento republicano, verificando-se que os académicos de 1890 são quase todos membros do I Governo Provisório da República.\n\nÉ, pois, lembrando essa geração que a Assembleia da República, ao findar de um século, rende homenagem àqueles de quem devemos ser herdeiros.\n\nE é por isso que devemos orgulhar-nos dessa herança!"
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 1109,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Marques Júnior."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 1109,
+      "speaker": {
+        "id": 1114,
+        "name": "António Alves Marques Júnior",
+        "party": "PRD",
+        "string": "O Sr. Marques Júnior (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Também gostaria de me referir a este voto de saudação em relação ao centenário do Ultimatum."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 1110,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Silva Marques."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 1110,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Apoiamos o voto proposto pelo Partido Socialista. Porém, devo dizer que não pretendemos discutir toda a questão que se prende com ele, pois não há razão para isso.\n\nVotaremos favoravelmente este voto, pois somos patriotas, e acontece mesmo que nunca nos empenhámos muito nas internacionais. De facto, o nosso patriotismo é, tal como o dos socialistas, a toda a prova, pelo que apoiaremos o voto em questão.\n\nNo entanto, como temos dificuldades em reduzir estas questões a um formalismo estrito, permito-me apenas uma observação: Sr. Deputado Raúl Rêgo, é um pouco excessivo classificar Antero de Quental como socialista. Como o Sr. Deputado sabe, Antero de Quental era o delegado, em Portugal, da Associação Internacional dos Trabalhadores. No entanto, isso não tem qualquer importância, pois num conceito amplo ele poderá ter sido socialista ou mesmo social-democrata, se entenderem.\n\nDepois de reafirmar a nossa adesão ao sentimento de patriotismo profundo que nos deve unir a todos, gostaria de, a propósito desta efeméride, lembrar que o País continua a ter grandes desafios. Seria, pois, bom que este patriotismo que nos une relativamente a questões do passado, que de uma forma ou de outra estão resolvidas, nos una sobretudo para resolver os grandes desafios do presente e do futuro.\n\nPermito-me lembrar que sempre que a Nação - mas a Nação nunca tem culpa, quem tem culpa é a classe política que a dirige - não é capaz de resolver as questões que se colocam, o regime muda e sobretudo muda a classe política. Ora, isso é altamente salutar!\n\nQuanto aos desafios que temos pela frente, creio que o patriotismo que nos deve unir relativamente ao passado deve unir-nos ao futuro.\n\nTemos problemas de desenvolvimento no nosso país que nos devem unir e não fazer deles divergências gratuitas e inúteis. De facto, temos a necessidade de afirmar os interesses do nosso país no novo concerto das nações; temos a necessidade de preparar as gerações para os desafios que se aproximam, como seja a questão da educação; temos necessidade de dar saúde e condições de vida ao nosso povo.\n\nEstes são, pois, grandes desafios da actualidade, são os nossos ultimatos. Espero que o patriotismo que hoje celebramos relativamente aos ultimatos do passado seja capaz de nos unir relativamente aos desafios do presente e do futuro."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 1110,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado João Amaral."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 1110,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Raúl Rêgo, consideramos que foi justa a insistência que fez no sentido de a Assembleia evocar o centenário do Ultimatum, através do voto e das breves palavras que as diferentes bancadas estão a produzir. O movimento de reacção ao Ultimatum congregou os sentimentos nacionais profundos e os patriotas e democratas que queriam uma pátria que decidisse autonomamente e que, liberta de imposições externas, fosse a Pátria de que todos nos orgulhamos, no passado, no presente e no futuro. Por isso, o Ultimatum, a época do Ultimatum, também é uma lição para os tempos de hoje. É uma lição contra as capitulações do poder político. É uma lição contra e a propósito dos ultimatos mais subtis que também hoje existem, que também hoje aparecem em tomo das nossas posições e decisões. Temos de ser capazes de entender, também nessa dimensão, o Ultimatum.\n\nMas hoje não é dia de falarmos daquilo que nos possa dividir acerca da forma de reagir aos ultimatos subtis com que o presente nos desafia. É a forma de evocarmos, com espírito de congratulação, não o Ultimatum, mas a reacção nacional contra o Ultimatum. É com este espírito que iremos aprovar o voto que propôs."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 1110,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado Filipe Abreu pediu a palavra para que efeito?"
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 1110,
+      "speaker": {
+        "id": 1620,
+        "name": "Filipe Manuel Da Silva Abreu",
+        "party": "PSD",
+        "string": "O Sr. Filipe Abreu (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É para pedir um esclarecimento ao Sr. Deputado João Amaral."
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 1110,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, a Mesa não lhe pode conceder a palavra, porque, tratando-se de uma declaração de voto, não podem ser formulados pedidos de esclarecimento.\n\nVamos, então, proceder à votação do referido voto de saudação, já lido pelo Sr. Deputado Raúl Rêgo.\nSubmetido à votação, foi aprovado por unanimidade, registando-se as ausências do CDS e dos deputados independentes Carlos Macedo, Helena Roseta, João Corregedor da Fonseca e Pegado Lis.\nORDEM DO DIA"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 1110,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, entramos no período da ordem do dia, com a discussão da proposta"
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 1111,
+      "speaker": {
+        "id": 2836,
+        "name": "Eugénio Ramos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto do Ministro da Defesa Nacional (Eugénio Ramos)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Vou fazer apenas uma pequena apresentação da matéria, na medida em que se afigura de simples interpretação o que se passa.\n\nCom efeito, na 13.º Conferência da Organização Hidrográfica Internacional foi aprovada uma alteração a uma das suas bases. Trata-se de uma alteração relativamente simples que permite tomar mais adequada a forma de eleição da respectiva direcção. Nesse sentido, como membro que somos e que aderiu a esta Organização em 1968, precisamos de garantir em termos internacionais a nossa participação.\n\nÉ o Ministério da Defesa a fazer esta apresentação na medida em que, em termos nacionais, o representante na Organização Hidrográfica Internacional é o Instituto Hidrográfico, cujo presidente é, regra geral, um almirante da Armada, que, portanto, está integrado na orgânica do Estado-Maior da Armada.\n\nÉ nestes termos que o Governo apresenta à Assembleia da República esta proposta de resolução."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 1111,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado João Amaral."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 1111,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Secretário de Estado, o pedido de esclarecimento que lhe quero colocar tem o seguinte sentido: nos outros países, designadamente com o nosso tipo de cultura, como os países desta zona da Europa, são também os ministérios da defesa que estão envolvidos neste tipo de actividade? Será que V. Ex.ª, ou os seus representantes, costumam encontrar almirantes, nos encontros em que estão presentes, ou será que estas organizações são normalmente civis?\n\nEste é o pedido de esclarecimento que lhe faço porque, de facto, tenho alguma curiosidade em saber o que se passa."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 1111,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o desejar, tem a palavra o Sr. Secretário de Estado Adjunto do Ministro da Defesa Nacional."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 1111,
+      "speaker": {
+        "id": 2836,
+        "name": "Eugénio Ramos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto do Ministro da Defesa Nacional",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, não tenho grande conhecimento daquilo que se passa noutros países, no entanto, o Sr. Deputado, como profundo conhecedor das questões relacionadas com a defesa, sabe perfeitamente que, de acordo com o nosso enquadramento conceptual e legal de defesa nacional e para além da defesa militar da República, as forças armadas estão incumbidas de outras missões, designadamente as de interesse público, e que, no âmbito dessas missões, as forças armadas, através de qualquer dos seus ramos, desempenham, por força dos meios que lhes estão cometidos, um conjunto de actividades de interesse nacional.\n\nOra, dentro dessas actividades - como aliás, o Sr. Deputado sabe -, e tal como acontece em muitos outros países, tem vindo a ser crescentemente levadas a cabo pelas forças armadas, em colaboração com diversos laboratórios e empresas privadas, investigações em áreas que implicam não só a colaboração nacional como também cooperação internacional.\n\nAssim sendo, uma das organizações que, no âmbito das forças armadas, promove investigação no campo oceanográfico é o Instituto Hidrográfico que, desde há muito tempo - e penso que bem -, está integrado na estrutura das forças armadas, até para evitar duplicações que não se justificariam neste caso e que, desde 1968, representa o País na Organização Hidrográfica Internacional.\n\nNaturalmente, quando não se trata de questões de natureza técnica, de investigação e de colaboração, mas de assuntos de natureza política, o Instituto Hidrográfico recebe toda a orientação conjunta dos Ministérios da Defesa Nacional e dos Negócios Estrangeiros."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 1111,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Armando Vara."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 1111,
+      "speaker": {
+        "id": 614,
+        "name": "Armando António Martins Vara",
+        "party": "PS",
+        "string": "O Sr. Armando Vara (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Embora tivesse sido melhor eu ter pedido esclarecimentos ao Sr. Secretário de Estado sobre a matéria de que vou falar, tal não foi possível, e é essa a razão desta minha intervenção.\n\nNaturalmente que o nosso partido não tem nada a opor a esta proposta de resolução em apreço, votá-la-emos favoravelmente. No entanto, estranhamos que, tal como tem acontecido com outros diplomas - alguns importantes, outros menos -, este pedido de ratificação não tenha sido acompanhado por uma memória justificativa ..."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 1111,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 1111,
+      "speaker": {
+        "id": 614,
+        "name": "Armando António Martins Vara",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... que deveria conter o mínimo indispensável de informação para que pudéssemos saber quais as implicações do que nos é proposto.\n\nComo referi, votaremos favoravelmente, mas estranhamos que o Governo não tenha tido a preocupação de nos trazer um máximo de informação. Neste caso, até por se tratar de uma matéria que, à partida, não parece revestir-se de grande importância, repito que estranhamos a ausência de uma memória justificativa que nos teria permitido conhecer melhor a matéria que vamos votar."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 1111,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 1111,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Secretário de Estado Adjunto do Ministro da Defesa Nacional."
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 1111,
+      "speaker": {
+        "id": 2836,
+        "name": "Eugénio Ramos",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado Adjunto do Ministro da Defesa Nacional",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Ouvi com atenção a intervenção do Sr. Deputado Armando Vara e gostaria de explicar pormenorizadamente o significado desta alteração.\n\nNa verdade, trata-se, apenas, de simplificar o processo de nomeação dos directores da Organização Hidrográfica Internacional.\n\nÉ que há três directores, dos quais um é o presidente. Ora, nos últimos anos, o que se verificou na prática foi que, quando se candidatavam três pessoas, em regra, tornava-se necessário proceder a mais do que uma votação no âmbito da própria Organização. É que havia várias pessoas, representantes de diferentes países, que ficavam em terceiro lugar na votação e que não queriam trabalhar com o presidente escolhido."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 1112,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, não há mais inscrições, pelo que está encerrado o debate.\n\nNos termos do artigo 207.º do Regimento, vamos proceder à votação da proposta de resolução n.º 22/V [aprova para ratificação a emenda ao artigo X (2) da Convenção Relativa à Organização Hidrográfica Internacional.\nSubmetida à votação, foi aprovada por unanimidade, registando-se a ausência dos deputados independentes João Corregedor da Fonseca, Helena Roseta, Carlos Macedo e Pegado Lis.\nSrs. Deputados, a próxima sessão terá lugar na terça--feira, dia 16, pelas 15 horas, com período de antes da ordem do dia, seguido de um período da ordem do dia em que serão apreciados os seguintes diplomas: proposta de lei n.º ST/V (ARM) (alteração, no respeitante à Região Autónoma da Madeira, dos valores de incidência das taxas da sisa), proposta de lei n.º 113/V (ARA (alteração, no que respeita à Região Autónoma dos Açores, dos valores de incidência das laxas da sisa) e projecto de lei n.º 115/V (PCP) (estágio da advocacia e apoio aos advogados estagiários).\n\nSrs. Deputados, está encerrada a sessão."
+    }
+  ]
+}

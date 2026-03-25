@@ -1,0 +1,2182 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "5",
+    "legislative_session": "4",
+    "number": "74",
+    "date": "1991-05-09"
+  },
+  "debate_id": "r3_5_4_74_1991-05-09",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 2452,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.\nEram 10 horas e 30 minutos.\nEstavam presentes os seguintes Srs. Deputados:\n\nPartido Social-Democrata (PPD/PSD):\nAbílio de Mesquita Araújo Guedes.\n\nAlberto Cerqueira de Oliveira.\n\nAlberto Lopes de Melo.\n\nAlberto Monteiro de Araújo.\n\nAlexandre Azevedo Monteiro.\n\nÁlvaro Cordeiro Dâmaso.\n\nAmândio dos Anjos Gomes.\n\nAmândio Santa Cruz Basto Oliveira.\n\nAntónio Abílio Costa.\n\nAntónio Augusto Lacerda Queirós.\n\nAntónio Augusto Ramos.\n\nAntónio de Carvalho Martins.\n\nAntónio Costa de A. Sousa Lara.\n\nAntónio Fernandes Ribeiro.\n\nAntónio Manuel Lopes Tavares.\n\nAntónio Maria Oliveira de Matos.\n\nAntónio Sérgio Barbosa de Azevedo.\n\nAntónio da Silva Bacelar.\n\nArlindo da Silva André Moreira.\n\nArmando Lopes Correia Costa.\n\nArnaldo Angelo Brito Lhamas.\n\nBelarmino Henriques Correia.\n\nCarlos Manuel Duarte Oliveira.\n\nCarlos Manuel Pereira Baptista.\n\nCasimiro Gomes Pereira.\n\nCecília Pita Catarino.\n\nDaniel Abílio Ferreira Bastos.\n\nDomingos Duarte Lima.\n\nDomingos da Silva e Sousa.\n\nDulcíneo António Campos Rebelo.\n\nErcília Domingues M. P. Ribeiro da Silva.\n\nEvaristo de Almeida Guerra de Oliveira.\n\nFernando Barata Rocha.\n\nFernando Dias de Carvalho Conceição.\n\nFernando Manuel Alves Cardoso Ferreira.\n\nFrancisco Antunes da Silva.\n\nFrancisco Mendes Costa.\n\nGuido Orlando de Freitas Rodrigues.\n\nHilário Torres Azevedo Marques.\n\nJoão Álvaro Poças Santos.\n\nJoão Costa da Silva.\n\nJoão Domingos F. de Abreu Salgado.\n\nJoão José Pedreira de Matos.\n\nJoão José da Silva Maçãs.\n\nJoão Maria Ferreira Teixeira.\n\nJoão Maria Oliveira Martins.\n\nJoaquim Eduardo Gomes.\n\nJoaquim Fernandes Marques\n\nJorge Paulo Seabra Roque da Cunha\n\nJosé Alberto Puig dos Santos Costa.\n\nJosé Assunção Marques.\n\nJosé Augusto Ferreira de Campos.\n\nJosé Guilherme Pereira Coelho dos Reis.\n\nJosé Lapa Pessoa Paiva.\n\nJosé Leite Machado.\n\nLicinio Moreira da Silva.\n\nLuís António Martins.\n\nLuís Filipe Garrido Pais de Sousa.\n\nLuís Manuel Neves Rodrigues.\n\nLuís da Silva Carvalho.\n\nManuel António Sá Fernandes.\n\nManuel Augusto Pinto de Barros.\n\nManuel Ferreira Martins.\n\nManuel João Vaz Freixo.\n\nMaria Helena Ferreira Mourão.\n\nMaria Antónia Pinho e Melo.\n\nMaria da Conceição U. de Castro Pereira.\n\nMaria Luísa Lourenço Ferreira.\n\nMaria Leonor Beleza M. Tavares.\n\nMaria Manuela Aguiar Moreira.\n\nMaria Teresa Pinto Basto Gouveia.\n\nMário Jorge Belo Maciel.\n\nMário de Oliveira Mendes dos Santos.\n\nMary Patrícia Pinheiro e Lança.\n\nMiguel Fernando C. de Miranda Relvas.\n\nPedro Domingos de S. e Holstein Campilho.\n\nPedro Manuel Cruz Roseta.\n\nReinaldo Alberto Ramos Gomes.\n\nRui Carlos Alvarez Carp.\n\nRui Gomes da Silva\n\nValdemar Cardoso Alves.\n\nVítor Pereira Crespo.\n\nWalter Lopes Teixeira.\nPartido Socialista (PS):\nAdemar Sequeira de Carvalho.\n\nAlberto Alexandre Vicente.\n\nAlberto de Sousa Martins.\n\nAntónio Carlos Ribeiro Campos.\n\nAntónio Domingues de Azevedo.\n\nAntónio Manuel Henriques Oliveira.\n\nEdite Fátima Matreiros Estrela.\n\nHelena de Melo Torres Marques.\n\nHenrique do Carmo Carmine.\n\nJoão Rui Gaspar de Almeida.\n\nJosé Barbosa Mota.\n\nJosé Carlos P. Basto da Mota Torres.\n\nJosé Manuel Lello Ribeiro de Almeida.\n\nJúlio da Piedade Nunes Henriques.\n\nLaurentino José Castro Dias.\n\nLeonor Cominho dos Santos.\n\nLuís Geordano dos Santos Covas.\n\nManuel Alegre de Melo Duarte.\n\nManuel António dos Santos.\n\nMaria Julieta Ferreira B. Sampaio.\n\nMário Manuel Cal Brandão.\n\nRaul Fernando Sousela da Costa Brito.\n\nRui António Ferreira Cunha.\n\nRui do Nascimento Rabaça Vieira.\nPartido Comunista Português (PCP):\nÁlvaro Favas Brasileiro.\n\nAntónio Filipe Gaião Rodrigues.\n\nAntónio da Silva Mota.\n\nCarlos Alfredo Brito.\n\nJerónimo Carvalho de Sousa.\n\nJoão António Gonçalves do Amaral.\n\nJoaquim António Rebocho Teixeira.\n\nJosé Manuel Antunes Mendes.\n\nJosé Manuel Maia Nunes de Almeida.\n\nJúlio José Antunes.\n\nLuís Manuel Loureiro Roque.\n\nManuel Anastácio Filipe."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 2453,
+      "speaker": {
+        "id": 1054,
+        "name": "Hermínio Paiva Fernandes Martinho",
+        "party": "PRD",
+        "string": "O Sr. Hermínio Martinho (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Importantíssimas mudanças político-sociais recentemente registadas nos PALOP- referimo-nos, concretamente, à institucionalização do multipartidarismo na República de Cabo Verde e na República Democrática de São Tomé e Príncipe, culminando em actos eleitorais que podem ser considerados um exemplo no continente africano e, bem assim, à celebração, de há muito previsível, de acordos de cessar fogo na República Popular de Angola e na República Popular de Moçambique - levaram o PRD a suscitar este debate sobre os novos desafios e os novos caminhos de Portugal no domínio da cooperação.\n\nEntendemos preencher aquilo que seria uma lacuna desta legislatura e por isso solicitámos o debate, nesta sede, da questão - que reputamos de crucial - da cooperação.\n\nContinuamos, pois, a ser oposição construtiva. Foi nesse quadro estrito que entendemos promover esta interpelação.\n\nQueremos que dela resultem ideias, debates e propostas para uma política de cooperação diferente no futuro que está a configurar-se.\n\nQueremos, enfim, que a interpelação seja muito mais uma atitude prospectiva, definidora de cenários estratégicos de cooperação, do que uma atitude persecutória contra este ou aquele Governo.\n\nA cooperação não é apenas uma questão de Governo. É uma questão nacional e, por isso, deve ser debatida - pelo menos nas suas orientações estratégicas prioritárias - na Assembleia da República. E esta é a primeira vez que, ao cabo de cinco legislaturas, o Plenário é chamado a debater este importantíssimo tema.\n\nPor isso - e só por isso - ousámos interpelar: para debater, para discutir novos rumos para os caminhos do futuro que temos de saber trilhar. A bem dos PALOP e para bem de Portugal.\n\nÉ incontestável que os governos de Cavaco Silva têm sido aqueles que mais se preocuparam com a chamada «política de cooperação». Esta convicção está, inclusive, presente nos discursos da generalidade dos líderes dos PALOP, pelo que parece-nos não dever merecer contestação."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 2453,
+      "speaker": {
+        "id": 643,
+        "name": "Domingos Duarte Lima",
+        "party": "PSD",
+        "string": "O Sr. Domingos Duarte Lima (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 2453,
+      "speaker": {
+        "id": 1054,
+        "name": "Hermínio Paiva Fernandes Martinho",
+        "party": "PRD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Todavia, esses governos não lograram conceber, organizar e implementar uma verdadeira política, concertada e integrada, de cooperação.\n\nÉ que, independentemente da seriedade, das boas- vontades e da eventual competência técnica dos governantes, a cooperação não é um simples estado de espírito, mas antes uma prática sistemática, orientada para a previsão - e até, por vezes, para a própria antecipação - dos acontecimentos, por forma a encontrarem-se, em cada momento, as soluções adaptativas mais eficazes e mutuamente mais gratifícantes.\n\nQuer isto dizer que não basta ser interlocutor passivo. É preciso que haja também uma vontade política forte, determinada e divulgada junto de adequados universos alvo, que se expresse, no quotidiano, em acções de antecipação e na criação de esferas de influência e de poder real.\n\nEm Portugal ainda vamos tendo gente que se preocupa com - e quer - a cooperação. Mas não temos estruturas e recursos que, na escala desejável, respondam às novas e crescentes solicitações que, directa ou indirectamente, nos são formuladas.\n\nEm termos institucionais, a cooperação tem vindo a ser conduzida sem preocupações de mútua dependência e de integração das acções conduzidas por vários ministérios. Não há programas finalizados de actuação em sectores estratégicos de cooperação e não existe, verdadeiramente, uma instância política preocupada, exclusivamente, com a coordenação das acções e com a compatibilização dos objectivos subjacentes a uma política, organizada e actuante, de cooperação.\nHá países europeus - como a França - que parecem entender melhor os resultados da análise custos/benefícios que se impõe formular em matéria de cooperação. A França aplica uma política agressiva, partindo das questões culturais, para penetrar nos aspectos económicos. Essa política é definida e coordenada por uma instância, no caso, o Ministério da Cooperação, que não se miscigena nem confunde com o Ministério dos Negócios Estrangeiros.\n\nEm Portugal temos um Ministério dos Negócios Estrangeiros, uma Secretaria de Estado da Integração Europeia e uma Secretaria de Estado dos Negócios Estrangeiros, que também faz cooperação. E temos ainda o Instituto para a Cooperação Económica, a Direcção- Geral da Cooperação, a Secretaria de Estado da Cultura, os ministérios - com vários departamentos orientados para a cooperação -. as empresas públicas (financeiras e não financeiras) e organismos públicos diversos, todos eles, decerto, fazendo o melhor possível, mas sem qualquer fio condutor que articule e integre as actividades que desenvolvem, visando a prossecução de objectivos concretos à luz de uma motivação nacional.\n\nA sobreposição de funções entre delegados do ICEP\n\n- Instituto do Comércio Externo Português -, do ICE\n\n- Instituto para a Cooperação Económica - e dos conselheiros económicos das embaixadas revela bem a descoordenação existente. Que papel se encontra reservado aos representantes de cada um dos organismos citados? Quem assegura a necessária coordenação das suas intervenções? Que articulação existe entre cada uma das referidas antenas[...]"
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 2456,
+      "speaker": {
+        "id": 1037,
+        "name": "José Manuel Durão Barroso",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação (Durão Barroso)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Permitam-me, em primeiro lugar, que felicite o partido interpelante pela iniciativa que tomou de trazer a esta Assembleia o tema da cooperação."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 2456,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Claro!"
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 2456,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É devido!"
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 2456,
+      "speaker": {
+        "id": 1054,
+        "name": "Hermínio Paiva Fernandes Martinho",
+        "party": "PRD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Pergunto-me, aliás, por que razão só agora esta Assembleia resolveu tratar a nível de Plenário um assunto de tão relevante interesse nacional.\nDesde o primeiro momento que o Governo considerou a política de cooperação como um vector essencial da política externa portuguesa O Programa do Governo apresentado em 1987, a esta Assembleia, é muito claro quando refere a este propósito que se trata de suma política de interesse nacional a longo prazo».\n\nHoje, passados que são quase quatro anos, é possível dizer que os resultados obtidos são indubitavelmente positivos. E isto essencialmente porque toda a actividade desenvolvida pelas estruturas competentes tem assentado em bases sólidas e em princípios claros e sem ambiguidades, ou seja, porque existe de facto uma política.\n\nComo todos estão certamente recordados, as relações entre Portugal e as ex-colónias caracterizaram-se, inicialmente, por uma enorme instabilidade, que só a pouco e pouco pôde ser ultrapassada com o desenvolvimento e sedimentação da indispensável confiança entre todos os países envolvidos e ultrapassados que foram, na medida do possível, os traumas que a colonização e, sobretudo, a descolonização criaram.\n\nManda a verdade que se reconheça que o salto qualitativo nesta matéria só veio porém a ser dado com os governos do Prof. Cavaco Silva, isso pareceu-me, aliás, ter ficado reconhecido na intervenção inicial do Sr. Deputado interpelante. Com efeito, o êxito ou inêxito de uma qualquer política de cooperação depende essencialmente da base em que assenta, ou seja, da definição clara, a nível político, das relações entre os Estados envolvidos.\n\nNessa medida, o correcto desenvolvimento da política de cooperação dependia, prima facie, da criação de relações políticas de alto nível e sem ambiguidades com os países africanos de língua oficial portuguesa assumindo conscientemente essa prioridade.\n\nAo colocar as nossas relações com esses países no plano Estado a Estado e Governo a Governo, conseguimos aprofundar um relacionamento descomplexado e qualitativamente novo, recusando alinhamentos ideológicos e partidários que tão nocivos ao interesse nacional demonstraram ser no passado. Interesse nacional cuja defesa ,nunca é demais dizê-lo, constitui sempre o primeiro motivo da actividade do Governo nesta matéria.\n\nToma-se particularmente gratificante verificar que a melhoria dessas relações políticas é sobretudo reconhecida, em palavras e actos, pelos países com os quais cooperamos. Símbolo evidente desse facto foi a realização, em Bissau, da primeira cimeira dos Ministros dos Negócios Estrangeiros dos países africanos de língua oficial portuguesa e de Portugal, ideia que havia sido lançada há já bastante tempo, mas que nunca, até agora, tinha sido concretizada.\n\nNão é também, certamente, por acaso que, num momento histórico em que profundas mutações tinham lugar, esses países procuraram auxílio junto de Portugal, que assim pôde apoiar, recentemente, as primeiras eleições realmente democráticas em Cabo Verde e em São Tomé Príncipe. Nem a nossa intervenção mediadora no conflito angolano teria sido possível se não fosse o paciente e por vezes imperceptível trabalho de criação de confiança que antecedeu a actuação visível nesse mesmo processo. Criada, assim, a indispensável estabilidade no relacionamento político, novas perspectivas se podiam naturalmente abrir ao desenvolvimento da política de cooperação.\n\nSr. Presidente, Srs. Deputados: A política portuguesa de cooperação, para além das considerações de fundo que orientam qualquer esforço de ajuda ao desenvolvimento, tem assentado em quatro ideias essenciais.\n\nEm primeiro lugar, trata-se de um instrumento indispensável da acção diplomática, contribuindo de forma decisiva para a afirmação do nosso país no seio da comunidade internacional, permitindo-nos granjear o respeito generalizado dos nossos parceiros, pelo modo actuante e responsável como temos assumido como imperativo ético de solidariedade o auxílio ao desenvolvimento dos países e povos mais necessitados que vivem, com frequência, condições dramáticas que todos conhecemos.\n\nEm segundo lugar, é um meio de reforçar os laços que nos unem aos Estados e regiões a que tradicionalmente nos encontramos mais ligados por motivos que a história e a cultura criaram e que a vontade dos homens alicerçou, muito em especial no que toca aos países africanos de língua oficial portuguesa. Se tradicionalmente a manutenção desses laços sempre foi uma prioridade da acção externa do Estado, hoje, perante as mutações aceleradas e de consequências imprevisíveis a que assistimos nas relações internacionais, torna-se ainda mais indispensável estreitar esses vínculos.\n\nCom efeito, é nestes momentos de maior instabilidade que os países devem afirmar, reiteradamente, os elementos definidores da sua especificidade político-diplomática e geopolítica no plano internacional.\n\nO nosso país está hoje envolvido profundamente no esforço da construção europeia e, precisamente nessa perspectiva, o reforço das nossas ligações a África é útil. Com efeito, a Europa, espaço tradicionalmente aberto ao relacionamento com outras áreas do mundo, não pode nem deve fechar-se sobre si própria neste momento crucial e a actuação de Portugal e de outros países comunitários com vocação extra -europeia é indispensável para contrariar uma eventual tendência exclusivista ,ou centrípeta no processo de integração.\n\nEm terceiro lugar, a política de cooperação constituição um meio indispensável para o reforço, no plano externo, da acção dos agentes económicos portugueses, tendo em conta a necessidade da internacionalização da nossa economia. Há que ter sempre em mente que, no quadro da criação do mercado único europeu, se poderá naturalmente vir a assistir a uma especialização das economias dos diversos países em determinados sectores ou mercados. O nosso país terá assim de utilizar as suas armas específicas, uma das quais é, sem dúvida, o especial relacionamento com África, que tenderá naturalmente a contribuir para o aumento do seu peso relativo no quadro europeu.\n\nEm quarto e último lugar, a política de cooperação tem partido da assunção clara e descomplexada de que é uma actividade que, dentro dos objectivos que visa obter, se deve nortear sempre pela necessidade de criar vantagens e benefícios para todas as entidades envolvidas, quer o pais dador, quer os países beneficiários."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 2459,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Inscreveram-se para pedir esclarecimentos ao Sr. Secretário de Estado os Srs. Deputados Carlos Lilaia, João Corregedor da Fonseca, José Manuel Lello, José Apolinário, Edite Estrela, Hermínio Martinho, António Mota Veiga, Rui Silva e João Amaral.\n\nComeçando pelos pedidos de esclarecimento ao Sr. Deputado Hermínio Martinho, tem a palavra o Sr. Deputado João Amaral."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 2459,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Hermínio Martinho, V. Ex.ª , no início da sua intervenção, começou por expor e analisar os objectivos que, no seu entendimento e no do seu grupo parlamentar, se pretendiam com esta interpelação e assinalou, como o principal deles, uma função prospectiva em relação à matéria da cooperação e não tanto a análise ou a crítica à acção do Governo, deste ou de qualquer outro.\n\nCreio que a figura da interpelação tem, no quadro constitucional e regimental, um papel claramente definido, isto é, está enquadrada no conjunto das figuras e dos meios de fiscalização política da acção do Governo, por parte da Assembleia da República.\n\nAssim sendo, parece-me que esta situação não é muito clara, porque a figura da interpelação está a ser usada para uma função diferente daquela que deveria ser a sua. Creio, no entanto, que devemos preservar a função e a dignidade próprias das figuras constitucionais e regimentais.\n\nPortanto, perguntava ao Sr. Deputado Hermínio Martinho se, neste quadro, não teria sido preferível utilizar outro sistema para atingir este objectivo, fazendo, por exemplo, como fizemos ontem em relação ao acordo ortográfico, um colóquio parlamentar, o que, aliás, permitiria a intervenção de técnicos e de outras pessoas sobre esta matéria, salvaguardando, dessa forma, a função e a natureza próprias da figura da interpelação, que são totalmente diferentes."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 2459,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 2459,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Rui Gomes da Silva."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 2459,
+      "speaker": {
+        "id": 1401,
+        "name": "Rui Manuel Lobo Gomes Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Rui Gomes da Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Hermínio Martinho, o PSD compreende o seu dilema, isto é, querer dizer mal sem ter de quê.\n\nO Sr. Deputado veio aqui com concepções que nos espantam: apresentou uma concepção mercantilista da cooperação, quando diz que esta tem de ser uma moeda de troca; referiu um não muito definido relacionamento entre o Estado e os PALOP, que nós preferimos classificar de Estado a Estado, e apelou, indirectamente, a políticas de dumping, quando diz que o Governo não olha a isso, porque outros países o fazem.\n\nNo fundo, o que o Sr. Deputado Hermínio Martinho aqui trouxe foram, tão-só, críticas orgânicas e acabou propondo, como súmula da sua intervenção, a criação de comissões... e mais comissões...\n\nUma só nota, Sr. Deputado Hermínio Martinho: a tal comissão interministerial que o Sr. Deputado aqui propôs está criada desde 1983 e só reuniu neste governo por iniciativa do Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação."
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 2460,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para um pedido de esclarecimento, tem a palavra o Sr. Deputado Pedro Roseta."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 2460,
+      "speaker": {
+        "id": 344,
+        "name": "Pedro Manuel Cruz Roseta",
+        "party": "PSD",
+        "string": "O Sr. Pedro Roseta (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Hermínio Maninho, todos reconhecemos o grande interesse desta interpelação, mas não quero deixar de referir que, ao contrário do que poderia resultar da sua intervenção inicial, a política de cooperação já foi debatida com a presença, que todos agradecemos, do Sr. Secretário de Estado, no seio da Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação, desta Assembleia.\n\nO Sr. Deputado, na sua intervenção, reconheceu que os governos de Cavaco Silva são os que mais se têm preocupado com a cooperação. Era o que faltava se o não fizesse, pois julgo que essa é uma opinião pacífica, mesmo fora das nossas fronteiras!\n\nNo entanto, surpreendeu-me muito a sua intervenção pelas razões que passo a expor em primeiro lugar, não compreendo como é que se pode ter uma perspectiva da cooperação, a meu ver, mais negativa do que os próprios dirigentes de todos os países de expressão oficial portuguesa; em segundo lugar, como é que ainda se pode assentar, em grande parte, a crítica, como, aliás, já foi aflorado pelo meu colega Rui Gomes da Silva, sobre questões orgânicas. Isto é, Sr. Deputado, uma visão completamente ultrapassada da política, é o velho vezo que ainda aparece - e que não esperava ouvir sair da sua boca - de pensar que se resolvem os problemas criando mais organismos ou mais comissões. É evidente que isto é uma concepção totalmente -e não quero empregar alguma expressão excessiva, pois tenho muito respeito por si - arcaica da política.\n\nPor outro lado, ainda, a concepção redutora da cooperação que resulta da sua intervenção deu-me a impressão de que o Sr. Deputado faz uma apreciação demasiado quantitativa da cooperação. Esperava ouvi-lo falar mais sobre os princípios, a qualidade e a eficácia da cooperação que Portugal faz.\n\nO Sr. Deputado também nada disse sobre o papel de Portugal no debate e preparação da 4.ª Convenção de Lomé e, com surpresa minha, não referiu a acção desenvolvida pelo Governo para a obtenção da paz, sobretudo em Angola, nem o apoio dado, quando solicitado - não apenas pelo Governo, mas também por esta Assembleia-, para a realização de eleições e para o funcionamento de instituições democráticas.\n\nAssim, pergunto: não considera o Sr. Deputado que o trabalho sobre os pressupostos em que deve assentar a cooperação se deve incluir dentro dessa concepção alargada de cooperação? O desenvolvimento de que tanto se falou e que o preocupa tão justamente será possível sem que antes se trabalhe para a paz? Dentro em breve, quando fizer a minha intervenção, tentarei demonstrar que não é possível! Terá a cooperação o mínimo de eficácia sem paz?\n\nFinalmente, Sr. Deputado, quer eu, quer outros deputados, já aqui temos falado da concepção de democracia actual, que, para além dos direitos do homem e de todas as liberdades que a ela estão ligados, é hoje também um pressuposto do desenvolvimento. Ora, ao auxiliar a instauração e o funcionamento dos mecanismos democráticos nesses países africanos, não estará também Portugal a fazer cooperação ao mais alto nível ético, cultural e axiológico que a cooperação pode atingir?\nEntretanto, assumiu a presidência o Sr. Vice-Presidente José Manuel Maia."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 2460,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o desejar, tem a palavra o Sr. Deputado Hermínio Martinho."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 2460,
+      "speaker": {
+        "id": 1054,
+        "name": "Hermínio Paiva Fernandes Martinho",
+        "party": "PRD",
+        "string": "O Sr. Hermínio Martinho (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Srs. Deputados, vou tentar ser breve, pois o tempo não é muito e, como já referi, vão ainda fazer-se diversas intervenções sectoriais.\n\nSr. Deputado João Amaral, em meu entender, a figura da interpelação é para interpelar, e de facto nós interpelámos. Basta lembrar as questões colocadas pelos deputados do PSD e as críticas que fizeram à minha intervenção para perceber que, de facto, a questão que me colocou está, de certa forma, ultrapassada. De qualquer forma, agradeço-lhe, mas devo dizer-lhe que o facto de interpelarmos aqui o Governo não impede que não se desenvolvam mais iniciativas, como, por exemplo, colóquios ou quaisquer outras, para debater esta questão, que, como referi na minha intervenção, é nacional e não apenas uma questão de Governo.\n\nNo entanto, pretendi sobretudo deixar claro que muito mais do que estar a olhar para o passado, sem, no entanto, deixar de olhar, sobretudo, para aquilo que não se fez e se poderia ter feito, estou preocupado em debater as questões do futuro, exactamente numa altura em que, neste ano de 1991, se realizaram eleições em Cabo Verde e São Tomé e Príncipe, que podem ser consideradas um exemplo para toda a África e em que, finalmente, estamos à beira da assinatura dos acordos de cessar fogo em Angola e Moçambique, tentando demonstrar que não é possível, no futuro, continuar a encarar estas questões da mesma fornia como têm sido encaradas, porque as respostas vão ter de[...]"
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 2461,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "ID",
+        "string": "O Sr. João Corregedor da Fonseca (Indep.)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, permite-me que o interrompa?"
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 2461,
+      "speaker": {
+        "id": 1054,
+        "name": "Hermínio Paiva Fernandes Martinho",
+        "party": "PRD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 2461,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "ID",
+        "string": "O Sr. João Corregedor da Fonseca (Indep.)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, V. Ex.1, que é líder de um grupo parlamentar, é capaz de me dizer se alguma vez levantou essa questão em sede de conferências de líderes? Quem é o deputado do PRD que faz parte dessa comissão? Que tipo de cooperação tem dado o PRD à cooperação institucional que deve existir nessa comissão e, nomeadamente, também na Comissão dos Negócios Estrangeiros? Vamos lá ver se realmente nós podemos ver as coisas tal como elas são!"
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 2461,
+      "speaker": {
+        "id": 344,
+        "name": "Pedro Manuel Cruz Roseta",
+        "party": "PSD",
+        "string": "O Sr. Pedro Roseta (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 2461,
+      "speaker": {
+        "id": 1054,
+        "name": "Hermínio Paiva Fernandes Martinho",
+        "party": "PRD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, em relação à questão que me coloca sobre a Comissão dos Negócios Estrangeiros, gostaria de responder, mas não posso. Talvez o meu colega, Sr. Deputado Marques Júnior, que faz parte dessa comissão, queira responder-lhe, embora o tempo de que dispomos seja já muito escasso.\n\nEm relação às outras questões, endereço a resposta para o líder parlamentar do PRD, que já há muito tempo não sou eu, mas o Sr. Deputado Carlos Lilaia, que certamente terá todo o prazer em lhe responder."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 2461,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vou agora dar a palavra aos Srs. Deputados que se inscreveram para pedir esclarecimentos ao Sr. Secretário de Estado dos Negócios Estrangeiros.\n\nTem, pois, a palavra o Sr. Deputado Carlos Lilaia."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 2461,
+      "speaker": {
+        "id": 1021,
+        "name": "José Carlos Pereira Lilaia",
+        "party": "PRD",
+        "string": "O Sr. Carlos Lilaia (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Secretário de Estado, V. Ex.1 começou a sua intervenção dando nota de uma certa admiração por este tema da cooperação nunca ter sido discutido, em jeito de interpelação, na Assembleia da República.\n\nV. Ex.ª tem razão e, pela parte do PRD, penitenciamo-nos por esse facto e estamos aqui hoje para nos redimirmos, ficando mais uma vez demonstrado que só por nossa iniciativa veio à Assembleia da República um tema da maior actualidade e relevância para o futuro do País e de muitos portugueses."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 2462,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Secretário de Estado, há ainda outros pedidos de esclarecimento. Deseja responder já ou no fim?"
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 2462,
+      "speaker": {
+        "id": 1037,
+        "name": "José Manuel Durão Barroso",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "No fim. Sr. Presidente."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 2462,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado João Corregedor da Fonseca."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 2462,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "ID",
+        "string": "O Sr. João Corregedor da Fonseca (Indep.)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação, depois de o ouvirmos poderíamos dizer que vivemos num mar de rosas no campo da cooperação. É evidente que V. Ex.ª sabe como todos nós sabemos, que não é assim, basta falar com cooperantes, com os agentes económicos e também com as embaixadas e com os governantes dos PALOP.\n\nO Sr. Secretário de Estado declarou que os resultados positivos assentam em bases sólidas e que existe, efectivamente, uma política de cooperação.\n\nO Sr. Deputado Pedro Roseta vem e diz: «Essa política de cooperação já foi apresentada na Comissão dos Negócios Estrangeiros, Comunidades Portuguesas e Cooperação.» E não é apenas num discurso, Sr. Secretário de Estado, nem apenas numa reunião da Comissão dos Negócios Estrangeiros, Comunidades Portuguesas e Cooperação para tratar de questões específicas, nomeadamente sobre Angola, que é exposta uma política de cooperação.\n\nAo longo dos anos não tem sido apresentada qualquer política de cooperação, nem pelo Ministro dos Negócios Estrangeiros, nem por V. Ex.ª, e se, por um lado, compreendemos alguma dificuldade por parte de V. Ex.ª em fazê-lo, a verdade é que o Governo, em geral, devia apresentar uma política concreta de cooperação e de pôr preto no branco o que existe de positivo e de negativo nessa matéria.\n\nSr. Secretário de Estado, sei que há casos pontuais, alguns positivos, e V. Ex.ª pode com isso fazer um brilharete- não sou contra isso -, mas o que, efectivamente, há são alguns casos pontuais e pouco mais, como, aliás, facilmente se verificará. Aliás, o seu discurso carece de uma outra apreciação mais profunda, que estamos dispostos a fazer, caso por caso, ponto por ponto, país por país e por sectores.\n\nV. Ex.ª, a certa altura do seu discurso, disse uma coisa que considero grave: «Ultrapassados os traumas da colonização, e sobretudo da descolonizaçao [...].» Sr. Secretário de Estado, para os países africanos não há traumas da descolonizaçao."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 2463,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado José Lello."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 2463,
+      "speaker": {
+        "id": 734,
+        "name": "José Manuel Lello Ribeiro De Almeida",
+        "party": "PS",
+        "string": "O Sr. José Lello (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação, adivinhou-se alguma amargura, porventura, a perpassar das suas palavras quando lamentou o facto de só agora ser tratada no Parlamento a questão da política de cooperação. Era justo que assim o fizesse, mas também era justo que fosse o PSD a suscitar aqui tal debate.\n\nEsteve bem o PRD que, assim, ao debater a cooperação, objectivamente cooperou com o Sr. Secretário de Estado.\n\nAlguns aspectos da política de cooperação desenvolvida pelo Governo têm merecido, como é conhecido, o apoio institucional do PS, como aconteceu, designadamente, no caso do recente acordo preliminar de cessar fogo em Angola. Essa posição é conhecida e não constitui novidade!\n\nContudo, é patente como a política externa portuguesa vem sendo desenvolvida em compartimentos estanques. Não se entende, pois, muito bem se a política do Sr. Secretário de Estado se insere, e como, na política global do Estado Português. Não se entende, porque ressalta de tudo isto uma clara assintonia entre as posições do Sr. Secretário de Estado e as do Ministro dos Negócios Estrangeiros, de quem ele, institucionalmente, depende.\n\nPior: percebem-se claras quebras de solidariedade institucional não só entre o Ministro dos Negócios Estrangeiros e o Secretário de Estado, mas também entre o Primeiro-Ministro e o Ministro dos Negócios Estrangeiros, que é permanentemente curto- circuitado - utilizando uma linguagem técnica- na ligação preferencial entre o Primeiro-Ministro e o Secretário de Estado dos Negócios Estrangeiros e da Cooperação.\nNão acha, Sr. Ministro,... perdão, Sr. Secretário de Estado - ainda não é ministro, sê-lo-á..."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 2463,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Se ganharmos as eleições em Outubro!"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 2463,
+      "speaker": {
+        "id": 734,
+        "name": "José Manuel Lello Ribeiro De Almeida",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Eu explico: é que o Sr. Secretário de Estado é tão jovem que tem tempo suficiente para esperar um dia ser ministro. Neste momento é demasiado jovem, e, portanto, só se afirma como ministro apenas nessa relação como Secretário de Estado.\n\nAliás, o mesmo verifica-se não só nesta pasta dos Negócios Estrangeiros, mas também na pasta do Ambiente,[...]"
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 2464,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "ID",
+        "string": "O Sr. João Corregedor da Fonseca (Indep.)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Ficamos a saber que o deputado José Lello nunca vai ser ministro!"
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 2464,
+      "speaker": {
+        "id": 734,
+        "name": "José Manuel Lello Ribeiro De Almeida",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Portanto, coloco a seguinte questão: não pensa que esse clima, essa perda permanente de solidariedade institucional no seio do Ministro dos Negócios Estrangeiros, é funesto para a política externa portuguesa? Não pensa que esse clima retira uma maior dimensão estratégica à política global do Estado Português em matéria de negócios estrangeiros? E não pensa que aí, sim, se percebe um espírito tribal em tudo contrário aos interesses de Portugal?"
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 2464,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado José Apolinário."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 2464,
+      "speaker": {
+        "id": 1070,
+        "name": "José Apolinário Nunes Portada",
+        "party": "PS",
+        "string": "O Sr. José Apolinário (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação, vou colocar--lhe uma questão parcelar no quadro da intervenção produzida por V. Ex.ª, mas é uma questão que considero ler um efeito multiplicador, porque sou fiel à frase popular que diz: «Em vez de dares um peixe a alguém com fome ensina-o a pescar.» Exactamente porque penso que a questão da cooperação não é, em relação à formação de quadros superiores e de quadros, dirigentes para os países africanos de língua oficial portuguesa, apenas uma questão de exportação de quadros, mas, sim, de formação e de apoio à formação, gostaria de colocar a V. Ex.ª algumas questões. Considerando, portanto, a necessidade de aprofundar esse relacionamento, nomeadamente através da formação adequada de quadros superiores dos PALOP nos próprios países e em Portugal; considerando a importância de o Estado Português investir fortemente na formação, designadamente garantindo adequadas condições de estudo aos bolseiros nos estabelecimentos de ensino em Portugal; considerando, até, que, para as novas gerações, já se ultrapassou a síndroma do império e, eventualmente, o conflito geracional que tenha existido aquando da guerra colonial; tendo ainda em consideração que o Sr. Secretário de Estado tem manifestado uma particular sensibilidade pessoal para esta temática; tendo em consideração as iniciativas positivas já realizadas pelos serviços competentes da Direcção-Geral da Cooperação, o balanço positivo do trabalho do gabinete de apoio aos bolseiros desta direcção- geral, a execução da parte do Governo de algumas propostas, também por nós subscritas, de melhor acolhimento aos estudantes bolseiros -e a propósito continuamos a aguardar que as associações de estudantes dos PALOP beneficiem da pequena verba de 5000 contos para apoio às suas actividades, aprovada na Assembleia da República por iniciativa do Partido Socialista -, coloco ao Sr. Secretário de Estado quatro questões.\n\nQuais as medidas tomadas para a prossecução de adequadas condições de acolhimento aos bolseiros, nomeadamente o reforço do número de residências disponíveis e, em conjunto com os órgãos próprios dos estabelecimentos de ensino, a adopção de medidas visando promover o sucesso escolar e o processo de retribuição de bolsas e incentivos diversos, etc.?\n\nPara quando a actualização da bolsa que, neste momento, é de 35 400$, após a actualização resultante do passe social e da cantina, que, segundo o Sr. Secretário de Estado, deveria ter sido actualizada em Janeiro -recordo que a última actualização foi feita em Janeiro do ano transacto para 33 400$ -, e que tem sido paga tarde e a más horas? A este propósito, assistimos, ainda recentemente, a uma movimentação dos estudantes de Coimbra, e, Sr. Secretário de Estado, se já não foram bater-lhe à porta terá proximamente uma petição, assinada por todos os estudantes dos PALOP, sobre esta matéria, porque, apesar de V. Ex.ª ter prometido que seria possível pagar a bolsa até ao dia 25 de cada mês, todos os estudantes bolseiros em Portugal têm recebido depois desse dia. É apenas uma decisão administrativa, pois é possível aos serviços pagar no mês anterior àquele a que a bolsa diz respeito.\n\nPara quando e que acções tem desenvolvido no sentido da desburocratização da concessão de vistos para os estudantes bolseiros, uma vez que há casos inadmissíveis devido à burocracia, do ponto de vista da estrutura universitária, e dado que, devido a uma «pescadinha de rabo na boca», se assim se pode dizer, tem havido problemas concretos na concessão de vistos a estes estudantes bolseiros?\n\nPara terminar, para quando a revisão da bolsa aos estudantes dos PALOP?"
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 2464,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 2464,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra a Sr.1 Deputada Edite Estrela."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 2464,
+      "speaker": {
+        "id": 1211,
+        "name": "Edite Fátima Santos Marreiros Estrela",
+        "party": "PS",
+        "string": "A Sr.ª Edite Estrela (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Secretário de Estado, quem o ouvir afirmar, com aparente convicção, que a política de cooperação é uma prioridade do Governo até é capaz de acreditar. Quem o ouvir declarar que a cooperação cultural deu um salto qualitativo, ainda pôde ser levado a pensar que isso é verdade. Mas quem conhecer a realidade cedo se desilude e rapidamente verifica que a política de cooperação cultural não vai além de mera declaração de intenções e, em alguns casos, de belas frases.\n\nNão existe uma estratégia de projecção da cultura e da língua portuguesa no mundo, particularmente em África, nos países de língua oficial portuguesa. Há esforços dispersos, mas não há um plano integrado. E esses esforços dispersos andam pelo Ministério dos Negócios Estrangeiros, pelo Ministério da Educação, pelo ICALP, mas também, e fundamentalmente, pela Fundação Calouste Gulbenkian, pela UNESCO e pela UNICEF.\n\nÉ, de facto, a Fundação Calouste Gulbenkian que tem desenvolvido um projecto de cooperação para promover o ensino da língua portuguesa em África. É esta fundação, e não o Governo, que está a definir os conteúdos programáticos do ensino da língua portuguesa em África e que está a produzir os suportes de apoio - material áudio- visual , livros, etc.!\n\nO Sr. Secretário de Estado falou de feiras do livro - uma por ano, quando é!\n\nFalou também no Fundo Bibliográfico de Moçambique, que seria extensível aos outros países africanos. No entanto, Sr. Secretário de Estado, já ouço isso desde que foi criado esse fundo bibliográfico...\n\nO combate ao analfabetismo tem sido desenvolvido pelos respectivos governos desses países; a formação de formadores também tem sido levada a cabo através da Fundação Gulbenkian."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 2465,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Hermínio Martinho."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 2465,
+      "speaker": {
+        "id": 1054,
+        "name": "Hermínio Paiva Fernandes Martinho",
+        "party": "PRD",
+        "string": "O Sr. Hermínio Martinho (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Era minha intenção fazer um comentário às palavras iniciais do Sr. Deputado José Lello a propósito da realização deste debate, para as quais não consigo encontrar justificação. Mas não o vou fazer, ou, por outras palavras, faço-o agradecendo à Sr.ª Deputada Edite Estrela e ao Sr. Deputado José Apolinário, porque as questões que colocaram demonstram a pertinência e o interesse deste debate.\n\nE talvez tenhamos todos de pensar por que é que uma matéria desta natureza, que, repito, é das mais importantes para o futuro do nosso país, sobretudo devido às profundas transformações que estão a ocorrer nos cinco países africanos de língua oficial portuguesa, só hoje está a ser debatida na Assembleia da República.\n\nSr. Secretário de Estado, vou apenas colocar-lhe duas questões.\n\nUma prende-se com a proposta que fiz há pouco, e que é esta: é incontestável que existe em Portugal a mais vasta informação, os mais valiosos documentos relativos a estudos sobre os mais diversos recursos minerais, agrícolas, silvícolas, piscícolas, redes viárias e tudo o mais que tem a ver com os países africanos de língua oficial portuguesa. É do conhecimento geral que a maior parte desses documentos, desse riquíssimo espólio - que, tal como, disse na minha intervenção, já não dá frutos há muitos anos-, se encontra disperso (sabe-se lá em que condições!) pelos mais variados organismos e departamentos.\n\nV. Ex.ª não acha que é do maior interesse a construção de um centro documental e de informação que reuna todo esse riquíssimo espólio sobre os PALOP?\n\nPor outro lado, Sr. Secretário de Estado, todos reconhecem as enormes dificuldades que irão surgir com a unificação dos exércitos em Angola e Moçambique. Existe a consciência de que o respeitar do cessar-fogo é extremamente importante para aquilo que vier a acontecer no futuro e para o desenvolvimento desses países.\n\nSabendo-se que as Forças Armadas portuguesas dispõem de recursos humanos altamente qualificados, pensa V. Ex.ª que deverá ou não haver um empenhamento e uma participação portuguesa, em termos de cooperação específica, nesta matéria?\n\nE sabendo-se que há uma enorme quantidade de material, algum dele encaixotado há quase duas décadas no depósito de Beirolas, que não tem uma utilidade directa para o território nacional, mas que a pode ler para esses países, o que é que o Sr. Secretário de Estado pensa que pode ser feito para que esse material seja bem utilizado em benefício desses países e deixe de estar a apodrecer no depósito de Beirolas?"
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 2465,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado António Mota."
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 2465,
+      "speaker": {
+        "id": 997,
+        "name": "António Manuel Da Mota Celorico Moreira",
+        "party": "PCP",
+        "string": "O Sr. António Mota (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Secretário de Estado, gostaria de lhe colocar duas perguntas sobre uma matéria que V. Ex.ª não referiu na sua intervenção.\nA primeira tem a ver com os 7000 clandestinos oriundos de países africanos que se encontram em Portugal e que estão numa situação que, tal como o Sr. Secretário de Estado sabe, ofende qualquer estatuto de dignidade do cidadão, que tem o direito a viver, sobretudo quando comparada com a de outros cidadãos de outras comunidades que também vivem em Portugal. Esses cidadãos trabalham nas piores condições, são explorados, ganham 60% do salário de qualquer outro trabalhador, não fazem qualquer desconto para a segurança social, enfim, vivem nas condições que todos conhecemos. Nós, o Governo e o Estado temos uma grande responsabilidade por essa situação, que seria bom que analisássemos.\n\nMas não é só para o empresário privado que esses cidadãos trabalham. Ao passarmos pelo Centro Cultural de Belém, verificamos que é o próprio Estado que emprega nas suas obras essa mão-de-obra barata e fortemente explorada.\n\nSr. Secretário de Estado, o que pensa fazer para legalizar esses 7000 clandestinos?\n\nEsse é um problema «quente», de todos nós. Contudo, é o Governo que tem a responsabilidade directa por essa situação. O que é que se está a fazer para a resolução deste problema?"
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 2465,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 2465,
+      "speaker": {
+        "id": 997,
+        "name": "António Manuel Da Mota Celorico Moreira",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A outra questão que queria colocar-lhe tem a ver com o facto de o Sr. Secretário de Estado ter falado na Convenção de Lomé, dos apoios e da participação de Portugal.\n\nTodos sabemos que os países da CEE não aceitaram as condições mínimas dos países ACP para o perdão das suas dividas externas, as quais são, como V. Ex.ª sabe, asfixiadoras para o seu desenvolvimento. Como podemos verificar no nosso dia- a - dia , nesses países há milhares de crianças a morrer de fome, sem quaisquer condições de sobrevivência.\n\nSendo assim, pensamos que não só é necessária a ajuda directa, que é importante, mas que também há que discutir as dívidas desses países. Essa, sim, é que seria uma boa ajuda para o desenvolvimento desses países.\n\nDado que não conhecemos a posição de Portugal em relação à Comunidade, gostaria de perguntar ao Sr. Secretário de Estado qual foi a posição que Portugal assumiu na discussão do perdão da dívida desses países. E pergunto isto porque, para nós, essa é uma parte importante da cooperação, e na qual nós também temos grandes responsabilidades.\n\nComo sabe, as matérias-primas caíram para preços muito baixos, o que já não acontecia há IS anos, e o problema é que esses países vivem quase exclusivamente à base delas. Portugal deveria, assim, contribuir e defender na Comunidade a renegociação das dívidas desses países. Aliás, note-se, Sr. Secretário de Estado, que também beneficiamos dessas dívidas!"
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 2465,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP e do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 2465,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Rui Silva."
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 2465,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Rui Silva (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados, Sr. Secretário de Estado: Falar de cooperação para com os povos dos antigos territórios em que Portugal[...]"
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 2466,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado João Amaral."
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 2466,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Secretário de Estado, vou fazer-lhe uma pequena pergunta para esclarecer uma dúvida.\n\nV. Ex.ª assinalou-e com isso suponho que estamos de acordo - que em matéria de cooperação económica com estes países de que estamos a falar - tal como os países do Terceiro Mundo e os países africanos de língua oficial portuguesa - é sem qualquer dúvida necessária uma intervenção, um apoio do Estado, o qual poderá configurar-se dos mais diversos modos, uma vez que só dessa forma se poderá concretizar essa cooperação, aliás integradora de várias vertentes implicadoras de riscos que terão de ser garantidos de alguma forma.\n\nEsta linha de pensamento, sendo adequada e razoável, confronta-se com uma realidade curiosa. É que o Sr. Ministro dos Negócios Estrangeiros disse, há pouco tempo, que a cooperação económica era da exclusiva responsabilidade dos empresários.\n\nOra, face àquilo que V. Ex.ª acabou de dizer, pergunto-lhe se estas afirmações do Sr. Ministro dos Negócios Estrangeiros correspondem a uma alteração da política do Ministério ou àquilo que se suspeita, isto é, que o Sr. Ministro dos Negócios Estrangeiros não está muito a par do que se passa com a política de cooperação, que é da sua exclusiva responsabilidade."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 2466,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação."
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 2466,
+      "speaker": {
+        "id": 1037,
+        "name": "José Manuel Durão Barroso",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados, como se constata, foi oportuna a interpelação feita pelo PRD...\n... porque havia imensa matéria que os Srs. Deputados pretendiam abordar. De facto, quando há pouco me admirei por não ter havido até hoje uma discussão em Plenário deste tema, não o fiz por mera figura de retórica, foi sim uma admiração genuína que sinceramente exprimi.\n\nCongratulo-me que tenha sido, de alguma forma, resolvida esta dificuldade, sem prejuízo de constatar que, em sede de comissão, já houve várias ocasiões em que o Governo participou, com os Srs. Deputados, em discussões sobre esta matéria. Não haverá um único caso em que possam dizer que o Sr. Ministro dos Negócios Estrangeiros ou eu próprio se furtaram a participar nessas discussões."
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 2466,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 2466,
+      "speaker": {
+        "id": 1211,
+        "name": "Edite Fátima Santos Marreiros Estrela",
+        "party": "PS",
+        "string": "A Sr.ª Edite Estrela (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nem todos são assim!"
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 2466,
+      "speaker": {
+        "id": 1037,
+        "name": "José Manuel Durão Barroso",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quanto ao pedido de esclarecimento formulado pelo Sr. Deputado Carlos Lilaia no que toca ao facto de a minha intervenção ter sobretudo reflectido questões do passado, é óbvio que pretendi prestar contas à Assembleia. O Governo depende politicamente da Assembleia e julgo que ao sermos interpelados temos o dever de apresentar o que fizemos e a nossa perspectiva sobre o que fizemos. Fi-lo reconhecendo que houve um grande salto em frente, neste governo, com a política de cooperação, mas também sem deixar de reconhecer que ainda persistem dificuldades. Foi por isso que me centrei efectivamente no balanço da actividade recente, sem embargo de agora o nosso debate permitir, quiçá, lançar novas linhas para o futuro.\n\nNo que respeita aos aspectos do Orçamento, quero salientar um ponto importante: o nosso Orçamento tem vindo a crescer em termos reais. Não se pode olhar apenas para as inscrições orçamentais no capítulo do Instituto para a Cooperação Económica e da Direcção-Geral da Cooperação, que são os organismos que, no âmbito do Ministério dos Negócios Estrangeiros, estão encarregados da execução da política de cooperação. Como há pouco salientei, praticamente todos os ministérios desenvolvem hoje em dia acções de cooperação e dispõem de orçamentos próprios. Devo dizer que foi julgado útil prosseguir isso, porque é a forma que temos de mobilizar mais recursos através até das verbas concorrenciais de cada um dos ministérios. Só o Ministério da Defesa Nacional inscreveu já este ano, para cooperação no domínio da defesa, 250000 contos, para além de outras verbas que pode ir buscar a outros programas. Também o Ministério do Emprego e da Segurança Social tem desde há muito uma tradição de programas nesta área.\n\nPoderei depois, se estiverem interessados nisso, fornecer os números exactos sobre esta matéria, em relação à qual, apesar de bastante técnica, disponho de números concretos. Posso, no entanto, assegurar-vos que tem havido nos últimos anos um crescimento muito importante, em termos reais, do nosso esforço financeiro neste domínio da cooperação."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 2467,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 2467,
+      "speaker": {
+        "id": 1037,
+        "name": "José Manuel Durão Barroso",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se me mostrar um outro caso em que os governos desses países digam o que dizem do actual governo em matéria de cooperação, render-me-ei aos seus argumentos. Sc não, o Sr. Deputado desculpar-me-á mas terei de manter os meus argumentos.\nNo que toca à colonização e à descolonização, não quis aqui abrir uma polémica sobre essa matéria, nem penso que ela seja oportuna."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 2467,
+      "speaker": {
+        "id": 690,
+        "name": "João Cerveira Corregedor Da Fonseca",
+        "party": "ID",
+        "string": "O Sr. João Corregedor da Fonseca (Indep.)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "V. Ex.ª é que a trouxe para aqui!"
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 2467,
+      "speaker": {
+        "id": 1037,
+        "name": "José Manuel Durão Barroso",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que vos posso dizer, muito sinceramente, é que há feridas da colonização, mas também houve muitas feridas abertas pela forma como decorreu o processo de descolonização. Essa é a verdade dos factos que temos de encarar de frente, pois trata-se de uma verdade histórica a que não podemos fugir. É pela nossa acção actual e futura que poderemos ajudar a sarar todas essas feridas e a colocar as nossas relações num plano extremamente salutar.\n\nNão desejaria entrar num resposta detalhada aos pontos concretos que referiu, mas posso dizer-lhe que o acordo de pesca celebrado com Moçambique e as dificuldades que se fazem sentir na sua implementação têm a ver com dificuldades logísticas próprias. Os nossos empresários da área das pescas têm preferido como destino das suas pescas quer a Guiné-Bissau quer a Namíbia, que é hoje em dia um dos principais bancos das nossas pescas. Trata-se de uma escolha dos empresários. O acordo está feito e não sou eu que agora vou determinar que os empresários da pesca devem pescar ali ou acolá."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 2468,
+      "speaker": {
+        "id": 1070,
+        "name": "José Apolinário Nunes Portada",
+        "party": "PS",
+        "string": "O Sr. José Apolinário (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Este mês pela primeira vez, embora o Sr. Secretário de Estado tenha prometido que seria desde Janeiro!"
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 2468,
+      "speaker": {
+        "id": 1037,
+        "name": "José Manuel Durão Barroso",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... a que acrescem 17 contos que recebe de três em ires meses e 6500$ para instalações, o que soma cerca de 41 contos por mês. Sendo actualmente o salário mínimo nacional de 40 100$, não poderemos pagar aos bolseiros africanos muito mais do que isso. É verdade que não é muito, mas constitui uma ajuda para os seus estudos, que não vamos poder aumentar.\n\nNão percebo por que é que a oposição em Portugal quer sempre que se gaste mais."
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 2468,
+      "speaker": {
+        "id": 1070,
+        "name": "José Apolinário Nunes Portada",
+        "party": "PS",
+        "string": "O Sr. José Apolinário (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Secretário de Estado foi bolseiro, mas não certamente com esta bolsa!..."
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 2468,
+      "speaker": {
+        "id": 1037,
+        "name": "José Manuel Durão Barroso",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Penso que esta bolsa é a bolsa adequada em termos das possibilidades financeiras de Portugal. É claro que seria melhor que os bolseiros recebessem mais, mas também temos outras prioridades, e neste momento estamos a discutir, por exemplo, a política de cooperação. É evidente que há um interesse desta Assembleia por esta política e, então, todos queremos concentrar mais recursos para a cooperação. Espero que este desejo se concretize no próximo Orçamento do Estado, mas a verdade é que há também outras prioridades em Portugal, como as do nosso próprio desenvolvimento, da saúde, da educação e das infra-estruturas. Existe, enfim, uma série de prioridades em Portugal e não podemos estar constantemente a pretender aumentar os recursos.\n\nJulgo que estas bolsas são importantes, mas temos ainda outras bolsas de formação profissional, que rondam os 90 contos por ano, e que, em alguns casos, para o doutoramento ou estudos muito avançados, atingem valores superiores. Julgo que se trata de um esforço importante, que é reconhecido.\n\nEm Portugal, hoje em dia, de acordo com os números fornecidos pelos serviços, temos 1883 bolseiros originários dos países africanos de língua oficial portuguesa. Este é um aumento muito importante e representa um esforço considerável que temos vindo a fazer, o que não quer dizer que não pudéssemos aumentá-las se houvesse mais recursos.\n\nA Sr.ª Deputada Edite Estrela disse que não há uma política de língua portuguesa e, contrapondo-a à actividade da Fundação Gulbenkian, refere a inactividade do Governo."
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 2469,
+      "speaker": {
+        "id": 1211,
+        "name": "Edite Fátima Santos Marreiros Estrela",
+        "party": "PS",
+        "string": "A Sr.ª Edite Estrela (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não se pode comparar o incomparável!"
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 2469,
+      "speaker": {
+        "id": 1037,
+        "name": "José Manuel Durão Barroso",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "De facto, não posso comparar o incomparável!\nJulgo, sinceramente, que tem havido um esforço.\n\nO Fundo Bibliográfico de Moçambique, que representa um esforço financeiro no total de 115 000 contos, está a funcionar bem - é a opinião do Ministro da Cultura de Moçambique. Quanto aos programas de alfabetização, foi este ano a primeira vez que o Ministério da Educação deu apoio estruturado às escolas portuguesas. Aliás, no que se refere às escolas portuguesas nos países africanos de língua oficial portuguesa - em Luanda, Maputo, Songo, Cabora Bassa, Bissau -, nunca tinha havido esse apoio financeiro. Portanto, sinceramente, acho que este esforço tem de ser reconhecido."
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 2469,
+      "speaker": {
+        "id": 1211,
+        "name": "Edite Fátima Santos Marreiros Estrela",
+        "party": "PS",
+        "string": "A Sr.ª Edite Estrela (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E os centros culturais?"
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 2469,
+      "speaker": {
+        "id": 1037,
+        "name": "José Manuel Durão Barroso",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os centros culturais estão a funcionar regularmente. Dão cursos de Português, muitas vezes até a técnicos dos próprios países.\n\nSr. Deputado Hermínio Maninho, quanto ao espólio documental, digo-lhe que existe esse centro no Instituto para a Cooperação Económica. Simplesmente, todo o espólio do antigo Ministério do Ultramar está guardado, com a máxima segurança, no Instituto para a Cooperação Económica. Porquê? Porque, evidentemente, trata-se de documentação com um valor económico muito grande. Aliás, já uma vez fiz esta revelação em sede de comissão e também posso fazê-lo em Plenário.\n\nEu próprio já recebi comunicações, por exemplo, de companhias petrolíferas internacionais, pedindo estudos sobre o petróleo em Timor. Ora, é óbvio que esses estudos têm de estar sob segredo. Assim, só podemos utilizá-los em casos que sejam a pedido do próprio país beneficiário, e é isso que tem vindo a ser feito.\n\nPortanto, não pode fazer-se a tal política de completa abertura desse espólio documental porque vale muito dinheiro, e embora nalguns casos os estudos estejam desactualizados noutros mantêm-se úteis. Mas a informação relevante possível de ser divulgada está a sê-lo. Ainda agora o Instituto para a Cooperação Económica editou um livro sobre a investigação geológica em Angola.\n\nO ponto da cooperação militar, referido pelo Sr. Deputado, é também matéria que nos tem merecido o maior interesse. Foi este governo o primeiro a realizar acordos de cooperação técnico-militar com os países africanos de língua oficial portuguesa. Repito que não havia um único acordo neste domínio antes de este governo ter entrado em funções. Aliás, (fim vindo a desenvolver-se muitos programas nessa área.\n\nO Sr. Deputado António Mota colocou o problema dos clandestinos e da respectiva legalização. Não se trata de matéria da minha área, mas sim do âmbito do Ministério da Administração Interna. De qualquer maneira, sei que está a proceder-se à elaboração de um diploma, a ser apresentado à Assembleia, para a legalização dos clandestinos em Portugal. Simplesmente, trata-se de uma matéria muito delicada porque, agora, não pode criar-se a ideia de que o nosso país está completamente aberto.\n\nÉ que, como sabe, cooperar com países com um nível de desenvolvimento muito diferenciado pode provocar correntes de imigração que venham a registar-se e que não são do interesse nem de um nem de outro país. Mas foi-nos solicitada, pelo Governo de Cabo Verde, uma atenção especial neste domínio. E no seguimento dessa pretensão contactámos o Ministério da Administração Interna, que está a preparar um diploma tendo em vista uma resolução global do problema dos clandestinos.\n\nInquiriram-me ainda sobre a posição de Portugal, no âmbito da Convenção de Lomé, quanto à dívida externa.\n\nPortugal foi dos países que mais se bateu pela adopção, pela primeira vez, na Convenção de Lomé, de um capítulo sobre a dívida e o ajustamento estrutural, ligando o problema da resolução da dívida à adopção, por esses países, de programas de ajustamento estrutural.\n\nPara terminar, quanto ao que referiu o Sr. Deputado Rui Silva, respondo-lhe que Timor Leste é, talvez, uma lacuna. A nossa política de cooperação tem-se desenvolvido Estado a Estado, mas tomei nota das suas palavras que focaram um ponto importante, o qual, sem dúvida, merece a maior atenção."
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 2470,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vai ser lido um relatório da Comissão de Regimento e Mandatos.\nFoi lido. É o seguinte.\nRelatório e parecer da Comissão de Regimento e Mandatos\nEm reunião da Comissão de Regimento e Mandatos realizada no dia 8 de Maio de 1991, pelas 15 horas, foram observadas as seguintes substituições de deputados:\nSolicitada pelo Grupo Parlamentar do Partido Socialista:\nArmando António Martins Vara (círculo eleitoral de Bragança) por Fernando António Aires Ferreira [esta substituição é solicitada nos termos da alínea b) do n.º 2 do artigo 5.º da Lei n.º 3/85, de 13 de Março (Estatuto dos Deputados), para o período de 9 a 23 de Maio corrente, inclusive];\nAntónio Poppe Lopes Cardoso (círculo eleitoral de Setúbal) por Alberto Marques Antunes [esta substituição é solicitada nos termos da alínea b) do n.º 2 do artigo 5.º da Lei n.º 3/85, de 13 de Março (Estatuto dos Deputados), para o período de 1 a 31 de Maio corrente, inclusive].\nAnalisados os documentos pertinentes de que a Comissão dispunha, verificou-se que os substitutos indicados são realmente os candidatos não eleitos que devem ser chamados ao exercício de funções, considerando a ordem de precedência das respectivas listas eleitorais apresentadas a sufrágio pelos aludidos partidos nos concernentes círculos eleitorais.\n\nForam observados os preceitos regimentais e legais aplicáveis.\n\nFinalmente a Comissão entende proferir o seguinte parecer:\nAs substituições em causa são de admitir, uma vez que se encontram verificados os requisitos legais.\nJoão Domingos F. de Abreu Salgado (PSD), presidente - Alberto Marques de O. e Silva (PS), vice-presidente - Manuel António Sá Fernandes (PSD) - Alberto Monteiro de Araújo (PSD) - Arlindo da Silva André Moreira (PSD) - Belarmino Henriques Correia (PSD) - Carlos Manuel Pereira Baptista (PSD) - Domingos da Silva e Sousa (PSD) - Fernando Monteiro do Amaral (PSD) - João Álvaro Poças Santos (PSD) - José Augusto Ferreira de Campos (PSD) -José Augusto Santos da S. Marques(PSD) - Luís Filipe Garrido Pais de Sousa (PSD) - Valdemar Cardoso Alves (PSD) - Júlio da Piedade Nunes Henriques(PS) - Mário Manuel Cal Brandão (PS) - José Manuel Maia Nunes de Almeida (PCP) - Hermínio Paiva Fernandes Maninho (PRD).\nSrs. Deputados, como não há objecções, vamos votar.\nSubmetido à votação, foi aprovado por unanimidade, registando-se a ausência dos deputados independentes Carlos Macedo, Herculano Pombo, João Corregedor da Fonseca, Jorge Lemos, José Magalhães, Raul Castro e Valente Fernandes.\nSrs. Deputados, vamos interrompera sessão para o intervalo regimental do almoço. Está suspensa a sessão.\nEram 12 horas e 55 minutos.\nApós o intervalo, reassumiu a presidência o Sr. Presidente, Vítor Crespo."
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 2470,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quórum, pelo que está reaberta a sessão.\nEram 15 horas e 25 minutos.\nSrs. Deputados, vais ser lida uma acta relativa ao escrutínio da eleição dos membros para o conselho directivo do Instituto Nacional do Ambiente, realizado na sessão da passada terça-feira.\nFoi lida. É a seguinte:\nActa\nAos 7 dias do mês de Maio de 1991, realizou-se na sala de visitas deste Palácio de São Bento, ao abrigo do artigo 39.º, n.º 7, alínea b) da Lei n.º 11/87, de 7 de Abril, a eleição dos membros para o conselho directivo do Instituto Nacional do Ambiente.\n\nForam presentes a sufrágio duas listas constituídas como seguidamente se indica:\nLista A:\nPaulo Guilherme da Silva Lemos.\n\nVítor Manuel de Oliveira Faria.\n\nPedro Manuel Portugal Natário Botelho Gaspar.\nLista B:\nArmando Abel Castelo Trigo de Abreu.\nO resultado da votação foi o seguinte:\nTotal de votos entrados:\nLista A - 110;\n\nLista B - 47;\n\nVotos brancos - 3;\n\nVotos nulos - 8.\ntendo sido eleitos pela aplicação do método de Hondt:\nPaulo Guilherme da Silva Lemos - lista A;\n\nVítor Manuel de Oliveira Faria - lista A;\n\nArmando Abel Castelo Trigo de Abreu - lista B.\nPara constar se lavrou a presente acta que vai ser devidamente assinada.\nSrs. Deputados, proclamo eleitos para o conselho directivo do Instituto Nacional do Ambiente os Srs. Paulo Guilherme da Silva Lemos, Vítor Manuel de Oliveira Faria e Armando Abel Castelo Trigo de Abreu."
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 2471,
+      "speaker": {
+        "id": 1152,
+        "name": "Alberto De Sousa Martins",
+        "party": "PS",
+        "string": "O Sr. Alberto Martins (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 2471,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 2471,
+      "speaker": {
+        "id": 1152,
+        "name": "Alberto De Sousa Martins",
+        "party": "PS",
+        "string": "O Sr. Alberto Martins (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é para uma interpelação à Mesa."
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 2471,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 2471,
+      "speaker": {
+        "id": 1152,
+        "name": "Alberto De Sousa Martins",
+        "party": "PS",
+        "string": "O Sr. Alberto Martins (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, amanhã, chega a Portugal o papa João Paulo II, pelo que gostaria de saber se, logo à sua chegada, V. Ex.ª, na qualidade de segunda figura do Estado Português, estará presente na placa de aterragem do aeroporto a recebê-lo."
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 2471,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, trata-se de uma visita de carácter pastoral, completamente organizada pelo protocolo do Estado em consonância com a Presidência"
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 2472,
+      "speaker": {
+        "id": 1152,
+        "name": "Alberto De Sousa Martins",
+        "party": "PS",
+        "string": "O Sr. Alberto Martins (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, creio que a Assembleia da República deve manifestar a sua estranheza pelo facto de o seu presidente não ocupar o segundo lugar na hierarquia do Estado a receber o papa João Paulo II."
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 2472,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS e do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 2472,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, vamos continuar o debate da interpelação.\n\nEstá inscrito, para uma intervenção, o Sr. Deputado Manuel Alegre, a quem concedo a palavra.\nPausa.\nSrs. Deputados, vamos interromper a sessão por um período de cinco minutos.\nEram 15 horas e 35 minutos.\nApós a interrupção reassumiu a presidência o Sr. Vice-Presidente José Manuel Mata.\nEram 15 horas e 50 minutos."
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 2472,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, para uma intervenção, o Sr. Deputado Manuel Alegre."
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 2472,
+      "speaker": {
+        "id": 285,
+        "name": "Manuel Alegre De Melo Duarte",
+        "party": "PS",
+        "string": "O Sr. Manuel Alegre (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Em estilo mais ou menos telegráfico, porque as circunstâncias não permitiram que fosse de outro modo, venho dar a minha contribuição a esta interpelação.\n\nComeço por felicitar o partido interpelante e, não fazendo juízos sobre as intenções, o momento e a oportunidade registo apenas que se trata de uma interpelação sobre uma matéria que sempre considerámos de grande relevância nacional. E, já agora, permita-se-me sublinhar que talvez eu tenha sido o deputado que mais vezes, desta tribuna, falou sobre política de cooperação.\n\nQuero também, em primeiro lugar, cumprimentar o Sr. Secretário de Estado Durão Barroso pelo papel pessoal que desempenhou na mediação do conflito angolano. Faço-o sem qualquer hipocrisia, também sem qualquer ciúme político, dado que um sucesso do Governo, seja ele qual for, em matéria desta natureza, é um sucesso de Portugal com o qual todos nos devemos regozijar. Espero que a tentação de certos aproveitamentos ou a tentação do exclusivismo não venha a apoucar um evento que é, em si mesmo, um importante sucesso da diplomacia e da política de Portugal."
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 2472,
+      "speaker": {
+        "id": 1211,
+        "name": "Edite Fátima Santos Marreiros Estrela",
+        "party": "PS",
+        "string": "A Sr.ª Edite Estrela (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 2472,
+      "speaker": {
+        "id": 285,
+        "name": "Manuel Alegre De Melo Duarte",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Recordo também a posição responsável das diferentes forças da oposição que souberam compreender que a posição portuguesa nesta matéria representava o interesse nacional e estava acima de qualquer querela partidária."
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 2472,
+      "speaker": {
+        "id": 734,
+        "name": "José Manuel Lello Ribeiro De Almeida",
+        "party": "PS",
+        "string": "O Sr. José Lello (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 2472,
+      "speaker": {
+        "id": 285,
+        "name": "Manuel Alegre De Melo Duarte",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Aliás, não foi por acaso que nenhum partido político fez uma interpelação sobre a mediação portuguesa, mas sim porque ela estava acima de qualquer aproveitamento desse tipo.\n\nE já agora, se me permite, Sr. Secretário de Estado, recordarei que no início deste processo apoiámos a política de V. Ex.ª de privilegiar a relação Estado a Estado, mesmo quando, de entre os seus, alguns suspeitavam de certas inclinações de V. Ex.ª, tendo tido, talvez, mais compreensão da nossa parte do que da sua bancada, por considerarmos que a política de V. Ex.ª e do Governo correspondiam, neste caso, ao interesse de Portugal.\nPensamos também que este processo, para além das virtudes da mediação portuguesa, resulta de uma nova situação histórica, de uma nova situação internacional - o fim da guerra fria, o fim da lógica dos blocos - que originou uma nova atitude, uma nova cooperação soviético-americana que conduziu à resolução de conflitos regionais, à independência da Namíbia, à evolução da situação na África do Sul, e também do cansaço da guerra e de uma nova vontade política das partes em conflito.\n\nNo entanto, é justo salientar que a mediação portuguesa valoriza Portugal e cria a Portugal novas responsabilidades.\n\nMas o acordo de cessar fogo não é, em si mesmo, a paz. Permito-me lembrar aqui aquilo que pode hoje ser considerado como o testamento político de uma grande figura política, cultural e moral de Angola - o meu querido e saudoso amigo Mário Pinto de Andrade -, quando ele dizia que o MPLA e a UNITA não eram apenas dois exércitos, dois partidos armados, mas eram dois poderes, duas culturas, duas psicologias, em que cada um era a proibição do outro.\n\nOra, a questão fundamental da paz em Angola passa pela pacificação dos espíritos, pela reconciliação dos espíritos, porque não basta o silêncio das armas, mas é preciso, talvez, uma grande mudança de atitude mental.\n\nPor isso, parece-nos que a construção da paz tem de começar por um acordo de cessar fogo entre as partes em conflito, mas exige, também, a participação e envolvimento de outras forças políticas, cívicas, sociais, morais e religiosos com um enquadramento moral que impeça a repetição de uma tragédia, já conhecida. A partir da assinatura dos acordos pensamos que, na medida das nossas possibilidades, devemos contribuir para que assim seja, para que se faça esse enquadramento moral, para que o silêncio da armas corresponda, de facto, à paz nos espíritos e para que as armas para sempre se calem em Angola."
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 2472,
+      "speaker": {
+        "id": 1152,
+        "name": "Alberto De Sousa Martins",
+        "party": "PS",
+        "string": "O Sr. Alberto Martins (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 2472,
+      "speaker": {
+        "id": 285,
+        "name": "Manuel Alegre De Melo Duarte",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A evolução política e a abertura democrática também obrigam Portugal a repensar a política de cooperação. Penso que deixou de haver um único modelo político-ideológico e que a diversidade é inevitável, sendo necessário criar novos mecanismos tendo em conta essa nova realidade.\n\nMas, Sr. Secretário de Estado, se o cumprimento com gosto pela sua mediação, pela sua contribuição, pela assinatura dos acordos preliminares de paz em Angola, já tenho uma grande dificuldade em poder cumprimentá-lo pela política de cooperação, porque não sei se Portugal tem uma política de cooperação ou, pelo menos, não sei qual é a filosofia nem qual é o modelo."
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 2473,
+      "speaker": {
+        "id": 1211,
+        "name": "Edite Fátima Santos Marreiros Estrela",
+        "party": "PS",
+        "string": "A Sr.ª Edite Estrela (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 2473,
+      "speaker": {
+        "id": 285,
+        "name": "Manuel Alegre De Melo Duarte",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os Ingleses e os Franceses têm uma política da língua para os países africanos. Nós não temos estratégia, não temos política, não temos coordenação! Fazemos algumas «flores», acções desgarradas, umas feiras, mas as despesas totais com o funcionamento e actividade dos centros culturais da Praia, do Mindelo, de Bissau, de São Tomé e Príncipe, Maputo e Beira somam 35 217 contos - esta é a realidade. E se é verdade que somos um país pobrezinho, também é verdade que um país com a nossa história, com as nossas responsabilidades, tem de ter algo mais do que retórica. A política da língua tem um preço. A política cultural e da nossa afirmação cultural em África tem um preço que Portugal tem de pagar e não pode reduzir-se a esta verba.\n\nAliás, como várias vezes temos dito, essa estratégia implica um grande envolvimento nacional, pois trata-se de uma prioridade nacional, e não pode ser tratada como um luxo ou como um resto, e não pode ficar à mercê dos trocos do Orçamento ou do mecenato. O Estado não pode continuar a demitir-se."
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 2473,
+      "speaker": {
+        "id": 1309,
+        "name": "José Sócrates Carvalho Pinto De Sousa",
+        "party": "PS",
+        "string": "O Sr. José Sócrates (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!\nO Orador - O centro cultural de São Tomé tem apenas uma pessoa e, tanto quanto eu saiba, a conselheira cultural em Cabo Verde continua por substituir.\n\nEstes casos serão insignificâncias, mas é destas pequenas insignificâncias que se faz ou não se faz uma política.\n\nO centro cultural de Luanda ainda não está, pelo menos que eu saiba, a funcionar, porque faltam professores, faltam casas, falta resolver o problema da equivalência do estatuto do cooperante com as remunerações das organizações internacionais ou, pelo menos, tentar aproximá-lo um pouco mais. É talvez por isso que o número de cooperantes tem vindo a diminuir: em Angola, de 70 em 1983/1984 para 13 em 1989/1990; em Moçambique, de 125 para 24; na Guiné, de 52 para 7; em São Tomé e Príncipe, de 33 para 16; em Cabo Verde, de 27 para 11. Isto é, no total, de 338 para 73.\n\nEstes são números que falam por si, que chegam para condenar uma política ou, pelo menos, para ilustrar a ausência dela. V. Ex.ª já aqui falou hoje da sua preferência pela qualidade em detrimento da quantidade e, por isso, penso que Portugal tem de ter mais do que assessores em pontos estratégicos ou de ministros com pastas estratégicas. Portugal tem de ter uma presença de qualidade, mas em todas as áreas da cooperação.\n\nA nova situação em África e os novos desafios implicam também uma mudança de atitude e exigem uma nova coerência das políticas de cooperação. É, pois, tempo de encarar a cooperação como uma opção nacional e como uma componente fundamental da solidariedade europeia. É preciso pôr fim à dispersão, racionalizar os instrumentos estatais, realizar a fusão prometida e não cumprida e criar, finalmente, o anunciado instituto para a cooperação.\n\nAo mesmo tempo, é necessário apoiar a formulação de políticas na universidade e na investigação, fazer formação e investigação em questões africanas, criar um instituto de estudos africanos, porque a cooperação é também uma questão cívica, pedagógica e de sensibilização, havendo uma memória, uma acumulação de experiência e de conhecimentos que não podem perder-se, assim como uma vivência que deve ser transmitida às novas gerações.\n\nUma estratégia nacional para a cooperação exige a criação de quadros capazes de a levar a cabo.\n\nAliás, devo dizer que o Sr. Deputado Adriano Moreira teve a ideia, que considero original e brilhante, de criar uma Universidade Luís de Camões que poderia ter as suas projecções nos países africanos de língua portuguesa. Esta seria a forma de o Estado Português e de Portugal contribuírem para a concretização de uma efectiva política de estratégia da língua e da difusão da nossa língua e da nossa cultura.\n\nMas a verdade é que as verbas atribuídas à cooperação, apesar dos aumentos verificados, não permitem responder às solicitações apresentadas pelos países africanos, nomeadamente no que respeita ao atendimento de pedidos de formação e assistência técnica de grande efeito multiplicador e que se não forem satisfeitos por Portugal sê-lo-ão por outros países.\n\nOutro problema é o da preservação do riquíssimo espólio documental da antiga administração ultramarina portuguesa, que carece urgentemente de instalação adequada, sob o risco de deterioração a curto prazo.\n\nO pudor quase me obriga a calar o estado em que se encontram algumas embaixadas, como a de São Tomé e Príncipe, que visitei quando acompanhei o Sr. Presidente da República, bem como o parque automóvel da representação portuguesa em Angola, para já não falar de algumas insignificâncias, como o problema do gerador da embaixada de Luanda e da alcatifa rota. Estas serão pequenas insignificâncias, mas a presença de Portugal em Angola não é compatível com insignificâncias desta natureza.\n\nSr. Presidente, Sr. Membros do Governo, Sr. Secretário de Estado: A vida anda, as sociedades relacionam-se e em muitos aspectos a cooperação desenvolveu-se, mas não foi resolvido o problema da sua coordenação, da criação de instrumentos que permitam a sua coordenação. Nós somos partidários do relacionamento não só Estado a Estado, mas povo a povo, sociedade a sociedade, mas o Estado não pode demitir-se da sua missão.\n\nAssim, há que criar mecanismos de um outro tipo de articulação entre o que é a iniciativa privada e a iniciativa pública nesta matéria, porque a cooperação é uma causa nacional e por ela passa, mais do que nunca, a afirmação da nossa identidade e da nossa singularidade."
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 2474,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Carlos Lilaia."
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 2474,
+      "speaker": {
+        "id": 1021,
+        "name": "José Carlos Pereira Lilaia",
+        "party": "PRD",
+        "string": "O Sr. Carlos Lilaia (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Manuel Alegre, apenas um pequeno registo, que é, também, um agradecimento. V. Ex.ª, com esta intervenção, elevou o debate, sobretudo quando comparado com aquilo que hoje, de manha, aqui se passou.\n\nEm nome do PRD, os nossos agradecimentos. Não é verdade. Não ficamos sozinhos, por agora, e espero que outros se juntem a nós."
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 2474,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Miguel Urbano Rodrigues."
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 2474,
+      "speaker": {
+        "id": 1807,
+        "name": "Miguel Urbano Tavares Rodrigues",
+        "party": "PCP",
+        "string": "O Sr. Miguel Urbano Rodrigues (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Este debate realiza-se num momento em que a opinião pública portuguesa acompanha, com muita atenção, acontecimentos que envolvem o futuro próximo em Angola e vão influenciar o desenvolvimento global da situação em toda a África Austral.\n\nTal coincidência tende a polarizar a discussão em tomo de aspectos conjunturais da política externa de cooperação, subalternizando o que nela deve ser fundamental.\n\nNão vou, por isso mesmo, falar do circunstancial. A minha intervenção não está orientada para a exegese da cooperação concebida na perspectiva do governo Cavaco Silva. Não me ocuparei dos seus actos e iniciativas, inseridos numa estratégia em que a autopromoção constitui meta prioritária e obsessiva.\n\nAfigura-se-me mais útil aproveitar estes minutos para uma breve e desambiciosa reflexão inseparável de princípios e questões de actualidade permanente e da necessidade de desmascaramento da falsa cooperação no relacionamento entre os povos.\n\nPortugal é um pequeno pais, insuficientemente desenvolvido, cuja contribuição para o avanço e a integração da humanidade foi muito importante. Pelo relacionamento antigo e complexo com povos de outros continentes e pela nossa posição mundial no limiar do século X», estamos numa postura favorável para compreender um dos problemas mais dramáticos que a humanidade enfrenta hoje: a desigualdade crescente entre países ricos e pobres, entre o reduzido grupo de nações de economia desenvolvida e os Estados do Terceiro Mundo, ou seja, aqueles que, representando apenas um quinto da população da Terra, consomem ou controlam 80% da riqueza produzida no Planeta.\n\nEstamos na CEE, integrados no pelotão dos ricos. Mas somente por demagogia e hipocrisia se pode sustentar que Portugal é um país plenamente desenvolvido. Situamo-nos a meio caminho entre a industrialização e o subdesenvolvimento, entre a abundância e a pobreza.\n\nSeria farisaico assumirmos o discurso da generosidade da ajuda numa época em que o fosso entre os dois mundos se aprofunda. Não é a solidariedade, mas, sim, o egoísmo que caracteriza hoje, mais e mais, as relações Norte/Sul.\n\nA exploração dos povos que não conseguem defender-se dos mecanismos dela - e são pouquíssimos - alastra como realidade trágica. A cooperação autentica emerge como excepção. O que se desenvolve, o que cresce, são sistemas de dominação e espoliação sob a máscara da ajuda económica solidária.\n\nA tentativa de passagem para o limiar do mundo moderno de sociedades que, há poucas décadas, mal haviam ultrapassado a fase tribal efectuou-se em função de interesses incompatíveis com os desses povos. O resultado foi, em dezenas de Estados - nomeadamente em África - , uma proliferação de desequilíbrios estruturais alarmantes.\n\nO homem desceu já na Lua, mas nunca houve tanta fome, tanta miséria, tamanha devastação do ambiente em África e em amplas regiões da América Latina e da Ásia.\n\nA deterioração constante dos termos de intercâmbio tem contribuído para o galopante empobrecimento dos mais pobres. Enquanto as exportações dos países desenvolvidos se valorizam, os recursos naturais vendidos pelos mais pobres desvalorizam-se. O que a Europa, os EUA e o Japão compram ao Terceiro Mundo é cada vez mais barato, mas os seus produtos manufacturados são cada vez mais caros.\n\nA transformação da política de exploração colonial durante as duas décadas que precederam a última Guerra Mundial e as que se lhe seguiram, fez do Terceiro Mundo uma área preferencialmente receptora de capitais. Hoje, a situação é inversa. O aperfeiçoamento das relações neocoloniais levou a uma exploração cada vez mais predatória, mas também muito mais sofisticada, dos recursos existentes em muitos países atrasados. Agravou a contradição entre exploradores e explorados.\n\nO Brasil produz hoje mais aço do que a Grã-Bretanha no auge do seu poderio imperial. Das suas fábricas sai, anualmente, 1 milhão de automóveis. Mas o Brasil, o México e a Argentina apresentam-se cada vez mais empobrecidos e endividados.\n\nContudo, os mecanismos de dependência fizeram deles exportadores líquidos de capitais. Somente da América Latina saem todos os anos, sob a forma de pagamentos do serviço da dívida externa, dezenas de milhares de milhões de dólares para os EUA e a Europa.\n\nEm vez de uma cooperação para o desenvolvimento, para uma ajuda real que permitisse compensar desníveis perigosos, assistimos a um aprofundamento do fosso existente. A bipolaridade, imposta por uma escassa meia dúzia de países, gera uma situação inumana, na qual os mais ricos se alimentam dos mais pobres num processo de antropofagia económica.\n\nA dependência toma-se um colete de forças impeditivo de um crescimento efectivo e equilibrado.\n\nA dívida externa - os próprios credores já o reconhecem - é incobrável. Os devedores procuram obter saldos comerciais positivos, reduzindo o consumo a níveis de subsistência insustentáveis. Apesar disso, a dívida continua a crescer. As do Brasil e do México equivalem já ao triplo do PIB anual português.\n\nNa última década somente em África morreram de fome milhões de pessoas, enquanto dezenas de milhões de toneladas de cereais se acumulavam nos silos americanos e europeus como excedentes, por falta de mercados\n\nSimultaneamente, mundo afora, um rio de palavras transbordava do discurso oficial da cooperação. Os limites da hipocrisia foram ultrapassados quando, na busca de uma salda para o angustiante impasse da dívida externa dos pobres e dos famélicos, apareceu como pseudo-solução"
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 2475,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 2475,
+      "speaker": {
+        "id": 1807,
+        "name": "Miguel Urbano Tavares Rodrigues",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "As nossas relações com o Brasil não saíram até agora do pântano de uma hibernação identificável no discurso oficial das pompas e do formalismo estéril, recheado de solenes promessas de mudança.\n\nNo tocante às comunidades portuguesas espalhadas pelo mundo, o panorama é igualmente desolador. Três a quatro milhões de emigrantes portugueses são cortejados pelo poder porque constituem fonte de divisas imprescindível ao equilíbrio da balança de transacções correntes, mas, na prática, quando lhes apreciam e discutem direitos e reivindicações, recebem o tratamento de cidadãos de 2.ª classe.\n\nA responsabilidade por esse estado de coisas não é somente do actual governo. Vem de muito longe. Portugal não elaborou uma estratégia de cooperação. Não dispomos, nunca dispusemos, de uma política de cooperação autêntica, planificada. Não temos, sequer, uma política de cooperação para médicos, para professores, digna desse nome."
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 2476,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Adriano Moreira."
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 2476,
+      "speaker": {
+        "id": 571,
+        "name": "Adriano Jose Alves Moreira",
+        "party": "CDS",
+        "string": "O Sr. Adriano Moreira (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Esta sessão da Assembleia da República insere-se na sequência do acordo assinado em Nova Iorque, em 22 de Dezembro de 1988. depois de oito meses de negociações. Tendo sido assinado pela África do Sul. Angola. Cuba e Estados Unidos da América, também foi evidente a adesão da União Soviética dentro da política acordada pelas então superpotências no sentido de globalizar o equilíbrio procurada\n\nNo que respeita a Angola, os Estados Unidos da América, que resolveram abster-se quando, em 1975, a operação soviético-cubana colocou o MPLA no poder em Luanda (emenda Clark), a partir de 1985, data em que aquela emenda foi suspensa, resolveram apoiar o movimento da UNITA, afastando esta da dependência do apartheid, e apoiando na África do Sul o Partido Nacional por ser o único que parecia capaz de desmantelar aquela política.\n\nO analista Chester Crocker demonstrou, por essa altura, numa conferência em Londres, que o acordo de Nova Iorque deu aos Sul-Africanos e Americanos, com a cumplicidade objectiva dos Soviéticos, a oportunidade de - o que ele chama a «gorbymania» - ajudar a estabelecer a paz na África Austral.\n\nAnunciou-se, por esse tempo, na imprensa internacional, que os Estados Unidos da América não se resignariam ao poder exclusivo do MPLA em Luanda, desafiado por rebeliões, nem à marginalização da UNITA, confinada as chamadas terras livres ao sul do caminho de ferro de Benguela.\n\nO talento da mediação portuguesa, que não dispunha de um poder representado na balança de poderes em causa, foi ter percebido a conjuntura e a oportunidade, realizando uma notável intervenção diplomática a favor da paz. E desta depende tudo no continente africano à deriva que, da Mauritânia ao Como de África, da Etiópia à Namíbia, de Angola e Contra-Costa, escreveu com sangue a história da última década.\n\nEste resultado não pode ser diminuído por questões menores, como também o êxito ido pode levar a perder o sentido das proporções. Precisamos de doutrina política para regular as relações entre as etnias, mas não esperamos que apareça um Sá da Bandeira no governo; necessitamos de assumir o modelo de cooperação militar, mas não esperamos que ofereçam um Mouzinho de Albuquerque; queremos cooperação científica, mas não temos esperança de que apareça um Brotero; apreciamos a vinda das igrejas a Lisboa, mas não seremos surpreendidos pelo desembarque de um São Francisco Xavier; queremos programa, mas não exigimos um Luciano Cordeiro; queremos, finalmente, contenção, modéstia, segurança e pouco triunfalismo porque os factores exógenos são dominantes.\n\nNesta intervenção diplomática, de que nos ocupamos no processo de pacificação, essas exigências foram respeitadas e esse é um dos motivos de louvor para a intervenção do Secretário de Estado.\nTendo como ocasião o acordo do Estoril, talvez este primeiro debate, na Assembleia da República, sobre a cooperação possa ir além do circunstancial. Nesse circunstancial incluímos a organização do Governo, que constitucionalmente é responsabilidade dele próprio e não vale a pena querer, agora e aqui, iniciar uma cultura.\n\nSeria importante que pudéssemos, sim, começar a avaliar como é que esta acção mediadora servirá como ponto de partida para avaliação da nossa capacidade de autonomia dentro do projecto da Euro-África a que dá cobertura a Convenção de Lomé. E dentro desta, que espécie de especialização poderemos ambicionar e seremos capazes de construir.\n\nInfelizmente, as questões restritamente chamadas europeias ocupam a cena toda em termos de ser pouca a nossa informação, se há alguma, a respeito da marcha do euro-africanismo. Daquilo que está ao nosso saber, tendo em conta a limitação dos nossos recursos, salientaria apenas alguns pontos.\n\nParece de primeira evidência que o nosso esforço tem de dirigir-se para a formação de formadores..."
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 2476,
+      "speaker": {
+        "id": 285,
+        "name": "Manuel Alegre De Melo Duarte",
+        "party": "PS",
+        "string": "O Sr. Manuel Alegre (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 2476,
+      "speaker": {
+        "id": 571,
+        "name": "Adriano Jose Alves Moreira",
+        "party": "CDS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... e não para o fornecimento dos quadros de ocupação nos vários domínios, porque o não poderemos fazer. Nesse ponto, talvez não devêssemos continuar a adiar a exploração da possibilidade de construir uma cooperação integrada na área da investigação, formação e divulgação a cargo das universidades."
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 2477,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Pedro Roseta."
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 2477,
+      "speaker": {
+        "id": 344,
+        "name": "Pedro Manuel Cruz Roseta",
+        "party": "PSD",
+        "string": "O Sr. Pedro Roseta (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A cooperação é, para nós, um imperativo ético, político e cultural. Resulta do reconhecimento da unidade fundamental da humanidade e da interdependência cada dia mais acentuada entre os povos. Para Portugal é, além disso, um imperativo histórico e axiológico. É-nos exigida pela riquíssima vivência passada do nosso povo e pelo sistema de valores que soube construir, de entre os quais se destaca o valor da solidariedade, de que a cooperação é a mais lídima expressão no mundo actual.\n\nO patriotismo universalista, que, na feliz expressão de José Augusto Seabra, nos distingue dos outros povos, mantém-nos abertos a eles e dispostos a desenvolvê-la. No entanto, a cooperação tem de começar pela ajuda à concretização da aspiração fundamental de todos os homens: viver em paz. É que da paz tudo depende. Sem ela, tudo o resto será ilusório. Ela é uma condição sine qua non de estabelecimento de qualquer sistema de valores e sem ela é impossível uma cooperação minimamente eficaz.\n\nPor isso, tem o Governo considerado ser tarefa prioritária, fundamento da cooperação, a disponibilidade para a ajuda, quando solicitada, na resolução de conflitos que tem destroçado povos irmãos.\n\nAprovou esta Assembleia, por larga maioria, um voto de congratulação pelos acordos de paz para Angola, concluídos há dias em Portugal. Eles representam uma grande vitória para o povo angolano, que todos cordialmente saudámos. Esta Câmara reconheceu expressamente que o papel relevante da mediação portuguesa, conduzida pelo Primeiro-Ministro Cavaco Silva e pelo Secretário de Estado Durão Barroso, a quem (apesar de ele me ter dito para não o fazer) quero felicitar calorosamente pelo seu trabalho e pelo resultado alcançado, «representa um ponto alto da diplomacia portuguesa e é um grato motivo de satisfação e orgulho para todos os portugueses».\nComo aqui disseram alguns Srs. Deputados da oposição, é um sucesso de Portugal sobre o qual, como foi dito pela minha bancada, não nos move qualquer aproveitamento partidário.\n\nCom confiança no futuro, e no entendimento alargado que lenho da cooperação, gostaria de deixar aqui algumas reflexões sobre o objectivo essencial e o significado daqueles acordos. Considero-os simultaneamente inovadores, exemplares e integrados na tradição histórica e cultural portuguesa. Começo por felicitar as partes angolanas que fizeram o esforço para chegar à decisão final de assinar os acordos, que só a elas competia.\n\nQuero colocar-me no campo da axiologia, para caracterizar a paz como um valor fundamental e universal. É fundamental porque é pressuposto do respeito de outros valores - a dignidade da pessoa, a liberdade, os direitos do homem, a solidariedade, o desenvolvimento, o bem-estar - nenhum deles tem fundamento real sem a paz. É, pois, um valor universal a que todos os povos aspiram.\n\nPenso que a unidade essencial da humanidade, verificada pela antropologia, coloca alguns limites à variação dos valores. Cada sistema de valores contém-se numa matriz universal da qual é expressão particular. Progressivamente unificada e cada vez mais consciente da própria unidade, a humanidade, venha ou não a ser a «cidade ou aldeia global» de que alguns falam, não pode avançar se todos não se orientarem para a paz porque só assim todos se orientarão para o desenvolvimento.\n\nComo os direitos do homem não conhecem fronteiras, a paz, que é seu pressuposto, é também uma responsabilidade colectiva. Francisco Sá Carneiro chamou-lhe um problema universal e acrescentou: «Entre os nossos objectivos prioritários Figura o que constitui a filosofia da nossa política externa: a preservação da paz, a construção da segurança pela via da cooperação.» Devo referir ainda que, como Helmut Schmidt, penso que o Estado não cria, nem pode criar, valores. Constata-os na comunidade e, em toda a sua acção, deve partir dessa realidade.\n\nEm Portugal, também a consciência da responsabilidade pela paz universal teve nascimento no seio da comunidade e depois foi consagrada no artigo 7.º da nossa Constituição. A meu ver, os Portugueses, ao longo da sua história, foram os que melhor puseram em prática o essencial do cristianismo: a fraternidade de todos os homens e o elogio dos construtores da paz. Anteciparam mesmo, de algum modo, alguns dos princípios que os defensores dos direitos do homem muito mais tarde propuseram.\n\nEntendo, portanto, que estes acordos se enquadram na concepção da paz como bem universal e na vivência universalista dos Portugueses. A poucas horas da chegada de João Paulo II ao nosso país, recordo que ele próprio,"
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 2479,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Ministro do Emprego e da Segurança Social."
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 2479,
+      "speaker": {
+        "id": 2684,
+        "name": "José Silva Peneda",
+        "party": "N/A",
+        "string": "O Sr. Ministro do Emprego e da Segurança Social (Silva Peneda)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente. Srs. Deputados: Venho a esta Câmara essencialmente para dar conta do modo como o Ministério do Emprego e da Segurança Social vem colaborando numa tarefa considerada pelo Governo como opção estratégica em termos de política externa: a cooperação com os países africanos de língua oficial portuguesa (PALOP).\n\nDurante os últimos anos, foram criadas condições que permitiram desenvolver um vasto conjunto de iniciativas que não só projectaram os nossos interesses como permitiram solidificar relações históricas e culturais do nosso país nesses países africanos.\n\nO primeiro aspecto que gostaria de sublinhar perante VV. Ex.ªs, no que respeita à cooperação do Ministério do Emprego e da Segurança Social com os PALOP, é o conteúdo muito concreto dos projectos que vem sendo realizados.\n\nAssim e durante os últimos cinco anos, o Ministério do Emprego e da Segurança Social levou a cabo 513 projectos, que respeitam às diversas áreas da responsabilidade do Ministério. Esses 513 projectos implicaram a presença de 1212 técnicos africanos que estagiaram junto dos serviços do Ministério do Emprego e da Segurança Social e envolveram a presença física, em África, de 561 técnicos portugueses.\n\nPara 1991, está prevista a execução de cerca de 120 projectos que irão envolver, em termos de missões técnicas, o já apreciável numero de 3584 dias.\n\nTodos estes projectos que têm vindo a ser objecto de protocolos anuais, acordados com base nos pedidos formulados pelas entidades homólogas dos cinco países lusófonos, envolvem, em regra, as seguintes componentes: uma assistência técnica aos serviços ou entidades homólogas dos PALOP, por parte de técnicos portugueses; estágios de formação de técnicos - fundamentalmente de quadros dirigentes - dos ministérios africanos nos serviços do Ministério do Emprego e da Segurança Social.\n\nOs projectos executados cobrem, actualmente, a totalidade das áreas funcionais do Ministério, isto é, abrangem não só a vertente tradicional da administração do trabalho - normativos laborais ou actividade inspectiva - mas também as áreas da promoção do emprego, da formação profissional e da segurança social.\n\nAssim, no que se refere à assistência técnica, no campo legislativo ou no do apoio à estruturação dos serviços, a cooperação prestada vai desde a elaboração de projectos de legislação do trabalho, de legislação de segurança social ou de regulamentos orgânicos até à proposição de medidas de reestruturação orgânica desses ministérios homólogos.\n\nCito, a título de exemplo, a assistência técnica facultada para a elaboração da Lei Geral do Trabalho da Guiné-Bissau, da legislação laboral de Cabo Verde e de Moçambique e da Lei de Bases do Trabalho de São Tomé e Príncipe, bem como a instalação de centros de emprego em Cabo Verde - um, na Praia, e, outro, no Mindelo.\n\nTem merecido, igualmente, particular atenção a montagem de sistemas de informação estatística, indispensáveis à definição das políticas de emprego, de trabalho e de segurança social.\n\nAssim, estão em curso, nos cinco países, projectos de assistência técnica na área das estatísticas laborais, que hoje já permitem o conhecimento das situações relativas à estrutura do emprego, às qualificações profissionais, aos rendimentos salariais ou à duração do trabalho, por sectores de actividade.\n\nTêm sido também desenvolvidos, nos cinco ministérios homólogos, projectos de assistência técnica aos correspondentes departamentos da inspecção do trabalho, da higiene e da segurança no trabalho, da informação técnica e documental e da segurança social, quer em lermos de formação específica dos respectivos técnicos quer em termos de apoio à organização desses serviços, dotando-os de algum equipamento indispensável ao exercício normal das suas atribuições.\n\nNo campo da formação profissional, vários têm sido também os processos desenvolvidos, especialmente no domínio da formação de formadores.\n\nAs leis de segurança social, hoje em vigor, em Moçambique, em Angola e em São Tomé e Príncipe, tecnicamente, foram também preparadas ao abrigo de projectos de cooperação específicos com o Ministério do Emprego e da Segurança Social português.\n\nPara além dos projectos executados em cada um dos cinco países africanos, também têm sido promovidas iniciativas conjuntas, com vista a uma multilateralização da cooperação que permita potenciar as experiências já adquiridas.\n\nA este respeito, não posso deixar de destacar pela sua importância a realização, em 1989, do I Encontro dos Ministros do Emprego e da Segurança Social de Portugal com os homólogos dos cinco países africanos de língua oficial portuguesa.\n\nO balanço que então fizemos permitiu-nos concluir, com realismo, que podemos ir mais além.\n\nAssim, ao mesmo tempo que continuarão a ser executados os diferentes programas de cooperação bilateral, decidimos avançar para um processo de cooperação multilateral, pelo que se decidiu criar uma comissão multilateral de cooperação entre os nossos ministérios.\n\nEntretanto, manifestou-se, clara e formalmente, perante a Organização Internacional do Trabalho, o desejo comum de um reforço da assistência técnica daquela instância internacional, em benefício dos países africanos de língua oficial portuguesa.\n\nAinda há poucos anos, era praticamente desconhecida a presença portuguesa nos quadros técnicos das missões da OIT em África.\n\nFelizmente que hoje, graças à pressão que, conjuntamente, vimos fazendo junto daquela organização, naquela zona do continente africano não há nenhum projecto da responsabilidade da OIT que não conte com a liderança técnica portuguesa.\n\nComeçou a ser emitido, com periodicidade trimestral, um boletim de cooperação entre os seis ministérios. Há uma enorme experiência acumulada, há necessidade de trocar experiências e, por isso, este esforço de diálogo vai seguramente facilitar ainda mais o nosso trabalho.\n\nVamos realizar, ainda este ano, o I Encontro de Formação Profissional dos seis Governos.\n\nAinda em 1991, contamos levar a cabo mais as seguintes iniciativas conjuntas: a publicação de mais dois números"
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 2480,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Natália Correia."
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 2480,
+      "speaker": {
+        "id": 548,
+        "name": "Natália De Oliveira Correia",
+        "party": "PRD",
+        "string": "A Sr.ª Natália Correia (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Se é deficiência notória à sensibilidade e intelligenzia europeia avultar na área económica da CEE a dimensão que a esta mingua no campo cultural, importa, numa época de signo planetário, corrigir esta falha com o agrupamento de países pluricontinentalmente dispersos, mas unidos pela mesma língua em comunidades internacionais cimentadas por afinidades histórico-culturais.\n\nBafejados são os Portugueses pela fruição dessas afinidades que logo se manifestam na língua, a morada do ser, como já lhe chamavam os árabes, bayt, verso, literalmente casa, e palavra mufrad de fard, ou seja, indivíduo, muitos séculos antes de Heidegger, a expensas de Holderling, ter tomado famosa essa expressão. Pois é imperioso reter que nenhum dos sete países que hoje mantêm de pé essa casa habitada por, aproximadamente, 200 milhões de seres humanos se pode reclamar de ser seu dono exclusivo. Sim, chegados são os tempos em que o orgulho, aliás justificado, de ser o português essa última flor do Lácio, como lhe chamou o poeta brasileiro Olavo Bilac - e, ontem, também alguém o repeliu -, a madre linguística de mais de seis países repartidos pela África e pela América do Sul, terá de regozijar-se e não de sentir-se humilhado com concessões ortográficas que haverão de crescer solicitadas pela evolução dessas sociedades.\n\nEntro, assim, inevitavelmente, no polémico acordo ortográfico, com o qual se visa impedir a desagregação de"
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 2481,
+      "speaker": {
+        "id": 1211,
+        "name": "Edite Fátima Santos Marreiros Estrela",
+        "party": "PS",
+        "string": "A Sr.ª Edite Estrela (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 2481,
+      "speaker": {
+        "id": 548,
+        "name": "Natália De Oliveira Correia",
+        "party": "PRD",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas estranho, realmente, que essas indignações guardem silêncio perante a anglisaxonização da nossa língua, vertiginosamente invadida por um vocabulário técnico-científico que vai introduzindo outra língua dentro da nossa.\n\nPois, nessa fervura põem a água da sensatez estas palavras de Filipe Zau, representante de Angola na assinatura do acordo: «Muito mais que uma discussão sobre consoantes mudas, a língua é, para os Africanos, um factor de unidade nacional e de cooperação.» Por isso, nesta intervenção, dou ao acordo ortográfico o papel não só de relevo mas decisivo na perspectiva dos tempos que se seguem, que lhe cabe na política de cooperação.\n\nImpossível, porém, é isolar esse concerto lusográfico de uma política de promoção cultural e, nomeadamente, do livro português nos países que connosco constelam a lusofonia. Sendo certo que os editores portugueses serão, a curto prazo, prejudicados no Brasil, com o tempo, os nossos livros didácticos, e não só, terão excelentes condições para lá penetrarem.\n\nQuanto aos países africanos de expressão portuguesa, urge combater os condicionalismos (falta de convertibilidade das moedas, inexistência de condições de edição, deficiências de distribuição) que têm embaraçado a circulação de livros entre Portugal e esses países. Ora, competindo ao Instituto Português do Livro e da Leitura responsabilidades específicas na promoção do intercâmbio literário entre Portugal e a África de língua portuguesa, não é com a dotação orçamental deste instituto que ele poderá efectivar eficazmente essa promoção.\n\nOutros reparos teríamos de fazer aos travões que reduzem o alcance da política de cooperação - o aspecto cultural, tais como, a título de exemplo, a reserva inserida no protocolo de cooperação na área da educação entre as Repúblicas Portuguesa e de Cabo Verde. A reserva aparece no artigo 6.º desse protocolo, em que a «parte portuguesa só concederá apoio bibliográfico aos cursos para finalistas da Escola de Formação de Professores, na medida das suas possibilidades».\n\nOutra pungente restrição é a que afecta os centros culturais portugueses em África. Ao que se lê no último relatório de actividade da Direcção-Geral da Cooperação que chegou ao nosso conhecimento - e não sabemos se depois desse há outro -, os orçamentos para funcionamento e actividades desses centros dão para o pessoal e pouco mais. Acaso se alterou esta situação ou continuamos a patinar na mesma precariedade?\n\nTambém nesta área, apesar dos apoios prestados por várias entidades, reaparece o condicionalismo espectral do nacional miserabilismo na expressão «dentro das suas possibilidades de acção» aplicada aos centros, em relação aos quais devia prevalecer uma largueza de recursos considerando a sua importância como veículos insubstituíveis - estou a citar o referido relatório -, «difusão e promoção da língua e da cultura portuguesas». Tanto mais insubstituíveis, acrescento, quanto é competência do seu funcionamento o contacto permanente com agentes culturais locais e com as populações destacadamente juvenis, não só urbanas, mas de comunidades afastadas dos grandes centros populacionais.\n\nManda a verdade que se reconheça ser a cooperação uma área em que o Governo se apura, com resultados concretos, em marcar pontos a seu favor. Mas se, nesse empenho, se dá realce ao sector da cultura, em coerência com as afinidade histórico-culturais entre Portugal e os PALOP, não se quede esse empenhamento num princípio gerador de magros frutos que travões económicos impedem que se converta numa prática persistente e penetrantemente fecunda.\n\nFixemo-nos neste ponto fulcral da cooperação, porque ele rasga a amplitude de um horizonte que, no futuro, nos situa num vasto espaço linguístico-cultural, propício à projecção mundial devida a obras do engenho e do espírito da nossa singularidade criadora, que, só com raras excepções, têm ultrapassado as fronteiras que até há pouco nos encerravam num acanhado território linguístico."
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 2481,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Rui Gomes da Silva."
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 2481,
+      "speaker": {
+        "id": 1401,
+        "name": "Rui Manuel Lobo Gomes Da Silva",
+        "party": "PSD",
+        "string": "O Sr. Rui Gomes da Silva (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: A política de cooperação para o desenvolvimento é, hoje, cada vez mais, um grande desígnio nacional. É, pois, uma vertente estratégica nacional de afirmação de Portugal no mundo, no concerto das nações, não podendo, por isso, ser confundida com qualquer questão conjuntural menor. A cooperação"
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 2482,
+      "speaker": {
+        "id": 344,
+        "name": "Pedro Manuel Cruz Roseta",
+        "party": "PSD",
+        "string": "O Sr. Pedro Roseta (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 2482,
+      "speaker": {
+        "id": 1401,
+        "name": "Rui Manuel Lobo Gomes Da Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: O Governo Português tem sabido manter, para além das circunstâncias, um permanente cumprir dos princípios que elegeu como basilares da sua actuação no campo da cooperação, sem prejudicar os interesses de Portugal, mas entendendo sempre que a lógica da mera rentabilidade deve ceder, se isso for necessário, à lógica dos interesses do Estado, sempre na ânsia de construir, modelar, concretizar uma vertente fundamental de estratégia nacional, ultrapassando a barreira do imediatismo fácil e permanentemente insaciável, permitindo que os frutos de um processo tão complicado como o da cooperação apareçam bem mais cedo, contrariamente a outros que, noutros tempos e noutras paragens, não conseguiram, com muitos mais meios que Portugal. Um caminho onde se tomou necessário separar questões antigas de objectivos futuros, bem definidos e conscientemente escolhidos. Uma questão onde o Governo tem provado que o interesse nacional está acima deste ou daquele partido.\n\nComo já aqui foi dito peto meu colega de bancada Pedro Roseta, a cooperação é, antes de mais. para o Governo e para a maioria, como o deve ser para Portugal, um imperativo ético de solidariedade, uma maneira de assumir realisticamente a interdepência na ajuda e na prossecução dos interesses próprios e autónomos de cada uma das panes envolvidas. O ultrapassar de todas as questões controversas tem sido conseguido por todos compreenderem que nada se faz por interesses apriorísticos ou imediatistas. antes resultando da conjugação de esforços do Governo Português e dos governos de cada um dos países africanos de língua oficial portuguesa.\n\nQuer no quadro bilateral - através dos programas bianuais - quer no quadro multilateral, Portugal tem sabido honrar o seu destino e construir as bases do seu futuro. Saliente-se, no quadro bilateral, a recente assinatura do 4.º Acordo de Lomé. bem como a referência que aí se faz, ao respeito pela dignidade humana, como condição primeira e fundamento essencial da cooperação.\n\nPortugal, durante a vigência daquele acordo, contribuirá com 96,140 mecus, correspondentes a menos de 1 % do orçamento do Fundo Europeu para o Desenvolvimento. O XI Governo provou quanto é essencial fazer coincidir o verbo com a prática, também aqui, no campo da cooperação, deixando cair no esquecimento os tempos em que o discurso radical e ideologicamente marcado pretendia fazer acreditar na capacidade voluntarista de modificar as relações entre Portugal e cada um desses países, clamando-se, então, tão-somente, pela boa vontade de parte a parte, nem sempre existente.\n\nMuitos exigirão que, para além dos actos, se possa contar com mais recursos. Todos gostaríamos de ver cumprido esse desejo. Mas não deveremos esquecer que aqueles que hoje pugnam por esse objectivo são exactamente os mesmos que, quando desempenharam idênticas funções, não provaram ser tão eficientes no gerir dos fundos públicos, se atentarmos nos resultados apresentados. Isto é, geriram, com menos eficiência, verbas proporcionalmente idênticas, sem nunca conseguirem destrinçar objectivos claros, definir políticas precisas, construir uma relação duradoura.\n\nO Governo tem vindo a fazer um esforço na orçamentação das despesas para a cooperação. E citemos alguns números, como prova evidente do que atrás foi dito: em 1989, o montante despendido com a cooperação foi de cerca de 113 milhões de contos, sendo de 19,6 milhões de contos a verba orçamentada para 1991, podendo mesmo ser muito superior, se contabilizada pelas regras do Comité de Ajuda ao Desenvolvimento da OCDE.\n\nPortugal é hoje o sétimo país na utilização dos recursos do Fundo Europeu para o Desenvolvimento, com 6,6 % do total das verbas atribuídas à rubrica «Obras, fornecimentos e serviços». Estamos, assim, à frente da Espanha - 8.º lugar, com 3.2 % das verbas do FED, e da Dinamarca, 9.º lugar, com 1,9 % das mesmas verbas -, chegando mesmo à 5.º posição no âmbito dos apoios comunitários, no que se refere ao sector de fornecimentos. O arranjo monetário com a Guiné-Bissau, bem como a aplicação de um regime idêntico a São Tomé e Príncipe, e o aumento do saldo comercial de 11 milhões de contos, em 1986, para 55 milhões de contos, em 1990, são bem alguns exemplos do êxito conseguido pelo Governo nesta área."
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 2483,
+      "speaker": {
+        "id": 344,
+        "name": "Pedro Manuel Cruz Roseta",
+        "party": "PSD",
+        "string": "O Sr. Pedro Roseta (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 2483,
+      "speaker": {
+        "id": 1401,
+        "name": "Rui Manuel Lobo Gomes Da Silva",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A cooperação permitiu um alto nível de entendimento político, plataforma subjacente ao ambiente gerador de confiança imprescindível para a consecução do objectivo pretendido. E estarei tanto mais à vontade para o afirmar quanto é publicamente conhecida a grande admiração e simpatia que tenho pela luta que a UNITA manteve e mantém pela democracia em Angola. A relação pessoal é sempre importante. E muito mais se toma quando não inquinada de preconceitos ideológicos. Foi isso que o Governo fez.\n\nPor tudo isto, a cooperação para o desenvolvimento deve assumir foros de consensualidade na cena política portuguesa, pela certeza dos princípios observados, apesar de se querer fazer sempre mais, mas com a convicção de que se fez o máximo, com os meios postos à disposição do Governo.\n\nSr. Presidente, Srs. Membros do Governo, Srs. Deputados: Compete-nos a nós, como geração, dar razão à razão de sermos portugueses. Sentindo, de novo, o que significa ser português, ultrapassámos, com êxito, a hipótese de nada deixarmos em África senão mal-entendidos.\n\nO Governo garantiu a manutenção de uma presença que, hoje, é forte, sólida e fundamentada junto dos nossos parceiros da cooperação, porque agiu com princípios claros, sem vaguear ao sabor das circunstâncias, porque soube fazer da cooperação para o desenvolvimento um grande vector estratégico político de Portugal."
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 2483,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Edite Estrela."
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 2483,
+      "speaker": {
+        "id": 1211,
+        "name": "Edite Fátima Santos Marreiros Estrela",
+        "party": "PS",
+        "string": "A Sr.ª Edite Estrela (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Sr.ª e Srs. Deputados: Começo por me congratular com esta interpelação, não pela sua oportunidade, aliás, a vivacidade do debate que aqui está a ocorrer prova que, de facto, foi uma interpelação muito oportuna. Embora eu considere que a política de cooperação deve ser uma prioridade, penso que outras áreas há em que mais se justificava interpelar o Governo, mas a minha satisfação decorre de esta interpelação ter sido pretexto para se falar da língua portuguesa. Penso, por isso, que se justificava uma interpelação sobre a política da língua, política que este governo ainda não articulou."
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 2483,
+      "speaker": {
+        "id": 1821,
+        "name": "Rui Pedro Lopes Machado Ávila",
+        "party": "PS",
+        "string": "O Sr. Rui Ávila (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 2483,
+      "speaker": {
+        "id": 1211,
+        "name": "Edite Fátima Santos Marreiros Estrela",
+        "party": "PS",
+        "string": "A Oradora",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como Portugal não tem uma política da língua, de âmbito nacional e internacional, contenta-se com medidas avulsas de êxito duvidoso, seja para África, seja para o resto do mundo.\n\nA política de divulgação, promoção e defesa do idioma é objectivo fundamental da política externa dos países europeus mais desenvolvidos, detentores de línguas de projecção internacional.\n\nA política linguística da França - iniciada sob a presidência do general De Gaulle e que, até hoje, não parou"
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 2484,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Ministro da Saúde."
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 2484,
+      "speaker": {
+        "id": 2829,
+        "name": "Arlindo De Carvalho",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Saúde (Arlindo de Carvalho)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: «Eu penso que nós, lusófonos, temos uma missão; não somos nem melhores nem piores que os outros, mas o mundo poderá receber algo que só nós podemos dar».\n\nDesta forma simples, mas portadora de profundo significado e de raro alcance, se pronunciava há dias, em Lisboa, o cardeal D. Alexandre do Nascimento, arcebispo de Luanda.\n\nNão são certamente muitos os momentos em que uma expressão tão singela e linear, expressa, de modo tão tocante, uma ideia tão nobre, uma mensagem tão mobilizadora, um ideal tão carregado de verdade e de sentido de oportunidade.\n\nÉ justamente esta ideia, explícita para uns, subliminar para outros, mas presente no espírito de todos, que nos impele e anima a desenvolver uma política responsável que visa a afirmação de Portugal no mundo, a valorização da matriz universalista da Nação Portuguesa e a doação de um contributo sério para o futuro da humanidade.\n\nDaí a importância que o País atribui e a atenção que o Governo tem dispensado à prossecução de uma adequada, correcta e descomplexada política de cooperação, e muito em especial com os países africanos de língua oficial portuguesa.\n\nTrata-se de acentuar e desenvolver a nossa indestrutível vocação universal, cimentando os laços históricos seculares que nos ligam a África, aprofundando e reforçando as marcas culturais que p passado traçou de forma indelével, privilegiando a valorização da nossa língua e dos nossos valores, afirmando e enaltecendo, em suma. a nossa própria identidade como Estado-nação dos mais antigos da Europa e do mundo.\n\nAo contrário de um passado ido muito distante, deixámos a retórica e decidimos passar à acção, abandonámos a ideia do exibicionismo político para privilegiarmos a discrição, a actuação no concreto, a contribuição palpável, segura e multiplicadora.\n\nÉ uma política coordenada e harmonizada, mas que, descentralizada e disseminada, envolve todos os sectores e as diversas áreas da governação.\n\nA área da saúde não é, por isso mesmo, excepção.\n\nDe resto, importa sublinhá-lo, há um denominador comum e um importante traço de união entre uma correcta política de saúde e uma adequada política de cooperação - esse traço comum radica-se, aliás, na ideia e na noção de solidariedade. Solidariedade para com as outras pessoas, as outras regiões, os outros países, os outros povos.\n\nA Lei de Bases da Saúde, de Agosto do ano findo, afirma expressamente que sé estimulada a cooperação com outros países, em particular com os países africanos de língua oficial portuguesa».\n\nNeste contexto, é natural a dimensão crescente que, sobretudo nos últimos três anos, a cooperação portuguesa tem vindo a assumir na área da saúde, registando-se uma cada vez maior afectação e canalização de meios humanos,"
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 2487,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O tempo gasto a mais pelo Governo é descontado no do PSD. Portanto, o PSD fica com dois minutos e o Governo ficará sem tempo, o que dificulta a resposta ao Sr. Deputado João Rui de Almeida, que quer pedir esclarecimentos ao Sr. Ministro da Saúde.\n\nTem a palavra, Sr. Deputado João Rui de Almeida."
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 2487,
+      "speaker": {
+        "id": 1276,
+        "name": "João Rui Gaspar De Almeida",
+        "party": "PS",
+        "string": "O Sr. João Rui de Almeida (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, considero o discurso do Sr. Ministro da Saúde de tal maneira grave que faço um apelo àqueles que acompanharam a missão da Assembleia da República a São Tomé e Príncipe no sentido de fazerem o favor de se pronunciarem sobre a intervenção que acabámos de ouvir.\n\nNo início deste ano, tomei conhecimento directo com a realidade ao nível do sector da saúde em São Tomé e Príncipe. Trata-se de uma situação dramática pelas carências e pela notória falta de apoio do Governo às entidades e ao serviço de saúde, que chega, mesmo, a não cumprir os compromissos assumidos, nomeadamente com o Hospital Agostinho Neto.\nEm São Tomé e Príncipe, a maioria das iniciativas de cooperação na área da saúde não fazem parte das preocupações do nosso governo, ao contrário da Itália, da China e de alguns países da América Latina que têm, neste momento, assegurado um determinado sistema de cooperação.\n\nGostava de fazer a seguinte pergunta: sabe o Sr. Ministro, já que falou tanto no Hospital Agostinho Neto, quantos médicos, enfermeiros e técnicos de radiologia tem?\n\nAproveito também para lhe perguntar se já terminou o conflito existente com o grupo profissional que exercia a sua actividade no referido hospital e se estão resolvidas as questões das carências quanto ao apetrechamento de material de radiologia."
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 2487,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Ministro da Saúde."
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 2487,
+      "speaker": {
+        "id": 2829,
+        "name": "Arlindo De Carvalho",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Saúde",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente e Srs. Deputados: Como tiveram oportunidade de verificar, o Sr. Deputado João Rui de Almeida não esteve este ano em São Tomé e Príncipe, mas, sim, no ano passado, e do ano passado para este muitas coisas se alteraram no domínio da cooperação com esse país.\n\nSr. Deputado, referi no meu discurso que, só pela parte portuguesa, estão 14 médicos e enfermeiros no referido hospital e que, daqui a dois ou três meses, irão estar os que fazem parte do quadro, ou seja, 18.\n\nO Sr. Deputado esteve em São Tomé e Príncipe no ano passado e não neste e eu referi que houve uma alteração qualitativa ao nível da gestão do próprio hospital, porque foi transferida do Ministério da Educação, ou seja, de uma área onde não se localizava correctamente, para o Ministério da Saúde, tendo-se procedido à afiliação com os Hospitais da Universidade de Coimbra.\n\nPor isso mesmo, se o Sr. Deputado visitar agora São Tomé e Príncipe, terá oportunidade de ver um cenário bem diferente daquele que, certamente, viu há um ano atrás."
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 2487,
+      "speaker": {
+        "id": 1276,
+        "name": "João Rui Gaspar De Almeida",
+        "party": "PS",
+        "string": "O Sr. João Rui de Almeida (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para defesa da honra e consideração."
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 2487,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 2487,
+      "speaker": {
+        "id": 1276,
+        "name": "João Rui Gaspar De Almeida",
+        "party": "PS",
+        "string": "O Sr. João Rui de Almeida (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Ministro da Saúde disse que eu não tinha estado este ano em São Tomé e Príncipe.\nSr. Ministro, em Fevereiro de 1991, estive em São Tomé com uma equipa..."
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 2487,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 2487,
+      "speaker": {
+        "id": 1276,
+        "name": "João Rui Gaspar De Almeida",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... e peço o favor, aos elementos que lá estiveram, de se pronunciarem sobre esta matéria. Em Fevereiro de 1991, no Hospital Agostinho Neto, havia um médico em serviço durante 24 horas seguidas, uma enfermeira e um técnico de laboratório, que trabalhavam em condições perfeitamente desumanas e com vencimentos em atraso - situação que se arrasta há vários anos.\n\nSe é a isto que se chama cooperação da parte do Governo Português, parece-me, Sr. Ministro, que é uma ideia completamente errada e que se está a «atirar areia para os olhos» das pessoas ao falar, nestes termos, em cooperação.\n\nMais uma vez, peço o favor aos colegas que me acompanharam à ilha do Príncipe que relatem as condições perfeitamente desumanas em que trabalham os médicos do Hospital do Príncipe, se é que assim se lhe pode chamar. , Em Fevereiro, havia só um médico no Hospital Agostinho Neto e este governo tem de ser julgado não por aquilo que vai fazer mas por aquilo que fez durante todos estes anos."
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 2487,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 2487,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra o Sr. Ministro da Saúde."
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 2487,
+      "speaker": {
+        "id": 2829,
+        "name": "Arlindo De Carvalho",
+        "party": "N/A",
+        "string": "O Sr. Ministro da Saúde",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Certamente que o Sr. Deputado está equivocado, porque Portugal não é responsável pela política de saúde de São Tomé e Príncipe. Portugal é um país que coopera com São Tomé e Príncipe!\n\nO Sr. Deputado está, com certeza, enganado e servido por alguns princípios ou pressupostos que não se enquadram na política que o Governo tem vindo a defender.\n\nDevo dizer-lhe que, se estava um médico, temos de elogiar o esforço desse médico; se estava um enfermeiro, temos de elogiar o esforço desse enfermeiro. Neste momento, estão 14 médicos e enfermeiros e, daqui a dois ou três meses, estarão 18, pois integram o quadro daquele hospital."
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 2487,
+      "speaker": {
+        "id": 1276,
+        "name": "João Rui Gaspar De Almeida",
+        "party": "PS",
+        "string": "O Sr. João Rui de Almeida (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E no ano 2000 mais vão estar!"
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 2488,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Rui Silva, que dispõe de cerca de três minutos cedidos pelo CDS."
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 2488,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Rui Silva (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, em primeiro lugar agradeço ao Sr. Deputado Adriano Moreira o tempo que me cedeu.\n\nAntes de iniciar a minha intervenção, cumpre-me, se o Sr. Presidente mo permitir, referir que, de facto, estive em São Tomé e Príncipe, em Fevereiro deste ano, acompanhado com o Sr. Deputado João Rui de Almeida e que essa visita não teve nada - vezes nada - a ver com uma apreciação do que se passava no território. Apenas nos deslocámos a São Tomé e Príncipe como observadores internacionais, a convite do Governo deste país, por ocasião das eleições legislativas.\n\nDo resultado dessa visita, existe um relatório, que não só não rejeitamos como o reiteramos, elaborado, subscrito e assinado por todos nós e que é, com certeza, do conhecimento de todos os membros do Governo.\n\nVou iniciar a minha intervenção fazendo a seguinte citação: «Pedimos a Deus que nos ajude a todos - os do exterior e os outros, como nós, em Timor Leste - a oferecer as nossas vidas, para ganharmos o nosso direito.»\n\nSr. Presidente, Srs. Membros do Governo, Srs. Deputados: Este é o primeiro parágrafo de uma recente carta que um cidadão timorense enviou a um seu familiar em Lisboa. É este o sentimento que o povo timorense exprime, tal é a sua angústia, quando se vêem amordaçados na sua voz, amarrados nos seus movimentos, impedidos nos seus direitos.\n\nHoje, aqui, nesta Câmara, falar de cooperação é obrigatoriamente recordar Timor, é falar de uma cooperação desejada que não se verificou, provocando um inedetismo ímpar nos tempos modernos que a comunidade internacional tardou, finalmente, a condenar.\n\nNo que se refere ao direito internacional, a cooperação exigida para Timor Leste é uma obrigação de toda a humanidade e, na cooperação imediata, Portugal tem responsabilidades acrescidas, dado que é reconhecido como potência administrante desse território.\n\nNo quadro internacional, a acção recente tem vindo a sofrer uma franca evolução, que nos apraz registar e que, já por várias vezes, foi saudada em diversas instâncias. Intensificaram-se as iniciativas, a abordagem diplomática conheceu nova força e, hoje, é indesmentível que a ocupação do território de Timor Leste pelas tropas indonésias não é mais um assunto desconhecido da comunidade internacional.\n\nDesde o Parlamento Europeu às Nações Unidas, desde o Comité de Descolonização ao Conselho da Europa, Timor é, hoje, objecto de negociações, propostas, moções e protestos que espelham o repúdio da comunidade perante tal violação da Carta das Nações Unidas.\n\nNo entanto, Sr. Presidente, Srs. Membros do Governo e Srs. Deputados, a cooperação com este povo não se satisfaz só com agressividade diplomática que conduza - e todos assim desejamos - a uma célere resolução de tão dramática e insólita situação.\n\nAo povo timorense, Portugal deve e tem uma obrigação constitucional de acompanhar todos os desenvolvimentos que conduzam a uma pacificação do território e à sua autodeterminação. Mas esta autodeterminação, a realizar-se como o direito internacional obriga, trará novas perspectivas de futuro que deveriam, desde já, vir a ser prevenidas e potencialmente elaboradas.\n\nPara tal - e em nosso entendimento -, a formação de quadros timorenses é condição sine qua non para um futuro autónomo do território gerido pelos próprios timorenses, onde as suas raízes históricas e culturais sejam o baluarte de um desenvolvimento desejável. E qual é a actual situação desses jovens que residem no nosso país?\n\nAs bolsas de estudo que hoje lhes são atribuídas são o resultado de um protocolo de cooperação entre a Fundação Calouste Gulbenkian e a Fundação Austronésia Borja da Costa. São hoje 45, um número que se desejaria substancialmente aumentado face às graves carências de jovens licenciados com que a comunidade timorense se confronta- uma meia dúzia, se existe.\n\nSimultaneamente, o acesso às faculdades por parte destes jovens deveria, em nosso entender, ser objecto de uma apreciação particular porque não faz sentido fazerem-se esforços para conseguir a autonomia de um povo e, simultaneamente, não se criarem as condições paralelas que concretizem, na prática, um verdadeiro projecto autonômico.\n\nHá, nesta Assembleia, um projecto de lei do Partido Socialista que poderia viabilizar esta prática e ninguém, de boa fé, poderia ou, diríamos mesmo, deveria acusar, de má fé, esta Câmara, se institucionalizássemos a preparação de futuros quadros timorenses de uma forma mais célere. Caso contrário, estaremos a dar com uma mão e a tirar com a outra.\n\nFaço um apelo aos Srs. Deputados que integram a respectiva comissão que se consciencializem deste problema. A aprovação deste projecto de lei só nos dignificaria a nós, deputados, e ao País, enquanto representantes do povo que nos elegeu e defensores de direitos dos quais, hoje, somos os primeiros responsáveis.\n\nHoje, Portugal privilegia -e bem- as boas relações com os países africanos de língua oficial portuguesa e os diversos organismos que se dedicam à cooperação com estes países incentivam e criam condições de intercâmbio a diversos níveis que têm obtido óptimos resultados com amplas vantagens para ambos os lados, prevenindo um futuro de cooperação saudável e necessário.\n\nNesta fase em que a diplomacia portuguesa investe fortemente na denúncia das violações perpetradas no território de Timor Leste, aos representantes do povo de Timor não têm sido dadas as condições mínimas de intercâmbio recíproco que prevejam e preparem uma hipótese de futura e potencial cooperação e, cada dia que passa, é um dia que se está a perder.\n\nEstamos convictos de que, hoje, no exterior, tal como no interior do território, a luta do povo timorense é internacionalmente reconhecida. A Convergência Nacionalista e a Fundação Austronésia Borja da Costa, cada uma na sua área, têm vindo a patrocinar um exemplar serviço de apoio e dedicação à justa causa da luta do povo timorense e Portugal pode e deve apoiar com maior e melhor eficácia esses esforços.\n\nDesejamos, Sr. Presidente, Srs. Membros do Governo e Srs. Deputados, que, com esta intervenção, a já tão saudável solidariedade institucional que hoje existe entre a Assembleia da República, Governo e o Sr. Presidente da República para com a luta do povo de Timor Leste se intensifique, que se promovam acções de formação profissional aos jovens timorenses, que se criem organismos de cooperação com os representantes de Timor dentro e fora das nossas fronteiras, que se fortaleça o apoio aos organismos que hoje lutam pela melhoria das condições do povo timorense, nomeadamente a referida Fundação"
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 2489,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado António Sousa Lara."
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 2489,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. António Sousa Lara (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Vou utilizar este escassíssimo tempo que resta à nossa bancada para dizer, a propósito da intervenção que o Sr. Deputado Rui Silva acaba de fazer, que, como presidente da Comissão Eventual para o Acompanhamento da Situação em Timor Leste, me congratulo com o facto de a sociedade civil reagir da forma que o Sr. Deputado referiu, porque esta não é uma questão dos deputados, dos políticos, nem sequer é uma questão de Portugal, mas, sim, de toda a humanidade.\n\nPenso que nos devemos sentir «sócios» uns dos outros na defesa dos direitos do povo de Timor. Por conseguinte, como homens e como cidadãos do mundo, temos obrigação de «meter ombros a este andor», que é a questão dos direitos do povo de Timor. E ainda bem que a sociedade civil reage assim!\n\nAliás, apelo aqui, como académico, às universidades privadas portuguesas para que abram mão, generosamente, de bolsas de estudo, com o propósito que acaba de referir, de modo que um futuro melhor possa raiar para o massacrado povo de Timor."
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 2489,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, terminou o debate relativo à interpelação, pelo que vamos passar à fase do encerramento.\n\nPara a intervenção, tem a palavra o Sr. Deputado Carlos Lilaia."
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 2489,
+      "speaker": {
+        "id": 1021,
+        "name": "José Carlos Pereira Lilaia",
+        "party": "PRD",
+        "string": "O Sr. Carlos Lilaia (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Por ter tido a ousadia de lançar uma «pedrada no charco», o PRD foi acusado - embora, apenas, em despropositados e ciumentos apartes - de estar a fazer o «jogo» do Governo em matéria de cooperação.\n\nSabia-se, de antemão, para quem estivesse de boa fé, que o Governo não precisava, neste caso, de aliados de circunstância.\n\nVerifica-se, agora, que o único partido que aqui apresentou críticas pertinentes à actuação do Governo, bem como propostas concretas de acção, foi o partido interpelante.\n\nPara nós, este debate foi extremamente positivo e não apenas por ser o primeiro. Ele permitiu, além do mais, verificar que a Assembleia da República não se encontrava suficientemente motivada e esclarecida para discutir os problemas da cooperação.\n\nPor outro lado, o debate foi elucidativo quanto à inexistência de ideias claras, por parte do Governo, e quanto à política de cooperação a praticar no futuro, apesar - e talvez por causa - da paz. Sobre isso, ouvimos nada ou quase nada!\n\nSr. Presidente, Srs. Membros do Governo, Srs. Deputados: Na nossa intervenção inicial, formulámos um amplo conjunto de sugestões e de propostas concretas de actuação, das quais permitimo-nos salientar as seguintes: a elaboração, e consequente dotação orçamental, de programas finalizados de actuação em sectores estratégicos da cooperação; a avaliação, rigorosa, da eficácia dos gastos realizados com a cooperação; a conveniência de articulação com o Brasil em matéria de política de cooperação, tendo em vista a defesa de uma língua, de uma história e de uma cultura em larga medida comuns; a criação de um lobby financeiro motivado para a defesa dos interesses das empresas portuguesas que laboram no domínio da cooperação; o reforço da nossa influência real nas instituições internacionais que financiam projectos nos PALOP; a motivação da juventude para reflectir os problemas africanos e para trabalhar e estar em África; a conveniência de serem revistos os critérios de designação de representantes diplomáticos para os PALOP; a necessidade de serem revistos os critérios que têm presidido quer à autorização de requisições de técnicos e cooperantes quer à concessão de benefícios fiscais às empresas que fazem cooperação; a conveniência de impedir formas de concorrência desleal entre o sector público e o sector privado em matéria de cooperação; a necessidade de fazer funcionar a Comissão Interministerial para a Cooperação, funcionando na dependência directa do Primeiro-Ministro, com mandato para gerir, no plano técnico, os assuntos da cooperação; a criação de um conselho consultivo para a cooperação, que integre, nomeadamente, os representantes das associações empresariais portuguesas e dos PALOP; a criação de um centro de documentação e informação sobre os PALOP, com as características que definimos e não com a inércia do órgão que actualmente existe; a conveniência de serem definidas formas concretas de apoio político à implementação do multipartidarismo nos PALOP, e, finalmente, a conveniência de serem estudadas novas e mais eficazes formas de cooperação com os PALOP no domínio da defesa.\n\nSobre tudo isto, o Governo disse quase nada e o Plenário, com honrosas excepções, nada disse!\n\nSe, acerca da intervenção do PSD, não tivemos grandes expectativas, já o mesmo não aconteceu quanto à participação dos restantes partidos, nomeadamente do PS, que não quis valorizar a interpelação. Aliás, p PS só valoriza aquilo que polariza; é uma oposição solitária e não solidária!\n\nSe, hoje, não lográmos configurar os parâmetros essenciais que devem balizar a política de cooperação do futuro, isso não fica a dever-se à ausência de propostas concretas por parte do partido interpelante, mas, sim, à ausência de ideias chave por parte do Governo e bem assim a um relativo desinteresse, por parle da Assembleia da República, face a uma iniciativa que deveria ter merecido maior e melhor atenção.\n\nFomos acusados de ter feito uma abordagem orgânica e quantitativa da cooperação, o que, aliás, é extremamente injusto, pois na nossa intervenção de fundo nem um número referimos.\n\nSaliento, também, que não defendemos mais departamentalização da cooperação, pois o que queremos é que haja um órgão interministerial que, efectivamente, coordene, avalie e controle os resultados das acções de cooperação em que nos envolvemos."
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 2490,
+      "speaker": {
+        "id": 344,
+        "name": "Pedro Manuel Cruz Roseta",
+        "party": "PSD",
+        "string": "O Sr. Pedro Roseta (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Nós também falámos de Timor! Não ouviu?!"
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 2490,
+      "speaker": {
+        "id": 1021,
+        "name": "José Carlos Pereira Lilaia",
+        "party": "PRD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Alertámos para as responsabilidades de Portugal no processo de libertação de Timor e dos Timorenses. Foi mais um recado que, esperamos, faça vencimento.\n\nSr. Presidente, Srs. Membros do Governo, Srs. Deputados: Fizemos o que pudemos! Com limitações, sem dúvida, mas com a consciência de ter contribuído, corajosamente, para debater um assunto tabu.\n\nEsperamos sinceramente que, no futuro, os assuntos de cooperação sejam debatidos enquanto questão nacional e não enquanto vector, personalizado e mais ou menos clandestino, da política externa."
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 2490,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação."
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 2490,
+      "speaker": {
+        "id": 1037,
+        "name": "José Manuel Durão Barroso",
+        "party": "N/A",
+        "string": "O Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Durante esta interpelação, o Governo procurou dar um quadro tão completo quanto possível daquilo que tem vindo a ser feito em matéria de política de cooperação.\n\nEstiveram aqui, para além do Sr. Secretário de Estado dos Negócios Estrangeiros e da Cooperação, o Sr. Ministro do Emprego e da Segurança Social, o Sr. Ministro da Saúde, como poderiam também ter estado ministros das mais diferentes áreas, pois, como tive ocasião de dizer, a cooperação, hoje, passa por todos os departamentos governamentais.\n\nAssim, poderia aqui ter estado o Sr. Ministro da Defesa, pois foi este governo que lançou acções no domínio da cooperação técnico-militar, o Sr. Ministro da Educação, o Sr. Ministro das Finanças, pois, para além dos problemas da ajuda financeira, o próprio Ministério das Finanças desenvolve uma importantíssima acção de cooperação técnica e de formação profissional, o Sr. Ministro do Planeamento e da Administração do Território, o Sr. Ministro da Justiça, pois estamos a intensificar as acções de cooperação no domínio da administração da justiça, sobretudo naqueles países que estão agora a consolidar um\n\nverdadeiro Estado de direito democrático, o Sr. Ministro da Agricultura, Pescas e Alimentação o Sr. Ministro Adjunto e da Juventude, dado que também têm vindo a ser desenvolvidas muitas acções nesta área, nomeadamente no âmbito da comunicação social e na política de juventude, o Sr. Ministro das Obras Públicas, Transportes e Comunicações, uma vez que as empresas públicas tuteladas por este ministério estão também presentes na cooperação técnica com os países de língua portuguesa, o Sr. Ministro do Comércio e Turismo, que tem a tutela do ICEP e também desenvolve acções de formação importantes nesta área.\n\nDe facto, hoje em dia, a cooperação, que foi assumida como prioridade deste governo, é tratada ao mais alto nível e ocupa os próprios ministros em Conselho de Ministros e os diferentes departamentos governamentais.\n\nOra, não consigo compreender algumas das críticas - críticas que são baseadas naquilo a que chamo um certo tropismo organicista ou burocrático - que procuram sempre fórmulas mágicas de cooperação e que menosprezam ou subestimam aquilo que devia ser efectivamente a vossa primeira preocupação, os resultados. A política tem dado resultados, esses resultados têm sido reconhecidos pelos destinatários da nossa política, e somos nós próprios que vamos subestimar esses resultados? Francamente não é correcto Srs. Deputados...\nOs resultados da política de cooperação estão à vista, sobretudo no modo como os países com os quais cooperamos avaliam essa cooperação nas declarações públicas que fazem, no apreço que reiteradamente nos manifestam. E, a esse respeito, nada foi respondido acerca do meu desafio no sentido de ser dito qual o governo que, até hoje, teve tantas manifestações de apreço por parte dos governos com os quais cooperamos, em termos de política de cooperação. Este desafio não obteve resposta, não foi indicado quais teriam sido esses governos.\n\nDevo dizer-vos, contudo, Srs. Deputados, que também eu, como o Sr. Deputado Carlos Lilaia, fiquei um pouco desiludido com alguns aspectos deste debate e desta interpelação. Houve, da parte de algumas bancadas - vamos ser sinceros -, alguma leviandade na sua preparação. Há, de facto, Srs. Deputados, alguns partidos que vêm em massa e estão presentes quando se trata da política como «politiquice», como manobra, como espectáculo, mas que primam pela ausência quando se trata da política de Estado e dos objectivos estratégicos da Nação Portuguesa.\nDas críticas que foram feitas, para além desta da coordenação e do objectivo de uma globalização, que me parece ser de facto obsessiva, já expliquei tanto quanto podia e sabia que o nosso objectivo, no Governo e nos negócios estrangeiros, é o de procurar estimular o maior número de iniciativas, compatibilizando-as apenas com os interesses superiores do Estado. Não é, de forma alguma, o de travar, centralizar ou coordenar à outrance aquilo que não tem necessariamente de ser coordenado, porque a política de cooperação, hoje em dia, como vos disse, penetra e atravessa as estruturas da própria sociedade e não apenas do Governo, não apenas da Administração Pública, mas do poder local, dos sindicatos, de toda a espécie de organizações, de associações cívicas, de organizações não governamentais, que temos apoiado com uma política de grande"
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 2491,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 2491,
+      "speaker": {
+        "id": 1037,
+        "name": "José Manuel Durão Barroso",
+        "party": "N/A",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "E em relação à vossa preocupação, isto é, à preocupação sincera que, em muitos casos, vi de fazer mais, designadamente na língua portuguesa, quero afirmar-vos, por parte do Governo, a disponibilidade para continuar a cooperar institucionalmente com esta Assembleia para, também neste capítulo, fazermos mais e engrandecermos o nome de Portugal.\n\nNesta matéria, se me permitem usar uma expressão que muito se utiliza em Angola, estamos juntos!"
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 2491,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, está encerrado o debate da interpelação ao Governo sobre política geral centrada na política de cooperação externa.\n\nVamos, de seguida, proceder a um conjunto de votações. Em primeiro lugar, será votado o voto n.º 185/V, apresentado pelo PSD, de congratulação pelo primeiro cente-"
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 2492,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Peço a palavra para interpelar a Mesa, Sr. Presidente."
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 2492,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 2492,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Joio Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, pedia a palavra para solicitar que o Grupo Parlamentar do PSD alterasse o conteúdo da parle final do seu voto, pois, de contrário, será inaceitável. Com efeito, não é possível pôr a Assembleia da República a votar a satisfação de um grupo parlamentar."
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 2492,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Bem, perguntaria ao PSD se, no voto que apresentou, onde se lê «Grupo Parlamentar do PSD», se poderá ler «Assembleia da República»..."
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 2492,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Com certeza, Sr. Presidente!"
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 2492,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Assim sendo, vamos então votar este voto de congratulação, já devidamente rectificado.\nSubmetido à votação, foi aprovado por unanimidade, registando-se a ausência dos deputados independentes Carlos Macedo, Helena Roseta, Herculano Pombo, João Corregedor da Fonseca, Jorge Lemos, José Magalhães, Raul Castro e Valente Fernandes.\nSrs. Deputados, vamos agora passar à votação final global do texto final da Comissão de Agricultura e Pescas relativo à ratificação n.º 148/V (PCP), sobre o Decreto-Lei n.º 327/90. de 22 de Outubro.\nSubmetido à votação, foi aprovado por unanimidade, registando-se a ausência dos deputados independentes Carlos Macedo, Helena Roseta, Herculano Pombo, João Corregedor da Fonseca, Jorge Lemos, José Magalhães, Raul Castro e Valente Fernandes.\nSrs. Deputados, há ainda acordo para procedermos à votação, na generalidade, na especialidade e final global, da proposta de lei n.º 185/V, que autoriza o Governo a legislar em matéria de importação e exportação de bens que possam afectar os interesses estratégicos nacionais.\n\nSrs. Deputados, vamos então passar à votação, na generalidade, desta proposta de lei.\nSubmetida à votação, foi aprovada, com votos a favor do PSD, do PS, do PRD e do CDS e a abstenção do PCP.\nVamos proceder à votação, na especialidade, do mesmo diploma.\nSubmetida à votação, foi aprovada, com votos a favor do PSD, do PS, do PRD e do CDS e a abstenção do PCP.\nFinalmente, vamos proceder à sua votação final global.\nSubmetida à votação, foi aprovada, com votos a favor do PSD, do PS, do PRD e do CDS e a abstenção do PCP e do deputado independente João Corregedor da Fonseca.\nPara uma declaração de voto, tem a palavra o Sr. Deputado Lino de Carvalho."
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 2492,
+      "speaker": {
+        "id": 1315,
+        "name": "Lino António Marques De Carvalho",
+        "party": "PCP",
+        "string": "O Sr. Lino de Carvalho (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente. Srs. Deputados: Chegou ao fim o processo de ratificação, requerido pelo PCP, do Decreto-Lei n.º 327/90, de 22 de Outubro, que regula a ocupação do solo objecto de um incêndio florestal.\n\nFoi oportuna a chamada a ratificação deste diploma legal, que permitiu, em sede de especialidade, aperfeiçoá-lo em alguns dos aspectos em que o decreto-lei era manifestamente incorrecto. Não foi, contudo, possível introduzir alterações que permitissem, entre outros aspectos, prevenir efeitos injustos para os pequenos proprietários florestais, porque a isso se opôs o PSD.\n\nA elaboração deste diploma legal no ano passado correspondeu a algumas das reclamações e propostas avançadas, durante o Verão passado, pelo PCP e outros sectores. Todavia, o facto de o diploma não corresponder a uma orientação global do Governo para a floresta portuguesa e ter sido manifestamente redigido para responder às pressões e reivindicações das populações, acabou por se traduzir num texto com manifestas incorrecções e erros técnicos e políticos, tal como foi reconhecido na Comissão.\n\nAlguns, como o da escala do cadastro - que originalmente era definida como sendo de 1/1000 -, foi, após termos interpelado o Governo sobre a matéria, rectificado para a escala já mais aceitável de 1/10 000. Contudo, não foi possível introduzir uma rectificação necessária, a de criar um sistema de apoios compensatórios para os pequenos produtores florestais vítimas de incêndios e a proibição da prática de certos actos durante 10 anos, que não se traduzisse, simultaneamente, num estímulo ao deflagrar de novos incêndios.\n\nApesar disto, entendemos que as alterações introduzidas melhoraram o texto inicial, permitindo, porventura mais claramente, travar as manobras especulativas em torno das áreas incendiadas, designadamente no que se refere as pressões das celuloses para a implantação de novos eucaliptais.\n\nNo entanto, o mais importante é agora a sua execução e inserção numa orientação global de prevenção dos fogos"
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 2493,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 2493,
+      "speaker": {
+        "id": 1315,
+        "name": "Lino António Marques De Carvalho",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Este diploma, agora ratificado, 6, contudo, um contributo nesse sentido e por isso o votámos favoravelmente. No entanto, continua manifestamente a faltar uma política global de defesa e de desenvolvimento da floresta portuguesa!"
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 2493,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a próxima reunião plenária terá lugar amanhã, às 10 horas. Nada mais havendo a tratar, declaro encerrada a sessão."
+    }
+  ]
+}

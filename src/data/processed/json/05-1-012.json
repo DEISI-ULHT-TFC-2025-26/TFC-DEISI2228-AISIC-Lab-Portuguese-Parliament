@@ -1,0 +1,2322 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "5",
+    "legislative_session": "1",
+    "number": "12",
+    "date": "1987-10-20"
+  },
+  "debate_id": "r3_5_1_12_1987-10-20",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 244,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quorum, pelo que declaro aberta a sessão.\nEram 15 horas e 15 minutos. \nEstavam presentes os seguintes Srs. Deputados: \nPartido Social-Democrata (PPD/PSD):\nAbílio de Mesquita Araújo Guedes.\n\nAfonso de Sousa Freire de Moura Guedes.\n\nAlberto Cerqueira de Oliveira.\n\nAlberto Monteiro de Araújo.\n\nÁlvaro José Rodrigues Carvalho.\n\nAntónio Abílio Costa.\n\nAntónio Augusto Ramos.\n\nAntónio de Carvalho Martins.\n\nAntónio Costa de A. de Sousa Lara.\n\nAntónio Fernandes Ribeiro.\n\nAntónio Joaquim Correia Vairinhos.\n\nAntónio José de Carvalho.\n\nAntónio Maria Oliveira de Matos.\n\nAntónio Maria Pereira.\n\nAntónio Paulo Martins Pereira Coelho.\n\nAntónio Roleira Marinho.\n\nAntónio Sérgio Barbosa de Azevedo.\n\nAntónio da Silva Bacelar.\n\nAristides Alves do Nascimento Teixeira.\n\nArlindo da Silva André Moreira.\n\nArmando de Carvalho Guerreiro da Cunha.\n\nArménio dos Santos.\n\nBelarmino Henriques Correia.\n\nCarla Maria Tato Diogo.\n\nCarlos Lélis da Câmara Gonçalves.\n\nCarlos Manuel Duarte de Oliveira.\n\nCarlos Manuel Oliveira da Silva\n\nCarlos Manuel Sousa Encarnação.\n\nCarlos Matos Chaves de Macedo.\n\nCarlos Sacramento Esmeraldo.\n\nCasimiro Gomes Pereira.\n\nCristóvão Guerreiro Norte.\n\nDaniel Abílio Ferreira Bastos.\n\nDomingos Duarte Lima.\n\nDomingos da Silva e Sousa.\n\nEduardo Alfredo de Carvalho P. da Silva.\n\nErcília Domingos M. P. Ribeiro da Silva.\n\nEvaristo de Almeida Guerra de Oliveira.\n\nFernando Barata Rocha.\n\nFernando Dias de Carvalho Conceição.\n\nFernando José Antunes Gomes Pereira.\n\nFernando José R. Roque Correia Afonso.\n\nFernando Manuel Alves Cardoso Ferreira.\n\nFernando Monteiro do Amaral.\n\nFilipe Manuel Silva Abreu.\n\nFrancisco Jardim Ramos.\n\nFrancisco João Bernardino da Silva.\n\nFrancisco Rodrigues Porto.\n\nGuido Orlando de Freitas Rodrigues.\n\nHilário Torres Azevedo Marques.\n\nJoão Costa Silva.\n\nJoão Domingos F. de Abreu Salgado.\n\nJoão José Pedreira de Matos.\n\nJoão José da Silva Maçãs.\n\nJoão Manuel Ascensão Belém.\n\nJoão Maria Ferreira Teixeira.\n\nJoão Soares Pinto Montenegro.\n\nJoaquim Eduardo Gomes.\n\nJoaquim Fernandes Marques.\n\nJoaquim Vilela de Araújo.\n\nJorge Paulo Seabra Roque da Cunha.\n\nJosé de Almeida Cesário.\n\nJosé Álvaro Machado Pacheco Pereira.\n\nJosé Angelo Ferreira Correia.\n\nJosé Augusto Ferreira de Campos.\n\nJosé Francisco Amaral.\n\nJosé Guilherme Pereira Coelho dos Reis.\n\nJosé Júlio Vieira de Mesquita.\n\nJosé Lapa Pessoa Paiva.\n\nJosé Leite Machado.\n\nJosé Luís de Carvalho Lalanda Ribeiro.\n\nJosé Manuel Rodrigues Casqueiro.\n\nJosé Manuel da Silva Torres.\n\nJosé Mário Lemos Damião.\n\nJosé Mendes Bota.\n\nJosé Mendes Melo Alves.\n\nLicínio Moreira da Silva.\n\nLuís Amadeu Barradas Amaral.\n\nLuís António Martins.\n\nLuís Filipe Garrido Pais de Sousa.\n\nLuís Filipe Meneses Lopes.\n\nManuel Albino Casimiro de Almeida.\n\nManuel Coelho dos Santos.\n\nManuel Ferreira Martins.\n\nManuel João Vaz Freixo.\n\nManuel Joaquim Batista Cardoso.\n\nManuel Joaquim Dias Loureiro.\n\nManuel José Dias Soares Costa.\n\nMaria da Conceição U. de Castro Pereira.\n\nMaria Luísa Lourenço Ferreira.\n\nMaria Manuela Aguiar Moreira.\n\nMary Patrícia Pinheiro Correia e Lança.\n\nMário Jorge Belo Maciel.\n\nMário de Oliveira Mendes dos Santos.\n\nMário da Silva Coutinho Albuquerque.\n\nMateus Manuel Lopes de Brito.\n\nMiguel Fernando C. de Miranda Relvas.\n\nNuno Francisco F. Deleure Alvim de Matos.\n\nNuno Miguel S. Ferreira Silvestre.\n\nReinaldo Alberto Ramos Gomes.\n\nRui Alberto Limpo Salvada.\n\nValdemar Cardoso Alves.\n\nVasco Francisco Aguiar Miguel..\n\nVictor Pereira Crespo.\n\nVirgílio de Oliveira Carneiro.\nPartido Socialista (PS):\nAfonso Sequeira Abrantes.\n\nAlberto Alexandre Vicente.\n\nAlberto de Sousa Martins.\n\nAntónio de Almeida Santos.\n\nAntónio Magalhães da Silva.\n\nAntónio Manuel Oliveira Guterres.\n\nAntónio Miguel Morais Barreto.\n\nAntónio Poppe Lopes Cardoso.\n\nCarlos Cardoso Lage.\n\nEduardo Ribeiro Pereira.\n\nElisa Maria Ramos Damião Vieira.\n\nFernando Ribeiro Moniz.\n\nFrancisco Fernando Osório Gomes.\n\nFrancisco Igrejas Caeiro.\n\nHelena de Melo Torres Marques.\n\nJaime José Matos da Gama.\n\nJoão Barroso Soares.\n\nJoão Eduardo Coelho Ferraz de Abreu..\n\nJoão Rui Gaspar de Almeida."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 245,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Secretário vai proceder à leitura do expediente.\nDeu-se conta do seguinte\nExpediente\nCartas\nDa Federação das Comunicações e Telecomunicações, remetendo cópias do parecer que emitiram acerca do Programa do XI Governo Constitucional em matéria de comunicação social;\n\nDas Associações dos Reformados e Pensionistas do Distrito de Viana do Castelo, da Associação União dos Reformados da Previdência, delegação de São Pedro da Cova, com sede em Gondomar, do Centro de Convívio dos Reformados e Pensionistas Idosos do Montijo e da Comissão Concelhia dos Reformados de Aljustrel, remetendo moções ou referindo a passagem, em 3 do corrente mês, do Dia do Reformado e solicitando o estatuto de parceiro social para o MURPI.\nOfícios\nDas Assembleias de Freguesia de Rio Tinto e de São Pedro da Cova, ambas no concelho de Gondomar, remetendo cópias de moções aprovadas em reuniões efectuadas respectivamente nos dias 18 e 25 do passado mês de Setembro sobre regionalização;\n\nDa Assembleia Municipal de Alcochete, remetendo um exemplar da moção aprovada por unanimidade na reunião levada a efeito no dia 25 do passado mês de Setembro de protesto contra o projecto do alargamento do Campo de Tiro de Alcochete.\n\nDa Câmara Municipal de Gondomar e de Ermelinda Montalvão Machado, esposa do Sr. Deputado Mário Júlio Montalvão Machado, expressando profundo pesar pelo falecimento do Sr. Deputado José Nuno Meireles.\nTelegrama\nDe José Afonso Costa e Maria de Lurdes Puig, residentes no Porto, pais do Sr. Deputado José Puig Costa, agradecendo a manifestação de solidariedade desta Assembleia.\n\nO Sr. Secretário (Reinaldo Gomes): Foram apresentados na Mesa, nas últimas reuniões plenárias, os requerimentos que passo a indicar.\n\nNo dia 15 de Outubro de 1987: ao Ministério das Finanças, formulado pela Sr.ª Deputada Helena Torres Marques; ao Ministério das Obras Públicas e Comunicações, formulado pelo Sr. Deputado Raul Junqueiro; à Secretaria de Estado da Construção e Habitação, formulado pelos Srs. Deputados Vidigal Amaro e Lino de Carvalho; à Secretaria de Estado do Ambiente, formulado pelo Sr. Deputado João Amaral; ao Governo (dois), formulados pelo Sr. Deputado Anastácio Filipe; aos Ministérios da Educação e das Obras Públicas, Transportes e Comunicações (dois), formulados pelo Sr. Deputado Linhares de Castro; ao Ministério da Agricultura, Pescas e Alimentação (dois), formulados pelos Srs. Deputados Maria Santos e Herculano Pombo, e ao Governo, formulado pelo Sr. Deputado Carlos Brito."
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 246,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma declaração política, tem a palavra o Sr. Deputado Carlos Brito."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 246,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: No início da sessão legislativa, como tem sido praxe, o PCP julga importante pronunciar-se sobre as condições resultantes do novo quadro político-partidário em que vai decorrer a actividade da Assembleia da República e sobre a própria natureza da intervenção e iniciativas do seu grupo parlamentar.\n\nAs condições de trabalho da Assembleia vão ser profundamente marcadas pela existência de uma nova maioria e a circunstância dessa maioria pertencer a um só partido (o que acontece pela primeira vez), ser uma maioria apoiante do Governo e totalmente identificada com a sua política (ao contrário do que acontecia na anterior legislatura).\n\nOs comunistas pronunciaram-se minuciosamente sobre a política governamental quando foi debatido o Programa do Governo e declararam-lhe aberta e firme oposição.\n\nConsideramos particularmente negativos os programados propósitos do Governo, designadamente em relação à privatização do sector empresarial do Estado e do sector público da comunicação social, às medidas tendentes a acabar com a reforma agrária, aos direitos dos trabalhadores e à redução progressiva da parte do trabalho no rendimento nacional, à diminuição das responsabilidades do Estado em relação à saúde e à segurança social, à interferência na autonomia do poder local e à adulteração do princípio da proporcionalidade nas leis eleitorais. Entendemos que a concretização destes objectivos, quer ela seja feita em sede de revisão da Constituição ou à margem e contra a Constituição, será em qualquer dos casos desfiguradora do regime democrático, e, por isso mesmo, dedicar-lhe-emos uma constante atenção.\n\nImporta agora considerar o funcionamento da Assembleia da República. É evidente que os comunistas aceitam com toda a naturalidade que a nova composição da Assembleia decorrente das eleições de 19 de Julho se projecte no processo democrático e parlamentar, segundo as correspondentes normas constitucionais e regimentais."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 246,
+      "speaker": {
+        "id": 736,
+        "name": "José Manuel Santos De Magalhães",
+        "party": "PCP",
+        "string": "O Sr. José Magalhães (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 246,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Contamos com isso, é nessas condições que nos preparamos para desenvolver, em condições agora mais desfavoráveis, uma acção devotada e empenhada à defesa dos interesses do nosso povo e do nosso país. Consideramos, no entanto, que são altamente preocupantes os propósitos do PSD, já revelados em textos, visando alterar, a toda a velocidade, a Lei Orgânica, o Regimento e até as pessoas que desempenham altos cargos na Assembleia da República. A sucessão de maiorias na Assembleia da República não pode ser um permanente ajuste de contas."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 246,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 246,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "No que se refere à Lei Orgânica, não há nada que legitime a proposta tendente à redução do apoio aos deputados, quando o entendimento que se tem tido na Assembleia justificaria o seu reforço. São igualmente inaceitáveis as propostas visando a presidencialização da administração da Assembleia e a sua monopartidarização, quando sempre se considerou como positiva a gestão participada e plural que tem vigorado."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 246,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 246,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Quanto ao Regimento, que foi profundamente revisto há poucos anos por iniciativa e larga intervenção do PSD..."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 246,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Por iniciativa!"
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 246,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "... também nada justifica agora uma nova revisão apontada precisamente à redução dos direitos dos partidos da oposição, dos direitos das minorias. Vão nesse sentido a redução drástica dos tempos de intervenção, a diminuição do número de agendamentos e a absurda limitação das perguntas ao Governo. Num caso e noutro, não estou a fazer uma análise detalhada nos diplomas em referência, mas a citar alguns aspectos característicos, e que são reveladores da sofreguidão em que o PSD quer engrandecer a sua maioria, e que se podem traduzir num verdadeiro esmagamento dos direitos da oposição. Questionamos, ainda que seja democraticamente legítimo alterar as regras do jogo tão de sopetão e defraudar as expectativas com que forças políticas concorreram às eleições e delinearam a sua intervenção parlamentar, o que aconteceria se, como o PSD propõe, deixassem de existir os agrupamentos parlamentares que vigoram no nosso Regimento desde 1980 e sempre com o apoio do PSD.\n\nÉ também um ajuste de contas o plano governamental de repor na Assembleia da República e fazê-la aprovar todas as propostas do Governo que ela rejeitou e fazê-la revogar todos os diplomas que aprovou contra a vontade do Governo e do PSD. É o inadmissível ajuste de contras entre o Governo e a Assembleia da República que levou a que já tivesse sido apresentado, pela mão do PSD, o projecto de lei que revoga a lei sobre as competências da Assembleia em matéria comunitária (aprovada pouco tempo antes da dissolução), que consagra um regime em tudo idêntico ao existente noutros países da Comunidade."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 247,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 247,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O PCP diz também não ao balofo optimismo que vem sendo exibido pelo Governo em relação à situação do País. A doença da corrupção grassa de maneira grave, como o Governo ainda há dias teve que reconhecer a propósito da atribuição das verbas do Fundo Social Europeu. A imprensa reporta-se também a situações que continuam mal esclarecidas e que suscitam acusações a membros do Governo.\n\nO Governo não informa a Assembleia sobre a execução orçamental, mas há ideia de dificuldades tanto na execução do Orçamento de 1987 como na preparação do Orçamento de 1988.\n\nAs dificuldades económicas e financeiras do País são assinaláveis, ao contrário do que o Governo pretende perigosamente fazer crer, e para mais numa conjuntura externa extremamente complexa.\n\nEm contrapartida, o propósito do Governo de estabelecer tectos salariais, incluindo à função pública, abaixo da taxa de inflação, confirma a estratégia governamental de procurar enfrentar essas dificuldades à custa dos trabalhadores.\n\nA resolução dos nossos problemas não se compadece com campanhas mistificadoras, como aquela que o Governo e os seus propagandistas desenvolvem em torno da entrega das empresas públicas ao grande capital, com o objectivo confessado de preparar psicologicamente o País para a sua aceitação.\n\nA campanha de desnacionalizações é, sem dúvida, um objectivo central deste governo. Opomo-nos a ela firmemente. Entendemos que estão em causa grandes interesses nacionais e que se deve dar ao nosso povo a possibilidade de julgar sobre a grande operação de transferência de propriedade que está a ser preparada.\n\nO País deve conhecer rigorosamente a situação do sector empresarial do Estado e as responsabilidades da sua evolução. Fazemos uma proposta à Assembleia da República para a constituição de uma comissão eventual com este objectivo. Consideramos que seria muito mau e nada transparente que o PSD se opusesse à concretização deste processo."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 247,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 247,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr. Deputados: a vida vai-se encarregando de demonstrar que são abusivas, deslocadas e sem fundamento as generalizações apressadas e as extrapolações mecânicas dos resultados eleitorais de 19 de Julho. O Governo e a maioria devem convencer-se que uma coisa foi o apoio eleitoral que obtiveram, outra, muito diferente, vai ser o apoio à concreta política governamental.\n\nÉ neste quadro que o Grupo Parlamentar do PCP desenvolverá a sua acção, exercendo os poderes que a Constituição lhe confere de fiscalização da política governamental, dando voz às justas reivindicações populares e tomando iniciativas legislativas para a resolução dos problemas mais graves do nosso povo e do País."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 247,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para formular pedidos de esclarecimento, tem a palavra o Sr. Deputado Mendes Bota."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 247,
+      "speaker": {
+        "id": 807,
+        "name": "José Mendes Bota",
+        "party": "PSD",
+        "string": "O Sr. Mendes Bota (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Carlos Brito, efectivamente, depois das eleições de Julho passado, poder-se-á dizer que muita coisa mudou e também que muitos caminhos se abriram para a mudança. No entanto, há pelo menos algo que não mudou e que nenhuma eleição até agora parece ter sido capaz de mudar: é a postura do PCP nesta Casa.\n\nO PCP desde 1975 que está aqui nesta Assembleia da República numa posição contrária a todos os governos constitucionais, a todos os governos legítimos que por aqui têm passado e que têm governado este país.\n\nO PCP, no início destes trabalhos parlamentares, mais do que vir dizer-nos com o que é que podemos contar de positivo, qual o seu contributo para que Portugal possa efectivamente sair dos tempos em que se arrastava numa crise económica e social muito grande, vem aqui uma vez mais reafirmar que é contra este executivo de Cavaco Silva, do PSD, como foi contra o anterior e como foi contra todos os outros executivos.\n\nO PCP, certamente, só não será contra o executivo do PCP! É coerente, mas pelo menos que fique aqui assinalado que a postura do PCP é negativista, pessimista e demonstra que uma vez mais vai estar contra tudo e, diria quase, contra todos, ao longo dos trabalhos desta Assembleia.\n\nO veredicto popular das últimas eleições demonstrou que o PCP não estava na razão quando dizia, repetidas vezes, ao longo dos últimos dois anos, que este governo não governava de acordo com a vontade popular. Afinal, a resposta foi a que teve ...\n\nMas não posso aceitar que o Sr. Deputado venha dizer que as intenções do Governo e as da bancada do Partido Social-Democrata se traduzem meramente num ajuste de contas. Não é esse o nosso estado de espírito, mas sim o de procurarmos ser coerentes com aquilo que prometemos ao povo português, com aquilo que"
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 248,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 248,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o desejar, tem a palavra o Sr. Deputado Carlos Brito."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 248,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Mendes Bota, fiquei bastante satisfeito com o seu pedido de esclarecimento, porque deste modo tenho oportunidade de o esclarecer em relação a certos aspectos que certamente não teve tempo de analisar ou que, por não ter estado aqui presente, não teve ocasião de conhecer.\n\nO primeiro esclarecimento, que me parece que lhe será útil, refere-se à posição do PCP em relação aos diferentes governos que se constituíram depois do funcionamento da Assembleia da República.\n\nNão é exacta a sua afirmação de que sempre estivemos contra. Em relação a alguns não estivemos sempre contra, e em relação a outros nunca estivemos contra."
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 248,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 248,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, repare que a minha intervenção não é uma cassette, como eu poderia dizer da sua ...\n... ela reflecte sobre a nossa vida política, sobre a composição da Assembleia da República e as suas consequências e sobre algumas propostas já apresentadas por VV. Ex.ªs É, digamos, na sequência dessa reflexão que se tiram algumas conclusões, que o Sr. Deputado, na sua intervenção, não rebateu.\n\nNaturalmente que o Sr. Deputado não concordará que sejamos oposição; acharia melhor que apoiássemos o Governo ou, pelo menos, que não declarássemos a nossa oposição ao Governo, que estivéssemos aqui silenciosos esperando que viessem as iniciativas do Governo.\n\nEssa não é a nossa postura, e o Sr. Deputado Mendes Bota vai ter de tolerar esta situação, porque é assim que se faz em democracia, e nós praticamos a democracia!"
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 248,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 248,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Ah!..."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 248,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Em relação ao veredicto popular gostaria de dizer, tal como já tive ocasião de referir, que creio ser abusivo, e não é fundamentado, generalizar ou extrapolar mecanicamente o resultado das eleições de 19 de Julho.\n\nA vida vai encarregar-se de demonstrar que não é bem como os Srs. Deputados pensam.\nSe calhar até já começou a demonstrar que não é bem como os Srs. Deputados pensam!..."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 248,
+      "speaker": {
+        "id": 858,
+        "name": "Vasco Francisco Aguiar Miguel",
+        "party": "PSD",
+        "string": "O Sr. Vasco Miguel (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É muito mais!"
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 248,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Os Srs. Deputados vão ver e hão-de dar-me razão!"
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 248,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 248,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado diz que as intenções do Governo não são só as de ajuste de contas. Estou de acordo com isso! As intenções do Governo não são só de ajuste de contas, mas demonstram bem a ideia de querer ajustar contas com as anteriores maiorias, com a anterior Assembleia da República e com o próprio regime democrático (como ele existe, actualmente, consagrado na Constituição da República)."
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 248,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 248,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado e os seus colegas do PSD certamente perceberão que a nossa posição em face da Constituição não é uma questão de liturgia. Não é, e isso os Srs. Deputados percebem bem!\n\nO que me parece importante é que, na sua intervenção, o Sr. Deputado refere-se aos limites materiais da revisão e às regras que a Constituição estabelece para a sua revisão como se de uma liturgia se tratasse. Entendemos que isto é muito grave e é para este assunto que chamamos a atenção de todos os deputados da Assembleia da República.\n\nNão pode ser assim! A maioria está submetida a regras! Essa é uma questão fundamental para a existência do Estado de direito democrático. Portanto, uma regra essencial e que tem de ser essencial é uma regra que decorre da própria Constituição da República."
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 248,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 248,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma declaração política, tem a palavra o Sr. Deputado Correia Afonso."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 248,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Sr. Correia Afonso (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Estamos no início de mais uma sessão legislativa, que é também o começo da V Legislatura."
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 249,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 249,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "No rigoroso cumprimento do artigo 114.º da Constituição, iremos repor o que, na nossa perspectiva, constitui a necessária separação e interdependência dos poderes da Assembleia da República e do Governo, sempre numa preocupação institucional de fortalecer a nossa democracia.\n\nAssim, avançámos já com um projecto para revogação da Lei n.º 28/87, que previa a participação da Assembleia da República na formulação das políticas comunitárias.\n\nEntre muitas outras iniciativas, virão ainda à Assembleia a Lei Orgânica dos Tribunais, a nova legislação laborai e a revisão da Lei de Base da Reforma Agrária."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 249,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 249,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A organização da justiça, nomeadamente dos tribunais, é matéria urgente que ficou congelada, em comissão, na última legislatura e que presentemente terá de ser decidida.\n\nA flexibilização do mercado de trabalho e o seu ajustamento ao modelo da legislação da CEE torna-se cada vez mais urgente.\n\nÉ preciso viabilizar uma maior segurança no emprego, simultaneamente com o aumento do número de postos de trabalho.\n\nImpõe-se também a revisão da Lei de Bases da Reforma Agrária, sobre a qual já passaram dez anos.\n\nAs classes mais desprotegidas ligadas à terra precisam e merecem uma real protecção, ao mesmo tempo que se valorizará o mundo rural e se proporcionará o aumento da produção agrícola.\n\nA demagogia esgotou-se.\n\nJá não é possível esconder na área da reforma agrária os frutos negativos dessa demagogia desenfreada.\n\nSr. Presidente, Srs. Deputados: A assembleia da República nesta sessão legislativa terá ainda poderes constituintes.\n\nDeverá, portanto, assumir a tarefa de rever a Constituição, que, no dizer de um ilustre constitucionalista, é o conjunto de normas que «regem o Estado, enquanto comunidade e enquanto poder».\n\nO projecto de revisão constitucional do PSD irá naturalmente no sentido de aproximar o texto constitucional da vontade popular.\n\nDurante essa importante tarefa de revisão constitucional continuaremos, como sempre, abertos ao diálogo, ao debate e à concertação, na procura dos consensos possíveis.\n\nSeremos, no entanto, firmes e determinados na defesa daquilo que consideramos dever ser a identificação da Constituição com o sentir mais profundo do povo português."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 249,
+      "speaker": {
+        "id": 807,
+        "name": "José Mendes Bota",
+        "party": "PSD",
+        "string": "O Sr. Mendes Bota (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 249,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Queremos que a Constituição seja de todos ou, pelo menos, do maior número. Que seja um ponto de encontro, e não um local de divergência dos cidadãos. Não aceitaremos que se apele para o imperativo maximalista de globalizar o diálogo e o entendimento como álibi para justificar uma eventual recusa de acordo à revisão constitucional.\n\nOs partidos da oposição são livres para inviabilizar a revisão constitucional. Mas, perante os eleitores, terão todos de assumir, frontal e claramente, as suas responsabilidades. É preciso que se saiba quem obstrui. É necessário que o povo português conheça quem é que quer conservar o passado e recusar o futuro.\n\nNo fundo, e para todas as iniciativas do PSD que irão surgir, a preocupação fundamental é comum: fortalecer o regime democrático e conciliar este com a eficiência e o progresso económico."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 249,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 249,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A propósito da queda de civilizações antigas e do declínio das repúblicas modernas, um conhecido político francês, inquieto, perguntava a certa altura: «A quem cabe, ontem como hoje, a responsabilidade da decadência dos povos? Quem são os verdadeiros culpados da recusa das reformas necessárias e dos esforços que elas exigem?»\n\nEstá chegado o momento de ser colocada de novo esta pergunta, embora a resposta só possa surgir nos próximos anos."
+    },
+    {
+      "utterance_id": 44,
+      "order": 44,
+      "page_start": 250,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 45,
+      "order": 45,
+      "page_start": 250,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Manuel Alegre."
+    },
+    {
+      "utterance_id": 46,
+      "order": 46,
+      "page_start": 250,
+      "speaker": {
+        "id": 285,
+        "name": "Manuel Alegre De Melo Duarte",
+        "party": "PS",
+        "string": "O Sr. Manuel Alegre (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Correia Afonso, ouvi há dias com atenção a entrevista concedida pelo Primeiro-Ministro à televisão e ouvi agora com igual atenção a intervenção do Sr. Deputado, e, devo dizer, surgiram algumas dúvidas no meu espírito, que gostaria de ver esclarecidas.\n\nFiquei sem saber se porventura, desde essa entrevista até esta intervenção, a posição do PSD e do Governo mudou, se houve uma inflexão dessa posição, ou se enventualmente a intervenção do Sr. Deputado pode ser interpretada como uma pressão do Grupo Parlamentar do PSD sobre os ritmos anunciados pelo Sr. Primeiro-Ministro na entrevista.\n\nGostaria de ser esclarecido sobre isso."
+    },
+    {
+      "utterance_id": 47,
+      "order": 47,
+      "page_start": 250,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Uma voz do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Não percebeu a entrevista!"
+    },
+    {
+      "utterance_id": 48,
+      "order": 48,
+      "page_start": 250,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim entender, tem a palavra o Sr. Deputado Correia Afonso."
+    },
+    {
+      "utterance_id": 49,
+      "order": 49,
+      "page_start": 250,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "PS",
+        "string": "O Sr. Lopes Cardoso (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, há pouco também pedi a palavra para formular pedidos de esclarecimento."
+    },
+    {
+      "utterance_id": 50,
+      "order": 50,
+      "page_start": 250,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 51,
+      "order": 51,
+      "page_start": 250,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "PS",
+        "string": "O Sr. Lopes Cardoso (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, aproveito para indicar à Mesa que o meu camarada Jorge Sampaio também se inscreveu. Não sei se a Mesa tomou nota; de qualquer maneira fica a indicação."
+    },
+    {
+      "utterance_id": 52,
+      "order": 52,
+      "page_start": 250,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, estamos com alguma dificuldade, pelo que pedia que fizessem um sinal visível, senão de outra maneira torna-se impossível anotar os pedidos de palavra."
+    },
+    {
+      "utterance_id": 53,
+      "order": 53,
+      "page_start": 250,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "PS",
+        "string": "O Sr. Lopes Cardoso (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, não vai naquilo que disse nenhuma crítica à Mesa, foi apenas para facilitar os trabalhos que chamei a atenção para o pedido de esclarecimento que o meu camarada Jorge Sampaio quer fazer.\n\nO Sr. Deputado Correia Afonso, logo no início da intervenção, referiu-se à necessidade de prestigiar a Assembleia da República tornando o seu trabalho mais eficaz, mais transparente..., e não sei se mais participado, mas julgo que também concorda com este objectivo. Devo dizer que neste ponto não há nenhuma espécie de divergências entre o meu grupo parlamentar e o do PSD e entre mim e o Sr. Deputado. Só que, quanto aos instrumentos para alcançar este objectivo, o Sr. Deputado referiu-se concretamente ao Regimento.\n\nQuem teve ocasião de dar uma vista de olhos à proposta de alteração ao Regimento do PSD verifica que ela não prossegue nem a transparência do funcionamento da Assembleia nem a eficácia e, menos ainda, a participação.\n\nTudo visto, tudo espremido - se a expressão me é permitida -, do que daí resulta é um cercear da capacidade de intervenção dos deputados em geral e dos partidos da oposição muito em particular. Todas as alterações são dirigidas no sentido de retirar do Regimento aquelas garantias mínimas que eram dadas aos diferentes grupos parlamentares para dar uma total liberdade de decisão à conferência de representantes dos grupos parlamentares, que, como o Sr. Deputado sabe, decide por maioria. Isto é, deixar, em última análise, nas mãos da maioria PSD a decisão sobre o funcionamento concreto do Plenário, retiradas que estão as garantias consagradas regimentalmente.\n\nDeparo com a redução da possibilidade de intervenção dos partidos da oposição e, curiosamente, o partido do Governo vê alargadas as suas capacidades de intervenção.\n\nDe substancial nas alterações propostas pelo PSD nada mais há senão a prossecução deste objectivo, que está muito longe de ser um objectivo de transparência, de eficácia, de participação de todos nós na vida da Assembleia."
+    },
+    {
+      "utterance_id": 54,
+      "order": 54,
+      "page_start": 250,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Jorge Sampaio."
+    },
+    {
+      "utterance_id": 55,
+      "order": 55,
+      "page_start": 250,
+      "speaker": {
+        "id": 473,
+        "name": "Jorge Fernando Branco De Sampaio",
+        "party": "PS",
+        "string": "O Sr. Jorge Sampaio (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Correia Afonso, não fosse V. Ex.ª ter referido o elenco das matérias que abordou, tal como o projecto de lei n.º 24/V, apresentado pelo seu grupo parlamentar, que pretende a revogação da Lei n.º 28/87 - isto é, a lei que criava, entre outras matérias com ela conexas, a Comissão de Assuntos Europeus e estabelecia umas regras de funcionamento e competência para essa comissão -, e eu deixaria isto para uma outra oportunidade.\n\nSucede, porém, que a história desta lei é já bastante vasta e, para quem tem os propósitos enunciados por V. Ex.ª, o projecto de revogação desta lei está ao arrepio das intenções manifestadas por V. Ex.ª e, presumo, pelo seu grupo parlamentar.\n\nPorquê? Em primeiro lugar, pensamos que a matéria das Comunidades Europeias e da participação de Portugal dentro dela é uma matéria nacional. Não há melhor maneira de fazer participar a Nação, com os seus vários cambiantes e com a sua multiplicidade de representação, que não seja a Assembleia da República.\n\nSe havia problemas de competência - com a qual, evidentemente, não estamos de acordo na formulação que lhe é dada pelo PSD -, melhor seria, então, que se fizesse um projecto de lei para modificar essa lei, e não revogá-la, pura e simplesmente."
+    },
+    {
+      "utterance_id": 56,
+      "order": 56,
+      "page_start": 251,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim desejar, tem a palavra o Sr. Deputado Correia Afonso."
+    },
+    {
+      "utterance_id": 57,
+      "order": 57,
+      "page_start": 251,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Sr. Correia Afonso (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, não posso deixar de sentir, nos pedidos de esclarecimento que me foram dirigidos, uma certa inquietação pelo facto de na vida política portuguesa, desde 1974, ter surgido uma maioria de um só partido, maioria essa coesa, homogénea, capaz de governar, uma maioria que em si mesma tem dialéctica construtiva e não destrutiva como as anteriores. Mas, Srs. Deputados, a legislatura dura quatro anos e ainda agora começou. Os Srs. Deputados vão ter oportunidade de se habituar a que em democracia uma maioria é necessária, com vista a obter operacionalidade, eficiência, e neste momento o nosso país precisa de capacidade de governação. Sem uma maioria seria difícil «arrancar» as estruturas portuguesas daquele aspecto enferrujado em que se encontram. Queria que VV. Ex.ªs se preparassem para, durante quatro anos, podermos conviver normalmente em diálogo..."
+    },
+    {
+      "utterance_id": 58,
+      "order": 58,
+      "page_start": 251,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Raul Rego (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "E obedecer!"
+    },
+    {
+      "utterance_id": 59,
+      "order": 59,
+      "page_start": 251,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "..., numa troca de impressões aberta. A única diferença que há entre esta Assembleia e as anteriores não é a falta de diálogo nem a possibilidade de entendimento, mas apenas porque existe uma maioria que dá mais capacidade à governação.\n\nCreio que nos temos de afastar, nos próximos tempos, desta preocupação para todos podermos, normalmente, com uma certa distensão, com uma certa descontracção, contribuir para aquilo que o País espera de nós.\n\nO Sr. Deputado Manuel Alegre perguntou-me se existe naquilo que eu disse qualquer pressão. Existe sim, Sr. Deputado. Fazer política, no entendimento de todos que aqui estamos - mas talvez não seja esse o entendimento do Sr. Deputado -, é fazer pressão junto dos outros para que o interesse colectivo se torne mais evidente, para que ele seja prosseguido por todos e não apenas por alguns.\n\nAquilo que eu fiz há pouco, quando intervim, foi pressão para que toda a Assembleia perceba que deve contribuir e criar definições colectivas que tenham o maior consenso, no interesse daqueles que nos elegeram, e que são os Portugueses, Sr. Deputado. Não queremos fazer aquela pressão que o Sr. Deputado quis referir. Aquela pressão ilegítima, que tinha um sentido oculto de crítica e reprovação, essa o Sr. Deputado não encontrará no PSD. Espero que a recíproca também seja verdadeira!..."
+    },
+    {
+      "utterance_id": 60,
+      "order": 60,
+      "page_start": 251,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 61,
+      "order": 61,
+      "page_start": 251,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Sr. Deputado Lopes Cardoso criticou - julgo que sem razão - o projecto de resolução do PSD de alteração do Regimento. Julgo que o Sr. Deputado Lopes Cardoso não leu com atenção e cuidado ou não tirou do projecto as consequências, que são tão claras que nem sequer permitem muitas conjecturas.\n\nConcretamente, no projecto de alteração do Regimento procuram atingir-se vários resultados. O primeiro tem a ver com a criação de estabilidade nesta Assembleia. Para isso, propõe-se que a eleição do Presidente da Assembleia da República seja por quatro anos, e não ano a ano, porque a eleição ano a ano retira-lhe horizonte, capacidade. Aliás, essa medida está em consonância com aquilo que temos defendido e que é a criação de estabilidade. Se há estabilidade lá fora, também deve haver estabilidade aqui dentro."
+    },
+    {
+      "utterance_id": 62,
+      "order": 62,
+      "page_start": 251,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 63,
+      "order": 63,
+      "page_start": 251,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Uma outra medida que defendemos é, pura e simplesmente, a eliminação dos agrupamentos parlamentares. Esta medida visa a abertura para a autenticidade, para a transparência. Não me parece - e nisto não há qualquer menção ou referência pessoal, pois as pessoas que eventualmente aqui ocupam posições em agrupamentos parlamentares merecem-me toda a consideração - mas, como eu estava a dizer, não me parece que a constituição de agrupamentos parlamentares deva nascer aqui dentro, quando as organizações políticas devem nascer lá fora. Quero eu dizer com isto que a constituição de agrupamentos que não se apresentaram ao eleitorado com essa matriz de autonomia, porque aparecem inseridos em grupos maiores - e o próprio eleitor que vota não sabe que ali há um gérmen de separação -, isso para mim não é transparência nem autenticidade.\n\nDaí propormos no projecto de resolução a eliminação dos agrupamentos parlamentares. É necessário que aqui seja feito o que se faz lá fora, e não que lá fora se faça uma coisa que aqui se transforma sem conhecimento dos eleitores."
+    },
+    {
+      "utterance_id": 64,
+      "order": 64,
+      "page_start": 251,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 65,
+      "order": 65,
+      "page_start": 252,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Sr. Jerónimo de Sousa (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Foram vocês os primeiros!"
+    },
+    {
+      "utterance_id": 66,
+      "order": 66,
+      "page_start": 252,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "A terceira medida que propomos tem a ver com a redução de tempos. Se o Sr. Deputado Lopes Cardoso leu com cuidado a proposta de alteração, verificará que a regra se mantém: o tempo é proporcional às formações partidárias. Aquilo que se faz é que, naquelas formações em que o tempo proporcional nada lhes dá, as intervenções se reduzem, então, para três minutos."
+    },
+    {
+      "utterance_id": 67,
+      "order": 67,
+      "page_start": 252,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "PS",
+        "string": "O Sr. Lopes Cardoso (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Dá-me licença que o interrompa, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 68,
+      "order": 68,
+      "page_start": 252,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 69,
+      "order": 69,
+      "page_start": 252,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "PS",
+        "string": "O Sr. Lopes Cardoso (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Agradeço-lhe ter-me permitido a interrupção. Desculpar-me-á que lhe recorde - entre parêntesis - que, se porventura os agrupamentos parlamentares viciam a autenticidade desta Assembleia, foi o PSD quem introduziu, com os reformadores, a figura dos agrupamentos parlamentares a partir de eleições prévias à Assembleia, e não o Partido Socialista."
+    },
+    {
+      "utterance_id": 70,
+      "order": 70,
+      "page_start": 252,
+      "speaker": {
+        "id": 192,
+        "name": "Jerónimo Carvalho De Sousa",
+        "party": "PCP",
+        "string": "O Sr. Jerónimo de Sousa (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É verdade!"
+    },
+    {
+      "utterance_id": 71,
+      "order": 71,
+      "page_start": 252,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "PS",
+        "string": "O Sr. Lopes Cardoso (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Mas a questão não é esta.\nPergunto: É admissível para alguém que se limite a capacidade de intervenção de um deputado na discussão de um projecto de lei a três minutos? É possível algum deputado intervir capazmente no debate de uma proposta de lei ou de um projecto de lei quando se lhe dá um tempo mínimo de três minutos? E o que acontece a qualquer deputado que não esteja integrado num grupo parlamentar ou que pertença a um pequeno grupo parlamentar, isto independentemente da dimensão do grupo parlamentar.\n\nSr. Deputado, quando se reduz o tempo mínimo, que o actual Regimento garantia em dez minutos de intervenção, para três minutos, está-se, de facto, a limitar drasticamente a intervenção dos deputados nesta Assembleia e a tornar - não interprete esta minha afirmação em sentido pejorativo - quase que caricata a intervenção de qualquer deputado na discussão de um projecto ou proposta de lei."
+    },
+    {
+      "utterance_id": 72,
+      "order": 72,
+      "page_start": 252,
+      "speaker": {
+        "id": 269,
+        "name": "António Augusto Lacerda De Queiroz",
+        "party": "PSD",
+        "string": "O Sr. António Lacerda (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito mal!"
+    },
+    {
+      "utterance_id": 73,
+      "order": 73,
+      "page_start": 252,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "PS",
+        "string": "O Sr. Lopes Cardoso (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se dissesse «muito bem» é que eu me admirava!"
+    },
+    {
+      "utterance_id": 74,
+      "order": 74,
+      "page_start": 252,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Segundo percebi, o Sr. Deputado não contesta a redução, pensa é que ela é demasiada. Pois isso negociar-se-á, eventualmente, na comissão própria em que vai ser discutido o projecto de resolução.\n\nSr. Presidente, estou a ver que o tempo de que dispunha acabou."
+    },
+    {
+      "utterance_id": 75,
+      "order": 75,
+      "page_start": 252,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor de terminar. Já estamos a entrar no período de prorrogação do período de antes da ordem do dia, embora esteja ainda inscrito, para uma declaração política, o Sr. Deputado Marques Júnior, assim como há dois pedidos de palavras de outros Srs. Deputados.\n\nQueira terminar, Sr. Deputado."
+    },
+    {
+      "utterance_id": 76,
+      "order": 76,
+      "page_start": 252,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, vou já terminar, mas antes não queria deixar sem resposta o Sr. Deputado Jorge Sampaio.\n\nSr. Deputado Jorge Sampaio, temos de respeitar rigorosamente uma regra fundamental da democracia, que é a regra das competência, que, em termos de órgão de soberania, toma o título pomposo de «princípio da separação de poderes». Efectivamente, a negociação da política comunitária ou das políticas comunitárias é um caso típico característico da competência do Governo.\n\nA intromissão de um órgão legislativo pode até pôr em perigo o alcance, o sigilo, a negociação, o objectivo dos representantes do Governo na formulação participada dessas políticas comunitárias..\n\nSr. Deputado Jorge Sampaio, não posso aceitar que a formulação de políticas comunitárias tenha quase de vir para a rua, ela tem é de ser negociada nos gabinetes com a possível eficácia.\n\nNão creio, em primeiro lugar, que tal atribuição esteja na competência da Assembleia da República, porque ela é claramente uma competência do Governo; em segundo lugar, também não creio que fosse conveniente ou que resultasse alguma vantagem, que procurássemos alargar as competências de forma a inserir aqui..."
+    },
+    {
+      "utterance_id": 77,
+      "order": 77,
+      "page_start": 252,
+      "speaker": {
+        "id": 473,
+        "name": "Jorge Fernando Branco De Sampaio",
+        "party": "PS",
+        "string": "O Sr. Jorge Sampaio (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Posso interrompê-lo, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 78,
+      "order": 78,
+      "page_start": 252,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Faz favor, Sr. Deputado, apesar de eu já não ter tempo. No entanto, se o Sr. Presidente autorizar, faz favor."
+    },
+    {
+      "utterance_id": 79,
+      "order": 79,
+      "page_start": 252,
+      "speaker": {
+        "id": 473,
+        "name": "Jorge Fernando Branco De Sampaio",
+        "party": "PS",
+        "string": "O Sr. Jorge Sampaio (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Só para uma brevíssima interrupção, pois penso que isto pode tornar o debate mais esclarecedor.\n\nSr. Deputado, não passa pela minha cabeça uma invasão de competências. O Governo foi eleito, aliás de uma forma muito clara, e tem, portanto, de responder perante o País, perante esta Assembleia, pela política que executa.\n\nMas a Assembleia tem uma função decisiva, nomeadamente nesta matéria, e vou só recordar-lhe um exemplo: desde há seis meses a esta parte que o grupo parlamentar socialista e outros grupos parlamentares suscitaram na Comissão de Integração Europeia, como ela se chamava então, ao Sr. Ministro do Trabalho, também de então, a sua preocupação quanto às verbas, do Fundo Social Europeu. Fizemos isto dezenas de vezes, está escrito em actas, veio cá o Sr. Ministro várias vezes e foi dito, na altura, que era uma questão gravíssima, do ponto de vista da projecção externa do Estado Português, e que estava em causa a melhor utilização dos fundos, pelo mesmo.\n\nVeja V. Ex.ª o que aconteceu depois e veja o que o Governo fez a seguir, apesar de a Assembleia da República, na altura própria, por intermédio de vários parlamentares, ter suscitado numerosas vezes a complexidade e a gravidade de que se podia rodear essa matéria."
+    },
+    {
+      "utterance_id": 80,
+      "order": 80,
+      "page_start": 252,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Agradecia que abreviassem, Srs. Deputados."
+    },
+    {
+      "utterance_id": 81,
+      "order": 81,
+      "page_start": 252,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Eu vou terminar muito rapidamente, Sr. Presidente."
+    },
+    {
+      "utterance_id": 82,
+      "order": 82,
+      "page_start": 253,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Raul Castro (ID)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Peço a palavra, Sr. Presidente."
+    },
+    {
+      "utterance_id": 83,
+      "order": 83,
+      "page_start": 253,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado Raul Castro pretende a palavra para que efeito?"
+    },
+    {
+      "utterance_id": 84,
+      "order": 84,
+      "page_start": 253,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Raul Castro (ID)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, é para um protesto, em virtude de referências feitas pelo Sr. Deputado Correia Afonso ao agrupamento parlamentar a que pertenço."
+    },
+    {
+      "utterance_id": 85,
+      "order": 85,
+      "page_start": 253,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faz favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 86,
+      "order": 86,
+      "page_start": 253,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Raul Castro (ID)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado Correia Afonso já num recente programa na televisão se permitiu produzir afirmações inexactas relativamente ao agrupamento parlamentar da Intervenção Democrática e que, aliás, hoje aqui repetiu, quando afirmou que os deputados que hoje compõem a Intervenção Democrática como agrupamento parlamentar só depois da sua eleição manifestaram a intenção de se organizarem como tal.\n\nIsto não é verdade, visto que logo em princípios de Maio, quando houve uma conferência de imprensa para anunciar a formação da Coligação Democrática Unitária, os candidatos ali presentes da Intervenção Democrática afirmaram que, a serem eleitos alguns deles como deputados, se organizariam em agrupamento parlamentar; portanto, muitos meses antes da eleição já tinha sido feita a afirmação de que se iriam organizar dessa forma.\n\nComo tal, não é exacto que só o tenham feito depois da eleição e não antes, tornando pública essa sua candidatura à formação de um agrupamento parlamentar. É, de resto, estranho, como aliás já aqui foi sublinhado, que tantos anos volvidos sobre a existência dos agrupamentos parlamentares, aliás por iniciativa do PSD, só agora este se tenha lembrado de atacar a sua existência, quando, por coincidência, o único agrupamento parlamentar que existe na Assembleia da República está efectivamente em oposição à sua política. Parece que teremos de concluir que o único objectivo é, de facto, o de afastar mais um opositor."
+    },
+    {
+      "utterance_id": 87,
+      "order": 87,
+      "page_start": 253,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Correia Afonso."
+    },
+    {
+      "utterance_id": 88,
+      "order": 88,
+      "page_start": 253,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Sr. Correia Afonso (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, agradeço-lhe que tenha usado da palavra sob o título que o fez, embora efectivamente eu não o tivesse atingido. E agradeço-lhe porque me dá oportunidade de manifestar publicamente o meu apreço por si, de mostrar que na minha intervenção não há qualquer ideia persecutória, pessoal, em relação aos deputados que integram a Intervenção Democrática.\n\nMas uma coisa são as pessoas, outra são as ideias. E a verdade, Sr. Deputado, é que a alteração do Regimento não afasta os deputados que hoje se rotularam de Intervenção Democrática.\n\nVV. Ex.ªs foram eleitos, têm direito de representar o povo português, o vosso mandato continua."
+    },
+    {
+      "utterance_id": 89,
+      "order": 89,
+      "page_start": 253,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "É muito generoso!"
+    },
+    {
+      "utterance_id": 90,
+      "order": 90,
+      "page_start": 253,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que nós atacamos é a forma como o exerceu, porque entendemos que não têm o direito de constituir uma entidade cá dentro, que não existia lá fora.\n\nAgora, têm todo o direito de continuar aqui, porque foram eleitos pelo povo português; portanto, nós não queremos afastar ninguém."
+    },
+    {
+      "utterance_id": 91,
+      "order": 91,
+      "page_start": 253,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Raul Castro (ID)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Posso interrompê-lo?"
+    },
+    {
+      "utterance_id": 92,
+      "order": 92,
+      "page_start": 253,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Agradecia que fossem extremamente breves nas vossas considerações, visto que já ultrapassámos o tempo regimental em quinze minutos e ainda há uma declaração política, que tem inevitavelmente de ser feita.\n\nFaz favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 93,
+      "order": 93,
+      "page_start": 253,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Raul Castro (ID)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, naturalmente que não está em causa o poder estar aqui na condição de deputado. O que está em causa é o facto de deputados independentes terem ou não meios de poder exercer as suas funções, e esse meio orgânico é o agrupamento parlamentar.\n\nSe não se organizarem desse modo, não têm a possibilidade de ter o seu pessoal próprio e de intervirem, portanto, de outra forma. Terão de intervir individualmente, sem condições de trabalho. É essa a questão!"
+    },
+    {
+      "utterance_id": 94,
+      "order": 94,
+      "page_start": 253,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Sr. Correia Afonso (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Se não está em causa afastar os deputados, quem produziu então uma declaração inexacta foi o Sr. Deputado, porque há bocado disse claramente que a nossa intenção era afastar. Depois disso, julgo que está tudo claro."
+    },
+    {
+      "utterance_id": 95,
+      "order": 95,
+      "page_start": 253,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma declaração política, tem a palavra o Sr. Deputado Marques Júnior."
+    },
+    {
+      "utterance_id": 96,
+      "order": 96,
+      "page_start": 253,
+      "speaker": {
+        "id": 1114,
+        "name": "António Alves Marques Júnior",
+        "party": "PRD",
+        "string": "O Sr. Marques Júnior (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Na nossa primeira declaração política da V Legislatura, gostaríamos de dar a conhecer aos Portugueses quais as linhas que orientarão a acção do PRD, não só na acção parlamentar mas também em toda a sua acção política.\n\nO PRD está numa situação particularmente difícil. Somos um partido que depois de ter uma representação de 45 deputados, está reduzido a 7, como resultado das últimas eleições, o que limita naturalmente a nossa capacidade de intervenção.\n\nGostaria, no entanto, de reafirmar, em nome do PRD e em meu nome pessoal, que, democraticamente, não só aceitamos os resultados eleitorais como pensamos que há que retirar deles muitos ensinamentos.\n\nVem isto a propósito de uma pergunta que fiz ao Sr. Primeiro-Ministro aquando da discussão do Programa do Governo, em que o Sr. Primeiro-Ministro, na sua resposta, disse que, na sua interpretação, eu não tinha aceitado o resultado eleitoral."
+    },
+    {
+      "utterance_id": 97,
+      "order": 97,
+      "page_start": 255,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado José Lello pediu a palavra para que efeito?"
+    },
+    {
+      "utterance_id": 98,
+      "order": 98,
+      "page_start": 255,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. José Leio (PS)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Em face do anúncio que o Sr. Presidente fez antes da intervenção deste Sr. Deputado do PRD, requeria à Câmara a prorrogação do período de antes da ordem do dia, para que a Sr.ª Deputada Helena Torres Marques possa produzir a intervenção que tinha preparado."
+    },
+    {
+      "utterance_id": 99,
+      "order": 99,
+      "page_start": 255,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Quanto ao pedido de prorrogamento do período de antes da ordem do dia, é regimental, pelo que será concedido. Há, no entanto, um pedido de esclarecimento do Sr. Deputado Mendes Bota, pelo que tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 100,
+      "order": 100,
+      "page_start": 255,
+      "speaker": {
+        "id": 807,
+        "name": "José Mendes Bota",
+        "party": "PSD",
+        "string": "O Sr. Mendes Bota (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É para uma interpelação à Mesa, Sr. Presidente.\n\nÉ que, de facto, estávamos convencidos de que o protelar e, portanto, o prolongar das intervenções no âmbito das declarações políticas já se inseriam na própria prorrogação do período de antes da ordem do dia. Gostaríamos de ser esclarecidos sobre se, efectivamente, o tempo que veio desde as 16 horas e 15 minutos até às 16 horas e 25 minutos já é incluído na prorrogação, ou se a vamos iniciar a partir deste momento, e que pode ir até 30 minutos, como se sabe."
+    },
+    {
+      "utterance_id": 101,
+      "order": 101,
+      "page_start": 255,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O entendimento e a prática, depois de troca de impressões entre a Mesa, é a seguinte: as declarações políticas têm de ser feitas e não há obstáculo a que sejam feitas, independentemente do seu tempo. Depois disso, se for requerido, há um pedido de prolongamento que pode ir, impreterivelmente, julgo eu, até 30 minutos.\n\nPara um pedido de esclarecimento, tem a palavra o Sr. Deputado Armando Cunha."
+    },
+    {
+      "utterance_id": 102,
+      "order": 102,
+      "page_start": 255,
+      "speaker": {
+        "id": 1730,
+        "name": "Armando De Carvalho Guerreiro Da Cunha",
+        "party": "PSD",
+        "string": "O Sr. Armando Cunha (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "É muito simples, Sr. Presidente.\n\nO Sr. Deputado Marques Júnior deu-nos aqui a notícia, que aliás já sabíamos há muito, de que o seu partido tinha uma reduzida capacidade de intervenção, dado que da anterior legislatura, em que tinha 45 deputados, ficou reduzido a apenas 7. Ó meu pedido de esclarecimento é este: será que o povo português, nesses dezoito a vinte meses que mediaram entre esses dois actos políticos, reconheceu a inanidade do ideário do PRD ou reconheceu a inépcia dos seus representantes?"
+    },
+    {
+      "utterance_id": 103,
+      "order": 103,
+      "page_start": 255,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, se assim o entender, tem a palavra o Sr. Deputado Marques Júnior."
+    },
+    {
+      "utterance_id": 104,
+      "order": 104,
+      "page_start": 255,
+      "speaker": {
+        "id": 1114,
+        "name": "António Alves Marques Júnior",
+        "party": "PRD",
+        "string": "O Sr. Marques Júnior (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é só para dizer que não tenho nada a responder ao Sr. Deputado."
+    },
+    {
+      "utterance_id": 105,
+      "order": 105,
+      "page_start": 255,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Conforme foi requerido, há agora um prolongamento do período de antes da ordem do dia, por um período máximo de 30 minutos, tendo a Mesa registado as inscrições dos Srs. Deputados Abílio Costa, Helena Torres Marques e Maria Santos.\n\nTem a palavra o Sr. Deputado Abílio Costa."
+    },
+    {
+      "utterance_id": 106,
+      "order": 106,
+      "page_start": 255,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra."
+    },
+    {
+      "utterance_id": 107,
+      "order": 107,
+      "page_start": 255,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para que efeito, Sr. Deputado?"
+    },
+    {
+      "utterance_id": 108,
+      "order": 108,
+      "page_start": 255,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, é para inscrever a minha camarada de bancada lida Figueiredo."
+    },
+    {
+      "utterance_id": 109,
+      "order": 109,
+      "page_start": 255,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Com certeza, Sr. Deputado. No entanto, são 30 minutos o período global."
+    },
+    {
+      "utterance_id": 110,
+      "order": 110,
+      "page_start": 255,
+      "speaker": {
+        "id": 95,
+        "name": "Carlos Alfredo De Brito",
+        "party": "PCP",
+        "string": "O Sr. Carlos Brito (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, o prolongamento disfruta de um regime especial, é dividido por todos os partidos."
+    },
+    {
+      "utterance_id": 111,
+      "order": 111,
+      "page_start": 255,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado Correia Afonso pede a palavra para que efeito?"
+    },
+    {
+      "utterance_id": 112,
+      "order": 112,
+      "page_start": 255,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Sr. Correia Afonso (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, queria interpelar a Mesa porque julgo ser indispensável conhecermos todos as regras em que estamos a trabalhar. O período de antes da ordem do dia terminou. O artigo 74.º permite que haja um prolongamento de 30 minutos, se houver declarações políticas. Julgo, pois, que neste momento estamos a trabalhar neste espaço temporal permitido pelo artigo 74.º, que será um período só reservado a declarações políticas."
+    },
+    {
+      "utterance_id": 113,
+      "order": 113,
+      "page_start": 255,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Lopes Cardoso."
+    },
+    {
+      "utterance_id": 114,
+      "order": 114,
+      "page_start": 255,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "PS",
+        "string": "O Sr. Lopes Cardoso (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, pensamos que corremos o risco de estar a laborar aqui num equívoco. A intervenção da nossa camarada Helena Torres Marques inscreve-se no quadro das declarações políticas, e não no das intervenções no período de antes da ordem do dia.\n\nEra isso apenas que queríamos esclarecer. Não vamos pôr em causa nenhuma precedência. \nO Sr. Deputado que está na tribuna pode usar da palavra. Apenas levantei a questão porque isso tem a ver com o tempo de que a nossa camarada irá dispor para fazer a sua intervenção."
+    },
+    {
+      "utterance_id": 115,
+      "order": 115,
+      "page_start": 255,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, a Mesa apenas teve conhecimento de que haveria declarações políticas dos Srs. Deputados Carlos Brito, Correia Afonso e Marques Júnior e, como tem sido o entendimento da Mesa, deixou que as declarações políticas se fizessem independentemente do tempo que globalmente elas viessem a levar, e com prioridade sobre todas as outras intervenções.\n\nA Mesa registou como «outras intervenções» as intervenções dos Srs. Deputados Abílio Costa, Helena Torres Marques e Maria Santos, a que se juntaram depois os pedidos de palavra dos Srs. Deputados lida Figueiredo e Roleira Marinho. A Mesa entendia - como era hábito - que esta prorrogação para as intervenções políticas levaria 30 minutos, como prevê o artigo 74.º do Regimento. Portanto, a Mesa sempre entendeu, pelas notas que tinha à sua disposição, que a intervenção da Sr.ª Deputada Helena Torres Marques não era uma declaração política.\n\nTem a palavra o Sr. Deputado Lopes Cardoso."
+    },
+    {
+      "utterance_id": 116,
+      "order": 116,
+      "page_start": 256,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "PS",
+        "string": "O Sr. Lopes Cardoso (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, apercebemo-nos disso. O erro foi provavelmente nosso, ao não esclarecermos devidamente a Mesa quando inscrevemos a nossa camarada, e foi por isso que procurámos corrigir o eventual lapso anterior, precisando que era uma declaração política. De resto, nos termos do Regimento - mas não vamos fazer questão disso -, o prolongamento é usado para as declarações políticas, mas é uma questão que não queremos de maneira nenhuma suscitar."
+    },
+    {
+      "utterance_id": 117,
+      "order": 117,
+      "page_start": 256,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado, a Mesa, mesmo antes de dar a palavra ao Sr. Deputado Marques Júnior, fez referência que era a última declaração política de que tinha conhecimento.\n\nTem a palavra o Sr. Deputado Abílio Costa."
+    },
+    {
+      "utterance_id": 118,
+      "order": 118,
+      "page_start": 256,
+      "speaker": {
+        "id": 565,
+        "name": "António Abílio Costa",
+        "party": "PSD",
+        "string": "O Sr. Abílio Costa (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: No passado, a concepção de desenvolvimento do País baseada em investimentos concentrados, supostamente rentáveis e localizados em zonas consideradas estratégicas, conduziu à exploração dos recursos naturais e à fuga de mão-de-obra do Nordeste Transmontano. Contrapartidas, ainda que no campo do investimento público, não foram notórias.\n\nAquela região do País vive actualmente uma nova situação.\n\nIniciaram-se esforços para ultrapassar a situação de inércia criada por modelos de industrialização que contemplavam outras regiões.\n\nDeu-se início à implementação de programas de desenvolvimento integrado fundamentados em diagnósticos correctos das potencialidades regionais.\n\nActuou-se em áreas cujo efeito multiplicador no processo de desenvolvimento era antecipadamente assegurado.\n\nSeleccionaram-se outras cujo êxito quanto à rentabilidade e previsível grau de sucesso era notório.\n\nEm suma, iniciou-se um processo de desenvolvimento caracterizadamente dinâmico, aberto e endógeno, com o objectivo dominante de potenciar os recursos humanos, naturais, técnicos e tecnológicos da região.\n\nTorna-se fácil, justo e pertinente estender estas considerações a Trás-os-Montes e Alto Douro, à bacia do Douro e a toda a região norte.\n\nA hipótese de construção em Aldeadávila de um laboratório de ensaios de resíduos nucleares vinha alterar profunda e negativamente toda esta situação.\n\nNão irei ceder à tentação de desenvolver aqui as consequências previsíveis emergentes daquela eventualidade. Importa agora uma referência às reacções suscitadas pela decisão, em fins de 1986, do Governo Espanhol seleccionar Aldeadávila para localização do projecto experimenta] denominado «Projecto IPES».\n\nAntes de mais, o reconhecimento pelo elevado grau de civismo que caracterizou as diversas manifestações públicas, e tantas foram, de oposição ao referido projecto.\n\nAs forças vivas do Norte, associadas à capacidade de iniciativa e sentido da defesa dos reais interesses económicos, sociais, culturais, patrimoniais e humanos da região, demonstrados pelas autarquias locais, são a certeza da construção de um futuro alicerçado em bases sólidas.\n\nO contributo dado pela Administração Pública, e permitam-me que saliente a Comissão de Coordenação da Região Norte, nomeadamente no estudo exaustivo\n\ne aprofundado da situação, nas suas vertentes económica, social, técnica e jurídica, revelou-se de excepcional importância.\n\nPenso mesmo que a região muito virá a beneficiar se souber catalizar os resultados de toda esta acção para a revitalização das suas estruturas sociais e produtivas.\n\nPor último, uma referência de muito apreço pela maneira tão discreta quanto firme e eficiente como o Governo demonstrou saber tratar tão delicada questão. A oportunidade das intervenções, a diplomacia e firmeza das posições, aliadas ao facto de umas e outras terem tido lugar nas instâncias proporias, conduziram a que os interesses do País, e na circunstância da especificidade da região norte e do Nordeste Transmontano, fossem devidamente acautelados."
+    },
+    {
+      "utterance_id": 119,
+      "order": 119,
+      "page_start": 256,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para um pedido de esclarecimento, tem a palavra o Sr. Deputado Herculano Pombo."
+    },
+    {
+      "utterance_id": 120,
+      "order": 120,
+      "page_start": 256,
+      "speaker": {
+        "id": 1871,
+        "name": "Herculano Da Silva Pombo Marques Sequeira",
+        "party": "PEV",
+        "string": "O Sr. Herculano Pombo (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado Abílio Costa, tal como eu previa, acabou de proferir nesta Câmara declarações que dizem respeito à problemática de Aldeadávila, de Mogadouro e do desenvolvimento da sua região. É sempre um facto que constatamos com agrado saber que os naturais das regiões se preocupam e produzem aqui declarações a respeito dos problemas das regiões por onde foram eleitos.\n\nDe qualquer modo, penso que não ficou claro - pelo menos para mim - se o Sr. Deputado Abílio Costa, ao referir o facto de o projecto de Aldeadávila ter sido por agora afastado, digamos assim, está realmente convencido de que isso se deve à luta das populações da região, à luta das populações e dos municípios e das organizações políticas de todo o País e do país vizinho ou se de facto foi predominante a acção do Governo Português e da sua diplomacia. E isto porque - considero eu - o Governo Português e a sua diplomacia não foram capazes, ou não quiseram, de denunciar a tempo aquilo que estava previsto para Aldeadávila. Foi um homem de Mogadouro que o fez, e a campanha partiu de um homem de Mogadouro.\n\nQueria também perguntar ao Sr. Deputado Abílio Costa se de facto está ou não preocupado, uma vez esconjurado o perigo de Aldeadávila - pelo menos por agora -, com o anúncio que foi feito à imprensa de que haveria boas hipóteses de construção de uma central nuclear exactamente em Mogadouro."
+    },
+    {
+      "utterance_id": 121,
+      "order": 121,
+      "page_start": 256,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Deputado Abílio Costa, tem 30 segundos para responder, se assim o entender."
+    },
+    {
+      "utterance_id": 122,
+      "order": 122,
+      "page_start": 256,
+      "speaker": {
+        "id": 565,
+        "name": "António Abílio Costa",
+        "party": "PSD",
+        "string": "O Sr. Abílio Costa (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Deputado, relativamente à primeira questão, devo dizer-lhe que me preocupa muito pouco - para mim é de somenos importância - se foi o presidente da câmara - de uma câmara qualquer do distrito de Bragança -, se foi a população do concelho de Mogadouro, se foram os agentes económicos ou se foi o Governo quem primeiro se pronunciou sobre essa questão.\n\nDevo dizer-lhe, Sr. Deputado, que o entendimento que tenho de todo este processo - que acompanhei desde o início - é o de que considero extremamente positiva para o nosso país a solução a que se chegou."
+    },
+    {
+      "utterance_id": 123,
+      "order": 123,
+      "page_start": 257,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Helena Torres Marques. Dispõe de seis minutos."
+    },
+    {
+      "utterance_id": 124,
+      "order": 124,
+      "page_start": 257,
+      "speaker": {
+        "id": 675,
+        "name": "Helena De Melo Torres Marques",
+        "party": "PS",
+        "string": "A Sr.ª Helena Torres Marques (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: No que ao Plano e Orçamento respeita, a V Legislatura começa mal.\n\nÉ como o Plano e o Orçamento são as leis básicas que definem a política do Governo para o ano em curso, tal significa que nos temos de preparar para uma de duas seguintes situações: ou entramos em 1988 sem plano nem orçamento, ou a Assembleia da República vai analisar os mais importantes documentos legais que anualmente lhe compete votar sem o tempo necessário para que o seu trabalho tenha a eficiência esperada, o que não deixará de pesar sobre a imagem que desta casa a opinião pública reterá. Não se pode esquecer que existe um regime especial, próprio de análise do Plano e Orçamento que fixa os prazos mínimos para a sua aprovação e que não poderá acontecer - e espero que o Sr. Presidente vele por isso - que venha a imputar-se à Assembleia da República culpas pelo atraso numa situação a que é alheia.\n\nO Partido Socialista admite que a Lei do Enquadramento do Orçamento do Estado, no seu artigo 15.º, n.º 5, pode permitir uma leitura extensiva, dando ao Governo um prazo de 90 dias desde a sua posse para apresentação do Orçamento.\n\nÉ natural que se um novo governo tomasse posse, por exemplo, no início de Setembro ou de Outubro não lhe fosse pedido que apresentasse o Orçamento e o Plano para o ano seguinte até ao dia 15 de Outubro. Não é legítimo pretender que um governo assuma como seus um plano e um orçamento organizados com base em outras políticas e outros homens.\n\nAcontece, porém, Sr. Presidente e Srs. Deputados, que se esta interpretação é, no nosso entender, legítima em termos legais, já não o é em termos políticos.\n\nCom efeito, acontece que não temos um novo governo. Manteve-se o Primeiro-Ministro, manteve-se integralmente a equipa do Ministério das Finanças, manteve-se o Ministro do Plano e, de acordo com o Primeiro-Ministro, mantém-se a sua política.\n\nIsto significa que desde 19 de Julho o Primeiro-Ministro sabe que irá competir ao seu governo fazer o Orçamento e o Plano, sabe que a data de entrega destes diplomas para que a Assembleia os aprove até 15 de Dezembro é 15 de Outubro e sabe que o facto de ter aproveitado uma escapatória legal para o não fazer se não coaduna com a imagem de eficiência e capacidade do seu governo que tanto gosta de afirmar.\n\nIsto significa também que o Governo está com grandes dificuldades para elaborar o Orçamento e o Plano.\n\nO Plano provavelmente dispensá-lo-á, ou transformá-lo-á de lei em resolução do Conselho de Ministros. Não era novidade e, a manter-se a política, tal poderá acontecer.\n\nQuanto ao Orçamento, também não é difícil reconhecer algumas das dificuldades: por exemplo, no programa do Governo, no sector da Educação, diz-se:\n\nO Governo compromete-se a aumentar a despesa pública real em educação por forma a cumprir o compromisso que assume de investimento prioritário nesta área. Visa-se, tendencialmente, atingir até ao final da legislatura uma percentagem do produto interno bruto afectada ao sector que coloque o País, pela primeira vez nos últimos 50 anos, próximo do nível mínimo do investimento no factor humano já conhecido na generalidade dos outros países europeus e do mundo desenvolvido.\n\nSerá que o Governo agora, preto no branco, na verdade dos números, está disposto a cumprir o seu programa?\n\nE os funcionários públicos, será que o Governo vai mesmo aumentá-los em 6%?\n\nUm governo que afirma, como este o fez recentemente em resolução do Conselho de Ministros, que «as exigências das sociedades modernas e a afirmação de novos valores sociais tem conduzido, por toda a parte, ao alargamento das funções do Estado, originando notável crescimento e complexidade das administrações públicas», este governo quer afinal mais e não menos Estado. Mas não quer certamente melhor Estado. Quando se reconhece que os quadros técnicos do Estado têm hoje uma remuneração real que corresponde a 45% da de 1973, este governo, com uma situação financeira incomparavelmente melhor do que a verificada em anos anteriores, propõe-se aumentar os funcionários públicos em 67o! Percebe-se que tenha dificuldades em fazer o Orçamento.\n\nE as Forças Armadas e as polícias e os bombeiros? Que dificuldades existem que nós não saibamos?\n\nE as finanças locais? Há problemas com as câmaras municipais?\n\nCom os hospitais e os médicos todos sabemos que os problemas sobram.\n\nSão as empresas públicas - geridas praticamente em exclusivo por elementos do PSD - que têm dificuldades financeiras acrescidas?\n\nHá um problema com que este Orçamento se não defrontará: a introdução da reforma fiscal, essa sim susceptível de criar algumas dificuldades iniciais, em especial na previsão das receitas. Mas como não será em 1988 e provavelmente nem em 1989 que tal reforma será introduzida no Orçamento, esta desculpa o Governo não poderá invocar.\n\nÉ claro que o facto de o Governo não ter o Orçamento aprovado no dia 1 de Janeiro não o irá perturbar. Para já, os ministérios têm prática de funcionar"
+    },
+    {
+      "utterance_id": 125,
+      "order": 125,
+      "page_start": 258,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para formular pedidos de esclarecimento, pediram a palavra os Srs. Deputados Correia Afonso e José Magalhães.\n\nQueria entretanto dizer à Sr.ª Deputada Helena Torres Marques que não poderá responder, ou melhor, que poderá responder no período de um minuto.\n\nTem a palavra o Sr. Deputado Correia Afonso."
+    },
+    {
+      "utterance_id": 126,
+      "order": 126,
+      "page_start": 258,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Sr. Correia Afonso (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, quanto tempo tenho para formular um pedido de esclarecimento?"
+    },
+    {
+      "utterance_id": 127,
+      "order": 127,
+      "page_start": 258,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O PSD tem seis minutos, mas o Sr. Deputado Roleira Marinho também está inscrito.\n\nO PCP tem seis minutos, Os Verdes têm quatro minutos e o PS já ultrapassou o seu tempo, embora seja da regra da casa dar um pequeno espaço de tempo, ou seja, cerca de um minuto, para a resposta."
+    },
+    {
+      "utterance_id": 128,
+      "order": 128,
+      "page_start": 258,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Sr. Correia Afonso (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, o PSD dá ao PS um minuto do seu tempo, além do minuto que o Sr. Presidente lhe concedeu.\nSr.ª Deputada Helena Torres Marques, na sua intervenção começou por dizer que o Plano e o Orçamento não foram apresentados, que a V Legislatura começa mal, mas acabou dizendo, mostrando alguma conformação, que temos estabilidade e que não se pode ter tudo.\n\nNão se pode ter tudo agora, Sr.ª Deputada, nem nunca se teve tudo e se olharmos para trás reparamos que também nunca tivemos tudo. Aliás, a Sr.ª Deputada foi muito clara ao dizer que a lei estabelece que o Orçamento seja apresentado até 15 de Outubro, mas, claramente, a Lei n.º 40/83 - chamada «Lei de Enquadramento do Orçamento do Estado -, no artigo 15.º, n.º 5, prevê a hipótese de ser interpretada no sentido de que o Orçamento possa ser apresentado nos 90 dias a seguir à posse do governo. Esse prazo ainda não acabou e, portanto não se pode, com rigor, dizer que o Governo não o cumpriu.\n\nPor outro lado, vejo com alegria que na bancada socialista começa a ser apreciado o rigor, o que no passado não aconteceu... Mas a pergunta que lhe quero fazer é esta: o I, o II e o IX Governos Constitucionais, que foram presididos pelo Partido Socialista, alguma vez apresentaram o Orçamento até 15 de Outubro?"
+    },
+    {
+      "utterance_id": 129,
+      "order": 129,
+      "page_start": 258,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PSD",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 130,
+      "order": 130,
+      "page_start": 258,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado José Magalhães."
+    },
+    {
+      "utterance_id": 131,
+      "order": 131,
+      "page_start": 258,
+      "speaker": {
+        "id": 736,
+        "name": "José Manuel Santos De Magalhães",
+        "party": "PCP",
+        "string": "O Sr. José Magalhães (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr.ª Deputada Helena Torres Marques, creio que não se pode deixar de lhe dar razão quando vem alertar para o facto de que a elaboração do Orçamento está enfermada de alguns vícios, isto é, ninguém poderá dizer que não está convertida num mistério, pois há uma opacidade completa e a imprensa queixa-se, e com razão, que ninguém sabe nada sobre o grande, grande segredo do Orçamento, que estará porventura na mente de dois homens em Portugal, o Ministro Cadilhe e o Sr. Primeiro-Ministro.\n\nE quanto à questão do atraso, acontece aqui uma típica demarche «cavaquista». O Governo podia chegar aqui e dizer abertamente:\n\nMeus senhores, enfim, conquistámos uma maioria com que nem sonhávamos, ternos de reconverter planos, temos de pensar num período de quatro anos. Portanto, percebam isto: precisamos de um suplemento de tempo, pois este ano não foi possível apresentar o Orçamento até 15 de Outubro; foi possível no ano passado e fizemos um festival disso, mas, repito, este ano tal não é possível.\n\nMas o Governo não faz isso; agarra no artigo 15.º, n.º 5, da Lei de Enquadramento do Orçamento do Estado, que é a exegese do preceito de todos os trabalhos preparatórios e a sua leitura não contempla a hipótese que preconiza, contempla só a hipótese em que haja anomalia orçamental para a Assembleia da República, e o Sr. Deputado Correia Afonso, que é um ilustríssimo jurista, saberá isso - e, enfim, malévola ou benevolamente, tem rejeitado uma proposta de orça-"
+    },
+    {
+      "utterance_id": 132,
+      "order": 132,
+      "page_start": 259,
+      "speaker": {
+        "id": 632,
+        "name": "Fernando Jose Russo Roque Correia Afonso",
+        "party": "PSD",
+        "string": "O Sr. Correia Afonso (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Como sempre se fez!"
+    },
+    {
+      "utterance_id": 133,
+      "order": 133,
+      "page_start": 259,
+      "speaker": {
+        "id": 736,
+        "name": "José Manuel Santos De Magalhães",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O que ela não é, Sr. Deputado Correia Afonso e Sr.ª Deputada Helena Torres Marques, é abrangente desta hipótese! Isto é uma desculpa e haverá alguma razão.\n\nA questão que tenho para lhe colocar é a seguinte: estou de acordo em que, obviamente, atrás disto, há graves dificuldades, tal como aquelas que assinalou, designadamente em relação à reforma fiscal, que era a «menina dos olhos» da propaganda governamental e que agora aparece como uma «menina» de algum sítio mais distante, seguramente remetida para 1989. E há ainda outros aspectos, como, por exemplo, o boom da corrupção, aquilo que está anunciado em relação à função pública e em relação às empresas públicas - tudo isto são questões complexas, que originam que os planos do Governo tenham consideráveis atrasos.\n\nOra o problema é que o Governo não assume isso e se quer reclamar de um prazo que depois colocará a Assembleia perante uma questão - e era sobre ela que gostaríamos de a ouvir -, que é a seguinte: como é que vamos fazer o debate orçamental até 15 de Dezembro, tal como manda a Constituição, Srs. Deputados? A galope?!\n\nVozes de protesto do PSD.\nNão, porque estão assumiríamos o encargo de aprovar um orçamento em atraso! Quer a bancada do PSD assumir isso? Não, provavelmente quer impor um galope na aprovação do Orçamento e é extremamente importante que se clarifique este aspecto.\n\nMas, mais - e deixo-lhe também esta pergunta: considera ou não a Sr.ª Deputada que é urgente que se realize na Câmara, e no mais curto prazo, um debate sobre a própria questão da execução orçamental, em que se regista seguramente um desvio de muitos milhões de contos?\n\nEram estas as perguntas que desejava formular."
+    },
+    {
+      "utterance_id": 134,
+      "order": 134,
+      "page_start": 259,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para responder, tem a palavra a Sr.ª Deputada Helena Torres Marques."
+    },
+    {
+      "utterance_id": 135,
+      "order": 135,
+      "page_start": 259,
+      "speaker": {
+        "id": 675,
+        "name": "Helena De Melo Torres Marques",
+        "party": "PS",
+        "string": "A Sr.ª Helena Torres Marques (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Penso que o que está em causa, e o Sr. Presidente terá aqui um papel muito importante, é o facto de não ter sido dada à Câmara a possibilidade de discutir o Orçamento, que tem um processo especial, como V. Ex.ª sabe, com os devidos prazos. E é absolutamente necessário que fique claro perante a opinião pública que este é um problema que nos ultrapassa, que não é por causa da Assembleia da República, e muito em especial dos partidos da oposição, que o Orçamento não entrará em vigor no prazo adequado. Conto consigo, Sr. Presidente, para que isto fique bem claro perante a opinião pública.\n\nAdmitimos que não se aplique exactamente a esta situação a interpretação da lei, porque, é óbvio, se fosse outro governo, com outros ministros e com outro Primeiro-Ministro, ou se a posse não fosse no princípio de Agosto, mas no princípio de Outubro, era impossível, em tão curto prazo, fazer um orçamento. Agora, o problema não é um problema legal, Sr. Deputado, é um problema político, e o problema político é que temos o mesmo Primeiro-Ministro, a mesma equipa nas Finanças, o mesmo Ministro do Plano e, sendo assim, pelo menos, teoricamente, não há nenhuma razão para o Orçamento e o Plano não estarem aqui a tempo e horas."
+    },
+    {
+      "utterance_id": 136,
+      "order": 136,
+      "page_start": 259,
+      "speaker": {
+        "id": 736,
+        "name": "José Manuel Santos De Magalhães",
+        "party": "PCP",
+        "string": "O Sr. José Magalhães (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 137,
+      "order": 137,
+      "page_start": 259,
+      "speaker": {
+        "id": 675,
+        "name": "Helena De Melo Torres Marques",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Plano não está concluído porque há outros problemas que nos ultrapassam, mas temos realmente que tentar perceber o que é que se passa.\n\nGostaria de dizer, Sr. Presidente e Srs. Deputados, que hoje falei com o auditor jurídico da Assembleia por causa das sucessivas alterações que vêm sendo feitas ao Orçamento. Trata-se de 121 milhões de contos e, Sr. Presidente e Srs. Deputados, hão-de convir que isto é outro orçamento, pois neste momento estão aprovados 68 milhões de contos.\n\nCreio que toda a Câmara, e não só o Partido Socialista ou a oposição, tem de ver, exactamente, a legislação que está em vigor, legislação esta que permite, por «declarações» no Diário da República, que se subverta completamente um orçamento.\n\nO Partido Socialista está pronto a participar em todos estes debates. Está pronto a participar no debate do Orçamento na Assembleia e a contribuir para que ele entre em vigor o mais rapidamente possível, pois é o que o País precisa."
+    },
+    {
+      "utterance_id": 138,
+      "order": 138,
+      "page_start": 259,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PS",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 139,
+      "order": 139,
+      "page_start": 259,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Maria Santos, que dispõe de quatro minutos."
+    },
+    {
+      "utterance_id": 140,
+      "order": 140,
+      "page_start": 259,
+      "speaker": {
+        "id": 1110,
+        "name": "Maria Amélia Do Carmo Mota Santos",
+        "party": "PEV",
+        "string": "A Sr.ª Maria Santos (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.ªs e Srs. Deputados: A evolução tecnológica e científica é causa e consequência da evolução das mentalidades. No entanto, muitas vezes é informada por uma mentalidade que lhes não é adequada.\n\nPretendemos com isto dizer que as «novas tecnologias» e a pesquisa científica e técnica que as determina não devem ser ordenadas por uma filosofia ou uma visão do mundo assente em princípios desajustados de uma nova postura social, que se exige de respeito pela natureza, pela preservação da vida e pela defesa da paz."
+    },
+    {
+      "utterance_id": 141,
+      "order": 141,
+      "page_start": 260,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr.ª Deputado lida Figueiredo, que dispõe de três minutos."
+    },
+    {
+      "utterance_id": 142,
+      "order": 142,
+      "page_start": 260,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "A Sr.ª lida Figueiredo (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: Começo por me regozijar por finalmente estar afastada a ameaça que pairava sobre Aldeadávila e toda a zona do Douro. E a vitória da luta conduzida pelas populações portuguesas e espanholas das margens do Douro, dos municípios da região, das colectividades e associações de ecologistas que souberam, desde a primeira hora, tomar uma posição firme de repúdio contra a intenção espanhola, mesmo quando era nebulosa a posição do Governo Português.\n\nMas, infelizmente, Sr. Presidente e Srs. Deputados, persistem graves ameaças sobre o Douro e as suas populações ribeirinhas. A resolução de alguns problemas continua a ser adiada: é o caso da ponte ferroviária sobre o Douro.\n\nRecentes notícias, em diversos órgãos da comunicação social, tornam claro que a nova ponte ferroviária do Douto está com um atraso superior a um ano. Aliás, é visível que as obras de acesso, nomeadamente em Vila Nova de Gaia, estão praticamente paralisadas há vários meses, enquanto o pessoal contratado pela Ferdouro tem estado a ser despedido no final dos contratos a prazo. Correm as mais diversas versões sobre esta inquietante questão. Impõe-se, pois, o cabal esclarecimento de uma situação que lesa profundamente a população da região do Porto. É necessário que o Governo esclareça as razões do atraso das obras, os motivos das revisões dos projectos de construção, a data prevista para a conclusão efectiva da obra e para a entrada em funcionamento da nova ponte ferroviária.\n\nSão perguntas que constam de um requerimento que entregámos na Mesa da Assembleia da República e ao qual esperamos uma urgente resposta por parte do Governo, para que a população da zona do Porto saiba efectivamente o que se passa."
+    },
+    {
+      "utterance_id": 143,
+      "order": 143,
+      "page_start": 260,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, terminámos o período de antes da ordem do dia.\nORDEM DO DIA\nVamos iniciar o período da ordem do dia com a leitura do relatório e parecer da Comissão Eventual de Regimento e Mandatos sobre a substituição de um deputado do PS.\nFoi lido. É o seguinte:\nComissão Eventual de Regimento e Mandados Relatório e parecer\nEm reunião da Comissão Eventual de Regimento e Mandatos realizada no dia 16 de Outubro de"
+    },
+    {
+      "utterance_id": 144,
+      "order": 144,
+      "page_start": 261,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Está em discussão. \nPausa.\nVisto ninguém pretender usar da palavra, vamos votar.\nSubmetido à votação, foi aprovada por unanimidade.\nSrs. Deputados, está em discussão o projecto de resolução n.º 7/V sobre a constituição de uma comissão eventual para o acompanhamento da situação em Timor Leste.\n\nTem a palavra o Sr. Deputado Adriano Moreira."
+    },
+    {
+      "utterance_id": 145,
+      "order": 145,
+      "page_start": 261,
+      "speaker": {
+        "id": 571,
+        "name": "Adriano Jose Alves Moreira",
+        "party": "CDS",
+        "string": "O Sr. Adriano Moreira (CDS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Quando da apresentação do Programa do Governo, tivemos ocasião de dizer que não pode considerar-se minimamente satisfatório um programa de política externa, para um país dominado por factores exógenos, que não nos dá conta da debilidade a que chegou o aparelho diplomático.\n\nNão foram necessários muitos dias para que o desenrolar da chamada «candidatura nacional à UNESCO» demonstrasse que ou o candidato anda por si próprio ou não lhe serve de nada a adjectivação «nacional» da candidatura.\n\nTambém acontece que no projecto de revisão constitucional do CDS estão expressamente mencionadas as Selvagens, e tivemos de saber pela comunicação social que um dos principais responsáveis pela política externa, em viagem, fez esforços apreciáveis para conseguir ter graça a tal respeito. Julgamos do nosso dever recomendar ao Primeiro-Ministro que ouça primeiro algum especialista na matéria, alguém que saiba da lei internacional do mar, alguém que eventualmente tenha visto mapas espanhóis sobre a definição das suas águas territoriais e patrimoniais na área, para só depois escolher a cor do sorriso que deve ser usada nesta matéria. É de supor que o amarelo seja a mais indicada.\n\nEntre outros, são estes factos que nos levam a ter fortes apreensões sobre a política externa do Governo a respeito de Timor.\n\nNo Programa do Governo fala-se apenas em obter uma solução que «garanta o pleno respeito pela identidade cultural e religiosa do povo timorense e a preservação da matriz cultural portuguesa do território». É sem dúvida um objectivo importante para minorias subordinadas a uma soberania estranha, mas fica muito aquém das obrigações constitucionalmente definidas.\n\nDeclarações dispersas garantem-nos que as obrigações constitucionais, omitidas no Programa do Governo, não foram abandonadas, e talvez tenha ligação com elas a visita do Primeiro-Ministro a Roma. Esperamos que às diligências em curso não se aplique o conceito que o Ministro dos Negócios Estrangeiros esculpiu no Diário da Assembleia da República, em 27 de Agosto passado, ao afirmar: «Seria, no mínimo, deselegante - para não dizer política e diplomaticamente incorrecto - comentar posições da Santa Sé quanto a Timor.» Esperamos não sermos obrigados a tratar dessa matéria em latim, para que a entendam poucos, quando o Primeiro-Ministro der conta dos seus esforços e resultados, se o segredo de Estado, que não tem lei, lhe consentir alguma divulgação.\n\nPor outro lado, sabemos, pela imprensa, que o relatório do Secretário-Geral da ONU de 8 de Setembro menciona o seguinte:\n\nAs duas partes (Portugal e Indonésia) estão a considerar a possibilidade de a delegação parlamentar portuguesa visitar Timor Leste com o objectivo de obter informações em primeira mão sobre a situação.\n\nExistem outros processos constitucionais e regimentais de a Assembleia da República saber das intenções de um órgão de soberania a respeito de outro, e este não é certamente dos previstos nem dos aceitáveis.\n\nTemos experiência recente dos alarmes causados ao Executivo por uma visita de cortesia de uma delegação da Assembleia da República à URSS, que envolvia a Estónia, incidente em que o nosso aparelho diplomático não deu as melhores provas, e as coisas não parecem ter melhorado nesta grave circunstância em que a Assembleia da República, órgão de soberania, sabe pelos jornais o que se espera dela."
+    },
+    {
+      "utterance_id": 146,
+      "order": 146,
+      "page_start": 261,
+      "speaker": {
+        "id": 271,
+        "name": "Antonio Poppe Lopes Cardoso",
+        "party": "PS",
+        "string": "O Sr. Lopes Cardoso (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 147,
+      "order": 147,
+      "page_start": 261,
+      "speaker": {
+        "id": 571,
+        "name": "Adriano Jose Alves Moreira",
+        "party": "CDS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Fica pelo menos evidente que os critérios de segredo do Secretário-Geral da ONU não são os mesmos da administração portuguesa.\n\nOra, este problema de Timor, que exige a solidariedade de todos os órgãos de soberania, não pode estar sujeito a tais equívocos. E também não deve esquecer-se que Timor sempre foi condicionado por interesses"
+    },
+    {
+      "utterance_id": 148,
+      "order": 148,
+      "page_start": 262,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Manuel Alegre."
+    },
+    {
+      "utterance_id": 149,
+      "order": 149,
+      "page_start": 262,
+      "speaker": {
+        "id": 285,
+        "name": "Manuel Alegre De Melo Duarte",
+        "party": "PS",
+        "string": "O Sr. Manuel Alegre (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: O Partido Socialista, ainda recentemente num comunicado da sua Comissão Nacional,\n\nmanifestou reservas quanto à actuação e à política do Governo relativamente à situação em Timor Leste, afirmando, nomeadamente, que se os critérios obscuros e contraditórios que têm presidido a essa política fossem transformados em política do Estado Português, isso levaria ao enfraquecimento das responsabilidades de Portugal e também aos direitos do povo de Timor à autodeterminação e à independência.\n\nPortugal tem-se batido pela defesa dos direitos humanos em Timor Leste, nomeadamente pelo direito à liberdade religiosa e pela defesa da população católica de Timor Leste. Porém, outra coisa muito diferente seria colaborar com os desígnios da Indonésia no sentido de transformar Timor Leste numa província católica, contra os legítimos direitos do povo de Timor Leste à autodeterminação e à independência.\n\nEm nome do Grupo Parlamentar do Partido Socialista quero, em primeiro lugar, congratular-me com o consenso que uma vez mais se verificou na Assembleia da República quanto à formação de uma comissão eventual para o acompanhamento da situação de Timor Leste e realçar o significado político de lhe ter sido dada prioridade no agendamento dos trabalhos da Assembleia da República. Trata-se, pois, de uma comissão eventual, a sua constituição não resulta do funcionamento da Assembleia da República e o facto de ela ter sido agora agendada e constituída tem um significado político, traduz uma vontade política que esperamos que seja claramente entendida como uma vontade nacional.\n\nRetoma-se uma tradição da Assembleia da República. Ora, pensamos que a Assembleia, sem invadir a esfera dos outros órgãos de soberania, tem tido um papel importante no sentido de reforçar a posição portuguesa nesta matéria: em primeiro lugar, o facto em si da constituição de uma comissão eventual - e esta é a quarta que se constitui. Mas recordo, por exemplo, a visita de uma delegação parlamentar à Austrália e às Nações Unidas no momento em que a Indonésia desenvolvia os máximos esforços para retirar a questão das Nações Unidas. Ora, a acção da delegação parlamentar portuguesa contribuiu para derrotar esses propósitos da Indonésia.\n\nRecordo também as várias moções aqui aprovadas, sempre por unanimidade, condenando a invasão de Timor Leste pela Indonésia, condenando a violação dos direitos humanos e reafirmando o princípio constitucional que obriga Portugal, através do Presidente da República e do Governo, a promover e a garantir o direito do povo indonésio à independência.\n\nRecordo também o relatório de situação elaborado pela terceira comissão e que teve um papel importante na sensibilização e na informação de outros parlamentos e, através deles, nas opiniões públicas nacionais.\n\nCreio que esta comissão que se constitui, que é a quarta, deve prosseguir a acção que vem detrás e que o deve fazer com um objecto muito claro que, aliás, consta do projecto de resolução e que é o de dar cumprimento ao artigo 297.º da Constituição e de contribuir para a implementação e concretização das resoluções de Timor Leste.\n\nPenso que, no âmbito da sua esfera, a Assembleia da República tem um papel importante, quer nas relações com outros parlamentos, informando-os e sensibilizando-os, quer através da actuação dos seus deputados nos parlamentos transnacionais de que faz"
+    },
+    {
+      "utterance_id": 150,
+      "order": 150,
+      "page_start": 263,
+      "speaker": {
+        "id": 807,
+        "name": "José Mendes Bota",
+        "party": "PSD",
+        "string": "O Sr. Mendes Bota (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 151,
+      "order": 151,
+      "page_start": 263,
+      "speaker": {
+        "id": 285,
+        "name": "Manuel Alegre De Melo Duarte",
+        "party": "PS",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "O Partido Socialista entende - e congratula-se pelo facto de este ser o sentimento dominante nesta Câmara - que Portugal não pode abdicar das suas responsabilidades políticas e morais, por muito grandes que sejam as dificuldades.\n\nTambém partilhamos das preocupações aqui manifestadas pelo Sr. Deputado Adriano Moreira quanto à capacidade da diplomacia portuguesa para responder hoje às necessidades da nova posição de Portugal no Mundo.\n\nTemos que fazer uma pressão maior, temos que levar mais longe as posições de Portugal, porque esta causa não é só a causa de Portugal; ela diz respeito a toda a comunidade internacional. E se Portugal assumir as suas responsabilidades terá autoridade moral para exigir explicações àqueles que têm duplos critérios e que frequentemente sobrepõem a lógica dos interesses à defesa em concreto dos direitos humanos.\n\nSe há uma situação flagrante de violação de princípio fundamentais do direito dos povos à independência, à soberania, se há uma situação flagrante de violação dos direitos humanos, essa é a que se verifica em Timor Leste. Se Portugal não abdicar, se Portugal não se demitir, terá uma redobrada força política e moral\n\npara, nas instâncias internacionais de que faz parte, exigir uma atitude clara e a solidariedade por parte das nações que defendem os mesmos valores e princípios.\n\nEm nome do Partido Socialista quero reafirmar que este é o nosso entendimento e que estamos disponíveis para, com todas as forças políticas nacionais e com todos os partidos representados na Assembleia da República, desenvolvermos todos os esforços para que a causa de Portugal relativamente a Timor Leste consiga remar contra a maré e impedir que algumas novas brechas se vão criando mesmo no interior da nossa própria sociedade.\n\nÉ, pois, necessária uma posição clara. Nesse sentido, pensamos que a Assembleia da República deve corresponder à posição clara do Presidente da República e aos apelos que por ele têm sido feitos no sentido de que esta causa seja levada até às últimas consequências e de que os direitos do povo de Timor sejam respeitados: o direito à vida, à autodeterminação, à independência."
+    },
+    {
+      "utterance_id": 152,
+      "order": 152,
+      "page_start": 263,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Vidigal Amaro."
+    },
+    {
+      "utterance_id": 153,
+      "order": 153,
+      "page_start": 263,
+      "speaker": {
+        "id": 862,
+        "name": "António José Monteiro Vidigal Amaro",
+        "party": "PCP",
+        "string": "O Sr. Vidigal Amaro (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Pelo facto de ser uma das primeiras medidas tomadas pela Assembleia da República na sua V Legislatura, a criação de uma comissão eventual para acompanhar a questão de Timor Leste reveste-se de um importante significado.\n\nA Assembleia da República tem acompanhado a situação de Timor Leste e através de moções aprovadas em 1978, 1982, 1984, 1985 e 1986 sempre se manifestou de maneira inequívoca pela defesa dos direitos do povo maubere, designadamente pelo «direito à autodeterminação do povo de Timor Leste».\n\nNão podemos deixar de salientar o trabalho realizado pela comissão eventual na anterior legislatura que culminou com a publicação de um importante relatório. De salientar que foi esta comissão da Assembleia da República a única estrutura a nível de órgãos de soberania que manteve contactos regulares com as organizações políticas, cívicas e religiosas representativas do povo de Timor Leste.\n\nA invasão e ocupação do território de Timor pela Indonésia nunca foi aceite pelo povo maubere. Com regularidade nos chegam testemunhos da sua heróica resistência, bem como dos massacres praticados pelas forças indonésias, que, segundo fontes da Igreja, rondará as 200 000 vítimas.\n\nPortugal tem especiais responsabilidades, de que não se pode alhear e que estão constitucionalmente definidas. Jamais se poderá aceitar como facto consumado a integração de Timor Leste na Indonésia, e o Governo tem de definir, sem ambiguidade, a sua política nesta matéria.\n\nTem havido demasiadas oscilações e obscuridade na postura adoptada pelo Governo.\n\nEssa ambiguidade aparece logo no Programa do Governo sobre esta questão. Importa referir que o Primeiro-Ministro, interpelado durante a discussão do Programa do Governo, respondeu que «é importante garantir a identidade cultural, a identidade religiosa"
+    },
+    {
+      "utterance_id": 154,
+      "order": 154,
+      "page_start": 264,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Vozes do PCP",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Muito bem!"
+    },
+    {
+      "utterance_id": 155,
+      "order": 155,
+      "page_start": 264,
+      "speaker": {
+        "id": 862,
+        "name": "António José Monteiro Vidigal Amaro",
+        "party": "PCP",
+        "string": "O Orador",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Não podemos deixar de assinalar e de sublinhar como extremamente positivo o papel que a representação da Assembleia da República teve na última reunião, realizada em Bangkok, da Assembleia da União Interparlamentar. Esta Assembleia, que acaba de concluir os seus trabalhos, pronunciou-se inequivocamente, por larga maioria, pelo direito à autodeterminação do povo maubere, criticando a actuação da Indonésia. É a primeira vez que tal decisão é tomada, o que se reveste de particular significado neste momento.\n\nSublinhar esta deliberação - do organismo que internacionalmente agrega e representa os parlamentos de todo o Mundo - é sublinhar que o povo maubere tem crescentes apoios e que assim têm justa compensação os esforços que a Assembleia da República vem fazendo por todas as formas para garantir e concretizar o direito de Timor Leste à autodeterminação e à independência."
+    },
+    {
+      "utterance_id": 156,
+      "order": 156,
+      "page_start": 264,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Rui Silva (PRD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: Antes de proferir a minha intervenção gostaria de dizer à Câmara que é sempre com alguma emoção que falo sobre Timor Leste. Suponho que devo ser - pelo menos na anterior legislatura era - o único deputado que em 1974 e 1975 estava em Timor e que assistiu ao espectro da guerra civil, que, infelizmente, culminou com a ocupação do território pelas tropas indonésias. Deixei em Timor muitos amigos: muitos deles morreram, muitos deles nunca mais os voltarei a ver e muitos deles sofrem. É por isso que, com emoção, hoje irei falar um pouco sobre aquilo que penso que deverá ser a comissão eventual para o acompanhamento da situação de Timor Leste, e desde já devo dizer que o empenhamento que irei dedicar a essa comissão será total e sem reservas.\n\nSr. Presidente, Srs. Deputados: Em 1982 decidiu a Assembleia da República criar uma comissão parlamentar para acompanhar permanentemente a situação em Timor Leste, território que desde 1975 permanece sob ocupação da Indonésia.\n\nA comissão parlamentar durante a última legislatura realizou um importante trabalho de sensibilização da opinião pública, manteve um estreito contacto com organizações humanitárias, cívicas e políticas, um permanente diálogo com o Presidente da República e com o Governo, a quem, em termos constitucionais, compete a condução política do caso Timor Leste.\n\nNo início da 2.ª sessão legislativa, a comissão apresentou um relatório que foi traduzido em três línguas e que descreve de forma tão sintética quanto possível o relato da situação em Timor Leste no presente, bem como a evolução de todo o processo de ocupação desde 1975. Um importante documento que a comissão enviou a todos os parlamentos da Europa e não só, bem como organizações internacionais cívicas e políticas. A aceitação deste documento por pane de todas as entidades que o receberam recorda-nos que o problema de Timor Leste não é um simples caso de ocupação de um território, mas também uma flagrante violação dos direitos do homem da autodeterminação a que todos os povos têm direito.\n\nA criação da comissão eventual para acompanhamento da situação em Timor Leste, prevista no projecto de resolução que hoje discutimos e vamos certamente aprovar, é, sem dúvida, a forma concludente de que esta Câmara não está insensível aos valores fundamentais de um povo que tem uma identidade própria e que urge fazer respeitar. Votaremos naturalmente a criação da comissão eventual e empenhar-nos-emos sem reservas e por todos os meios ao nosso alcance para que a paz, a justiça e a liberdade em Timor Leste sejam uma breve realidade.\n\nTal como durante a anterior legislatura, nós, Grupo Parlamentar do PRD, fazemos votos para que esta seja uma vez mais uma comissão de diálogo, de consenso na intervenção construtiva e na solidariedade para com os valores mínimos e essenciais a que tem direito o povo maubere."
+    },
+    {
+      "utterance_id": 157,
+      "order": 157,
+      "page_start": 264,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra o Sr. Deputado Rui Silva."
+    },
+    {
+      "utterance_id": 158,
+      "order": 158,
+      "page_start": 264,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção tem a palavra o Sr. Deputado Raul Castro."
+    },
+    {
+      "utterance_id": 159,
+      "order": 159,
+      "page_start": 265,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Raul Castro (ID)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: Ao invocar-se, no projecto de resolução, o artigo 297.º da Constituição, invoca-se uma conhecida disposição que atribui a Portugal o continuar vinculado às responsabilidades de lhe incumbem de promover e garantir o direito à independência de Timor Leste.\n\nMas, além desta disposição, poderemos dizer que o que está estabelecido no artigo 7.º da Constituição quanto ao facto de Portugal se reger, nas relações internacionais, pela defesa do direito dos povos à independência e à autodeterminação e até a favor do direito dos povos à insurreição contra todas as formas de opressão, nomeadamente o colonialismo e o imperialismo, seriam bastantes para que esta Assembleia, em estrita obediência aos preceitos constitucionais, não pudesse alhear-se da luta dolorosa que vem travando o povo de Timor Leste.\n\nSr. Presidente, Srs. Deputados: Teremos de nos felicitar por, mais uma vez, existir um consenso sobre tal assunto. Efectivamente, para lá do papel que cabe, constitucionalmente, ao Sr. Presidente da República e ao Governo nesta matéria, a intervenção da Assembleia da República tem, a nível interno e a nível internacional, um peso que se me afigura indiscutível. Esse peso tem-no demonstrado no passado, continua a demonstrá-lo no presente e estou certo que no futuro também o continuará a demonstrar.\n\nO Agrupamento Parlamentar da Intervenção Democrática irá votar favoravelmente a resolução apresentada, na certeza de que está a contribuir, de alguma forma, para ajudar a luta do povo de Timor Leste pela sua autodeterminação e independência."
+    },
+    {
+      "utterance_id": 160,
+      "order": 160,
+      "page_start": 265,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra a Sr. Deputada Maria Santos."
+    },
+    {
+      "utterance_id": 161,
+      "order": 161,
+      "page_start": 265,
+      "speaker": {
+        "id": 1110,
+        "name": "Maria Amélia Do Carmo Mota Santos",
+        "party": "PEV",
+        "string": "A Sr.ª Maria Santos (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: Gostaria de informar a Câmara que tivemos oportunidade de contactar directamente, nestas duas últimas semanas, com dez partidos verdes da Europa e também com o Grupo Arco-íris do Parlamento Europeu e entregar-lhes um dossier sobre a situação do povo maubere em Timor Leste.\n\nMuitos dos nossos amigos ecologistas da Europa manifestaram o seu espanto pela situação que se vive em Timor Leste, pois estavam muito pouco informados relativamente ao genocídio e aos assassínios que estão a ser cometidos pela Indonésia em Timor Leste.\n\nA aceitação foi unânime. Foi expressa a vontade de fazerem tudo que estivesse ao seu alcance para uma maior consciencialização, sobre este problema, dos governos, junto dos parlamentos e junto da opinião pública europeia.\n\nSr. Presidente, Sr.ªs. e Srs. Deputados: Timor Leste fica longe, muito longe. E Timor Leste fica cada vez mais longe à medida que a história se concretiza e, no entanto, os dias contam-se um a um a passar em Timor Leste.\n\nHá duas maneiras de aniquilar um povo: ou se suprimem todos os seus elementos ou se priva esse povo da sua cultura, e citamos de memória Amílcar Cabral. É a primeira a maneira escolhida para solucionar a problemática do povo maubere? Não chegam as formas insidiosas de aculturação? É necessário o assassinato assumido enquanto genocídio?\n\nHá, no entanto, quem diga que isso não acontece.\n\nHá quem não esteja de acordo e afirme que tudo é normal, numa maneira de dizer quase descritiva do paraíso terrestre.\n\nNão nos espanta! Só se vê o que temos capacidade para ver, o que é fortemente condicionado por tudo o que pretendemos.\n\nPassemos, pois, sobre as afirmações de quem não pode ou não quer ver, lamentando-as, somente!\n\nPassemos também sobre as formas possíveis de o povo maubere conservar a sua identidade. Não nos compete dizer o que convém aos outros! Quem está em causa é que sabe e esses têm, repetidamente, afirmado o que pretendem.\n\nE da maior sensatez pensar que o caminho que escolheram é o melhor que lhes convém e, entretanto, os dias contam e passam, um a um, em Timor Leste.\n\nA história fará, talvez, o julgamento dos opressores de hoje. Crime contra a humanidade, dirão! Crime concretizado! Vítimas totalmente redimidas, mas de facto e para sempre vítimas, irreversivelmente vítimas!\n\nO povo maubere está a ser aniquilado em cada dia que passa, e não são só as imagens da televisão, é o sofrimento, a tortura e a morte praticadas por cada um dos indivíduos no modo de morrer colectivo, que determina a acusação que lhes é feita: serem o que são, neste momento e naquele sítio!\n\nO homem, esse animal com capacidade de consciência de si mesmo, é o único animal capaz de voluntariamente matar seres da sua espécie. Bonita conquista da racionalidade!...\n\nNão pretendemos ser humanidade assim! Os assassinos, mesmo disfarçados de nação, não devem ter lugar entre os povos. A ONU, a UNESCO, a FAO, e tantos outros lugares não comportam espaços acessíveis a gente dessa laia. Eles devem ser colocados frente ao espelho daquilo que são. E nós não falamos do povo indonésio, falamos de quem manda na Indonésia e de quem conhecemos as caras e sabemos os nomes.\n\nSr.ªs e Srs. Deputados, enquanto se negoceiam interesses geo-estratégicos e económicos, enquanto nós falamos aqui, os dias contam-se, um a um, a passar em Timor Leste.\n\nEste país está irremediavelmente atado ao que acontece nessa outra parte do Mundo. Vamos, pois, nesta Assembleia votar uma condenação moral e política a quem mata por sistema. Façamos isso com a precisa consciência de que é isso que é preciso. É urgente! Mas não bastará, porque é preciso lembrar que enquanto isto acontece os dias contam-se um a um a passar em Timor Leste."
+    },
+    {
+      "utterance_id": 162,
+      "order": 162,
+      "page_start": 265,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Para uma intervenção, tem a palavra o Sr. Deputado Soares Costa."
+    },
+    {
+      "utterance_id": 163,
+      "order": 163,
+      "page_start": 265,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Soares Costa (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, Srs. Deputados: Está em discussão um projecto de resolução relativo à constituição de uma comissão eventual para o acompanhamento da situação em Timor Leste,"
+    },
+    {
+      "utterance_id": 164,
+      "order": 164,
+      "page_start": 267,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, terminada a discussão do projecto de resolução n.º 7/V, com vista à constituição de uma comissão eventual para o acompanhamento da situação em Timor Leste, vamos votar.\nSubmetido à votação, foi aprovado por unanimidade. Aplausos gerais."
+    },
+    {
+      "utterance_id": 165,
+      "order": 165,
+      "page_start": 267,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, como ficou acordado, faremos, às 18 horas, uma breve reunião da conferência de líderes.\nAntes de encerrar a sessão, comunico que a mesma terá lugar na próxima quinta-feira, às 15 horas, para a discussão da proposta de lei n.º 4/V, que autoriza o Governo a aprovar ao estatuto da imprensa regional.\n\nEstá encerrada a sessão."
+    }
+  ]
+}

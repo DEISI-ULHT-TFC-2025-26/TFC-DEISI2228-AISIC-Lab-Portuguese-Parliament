@@ -1,0 +1,614 @@
+{
+  "debate_meta": {
+    "period": "r3",
+    "legislature": "7",
+    "legislative_session": "1",
+    "number": "2",
+    "date": "1995-10-31"
+  },
+  "debate_id": "r3_7_1_2_1995-10-31",
+  "utterances": [
+    {
+      "utterance_id": 1,
+      "order": 1,
+      "page_start": 16,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, temos quorum, pelo que declaro aberta a sessão.\nEram 15 horas e 40 minutos.\n\nEstavam presentes os seguintes Srs. Deputados:\nPartido Socialista (PS):\nAcácio Manuel de Frias Barreiros.\n\nAdérito Joaquim Ferro Pires.\n\nAgostinho Marques Moleiro.\n\nAires Manuel Jacinto de Carvalho.\n\nAlberto de Sousa Martins.\n\nAlbino Gonçalves da Costa.\n\nAntero Gaspar de Paiva Vieira.\n\nAntónio Alves Marques Júnior.\n\nAntónio Alves Martinho.\n\nAntónio Bento da Silva Galamba.\n\nAntónio de Almeida Santos.\n\nAntónio Fernandes da Silva Braga.\n\nAntónio Fernando Marques Ribeiro Reis.\n\nAntónio Jorge Mammerickx da Trindade.\n\nAntónio José Borrani Crisóstomo Teixeira.\n\nAntónio José Guimarães Fernandes Dias.\n\nAntónio Manuel Carmo Saleiro.\n\nArnaldo Augusto Homem Rebelo.\n\nArtur Clemente Gomes de Sousa Lopes.\n\nArtur Miguel Claro da Fonseca Mora Coelho.\n\nArtur Rodrigues Pereira dos Penedos.\n\nCarlos Alberto Cardoso Rodrigues Beja.\n\nCarlos Alberto Dias dos Santos.\n\nCarlos Justino Luís Cordeiro.\n\nCarlos Manuel Amândio.\n\nCarlos Manuel Luís.\n\nDomingos Fernandes Cordeiro.\n\nEduardo Ribeiro Pereira.\n\nElisa Maria Ramos Damião.\n\nEurico José Palheiros de Carvalho Figueiredo.\n\nFernando Alberto Pereira de Sousa.\n\nFernando Alberto Pereira Marques.\n\nFernando Antão de Oliveira Ramos.\n\nFernando Garcia dos Santos.\n\nFernando Manuel de Jesus.\n\nFernando Pereira Serrasqueiro.\n\nFrancisco Fernando Osório Gomes.\n\nFrancisco José Pereira de Assis Miranda.\n\nFrancisco José Pinto Camilo.\n\nFrancisco Manuel Pepino Fonenga.\n\nGonçalo Matos Correia de Almeida Velho.\n\nJoão Rui Gaspar de Almeida.\n\nJoaquim Américo Fialho Anastácio.\n\nJoaquim Moreira Raposo.\n\nJoaquim Sebastião Sarmento da Fonseca Almeida.\n\nJoel Eduardo Neves Hasse Ferreira.\n\nJoel Maria da Silva Ferro.\n\nJorge Lacão Costa.\n\nJorge Manuel Damas Martins Rato.\n\nJorge Manuel Gouveia Strecht Ribeiro.\n\nJosé Adelmo Gouveia Bordalo Junqueira.\n\nJosé Afonso Teixeira de Magalhães Lobão.\n\nJosé Alberto Cardoso Marques.\n\nJosé António Ribeiro Mendes.\n\nJosé Carlos Correia Mota de Andrade.\n\nJosé Carlos da Cruz Lavrador.\n\nJosé Carlos das Dores Zorrinho.\n\nJosé Carlos Lourenço Tavares Pereira.\n\nJosé da Conceição Saraiva.\n\nJosé de Matos Leitão.\n\nJosé Domingos de Ascensão Cabeças.\n\nJosé Ernesto Figueira dos Reis.\n\nJosé Fernando Rabaça Barradas e Silva.\n\nJosé Manuel de Medeiros Ferreira.\n\nJosé Manuel Marques da Silva Lemos.\n\nJosé Manuel Niza Antunes Mendes.\n\nJosé Maximiano de Albuquerque Almeida Leitão.\n\nJosé Pinto Simões. José Sampaio Lopes.\n\nJosé Tomás Vasques.\n\nJúlio da Piedade Nunes Henriques.\n\nJúlio Manuel de Castro Lopes Faria.\n\nLaurentino José Monteiro Castro Dias.\n\nLeonor Coutinho Pereira dos Santos.\n\nLuís Afonso Cerqueira Natividade Candal.\n\nLuís Filipe Nascimento Madeira.\n\nLuís Pedro de Carvalho Martins.\n\nManuel Afonso da Silva Strecht Monteiro.\n\nManuel Alberto Barbosa de Oliveira.\n\nManuel Alegre de Melo Duarte.\n\nManuel Francisco dos Santos Valente.\n\nManuel Jorge Pedrosa Forte de Góes.\n\nManuel Martinho Pinheiro dos Santos Gonçalves.\n\nManuel Porfírio Varges.\n\nMaria Amélia Macedo Antunes.\n\nMaria Celeste Lopes da Silva Correia.\n\nMaria da Luz Beja Ferreira Rosinha.\n\nMaria do Carmo Sacadura dos Santos.\n\nMaria do Rosário Lopes Amaro da Costa da Luz Carneiro.\n\nMaria Fernanda dos Santos Martins Catarino Costa.\n\nMaria Helena do Rego da Costa Salema Roseta.\n\nMaria Isabel Ferreira Coelho de Sena Lino.\n\nMaria Jesuína Carrilho Bernardo.\n\nMário Manuel Videira Lopes.\n\nMartim Afonso Pacheco Gracias.\n\nNuno Manuel Pereira Baltazar Mendes.\n\nOsvaldo Alberto Rosário Sarmento e Castro.\n\nPaula Cristina Ferreira Guimarães Duarte.\n\nPaulo Jorge dos Santos Neves.\n\nPedro Ricardo Cavaco Castanheira Jorge.\n\nRaimundo Pedro Narciso.\n\nRaul d'Assunção Pimenta Rego.\n\nRosa Maria da Silva Bastos da Horta Albernaz.\n\nRui do Nascimento Rabaça Vieira.\n\nRui Manuel Palácio Carreteiro.\n\nSérgio Humberto Rocha de Ávila.\n\nSérgio Paulo Mendes de Sousa Pinto.\n\nSilvino Manuel Gomes Sequeira.\n\nVítor Brito de Moura.\nPartido Social Democrata (PSD):\nAdalberto Paulo da Fonseca Mendo.\n\nÁlvaro dos Santos Amaro.\n\nÁlvaro José Brilhante Laborinho Lúcio.\n\nAntonino da Silva Antunes.\n\nAntónio Costa Rodrigues.\n\nAntónio de Carvalho Martins.\n\nAntónio dos Santos Aguiar Gouveia.\n\nAntónio Germano Fernandes de Sá e Abreu.\n\nAntónio Joaquim Correia Vairinhos.\n\nAntónio Jorge de Figueiredo Lopes.\n\nAntónio Moreira Barbosa de Melo."
+    },
+    {
+      "utterance_id": 2,
+      "order": 2,
+      "page_start": 17,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, como sabem, esta tarde terão lugar duas reuniões plenárias. A primeira destina-se à eleição do Presidente da Assembleia da República e dos restantes membros da Mesa (Vice-Presidentes, Secretários e Vice-Secretários), e a segunda à eleição dos representantes dos grupos parlamentares para o Conselho de Administração da Assembleia da República.\n\nInformo os Srs. Deputados de que a primeira votação se fará da seguinte forma: um dos Srs. Secretários procederá à chamada dos Srs. Deputados por ordem alfabética e outro à descarga no respectivo caderno de recenseamento.\n\nEntretanto, visto que ainda não estão devidamente legitimados, peço autorização à Câmara, para convidar os Srs. Deputados Rosa Albernaz e Duarte Pacheco para servirem de escrutinadores, que ocuparão lugar junto às\nurnas.\n\nExiste ainda um problema logístico, relacionado com a formulação do boletim de voto. Conforme resultou"
+    },
+    {
+      "utterance_id": 3,
+      "order": 3,
+      "page_start": 18,
+      "speaker": {
+        "id": 1166,
+        "name": "António Fernandes Da Silva Braga",
+        "party": "PS",
+        "string": "O Sr. António Braga (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, se me permite, queria apenas informar a Mesa de que o relatório está pronto e deve estar a chegar à Mesa, se é que ainda não chegou."
+    },
+    {
+      "utterance_id": 4,
+      "order": 4,
+      "page_start": 18,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 5,
+      "order": 5,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Faça favor, Sr. Deputado."
+    },
+    {
+      "utterance_id": 6,
+      "order": 6,
+      "page_start": 18,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, se me permite, gostava de confirmar se entendi correctamente a questão relativa a adoptar-se um boletim de voto apenas com uma opção - \"sim\" -, hipótese esta adiantada pelo PS, PCP e PSD..."
+    },
+    {
+      "utterance_id": 7,
+      "order": 7,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Foi a hipótese adiantada pelo PS, PCP e Os Verdes. O PSD não tomou qualquer posição, Sr. Deputado."
+    },
+    {
+      "utterance_id": 8,
+      "order": 8,
+      "page_start": 18,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Então é o CDS-PP que defende a adopção de um boletim de voto com as três opções - \"sim/não/abstenção\"."
+    },
+    {
+      "utterance_id": 9,
+      "order": 9,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Foi a versão seguida em 1991, Sr. Deputado."
+    },
+    {
+      "utterance_id": 10,
+      "order": 10,
+      "page_start": 18,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sei que sim, Sr. Presidente. Mas o relevante é que o candidato obtenha 116 votos favoráveis, já que qualquer outro voto, que não a favor, impede a sua eleição. Portanto, o que interessa apurar é a soma dos votos de cada candidato e não se os votos que se lhe opõem são de abstenção, nulos, brancos ou amarelos!\n\nCreio, pois, que a boa coerência aponta no sentido de o boletim de voto conter apenas a hipótese do \"sim\", o que, aliás, nos permitirá ir bastante mais cedo para casa: contar votos a favor é relativamente rápido; contar votos a favor, nulos, abstenções, brancos, etc., em relação a cada nome, já é mais complicado!\n\nPergunto, por isso, ao Sr. Presidente se não seria de reponderar, nomeadamente junto do Grupo Parlamentar do CDS-PP, a solução."
+    },
+    {
+      "utterance_id": 11,
+      "order": 11,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "O Sr. Deputado usou um bom argumento, mas a Mesa considera-o dirigido à bancada do CDS-PP.\n\nTem a palavra o líder da bancada do CDS-PP, precisamente para se pronunciar sobre a matéria, sendo certo que basta que um grupo parlamentar requeira uma hipótese mais alongada de votação para que a Mesa subscreva, claro está, esse requerimento."
+    },
+    {
+      "utterance_id": 12,
+      "order": 12,
+      "page_start": 18,
+      "speaker": {
+        "id": 1635,
+        "name": "Jorge Alexandre Silva Ferreira",
+        "party": "CDS-PP",
+        "string": "O Sr. Jorge Ferreira (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, ainda não há líder da bancada mas, de qualquer modo, gostaria de..."
+    },
+    {
+      "utterance_id": 13,
+      "order": 13,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Pelo menos, há um porta-voz da bancada!"
+    },
+    {
+      "utterance_id": 14,
+      "order": 14,
+      "page_start": 18,
+      "speaker": {
+        "id": 1635,
+        "name": "Jorge Alexandre Silva Ferreira",
+        "party": "CDS-PP",
+        "string": "O Sr. Jorge Ferreira (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Com certeza, Sr. Presidente. E para o efeito, sou eu. Mas, dizia, gostaria que se mantivesse a nossa proposta, uma vez que, mesmo correndo o risco de se ter de trabalhar mais umas horas, nos parece mais correcto optar pelas três possibilidades de voto - a favor, contra ou abstenção - relativamente a este tipo de eleição."
+    },
+    {
+      "utterance_id": 15,
+      "order": 15,
+      "page_start": 18,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, peço a palavra para interpelar a Mesa."
+    },
+    {
+      "utterance_id": 16,
+      "order": 16,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Tem a palavra, Sr. Deputado."
+    },
+    {
+      "utterance_id": 17,
+      "order": 17,
+      "page_start": 18,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, queria apenas perguntar se, em relação à eleição do Presidente, não é esse o método seguido."
+    },
+    {
+      "utterance_id": 18,
+      "order": 18,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Em relação à eleição do Presidente da Assembleia da República, a alternativa apresentada pelos serviços e que me pareceu merecer a concordância de todos, aliás de acordo com a opinião já expressa pela Câmara em 1991, foi a de haver apenas a opção \"sim\"."
+    },
+    {
+      "utterance_id": 19,
+      "order": 19,
+      "page_start": 18,
+      "speaker": {
+        "id": 457,
+        "name": "João António Gonçalves Do Amaral",
+        "party": "PCP",
+        "string": "O Sr. João Amaral (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Muito obrigado, Sr. Presidente."
+    },
+    {
+      "utterance_id": 20,
+      "order": 20,
+      "page_start": 18,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, o Sr. Deputado Marques Júnior vai proceder à leitura do relatório e parecer da Comissão Eventual de Verificação de Poderes."
+    },
+    {
+      "utterance_id": 21,
+      "order": 21,
+      "page_start": 18,
+      "speaker": {
+        "id": 1114,
+        "name": "António Alves Marques Júnior",
+        "party": "PS",
+        "string": "O Sr. Marques Júnior (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente e Srs. Deputados, o relatório e parecer é do seguinte teor:\n\nl - Em reunião da Comissão Eventual de Verificação de Poderes realizada no dia 30 de Outubro de 1995, pelas 16 horas, foram observadas as seguintes retomas de mandato, por ter cessado a suspensão a 28 de Outubro corrente, inclusive, dos seguintes Deputados:\n\na) Nos termos do artigo 6.º, n.º 1 e 2, do Estatuto dos Deputados (Lei n.º 7/93, de 1 de Março):\n\nSolicitadas pelo Grupo Parlamentar do Partido Social Democrata:\n\nManuel Castro de Almeida (círculo eleitoral de Aveiro), cessando Maria Cecília Reis de Almeida Oliveira;"
+    },
+    {
+      "utterance_id": 22,
+      "order": 22,
+      "page_start": 20,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, dado que ninguém pretende usar da palavra, vamos proceder à votação do parecer que acaba de ser lido.\nSubmetido à votação, foi aprovado por unanimidade.\nPassamos, agora, ao objecto da nossa ordem de trabalhos, que é a eleição do Presidente da Assembleia da República e restantes membros da Mesa.\n\nPeço aos Srs. Deputados Rosa Albernaz e Duarte Pacheco o favor de ocuparem os seus lugares de escrutinadores, a fim de podermos dar início à votação.\n\nDe acordo com a tradição da Assembleia, votarão, em primeiro lugar, os membros da Mesa, a seguir, os Srs. Escrutinadores e, depois, os Srs. Deputados, que serão chamados por ordem alfabética.\n\nVamos, então, votar, Srs. Deputados.\nProcedeu-se à votação.\nSrs. Deputados, terminada a votação, peço aos Srs. Escrutinadores que transportem as\nurnas para a Sala D. Maria, onde se procederá à contagem dos votos, e aos Srs. Secretários da Mesa o favor de participarem nesse escrutínio, o qual vai ter lugar de imediato.\n\nEstá suspensa a sessão.\nEram 16 horas e 40 minutos.\n\nSrs. Deputados, está reaberta a sessão.\nEram 18 horas."
+    },
+    {
+      "utterance_id": 23,
+      "order": 23,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Lemos Damião)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, a acta da eleição dos Vice-Presidentes, Secretários e Vice-Secretários da Mesa da Assembleia da República é do seguinte teor:\n\nAos trinta e um dias do mês de Outubro de mil novecentos e noventa e cinco, procedeu-se à eleição dos Vice-Presidentes, Secretários e Vice-Secretários da Mesa da Assembleia da República para a VII Legislatura, sendo apurados os seguintes resultados:\n\nVice-Presidentes: Manuel Alegre de Meto Duarte - 152 votos a favor, 46 votos contra e 22 abstenções; João Bosco Mota Amaral - 179 votos a favor, 15 votos contra e 16 abstenções; Nuno Krus Abecasis - 108 votos a favor, 62 votos contra e 50 abstenções; João António Gonçalves do Amaral - 135 votos a favor, 44 votos contra e 41 abstenções;\n\nSecretários: Artur Rodrigues P. dos Penedos - 153 votos a favor, 42 votos contra e 25 abstenções; Duarte Rogério M. Ventura Pacheco - 157 votos a favor, 25 votos contra e 38 abstenções; Maria Helena P. Nogueira Santo - 112 votos a favor, 68 votos contra e 40 abstenções; João Corregedor da Fonseca - 124 votos a favor, 57 votos contra e 39 abstenções;\n\nVice-Secretários: Rosa Maria da S. B. da H. Albernaz - 156 votos a favor, 40 votos contra e 24 abstenções; José Ernesto Figueira dos Reis - 163 votos a favor, 39 votos contra e 18 abstenções; Maria Luísa Lourenço Ferreira - 156 votos a favor, 23 votos contra e 41 abstenções; Carlos Manuel Duarte Oliveira - 155 votos a favor, 26 votos contra e 39 abstenções.\n\nNos termos regimentais, foram eleitos Vice-Presidentes os Srs. Deputados Manuel Alegre de Melo Duarte, João Bosco Mota Amaral e João António Gonçalves do Amaral; Secretários os Srs. Deputados Artur Rodrigues P. dos Penedos, Duarte Rogério M. Ventura Pacheco e João Corregedor da Fonseca; Vice-Secretários os Srs. Deputados Rosa Maria da S. B. da H. Albernaz, José Ernesto Figueira dos Reis, Maria Luísa Lourenço Ferreira e Carlos Manuel Duarte Oliveira.\n\nPara constar se lavrou a presente acta que foi devidamente assinada pelos Deputados Escrutinadores Lemos Damião, Rosa Albernaz, José Reis e Duarte Pacheco.\n\nOs Srs. Deputados Nuno Krus Abecasis e Maria Helena P. Nogueira Santo não obtiveram o número de votos necessário para serem eleitos."
+    },
+    {
+      "utterance_id": 24,
+      "order": 24,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, face à acta que acaba de ser lida, proclamo eleitos Vice-Presidentes da Assembleia da República os Srs. Deputados Manuel Alegre de Melo Duarte, João Bosco Mota Amaral, João António Gonçalves do Amaral; Secretários os Srs. Deputados Artur Rodrigues dos Penedos, Duarte Rogério Ventura Pacheco e João Corregedor da Fonseca e Vice-Secretários os Srs. Deputados Rosa Maria Albernaz, José Ernesto Figueira dos Reis, Maria Luísa Lourenço Ferreira e Carlos Manuel Duarte Oliveira.\n\nPeço agora ao Sr. Secretário que faça o favor de proceder à leitura da acta respeitante à eleição do Presidente da Assembleia da República."
+    },
+    {
+      "utterance_id": 25,
+      "order": 25,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Secretário (Lemos Damião)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente e Srs. Deputados, a acta é do seguinte teor:\n\nAos trinta e um dias do mês de Outubro de mil novecentos e noventa e cinco, procedeu-se à eleição do Presidente da Assembleia da República para a VII Legislatura, sendo apurado o seguinte resultado:\nVotantes - 220 Deputados\n\nAntónio de Almeida Santos - 164 votos a favor, 53 brancos e 3 nulos.\nNos termos da alínea b) do artigo 178.º da Constituição e do artigo 14.º do Regimento, é eleito Presidente da Assembleia da República para a VII Legislatura o candidato António de Almeida Santos.\n\nPara constar se lavrou a presente acta que foi devidamente assinada pelos Deputados Escrutinadores Lemos Damião, Rosa Albernaz, José Reis e Duarte Pacheco."
+    },
+    {
+      "utterance_id": 26,
+      "order": 26,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Nos termos da acta que acaba de ser lida, proclamo eleito Presidente da Assembleia da República o Sr. Deputado António de Almeida Santos.\n\nO Sr. Presidente eleito, depois de ter saudado os Srs. Deputados de todos os grupos parlamentares sentados nas primeiras filas, foi acompanhado à Mesa pelo Sr. Presidente cessante, o qual, após troca de cumprimentos, ocupou o seu lugar na bancada do PSD."
+    },
+    {
+      "utterance_id": 27,
+      "order": 27,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente (António de Almeida Santos)",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Srs. Deputados, nos termos regimentais, tenho a honra de convocar para a Mesa os Srs. Secretários eleitos.\n\nNeste momento, tomaram lugar na Mesa os Srs. Deputados Artur Penedos, Duarte Pacheco e João Corregedor da Fonseca.\nSrs. Deputados, a Mesa está constituída de forma suficiente mas não global, pelo que coloco ao CDS-PP a seguinte questão: o Regimento, no seu artigo 23.º, estabelece que, se algum dos candidatos não tiver sido eleito, se proceda, de imediato, na mesma reunião, a novo sufrágio para o lugar por ele ocupado na lista, até se verificar o disposto no número seguinte. Sucede que já se verificou o disposto no número seguinte, ou seja, eleitos o Presidente e metade dos restantes membros da Mesa considera-se atingido o quorum necessário ao seu funcionamento.\n\nEntendo, e parece-me que a Mesa me acompanha neste entendimento, que não é forçoso que se proceda de imediato à eleição dos membros que não obtiveram maioria necessária, mas também não é forçoso que se não proceda desse modo.\n\nAssim, pergunto ao CDS-PP se prefere que se proceda de imediato à eleição dos seus representantes ou se deseja que essa eleição tenha lugar noutro momento, eventualmente na próxima reunião..."
+    },
+    {
+      "utterance_id": 28,
+      "order": 28,
+      "page_start": 21,
+      "speaker": {
+        "id": 1635,
+        "name": "Jorge Alexandre Silva Ferreira",
+        "party": "CDS-PP",
+        "string": "O Sr. Jorge Ferreira (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, o CDS-PP prefere que a eleição se faça de imediato, como o Regimento manda."
+    },
+    {
+      "utterance_id": 29,
+      "order": 29,
+      "page_start": 21,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Assim se fará. Sr. Deputado.\n\nSolicitaria aos mesmos escrutinadores que procedessem à preparação do acto eleitoral. No entanto, mas como um deles é agora secretário da Mesa, peço ao PSD que indique um substituto."
+    },
+    {
+      "utterance_id": 30,
+      "order": 30,
+      "page_start": 22,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Há algum Sr. Deputado que se encontre na Sala que não tenha votado? Senão, teremos de proceder a uma nova chamada.\n\nUma vez que todos votaram, as Sr.\nas \nDeputadas escrutinadoras podem começar a contar os votos.\n\nSrs. Deputados, não sei se concordariam que enquanto se procede à contagem dos votos, o que, aliás, me foi sugerido pelo Sr. Deputado Silva Marques, eu aproveitasse para proferir algumas palavras, ganhando assim algum tempo.\n\nPorém, antes disso, quero perdir-vos licença para fazer uma correcção à Acta, uma vez que o nome da Sr.ª Deputada Isabel Maria de Almeida e Castro foi \"guilhotinado\" - percalço que tem acontecido a grandes figuras da história, como sabem. Se concordassem, uma vez que se trata de uma lista nominal e o voto não é referido pessoa a pessoa mas à globalidade da lista, corrigia-se esta falha e repunha-se o nome da Sr.ª Deputada Isabel Maria de Almeida e Castro, como é devido, na Acta, da votação a que se procedeu e cujos resultados vão ser apurados. Se ninguém se opuser, assim se fará.\n\nEmbora alguns Srs. Deputados estejam no corredor, isso não é grave, porque o que tenho a dizer-vos é muito simples.\n\nTenho de exprimir perante os Srs. Deputados a minha satisfação e a minha honra, que julgo extensiva aos restantes membros da Mesa, pelo facto de termos merecido a vossa confiança. É uma grande honra e uma grande responsabilidade! Creio poder falar em nome de todos, dizendo que procuraremos estar à altura dessa responsabilidade. Na parte que me toca o voto não se agradece mas creio que nada impede que se agradeça a motivação do voto.\n\nA última coisa que me passaria pela cabeça era garantir-vos formalmente, aqui, por palavras, que procurarei estar sempre numa posição equidistante em relação a todos vós e a todos os grupos parlamentares. Aliás, penso que o meu passado pessoal, profissional e político me dispensam de ter de vos dar agora essa garantia; ou esse passado vos garante que eu procurarei cumprir a regra dessa equidistância ou não serão as minhas palavras que vos vão tranquilizar a esse respeito.\n\nCreio que algumas vezes irei errar, mas se errar é porque não fui capaz de evitar esse erro, talvez até algumas vezes venha a ser injusto, mas então é porque não tive consciência disso.\n\nPermitir-me-eis que dito isto vos felicite a vós mesmos, Srs. e Sr.\nas\n\nDeputadas, por terdes merecido ser os escolhidos pelo povo português de entre muitos outros que tinham sido chamados. É também para vós e para todos nós uma sublime honra podermos representar o povo soberano e, mais do que isso, sermos por ele encarregados de exprimir a sua vontade.\n\nNenhuma tarefa é mais nobilitante nem mais carregada de responsabilidades. Por isso mesmo, a tarefa de fazer leis, normas de conduta, para a comunidade que somos, que podem traduzir-se na atribuição de direitos mas também na atribuição de deveres e até de castigos, é uma tarefa tão responsabilizante e tão nobre que começou por ser privilégio de deuses, depois dos profetas, dos deuses na terra, dos reis, dos filósofos na antiga Grécia, em Roma, e só muito mais tarde tarefa de homens comuns como somos todos nós.\n\nPor isso, é bem pesada a nossa responsabilidade, mas também é grande a nossa honra. E não creio que haja tarefa mais nobre do que essa. Sempre considerei que o acto de governo mais difícil, mais importante e mais sério é o acto de fazer as leis. Penso que todos nós seremos capazes, uma vez mais, de estar à altura dessa pesada e terrível responsabilidade.\n\nPermitam-me que, através de vós, saúde o povo que nos elegeu, o próprio soberano, aquele que detém o poder originário, do qual derivam todos os outros poderes. Queremos ser julgados por ele, mas garantimos-lhe que a partir daqui nos esforçaremos por estar à altura desse terrível mandato de o representar e exprimir a sua vontade.\n\nPeco-vos licença para destacar um de entre vós, exactamente aquele que me precedeu neste lugar e que nos últimos quatro anos dirigiu os trabalhos, representou e prestigiou esta Assembleia, emprestando-lhe a altura e dignidade do seu nome. Creio que lhe é devida uma palavra de agradecimento em nome de todos vós e ela aqui está: muito obrigada. Professor Barbosa de Melo!\nMas se esta Assembleia representa o universo dos cidadãos portugueses, há um outro órgão de soberania - esse unipessoal -, que, tendo a mesma legitimidade de-"
+    },
+    {
+      "utterance_id": 31,
+      "order": 31,
+      "page_start": 23,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Barbosa de Melo (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "Sr. Presidente, as minhas primeiras palavras são dirigidas a V. Ex.ª.\n\nAo elegerem o Sr. Dr. Almeida Santos para Presidente da Assembleia da República, e por isso para segunda figura do Estado, os Srs. Deputados não só ilustraram muito esta Câmara como conferiram a Almeida Santos o galardão que desde cedo o destino lhe vinha preparando na carreira das honras públicas.\n\nTribuno de rara eloquência e finura de espírito, mestre exímio da palavra e da escrita, parlamentar e legislador nato, cidadão fiel aos nobres ideais da democracia, da liberdade e do direito, governante ilustre com experiência em vários e diversos governos, político e homem público nas agruras da oposição ao regime autoritário que pôde viver em pleno a hora da libertação do 25 de Abril, Almeida Santos, de agora em diante, será em muitos lances o rosto e voz desta Câmara, garantindo-lhe, com esse seu perfil político de excepcional notariedade e craveira, o prestígio e a aceitabilidade de que a instituição parlamentar carece para cumprir a sua missão nas condições adversas em que por todo o lado se debate a democracia contemporânea.\n\nAo político e cidadão insigne apresento as minhas respeitosas homenagens; ao beirão que soube construir a vida como é próprio da saga portuguesa, trazendo a alma pelo mundo em pedaços repartida, ao companheiro da alma mater\nconinbringense, ao homem e amigo que muito admiro e estimo há tantos anos apresento os meus parabéns e votos dos maiores sucessos e venturas no exercício das altas funções de Estado a que acaba de ascender.\n\nAos Srs. Vice-Presidentes Manuel Alegre, Mota Amaral, João Amaral e, espero em breve, Nuno Abecasis exprimo a minha muita admiração e apresento as mais vivas e amigas felicitações pela sua eleição, congratulando-me com a escolha de todos pelas excepcionais qualidades intelectuais e políticas que exornam as suas personalidades.\n\nAos Srs. Secretários e Vice-Secretários eleitos dirijo os meus parabéns e votos de profícuo trabalho, um trabalho, permitam-me que o diga, que é essencial ao bom andamento da actividade parlamentar.\nSr. Presidente, Srs. Deputados: Agradeço penhorado e comovido as muitas referências amáveis que ao longo destes dias ouvi nesta Câmara. Muito obrigado pela generosidade de todos! Os méritos, se os há, do trabalho realizado pela Mesa da Assembleia da República ao longo desta VI Legislatura que acabou há dias, e a que tive a honra e gosto de ter presidido, são de todos quantos a integraram.\n\nSeria grave injustiça minha não nomear os Vice-Presidentes Leonor Beleza, Correia Afonso, Ferraz de Abreu. José"
+    },
+    {
+      "utterance_id": 32,
+      "order": 32,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Muito obrigado, Sr. Prof. Barbosa de Melo. Se há que falar aqui em gratidão é na de nós para com V. Ex.ª e não o contrário.\n\nPara uma declaração política, tem a palavra o Sr. Deputado Jorge Lacão."
+    },
+    {
+      "utterance_id": 33,
+      "order": 33,
+      "page_start": 24,
+      "speaker": {
+        "id": 718,
+        "name": "Jorge Lacão Costa",
+        "party": "PS",
+        "string": "O Sr. Jorge Lacão (PS)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Sr.\nas\ne Srs. Deputados: \nO Sr. Presidente aceitará que as minhas primeiras palavras sejam também dirigidas, neste momento, ao Sr. Deputado Barbosa de Melo, para dizer, em nome da minha bancada, que se na última Legislatura, apesar da natural controvérsia do debate parlamentar e da circunstância de oposição em que o Partido Socialista se encontrou, o Sr. Presidente da Assembleia da República mereceu sempre o respeito da bancada do PS, o Sr. Deputado Barbosa de Melo é hoje de todos nós credor do maior apreço e da maior consideração.\n\nAo Sr. Presidente, que acaba de ser eleito, ao meu e ao nosso querido amigo Dr. Almeida Santos, quero testemunhar o júbilo natural da bancada do PS e o momento de muito alegria que vivemos, quando sentimos que a representação popular que aqui exprimimos o conduziu ao segundo lugar na hierarquia do Estado.\n\nV. Ex.ª, Sr. Presidente da Assembleia da República, é seguramente para os Deputados do PS - e, estou disso convencido, para o conjunto dos Deputados da Assembleia da República - um testemunho e uma garantia do funcionamento normal das instituições democráticas, da afirmação dos valores profundos da democracia por que sempre combateu e lutou, os valores da liberdade e da justiça. E é seguramente em homenagem a esses valores que todos nós acreditamos que o Presidente da Assembleia da República, Almeida Santos, tudo fará, como aqui nos lembrou com as suas próprias palavras, para garantir o primado do Estado de direito, o princípio fundamental da legalidade democrática, o respeito pela separação e pela interdependência de poderes, a preservação dos direitos fundamentais e, igualmente, as condições de participação parlamentar, para que todos os grupos parlamentares, sem excepção, e para que todos os Deputados, da maioria ou da oposição, encontrem condições democráticas efectivas de participação política na função de representação nacional que aqui os trouxe.\n\nPor isso, Sr. Presidente, ao comungar do júbilo desta bancada, permita-me que lembre, invocando um pouco o espírito de um grande pensador do nosso século, Karl Popper, quando, a propósito do bom cientista, nos disse que ele era aquele que convivia com os problemas, se apaixonava pelos problemas e que com eles mantinha uma relação de felicidade até que um problema maior despertasse a sua atenção ou até à solução definitiva desse mesmo problema.\n\nPermitindo-me parafrasear o mesmo pensamento, o Sr. Presidente, Dr. Almeida Santos, já habituou todos nós a vê-lo ter uma relação de paixão com os problemas fundamentais do País e é com essa relação de paixão que, estou convencido, o Presidente da Assembleia da República inspirará todos os Deputados a que o mandato parlamentar seja por eles plenamente assumido. Que, ao sê-lo, o mandato parlamentar possa exprimir a vivacidade do debate, a divergência das opções políticas, a clareza do pensamento, a dureza - quando for caso disso - da luta democrática entre as oposições, porque tudo isso faz parte do lema que conduzirá a prestigiar o Parlamento. E os três pensamentos que o Sr. Presidente aqui nos deixou permitem-me que invoque também outros três pensamentos\nque, em outra ocasião, deixou à Assembleia: trabalhar pela democracia para mais democracia, para melhor democracia.\n\nBem haja, Sr. Presidente. Conte com o trabalho leal, no plano parlamentar, da bancada da maioria."
+    },
+    {
+      "utterance_id": 34,
+      "order": 34,
+      "page_start": 24,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Muito obrigado, Sr. Deputado Jorge Lacão.\n\nPara uma declaração política, tem a palavra o Sr. Deputado Silva Marques."
+    },
+    {
+      "utterance_id": 35,
+      "order": 35,
+      "page_start": 24,
+      "speaker": {
+        "id": 851,
+        "name": "José Augusto Santos Da Silva Marques",
+        "party": "PSD",
+        "string": "O Sr. Silva Marques (PSD)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: em primeiro lugar, nesta circunstância, os nossos cumprimentos e saudações a todos os grupos parlamentares e a todos os Srs. Deputados, uma palavra de saudação e de agradecimento a todos os membros cessantes da Mesa pela elevação com que desempenharam as suas funções, muito especialmente ao Sr. Deputado Barbosa de"
+    },
+    {
+      "utterance_id": 36,
+      "order": 36,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Muito obrigado eu, Sr. Deputado. Para uma declaração política, tem agora a palavra o Sr. Deputado Octávio Teixeira."
+    },
+    {
+      "utterance_id": 37,
+      "order": 37,
+      "page_start": 25,
+      "speaker": {
+        "id": 549,
+        "name": "Octávio Augusto Teixeira",
+        "party": "PCP",
+        "string": "O Sr. Octávio Teixeira (PCP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, gostaria de cumprimentá-lo e saudá-lo, em nome do Grupo Parlamentar do Partido Comunista Português, pela sua eleição para Presidente da Mesa da Assembleia da República e desejar-lhe êxito no exercício das funções que passa a desempenhar.\n\nPermita-se, Sr. Presidente, que, igualmente, saúde e cumprimente todos os restantes elementos da Mesa que foram eleitos e bem assim o Sr. Deputado Barbosa de Melo, que, há pouco, deixou as funções de Presidente da Assembleia da República, que bem soube cumprir durante os últimos quatro anos.\n\nO Sr. Presidente entendeu por bem apresentar os três pontos do seu programa. Não será a altura de os discutirmos em pormenor, mas se o Sr. Presidente me permite, gostaria de, neste momento, dizer que pode o Sr. Presidente da Assembleia da República contar com o Grupo Parlamentar do Partido Comunista Português para conseguir levar a efeito o cumprimento desse programa, com os princípios que, há pouco, foram enunciados, que pode contar com o Grupo Parlamentar do Partido Comunista Português para participar activamente na dignificação e na melhoria da eficácia da actividade parlamentar. Pode V. Ex.ª, Sr. Presidente da Assembleia da República, contar com a iniciativa e com o empenhamento do Grupo Parlamentar do Partido Comunista Português para eliminar eventuais resquícios que ainda existam e que conduziram a uma acentuada menorização da vida e da actividade da Assembleia da República; pode contar com esse mesmo empenhamento e com essa mesma iniciativa do Grupo Parlamentar do Partido Comunista Português para devolver à Assembleia da República o seu papel insubstituível de legislador por excelência, como fiscalizador efectivo da actividade governativa; finalmente, Sr. Presidente, como dever que intente a Assembleia da República de se manter como a sede institucional para o debate político e institucional, pode V. Ex.ª, Sr. Presidente, contar pessoalmente com a transparência e com a lealdade do Partido Comunista Português nas relações com o Presidente da Assembleia da República e com a Mesa.\n\nPara terminar, permita-me, Sr. Presidente, que manifeste também aos restantes grupos parlamentares que podem contar com a transparência e a lealdade nas relações institucionais do Grupo Parlamentar do Partido Comunista Português, sem prejuízo de claramente afirmarmos, sempre que entendermos ser necessário, as divergências e as diferenças de opiniões políticas que tenhamos em todos os debates e de um modo geral na nossa vida na Assembleia da República.\n\nSr. Presidente, mais uma vez, os nossos cumprimentos e saudações."
+    },
+    {
+      "utterance_id": 38,
+      "order": 38,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Muito obrigado, Sr. Deputado Octávio Teixeira.\n\nTem a palavra o Sr. Deputado António Lobo Xavier."
+    },
+    {
+      "utterance_id": 39,
+      "order": 39,
+      "page_start": 25,
+      "speaker": {
+        "id": 601,
+        "name": "António Bernardo Aranha Da Gama Lobo Xavier",
+        "party": "CDS-PP",
+        "string": "O Sr. António Lobo Xavier (CDS-PP)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, Srs. Deputados: A VII Legislatura está a iniciar-se e nós rearrumamos os cargos e as funções desta Casa o que é sempre uma tarefa gratificante. Mesmo hoje o meu grupo parlamentar elegeu o seu presidente, o meu colega de bancada Deputado Jorge Ferreira, que aqui cumprimento em nome de toda a bancada, o qual, generosamente, me entregou a tarefa de endereçar saudações ao Sr. Presidente, ao Sr. Presidente em exercício, e ao Presidente da Assembleia da República cessante.\n\nE digo, generosamente, porque para mim é um gosto enorme, pela consideração e apreço que tenho pelas duas personalidades a quem hoje são merecidos e dirigidos estes cumprimentos. Como lhes digo com muito gosto o faço.\n\nAo Sr. Presidente da Assembleia da República digo que temos em relação a si uma esperança muito exigente e essa esperança é a de que seja um Presidente da Assembleia da República à medida das circunstâncias políticas que estão por detrás desta VII Legislatura. Do ponto de vista da minha bancada, tem V. Ex.ª em abundância as qualidades essenciais para cumprir esta esperança. Não lhe falta inteligência; não lhe falta capacidade de tolerância; não lhe falta a capacidade - conhecida aliás - para gerar harmonias e tem também uma profunda compreensão do estatuto da oposição e dos problemas da oposição parlamentar. Esperamos que neste quadro legislativo o Sr. Presidente use todas essas qualidades para que possamos um dia apresentar-lhe cumprimentos tão gratos quanto a esperança que hoje nos anima.\n\nAo Sr. Deputado Barbosa de Melo, presidente cessante, queria dizer também algumas palavras. Palavras pessoais deixo-as para outra ocasião, embora os laços pessoais que nos ligam levem ou tentem a palavra para outro tipo de elogios e de referências. Por outro\nlado, também os cânones e as regras universitárias, que conhecemos, desaconselham elogios feitos por quem não tem honras para dar, o que me desqualifica evidentemente. Dir-lhe-ia. apesar de tudo, apesar de todas essas limitações, que, do ponto de vista da minha bancada, o Sr. Deputado Barbosa de Melo como Presidente da Assembleia da República a quem se pedia igualmente um grande serviço, um serviço prestado exactamente nas circunstâncias políticas opostas, cumpriu rigorosamente tudo aquilo que de si esperávamos. Pessoalmente não tinha dúvidas de que as coisas assim aconteceriam e devo dizer que a sua passagem pela Câmara deixou marca, o que é no fundo aquilo que todos nós aspiramos."
+    },
+    {
+      "utterance_id": 40,
+      "order": 40,
+      "page_start": 25,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Muito obrigado, Sr. Deputado António Lobo Xavier."
+    },
+    {
+      "utterance_id": 41,
+      "order": 41,
+      "page_start": 26,
+      "speaker": {
+        "id": 1259,
+        "name": "Isabel Maria De Almeida E Castro",
+        "party": "PEV",
+        "string": "A Sr.ª Isabel Castro (Os Verdes)",
+        "role": null
+      },
+      "speaker_is_generic": false,
+      "text": "Sr. Presidente, em nome do Grupo Parlamentar do Partido Ecologista Os Verdes, gostaria de saudar, gostosamente, o novo presidente eleito e a Mesa. É nossa convicção que é importante também neste momento prestigiar o Parlamento, o que, para nós, terá de ser sinónimo de o aproximar efectivamente daqueles que nos elegeram, torná-lo eficaz, não uma caixa de ressonância, mas o espaço de debate, o espaço da discussão política, um espaço onde a diversidade, qualquer que ela seja, encontre expressão e direito de expressão. É nossa convicção que o prestígio do Parlamento se fará assim; é nossa convicção que o envolvimento e o respeito pelos trabalhadores desta Assembleia também será feito em diálogo e na concretização do diálogo que eles justamente aspiram. Penso, que é em função disso que esta Assembleia conseguirá voltar a encontrar nos portugueses o espaço onde se revêem na pluralidade, na diversidade, no puzzle de que a sociedade portuguesa é feita. Por isso, queria saudar toda a Mesa, queria saudar todos os grupos parlamentares aqui representados.\n\nAo Professor Barbosa de Melo, que cessou hoje as suas funções, não queria deixar de exprimir a nossa opinião de que, apesar das grandes divergências que naturalmente nos diferenciam, exerceu com dignidade o cargo institucional e teve um exercício extremamente digno. Aliás, penso que a própria simpatia com que a relação sempre se desenvolveu não é uma questão indiferente mas uma questão importante na relação de pessoas que partilham o mesmo espaço e que têm de o gerir em conjunto. Ora, para essa concertação de vontades diferentes, que têm de ordenar territórios, não me parece indiferente a forma cordata como esse exercício foi feito."
+    },
+    {
+      "utterance_id": 42,
+      "order": 42,
+      "page_start": 26,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "O Sr. Presidente",
+        "role": "president"
+      },
+      "speaker_is_generic": true,
+      "text": "Muito obrigado, Sr.ª Deputada Isabel Castro.\n\nSrs. Deputados, se a vossa votação no Presidente da Assembleia da República já de si era responsabilizante, as vossas palavras são-no muito mais e eu começo a sentir o peso dessa responsabilidade porque foram ditas aqui coisas tão cativantes a meu respeito, nomeadamente pelo meu querido amigo, Professor Barbosa de Melo, a quem, ao ouvir, imaginava que era eu que estava a dizer essas coisas acerca dele. Saio daqui sob o peso dessa terrível responsabilidade, porventura, não serei capaz de estar à altura de tal confiança depositada em mim, tentarei, farei o meu melhor mas tenho a vaga ideia de que não sou tão bom quanto resultou da vossa apreciação.\n\nDo Sr. Deputado Jorge Lacão, de um camarada de partido não era de esperar outra coisa a não ser uma palavra amável mas acontece que retribuo com vantagem a simpatia e a amizade que expressou nas suas palavras. Creio que o Partido Socialista me consente e até me estimula a que daqui para diante me esqueça de que tenho um partido, sobretudo quando estiver sentado neste lugar - lá fora é outra coisa - para poder garantir a tal equidistância a que me referia há pouco. Tentarei, nesse aspecto, não falhar.\n\nCreia também que essa paixão pelos problemas que referiu e que é verdade, sobretudo pelos problemas do Estado de direito, da democracia política, dos direitos fundamentais, desses valores porque me bati toda a minha vida, vão continuar a ser defendidos e a serem as minhas estrelas polares até ao fim da minha vida.\n\nO Sr. Deputado Silva Marques teve a amabilidade de declarar que tinham confiança em mim e vou tentar merecer essa confiança fazendo o possível para que isso aconteça. Muito obrigado pelas suas palavras.\n\nO Sr. Deputado Octávio Teixeira realçou o facto de que está convencido de que esta Assembleia vai exercer uma efectiva fiscalização sobre o executivo e quero dizer-lhe que também é minha ideia que estão reunidas as condições para que essa fiscalização possa ser mais efectiva. O Governo, que aproveito para saudar, nomeadamente o seu Primeiro-Ministro de quem sou particular amigo, sabe que pode contar com a nossa cooperação institucional mas também com a nossa exigência crítica. Ele sabe isso e creio até que ficaria desiludido se nós não nos comportássemos em termos dessa exigência.\n\nO Sr. Deputado António Lobo Xavier (aproveito para felicitar o Sr. Deputado Jorge Ferreira por ter sido eleito para líder da bancada do Partido Popular, que é uma tarefa também nobilitante, nada fácil, mas creio que estará à altura dela) falou na minha tolerância, na minha capacidade de gerar harmonias. Tudo isso é um pouco verdade e creio que no transcurso da minha vida fui construindo uma personalidade que não está muito fora da tolerância, da compreensão e da preocupação de gerar consensos e harmonias. Onde não for possível, contam-se os votos pois essa é a regra da democracia - ganha quem ganha, perde quem perde - mas, de facto, se for possível estarmos de acordo num momento prévio à contagem dos votos não tenho a menor dúvida de que tentarei sempre esse consenso e esse acordo. Acho que o estatuto da oposição tem de ser convalidado, actualizado, reforçado no mínimo, para o pôr de acordo com a actual Constituição mas a iniciativa legislativa compete aos Srs. Deputados não a mim.\n\nSr.ª Deputada Isabel Castro, muito obrigado pelas suas palavras, sabe que também sou um bocado \"Verde\" por dentro embora não pareça por fora. Conte com a minha verdura interior, não em idade porque essa já a não a tenho, mas em convicções.\n\nMuito obrigado a todos.\n\nSrs. Deputados, creio que estarão reunidas as condições para a proclamação dos resultados. Vamos proceder a essa proclamação após o que faríamos a tal breve Conferência dos Representantes dos Grupos Parlamentares apenas para nos pronunciarmos sobre a continuação dos trabalhos.\n\nSrs. Deputados, a acta é do seguinte teor:\nAos 31 dias do mês de Outubro de 1995 procedeu-se, nos termos do n.º 4 do artigo 23.º do Regimento, à eleição de um Vice-Presidente e de um Secretário da Mesa da Assembleia da República para a VII Legislatura, sendo apurados os seguintes resultados:\nVotantes - 214 Deputados.\n\nVice-Presidente: Nuno Krus Abecasis - sim - 104; não - 80; abstenções - 30.\n\nSecretário: Maria Helena P. Nogueira Santo - sim - 106; não - 82; abstenções - 26.\n\nPara constar se lavrou a presente acta que vai ser devidamente assinada.\nSrs. Deputados, lamento ter de proclamar como não eleitos os dois candidatos do CDS-PP.\n\nPoderíamos repetir uma vez mais a votação, mas como já vejo algumas clareiras nas bancadas será maior o risco de não serem eleitos os candidatos, de qualquer modo, cabe ao CDS-PP a última palavra. Se assim o entenderem,"
+    },
+    {
+      "utterance_id": 43,
+      "order": 43,
+      "page_start": 27,
+      "speaker": {
+        "id": -1,
+        "name": "N/A",
+        "party": "N/A",
+        "string": "Abstenção",
+        "role": null
+      },
+      "speaker_is_generic": true,
+      "text": "10\n\nFace aos resultados e de acordo com a Lei Orgânica da Assembleia da República, consideram-se eleitos para o referido Conselho de Administração todos os candidatos efectivos e suplentes.\n\nPara que conste se lavrou a presente acta, que vai ser devidamente assinada.\n\nSrs. Deputados, face aos resultados acabados de anunciar, proclamo eleitos, para o Conselho de Administração, os seguintes Srs. Deputados:\n\nEfectivos:\n\nRui do Nascimento Rabaça Vieira (PS), José Augusto Santos da Silva Marques (PSD), Gonçalo Filipe Ribas Ribeiro da Costa (CDS-PP), António Filipe Gaião Rodrigues (PCP), Heloísa Augusta Baião de Brito Apolónia (Os Verdes).\n\nSuplentes:\n\nJoel Eduardo Neves Hasse Ferreira (PS), Francisco Antunes da Silva (PSD), Luís Afonso Cortez Rodrigues Queiró (CDS-PP), António João Rodeia Machado (PCP), Isabel Maria de Almeida e Castro (Os Verdes).\nSrs. Deputados, antes de dar por finalizados os trabalhos de hoje, ponho ainda à consideração da Câmara o seguinte projecto de resolução:\n\nA Assembleia da República resolve, nos termos dos artigos 132.º, n.º 1, 166.º, alínea b), e 169.º, n.º 5, da Constituição, dar assentimento à viagem de carácter oficial de Sua Excelência o Presidente da República a Israel e à faixa de Gaza de 31 de Outubro a 5 de Novembro do corrente ano.\nSubmetido à votação, foi aprovado por unanimidade.\nSrs. Deputados, não havendo mais pedidos de palavra e se estiverem de acordo, dou por findos os nossos trabalhos de hoje. Posteriormente, serão notificados da data da próxima reunião plenária, que será objecto da Conferência dos Representantes dos Grupos Parlamentares que se vai realizar em seguida.\nEstá encerrada a sessão."
+    }
+  ]
+}
