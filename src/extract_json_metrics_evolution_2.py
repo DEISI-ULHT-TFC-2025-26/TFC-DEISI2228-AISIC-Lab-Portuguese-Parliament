@@ -101,21 +101,46 @@ def build_box_stats(values):
             "p90": 0,
             "max": 0,
             "mean": 0,
-            "std": 0
+            "std": 0,
+            "iqr": 0,
+            "lower_fence": 0,
+            "upper_fence": 0,
+            "whisker_low": 0,
+            "whisker_high": 0
         }
 
     values_sorted = sorted(values)
 
+    q1 = percentile(values_sorted, 25)
+    median = percentile(values_sorted, 50)
+    q3 = percentile(values_sorted, 75)
+    p90 = percentile(values_sorted, 90)
+    iqr = q3 - q1
+
+    lower_fence = q1 - 1.5 * iqr
+    upper_fence = q3 + 1.5 * iqr
+
+    whisker_candidates_low = [v for v in values_sorted if v >= lower_fence]
+    whisker_candidates_high = [v for v in values_sorted if v <= upper_fence]
+
+    whisker_low = min(whisker_candidates_low) if whisker_candidates_low else values_sorted[0]
+    whisker_high = max(whisker_candidates_high) if whisker_candidates_high else values_sorted[-1]
+
     return {
         "count": len(values_sorted),
         "min": values_sorted[0],
-        "q1": percentile(values_sorted, 25),
-        "median": percentile(values_sorted, 50),
-        "q3": percentile(values_sorted, 75),
-        "p90": percentile(values_sorted, 90),
+        "q1": q1,
+        "median": median,
+        "q3": q3,
+        "p90": p90,
         "max": values_sorted[-1],
         "mean": safe_mean(values_sorted),
-        "std": safe_std(values_sorted)
+        "std": safe_std(values_sorted),
+        "iqr": iqr,
+        "lower_fence": lower_fence,
+        "upper_fence": upper_fence,
+        "whisker_low": whisker_low,
+        "whisker_high": whisker_high
     }
 
 
@@ -134,7 +159,6 @@ def main():
         "total_words": 0,
     }
 
-    role_counter = Counter()
     speaker_counter = Counter()
     party_counter = Counter()
     party_counter_without_president = Counter()
@@ -158,11 +182,16 @@ def main():
     utterances_per_file_values = []
     words_per_file_values = []
 
+    unique_speakers_by_leg_session = defaultdict(list)
+    unique_speakers_by_debate = {}
+
     for file in json_files:
         data = load_json_file(file)
 
         debate_meta = data.get("debate_meta", {})
         legislature = str(debate_meta.get("legislature", "UNKNOWN_LEGISLATURE"))
+        legislative_session = str(debate_meta.get("legislative_session", "UNKNOWN_SESSION"))
+        leg_session_key = f"legislature_{legislature}_session_{legislative_session}"
 
         utterances = data.get("utterances", [])
         words_per_utt = []
@@ -189,7 +218,6 @@ def main():
             speaker_counter[speaker] += 1
 
             file_role_counter[role] += 1
-            role_counter[role] += 1
 
             file_party_counter[party] += 1
             party_counter[party] += 1
@@ -253,6 +281,7 @@ def main():
 
         per_file_metrics[file.name] = {
             "legislature": legislature,
+            "legislative_session": legislative_session,
             "utterances": total_utts,
             "words": total_words,
             "unique_speakers": unique_speakers,
@@ -270,7 +299,6 @@ def main():
             "top3_party_dominance_without_president": top3_party_without_president,
             "parties": sorted_counter_dict(file_party_counter),
             "parties_without_president": sorted_counter_dict(file_party_counter_without_president),
-            "roles": sorted_counter_dict(file_role_counter)
         }
 
         global_stats["total_files"] += 1
@@ -291,10 +319,14 @@ def main():
         utterances_per_file_values.append(total_utts)
         words_per_file_values.append(total_words)
 
+        unique_speakers_by_leg_session[leg_session_key].append(unique_speakers)
+        unique_speakers_by_debate[file.name] = build_box_stats([unique_speakers])
+
     now = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
     transitions_by_legislature_output = {}
-    for leg, counter_obj in transitions_by_legislature.items():
+    for leg in sorted(transitions_by_legislature.keys(), key=lambda x: int(x) if x.isdigit() else x):
+        counter_obj = transitions_by_legislature[leg]
         ordered = sorted(counter_obj.items(), key=lambda x: x[1], reverse=True)
         transitions_by_legislature_output[leg] = {
             f"{k[0]} -> {k[1]}": v for k, v in ordered
@@ -316,14 +348,17 @@ def main():
             "avg_top1_party_dominance_without_president": safe_mean(top1_party_dominance_without_president_values),
             "avg_top3_party_dominance_without_president": safe_mean(top3_party_dominance_without_president_values)
         },
-        "roles": sorted_counter_dict(role_counter),
         "top_speakers": dict(speaker_counter.most_common(20)),
+        "all_speakers": sorted_counter_dict(speaker_counter),
         "party_metrics": {
             "full": sorted_counter_dict(party_counter),
             "without_president": sorted_counter_dict(party_counter_without_president)
         },
         "transitions": {
-            "global": {f"{k[0]} -> {k[1]}": v for k, v in sorted(transition_counter.items(), key=lambda x: x[1], reverse=True)},
+            "global": {
+                f"{k[0]} -> {k[1]}": v
+                for k, v in sorted(transition_counter.items(), key=lambda x: x[1], reverse=True)
+            },
             "by_legislature": transitions_by_legislature_output
         },
         "per_file": per_file_metrics
@@ -332,19 +367,14 @@ def main():
     boxplot_output = {
         "generated_at": now,
         "boxplot_metrics": {
-            "utterances_per_file": build_box_stats(utterances_per_file_values),
-            "words_per_file": build_box_stats(words_per_file_values),
-            "avg_words_per_utterance": build_box_stats(avg_words_per_utterance_values),
-            "unique_speakers_per_file": build_box_stats(unique_speakers_counts),
-            "alternation_rate": build_box_stats(alternation_rates),
-            "avg_block_length": build_box_stats(all_block_lengths),
-            "same_speaker_follow_rate": build_box_stats(same_speaker_follow_rates),
-            "top1_dominance": build_box_stats(top1_dominance_values),
-            "top3_dominance": build_box_stats(top3_dominance_values),
-            "top1_party_dominance": build_box_stats(top1_party_dominance_values),
-            "top3_party_dominance": build_box_stats(top3_party_dominance_values),
-            "top1_party_dominance_without_president": build_box_stats(top1_party_dominance_without_president_values),
-            "top3_party_dominance_without_president": build_box_stats(top3_party_dominance_without_president_values)
+            "unique_speakers": {
+                "all_debates": build_box_stats(unique_speakers_counts),
+                "by_legislature_session": {
+                    key: build_box_stats(values)
+                    for key, values in sorted(unique_speakers_by_leg_session.items())
+                },
+                "by_debate": unique_speakers_by_debate
+            }
         }
     }
 
