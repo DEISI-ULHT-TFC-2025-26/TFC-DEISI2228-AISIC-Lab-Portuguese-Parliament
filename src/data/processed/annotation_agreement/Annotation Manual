@@ -1,0 +1,584 @@
+
+
+## Manual de Anotação
+
+### Corpus de Debates Parlamentares Portugueses
+
+### Esquema JSON: `utterance_id`, `speaker`, `target`, `text`
+
+## 1. Objetivo
+
+Este manual define as regras para anotar transcrições do Parlamento Português, convertendo cada intervenção num objeto JSON com quatro campos obrigatórios:
+
+* `utterance_id`
+* `speaker`
+* `target`
+* `text`
+
+O objetivo é garantir:
+
+* consistência entre anotadores;
+* redução de subjetividade;
+* reprodutibilidade da anotação;
+* compatibilidade com processamento automático posterior.
+
+A anotação deve refletir **quem fala**, **a quem se dirige efetivamente** e **o conteúdo textual exato da intervenção**, preservando a fidelidade ao corpus.
+
+
+
+## 2. Unidade de anotação
+
+A unidade de anotação é a **intervenção individual**.
+
+Cada intervenção corresponde a um segmento textual atribuído a um único orador, tal como surge na transcrição parlamentar.
+
+### Regra geral
+
+Sempre que a transcrição introduz um novo orador, cria-se uma nova unidade.
+
+### Incluem-se como unidades autónomas
+
+* intervenções longas;
+* perguntas e respostas;
+* apartes curtos;
+* exclamações como “Muito bem!” ou “Apoiado!”;
+* intervenções do Presidente.
+
+### Não se dividem artificialmente
+
+Não fragmentar uma intervenção longa em várias unidades, exceto se a própria transcrição introduzir formalmente novo orador.
+
+
+
+## 3. Formato de saída
+
+A saída deve ser **apenas um array JSON válido**.
+
+Cada elemento do array deve seguir esta estrutura:
+
+```json
+{
+  "utterance_id": 1,
+  "speaker": "Nome do orador",
+  "target": "Nome do destinatário ou Assembleia",
+  "text": "Texto integral da intervenção"
+}
+```
+
+### Restrições formais
+
+* Sem Markdown.
+* Sem comentários.
+* Sem texto explicativo fora do JSON.
+* Um objeto por intervenção.
+* `utterance_id` deve ser sequencial e único dentro de cada debate.
+
+
+
+## 4. Definição dos campos
+
+## 4.1. `utterance_id`
+
+Identificador numérico sequencial da intervenção no debate.
+
+### Regras
+
+* começa em 1;
+* incrementa de 1 em 1;
+* segue a ordem em que as intervenções aparecem na transcrição;
+* nunca repetir nem saltar sem motivo.
+
+
+
+## 4.2. `speaker`
+
+Corresponde ao **orador da intervenção**, normalizado segundo as regras abaixo.
+
+### 4.2.1. Normalização do nome do orador
+
+Remover títulos e fórmulas protocolares, incluindo:
+
+* “O Sr.”
+* “A Sr.ª”
+* “Sr.”
+* “Sr.ª”
+* “Eng.”
+* “Dr.”
+* “Deputado”
+* “Deputada”
+
+### Exemplos
+
+* `O Sr. Deputado João Silva:` → `João Silva`
+* `A Sr.ª Dr.ª Maria Lopes:` → `Maria Lopes`
+
+### 4.2.2. Presidente da mesa
+
+Sempre que a intervenção seja do Presidente da mesa, usar:
+
+* `Presidente`
+
+Não usar variantes como:
+
+* “O Sr. Presidente”
+* “A Sr.ª Presidente”
+* nome próprio do Presidente
+
+### 4.2.3. Vozes coletivas
+
+Normalizar formas coletivas da seguinte forma:
+
+* `Vozes do PS` → `Vozes PS`
+* `Vozes do PSD` → `Vozes PSD`
+* `Várias vozes` → `Vozes`
+
+### 4.2.4. Orador não identificável
+
+Se o orador não puder ser identificado com segurança:
+
+* `UNKNOWN_SPEAKER`
+
+### 4.2.5. Consistência global
+
+O mesmo orador deve aparecer sempre com o mesmo nome ao longo de todo o dataset.
+
+Exemplo:
+
+* não alternar entre `João Silva`, `João M. Silva` e `Deputado João Silva`;
+* escolher uma forma canónica e mantê-la.
+
+
+
+## 4.3. `target`
+
+Corresponde ao **destinatário efetivo da intervenção**, isto é, a pessoa para quem o enunciado é dirigido no plano interacional, e não simplesmente mencionada.
+
+Este é o campo mais sensível da anotação.
+
+
+
+## 5. Regra central de anotação do `target`
+
+A anotação do destinatário deve seguir **obrigatoriamente** esta hierarquia, por ordem.
+
+## Regra 1. Interrogação, desafio ou ataque direto a indivíduo
+
+Se o orador:
+
+* faz uma pergunta direta,
+* exige resposta,
+* rebate um argumento,
+* interpela politicamente,
+* acusa ou contesta
+
+e isso é dirigido a **uma pessoa específica**, então:
+
+* `target = nome ou cargo dessa pessoa`
+
+### Exemplos
+
+* “Queria perguntar ao Sr. Deputado Manuel Costa…” → `Manuel Costa`
+* “Sr. Ministro das Finanças, explique ao País…” → `Ministro das Finanças`
+
+## Regra 2. Aparte de apoio ou crítica
+
+Se a intervenção for um aparte curto, como:
+
+* “Muito bem!”
+* “Apoiado!”
+* “Muito mal!”
+* “Protestos!”
+
+então:
+
+* `target = orador da intervenção imediatamente anterior`
+
+Isto aplica-se mesmo que o aparte não mencione explicitamente o destinatário.
+
+## Regra 3. Presidente a gerir a mesa
+
+Quando o Presidente intervém para:
+
+* dar a palavra;
+* pedir silêncio;
+* organizar tempos;
+* ordenar trabalhos;
+* controlar a sala;
+
+então:
+
+* `target = Assembleia`
+
+## Regra 4. Fallback universal
+
+Se não existir um destinatário individual claro e diretamente interpelado:
+
+* `target = Assembleia`
+
+Esta é a regra de segurança.
+Na dúvida razoável, usar `Assembleia`.
+
+
+
+## 6. Proibições absolutas no `target`
+
+Nunca usar:
+
+* nomes de partidos como destinatário;
+* descrições vagas;
+* frases explicativas;
+* o próprio orador como destinatário da sua intervenção.
+
+### Portanto, é proibido usar
+
+* `PS`
+* `PSD`
+* `Governo` como fórmula vaga, se não houver interpelação individual clara
+* `bancada do PS`
+* `deputados da oposição`
+* `orador anterior`
+* `público`
+* `todos`
+* `si próprio`
+
+### Regra partidária
+
+Se o discurso se dirige a um partido no seu conjunto, e não a uma pessoa específica:
+
+* `target = Assembleia`
+
+
+
+## 7. Regras interpretativas essenciais
+
+## 7.1. Regra do falso Presidente
+
+Em muitos debates, o orador começa por dizer:
+
+* “Sr. Presidente,”
+
+mas a intervenção substantiva pode estar dirigida a outra pessoa.
+
+### Instrução
+
+Não assumes automaticamente que o destinatário é o Presidente só porque essa fórmula aparece no início.
+
+É obrigatório ler a substância da intervenção.
+
+### Exemplo
+
+“Sr. Presidente, queria perguntar ao Sr. Ministro das Finanças…”
+→ `target = Ministro das Finanças`
+
+e não `Presidente`.
+
+
+
+## 7.2. Regra de ouro: mencionar não é endereçar
+
+Referir uma pessoa não significa que a intervenção lhe seja dirigida.
+
+Uma pessoa **não é destinatária** se apenas:
+
+* é mencionada em terceira pessoa;
+* é elogiada;
+* é criticada indiretamente;
+* aparece num documento lido;
+* é citada como exemplo.
+
+### Exemplos
+
+* “O Dr. X escreveu um relatório importante.” → `Assembleia`
+* “O deputado Y já tinha alertado para isto.” → `Assembleia`
+
+Só há destinatário individual se houver interpelação real.
+
+
+
+## 7.3. Distinção entre destinatário e tema
+
+O tema da intervenção não é necessariamente o destinatário.
+
+### Exemplo
+
+“Quero falar sobre a atuação do Governo.”
+Se não houver interpelação individual clara → `Assembleia`
+
+
+
+## 8. Campo `text`
+
+O campo `text` deve preservar o conteúdo textual da intervenção com máxima fidelidade.
+
+### Regras
+
+* manter o texto integral;
+* não resumir;
+* não reescrever;
+* não corrigir estilo;
+* não modernizar ortografia;
+* não interpretar.
+
+### Remover apenas
+
+Notas editoriais entre parênteses retos, por exemplo:
+
+* `[Aplausos]`
+* `[Risos]`
+* `[Protestos]`
+
+### Manter
+
+* pontuação original, sempre que possível;
+* fórmulas de tratamento presentes no corpo do discurso;
+* conteúdo verbal completo.
+
+### Normalização mínima
+
+* remover quebras de linha excessivas;
+* unir texto quebrado em múltiplas linhas quando pertencente à mesma intervenção;
+* evitar espaços redundantes.
+
+### Apartes
+
+Apartes devem ser mantidos exatamente como aparecem.
+
+Exemplo:
+
+* `Muito bem!`
+* `Apoiado!`
+
+
+
+## 9. Procedimento operacional de anotação
+
+Para cada intervenção, seguir esta sequência:
+
+### Passo 1
+
+Identificar os limites da intervenção.
+
+### Passo 2
+
+Atribuir `utterance_id` pela ordem textual.
+
+### Passo 3
+
+Identificar e normalizar o `speaker`.
+
+### Passo 4
+
+Ler a intervenção completa antes de decidir o `target`.
+
+### Passo 5
+
+Aplicar a hierarquia de decisão do `target`:
+
+1. interpelação individual direta;
+2. aparte para orador anterior;
+3. Presidente a gerir mesa;
+4. fallback para `Assembleia`.
+
+### Passo 6
+
+Limpar o `text` apenas do estritamente permitido:
+
+* remover notas editoriais entre colchetes;
+* reduzir quebras excessivas.
+
+### Passo 7
+
+Validar consistência final.
+
+
+
+## 10. Casos-limite e desempate
+
+## 10.1. Pergunta indireta mas claramente dirigida
+
+Se a pergunta não usa vocativo explícito, mas o contexto mostra claramente a quem responde ou interpela, usar esse destinatário individual.
+
+## 10.2. Crítica genérica à bancada ou ao partido
+
+Se a crítica for coletiva e não pessoal:
+
+* `Assembleia`
+
+## 10.3. Intervenção do Presidente a conceder a palavra
+
+Mesmo que mencione um deputado:
+
+* `speaker = Presidente`
+* `target = Assembleia`
+
+Exemplo:
+“Tem a palavra o Sr. Deputado João Silva.”
+O destinatário funcional continua a ser a assembleia em geral.
+
+## 10.4. Aparte depois de uma intervenção coletiva
+
+Se o aparte recai sobre uma intervenção imediatamente anterior com orador identificável, usar esse orador.
+Se a intervenção anterior for coletiva ou ambígua e não houver identificação robusta, usar:
+
+* `Assembleia`
+
+## 10.5. Orador dirige-se ao Governo sem individualização
+
+Se não houver pessoa/cargo individual concreto:
+
+* `Assembleia`
+
+## 10.6. Texto com múltiplos nomes próprios
+
+Escolher como `target` apenas a pessoa efetivamente interpelada, não todas as pessoas mencionadas.
+
+## 10.7. Intervenção autocentrada
+
+Um orador nunca é destinatário de si próprio.
+Na ausência de outro destinatário:
+
+* `Assembleia`
+
+
+
+## 11. Regras de consistência interanotador
+
+Todos os anotadores devem aplicar as mesmas convenções:
+
+* mesmo nome normalizado para o mesmo orador;
+* mesmo critério para apartes;
+* mesmo fallback para `Assembleia`;
+* mesma distinção entre mencionar e endereçar;
+* mesma política de limpeza textual.
+
+Sempre que haja dúvida:
+
+* preferir a solução mais conservadora;
+* evitar inferência excessiva;
+* usar `Assembleia` em vez de inventar um destinatário individual.
+
+
+
+## 12. Controlo de qualidade
+
+Antes de considerar a anotação concluída, verificar:
+
+### Sobre `speaker`
+
+* foi removido o título?
+* a forma do nome está consistente?
+* “Presidente” foi normalizado corretamente?
+* casos ininteligíveis estão como `UNKNOWN_SPEAKER`?
+
+### Sobre `target`
+
+* é uma pessoa realmente interpelada, e não apenas mencionada?
+* evitaste usar partidos como destinatário?
+* um aparte foi ligado ao orador imediatamente anterior?
+* em caso de dúvida, usaste `Assembleia`?
+
+### Sobre `text`
+
+* o texto está integral?
+* removeste apenas notas editoriais entre colchetes?
+* mantiveste apartes como unidades autónomas?
+* eliminaste quebras de linha excessivas?
+
+### Sobre o JSON
+
+* array válido?
+* ids sequenciais?
+* sem comentários?
+* sem texto extra?
+
+
+
+## 13. Exemplo anotado
+
+### Input
+
+O Sr. Presidente: - Tem a palavra o Sr. Deputado João Silva.
+O Sr. João Silva (PS): - Sr. Presidente, Srs. Deputados. Queria perguntar ao Sr. Deputado Manuel Costa se acha normal o tempo de espera. [Aplausos do PS]
+O Sr. Manuel Costa (PSD): - O Sr. Deputado sabe que a culpa é do seu partido!
+O Sr. João Pinho de Almeida: - Muito bem!
+O Sr. Presidente: - Srs. Deputados, peço silêncio.
+
+### Output
+
+```json
+[
+  {
+    "utterance_id": 1,
+    "speaker": "Presidente",
+    "target": "Assembleia",
+    "text": "Tem a palavra o Sr. Deputado João Silva."
+  },
+  {
+    "utterance_id": 2,
+    "speaker": "João Silva",
+    "target": "Manuel Costa",
+    "text": "Sr. Presidente, Srs. Deputados. Queria perguntar ao Sr. Deputado Manuel Costa se acha normal o tempo de espera."
+  },
+  {
+    "utterance_id": 3,
+    "speaker": "Manuel Costa",
+    "target": "João Silva",
+    "text": "O Sr. Deputado sabe que a culpa é do seu partido!"
+  },
+  {
+    "utterance_id": 4,
+    "speaker": "João Pinho de Almeida",
+    "target": "Manuel Costa",
+    "text": "Muito bem!"
+  },
+  {
+    "utterance_id": 5,
+    "speaker": "Presidente",
+    "target": "Assembleia",
+    "text": "Srs. Deputados, peço silêncio."
+  }
+]
+```
+
+
+
+## 14. Formulação curta para memória operacional dos anotadores
+
+Ao anotar cada intervenção, decidir:
+
+* Quem é o orador?
+* A intervenção dirige-se claramente a uma pessoa?
+* Se for aparte, a quem responde?
+* Se não houver destinatário individual inequívoco, usar `Assembleia`.
+* Preservar o texto integral, removendo só notas editoriais entre colchetes.
+
+
+
+## 15. Versão normativa resumida
+
+### `speaker`
+
+* normalizar nome;
+* remover títulos;
+* Presidente = `Presidente`;
+* vozes coletivas normalizadas;
+* desconhecido = `UNKNOWN_SPEAKER`.
+
+### `target`
+
+* pessoa diretamente interpelada → nome/cargo;
+* aparte → orador anterior;
+* Presidente a gerir mesa → `Assembleia`;
+* sem destinatário individual claro → `Assembleia`;
+* nunca usar partido;
+* mencionar não é endereçar;
+* nunca o próprio orador.
+
+### `text`
+
+* integral e exato;
+* sem resumo;
+* remover apenas notas editoriais em colchetes;
+* apartes em unidade própria.
+
+

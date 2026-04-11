@@ -1,0 +1,181 @@
+THREE-WAY ANNOTATION AGREEMENT REPORT
+Date: 2026-04-10
+Time: 02:35:53
+
+
+Files requested for analysis: 5
+ - 03-2-073.json
+ - 04-1-061.json
+ - 05-1-011.json
+ - 12-1-100.json
+ - 14-1-001.json
+
+Files successfully analyzed: 5
+
+================================================================================
+FIELD: SPEAKER
+================================================================================
+
+File: 03-2-073.json
+  Items: 25
+  3-way exact agreement: 1.0000
+  Fleiss' Kappa: 1.0000
+  Pairwise:
+    human1 vs human2 -> agreement=1.0000, kappa=1.0000
+    human1 vs llm    -> agreement=1.0000, kappa=1.0000
+    human2 vs llm    -> agreement=1.0000, kappa=1.0000
+
+File: 04-1-061.json
+  Items: 25
+  3-way exact agreement: 0.8400
+  Fleiss' Kappa: 0.8705
+  Pairwise:
+    human1 vs human2 -> agreement=0.9200, kappa=0.9031
+    human1 vs llm    -> agreement=0.9200, kappa=0.9027
+    human2 vs llm    -> agreement=0.8400, kappa=0.8077
+
+File: 05-1-011.json
+  Items: 25
+  3-way exact agreement: 0.9600
+  Fleiss' Kappa: 0.9598
+  Pairwise:
+    human1 vs human2 -> agreement=1.0000, kappa=1.0000
+    human1 vs llm    -> agreement=0.9600, kappa=0.9398
+    human2 vs llm    -> agreement=0.9600, kappa=0.9398
+
+File: 12-1-100.json
+  Items: 26
+  3-way exact agreement: 0.6154
+  Fleiss' Kappa: 0.6114
+  Pairwise:
+    human1 vs human2 -> agreement=0.6154, kappa=0.5324
+    human1 vs llm    -> agreement=0.8077, kappa=0.7739
+    human2 vs llm    -> agreement=0.6154, kappa=0.5324
+
+File: 14-1-001.json
+  Items: 26
+  3-way exact agreement: 0.7308
+  Fleiss' Kappa: 0.7065
+  Pairwise:
+    human1 vs human2 -> agreement=0.7308, kappa=0.6431
+    human1 vs llm    -> agreement=0.8846, kappa=0.8418
+    human2 vs llm    -> agreement=0.7308, kappa=0.6431
+
+SUMMARY
+  Mean 3-way exact agreement: 0.8292
+  Mean Fleiss' Kappa: 0.8296
+  Mean human1 vs human2 Cohen's Kappa: 0.8157
+  Mean human1 vs llm Cohen's Kappa: 0.8916
+  Mean human2 vs llm Cohen's Kappa: 0.7846
+
+================================================================================
+FIELD: TARGET
+================================================================================
+
+File: 03-2-073.json
+  Items: 25
+  3-way exact agreement: 1.0000
+  Fleiss' Kappa: 1.0000
+  Pairwise:
+    human1 vs human2 -> agreement=1.0000, kappa=1.0000
+    human1 vs llm    -> agreement=1.0000, kappa=1.0000
+    human2 vs llm    -> agreement=1.0000, kappa=1.0000
+
+File: 04-1-061.json
+  Items: 25
+  3-way exact agreement: 0.9200
+  Fleiss' Kappa: 0.8278
+  Pairwise:
+    human1 vs human2 -> agreement=0.9200, kappa=0.7512
+    human1 vs llm    -> agreement=0.9600, kappa=0.8756
+    human2 vs llm    -> agreement=0.9600, kappa=0.8611
+
+File: 05-1-011.json
+  Items: 25
+  3-way exact agreement: 0.9200
+  Fleiss' Kappa: 0.9037
+  Pairwise:
+    human1 vs human2 -> agreement=1.0000, kappa=1.0000
+    human1 vs llm    -> agreement=0.9200, kappa=0.8525
+    human2 vs llm    -> agreement=0.9200, kappa=0.8525
+
+File: 12-1-100.json
+  Items: 26
+  3-way exact agreement: 0.5769
+  Fleiss' Kappa: 0.2586
+  Pairwise:
+    human1 vs human2 -> agreement=0.5769, kappa=0.1488
+    human1 vs llm    -> agreement=0.8846, kappa=0.6892
+    human2 vs llm    -> agreement=0.5769, kappa=0.1034
+
+File: 14-1-001.json
+  Items: 26
+  3-way exact agreement: 0.5385
+  Fleiss' Kappa: 0.0628
+  Pairwise:
+    human1 vs human2 -> agreement=0.5385, kappa=0.0714
+    human1 vs llm    -> agreement=0.6923, kappa=0.1680
+    human2 vs llm    -> agreement=0.7692, kappa=0.1136
+
+SUMMARY
+  Mean 3-way exact agreement: 0.7911
+  Mean Fleiss' Kappa: 0.6106
+  Mean human1 vs human2 Cohen's Kappa: 0.5943
+  Mean human1 vs llm Cohen's Kappa: 0.7171
+  Mean human2 vs llm Cohen's Kappa: 0.5861
+
+================================================================================
+FIELD: JOINT
+================================================================================
+
+File: 03-2-073.json
+  Items: 25
+  3-way exact agreement: 1.0000
+  Fleiss' Kappa: 1.0000
+  Pairwise:
+    human1 vs human2 -> agreement=1.0000, kappa=1.0000
+    human1 vs llm    -> agreement=1.0000, kappa=1.0000
+    human2 vs llm    -> agreement=1.0000, kappa=1.0000
+
+File: 04-1-061.json
+  Items: 25
+  3-way exact agreement: 0.7600
+  Fleiss' Kappa: 0.8069
+  Pairwise:
+    human1 vs human2 -> agreement=0.8400, kappa=0.8077
+    human1 vs llm    -> agreement=0.8800, kappa=0.8552
+    human2 vs llm    -> agreement=0.8000, kappa=0.7605
+
+File: 05-1-011.json
+  Items: 25
+  3-way exact agreement: 0.8800
+  Fleiss' Kappa: 0.9025
+  Pairwise:
+    human1 vs human2 -> agreement=1.0000, kappa=1.0000
+    human1 vs llm    -> agreement=0.8800, kappa=0.8535
+    human2 vs llm    -> agreement=0.8800, kappa=0.8535
+
+File: 12-1-100.json
+  Items: 26
+  3-way exact agreement: 0.5385
+  Fleiss' Kappa: 0.5353
+  Pairwise:
+    human1 vs human2 -> agreement=0.5385, kappa=0.4419
+    human1 vs llm    -> agreement=0.7692, kappa=0.7292
+    human2 vs llm    -> agreement=0.5385, kappa=0.4419
+
+File: 14-1-001.json
+  Items: 26
+  3-way exact agreement: 0.4615
+  Fleiss' Kappa: 0.4280
+  Pairwise:
+    human1 vs human2 -> agreement=0.4615, kappa=0.3158
+    human1 vs llm    -> agreement=0.5769, kappa=0.4325
+    human2 vs llm    -> agreement=0.6538, kappa=0.5534
+
+SUMMARY
+  Mean 3-way exact agreement: 0.7280
+  Mean Fleiss' Kappa: 0.7345
+  Mean human1 vs human2 Cohen's Kappa: 0.7131
+  Mean human1 vs llm Cohen's Kappa: 0.7741
+  Mean human2 vs llm Cohen's Kappa: 0.7219

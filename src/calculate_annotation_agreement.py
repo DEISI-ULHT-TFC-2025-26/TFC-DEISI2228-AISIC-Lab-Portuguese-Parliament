@@ -7,7 +7,7 @@ BASE_DIR = Path(__file__).resolve().parent / "data" / "processed" / "annotation_
 HUMAN1_DIR = BASE_DIR / "human1"
 HUMAN2_DIR = BASE_DIR / "human2"
 LLM_DIR = BASE_DIR / "LLM"
-RESULTS_DIR = BASE_DIR / "results"
+RESULTS_DIR = BASE_DIR / "annotation_results"
 
 COMPARE_ONLY_FIRST_COMMON_FILE = False
 
@@ -108,50 +108,73 @@ def cohens_kappa(labels_a, labels_b):
     return (po - pe) / (1 - pe)
 
 
-def fleiss_kappa(items_labels):
+def krippendorff_alpha_nominal(items_labels):
+    """
+    Krippendorff's Alpha for nominal data.
+    items_labels = list of lists
+    Example:
+    [
+        ["A", "A", "B"],
+        ["X", "X", "X"],
+        ...
+    ]
+    """
     if not items_labels:
         return 0.0
 
-    n = len(items_labels)
-    raters = len(items_labels[0])
+    # Remove missing values if any appear as None
+    filtered_items = []
+    for row in items_labels:
+        vals = [v for v in row if v is not None]
+        if len(vals) >= 2:
+            filtered_items.append(vals)
 
-    if raters < 2:
+    if not filtered_items:
         return 0.0
 
-    categories = sorted({label for row in items_labels for label in row})
-    cat_index = {c: i for i, c in enumerate(categories)}
+    # Observed disagreement
+    Do_num = 0.0
+    Do_den = 0.0
 
-    matrix = []
-    for row in items_labels:
-        counts = [0] * len(categories)
-        for label in row:
-            counts[cat_index[label]] += 1
-        matrix.append(counts)
+    for row in filtered_items:
+        n = len(row)
+        Do_den += n * (n - 1)
 
-    p_j = []
-    for j in range(len(categories)):
-        total_j = sum(row[j] for row in matrix)
-        p_j.append(total_j / (n * raters))
+        counts = Counter(row)
+        same_pairs = sum(c * (c - 1) for c in counts.values())
+        disagree_pairs = n * (n - 1) - same_pairs
+        Do_num += disagree_pairs
 
-    p_i = []
-    for row in matrix:
-        row_sum_sq = sum(v * v for v in row)
-        p = (row_sum_sq - raters) / (raters * (raters - 1))
-        p_i.append(p)
-
-    p_bar = sum(p_i) / n
-    p_e = sum(p ** 2 for p in p_j)
-
-    if p_e == 1:
+    if Do_den == 0:
         return 1.0
 
-    return (p_bar - p_e) / (1 - p_e)
+    Do = Do_num / Do_den
+
+    # Expected disagreement
+    all_labels = []
+    for row in filtered_items:
+        all_labels.extend(row)
+
+    total = len(all_labels)
+    if total < 2:
+        return 1.0
+
+    counts_all = Counter(all_labels)
+    same_pairs_all = sum(c * (c - 1) for c in counts_all.values())
+    total_pairs_all = total * (total - 1)
+    De_num = total_pairs_all - same_pairs_all
+    De = De_num / total_pairs_all if total_pairs_all > 0 else 0.0
+
+    if De == 0:
+        return 1.0
+
+    return 1 - (Do / De)
 
 
 def three_way_exact_agreement(items_labels):
     if not items_labels:
         return 0.0
-    same = sum(1 for row in items_labels if row[0] == row[1] == row[2])
+    same = sum(1 for row in items_labels if len(row) >= 3 and row[0] == row[1] == row[2])
     return same / len(items_labels)
 
 
@@ -169,7 +192,7 @@ def process_field(file_name, field, h1_items, h2_items, llm_items):
         "field": field,
         "n_items": len(common_ids),
         "three_way_exact_agreement": three_way_exact_agreement(items_3),
-        "fleiss_kappa": fleiss_kappa(items_3),
+        "krippendorff_alpha": krippendorff_alpha_nominal(items_3),
         "pairwise": {
             "human1_vs_human2": {
                 "percent_agreement": percent_agreement(h1_labels, h2_labels),
@@ -281,7 +304,7 @@ def main():
             lines.append(f"File: {result['file']}")
             lines.append(f"  Items: {result['n_items']}")
             lines.append(f"  3-way exact agreement: {result['three_way_exact_agreement']:.4f}")
-            lines.append(f"  Fleiss' Kappa: {result['fleiss_kappa']:.4f}")
+            lines.append(f"  Krippendorff's Alpha: {result['krippendorff_alpha']:.4f}")
             lines.append("  Pairwise:")
             lines.append(
                 f"    human1 vs human2 -> agreement={result['pairwise']['human1_vs_human2']['percent_agreement']:.4f}, "
@@ -299,7 +322,7 @@ def main():
 
         lines.append("SUMMARY")
         lines.append(f"  Mean 3-way exact agreement: {average_metric(all_results[field], ['three_way_exact_agreement']):.4f}")
-        lines.append(f"  Mean Fleiss' Kappa: {average_metric(all_results[field], ['fleiss_kappa']):.4f}")
+        lines.append(f"  Mean Krippendorff's Alpha: {average_metric(all_results[field], ['krippendorff_alpha']):.4f}")
         lines.append(
             f"  Mean human1 vs human2 Cohen's Kappa: "
             f"{average_metric(all_results[field], ['pairwise', 'human1_vs_human2', 'cohen_kappa']):.4f}"
