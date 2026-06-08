@@ -1,0 +1,119 @@
+[
+  {
+    "Pshift": "A0-XA",
+    "Frequency": 23,
+    "Probability": 0.3,
+    "P(S|D)": 0.85,
+    "P(S|D,C)": 0.85,
+    "Change of Speaker (C)": true,
+    "Directed Remark (D)": false
+  },
+  {
+    "Pshift": "A0-X0",
+    "Frequency": 4,
+    "Probability": 0.05,
+    "P(S|D)": 0.15,
+    "P(S|D,C)": 0.15,
+    "Change of Speaker (C)": true,
+    "Directed Remark (D)": false
+  },
+  {
+    "Pshift": "A0-XY",
+    "Frequency": 0,
+    "Probability": 0.0,
+    "P(S|D)": 0.0,
+    "P(S|D,C)": 0.0,
+    "Change of Speaker (C)": true,
+    "Directed Remark (D)": false
+  },
+  {
+    "Pshift": "A0-AY",
+    "Frequency": 0,
+    "Probability": 0.0,
+    "P(S|D)": 0.0,
+    "P(S|D,C)": "",
+    "Change of Speaker (C)": false,
+    "Directed Remark (D)": false
+  },
+  {
+    "Pshift": "AB-BA",
+    "Frequency": 18,
+    "Probability": 0.23,
+    "P(S|D)": 0.36,
+    "P(S|D,C)": 0.36,
+    "Change of Speaker (C)": true,
+    "Directed Remark (D)": true
+  },
+  {
+    "Pshift": "AB-B0",
+    "Frequency": 18,
+    "Probability": 0.23,
+    "P(S|D)": 0.36,
+    "P(S|D,C)": 0.36,
+    "Change of Speaker (C)": true,
+    "Directed Remark (D)": true
+  },
+  {
+    "Pshift": "AB-X0",
+    "Frequency": 4,
+    "Probability": 0.05,
+    "P(S|D)": 0.08,
+    "P(S|D,C)": 0.08,
+    "Change of Speaker (C)": true,
+    "Directed Remark (D)": true
+  },
+  {
+    "Pshift": "AB-XA",
+    "Frequency": 10,
+    "Probability": 0.13,
+    "P(S|D)": 0.2,
+    "P(S|D,C)": 0.2,
+    "Change of Speaker (C)": true,
+    "Directed Remark (D)": true
+  },
+  {
+    "Pshift": "AB-XB",
+    "Frequency": 0,
+    "Probability": 0.0,
+    "P(S|D)": 0.0,
+    "P(S|D,C)": 0.0,
+    "Change of Speaker (C)": true,
+    "Directed Remark (D)": true
+  },
+  {
+    "Pshift": "AB-A0",
+    "Frequency": 0,
+    "Probability": 0.0,
+    "P(S|D)": 0.0,
+    "P(S|D,C)": "",
+    "Change of Speaker (C)": false,
+    "Directed Remark (D)": true
+  },
+  {
+    "Pshift": "AB-BY",
+    "Frequency": 0,
+    "Probability": 0.0,
+    "P(S|D)": 0.0,
+    "P(S|D,C)": 0.0,
+    "Change of Speaker (C)": true,
+    "Directed Remark (D)": true
+  },
+  {
+    "Pshift": "AB-XY",
+    "Frequency": 0,
+    "Probability": 0.0,
+    "P(S|D)": 0.0,
+    "P(S|D,C)": 0.0,
+    "Change of Speaker (C)": true,
+    "Directed Remark (D)": true
+  },
+  {
+    "Pshift": "AB-AY",
+    "Frequency": 0,
+    "Probability": 0.0,
+    "P(S|D)": 0.0,
+    "P(S|D,C)": "",
+    "Change of Speaker (C)": false,
+    "Directed Remark (D)": true
+  }
+]
