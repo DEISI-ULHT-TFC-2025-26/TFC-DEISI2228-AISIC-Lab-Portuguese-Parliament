@@ -3,7 +3,7 @@ import json
 import re
 from pathlib import Path
 from datetime import datetime
-from collections import defaultdict, Counter
+from collections import defaultdict
 
 BASE_DIR = Path(__file__).resolve().parent
 
@@ -28,9 +28,30 @@ EXPECTED_SHIFTS = [
     "AB-AY",
 ]
 
+SHIFT_CLASS = {
+    "A0-X0": "Turn Claiming",
+    "A0-XA": "Turn Claiming",
+    "A0-XY": "Turn Claiming",
+    "AB-X0": "Turn Usurping",
+    "AB-XA": "Turn Usurping",
+    "AB-XB": "Turn Usurping",
+    "AB-XY": "Turn Usurping",
+    "AB-BA": "Turn Receiving",
+    "AB-B0": "Turn Receiving",
+    "AB-BY": "Turn Receiving",
+    "A0-AY": "Turn Continuing",
+    "AB-A0": "Turn Continuing",
+    "AB-AY": "Turn Continuing",
+}
+
 
 def extract_legislature(path: Path):
     match = re.search(r"legislature_(\d+)", str(path))
+    return int(match.group(1)) if match else None
+
+
+def extract_sample(path: Path):
+    match = re.search(r"sample_(\d+)", path.name)
     return int(match.group(1)) if match else None
 
 
@@ -39,18 +60,10 @@ def extract_segment(path: Path):
     return int(match.group(1)) if match else None
 
 
-def extract_wave(path: Path):
-    text = str(path)
-    if "wave_1" in text:
-        return "wave_1"
-    if "wave_2" in text:
-        return "wave_2"
-    return "unknown_wave"
-
-
 def safe_float(value):
     if value is None or value == "":
         return 0.0
+
     try:
         return float(value)
     except ValueError:
@@ -60,10 +73,24 @@ def safe_float(value):
 def safe_int(value):
     if value is None or value == "":
         return 0
+
     try:
         return int(float(value))
     except ValueError:
         return 0
+
+
+def safe_bool(value):
+    if isinstance(value, bool):
+        return value
+
+    if value is None:
+        return False
+
+    if isinstance(value, str):
+        return value.strip().lower() in ["true", "1", "yes", "sim"]
+
+    return bool(value)
 
 
 def load_stats_file(path: Path):
@@ -75,8 +102,8 @@ def load_stats_file(path: Path):
 
     rows = []
 
-    wave = extract_wave(path)
     legislature = extract_legislature(path)
+    sample = extract_sample(path)
     segment = extract_segment(path)
 
     for item in data:
@@ -85,18 +112,23 @@ def load_stats_file(path: Path):
 
         shift = item.get("Pshift")
 
+        if not shift:
+            continue
+
         row = {
-            "wave": wave,
+            "dataset": "final_dataset",
             "legislature": legislature,
+            "sample": sample,
             "segment": segment,
             "pshift": shift,
+            "shift_class": SHIFT_CLASS.get(shift, "Unknown"),
             "frequency": safe_int(item.get("Frequency")),
             "probability": safe_float(item.get("Probability")),
             "p_s_given_d": safe_float(item.get("P(S|D)")),
             "p_s_given_d_c": safe_float(item.get("P(S|D,C)")),
-            "change_of_speaker": bool(item.get("Change of Speaker (C)")),
-            "directed_remark": bool(item.get("Directed Remark (D)")),
-            "source_file": path.name
+            "change_of_speaker": safe_bool(item.get("Change of Speaker (C)")),
+            "directed_remark": safe_bool(item.get("Directed Remark (D)")),
+            "source_file": path.name,
         }
 
         rows.append(row)
@@ -105,17 +137,29 @@ def load_stats_file(path: Path):
 
 
 def find_stats_files():
-    files = sorted(
+    final_files = sorted(
+        RESULTS_DIR.glob("final_dataset/**/*segment_*_stats.json"),
+        key=lambda p: (
+            extract_legislature(p) or 999,
+            extract_sample(p) or 999,
+            extract_segment(p) or 999,
+            p.name
+        )
+    )
+
+    if final_files:
+        return final_files
+
+    legacy_files = sorted(
         RESULTS_DIR.glob("wave_*/*/*segment_*_stats.json"),
         key=lambda p: (
-            extract_wave(p),
             extract_legislature(p) or 999,
             extract_segment(p) or 999,
             p.name
         )
     )
 
-    return files
+    return legacy_files
 
 
 def write_csv(path: Path, rows):
@@ -125,26 +169,22 @@ def write_csv(path: Path, rows):
     fieldnames = sorted({key for row in rows for key in row.keys()})
 
     preferred_order = [
-        "wave",
+        "dataset",
         "legislature",
+        "sample",
         "segment",
         "pshift",
+        "shift_class",
         "frequency",
         "probability",
-        "p_s_given_d",
-        "p_s_given_d_c",
+        "global_probability",
         "total_frequency",
+        "total_transitions",
         "avg_probability",
         "avg_p_s_given_d",
         "avg_p_s_given_d_c",
         "dominant_pshift",
-        "frequency_wave_1",
-        "frequency_wave_2",
-        "frequency_diff",
-        "probability_wave_1",
-        "probability_wave_2",
-        "probability_diff",
-        "source_file"
+        "source_file",
     ]
 
     ordered = [f for f in preferred_order if f in fieldnames]
@@ -161,132 +201,241 @@ def write_csv(path: Path, rows):
         writer.writerows(rows)
 
 
-def aggregate_by_wave_legislature(rows):
+def aggregate_global(rows):
     grouped = defaultdict(list)
 
     for row in rows:
-        grouped[(row["wave"], row["legislature"], row["pshift"])].append(row)
+        grouped[row["pshift"]].append(row)
+
+    total_transitions = sum(row["frequency"] for row in rows)
+    output = []
+
+    for pshift in EXPECTED_SHIFTS:
+        values = grouped.get(pshift, [])
+        total_frequency = sum(v["frequency"] for v in values)
+
+        if values:
+            avg_probability = sum(v["probability"] for v in values) / len(values)
+            avg_p_s_given_d = sum(v["p_s_given_d"] for v in values) / len(values)
+            avg_p_s_given_d_c = sum(v["p_s_given_d_c"] for v in values) / len(values)
+        else:
+            avg_probability = 0.0
+            avg_p_s_given_d = 0.0
+            avg_p_s_given_d_c = 0.0
+
+        output.append({
+            "dataset": "final_dataset",
+            "pshift": pshift,
+            "shift_class": SHIFT_CLASS.get(pshift, "Unknown"),
+            "total_frequency": total_frequency,
+            "total_transitions": total_transitions,
+            "global_probability": total_frequency / total_transitions if total_transitions else 0.0,
+            "avg_probability": avg_probability,
+            "avg_p_s_given_d": avg_p_s_given_d,
+            "avg_p_s_given_d_c": avg_p_s_given_d_c,
+        })
+
+    return sorted(output, key=lambda r: r["total_frequency"], reverse=True)
+
+
+def aggregate_by_legislature(rows):
+    grouped = defaultdict(list)
+
+    for row in rows:
+        grouped[(row["legislature"], row["pshift"])].append(row)
+
+    totals_by_legislature = defaultdict(int)
+
+    for row in rows:
+        totals_by_legislature[row["legislature"]] += row["frequency"]
 
     output = []
 
-    for (wave, legislature, pshift), values in grouped.items():
+    legislatures = sorted(set(row["legislature"] for row in rows if row["legislature"] is not None))
+
+    for legislature in legislatures:
+        for pshift in EXPECTED_SHIFTS:
+            values = grouped.get((legislature, pshift), [])
+            total_frequency = sum(v["frequency"] for v in values)
+            total_transitions = totals_by_legislature[legislature]
+
+            if values:
+                avg_probability = sum(v["probability"] for v in values) / len(values)
+                avg_p_s_given_d = sum(v["p_s_given_d"] for v in values) / len(values)
+                avg_p_s_given_d_c = sum(v["p_s_given_d_c"] for v in values) / len(values)
+            else:
+                avg_probability = 0.0
+                avg_p_s_given_d = 0.0
+                avg_p_s_given_d_c = 0.0
+
+            output.append({
+                "dataset": "final_dataset",
+                "legislature": legislature,
+                "pshift": pshift,
+                "shift_class": SHIFT_CLASS.get(pshift, "Unknown"),
+                "total_frequency": total_frequency,
+                "total_transitions": total_transitions,
+                "global_probability": total_frequency / total_transitions if total_transitions else 0.0,
+                "avg_probability": avg_probability,
+                "avg_p_s_given_d": avg_p_s_given_d,
+                "avg_p_s_given_d_c": avg_p_s_given_d_c,
+            })
+
+    return sorted(output, key=lambda r: (r["legislature"], -r["total_frequency"], r["pshift"]))
+
+
+def aggregate_by_segment(rows):
+    grouped = defaultdict(list)
+
+    for row in rows:
+        grouped[(row["segment"], row["pshift"])].append(row)
+
+    totals_by_segment = defaultdict(int)
+
+    for row in rows:
+        totals_by_segment[row["segment"]] += row["frequency"]
+
+    output = []
+
+    segments = sorted(set(row["segment"] for row in rows if row["segment"] is not None))
+
+    for segment in segments:
+        for pshift in EXPECTED_SHIFTS:
+            values = grouped.get((segment, pshift), [])
+            total_frequency = sum(v["frequency"] for v in values)
+            total_transitions = totals_by_segment[segment]
+
+            output.append({
+                "dataset": "final_dataset",
+                "segment": segment,
+                "pshift": pshift,
+                "shift_class": SHIFT_CLASS.get(pshift, "Unknown"),
+                "total_frequency": total_frequency,
+                "total_transitions": total_transitions,
+                "global_probability": total_frequency / total_transitions if total_transitions else 0.0,
+            })
+
+    return sorted(output, key=lambda r: (r["segment"], -r["total_frequency"], r["pshift"]))
+
+
+def aggregate_by_legislature_segment(rows):
+    grouped = defaultdict(list)
+
+    for row in rows:
+        grouped[(row["legislature"], row["segment"], row["pshift"])].append(row)
+
+    totals = defaultdict(int)
+
+    for row in rows:
+        totals[(row["legislature"], row["segment"])] += row["frequency"]
+
+    output = []
+
+    legislatures = sorted(set(row["legislature"] for row in rows if row["legislature"] is not None))
+    segments = sorted(set(row["segment"] for row in rows if row["segment"] is not None))
+
+    for legislature in legislatures:
+        for segment in segments:
+            for pshift in EXPECTED_SHIFTS:
+                values = grouped.get((legislature, segment, pshift), [])
+                total_frequency = sum(v["frequency"] for v in values)
+                total_transitions = totals[(legislature, segment)]
+
+                output.append({
+                    "dataset": "final_dataset",
+                    "legislature": legislature,
+                    "segment": segment,
+                    "pshift": pshift,
+                    "shift_class": SHIFT_CLASS.get(pshift, "Unknown"),
+                    "total_frequency": total_frequency,
+                    "total_transitions": total_transitions,
+                    "global_probability": total_frequency / total_transitions if total_transitions else 0.0,
+                })
+
+    return sorted(output, key=lambda r: (r["legislature"], r["segment"], -r["total_frequency"], r["pshift"]))
+
+
+def aggregate_by_class(rows):
+    grouped = defaultdict(list)
+
+    for row in rows:
+        grouped[row["shift_class"]].append(row)
+
+    total_transitions = sum(row["frequency"] for row in rows)
+    output = []
+
+    for shift_class, values in grouped.items():
         total_frequency = sum(v["frequency"] for v in values)
-        avg_probability = sum(v["probability"] for v in values) / len(values)
-        avg_p_s_given_d = sum(v["p_s_given_d"] for v in values) / len(values)
-        avg_p_s_given_d_c = sum(v["p_s_given_d_c"] for v in values) / len(values)
 
         output.append({
-            "wave": wave,
+            "dataset": "final_dataset",
+            "shift_class": shift_class,
+            "total_frequency": total_frequency,
+            "total_transitions": total_transitions,
+            "global_probability": total_frequency / total_transitions if total_transitions else 0.0,
+        })
+
+    return sorted(output, key=lambda r: r["total_frequency"], reverse=True)
+
+
+def aggregate_class_by_legislature(rows):
+    grouped = defaultdict(list)
+
+    for row in rows:
+        grouped[(row["legislature"], row["shift_class"])].append(row)
+
+    totals_by_legislature = defaultdict(int)
+
+    for row in rows:
+        totals_by_legislature[row["legislature"]] += row["frequency"]
+
+    output = []
+
+    for (legislature, shift_class), values in grouped.items():
+        total_frequency = sum(v["frequency"] for v in values)
+        total_transitions = totals_by_legislature[legislature]
+
+        output.append({
+            "dataset": "final_dataset",
             "legislature": legislature,
-            "pshift": pshift,
+            "shift_class": shift_class,
             "total_frequency": total_frequency,
-            "avg_probability": avg_probability,
-            "avg_p_s_given_d": avg_p_s_given_d,
-            "avg_p_s_given_d_c": avg_p_s_given_d_c
+            "total_transitions": total_transitions,
+            "global_probability": total_frequency / total_transitions if total_transitions else 0.0,
         })
 
-    return sorted(
-        output,
-        key=lambda r: (r["wave"], r["legislature"], r["pshift"])
-    )
+    return sorted(output, key=lambda r: (r["legislature"], -r["total_frequency"], r["shift_class"]))
 
 
-def aggregate_by_wave(rows):
+def dominant_shift_by_legislature_segment(rows):
     grouped = defaultdict(list)
 
     for row in rows:
-        grouped[(row["wave"], row["pshift"])].append(row)
+        grouped[(row["legislature"], row["segment"])].append(row)
 
     output = []
 
-    for (wave, pshift), values in grouped.items():
-        total_frequency = sum(v["frequency"] for v in values)
-        avg_probability = sum(v["probability"] for v in values) / len(values)
-        avg_p_s_given_d = sum(v["p_s_given_d"] for v in values) / len(values)
-        avg_p_s_given_d_c = sum(v["p_s_given_d_c"] for v in values) / len(values)
-
-        output.append({
-            "wave": wave,
-            "pshift": pshift,
-            "total_frequency": total_frequency,
-            "avg_probability": avg_probability,
-            "avg_p_s_given_d": avg_p_s_given_d,
-            "avg_p_s_given_d_c": avg_p_s_given_d_c
-        })
-
-    return sorted(output, key=lambda r: (r["wave"], r["pshift"]))
-
-
-def dominant_shift_by_legislature(rows):
-    grouped = defaultdict(list)
-
-    for row in rows:
-        grouped[(row["wave"], row["legislature"], row["segment"])].append(row)
-
-    output = []
-
-    for (wave, legislature, segment), values in grouped.items():
+    for (legislature, segment), values in grouped.items():
         dominant = max(values, key=lambda r: r["frequency"])
 
         output.append({
-            "wave": wave,
+            "dataset": "final_dataset",
             "legislature": legislature,
             "segment": segment,
             "dominant_pshift": dominant["pshift"],
+            "shift_class": dominant["shift_class"],
             "frequency": dominant["frequency"],
-            "probability": dominant["probability"]
+            "probability": dominant["probability"],
         })
 
-    return sorted(
-        output,
-        key=lambda r: (r["wave"], r["legislature"], r["segment"])
-    )
+    return sorted(output, key=lambda r: (r["legislature"], r["segment"]))
 
 
-def compare_waves_by_legislature(rows):
-    grouped = defaultdict(dict)
-
-    for row in rows:
-        key = (row["legislature"], row["segment"], row["pshift"])
-        grouped[key][row["wave"]] = row
-
-    output = []
-
-    for (legislature, segment, pshift), values in grouped.items():
-        w1 = values.get("wave_1")
-        w2 = values.get("wave_2")
-
-        if not w1 or not w2:
-            continue
-
-        output.append({
-            "legislature": legislature,
-            "segment": segment,
-            "pshift": pshift,
-            "frequency_wave_1": w1["frequency"],
-            "frequency_wave_2": w2["frequency"],
-            "frequency_diff": w2["frequency"] - w1["frequency"],
-            "probability_wave_1": w1["probability"],
-            "probability_wave_2": w2["probability"],
-            "probability_diff": w2["probability"] - w1["probability"],
-            "p_s_given_d_wave_1": w1["p_s_given_d"],
-            "p_s_given_d_wave_2": w2["p_s_given_d"],
-            "p_s_given_d_diff": w2["p_s_given_d"] - w1["p_s_given_d"],
-            "p_s_given_d_c_wave_1": w1["p_s_given_d_c"],
-            "p_s_given_d_c_wave_2": w2["p_s_given_d_c"],
-            "p_s_given_d_c_diff": w2["p_s_given_d_c"] - w1["p_s_given_d_c"]
-        })
-
-    return sorted(
-        output,
-        key=lambda r: (r["legislature"], r["segment"], r["pshift"])
-    )
-
-
-def write_report(path: Path, rows, agg_wave, agg_leg, dominant, comparison):
+def write_report(path: Path, rows, global_rows, by_legislature, by_segment, by_class, dominant):
     lines = []
 
     lines.append("AGGREGATED PARSHIFT RESULTS REPORT")
+    lines.append("Dataset: final_dataset")
     lines.append(f"Generated at: {datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}")
     lines.append("")
 
@@ -294,21 +443,48 @@ def write_report(path: Path, rows, agg_wave, agg_leg, dominant, comparison):
     lines.append("INPUT SUMMARY")
     lines.append("=" * 80)
     lines.append(f"Total rows: {len(rows)}")
-    lines.append(f"Expected stats files: 84")
     lines.append(f"Detected stats files: {len(set(r['source_file'] for r in rows))}")
-    lines.append(f"Waves: {sorted(set(r['wave'] for r in rows))}")
     lines.append(f"Legislatures: {sorted(set(r['legislature'] for r in rows))}")
+    lines.append(f"Samples per legislature: {sorted(set(r['sample'] for r in rows))}")
     lines.append(f"Segments: {sorted(set(r['segment'] for r in rows))}")
     lines.append(f"Pshifts: {sorted(set(r['pshift'] for r in rows))}")
+    lines.append(f"Total transitions: {sum(r['frequency'] for r in rows)}")
     lines.append("")
 
     lines.append("=" * 80)
-    lines.append("DOMINANT SHIFTS BY WAVE / LEGISLATURE / SEGMENT")
+    lines.append("GLOBAL PARTICIPATION SHIFTS")
+    lines.append("=" * 80)
+
+    for r in global_rows:
+        lines.append(
+            f"{r['pshift']}: "
+            f"freq={r['total_frequency']}, "
+            f"prob={r['global_probability']:.4f}, "
+            f"class={r['shift_class']}"
+        )
+
+    lines.append("")
+
+    lines.append("=" * 80)
+    lines.append("PARTICIPATION SHIFT CLASSES")
+    lines.append("=" * 80)
+
+    for r in by_class:
+        lines.append(
+            f"{r['shift_class']}: "
+            f"freq={r['total_frequency']}, "
+            f"prob={r['global_probability']:.4f}"
+        )
+
+    lines.append("")
+
+    lines.append("=" * 80)
+    lines.append("DOMINANT SHIFTS BY LEGISLATURE AND SEGMENT")
     lines.append("=" * 80)
 
     for row in dominant:
         lines.append(
-            f"{row['wave']} | Legislature {row['legislature']} | Segment {row['segment']} "
+            f"Legislature {row['legislature']} | Segment {row['segment']} "
             f"-> {row['dominant_pshift']} "
             f"(freq={row['frequency']}, prob={row['probability']:.4f})"
         )
@@ -316,44 +492,25 @@ def write_report(path: Path, rows, agg_wave, agg_leg, dominant, comparison):
     lines.append("")
 
     lines.append("=" * 80)
-    lines.append("GLOBAL AVERAGE PROBABILITY BY WAVE")
+    lines.append("TOP SHIFTS BY LEGISLATURE")
     lines.append("=" * 80)
 
-    for wave in sorted(set(r["wave"] for r in agg_wave)):
+    legislatures = sorted(set(r["legislature"] for r in by_legislature))
+
+    for legislature in legislatures:
         lines.append("")
-        lines.append(wave.upper())
+        lines.append(f"LEGISLATURE {legislature}")
 
-        wave_rows = [r for r in agg_wave if r["wave"] == wave]
-        wave_rows = sorted(wave_rows, key=lambda r: r["avg_probability"], reverse=True)
+        leg_rows = [r for r in by_legislature if r["legislature"] == legislature]
+        leg_rows = sorted(leg_rows, key=lambda r: r["total_frequency"], reverse=True)
 
-        for r in wave_rows:
+        for r in leg_rows[:6]:
             lines.append(
                 f"  {r['pshift']}: "
-                f"total_freq={r['total_frequency']}, "
-                f"avg_prob={r['avg_probability']:.4f}, "
-                f"avg_P(S|D)={r['avg_p_s_given_d']:.4f}, "
-                f"avg_P(S|D,C)={r['avg_p_s_given_d_c']:.4f}"
+                f"freq={r['total_frequency']}, "
+                f"prob={r['global_probability']:.4f}, "
+                f"class={r['shift_class']}"
             )
-
-    lines.append("")
-
-    lines.append("=" * 80)
-    lines.append("BIGGEST WAVE DIFFERENCES BY PROBABILITY")
-    lines.append("=" * 80)
-
-    comparison_sorted = sorted(
-        comparison,
-        key=lambda r: abs(r["probability_diff"]),
-        reverse=True
-    )
-
-    for r in comparison_sorted[:30]:
-        lines.append(
-            f"Leg {r['legislature']} | Segment {r['segment']} | {r['pshift']} "
-            f"prob_w1={r['probability_wave_1']:.4f} "
-            f"prob_w2={r['probability_wave_2']:.4f} "
-            f"diff={r['probability_diff']:.4f}"
-        )
 
     path.write_text("\n".join(lines), encoding="utf-8")
 
@@ -374,46 +531,61 @@ def main():
         except Exception as e:
             print(f"ERRO ao ler {path}: {e}")
 
-    agg_leg = aggregate_by_wave_legislature(all_rows)
-    agg_wave = aggregate_by_wave(all_rows)
-    dominant = dominant_shift_by_legislature(all_rows)
-    comparison = compare_waves_by_legislature(all_rows)
+    global_rows = aggregate_global(all_rows)
+    by_legislature = aggregate_by_legislature(all_rows)
+    by_segment = aggregate_by_segment(all_rows)
+    by_legislature_segment = aggregate_by_legislature_segment(all_rows)
+    by_class = aggregate_by_class(all_rows)
+    class_by_legislature = aggregate_class_by_legislature(all_rows)
+    dominant = dominant_shift_by_legislature_segment(all_rows)
 
-    all_csv = AGGREGATED_DIR / f"all_parshift_results_{timestamp}.csv"
-    agg_leg_csv = AGGREGATED_DIR / f"parshift_by_wave_legislature_{timestamp}.csv"
-    agg_wave_csv = AGGREGATED_DIR / f"parshift_by_wave_{timestamp}.csv"
-    dominant_csv = AGGREGATED_DIR / f"dominant_shifts_{timestamp}.csv"
-    comparison_csv = AGGREGATED_DIR / f"wave_comparison_{timestamp}.csv"
+    all_csv = AGGREGATED_DIR / f"all_parshift_results_final_{timestamp}.csv"
+    global_csv = AGGREGATED_DIR / f"parshift_global_{timestamp}.csv"
+    by_legislature_csv = AGGREGATED_DIR / f"parshift_by_legislature_{timestamp}.csv"
+    by_segment_csv = AGGREGATED_DIR / f"parshift_by_segment_{timestamp}.csv"
+    by_legislature_segment_csv = AGGREGATED_DIR / f"parshift_by_legislature_segment_{timestamp}.csv"
+    by_class_csv = AGGREGATED_DIR / f"parshift_by_class_{timestamp}.csv"
+    class_by_legislature_csv = AGGREGATED_DIR / f"parshift_class_by_legislature_{timestamp}.csv"
+    dominant_csv = AGGREGATED_DIR / f"dominant_shifts_final_{timestamp}.csv"
 
     write_csv(all_csv, all_rows)
-
-    write_csv(agg_leg_csv, agg_leg)
-    write_csv(agg_wave_csv, agg_wave)
+    write_csv(global_csv, global_rows)
+    write_csv(by_legislature_csv, by_legislature)
+    write_csv(by_segment_csv, by_segment)
+    write_csv(by_legislature_segment_csv, by_legislature_segment)
+    write_csv(by_class_csv, by_class)
+    write_csv(class_by_legislature_csv, class_by_legislature)
     write_csv(dominant_csv, dominant)
-    write_csv(comparison_csv, comparison)
 
-    json_path = AGGREGATED_DIR / f"all_parshift_results_{timestamp}.json"
-    report_path = REPORTS_DIR / f"aggregated_parshift_report_{timestamp}.txt"
+    json_path = AGGREGATED_DIR / f"all_parshift_results_final_{timestamp}.json"
+    report_path = REPORTS_DIR / f"aggregated_parshift_report_final_{timestamp}.txt"
 
-    json_path.write_text(json.dumps(all_rows, indent=2, ensure_ascii=False), encoding="utf-8")
+    json_path.write_text(
+        json.dumps(all_rows, indent=2, ensure_ascii=False),
+        encoding="utf-8"
+    )
 
     write_report(
         report_path,
         all_rows,
-        agg_wave,
-        agg_leg,
-        dominant,
-        comparison
+        global_rows,
+        by_legislature,
+        by_segment,
+        by_class,
+        dominant
     )
 
     print(f"Stats files detected: {len(stats_files)}")
     print(f"Rows aggregated: {len(all_rows)}")
     print("")
     print(f"All results CSV: {all_csv}")
-    print(f"By wave/legislature CSV: {agg_leg_csv}")
-    print(f"By wave CSV: {agg_wave_csv}")
+    print(f"Global CSV: {global_csv}")
+    print(f"By legislature CSV: {by_legislature_csv}")
+    print(f"By segment CSV: {by_segment_csv}")
+    print(f"By legislature/segment CSV: {by_legislature_segment_csv}")
+    print(f"By class CSV: {by_class_csv}")
+    print(f"Class by legislature CSV: {class_by_legislature_csv}")
     print(f"Dominant shifts CSV: {dominant_csv}")
-    print(f"Wave comparison CSV: {comparison_csv}")
     print(f"JSON: {json_path}")
     print(f"Report: {report_path}")
 

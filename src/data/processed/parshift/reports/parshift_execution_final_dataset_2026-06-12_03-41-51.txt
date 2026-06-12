@@ -1,0 +1,476 @@
+PARSHIFT EXECUTION REPORT
+Dataset: final_dataset
+Generated at: 2026-06-12_03-41-51
+
+N segments: 3
+CSV delimiter: '\t'
+
+================================================================================
+FINAL DATASET
+================================================================================
+
+Files processed: 28
+Successful: 28
+Failed: 0
+
+--------------------------------------------------------------------------------
+Legislature 1
+--------------------------------------------------------------------------------
+Sample 1 | legislature_1.csv
+  Source phase: annotation_phase_1
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_1/sample_1/legislature_1.csv
+  Stats files:
+    - legislature_1_sample_1_stats_n1.csv
+    - legislature_1_sample_1_stats_n2.csv
+    - legislature_1_sample_1_stats_n3.csv
+  Propensity files:
+    - legislature_1_sample_1_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_1_sample_1_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_1_sample_1_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_1_sample_1_segment_3_stats.csv
+
+Sample 2 | legislature_1.csv
+  Source phase: annotation_phase_2
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_1/sample_2/legislature_1.csv
+  Stats files:
+    - legislature_1_sample_2_stats_n1.csv
+    - legislature_1_sample_2_stats_n2.csv
+    - legislature_1_sample_2_stats_n3.csv
+  Propensity files:
+    - legislature_1_sample_2_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_1_sample_2_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_1_sample_2_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_1_sample_2_segment_3_stats.csv
+
+--------------------------------------------------------------------------------
+Legislature 2
+--------------------------------------------------------------------------------
+Sample 1 | legislature_2.csv
+  Source phase: annotation_phase_1
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_2/sample_1/legislature_2.csv
+  Stats files:
+    - legislature_2_sample_1_stats_n1.csv
+    - legislature_2_sample_1_stats_n2.csv
+    - legislature_2_sample_1_stats_n3.csv
+  Propensity files:
+    - legislature_2_sample_1_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_2_sample_1_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_2_sample_1_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_2_sample_1_segment_3_stats.csv
+
+Sample 2 | legislature_2.csv
+  Source phase: annotation_phase_2
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_2/sample_2/legislature_2.csv
+  Stats files:
+    - legislature_2_sample_2_stats_n1.csv
+    - legislature_2_sample_2_stats_n2.csv
+    - legislature_2_sample_2_stats_n3.csv
+  Propensity files:
+    - legislature_2_sample_2_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_2_sample_2_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_2_sample_2_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_2_sample_2_segment_3_stats.csv
+
+--------------------------------------------------------------------------------
+Legislature 3
+--------------------------------------------------------------------------------
+Sample 1 | legislature_3.csv
+  Source phase: annotation_phase_1
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_3/sample_1/legislature_3.csv
+  Stats files:
+    - legislature_3_sample_1_stats_n1.csv
+    - legislature_3_sample_1_stats_n2.csv
+    - legislature_3_sample_1_stats_n3.csv
+  Propensity files:
+    - legislature_3_sample_1_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_3_sample_1_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_3_sample_1_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_3_sample_1_segment_3_stats.csv
+
+Sample 2 | legislature_3.csv
+  Source phase: annotation_phase_2
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_3/sample_2/legislature_3.csv
+  Stats files:
+    - legislature_3_sample_2_stats_n1.csv
+    - legislature_3_sample_2_stats_n2.csv
+    - legislature_3_sample_2_stats_n3.csv
+  Propensity files:
+    - legislature_3_sample_2_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_3_sample_2_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_3_sample_2_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_3_sample_2_segment_3_stats.csv
+
+--------------------------------------------------------------------------------
+Legislature 4
+--------------------------------------------------------------------------------
+Sample 1 | legislature_4.csv
+  Source phase: annotation_phase_1
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_4/sample_1/legislature_4.csv
+  Stats files:
+    - legislature_4_sample_1_stats_n1.csv
+    - legislature_4_sample_1_stats_n2.csv
+    - legislature_4_sample_1_stats_n3.csv
+  Propensity files:
+    - legislature_4_sample_1_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_4_sample_1_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_4_sample_1_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_4_sample_1_segment_3_stats.csv
+
+Sample 2 | legislature_4.csv
+  Source phase: annotation_phase_2
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_4/sample_2/legislature_4.csv
+  Stats files:
+    - legislature_4_sample_2_stats_n1.csv
+    - legislature_4_sample_2_stats_n2.csv
+    - legislature_4_sample_2_stats_n3.csv
+  Propensity files:
+    - legislature_4_sample_2_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_4_sample_2_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_4_sample_2_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_4_sample_2_segment_3_stats.csv
+
+--------------------------------------------------------------------------------
+Legislature 5
+--------------------------------------------------------------------------------
+Sample 1 | legislature_5.csv
+  Source phase: annotation_phase_1
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_5/sample_1/legislature_5.csv
+  Stats files:
+    - legislature_5_sample_1_stats_n1.csv
+    - legislature_5_sample_1_stats_n2.csv
+    - legislature_5_sample_1_stats_n3.csv
+  Propensity files:
+    - legislature_5_sample_1_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_5_sample_1_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_5_sample_1_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_5_sample_1_segment_3_stats.csv
+
+Sample 2 | legislature_5.csv
+  Source phase: annotation_phase_2
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_5/sample_2/legislature_5.csv
+  Stats files:
+    - legislature_5_sample_2_stats_n1.csv
+    - legislature_5_sample_2_stats_n2.csv
+    - legislature_5_sample_2_stats_n3.csv
+  Propensity files:
+    - legislature_5_sample_2_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_5_sample_2_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_5_sample_2_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_5_sample_2_segment_3_stats.csv
+
+--------------------------------------------------------------------------------
+Legislature 6
+--------------------------------------------------------------------------------
+Sample 1 | legislature_6.csv
+  Source phase: annotation_phase_1
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_6/sample_1/legislature_6.csv
+  Stats files:
+    - legislature_6_sample_1_stats_n1.csv
+    - legislature_6_sample_1_stats_n2.csv
+    - legislature_6_sample_1_stats_n3.csv
+  Propensity files:
+    - legislature_6_sample_1_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_6_sample_1_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_6_sample_1_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_6_sample_1_segment_3_stats.csv
+
+Sample 2 | legislature_6.csv
+  Source phase: annotation_phase_2
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_6/sample_2/legislature_6.csv
+  Stats files:
+    - legislature_6_sample_2_stats_n1.csv
+    - legislature_6_sample_2_stats_n2.csv
+    - legislature_6_sample_2_stats_n3.csv
+  Propensity files:
+    - legislature_6_sample_2_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_6_sample_2_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_6_sample_2_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_6_sample_2_segment_3_stats.csv
+
+--------------------------------------------------------------------------------
+Legislature 7
+--------------------------------------------------------------------------------
+Sample 1 | legislature_7.csv
+  Source phase: annotation_phase_1
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_7/sample_1/legislature_7.csv
+  Stats files:
+    - legislature_7_sample_1_stats_n1.csv
+    - legislature_7_sample_1_stats_n2.csv
+    - legislature_7_sample_1_stats_n3.csv
+  Propensity files:
+    - legislature_7_sample_1_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_7_sample_1_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_7_sample_1_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_7_sample_1_segment_3_stats.csv
+
+Sample 2 | legislature_7.csv
+  Source phase: annotation_phase_2
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_7/sample_2/legislature_7.csv
+  Stats files:
+    - legislature_7_sample_2_stats_n1.csv
+    - legislature_7_sample_2_stats_n2.csv
+    - legislature_7_sample_2_stats_n3.csv
+  Propensity files:
+    - legislature_7_sample_2_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_7_sample_2_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_7_sample_2_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_7_sample_2_segment_3_stats.csv
+
+--------------------------------------------------------------------------------
+Legislature 8
+--------------------------------------------------------------------------------
+Sample 1 | legislature_8.csv
+  Source phase: annotation_phase_1
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_8/sample_1/legislature_8.csv
+  Stats files:
+    - legislature_8_sample_1_stats_n1.csv
+    - legislature_8_sample_1_stats_n2.csv
+    - legislature_8_sample_1_stats_n3.csv
+  Propensity files:
+    - legislature_8_sample_1_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_8_sample_1_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_8_sample_1_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_8_sample_1_segment_3_stats.csv
+
+Sample 2 | legislature_8.csv
+  Source phase: annotation_phase_2
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_8/sample_2/legislature_8.csv
+  Stats files:
+    - legislature_8_sample_2_stats_n1.csv
+    - legislature_8_sample_2_stats_n2.csv
+    - legislature_8_sample_2_stats_n3.csv
+  Propensity files:
+    - legislature_8_sample_2_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_8_sample_2_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_8_sample_2_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_8_sample_2_segment_3_stats.csv
+
+--------------------------------------------------------------------------------
+Legislature 9
+--------------------------------------------------------------------------------
+Sample 1 | legislature_9.csv
+  Source phase: annotation_phase_1
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_9/sample_1/legislature_9.csv
+  Stats files:
+    - legislature_9_sample_1_stats_n1.csv
+    - legislature_9_sample_1_stats_n2.csv
+    - legislature_9_sample_1_stats_n3.csv
+  Propensity files:
+    - legislature_9_sample_1_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_9_sample_1_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_9_sample_1_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_9_sample_1_segment_3_stats.csv
+
+Sample 2 | legislature_9.csv
+  Source phase: annotation_phase_2
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_9/sample_2/legislature_9.csv
+  Stats files:
+    - legislature_9_sample_2_stats_n1.csv
+    - legislature_9_sample_2_stats_n2.csv
+    - legislature_9_sample_2_stats_n3.csv
+  Propensity files:
+    - legislature_9_sample_2_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_9_sample_2_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_9_sample_2_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_9_sample_2_segment_3_stats.csv
+
+--------------------------------------------------------------------------------
+Legislature 10
+--------------------------------------------------------------------------------
+Sample 1 | legislature_10.csv
+  Source phase: annotation_phase_1
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_10/sample_1/legislature_10.csv
+  Stats files:
+    - legislature_10_sample_1_stats_n1.csv
+    - legislature_10_sample_1_stats_n2.csv
+    - legislature_10_sample_1_stats_n3.csv
+  Propensity files:
+    - legislature_10_sample_1_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_10_sample_1_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_10_sample_1_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_10_sample_1_segment_3_stats.csv
+
+Sample 2 | legislature_10.csv
+  Source phase: annotation_phase_2
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_10/sample_2/legislature_10.csv
+  Stats files:
+    - legislature_10_sample_2_stats_n1.csv
+    - legislature_10_sample_2_stats_n2.csv
+    - legislature_10_sample_2_stats_n3.csv
+  Propensity files:
+    - legislature_10_sample_2_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_10_sample_2_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_10_sample_2_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_10_sample_2_segment_3_stats.csv
+
+--------------------------------------------------------------------------------
+Legislature 11
+--------------------------------------------------------------------------------
+Sample 1 | legislature_11.csv
+  Source phase: annotation_phase_1
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_11/sample_1/legislature_11.csv
+  Stats files:
+    - legislature_11_sample_1_stats_n1.csv
+    - legislature_11_sample_1_stats_n2.csv
+    - legislature_11_sample_1_stats_n3.csv
+  Propensity files:
+    - legislature_11_sample_1_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_11_sample_1_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_11_sample_1_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_11_sample_1_segment_3_stats.csv
+
+Sample 2 | legislature_11.csv
+  Source phase: annotation_phase_2
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_11/sample_2/legislature_11.csv
+  Stats files:
+    - legislature_11_sample_2_stats_n1.csv
+    - legislature_11_sample_2_stats_n2.csv
+    - legislature_11_sample_2_stats_n3.csv
+  Propensity files:
+    - legislature_11_sample_2_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_11_sample_2_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_11_sample_2_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_11_sample_2_segment_3_stats.csv
+
+--------------------------------------------------------------------------------
+Legislature 12
+--------------------------------------------------------------------------------
+Sample 1 | legislature_12.csv
+  Source phase: annotation_phase_1
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_12/sample_1/legislature_12.csv
+  Stats files:
+    - legislature_12_sample_1_stats_n1.csv
+    - legislature_12_sample_1_stats_n2.csv
+    - legislature_12_sample_1_stats_n3.csv
+  Propensity files:
+    - legislature_12_sample_1_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_12_sample_1_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_12_sample_1_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_12_sample_1_segment_3_stats.csv
+
+Sample 2 | legislature_12.csv
+  Source phase: annotation_phase_2
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_12/sample_2/legislature_12.csv
+  Stats files:
+    - legislature_12_sample_2_stats_n1.csv
+    - legislature_12_sample_2_stats_n2.csv
+    - legislature_12_sample_2_stats_n3.csv
+  Propensity files:
+    - legislature_12_sample_2_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_12_sample_2_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_12_sample_2_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_12_sample_2_segment_3_stats.csv
+
+--------------------------------------------------------------------------------
+Legislature 13
+--------------------------------------------------------------------------------
+Sample 1 | legislature_13.csv
+  Source phase: annotation_phase_1
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_13/sample_1/legislature_13.csv
+  Stats files:
+    - legislature_13_sample_1_stats_n1.csv
+    - legislature_13_sample_1_stats_n2.csv
+    - legislature_13_sample_1_stats_n3.csv
+  Propensity files:
+    - legislature_13_sample_1_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_13_sample_1_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_13_sample_1_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_13_sample_1_segment_3_stats.csv
+
+Sample 2 | legislature_13.csv
+  Source phase: annotation_phase_2
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_13/sample_2/legislature_13.csv
+  Stats files:
+    - legislature_13_sample_2_stats_n1.csv
+    - legislature_13_sample_2_stats_n2.csv
+    - legislature_13_sample_2_stats_n3.csv
+  Propensity files:
+    - legislature_13_sample_2_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_13_sample_2_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_13_sample_2_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_13_sample_2_segment_3_stats.csv
+
+--------------------------------------------------------------------------------
+Legislature 14
+--------------------------------------------------------------------------------
+Sample 1 | legislature_14.csv
+  Source phase: annotation_phase_1
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_14/sample_1/legislature_14.csv
+  Stats files:
+    - legislature_14_sample_1_stats_n1.csv
+    - legislature_14_sample_1_stats_n2.csv
+    - legislature_14_sample_1_stats_n3.csv
+  Propensity files:
+    - legislature_14_sample_1_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_14_sample_1_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_14_sample_1_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_14_sample_1_segment_3_stats.csv
+
+Sample 2 | legislature_14.csv
+  Source phase: annotation_phase_2
+  Success: True
+  Prepared input: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_14/sample_2/legislature_14.csv
+  Stats files:
+    - legislature_14_sample_2_stats_n1.csv
+    - legislature_14_sample_2_stats_n2.csv
+    - legislature_14_sample_2_stats_n3.csv
+  Propensity files:
+    - legislature_14_sample_2_propensities.csv
+  Stats summary:
+    - Segment 1: 13 rows | legislature_14_sample_2_segment_1_stats.csv
+    - Segment 2: 13 rows | legislature_14_sample_2_segment_2_stats.csv
+    - Segment 3: 13 rows | legislature_14_sample_2_segment_3_stats.csv

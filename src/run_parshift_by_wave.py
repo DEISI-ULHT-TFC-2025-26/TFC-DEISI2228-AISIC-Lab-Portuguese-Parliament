@@ -15,6 +15,7 @@ WAVE_1_DIR = INPUT_CSV_DIR / "wave_1"
 WAVE_2_DIR = INPUT_CSV_DIR / "wave_2"
 
 RESULTS_DIR = PARSHIFT_DIR / "results"
+FINAL_RESULTS_DIR = RESULTS_DIR / "final_dataset"
 REPORTS_DIR = PARSHIFT_DIR / "reports"
 TEMP_DIR = PARSHIFT_DIR / "temp_parshift_input"
 
@@ -23,6 +24,8 @@ CSV_DELIMITER = "\t"
 
 
 def clean_output_dir(path: Path):
+    if path.exists():
+        shutil.rmtree(path)
     path.mkdir(parents=True, exist_ok=True)
 
 
@@ -73,7 +76,6 @@ def prepare_parshift_input_csv(original_csv_path: Path, temp_dir: Path):
             reply_to_id = last_utterance_by_speaker[target_id]
 
         reply_to_ids.append(reply_to_id)
-
         last_utterance_by_speaker[speaker_id] = row["utterance_id"]
 
     df["reply_to_id"] = reply_to_ids
@@ -104,19 +106,53 @@ def prepare_parshift_input_csv(original_csv_path: Path, temp_dir: Path):
     return temp_csv_path
 
 
-def run_parshift_for_file(csv_path: Path, wave: str, output_dir: Path):
-    legislature = extract_legislature_number(csv_path.name)
+def collect_final_input_files():
+    files = []
+
+    for source_phase, input_dir in [
+        ("annotation_phase_1", WAVE_1_DIR),
+        ("annotation_phase_2", WAVE_2_DIR)
+    ]:
+        if not input_dir.exists():
+            continue
+
+        for csv_path in sorted(input_dir.glob("*.csv"), key=lambda p: extract_legislature_number(p.name)):
+            files.append({
+                "source_phase": source_phase,
+                "path": csv_path,
+                "legislature": extract_legislature_number(csv_path.name)
+            })
+
+    files = sorted(files, key=lambda item: (item["legislature"], item["source_phase"], item["path"].name))
+
+    sample_counter_by_legislature = {}
+
+    for item in files:
+        legislature = item["legislature"]
+        sample_counter_by_legislature[legislature] = sample_counter_by_legislature.get(legislature, 0) + 1
+        item["sample"] = sample_counter_by_legislature[legislature]
+
+    return files
+
+
+def run_parshift_for_file(file_info, output_dir: Path):
+    csv_path = file_info["path"]
+    legislature = file_info["legislature"]
+    sample = file_info["sample"]
+    source_phase = file_info["source_phase"]
 
     leg_output_dir = output_dir / f"legislature_{legislature}"
     leg_output_dir.mkdir(parents=True, exist_ok=True)
 
-    temp_wave_dir = TEMP_DIR / wave / f"legislature_{legislature}"
+    temp_sample_dir = TEMP_DIR / f"legislature_{legislature}" / f"sample_{sample}"
 
     model = Parshift()
 
     result = {
-        "wave": wave,
+        "dataset": "final_dataset",
+        "source_phase": source_phase,
         "legislature": legislature,
+        "sample": sample,
         "input_file": csv_path.name,
         "success": False,
         "error": None,
@@ -127,7 +163,7 @@ def run_parshift_for_file(csv_path: Path, wave: str, output_dir: Path):
     }
 
     try:
-        prepared_csv_path = prepare_parshift_input_csv(csv_path, temp_wave_dir)
+        prepared_csv_path = prepare_parshift_input_csv(csv_path, temp_sample_dir)
         result["prepared_input"] = str(prepared_csv_path)
 
         model.process(
@@ -136,8 +172,8 @@ def run_parshift_for_file(csv_path: Path, wave: str, output_dir: Path):
             delimiter=CSV_DELIMITER
         )
 
-        stats_prefix = leg_output_dir / f"{wave}_legislature_{legislature}_stats"
-        prop_prefix = leg_output_dir / f"{wave}_legislature_{legislature}_propensities"
+        stats_prefix = leg_output_dir / f"legislature_{legislature}_sample_{sample}_stats"
+        prop_prefix = leg_output_dir / f"legislature_{legislature}_sample_{sample}_propensities"
 
         try:
             model.show_stats(filename=str(stats_prefix))
@@ -150,16 +186,17 @@ def run_parshift_for_file(csv_path: Path, wave: str, output_dir: Path):
             result["propensities_export_warning"] = str(e)
 
         for file in sorted(leg_output_dir.glob("*")):
-            if "stats" in file.name:
-                result["stats_files"].append(file.name)
+            if f"legislature_{legislature}_sample_{sample}" in file.name:
+                if "stats" in file.name:
+                    result["stats_files"].append(file.name)
 
-            if "propensities" in file.name or "propensity" in file.name:
-                result["propensity_files"].append(file.name)
+                if "propensities" in file.name or "propensity" in file.name:
+                    result["propensity_files"].append(file.name)
 
         if hasattr(model, "stats"):
             for idx, df in enumerate(model.stats):
-                segment_csv = leg_output_dir / f"{wave}_legislature_{legislature}_segment_{idx + 1}_stats.csv"
-                segment_json = leg_output_dir / f"{wave}_legislature_{legislature}_segment_{idx + 1}_stats.json"
+                segment_csv = leg_output_dir / f"legislature_{legislature}_sample_{sample}_segment_{idx + 1}_stats.csv"
+                segment_json = leg_output_dir / f"legislature_{legislature}_sample_{sample}_segment_{idx + 1}_stats.json"
 
                 try:
                     df.to_csv(
@@ -199,55 +236,64 @@ def run_parshift_for_file(csv_path: Path, wave: str, output_dir: Path):
     return result
 
 
-def run_wave(wave_name: str, input_dir: Path, output_dir: Path):
+def run_final_dataset(output_dir: Path):
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    files = sorted(
-        input_dir.glob("*.csv"),
-        key=lambda p: extract_legislature_number(p.name)
-    )
-
+    files = collect_final_input_files()
     results = []
 
-    for csv_path in files:
-        print(f"A correr ParShift: {wave_name} | {csv_path.name}")
+    for file_info in files:
+        print(
+            f"A correr ParShift: conjunto final | "
+            f"Legislatura {file_info['legislature']} | "
+            f"Amostra {file_info['sample']} | "
+            f"{file_info['path'].name}"
+        )
 
-        result = run_parshift_for_file(csv_path, wave_name, output_dir)
+        result = run_parshift_for_file(file_info, output_dir)
         results.append(result)
 
         if result["success"]:
-            print(f"  OK: Legislatura {result['legislature']}")
+            print(f"  OK: Legislatura {result['legislature']} | Amostra {result['sample']}")
         else:
-            print(f"  ERRO: Legislatura {result['legislature']} -> {result['error']}")
+            print(f"  ERRO: Legislatura {result['legislature']} | Amostra {result['sample']} -> {result['error']}")
 
     return results
 
 
 def write_report(report_path: Path, output):
+    results = output["results"]
+
     lines = []
 
     lines.append("PARSHIFT EXECUTION REPORT")
+    lines.append("Dataset: final_dataset")
     lines.append(f"Generated at: {output['generated_at']}")
     lines.append("")
     lines.append(f"N segments: {N_SEGMENTS}")
     lines.append(f"CSV delimiter: {repr(CSV_DELIMITER)}")
     lines.append("")
+    lines.append("=" * 80)
+    lines.append("FINAL DATASET")
+    lines.append("=" * 80)
+    lines.append("")
+    lines.append(f"Files processed: {len(results)}")
+    lines.append(f"Successful: {sum(1 for r in results if r['success'])}")
+    lines.append(f"Failed: {sum(1 for r in results if not r['success'])}")
+    lines.append("")
 
-    for wave in ["wave_1", "wave_2"]:
-        results = output["results"].get(wave, [])
+    legislatures = sorted(set(r["legislature"] for r in results))
 
-        lines.append("=" * 80)
-        lines.append(wave.upper())
-        lines.append("=" * 80)
-        lines.append("")
+    for legislature in legislatures:
+        leg_results = [r for r in results if r["legislature"] == legislature]
 
-        lines.append(f"Files processed: {len(results)}")
-        lines.append(f"Successful: {sum(1 for r in results if r['success'])}")
-        lines.append(f"Failed: {sum(1 for r in results if not r['success'])}")
-        lines.append("")
+        lines.append("-" * 80)
+        lines.append(f"Legislature {legislature}")
+        lines.append("-" * 80)
 
-        for result in results:
-            lines.append(f"Legislature {result['legislature']} | {result['input_file']}")
+        for result in sorted(leg_results, key=lambda r: r["sample"]):
+            lines.append(f"Sample {result['sample']} | {result['input_file']}")
+            lines.append(f"  Source phase: {result['source_phase']}")
             lines.append(f"  Success: {result['success']}")
 
             if result.get("prepared_input"):
@@ -299,27 +345,20 @@ def main():
 
     timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
-    wave1_output = RESULTS_DIR / "wave_1"
-    wave2_output = RESULTS_DIR / "wave_2"
+    clean_output_dir(FINAL_RESULTS_DIR)
 
-    clean_output_dir(wave1_output)
-    clean_output_dir(wave2_output)
-
-    wave1_results = run_wave("wave_1", WAVE_1_DIR, wave1_output)
-    wave2_results = run_wave("wave_2", WAVE_2_DIR, wave2_output)
+    final_results = run_final_dataset(FINAL_RESULTS_DIR)
 
     output = {
         "generated_at": timestamp,
+        "dataset": "final_dataset",
         "n_segments": N_SEGMENTS,
         "delimiter": CSV_DELIMITER,
-        "results": {
-            "wave_1": wave1_results,
-            "wave_2": wave2_results
-        }
+        "results": final_results
     }
 
-    json_path = REPORTS_DIR / f"parshift_execution_{timestamp}.json"
-    txt_path = REPORTS_DIR / f"parshift_execution_{timestamp}.txt"
+    json_path = REPORTS_DIR / f"parshift_execution_final_dataset_{timestamp}.json"
+    txt_path = REPORTS_DIR / f"parshift_execution_final_dataset_{timestamp}.txt"
 
     json_path.write_text(
         json.dumps(output, indent=2, ensure_ascii=False),
@@ -331,7 +370,7 @@ def main():
     print("")
     print(f"JSON criado: {json_path}")
     print(f"Relatório criado: {txt_path}")
-    print(f"Resultados em: {RESULTS_DIR}")
+    print(f"Resultados em: {FINAL_RESULTS_DIR}")
     print(f"CSV temporários em: {TEMP_DIR}")
 
 

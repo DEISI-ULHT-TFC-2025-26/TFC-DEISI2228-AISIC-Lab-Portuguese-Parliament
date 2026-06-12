@@ -1,0 +1,38 @@
+PARSHIFT FINAL PLOTS REPORT
+Dataset: final_dataset
+Generated at: 2026-06-12_03-52-29
+
+Sources:
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/aggregated/parshift_by_class_2026-06-12_03-47-42.csv
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/aggregated/parshift_by_legislature_segment_2026-06-12_03-47-42.csv
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/aggregated/parshift_by_segment_2026-06-12_03-47-42.csv
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/aggregated/parshift_class_by_legislature_2026-06-12_03-47-42.csv
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/aggregated/parshift_global_2026-06-12_03-47-42.csv
+
+Generated plots:
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/global/01_global_frequency_by_participation_shift.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/global/02_global_probability_by_participation_shift.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/treemaps/01_global_participation_shifts_treemap.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/by_legislature/01_main_participation_shifts_by_legislature_line.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/by_legislature/02_main_participation_shifts_by_legislature_bars.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/by_legislature/03_dominant_participation_shift_by_legislature.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/treemaps/legislature_01_participation_shifts_treemap.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/treemaps/legislature_02_participation_shifts_treemap.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/treemaps/legislature_03_participation_shifts_treemap.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/treemaps/legislature_04_participation_shifts_treemap.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/treemaps/legislature_05_participation_shifts_treemap.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/treemaps/legislature_06_participation_shifts_treemap.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/treemaps/legislature_07_participation_shifts_treemap.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/treemaps/legislature_08_participation_shifts_treemap.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/treemaps/legislature_09_participation_shifts_treemap.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/treemaps/legislature_10_participation_shifts_treemap.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/treemaps/legislature_11_participation_shifts_treemap.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/treemaps/legislature_12_participation_shifts_treemap.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/treemaps/legislature_13_participation_shifts_treemap.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/treemaps/legislature_14_participation_shifts_treemap.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/by_segment/01_main_participation_shifts_by_segment_line.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/by_segment/02_main_participation_shifts_by_segment_bars.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/by_class/01_global_frequency_by_shift_class.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/by_class/02_global_probability_by_shift_class.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/treemaps/02_global_shift_classes_treemap.png
+ - /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/plots/final_dataset/by_class/03_shift_classes_by_legislature.png
