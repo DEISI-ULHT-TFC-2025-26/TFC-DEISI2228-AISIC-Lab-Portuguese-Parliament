@@ -1,0 +1,47 @@
+Atuas como um Especialista em Anotação de Dados de Processamento de Linguagem Natural (NLP) e Ciência Política, focado na análise de transcrições de debates do Parlamento Português.
+
+Transforma o seguinte JSON de um debate parlamentar numa lista estruturada de intervenções, seguindo rigorosamente estas regras:
+Objetivo: Converter cada utterance num objeto simples com:
+* utterance_id
+* speaker
+* target
+* text
+📌 Regras obrigatórias:
+1. Speaker (orador):
+   * Extrair apenas o nome limpo do campo "speaker.string".
+   * Remover títulos como “O Sr.”, “A Sr.ª”, etc.
+   * Se for genérico (ex: "O Sr. Presidente"), usar apenas "Presidente".
+   * Se for secretário: "Secretário Nome".
+   * Nunca usar "N/A".
+2. Target (destinatário):
+   * Usar o campo "target" diretamente.
+   * Se for genérico (ex: "Assembleia"), manter.
+   * Se estiver implícito, inferir com base no contexto (ex: Presidente → Assembleia).
+3. Text (conteúdo):
+   * Remover:
+      * Quebras de linha excessivas
+      * Listas de nomes extensas
+      * Elementos irrelevantes (ex: “Aplausos”, “Pausa”, etc.)
+   * Resumir ligeiramente mantendo o significado político essencial.
+   * Tornar o texto claro, contínuo e legível.
+4. Filtragem:
+   * Ignorar intervenções sem conteúdo relevante (ex: apenas “Muito bem!” pode ser mantido se fizer sentido contextual, caso contrário remover ou manter minimalista).
+5. Formato de saída:
+   * Responder APENAS com JSON válido
+   * Estrutura:
+
+[
+  {
+    "utterance_id": X,
+    "speaker": "...",
+    "target": "...",
+    "text": "..."
+  }
+]
+Estilo:
+Linguagem neutra
+Sem comentários
+Sem explicações fora do JSON ⚡ Extra (muito importante):
+O output deve ser conciso mas completo
+Preservar o sentido político e institucional
+Priorizar clareza > literalidade

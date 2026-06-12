@@ -1,0 +1,1072 @@
+{
+  "generated_at": "2026-06-12_03-41-51",
+  "dataset": "final_dataset",
+  "n_segments": 3,
+  "delimiter": "\t",
+  "results": [
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_1",
+      "legislature": 1,
+      "sample": 1,
+      "input_file": "legislature_1.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_1/sample_1/legislature_1.csv",
+      "stats_files": [
+        "legislature_1_sample_1_stats_n1.csv",
+        "legislature_1_sample_1_stats_n2.csv",
+        "legislature_1_sample_1_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_1_sample_1_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_1_sample_1_segment_1_stats.csv",
+          "json": "legislature_1_sample_1_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_1_sample_1_segment_2_stats.csv",
+          "json": "legislature_1_sample_1_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_1_sample_1_segment_3_stats.csv",
+          "json": "legislature_1_sample_1_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_2",
+      "legislature": 1,
+      "sample": 2,
+      "input_file": "legislature_1.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_1/sample_2/legislature_1.csv",
+      "stats_files": [
+        "legislature_1_sample_2_stats_n1.csv",
+        "legislature_1_sample_2_stats_n2.csv",
+        "legislature_1_sample_2_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_1_sample_2_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_1_sample_2_segment_1_stats.csv",
+          "json": "legislature_1_sample_2_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_1_sample_2_segment_2_stats.csv",
+          "json": "legislature_1_sample_2_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_1_sample_2_segment_3_stats.csv",
+          "json": "legislature_1_sample_2_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_1",
+      "legislature": 2,
+      "sample": 1,
+      "input_file": "legislature_2.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_2/sample_1/legislature_2.csv",
+      "stats_files": [
+        "legislature_2_sample_1_stats_n1.csv",
+        "legislature_2_sample_1_stats_n2.csv",
+        "legislature_2_sample_1_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_2_sample_1_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_2_sample_1_segment_1_stats.csv",
+          "json": "legislature_2_sample_1_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_2_sample_1_segment_2_stats.csv",
+          "json": "legislature_2_sample_1_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_2_sample_1_segment_3_stats.csv",
+          "json": "legislature_2_sample_1_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_2",
+      "legislature": 2,
+      "sample": 2,
+      "input_file": "legislature_2.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_2/sample_2/legislature_2.csv",
+      "stats_files": [
+        "legislature_2_sample_2_stats_n1.csv",
+        "legislature_2_sample_2_stats_n2.csv",
+        "legislature_2_sample_2_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_2_sample_2_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_2_sample_2_segment_1_stats.csv",
+          "json": "legislature_2_sample_2_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_2_sample_2_segment_2_stats.csv",
+          "json": "legislature_2_sample_2_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_2_sample_2_segment_3_stats.csv",
+          "json": "legislature_2_sample_2_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_1",
+      "legislature": 3,
+      "sample": 1,
+      "input_file": "legislature_3.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_3/sample_1/legislature_3.csv",
+      "stats_files": [
+        "legislature_3_sample_1_stats_n1.csv",
+        "legislature_3_sample_1_stats_n2.csv",
+        "legislature_3_sample_1_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_3_sample_1_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_3_sample_1_segment_1_stats.csv",
+          "json": "legislature_3_sample_1_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_3_sample_1_segment_2_stats.csv",
+          "json": "legislature_3_sample_1_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_3_sample_1_segment_3_stats.csv",
+          "json": "legislature_3_sample_1_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_2",
+      "legislature": 3,
+      "sample": 2,
+      "input_file": "legislature_3.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_3/sample_2/legislature_3.csv",
+      "stats_files": [
+        "legislature_3_sample_2_stats_n1.csv",
+        "legislature_3_sample_2_stats_n2.csv",
+        "legislature_3_sample_2_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_3_sample_2_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_3_sample_2_segment_1_stats.csv",
+          "json": "legislature_3_sample_2_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_3_sample_2_segment_2_stats.csv",
+          "json": "legislature_3_sample_2_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_3_sample_2_segment_3_stats.csv",
+          "json": "legislature_3_sample_2_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_1",
+      "legislature": 4,
+      "sample": 1,
+      "input_file": "legislature_4.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_4/sample_1/legislature_4.csv",
+      "stats_files": [
+        "legislature_4_sample_1_stats_n1.csv",
+        "legislature_4_sample_1_stats_n2.csv",
+        "legislature_4_sample_1_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_4_sample_1_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_4_sample_1_segment_1_stats.csv",
+          "json": "legislature_4_sample_1_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_4_sample_1_segment_2_stats.csv",
+          "json": "legislature_4_sample_1_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_4_sample_1_segment_3_stats.csv",
+          "json": "legislature_4_sample_1_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_2",
+      "legislature": 4,
+      "sample": 2,
+      "input_file": "legislature_4.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_4/sample_2/legislature_4.csv",
+      "stats_files": [
+        "legislature_4_sample_2_stats_n1.csv",
+        "legislature_4_sample_2_stats_n2.csv",
+        "legislature_4_sample_2_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_4_sample_2_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_4_sample_2_segment_1_stats.csv",
+          "json": "legislature_4_sample_2_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_4_sample_2_segment_2_stats.csv",
+          "json": "legislature_4_sample_2_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_4_sample_2_segment_3_stats.csv",
+          "json": "legislature_4_sample_2_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_1",
+      "legislature": 5,
+      "sample": 1,
+      "input_file": "legislature_5.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_5/sample_1/legislature_5.csv",
+      "stats_files": [
+        "legislature_5_sample_1_stats_n1.csv",
+        "legislature_5_sample_1_stats_n2.csv",
+        "legislature_5_sample_1_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_5_sample_1_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_5_sample_1_segment_1_stats.csv",
+          "json": "legislature_5_sample_1_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_5_sample_1_segment_2_stats.csv",
+          "json": "legislature_5_sample_1_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_5_sample_1_segment_3_stats.csv",
+          "json": "legislature_5_sample_1_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_2",
+      "legislature": 5,
+      "sample": 2,
+      "input_file": "legislature_5.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_5/sample_2/legislature_5.csv",
+      "stats_files": [
+        "legislature_5_sample_2_stats_n1.csv",
+        "legislature_5_sample_2_stats_n2.csv",
+        "legislature_5_sample_2_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_5_sample_2_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_5_sample_2_segment_1_stats.csv",
+          "json": "legislature_5_sample_2_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_5_sample_2_segment_2_stats.csv",
+          "json": "legislature_5_sample_2_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_5_sample_2_segment_3_stats.csv",
+          "json": "legislature_5_sample_2_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_1",
+      "legislature": 6,
+      "sample": 1,
+      "input_file": "legislature_6.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_6/sample_1/legislature_6.csv",
+      "stats_files": [
+        "legislature_6_sample_1_stats_n1.csv",
+        "legislature_6_sample_1_stats_n2.csv",
+        "legislature_6_sample_1_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_6_sample_1_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_6_sample_1_segment_1_stats.csv",
+          "json": "legislature_6_sample_1_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_6_sample_1_segment_2_stats.csv",
+          "json": "legislature_6_sample_1_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_6_sample_1_segment_3_stats.csv",
+          "json": "legislature_6_sample_1_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_2",
+      "legislature": 6,
+      "sample": 2,
+      "input_file": "legislature_6.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_6/sample_2/legislature_6.csv",
+      "stats_files": [
+        "legislature_6_sample_2_stats_n1.csv",
+        "legislature_6_sample_2_stats_n2.csv",
+        "legislature_6_sample_2_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_6_sample_2_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_6_sample_2_segment_1_stats.csv",
+          "json": "legislature_6_sample_2_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_6_sample_2_segment_2_stats.csv",
+          "json": "legislature_6_sample_2_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_6_sample_2_segment_3_stats.csv",
+          "json": "legislature_6_sample_2_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_1",
+      "legislature": 7,
+      "sample": 1,
+      "input_file": "legislature_7.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_7/sample_1/legislature_7.csv",
+      "stats_files": [
+        "legislature_7_sample_1_stats_n1.csv",
+        "legislature_7_sample_1_stats_n2.csv",
+        "legislature_7_sample_1_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_7_sample_1_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_7_sample_1_segment_1_stats.csv",
+          "json": "legislature_7_sample_1_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_7_sample_1_segment_2_stats.csv",
+          "json": "legislature_7_sample_1_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_7_sample_1_segment_3_stats.csv",
+          "json": "legislature_7_sample_1_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_2",
+      "legislature": 7,
+      "sample": 2,
+      "input_file": "legislature_7.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_7/sample_2/legislature_7.csv",
+      "stats_files": [
+        "legislature_7_sample_2_stats_n1.csv",
+        "legislature_7_sample_2_stats_n2.csv",
+        "legislature_7_sample_2_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_7_sample_2_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_7_sample_2_segment_1_stats.csv",
+          "json": "legislature_7_sample_2_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_7_sample_2_segment_2_stats.csv",
+          "json": "legislature_7_sample_2_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_7_sample_2_segment_3_stats.csv",
+          "json": "legislature_7_sample_2_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_1",
+      "legislature": 8,
+      "sample": 1,
+      "input_file": "legislature_8.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_8/sample_1/legislature_8.csv",
+      "stats_files": [
+        "legislature_8_sample_1_stats_n1.csv",
+        "legislature_8_sample_1_stats_n2.csv",
+        "legislature_8_sample_1_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_8_sample_1_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_8_sample_1_segment_1_stats.csv",
+          "json": "legislature_8_sample_1_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_8_sample_1_segment_2_stats.csv",
+          "json": "legislature_8_sample_1_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_8_sample_1_segment_3_stats.csv",
+          "json": "legislature_8_sample_1_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_2",
+      "legislature": 8,
+      "sample": 2,
+      "input_file": "legislature_8.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_8/sample_2/legislature_8.csv",
+      "stats_files": [
+        "legislature_8_sample_2_stats_n1.csv",
+        "legislature_8_sample_2_stats_n2.csv",
+        "legislature_8_sample_2_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_8_sample_2_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_8_sample_2_segment_1_stats.csv",
+          "json": "legislature_8_sample_2_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_8_sample_2_segment_2_stats.csv",
+          "json": "legislature_8_sample_2_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_8_sample_2_segment_3_stats.csv",
+          "json": "legislature_8_sample_2_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_1",
+      "legislature": 9,
+      "sample": 1,
+      "input_file": "legislature_9.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_9/sample_1/legislature_9.csv",
+      "stats_files": [
+        "legislature_9_sample_1_stats_n1.csv",
+        "legislature_9_sample_1_stats_n2.csv",
+        "legislature_9_sample_1_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_9_sample_1_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_9_sample_1_segment_1_stats.csv",
+          "json": "legislature_9_sample_1_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_9_sample_1_segment_2_stats.csv",
+          "json": "legislature_9_sample_1_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_9_sample_1_segment_3_stats.csv",
+          "json": "legislature_9_sample_1_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_2",
+      "legislature": 9,
+      "sample": 2,
+      "input_file": "legislature_9.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_9/sample_2/legislature_9.csv",
+      "stats_files": [
+        "legislature_9_sample_2_stats_n1.csv",
+        "legislature_9_sample_2_stats_n2.csv",
+        "legislature_9_sample_2_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_9_sample_2_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_9_sample_2_segment_1_stats.csv",
+          "json": "legislature_9_sample_2_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_9_sample_2_segment_2_stats.csv",
+          "json": "legislature_9_sample_2_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_9_sample_2_segment_3_stats.csv",
+          "json": "legislature_9_sample_2_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_1",
+      "legislature": 10,
+      "sample": 1,
+      "input_file": "legislature_10.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_10/sample_1/legislature_10.csv",
+      "stats_files": [
+        "legislature_10_sample_1_stats_n1.csv",
+        "legislature_10_sample_1_stats_n2.csv",
+        "legislature_10_sample_1_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_10_sample_1_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_10_sample_1_segment_1_stats.csv",
+          "json": "legislature_10_sample_1_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_10_sample_1_segment_2_stats.csv",
+          "json": "legislature_10_sample_1_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_10_sample_1_segment_3_stats.csv",
+          "json": "legislature_10_sample_1_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_2",
+      "legislature": 10,
+      "sample": 2,
+      "input_file": "legislature_10.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_10/sample_2/legislature_10.csv",
+      "stats_files": [
+        "legislature_10_sample_2_stats_n1.csv",
+        "legislature_10_sample_2_stats_n2.csv",
+        "legislature_10_sample_2_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_10_sample_2_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_10_sample_2_segment_1_stats.csv",
+          "json": "legislature_10_sample_2_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_10_sample_2_segment_2_stats.csv",
+          "json": "legislature_10_sample_2_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_10_sample_2_segment_3_stats.csv",
+          "json": "legislature_10_sample_2_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_1",
+      "legislature": 11,
+      "sample": 1,
+      "input_file": "legislature_11.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_11/sample_1/legislature_11.csv",
+      "stats_files": [
+        "legislature_11_sample_1_stats_n1.csv",
+        "legislature_11_sample_1_stats_n2.csv",
+        "legislature_11_sample_1_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_11_sample_1_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_11_sample_1_segment_1_stats.csv",
+          "json": "legislature_11_sample_1_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_11_sample_1_segment_2_stats.csv",
+          "json": "legislature_11_sample_1_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_11_sample_1_segment_3_stats.csv",
+          "json": "legislature_11_sample_1_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_2",
+      "legislature": 11,
+      "sample": 2,
+      "input_file": "legislature_11.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_11/sample_2/legislature_11.csv",
+      "stats_files": [
+        "legislature_11_sample_2_stats_n1.csv",
+        "legislature_11_sample_2_stats_n2.csv",
+        "legislature_11_sample_2_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_11_sample_2_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_11_sample_2_segment_1_stats.csv",
+          "json": "legislature_11_sample_2_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_11_sample_2_segment_2_stats.csv",
+          "json": "legislature_11_sample_2_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_11_sample_2_segment_3_stats.csv",
+          "json": "legislature_11_sample_2_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_1",
+      "legislature": 12,
+      "sample": 1,
+      "input_file": "legislature_12.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_12/sample_1/legislature_12.csv",
+      "stats_files": [
+        "legislature_12_sample_1_stats_n1.csv",
+        "legislature_12_sample_1_stats_n2.csv",
+        "legislature_12_sample_1_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_12_sample_1_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_12_sample_1_segment_1_stats.csv",
+          "json": "legislature_12_sample_1_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_12_sample_1_segment_2_stats.csv",
+          "json": "legislature_12_sample_1_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_12_sample_1_segment_3_stats.csv",
+          "json": "legislature_12_sample_1_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_2",
+      "legislature": 12,
+      "sample": 2,
+      "input_file": "legislature_12.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_12/sample_2/legislature_12.csv",
+      "stats_files": [
+        "legislature_12_sample_2_stats_n1.csv",
+        "legislature_12_sample_2_stats_n2.csv",
+        "legislature_12_sample_2_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_12_sample_2_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_12_sample_2_segment_1_stats.csv",
+          "json": "legislature_12_sample_2_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_12_sample_2_segment_2_stats.csv",
+          "json": "legislature_12_sample_2_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_12_sample_2_segment_3_stats.csv",
+          "json": "legislature_12_sample_2_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_1",
+      "legislature": 13,
+      "sample": 1,
+      "input_file": "legislature_13.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_13/sample_1/legislature_13.csv",
+      "stats_files": [
+        "legislature_13_sample_1_stats_n1.csv",
+        "legislature_13_sample_1_stats_n2.csv",
+        "legislature_13_sample_1_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_13_sample_1_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_13_sample_1_segment_1_stats.csv",
+          "json": "legislature_13_sample_1_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_13_sample_1_segment_2_stats.csv",
+          "json": "legislature_13_sample_1_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_13_sample_1_segment_3_stats.csv",
+          "json": "legislature_13_sample_1_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_2",
+      "legislature": 13,
+      "sample": 2,
+      "input_file": "legislature_13.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_13/sample_2/legislature_13.csv",
+      "stats_files": [
+        "legislature_13_sample_2_stats_n1.csv",
+        "legislature_13_sample_2_stats_n2.csv",
+        "legislature_13_sample_2_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_13_sample_2_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_13_sample_2_segment_1_stats.csv",
+          "json": "legislature_13_sample_2_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_13_sample_2_segment_2_stats.csv",
+          "json": "legislature_13_sample_2_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_13_sample_2_segment_3_stats.csv",
+          "json": "legislature_13_sample_2_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_1",
+      "legislature": 14,
+      "sample": 1,
+      "input_file": "legislature_14.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_14/sample_1/legislature_14.csv",
+      "stats_files": [
+        "legislature_14_sample_1_stats_n1.csv",
+        "legislature_14_sample_1_stats_n2.csv",
+        "legislature_14_sample_1_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_14_sample_1_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_14_sample_1_segment_1_stats.csv",
+          "json": "legislature_14_sample_1_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_14_sample_1_segment_2_stats.csv",
+          "json": "legislature_14_sample_1_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_14_sample_1_segment_3_stats.csv",
+          "json": "legislature_14_sample_1_segment_3_stats.json"
+        }
+      ]
+    },
+    {
+      "dataset": "final_dataset",
+      "source_phase": "annotation_phase_2",
+      "legislature": 14,
+      "sample": 2,
+      "input_file": "legislature_14.csv",
+      "success": true,
+      "error": null,
+      "prepared_input": "/Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/parshift/temp_parshift_input/legislature_14/sample_2/legislature_14.csv",
+      "stats_files": [
+        "legislature_14_sample_2_stats_n1.csv",
+        "legislature_14_sample_2_stats_n2.csv",
+        "legislature_14_sample_2_stats_n3.csv"
+      ],
+      "propensity_files": [
+        "legislature_14_sample_2_propensities.csv"
+      ],
+      "stats_summary": [
+        {
+          "segment": 1,
+          "rows": 13,
+          "csv": "legislature_14_sample_2_segment_1_stats.csv",
+          "json": "legislature_14_sample_2_segment_1_stats.json"
+        },
+        {
+          "segment": 2,
+          "rows": 13,
+          "csv": "legislature_14_sample_2_segment_2_stats.csv",
+          "json": "legislature_14_sample_2_segment_2_stats.json"
+        },
+        {
+          "segment": 3,
+          "rows": 13,
+          "csv": "legislature_14_sample_2_segment_3_stats.csv",
+          "json": "legislature_14_sample_2_segment_3_stats.json"
+        }
+      ]
+    }
+  ]
+}

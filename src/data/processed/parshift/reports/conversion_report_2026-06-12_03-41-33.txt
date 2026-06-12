@@ -1,0 +1,178 @@
+PARSHIFT CONVERSION REPORT
+Timestamp: 2026-06-12_03-41-33
+Delimiter: TAB
+Default target: Assembleia
+
+Total files processed: 28
+Total converted: 28
+Total participants mapped: 649
+
+================================================================================
+wave_1 | Legislature 1 | 1 - 01-2-022.json
+Converted: True
+Utterances: 266
+Output: legislature_1.csv
+
+================================================================================
+wave_1 | Legislature 2 | 2 - 02-2-024.json
+Converted: True
+Utterances: 261
+Output: legislature_2.csv
+
+================================================================================
+wave_1 | Legislature 3 | 3 - 03-2-007.json
+Converted: True
+Utterances: 276
+Output: legislature_3.csv
+
+================================================================================
+wave_1 | Legislature 4 | 4 - 04-1-018.json
+Converted: True
+Utterances: 213
+Output: legislature_4.csv
+
+================================================================================
+wave_1 | Legislature 5 | 5 - 05-2-068.json
+Converted: True
+Utterances: 234
+Output: legislature_5.csv
+
+================================================================================
+wave_1 | Legislature 6 | 6 - 06-3-010.json
+Converted: True
+Utterances: 219
+Output: legislature_6.csv
+
+================================================================================
+wave_1 | Legislature 7 | 7 - 07-2-008.json
+Converted: True
+Utterances: 292
+Output: legislature_7.csv
+
+================================================================================
+wave_1 | Legislature 8 | 8 - 08-1-004.json
+Converted: True
+Utterances: 317
+Output: legislature_8.csv
+
+================================================================================
+wave_1 | Legislature 9 | 9 - 09-1-061.json
+Converted: True
+Utterances: 385
+Output: legislature_9.csv
+
+================================================================================
+wave_1 | Legislature 10 | 10 - 10-1-065.json
+Converted: True
+Utterances: 310
+Output: legislature_10.csv
+
+================================================================================
+wave_1 | Legislature 11 | 11 - 11-1-076.json
+Converted: True
+Utterances: 279
+Output: legislature_11.csv
+
+================================================================================
+wave_1 | Legislature 12 | 12 - 12-3-094.json
+Converted: True
+Utterances: 277
+Output: legislature_12.csv
+
+================================================================================
+wave_1 | Legislature 13 | 13 - 13-1-009.json
+Converted: True
+Utterances: 243
+Output: legislature_13.csv
+
+================================================================================
+wave_1 | Legislature 14 | 14 - 14-1-036.json
+Converted: True
+Utterances: 248
+Output: legislature_14.csv
+
+================================================================================
+wave_2 | Legislature 1 | 1 - 01-3-001.json
+Converted: True
+Utterances: 265
+Output: legislature_1.csv
+
+================================================================================
+wave_2 | Legislature 2 | 2 - 02-3-033.json
+Converted: True
+Utterances: 263
+Output: legislature_2.csv
+
+================================================================================
+wave_2 | Legislature 3 | 3 - 03-2-054.json
+Converted: True
+Utterances: 276
+Output: legislature_3.csv
+
+================================================================================
+wave_2 | Legislature 4 | 4 - 04-2-015.json
+Converted: True
+Utterances: 213
+Output: legislature_4.csv
+
+================================================================================
+wave_2 | Legislature 5 | 5 - 05-4-083.json
+Converted: True
+Utterances: 234
+Output: legislature_5.csv
+
+================================================================================
+wave_2 | Legislature 6 | 6 - 06-1-082.json
+Converted: True
+Utterances: 220
+Output: legislature_6.csv
+
+================================================================================
+wave_2 | Legislature 7 | 7 - 07-3-022.json
+Converted: True
+Utterances: 292
+Output: legislature_7.csv
+
+================================================================================
+wave_2 | Legislature 8 | 8 - 08-2-105.json
+Converted: True
+Utterances: 317
+Output: legislature_8.csv
+
+================================================================================
+wave_2 | Legislature 9 | 9 - 09-2-004.json
+Converted: True
+Utterances: 382
+Output: legislature_9.csv
+
+================================================================================
+wave_2 | Legislature 10 | 10 - 10-1-086.json
+Converted: True
+Utterances: 310
+Output: legislature_10.csv
+
+================================================================================
+wave_2 | Legislature 11 | 11 - 11-2-075.json
+Converted: True
+Utterances: 278
+Output: legislature_11.csv
+Warnings:
+ - utterance_id não é sequência perfeita 1..N.
+
+================================================================================
+wave_2 | Legislature 12 | 12 - 12-4-045.json
+Converted: True
+Utterances: 277
+Output: legislature_12.csv
+
+================================================================================
+wave_2 | Legislature 13 | 13 - 13-1-036.json
+Converted: True
+Utterances: 243
+Output: legislature_13.csv
+
+================================================================================
+wave_2 | Legislature 14 | 14 - 14-1-074.json
+Converted: True
+Utterances: 246
+Output: legislature_14.csv

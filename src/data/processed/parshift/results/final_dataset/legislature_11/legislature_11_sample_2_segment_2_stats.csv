@@ -1,0 +1,14 @@
+Pshift,Frequency,Probability,P(S|D),"P(S|D,C)",Change of Speaker (C),Directed Remark (D)
+A0-XA,23,0.25,0.56,0.56,True,False
+A0-X0,18,0.2,0.44,0.44,True,False
+A0-XY,0,0.0,0.0,0.0,True,False
+A0-AY,0,0.0,0.0,,False,False
+AB-BA,21,0.23,0.41,0.41,True,True
+AB-B0,17,0.18,0.33,0.33,True,True
+AB-X0,5,0.05,0.1,0.1,True,True
+AB-XA,8,0.09,0.16,0.16,True,True
+AB-XB,0,0.0,0.0,0.0,True,True
+AB-A0,0,0.0,0.0,,False,True
+AB-BY,0,0.0,0.0,0.0,True,True
+AB-XY,0,0.0,0.0,0.0,True,True
+AB-AY,0,0.0,0.0,,False,True

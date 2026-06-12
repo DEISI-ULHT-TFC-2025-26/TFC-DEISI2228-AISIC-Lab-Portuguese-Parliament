@@ -1,0 +1,120 @@
+ANNOTATION SAMPLE SELECTION REPORT
+Date: 2026-06-06
+Time: 00:49:10
+Timestamp: 2026-06-06_00-49-10
+
+Selection rule:
+One debate per legislature using the second closest debate to the median utterance count.
+If a legislature has only one debate, that debate is selected.
+
+Legislature: 1
+  Original file: 01-3-001.json
+  Copied as: 2nd || 1 - 01-3-001.json
+  Utterances: 265
+  Median: 265.5
+  Distance: 0.5
+  Selection rank by median proximity: 2
+
+Legislature: 2
+  Original file: 02-3-033.json
+  Copied as: 2nd || 2 - 02-3-033.json
+  Utterances: 263
+  Median: 261
+  Distance: 2
+  Selection rank by median proximity: 2
+
+Legislature: 3
+  Original file: 03-2-054.json
+  Copied as: 2nd || 3 - 03-2-054.json
+  Utterances: 276
+  Median: 276
+  Distance: 0
+  Selection rank by median proximity: 2
+
+Legislature: 4
+  Original file: 04-2-015.json
+  Copied as: 2nd || 4 - 04-2-015.json
+  Utterances: 213
+  Median: 213
+  Distance: 0
+  Selection rank by median proximity: 2
+
+Legislature: 5
+  Original file: 05-4-083.json
+  Copied as: 2nd || 5 - 05-4-083.json
+  Utterances: 234
+  Median: 234
+  Distance: 0
+  Selection rank by median proximity: 2
+
+Legislature: 6
+  Original file: 06-1-082.json
+  Copied as: 2nd || 6 - 06-1-082.json
+  Utterances: 220
+  Median: 219
+  Distance: 1
+  Selection rank by median proximity: 2
+
+Legislature: 7
+  Original file: 07-3-022.json
+  Copied as: 2nd || 7 - 07-3-022.json
+  Utterances: 292
+  Median: 292
+  Distance: 0
+  Selection rank by median proximity: 2
+
+Legislature: 8
+  Original file: 08-2-105.json
+  Copied as: 2nd || 8 - 08-2-105.json
+  Utterances: 317
+  Median: 317
+  Distance: 0
+  Selection rank by median proximity: 2
+
+Legislature: 9
+  Original file: 09-2-004.json
+  Copied as: 2nd || 9 - 09-2-004.json
+  Utterances: 382
+  Median: 383.5
+  Distance: 1.5
+  Selection rank by median proximity: 2
+
+Legislature: 10
+  Original file: 10-1-086.json
+  Copied as: 2nd || 10 - 10-1-086.json
+  Utterances: 310
+  Median: 310.0
+  Distance: 0.0
+  Selection rank by median proximity: 2
+
+Legislature: 11
+  Original file: 11-2-075.json
+  Copied as: 2nd || 11 - 11-2-075.json
+  Utterances: 279
+  Median: 279
+  Distance: 0
+  Selection rank by median proximity: 2
+
+Legislature: 12
+  Original file: 12-4-045.json
+  Copied as: 2nd || 12 - 12-4-045.json
+  Utterances: 277
+  Median: 277
+  Distance: 0
+  Selection rank by median proximity: 2
+
+Legislature: 13
+  Original file: 13-1-036.json
+  Copied as: 2nd || 13 - 13-1-036.json
+  Utterances: 243
+  Median: 243
+  Distance: 0
+  Selection rank by median proximity: 2
+
+Legislature: 14
+  Original file: 14-1-074.json
+  Copied as: 2nd || 14 - 14-1-074.json
+  Utterances: 246
+  Median: 247.0
+  Distance: 1.0
+  Selection rank by median proximity: 2

@@ -1,0 +1,201 @@
+AGGREGATED PARSHIFT RESULTS REPORT
+Dataset: final_dataset
+Generated at: 2026-06-12_03-47-42
+
+================================================================================
+INPUT SUMMARY
+================================================================================
+Total rows: 1092
+Detected stats files: 84
+Legislatures: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+Samples per legislature: [1, 2]
+Segments: [1, 2, 3]
+Pshifts: ['A0-AY', 'A0-X0', 'A0-XA', 'A0-XY', 'AB-A0', 'AB-AY', 'AB-B0', 'AB-BA', 'AB-BY', 'AB-X0', 'AB-XA', 'AB-XB', 'AB-XY']
+Total transitions: 7388
+
+================================================================================
+GLOBAL PARTICIPATION SHIFTS
+================================================================================
+A0-X0: freq=3274, prob=0.4432, class=Turn Claiming
+A0-XA: freq=1348, prob=0.1825, class=Turn Claiming
+AB-B0: freq=970, prob=0.1313, class=Turn Receiving
+AB-BA: freq=726, prob=0.0983, class=Turn Receiving
+AB-XA: freq=675, prob=0.0914, class=Turn Usurping
+AB-X0: freq=377, prob=0.0510, class=Turn Usurping
+AB-A0: freq=18, prob=0.0024, class=Turn Continuing
+A0-XY: freq=0, prob=0.0000, class=Turn Claiming
+A0-AY: freq=0, prob=0.0000, class=Turn Continuing
+AB-XB: freq=0, prob=0.0000, class=Turn Usurping
+AB-BY: freq=0, prob=0.0000, class=Turn Receiving
+AB-XY: freq=0, prob=0.0000, class=Turn Usurping
+AB-AY: freq=0, prob=0.0000, class=Turn Continuing
+
+================================================================================
+PARTICIPATION SHIFT CLASSES
+================================================================================
+Turn Claiming: freq=4622, prob=0.6256
+Turn Receiving: freq=1696, prob=0.2296
+Turn Usurping: freq=1052, prob=0.1424
+Turn Continuing: freq=18, prob=0.0024
+
+================================================================================
+DOMINANT SHIFTS BY LEGISLATURE AND SEGMENT
+================================================================================
+Legislature 1 | Segment 1 -> A0-X0 (freq=56, prob=0.6800)
+Legislature 1 | Segment 2 -> A0-X0 (freq=50, prob=0.6200)
+Legislature 1 | Segment 3 -> A0-X0 (freq=56, prob=0.6700)
+Legislature 2 | Segment 1 -> A0-X0 (freq=54, prob=0.6800)
+Legislature 2 | Segment 2 -> A0-X0 (freq=52, prob=0.6300)
+Legislature 2 | Segment 3 -> A0-X0 (freq=62, prob=0.7500)
+Legislature 3 | Segment 1 -> A0-X0 (freq=78, prob=0.9500)
+Legislature 3 | Segment 2 -> A0-X0 (freq=78, prob=0.9300)
+Legislature 3 | Segment 3 -> A0-X0 (freq=72, prob=0.8600)
+Legislature 4 | Segment 1 -> AB-BA (freq=28, prob=0.4200)
+Legislature 4 | Segment 2 -> A0-X0 (freq=38, prob=0.6100)
+Legislature 4 | Segment 3 -> A0-X0 (freq=34, prob=0.5500)
+Legislature 5 | Segment 1 -> A0-X0 (freq=66, prob=0.8700)
+Legislature 5 | Segment 2 -> A0-X0 (freq=67, prob=0.8700)
+Legislature 5 | Segment 3 -> A0-X0 (freq=66, prob=0.8500)
+Legislature 6 | Segment 1 -> A0-X0 (freq=48, prob=0.6900)
+Legislature 6 | Segment 2 -> A0-X0 (freq=52, prob=0.7300)
+Legislature 6 | Segment 3 -> A0-X0 (freq=45, prob=0.6300)
+Legislature 7 | Segment 1 -> A0-X0 (freq=44, prob=0.5000)
+Legislature 7 | Segment 2 -> A0-X0 (freq=66, prob=0.7300)
+Legislature 7 | Segment 3 -> A0-X0 (freq=57, prob=0.6300)
+Legislature 8 | Segment 1 -> A0-X0 (freq=63, prob=0.6100)
+Legislature 8 | Segment 2 -> A0-X0 (freq=59, prob=0.5600)
+Legislature 8 | Segment 3 -> A0-X0 (freq=53, prob=0.5000)
+Legislature 9 | Segment 1 -> A0-X0 (freq=63, prob=0.5100)
+Legislature 9 | Segment 2 -> A0-X0 (freq=86, prob=0.6900)
+Legislature 9 | Segment 3 -> A0-X0 (freq=68, prob=0.5400)
+Legislature 10 | Segment 1 -> A0-X0 (freq=53, prob=0.5200)
+Legislature 10 | Segment 2 -> A0-X0 (freq=56, prob=0.5400)
+Legislature 10 | Segment 3 -> A0-X0 (freq=59, prob=0.5700)
+Legislature 11 | Segment 1 -> A0-X0 (freq=60, prob=0.6600)
+Legislature 11 | Segment 2 -> A0-X0 (freq=74, prob=0.8000)
+Legislature 11 | Segment 3 -> A0-X0 (freq=71, prob=0.7600)
+Legislature 12 | Segment 1 -> A0-X0 (freq=67, prob=0.7400)
+Legislature 12 | Segment 2 -> A0-X0 (freq=57, prob=0.6200)
+Legislature 12 | Segment 3 -> A0-X0 (freq=82, prob=0.8900)
+Legislature 13 | Segment 1 -> A0-X0 (freq=64, prob=0.8000)
+Legislature 13 | Segment 2 -> A0-X0 (freq=58, prob=0.7200)
+Legislature 13 | Segment 3 -> A0-X0 (freq=72, prob=0.8900)
+Legislature 14 | Segment 1 -> A0-X0 (freq=73, prob=0.9000)
+Legislature 14 | Segment 2 -> A0-X0 (freq=81, prob=0.9800)
+Legislature 14 | Segment 3 -> A0-X0 (freq=75, prob=0.9000)
+
+================================================================================
+TOP SHIFTS BY LEGISLATURE
+================================================================================
+
+LEGISLATURE 1
+  A0-X0: freq=299, prob=0.6090, class=Turn Claiming
+  A0-XA: freq=94, prob=0.1914, class=Turn Claiming
+  AB-B0: freq=62, prob=0.1263, class=Turn Receiving
+  AB-X0: freq=24, prob=0.0489, class=Turn Usurping
+  AB-XA: freq=5, prob=0.0102, class=Turn Usurping
+  AB-A0: freq=4, prob=0.0081, class=Turn Continuing
+
+LEGISLATURE 2
+  A0-X0: freq=197, prob=0.4004, class=Turn Claiming
+  AB-BA: freq=91, prob=0.1850, class=Turn Receiving
+  A0-XA: freq=79, prob=0.1606, class=Turn Claiming
+  AB-B0: freq=50, prob=0.1016, class=Turn Receiving
+  AB-XA: freq=38, prob=0.0772, class=Turn Usurping
+  AB-X0: freq=33, prob=0.0671, class=Turn Usurping
+
+LEGISLATURE 3
+  A0-X0: freq=237, prob=0.4584, class=Turn Claiming
+  AB-BA: freq=108, prob=0.2089, class=Turn Receiving
+  A0-XA: freq=70, prob=0.1354, class=Turn Claiming
+  AB-B0: freq=55, prob=0.1064, class=Turn Receiving
+  AB-XA: freq=32, prob=0.0619, class=Turn Usurping
+  AB-X0: freq=15, prob=0.0290, class=Turn Usurping
+
+LEGISLATURE 4
+  A0-X0: freq=134, prob=0.3463, class=Turn Claiming
+  A0-XA: freq=92, prob=0.2377, class=Turn Claiming
+  AB-B0: freq=62, prob=0.1602, class=Turn Receiving
+  AB-BA: freq=52, prob=0.1344, class=Turn Receiving
+  AB-XA: freq=30, prob=0.0775, class=Turn Usurping
+  AB-X0: freq=15, prob=0.0388, class=Turn Usurping
+
+LEGISLATURE 5
+  A0-X0: freq=232, prob=0.5033, class=Turn Claiming
+  A0-XA: freq=72, prob=0.1562, class=Turn Claiming
+  AB-BA: freq=61, prob=0.1323, class=Turn Receiving
+  AB-B0: freq=38, prob=0.0824, class=Turn Receiving
+  AB-X0: freq=35, prob=0.0759, class=Turn Usurping
+  AB-XA: freq=23, prob=0.0499, class=Turn Usurping
+
+LEGISLATURE 6
+  A0-X0: freq=179, prob=0.4172, class=Turn Claiming
+  A0-XA: freq=87, prob=0.2028, class=Turn Claiming
+  AB-B0: freq=51, prob=0.1189, class=Turn Receiving
+  AB-BA: freq=51, prob=0.1189, class=Turn Receiving
+  AB-XA: freq=37, prob=0.0862, class=Turn Usurping
+  AB-X0: freq=24, prob=0.0559, class=Turn Usurping
+
+LEGISLATURE 7
+  A0-X0: freq=227, prob=0.4120, class=Turn Claiming
+  A0-XA: freq=117, prob=0.2123, class=Turn Claiming
+  AB-B0: freq=77, prob=0.1397, class=Turn Receiving
+  AB-BA: freq=55, prob=0.0998, class=Turn Receiving
+  AB-X0: freq=40, prob=0.0726, class=Turn Usurping
+  AB-XA: freq=34, prob=0.0617, class=Turn Usurping
+
+LEGISLATURE 8
+  A0-X0: freq=213, prob=0.3403, class=Turn Claiming
+  A0-XA: freq=135, prob=0.2157, class=Turn Claiming
+  AB-B0: freq=105, prob=0.1677, class=Turn Receiving
+  AB-XA: freq=72, prob=0.1150, class=Turn Usurping
+  AB-BA: freq=57, prob=0.0911, class=Turn Receiving
+  AB-X0: freq=44, prob=0.0703, class=Turn Usurping
+
+LEGISLATURE 9
+  A0-X0: freq=251, prob=0.3342, class=Turn Claiming
+  A0-XA: freq=173, prob=0.2304, class=Turn Claiming
+  AB-B0: freq=110, prob=0.1465, class=Turn Receiving
+  AB-XA: freq=99, prob=0.1318, class=Turn Usurping
+  AB-BA: freq=63, prob=0.0839, class=Turn Receiving
+  AB-X0: freq=50, prob=0.0666, class=Turn Usurping
+
+LEGISLATURE 10
+  A0-X0: freq=188, prob=0.3057, class=Turn Claiming
+  AB-XA: freq=147, prob=0.2390, class=Turn Usurping
+  A0-XA: freq=90, prob=0.1463, class=Turn Claiming
+  AB-B0: freq=82, prob=0.1333, class=Turn Receiving
+  AB-BA: freq=58, prob=0.0943, class=Turn Receiving
+  AB-X0: freq=50, prob=0.0813, class=Turn Usurping
+
+LEGISLATURE 11
+  A0-X0: freq=262, prob=0.4746, class=Turn Claiming
+  A0-XA: freq=113, prob=0.2047, class=Turn Claiming
+  AB-B0: freq=99, prob=0.1793, class=Turn Receiving
+  AB-BA: freq=49, prob=0.0888, class=Turn Receiving
+  AB-XA: freq=19, prob=0.0344, class=Turn Usurping
+  AB-X0: freq=10, prob=0.0181, class=Turn Usurping
+
+LEGISLATURE 12
+  A0-X0: freq=233, prob=0.4236, class=Turn Claiming
+  AB-XA: freq=120, prob=0.2182, class=Turn Usurping
+  A0-XA: freq=75, prob=0.1364, class=Turn Claiming
+  AB-BA: freq=54, prob=0.0982, class=Turn Receiving
+  AB-B0: freq=45, prob=0.0818, class=Turn Receiving
+  AB-X0: freq=23, prob=0.0418, class=Turn Usurping
+
+LEGISLATURE 13
+  A0-X0: freq=243, prob=0.5021, class=Turn Claiming
+  A0-XA: freq=107, prob=0.2211, class=Turn Claiming
+  AB-B0: freq=95, prob=0.1963, class=Turn Receiving
+  AB-BA: freq=16, prob=0.0331, class=Turn Receiving
+  AB-XA: freq=16, prob=0.0331, class=Turn Usurping
+  AB-X0: freq=7, prob=0.0145, class=Turn Usurping
+
+LEGISLATURE 14
+  A0-X0: freq=379, prob=0.7863, class=Turn Claiming
+  A0-XA: freq=44, prob=0.0913, class=Turn Claiming
+  AB-B0: freq=39, prob=0.0809, class=Turn Receiving
+  AB-BA: freq=8, prob=0.0166, class=Turn Receiving
+  AB-X0: freq=7, prob=0.0145, class=Turn Usurping
+  AB-XA: freq=3, prob=0.0062, class=Turn Usurping

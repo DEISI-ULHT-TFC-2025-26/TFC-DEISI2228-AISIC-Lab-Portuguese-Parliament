@@ -1,0 +1,254 @@
+ANNOTATION DISCREPANCIES REPORT
+Date: 2026-06-06
+Time: 00:48:50
+Timestamp: 2026-06-06_00-48-50
+
+Files requested for analysis: 5
+ - 03-2-073.json
+ - 04-1-061.json
+ - 05-1-011.json
+ - 12-1-100.json
+ - 14-1-001.json
+
+====================================================================================================
+FILE: 03-2-073.json
+====================================================================================================
+Utterances comuns entre os 3 ficheiros: 25
+
+DISCREPÂNCIAS EM SPEAKER (0)
+  Nenhuma discrepância em speaker.
+
+DISCREPÂNCIAS EM TARGET (0)
+  Nenhuma discrepância em target.
+
+====================================================================================================
+FILE: 04-1-061.json
+====================================================================================================
+Utterances comuns entre os 3 ficheiros: 25
+
+DISCREPÂNCIAS EM SPEAKER (4)
+  utterance_id: 4
+    human1: José Manuel Tengarrinha
+    human2: José Manuel Tengarrinha
+    LLM:    UNKNOWN_SPEAKER
+  utterance_id: 5
+    human1: José Manuel Tengarrinha
+    human2: José Manuel Tengarrinha
+    LLM:    UNKNOWN_SPEAKER
+  utterance_id: 18
+    human1: José Luís Do Amaral Nunes
+    human2: Carlos Miguel Maximiano De Almeida Coelho
+    LLM:    José Luís Do Amaral Nunes
+  utterance_id: 20
+    human1: José Luís Do Amaral Nunes
+    human2: Carlos Miguel Maximiano De Almeida Coelho
+    LLM:    José Luís Do Amaral Nunes
+
+DISCREPÂNCIAS EM TARGET (2)
+  utterance_id: 11
+    human1: António D'Orey Capucho
+    human2: Assembleia
+    LLM:    Assembleia
+  utterance_id: 19
+    human1: José Luís Do Amaral Nunes
+    human2: Carlos Miguel Maximiano De Almeida Coelho
+    LLM:    José Luís Do Amaral Nunes
+
+====================================================================================================
+FILE: 05-1-011.json
+====================================================================================================
+Utterances comuns entre os 3 ficheiros: 25
+
+DISCREPÂNCIAS EM SPEAKER (1)
+  utterance_id: 3
+    human1: Daniel Bastos
+    human2: Daniel Bastos
+    LLM:    Secretário
+
+DISCREPÂNCIAS EM TARGET (2)
+  utterance_id: 11
+    human1: José Manuel Santos De Magalhães
+    human2: José Manuel Santos De Magalhães
+    LLM:    Assembleia
+  utterance_id: 12
+    human1: Presidente
+    human2: Presidente
+    LLM:    Assembleia
+
+====================================================================================================
+FILE: 12-1-100.json
+====================================================================================================
+Utterances comuns entre os 3 ficheiros: 26
+
+DISCREPÂNCIAS EM SPEAKER (10)
+  utterance_id: 13
+    human1: Hélder Amaral
+    human2: Presidente
+    LLM:    Hélder Amaral
+  utterance_id: 15
+    human1: Carlos Zorrinho
+    human2: Pedro Filipe Soares
+    LLM:    José Carlos Das Dores Zorrinho
+  utterance_id: 16
+    human1: Vozes PSD e CDS-PP
+    human2: Presidente
+    LLM:    Vozes PSD e do CDS-PP
+  utterance_id: 17
+    human1: Carlos Zorrinho
+    human2: João Oliveira
+    LLM:    José Carlos Das Dores Zorrinho
+  utterance_id: 19
+    human1: Pedro Pinto
+    human2: Cecília Meireles
+    LLM:    Pedro Augusto Cunha Pinto
+  utterance_id: 20
+    human1: Vozes PSD
+    human2: João Pinho de Almeida
+    LLM:    Vozes PSD
+  utterance_id: 21
+    human1: Pedro Pinto
+    human2: Cecília Meireles
+    LLM:    Pedro Augusto Cunha Pinto
+  utterance_id: 23
+    human1: Presidente da República
+    human2: Inês de Sousa Real
+    LLM:    Presidente da República
+  utterance_id: 24
+    human1: Vozes PS
+    human2: Presidente
+    LLM:    Vozes PS
+  utterance_id: 25
+    human1: Presidente da República
+    human2: José Luís Teixeira Ferreira
+    LLM:    Presidente da República
+
+DISCREPÂNCIAS EM TARGET (11)
+  utterance_id: 10
+    human1: Hélder Amaral
+    human2: Presidente
+    LLM:    Hélder Amaral
+  utterance_id: 12
+    human1: Hélder Amaral
+    human2: Presidente
+    LLM:    Hélder Amaral
+  utterance_id: 15
+    human1: Primeiro-Ministro
+    human2: Presidente
+    LLM:    Assembleia
+  utterance_id: 16
+    human1: Carlos Zorrinho
+    human2: Assembleia
+    LLM:    José Carlos Das Dores Zorrinho
+  utterance_id: 17
+    human1: Assembleia
+    human2: Presidente
+    LLM:    Assembleia
+  utterance_id: 19
+    human1: Assembleia
+    human2: Presidente
+    LLM:    Assembleia
+  utterance_id: 20
+    human1: Pedro Pinto
+    human2: Cecília Meireles
+    LLM:    Pedro Augusto Cunha Pinto
+  utterance_id: 21
+    human1: Assembleia
+    human2: Presidente
+    LLM:    Assembleia
+  utterance_id: 23
+    human1: Assembleia
+    human2: Presidente
+    LLM:    Assembleia
+  utterance_id: 24
+    human1: Presidente da República
+    human2: Assembleia
+    LLM:    Presidente da República
+  utterance_id: 25
+    human1: Assembleia
+    human2: Presidente
+    LLM:    Assembleia
+
+====================================================================================================
+FILE: 14-1-001.json
+====================================================================================================
+Utterances comuns entre os 3 ficheiros: 26
+
+DISCREPÂNCIAS EM SPEAKER (7)
+  utterance_id: 3
+    human1: Duarte Pacheco
+    human2: José Luís Ferreira
+    LLM:    Secretário
+  utterance_id: 5
+    human1: Pedro Filipe Mota Delgado Simões Alves
+    human2: Cecília Honório
+    LLM:    Pedro Filipe Mota Delgado Simões Alves
+  utterance_id: 7
+    human1: Duarte Pacheco
+    human2: Agostinho Lopes
+    LLM:    Secretário
+  utterance_id: 10
+    human1: Ana Catarina Veiga Santos Mendonça Mendes
+    human2: Vozes CDS-PP
+    LLM:    Ana Catarina Veiga Santos Mendonça Mendes
+  utterance_id: 20
+    human1: João Rodrigo Pinho De AlmeidaJoão Rodrigo Pinho De Almeida
+    human2: Vozes PSD
+    LLM:    João Rodrigo Pinho De Almeida
+  utterance_id: 23
+    human1: Paula Inês Alves De Sousa Real
+    human2: Presidente da República
+    LLM:    Paula Inês Alves De Sousa Real
+  utterance_id: 24
+    human1: Presidente
+    human2: Vozes PS
+    LLM:    Presidente
+
+DISCREPÂNCIAS EM TARGET (12)
+  utterance_id: 5
+    human1: Assembleia
+    human2: Primeiro-Ministro
+    LLM:    Assembleia
+  utterance_id: 10
+    human1: Presidente
+    human2: Hélder Amaral
+    LLM:    Assembleia
+  utterance_id: 12
+    human1: Presidente
+    human2: Hélder Amaral
+    LLM:    Assembleia
+  utterance_id: 15
+    human1: Presidente
+    human2: Assembleia
+    LLM:    Assembleia
+  utterance_id: 16
+    human1: Assembleia
+    human2: Carlos Zorrinho
+    LLM:    Assembleia
+  utterance_id: 17
+    human1: Presidente
+    human2: Assembleia
+    LLM:    Assembleia
+  utterance_id: 19
+    human1: Presidente
+    human2: Assembleia
+    LLM:    Assembleia
+  utterance_id: 20
+    human1: Cecília Felgueiras De Meireles Graça
+    human2: Pedro Pinto
+    LLM:    Cecília Felgueiras De Meireles Graça
+  utterance_id: 21
+    human1: Presidente
+    human2: Assembleia
+    LLM:    Assembleia
+  utterance_id: 23
+    human1: Presidente
+    human2: Assembleia
+    LLM:    Assembleia
+  utterance_id: 24
+    human1: Assembleia
+    human2: Presidente da República
+    LLM:    Assembleia
+  utterance_id: 25
+    human1: Presidente
+    human2: Assembleia
+    LLM:    Assembleia

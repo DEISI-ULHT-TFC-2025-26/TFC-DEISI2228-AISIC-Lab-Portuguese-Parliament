@@ -1,0 +1,389 @@
+ANNOTATION AGREEMENT REPORT
+Two-annotator agreement over sample by legislature
+Date: 2026-05-07
+Time: 14:11:26
+Timestamp: 2026-05-07_14-11-26
+
+Annotation 1 folder: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/sample_by_legislature/Annotation 1
+Annotation 2 folder: /Users/gouveia_695/PycharmProjects/AISIC-Lab-Portuguese-Parliament/src/data/processed/sample_by_legislature/Annotation 2
+
+Files requested for analysis: 14
+ - 1 - 01-2-022.json
+ - 10 - 10-1-065.json
+ - 11 - 11-1-076.json
+ - 12 - 12-3-094.json
+ - 13 - 13-1-009.json
+ - 14 - 14-1-036.json
+ - 2 - 02-2-024.json
+ - 3 - 03-2-007.json
+ - 4 - 04-1-018.json
+ - 5 - 05-2-068.json
+ - 6 - 06-3-010.json
+ - 7 - 07-2-008.json
+ - 8 - 08-1-004.json
+ - 9 - 09-1-061.json
+
+Files successfully analyzed: 14
+
+================================================================================
+FIELD: SPEAKER
+================================================================================
+
+File: 1 - 01-2-022.json
+  Common items: 266
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.7782
+  Cohen's Kappa: 0.7542
+  Krippendorff's Alpha: 0.7537
+
+File: 10 - 10-1-065.json
+  Common items: 310
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.6742
+  Cohen's Kappa: 0.6557
+  Krippendorff's Alpha: 0.6546
+
+File: 11 - 11-1-076.json
+  Common items: 279
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.9749
+  Cohen's Kappa: 0.9718
+  Krippendorff's Alpha: 0.9719
+
+File: 12 - 12-3-094.json
+  Common items: 277
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.9567
+  Cohen's Kappa: 0.9522
+  Krippendorff's Alpha: 0.9523
+
+File: 13 - 13-1-009.json
+  Common items: 243
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.9712
+  Cohen's Kappa: 0.9682
+  Krippendorff's Alpha: 0.9683
+
+File: 14 - 14-1-036.json
+  Common items: 248
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 1.0000
+  Cohen's Kappa: 1.0000
+  Krippendorff's Alpha: 1.0000
+
+File: 2 - 02-2-024.json
+  Common items: 261
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.8391
+  Cohen's Kappa: 0.8123
+  Krippendorff's Alpha: 0.8124
+
+File: 3 - 03-2-007.json
+  Common items: 276
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.9493
+  Cohen's Kappa: 0.9308
+  Krippendorff's Alpha: 0.9309
+
+File: 4 - 04-1-018.json
+  Common items: 213
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.8779
+  Cohen's Kappa: 0.8518
+  Krippendorff's Alpha: 0.8520
+
+File: 5 - 05-2-068.json
+  Common items: 234
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.8333
+  Cohen's Kappa: 0.8008
+  Krippendorff's Alpha: 0.8009
+
+File: 6 - 06-3-010.json
+  Common items: 219
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.7489
+  Cohen's Kappa: 0.7240
+  Krippendorff's Alpha: 0.7233
+
+File: 7 - 07-2-008.json
+  Common items: 292
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.6986
+  Cohen's Kappa: 0.6729
+  Krippendorff's Alpha: 0.6707
+
+File: 8 - 08-1-004.json
+  Common items: 317
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.6498
+  Cohen's Kappa: 0.6296
+  Krippendorff's Alpha: 0.6278
+
+File: 9 - 09-1-061.json
+  Common items: 385
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.7247
+  Cohen's Kappa: 0.7052
+  Krippendorff's Alpha: 0.7046
+
+SUMMARY
+  Mean percent agreement: 0.8341
+  Mean Cohen's Kappa: 0.8164
+  Mean Krippendorff's Alpha: 0.8160
+
+================================================================================
+FIELD: TARGET
+================================================================================
+
+File: 1 - 01-2-022.json
+  Common items: 266
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.9436
+  Cohen's Kappa: 0.8785
+  Krippendorff's Alpha: 0.8785
+
+File: 10 - 10-1-065.json
+  Common items: 310
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.9581
+  Cohen's Kappa: 0.9114
+  Krippendorff's Alpha: 0.9116
+
+File: 11 - 11-1-076.json
+  Common items: 279
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.9821
+  Cohen's Kappa: 0.9536
+  Krippendorff's Alpha: 0.9536
+
+File: 12 - 12-3-094.json
+  Common items: 277
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.9819
+  Cohen's Kappa: 0.9177
+  Krippendorff's Alpha: 0.9178
+
+File: 13 - 13-1-009.json
+  Common items: 243
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.9835
+  Cohen's Kappa: 0.9456
+  Krippendorff's Alpha: 0.9457
+
+File: 14 - 14-1-036.json
+  Common items: 248
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.9435
+  Cohen's Kappa: 0.8224
+  Krippendorff's Alpha: 0.8227
+
+File: 2 - 02-2-024.json
+  Common items: 261
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.8927
+  Cohen's Kappa: 0.7530
+  Krippendorff's Alpha: 0.7521
+
+File: 3 - 03-2-007.json
+  Common items: 276
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.9167
+  Cohen's Kappa: 0.7159
+  Krippendorff's Alpha: 0.7145
+
+File: 4 - 04-1-018.json
+  Common items: 213
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.9531
+  Cohen's Kappa: 0.9025
+  Krippendorff's Alpha: 0.9026
+
+File: 5 - 05-2-068.json
+  Common items: 234
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.9274
+  Cohen's Kappa: 0.7868
+  Krippendorff's Alpha: 0.7867
+
+File: 6 - 06-3-010.json
+  Common items: 219
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.9772
+  Cohen's Kappa: 0.9480
+  Krippendorff's Alpha: 0.9481
+
+File: 7 - 07-2-008.json
+  Common items: 292
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.9452
+  Cohen's Kappa: 0.8754
+  Krippendorff's Alpha: 0.8755
+
+File: 8 - 08-1-004.json
+  Common items: 317
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.9811
+  Cohen's Kappa: 0.9535
+  Krippendorff's Alpha: 0.9536
+
+File: 9 - 09-1-061.json
+  Common items: 385
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.9818
+  Cohen's Kappa: 0.9618
+  Krippendorff's Alpha: 0.9618
+
+SUMMARY
+  Mean percent agreement: 0.9548
+  Mean Cohen's Kappa: 0.8804
+  Mean Krippendorff's Alpha: 0.8803
+
+================================================================================
+FIELD: JOINT
+================================================================================
+
+File: 1 - 01-2-022.json
+  Common items: 266
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.7218
+  Cohen's Kappa: 0.6953
+  Krippendorff's Alpha: 0.6947
+
+File: 10 - 10-1-065.json
+  Common items: 310
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.6452
+  Cohen's Kappa: 0.6302
+  Krippendorff's Alpha: 0.6289
+
+File: 11 - 11-1-076.json
+  Common items: 279
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.9570
+  Cohen's Kappa: 0.9520
+  Krippendorff's Alpha: 0.9520
+
+File: 12 - 12-3-094.json
+  Common items: 277
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.9422
+  Cohen's Kappa: 0.9366
+  Krippendorff's Alpha: 0.9366
+
+File: 13 - 13-1-009.json
+  Common items: 243
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.9547
+  Cohen's Kappa: 0.9503
+  Krippendorff's Alpha: 0.9504
+
+File: 14 - 14-1-036.json
+  Common items: 248
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.9435
+  Cohen's Kappa: 0.9356
+  Krippendorff's Alpha: 0.9357
+
+File: 2 - 02-2-024.json
+  Common items: 261
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.7318
+  Cohen's Kappa: 0.6900
+  Krippendorff's Alpha: 0.6901
+
+File: 3 - 03-2-007.json
+  Common items: 276
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.8696
+  Cohen's Kappa: 0.8265
+  Krippendorff's Alpha: 0.8267
+
+File: 4 - 04-1-018.json
+  Common items: 213
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.8357
+  Cohen's Kappa: 0.8025
+  Krippendorff's Alpha: 0.8028
+
+File: 5 - 05-2-068.json
+  Common items: 234
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.7607
+  Cohen's Kappa: 0.7205
+  Krippendorff's Alpha: 0.7206
+
+File: 6 - 06-3-010.json
+  Common items: 219
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.7352
+  Cohen's Kappa: 0.7122
+  Krippendorff's Alpha: 0.7115
+
+File: 7 - 07-2-008.json
+  Common items: 292
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.6815
+  Cohen's Kappa: 0.6598
+  Krippendorff's Alpha: 0.6581
+
+File: 8 - 08-1-004.json
+  Common items: 317
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.6404
+  Cohen's Kappa: 0.6243
+  Krippendorff's Alpha: 0.6227
+
+File: 9 - 09-1-061.json
+  Common items: 385
+  Items only in Annotation 1: 0
+  Items only in Annotation 2: 0
+  Percent agreement: 0.7091
+  Cohen's Kappa: 0.6918
+  Krippendorff's Alpha: 0.6914
+
+SUMMARY
+  Mean percent agreement: 0.7949
+  Mean Cohen's Kappa: 0.7734
+  Mean Krippendorff's Alpha: 0.7730
